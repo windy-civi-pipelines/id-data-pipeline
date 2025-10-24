@@ -1,0 +1,408 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 216
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO VITAL STATISTICS; AMENDING SECTION 39-250, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING THE COMPLETION AND CORRECTION OF CERTIFICATES AND
+4 TO DEFINE TERMS; AMENDING SECTION 39-278, IDAHO CODE, TO PROVIDE A COR-
+5 RECT CODE REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 39-250, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 39-250. COMPLETION, AND CORRECTION, AND AMENDMENT OF CERTIFICATES --
+11 PROCEDURE -- OTHER ALTERATIONS PROHIBITED. (1) A certificate of any event
+12 shall be completed, corrected, amended or otherwise altered after being
+13 filed with the vital statistics unit only in accordance with this chapter and
+14 rules promulgated by the board.
+15 (2) For the purposes of this section:
+16 (a) "Amended" refers to a change in legal facts.
+17 (b) "Completed" refers to the addition of a material fact to an area of a
+18 certificate that was previously left blank.
+19 (c) "Corrected" refers to the replacement of previously entered incor-
+20 rect information with correct information following the receipt of au-
+21 thoritative documentation of a material fact.
+22 (d) "Legal facts" means facts that are not material facts as described
+23 in section 39-245A(2), Idaho Code, and are the result of a legally bind-
+24 ing decision or process.
+25 (3) A certificate that is completed or corrected shall not be marked
+26 "amended" and shall not contain markings identifying the specific comple-
+27 tion or correction. A completed or corrected certificate shall be identi-
+28 fied on the face of the certificate with a C1, C2, et seq., corresponding to
+29 the number of completions or corrections, and the evidence submitted to doc-
+30 ument the material fact that was completed or corrected shall be made part of
+31 the record kept in the office of the registrar.
+32 (1) (4) A certificate that is amended under the provisions of this sec-
+33 tion shall be marked "amended," except as otherwise provided in this sec-
+34 tion. The date of amendment and a summary description of the evidence sub-
+35 mitted in support of the amendment shall be filed with or made a part of the
+36 record. The department shall prescribe by rule the conditions under which
+37 additions or minor corrections may be made to certificates or records within
+38 one (1) year after the date of the event without the certificate being marked
+39 "amended."
+40 (2) (5) Upon receipt of a notarized voluntary acknowledgment of pater-
+41 nity, the state registrar shall amend the certificate of birth to show such
+42 paternity if paternity is not already shown on the certificate of birth, and
+2
+1 change the child's surname to that of the father, if both parents so request.
+2 Such certificate shall not be marked "amended."
+3 (3) (6) Upon receipt of both a notarized affidavit of nonpaternity
+4 signed by the husband attesting that he is not the father, and a notarized
+5 acknowledgment of paternity signed by the mother and the alleged father
+6 attesting that the alleged father is the father, the state registrar shall
+7 amend the certificate of birth to show such paternity, and change the child's
+8 name, if so requested by the mother and the alleged father. Such certificate
+9 shall not be marked "amended."
+10 (4) (7) Upon receipt of a certified copy of an order of a court of compe-
+11 tent jurisdiction changing the name of a person born in this state and upon
+12 request of such person or the parent(s), guardian, or legal representative,
+13 the state registrar shall amend the certificate of birth to show the new
+14 name.
+15 (5) (8) When an applicant does not submit the minimum documentation re-
+16 quired in the rules for amending a vital record in a manner otherwise per-
+17 mitted by rule, or when the state registrar has reasonable cause to question
+18 the validity or adequacy of the applicant's sworn statements or the documen-
+19 tary evidence, and if the deficiencies are not corrected, the state regis-
+20 trar shall not amend the vital record and shall advise the applicant of the
+21 reason for this action and shall further advise the applicant of the right
+22 to petition a court of competent jurisdiction for an order establishing the
+23 facts necessary to make the requested amendment.
+24 (6) (9) If an acknowledgment of paternity or affidavit of nonpaternity
+25 is rescinded pursuant to section 7-1106, Idaho Code, and the certificate of
+26 birth had been prepared or amended in accordance with the acknowledgment,
+27 the state registrar shall not release any copies of the certificate of birth
+28 except as required for a legal proceeding until a court order determining pa-
+29 ternity has been provided to the state registrar. If the mother was married
+30 at the time of either conception or birth, or between conception and birth,
+31 the court shall also determine if the husband is the father of the child.
+32 SECTION 2. That Section 39-278, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 39-278. PROCEDURE FOR DELAYED REGISTRATION OR AMENDMENT OF VITAL
+35 RECORD. (1) Following exhaustion of any administrative procedures or reme-
+36 dies provided by this chapter or by department rule, if an applicant has been
+37 denied a request to amend a vital record as provided by section 39-250(5)(8),
+38 Idaho Code, or because the item for which an amendment is sought has already
+39 been once administratively denied, or if a delayed registration is rejected,
+40 including as provided in section 39-267, Idaho Code, the applicant may
+41 petition a court of competent jurisdiction of this state for an order estab-
+42 lishing the facts necessary to establish or amend a vital record as provided
+43 in this section.
+44 (2) The petition must be verified and must allege at least:
+45 (a) If the petition is for a delayed registration of birth:
+46 (i) That the person for whom the delayed certificate is requested
+47 was born in this state;
+48 (ii) That the person's birth is not registered in another state or
+49 country;
+3
+1 (iii) That a record for the person's birth cannot be found in the
+2 state's vital records;
+3 (iv) That despite diligent efforts the petitioner was unable to
+4 obtain the information and evidentiary documents required for the
+5 creation and registration of a delayed certificate of birth;
+6 (v) That the state registrar has issued a final rejection of the
+7 application for a delayed certificate of birth; and
+8 (vi) The following information:
+9 1. The original full name and sex of the registrant;
+10 2. The date of birth and place of birth, including the:
+11 (A) Facility;
+12 (B) City, town or location;
+13 (C) County; and
+14 3. The full maiden name of the mother; and
+15 4. The full name of the father, unless the registrant was
+16 born out of wedlock.
+17 (b) If the petition is for a delayed registration of death or still-
+18 birth:
+19 (i) That the person for whom the delayed certificate is requested
+20 died in this state;
+21 (ii) That the person's death is not registered in another state or
+22 country;
+23 (iii) That a record for the person's death cannot be found in the
+24 state's vital records;
+25 (iv) That despite diligent efforts the petitioner was unable to
+26 obtain the information and evidentiary documents required for the
+27 creation and registration of a delayed certificate of death;
+28 (v) That the state registrar has issued a final rejection of the
+29 application for a delayed certificate of death; and
+30 (vi) The following information:
+31 1. The full name and sex of the deceased;
+32 2. The date and place of death, including the:
+33 (A) Facility;
+34 (B) City, town or location;
+35 (C) County; and
+36 3. For a stillbirth:
+37 (A) The full maiden name of the mother; and
+38 (B) The full name of the father, unless the mother was
+39 not married.
+40 (c) If the petition is for another amendment to a vital record, in a man-
+41 ner otherwise permitted by department rule:
+42 (i) The identity of the record registered with the state reg-
+43 istrar and the item in the record the petitioner requests to be
+44 amended;
+45 (ii) The change requested and the purpose of the amendment;
+46 (iii) The rule under which the amendment is otherwise permitted;
+47 and
+48 (iv) That the state registrar has issued a final rejection of the
+49 application for the requested amendment and the reason for the re-
+50 jection.
+4
+1 (3) The petitioner must attach all evidentiary documents presented to
+2 the registrar and the written final letter of denial or rejection from the
+3 registrar.
+4 (4) The petitioner must provide a complete copy of the petition, to-
+5 gether with notice of the date, time and place of the hearing, by mailing a
+6 copy thereof at least fourteen (14) days before the time set for the hearing,
+7 by certified, registered or ordinary first class mail, to the state regis-
+8 trar at the address given in the written final letter of denial or rejection.
+9 The state registrar or an authorized representative may appear and present
+10 evidence at the hearing.
+11 (5) If the court finds from the evidence presented that:
+12 (a) The person for whom a delayed certificate of birth is requested was
+13 born in this state, it shall make findings as to:
+14 (i) The original full name and sex of the registrant;
+15 (ii) The date of birth and place of birth, including the:
+16 1. Facility;
+17 2. City, town or location;
+18 3. County; and
+19 (iii) The full maiden name of the mother; and
+20 (iv) The full name of the father, unless the registrant was born
+21 out of wedlock.
+22 (b) The person for whom a delayed certificate of death is requested died
+23 in this state, it shall make findings as to:
+24 (i) The full name and sex of the deceased; and
+25 (ii) The date and place of death, including the:
+26 1. Facility;
+27 2. City, town or location; and
+28 3. County.
+29 (c) The person requesting any other amendment to a vital record in a
+30 manner otherwise permitted by department rule has established the facts
+31 necessary for the amendment and the amendment is otherwise appropri-
+32 ate, it shall make an order amending the item in the vital record as
+33 requested.
+34 (6) The order of the court shall include a description of the evidence
+35 presented and the date of the court's action.
+36 (7) The order of the court shall not alter the fees otherwise required
+37 by the registrar for the requested amendment, or the time frames otherwise
+38 provided for the registrar to administratively establish or make the amend-
+39 ment requested.
+40 SECTION 3. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOVLS;AGSN3,IOC,TORSRGTECNADCNOFCSAODET;AGSN3,IOC,TOPEACTCER;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.C,ADC,ADATOFCS-E--ORASP.()Aceofayelbec,c,adoroeadarbdwhtevlssutoyinaewhtscraspdbyteb)Frtepsoftss)""rstoaceinllf)""rstoteanofamlfttoanaaofettwspyltb)""rstotertofpyeditinwhctinfgtertofaednofamlf)"lf"msfsttaentmlfsasdnsn3,IoC,adaetertofalybgdnorp)Acettiscdorcdslntbem"adslntcnmsigtesccnorc.AcdorcdceslbeidontefeoftecewhaC,C,ets,cgtenrofcsorc,adteeesdtodttemlftttwscdorcdslbemeptoerdktinteoeofter)()Acettisadurtepsoftssnslbemd""etasoepdintss.Tedeofatadasydnofteeesdinstofteatslbefdwhormeaptoft.Tedtslpebyretecsurwsormrcsmybemetocsorrswe()yrartedeofteetwttecebgm)()Unrtofandvyatofp,teserrsladteceofbhtoswsyifpyisntaysnonteceofb,a]
+[DELETED: etecssetottoftef,ifbhpssorhceslntbemd")()Unrtofbhandatofndbytehdagttheisnttef,adantofpysdbytemradteadfgttteadfristef,teserrsdteceofbhtoswshp,adcetec,ifsordbytemradteadf.Shclntbemd")()Unrtofacdcyofanorofactofctjncgteneofapnbnintsseadutofshpnortep,g,orllreserrsladteceofbhtoswten)()Wnanatdsntsttemmdnrdintersfragavlrdinamroepdbyr,orwnteserrhsrecetoqevyorayofteassnssortedye,adiftedsaentc,teserrslntadtevlrdadslaeteatoftnfrtsanadslfraeteatofteropnactofctjnfranoregtsnytometerda)()Ifanatofpyoratofnsrdpttosn7,IoC,adteceohhdbnpdoradinaewhteaeserrslntreaycsofteceofbtasrdfrallpgulactordgpyhsbnpdtoteser.Iftemrwsmtteteofercnorb,orbncnadbectslaodeiftehdistefroftecN2.TtSn3,IoC,b,adteseishdtordasf.PEFRDDRNORATOFV.()Fgenofayaepsorrspdbytscrorbydtr,ifanathsbdarttoadavlrdaspdbysn3oC,orbeteimfrwhanatissthsanoeayd,orifaddrnisrgaspdinsn3,IoC,teatmnactofctjnoftssefranoregtefsnytoehoradavlrdaspntss)Tepnmtbevdadmtaeatl)Iftepnisfraddrnofb)Tttepnfrwmteddceisrsbnintss)Tttepsbhisntrdinarseo]
+[DELETED: )Ttardfrtepsbhctbefdintsvlr)Ttdedtesteprwsuetnteinadeydsrdfrtnadrnofaddceofb)Ttteserrhsidaflrnoftnfraddceofb;a)Tefgi.Teolflneadsxofter.Tedeofbhadpeofb,igt)F)C,tnorl)C;a.Teflmnneoftem;a.Teflneoftef,ustertwnotofw)Iftepnisfraddrnofdhors)Tttepnfrwmteddceisrdintss)Tttepsdhisntrdinarseo)Ttardfrtepsdhctbefdintsvlr)Ttdedtesteprwsuetnteinadeydsrdfrtnadrnofaddceofd)Ttteserrhsidaflrnoftnfraddceofd;a)Tefgi.Teflneadsxofted.Tedeadpeofd,igt)F)C,tnorl)C;a.Fras)Teflmnneoftem;a)Teflneoftef,ustemrwtm)Iftepnisfrarattoavlr,inamroepdbydtr)Teiyofterdrdwhteserradteiminterdteprrstob)Tecerdadtepeoftea)Tereurwhteatisoep)Ttteserrhsidaflrnoftnfrterdatadternfrter]
+[DELETED: )Teprmtahaleydspdterradtewnfllrofdlorrnfmt)Teprmtpeacecyoftep,trwhneofted,teadpeofteh,bymgytfatltfn()dsbetetestfrtehyc,rdoroyftcsm,toteserratteasgnintewnfllrofdlorreserroranadremyaradpeatteh)Iftectfsfmteeepdt)Tepnfrwmaddceofbhisrdwnintss,itslmefsast)Teolflneadsxofter)Tedeofbhadpeofb,igt.F.C,tnorl.C;a)Teflmnneoftem;a)Teflneoftef,ustertwsbtofw)Tepnfrwmaddceofdhisrddntss,itslmefsast)Teflneadsxofted;a)Tedeadpeofd,igt.F.C,tnorl;a.C)Tepnrgayorattoavlrdinroepdbydtrehsedtefyfrteatadteatisoea,itslmeanoragteimintevlrda)Teoroftectslieadnofteedadtedeoftecsa)Teoroftectslntartefsoeryterrfrterda,ortetefsodfrterrtoayehormeteatrN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 216
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO VITAL STATISTICS; AMENDING SECTION 39-250, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING THE COMPLETION AND CORRECTION OF CERTIFICATES AND
+4 TO DEFINE TERMS; AMENDING SECTION 39-278, IDAHO CODE, TO PROVIDE A COR-
+5 RECT CODE REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 39-250, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 39-250. COMPLETION, AND CORRECTION, AND AMENDMENT OF CERTIFICATES --
+11 PROCEDURE -- OTHER ALTERATIONS PROHIBITED. (1) A certificate of any event
+12 shall be completed, corrected, amended or otherwise altered after being
+13 filed with the vital statistics unit only in accordance with this chapter and
+14 rules promulgated by the board.
+15 (2) For the purposes of this section:
+16 (a) "Amended" refers to a change in legal facts.
+17 (b) "Completed" refers to the addition of a material fact to an area of a
+18 certificate that was previously left blank.
+19 (c) "Corrected" refers to the replacement of previously entered incor-
+20 rect information with correct information following the receipt of au-
+21 thoritative documentation of a material fact.
+22 (d) "Legal facts" means facts that are not material facts as described
+23 in section 39-245A(2), Idaho Code, and are the result of a legally bind-
+24 ing decision or process.
+25 (3) A certificate that is completed or corrected shall not be marked
+26 "amended" and shall not contain markings identifying the specific comple-
+27 tion or correction. A completed or corrected certificate shall be identi-
+28 fied on the face of the certificate with a C1, C2, et seq., corresponding to
+29 the number of completions or corrections, and the evidence submitted to doc-
+30 ument the material fact that was completed or corrected shall be made part of
+31 the record kept in the office of the registrar.
+32 (1) (4) A certificate that is amended under the provisions of this sec-
+33 tion shall be marked "amended," except as otherwise provided in this sec-
+34 tion. The date of amendment and a summary description of the evidence sub-
+35 mitted in support of the amendment shall be filed with or made a part of the
+36 record. The department shall prescribe by rule the conditions under which
+37 additions or minor corrections may be made to certificates or records within
+38 one (1) year after the date of the event without the certificate being marked
+39 "amended."
+40 (2) (5) Upon receipt of a notarized voluntary acknowledgment of pater-
+41 nity, the state registrar shall amend the certificate of birth to show such
+42 paternity if paternity is not already shown on the certificate of birth, and
+
+2
+1 change the child's surname to that of the father, if both parents so request.
+2 Such certificate shall not be marked "amended."
+3 (3) (6) Upon receipt of both a notarized affidavit of nonpaternity
+4 signed by the husband attesting that he is not the father, and a notarized
+5 acknowledgment of paternity signed by the mother and the alleged father
+6 attesting that the alleged father is the father, the state registrar shall
+7 amend the certificate of birth to show such paternity, and change the child's
+8 name, if so requested by the mother and the alleged father. Such certificate
+9 shall not be marked "amended."
+10 (4) (7) Upon receipt of a certified copy of an order of a court of compe-
+11 tent jurisdiction changing the name of a person born in this state and upon
+12 request of such person or the parent(s), guardian, or legal representative,
+13 the state registrar shall amend the certificate of birth to show the new
+14 name.
+15 (5) (8) When an applicant does not submit the minimum documentation re-
+16 quired in the rules for amending a vital record in a manner otherwise per-
+17 mitted by rule, or when the state registrar has reasonable cause to question
+18 the validity or adequacy of the applicant's sworn statements or the documen-
+19 tary evidence, and if the deficiencies are not corrected, the state regis-
+20 trar shall not amend the vital record and shall advise the applicant of the
+21 reason for this action and shall further advise the applicant of the right
+22 to petition a court of competent jurisdiction for an order establishing the
+23 facts necessary to make the requested amendment.
+24 (6) (9) If an acknowledgment of paternity or affidavit of nonpaternity
+25 is rescinded pursuant to section 7-1106, Idaho Code, and the certificate of
+26 birth had been prepared or amended in accordance with the acknowledgment,
+27 the state registrar shall not release any copies of the certificate of birth
+28 except as required for a legal proceeding until a court order determining pa-
+29 ternity has been provided to the state registrar. If the mother was married
+30 at the time of either conception or birth, or between conception and birth,
+31 the court shall also determine if the husband is the father of the child.
+32 SECTION 2. That Section 39-278, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 39-278. PROCEDURE FOR DELAYED REGISTRATION OR AMENDMENT OF VITAL
+35 RECORD. (1) Following exhaustion of any administrative procedures or reme-
+36 dies provided by this chapter or by department rule, if an applicant has been
+37 denied a request to amend a vital record as provided by section 39-250(5)(8),
+38 Idaho Code, or because the item for which an amendment is sought has already
+39 been once administratively denied, or if a delayed registration is rejected,
+40 including as provided in section 39-267, Idaho Code, the applicant may
+41 petition a court of competent jurisdiction of this state for an order estab-
+42 lishing the facts necessary to establish or amend a vital record as provided
+43 in this section.
+44 (2) The petition must be verified and must allege at least:
+45 (a) If the petition is for a delayed registration of birth:
+46 (i) That the person for whom the delayed certificate is requested
+47 was born in this state;
+48 (ii) That the person's birth is not registered in another state or
+49 country;
+
+3
+1 (iii) That a record for the person's birth cannot be found in the
+2 state's vital records;
+3 (iv) That despite diligent efforts the petitioner was unable to
+4 obtain the information and evidentiary documents required for the
+5 creation and registration of a delayed certificate of birth;
+6 (v) That the state registrar has issued a final rejection of the
+7 application for a delayed certificate of birth; and
+8 (vi) The following information:
+9 1. The original full name and sex of the registrant;
+10 2. The date of birth and place of birth, including the:
+11 (A) Facility;
+12 (B) City, town or location;
+13 (C) County; and
+14 3. The full maiden name of the mother; and
+15 4. The full name of the father, unless the registrant was
+16 born out of wedlock.
+17 (b) If the petition is for a delayed registration of death or still-
+18 birth:
+19 (i) That the person for whom the delayed certificate is requested
+20 died in this state;
+21 (ii) That the person's death is not registered in another state or
+22 country;
+23 (iii) That a record for the person's death cannot be found in the
+24 state's vital records;
+25 (iv) That despite diligent efforts the petitioner was unable to
+26 obtain the information and evidentiary documents required for the
+27 creation and registration of a delayed certificate of death;
+28 (v) That the state registrar has issued a final rejection of the
+29 application for a delayed certificate of death; and
+30 (vi) The following information:
+31 1. The full name and sex of the deceased;
+32 2. The date and place of death, including the:
+33 (A) Facility;
+34 (B) City, town or location;
+35 (C) County; and
+36 3. For a stillbirth:
+37 (A) The full maiden name of the mother; and
+38 (B) The full name of the father, unless the mother was
+39 not married.
+40 (c) If the petition is for another amendment to a vital record, in a man-
+41 ner otherwise permitted by department rule:
+42 (i) The identity of the record registered with the state reg-
+43 istrar and the item in the record the petitioner requests to be
+44 amended;
+45 (ii) The change requested and the purpose of the amendment;
+46 (iii) The rule under which the amendment is otherwise permitted;
+47 and
+48 (iv) That the state registrar has issued a final rejection of the
+49 application for the requested amendment and the reason for the re-
+50 jection.
+
+4
+1 (3) The petitioner must attach all evidentiary documents presented to
+2 the registrar and the written final letter of denial or rejection from the
+3 registrar.
+4 (4) The petitioner must provide a complete copy of the petition, to-
+5 gether with notice of the date, time and place of the hearing, by mailing a
+6 copy thereof at least fourteen (14) days before the time set for the hearing,
+7 by certified, registered or ordinary first class mail, to the state regis-
+8 trar at the address given in the written final letter of denial or rejection.
+9 The state registrar or an authorized representative may appear and present
+10 evidence at the hearing.
+11 (5) If the court finds from the evidence presented that:
+12 (a) The person for whom a delayed certificate of birth is requested was
+13 born in this state, it shall make findings as to:
+14 (i) The original full name and sex of the registrant;
+15 (ii) The date of birth and place of birth, including the:
+16 1. Facility;
+17 2. City, town or location;
+18 3. County; and
+19 (iii) The full maiden name of the mother; and
+20 (iv) The full name of the father, unless the registrant was born
+21 out of wedlock.
+22 (b) The person for whom a delayed certificate of death is requested died
+23 in this state, it shall make findings as to:
+24 (i) The full name and sex of the deceased; and
+25 (ii) The date and place of death, including the:
+26 1. Facility;
+27 2. City, town or location; and
+28 3. County.
+29 (c) The person requesting any other amendment to a vital record in a
+30 manner otherwise permitted by department rule has established the facts
+31 necessary for the amendment and the amendment is otherwise appropri-
+32 ate, it shall make an order amending the item in the vital record as
+33 requested.
+34 (6) The order of the court shall include a description of the evidence
+35 presented and the date of the court's action.
+36 (7) The order of the court shall not alter the fees otherwise required
+37 by the registrar for the requested amendment, or the time frames otherwise
+38 provided for the registrar to administratively establish or make the amend-
+39 ment requested.
+40 SECTION 3. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOVLS;AGSN3,IOC,TORSRGTECNADCNOFCSAODET;AGSN3,IOC,TOPEACTCER;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.C,ADC,ADATOFCS-E--ORASP.()Aceofayelbec,c,adoroeadarbdwhtevlssutoyinaewhtscraspdbyteb)Frtepsoftss)""rstoaceinllf)""rstoteanofamlfttoanaaofettwspyltb)""rstotertofpyeditinwhctinfgtertofaednofamlf)"lf"msfsttaentmlfsasdnsn3,IoC,adaetertofalybgdnorp)Acettiscdorcdslntbem"adslntcnmsigtesccnorc.AcdorcdceslbeidontefeoftecewhaC,C,ets,cgtenrofcsorc,adteeesdtodttemlftttwscdorcdslbemeptoerdktinteoeofter)()Acettisadurtepsoftssnslbemd""etasoepdintss.Tedeofatadasydnofteeesdinstofteatslbefdwhormeaptoft.Tedtslpebyretecsurwsormrcsmybemetocsorrswe()yrartedeofteetwttecebgm)()Unrtofandvyatofp,teserrsladteceofbhtoswsyifpyisntaysnonteceofb,a]
+[DELETED: etecssetottoftef,ifbhpssorhceslntbemd")()Unrtofbhandatofndbytehdagttheisnttef,adantofpysdbytemradteadfgttteadfristef,teserrsdteceofbhtoswshp,adcetec,ifsordbytemradteadf.Shclntbemd")()Unrtofacdcyofanorofactofctjncgteneofapnbnintsseadutofshpnortep,g,orllreserrsladteceofbhtoswten)()Wnanatdsntsttemmdnrdintersfragavlrdinamroepdbyr,orwnteserrhsrecetoqevyorayofteassnssortedye,adiftedsaentc,teserrslntadtevlrdadslaeteatoftnfrtsanadslfraeteatofteropnactofctjnfranoregtsnytometerda)()Ifanatofpyoratofnsrdpttosn7,IoC,adteceohhdbnpdoradinaewhteaeserrslntreaycsofteceofbtasrdfrallpgulactordgpyhsbnpdtoteser.Iftemrwsmtteteofercnorb,orbncnadbectslaodeiftehdistefroftecN2.TtSn3,IoC,b,adteseishdtordasf.PEFRDDRNORATOFV.()Fgenofayaepsorrspdbytscrorbydtr,ifanathsbdarttoadavlrdaspdbysn3oC,orbeteimfrwhanatissthsanoeayd,orifaddrnisrgaspdinsn3,IoC,teatmnactofctjnoftssefranoregtefsnytoehoradavlrdaspntss)Tepnmtbevdadmtaeatl)Iftepnisfraddrnofb)Tttepnfrwmteddceisrsbnintss)Tttepsbhisntrdinarseo]
+[DELETED: )Ttardfrtepsbhctbefdintsvlr)Ttdedtesteprwsuetnteinadeydsrdfrtnadrnofaddceofb)Ttteserrhsidaflrnoftnfraddceofb;a)Tefgi.Teolflneadsxofter.Tedeofbhadpeofb,igt)F)C,tnorl)C;a.Teflmnneoftem;a.Teflneoftef,ustertwnotofw)Iftepnisfraddrnofdhors)Tttepnfrwmteddceisrdintss)Tttepsdhisntrdinarseo)Ttardfrtepsdhctbefdintsvlr)Ttdedtesteprwsuetnteinadeydsrdfrtnadrnofaddceofd)Ttteserrhsidaflrnoftnfraddceofd;a)Tefgi.Teflneadsxofted.Tedeadpeofd,igt)F)C,tnorl)C;a.Fras)Teflmnneoftem;a)Teflneoftef,ustemrwtm)Iftepnisfrarattoavlr,inamroepdbydtr)Teiyofterdrdwhteserradteiminterdteprrstob)Tecerdadtepeoftea)Tereurwhteatisoep)Ttteserrhsidaflrnoftnfrterdatadternfrter]
+[DELETED: )Teprmtahaleydspdterradtewnfllrofdlorrnfmt)Teprmtpeacecyoftep,trwhneofted,teadpeofteh,bymgytfatltfn()dsbetetestfrtehyc,rdoroyftcsm,toteserratteasgnintewnfllrofdlorreserroranadremyaradpeatteh)Iftectfsfmteeepdt)Tepnfrwmaddceofbhisrdwnintss,itslmefsast)Teolflneadsxofter)Tedeofbhadpeofb,igt.F.C,tnorl.C;a)Teflmnneoftem;a)Teflneoftef,ustertwsbtofw)Tepnfrwmaddceofdhisrddntss,itslmefsast)Teflneadsxofted;a)Tedeadpeofd,igt.F.C,tnorl;a.C)Tepnrgayorattoavlrdinroepdbydtrehsedtefyfrteatadteatisoea,itslmeanoragteimintevlrda)Teoroftectslieadnofteedadtedeoftecsa)Teoroftectslntartefsoeryterrfrterda,ortetefsodfrterrtoayehormeteatrN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

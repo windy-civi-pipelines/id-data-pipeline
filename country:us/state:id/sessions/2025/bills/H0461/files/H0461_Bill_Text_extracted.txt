@@ -1,0 +1,525 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 461
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 72-1204, IDAHO CODE, TO DEFINE
+3 TERMS AND TO REVISE DEFINITIONS; AMENDING SECTION 72-1205, IDAHO CODE,
+4 TO REVISE PROVISIONS REGARDING THE IDAHO LAUNCH GRANT PROGRAM; AMEND-
+5 ING SECTION 72-1206, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+6 IN-DEMAND CAREERS FUND; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 72-1204, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 72-1204. IDAHO LAUNCH GRANT PROGRAM AND IN-DEMAND CAREERS FUND -- DEF-
+12 INITIONS. (1) As used in this section through section 72-1206, Idaho Code:
+13 (a) "Advisory board" means the Idaho launch grant program advisory
+14 board established in this chapter.
+15 (a) (b) "Board" means the state board of education.
+16 (b) "Council" means the workforce development council established in
+17 this chapter.
+18 (c) "Eligible adult learner" means an Idaho resident who is pursuing
+19 education or training for an in-demand career.
+20 (d) "Eligible coursework" means courses or training necessary for the
+21 completion of a participant's declared in-demand career. Beginning
+22 with the spring 2026 graduating class, eligible coursework shall mean
+23 only the education, certification, or training necessary for the com-
+24 pletion of a participant's declared in-demand career:
+25 (i) Requiring no more than an associate degree;
+26 (ii) Requiring a certificate or training of two (2) years of full-
+27 time equivalent time or less;
+28 (iii) Requiring an apprenticeship in the trades; or
+29 (iv) That is a health care, engineering, or information technol-
+30 ogy career that does not require a postbaccalaureate degree.
+31 (e) "Eligible education expenses" means student tuition and fees at an
+32 eligible institution for eligible coursework; however, in no case shall
+33 the council advisory board reimburse more than eighty percent (80%) of
+34 a program's total tuition and fees or more than eight thousand dollars
+35 ($8,000), whichever is less.
+36 (f) "Eligible institution" means a training provider as recognized by
+37 the council under the workforce innovation and opportunity act or the
+38 workforce development training fund advisory board. Eligible institu-
+39 tion also means a community college established pursuant to the provi-
+40 sions of chapter 21, title 33, Idaho Code. Eligible institutions shall
+41 comply with the provisions of section 33-138, Idaho Code, related to
+42 dignity and nondiscrimination in public education, provided that any
+2
+1 provisions relating to religion shall not apply to parochial institu-
+2 tions. Eligible institutions shall also comply with the provisions of
+3 section 67-5909C, Idaho Code, relating to diversity statements in pub-
+4 lic postsecondary education.
+5 (g) "Eligible student" means a student who:
+6 (i) Is an Idaho resident;
+7 (ii) Will graduate from an accredited high school or its equiva-
+8 lent in Idaho as determined by the board beginning with the spring
+9 2024 graduating class;
+10 (iii) Has enrolled in or applied to an eligible institution and be-
+11 gins enrollment in the fall semester following graduation, unless
+12 the council executive director grants an extension for extenuat-
+13 ing circumstances such as those outlined as provided in section
+14 72-1205, Idaho Code; and
+15 (iv) Has used next steps Idaho or an equivalent career exploration
+16 program accepted by the council advisory board and has completed
+17 a career pathway plan that meets the minimum requirements estab-
+18 lished by the council advisory board.
+19 (h) "Executive director" means the executive director of the workforce
+20 development council pursuant to section 72-1201, Idaho Code.
+21 (h) (i) "Grant" means an amount to be determined by the council advisory
+22 board that shall not exceed eight thousand dollars ($8,000) per eligi-
+23 ble student.
+24 (i) (j) "Grant distribution platform" means a digital platform through
+25 which grant funds are transferred from the council by the executive di-
+26 rector to the account of a participant to be used for eligible education
+27 expenses.
+28 (j) (k) "In-demand careers" means careers that have a positive economic
+29 output for the state of Idaho and increase economic mobility for the
+30 people of Idaho. Factors including but not limited to the number of job
+31 openings, the rate of job growth, and the length of the training program
+32 shall be incorporated to create a matrix of careers and training pro-
+33 grams that align to in-demand careers. Careers that require a postbac-
+34 calaureate degree for entry into the profession shall not be included
+35 in the matrix or as an in-demand career include the careers determined
+36 by the advisory board criteria pursuant to section 72-1205(2)(b), Idaho
+37 Code.
+38 (k) (l) "Participant" means an Idaho resident for whom a grant is
+39 awarded under section 72-1205, Idaho Code, and who has met the minimum
+40 academic standards of, and has been accepted into, an eligible institu-
+41 tion.
+42 (l) (m) "Program" means the Idaho launch grant program established by
+43 section 72-1205, Idaho Code.
+44 (m) (n) "Resident" means an individual meeting legal residency re-
+45 quirements as defined in section 33-3717B, Idaho Code.
+46 (2) The provisions of this section shall be null, void, and of no force
+47 and effect on and after July 1, 2029.
+48 SECTION 2. That Section 72-1205, Idaho Code, be, and the same is hereby
+49 amended to read as follows:
+3
+1 72-1205. IDAHO LAUNCH GRANT PROGRAM. (1) There is hereby established
+2 the Idaho launch grant program to be administered by the council executive
+3 director according to the provisions of this section. There is also hereby
+4 established the Idaho launch grant program advisory board that shall ensure
+5 the efficient administration of the program. The purpose of the program is
+6 to provide education grants for eligible students.
+7 (2)(a) The advisory board shall consist of three (3) members of the
+8 house of representatives appointed by the speaker of the house of repre-
+9 sentatives, three (3) members of the senate appointed by the president
+10 pro tempore of the senate, and three (3) members of the public appointed
+11 by the governor.
+12 (b) The advisory board shall select the criteria that will be used to
+13 determine in-demand careers by considering:
+14 (i) Careers that have a positive economic output for the state of
+15 Idaho and that increase economic mobility for the people of Idaho;
+16 and
+17 (ii) Factors including but not limited to the number of job open-
+18 ings, the rate of job growth, the median salary or wage for a career
+19 that is in the top three (3) highest quartiles for Idaho salaries
+20 and wages, and the length of training programs. These factors
+21 shall be incorporated to create a matrix of careers and training
+22 programs that align to in-demand careers. Careers that require a
+23 postbaccalaureate degree for entry into the profession shall not
+24 be included in the matrix or as an in-demand career.
+25 (c) The advisory board shall submit a report with any recommenda-
+26 tions for improving the efficiency of the program to the legislature by
+27 September 1 of each year.
+28 (2) (3) In order to administer the program, the council executive di-
+29 rector shall consult with any necessary agencies to:
+30 (a) Create and administer, or designate a third party to create and ad-
+31 minister, a grant distribution platform;
+32 (b) Establish a grant application process for eligible students. To
+33 ensure eligible students receive notification prior to postsecondary
+34 institution enrollment deadlines, the council executive director may
+35 stagger applications so that initial grant awards are announced by De-
+36 cember 31 in the year preceding an eligible student's graduation from
+37 high school and that additional grant awards be made no later than June
+38 30 of the academic year the eligible student graduates from high school.
+39 Additional grant award announcements may be made after such date based
+40 on the availability of funds;
+41 (c) Award grants to eligible students for eligible education expenses
+42 at eligible institutions, subject to legislative appropriation and to
+43 the following conditions, beginning with the graduating class of 2025:
+44 (i) If eligible student applications exceed available funding in
+45 a fiscal year, grant awards shall be prioritized first based on the
+46 pursuit of an in-demand career and based on the highest rankings in
+47 the matrix established pursuant to section 72-1204(j), Idaho Code
+48 the provisions of subsection (2)(b) of this section;
+49 (ii) If additional funds remain, prioritization shall then be
+50 based on an eligible student's financial need as verified by the
+4
+1 Idaho state tax commission using the prior year's tax return,
+2 most recent income documents, or other criteria determined by
+3 the workforce development council established in this chapter
+4 advisory board; and
+5 (iii) If available funding in a fiscal year exceeds eligible stu-
+6 dents, any unused appropriations may be used in accordance with
+7 section 72-1206(4), Idaho Code; and
+8 (d) Take other such actions as are necessary to implement and enforce
+9 the provisions of this section.
+10 (3) (4) Participants must expend all grant funds within three (3) years
+11 of the award date. Any remaining funds after a break in enrollment exceeding
+12 six (6) months or unused funds at the end of the three (3) year period shall
+13 revert to the in-demand careers fund established in section 72-1206, Idaho
+14 Code. The council or its designated staff may grant an extension or excep-
+15 tion by demonstrating to the council an extenuating circumstance, includ-
+16 ing but not limited to religious service, military service, structured vol-
+17 unteer service, or health or medical issues. The executive director shall
+18 grant an extension or exception for participants who are engaged in mili-
+19 tary service to the United States or the state of Idaho or engaged in reli-
+20 gious service. The executive director may grant an extension or exception
+21 for a participant demonstrating other extenuating circumstances as estab-
+22 lished by the advisory board, including but not limited to structured volun-
+23 teer service or health or medical issues.
+24 (4) (5) No more than one half (1/2) of the initial grant award may be ex-
+25 pended by a participant in any academic year; provided, however, that this
+26 subsection shall not apply:
+27 (a) To a participant in a program that is less than twelve (12) months in
+28 length; or
+29 (b) In other extenuating circumstances as determined by the council
+30 advisory board pursuant to subsection (4) of this section.
+31 (5) (6) Grant awards shall be capped at one (1) grant per eligible stu-
+32 dent.
+33 (6) (7) The council advisory board shall adopt policies outlining trig-
+34 gering events that may lead to earlier reversion of student grants or repay-
+35 ment grants, including but not limited to unsatisfactory academic progress,
+36 expulsion, or transfer to an out-of-state program prior to attainment of a
+37 credential or degree. Any reverted or repaid grants shall be paid to the
+38 in-demand careers fund established in section 72-1206, Idaho Code.
+39 (7) (8) The provisions of this section shall be null, void, and of no
+40 force and effect on and after July 1, 2029.
+41 SECTION 3. That Section 72-1206, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 72-1206. IN-DEMAND CAREERS FUND. (1) There is hereby established in
+44 the state treasury the in-demand careers fund.
+45 (2) Moneys in the in-demand careers fund are subject to legislative ap-
+46 propriation and shall consist of the following:
+47 (a) Legislative appropriations;
+48 (b) Donations and contributions made to the fund;
+49 (c) Interest earned on idle moneys in the fund;
+5
+1 (d) Moneys transferred pursuant to section 63-3638(17), Idaho Code;
+2 and
+3 (e) Moneys reverted or repaid to the fund pursuant to section 72-1205,
+4 Idaho Code.
+5 (3) The in-demand careers fund shall be used to award grants as outlined
+6 in section 72-1205, Idaho Code.
+7 (4) When the available appropriation in a fiscal year exceeds partici-
+8 pants, the council may executive director shall use excess moneys as follows
+9 in the following order of priority:
+10 (a) For eligible students pursuing health care careers that would be
+11 in-demand careers but for the requirement of a postbaccalaureate de-
+12 gree, excluding careers funded through the state board of education's
+13 budget for health care programs;
+14 (b) Up Pursuant to the advisory board, up to ten million dollars
+15 ($10,000,000) of the remaining appropriation may be used to provide en-
+16 hanced grant funding to either eligible students or, of which up to five
+17 million dollars ($5,000,000) may be used for eligible adult learners
+18 based upon on the following conditions:
+19 (i) If potential awards from the council exceed available funding
+20 from the enhanced grants, awards shall be prioritized first based
+21 on the pursuit of in-demand careers; and
+22 (ii) If, following the prioritization provided for in subpara-
+23 graph (i) of this paragraph, additional moneys remain for awards,
+24 prioritization shall then be based on financial need.; and
+25 (b) The remaining appropriation shall be retained in the fund and
+26 be subject to legislative appropriation in subsequent legislative
+27 sessions for the purposes of expanding in-demand career training oppor-
+28 tunities.
+29 (c) For Idaho opportunity scholarships awarded pursuant to section
+30 33-4303, Idaho Code, to eligible students pursuing in-demand careers
+31 pursuant to the provisions of this chapter.
+32 (5) By January 1 each year, the council executive director shall report
+33 sufficient data to the legislature regarding:
+34 (a) The number and demographics of eligible students applying for
+35 grants;
+36 (b) The number and type of eligible institutions approved by the
+37 council advisory board;
+38 (c) The list and matrix of in-demand careers prioritized by the
+39 matrix and verified by the council pursuant to section 72-1204(j)
+40 72-1205(2)(b), Idaho Code;
+41 (d) The number of grants awarded, the number of grants reverted, and de-
+42 mographics of participants; and
+43 (e) Data to demonstrate the effectiveness of the program, including
+44 but not limited to program completion rates, satisfactory academic
+45 progress, job placement rates, and retention rates of participants in
+46 Idaho upon program completion.
+47 SECTION 4. An emergency existing therefor, which emergency is hereby
+48 declared to exist, this act shall be in full force and effect on and after
+49 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YENCNAGTOE;AGSN7,IOC,TODSADTORED;AGSN7,IOCOREPSRGTEIOLHGTP;AGSN7,IOC,TOREPSRGTDCSF;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.IOLHGTPMADIDCSFD--D.()Asudintssnthsn7,IoC)"yb"msteIolhgtpmadedintsc)()""mstesebdofe)""mstewedtcledisc)"eatl"msanIortwoispnortgfranidc)"ec"mscsortgnyfrtnofapsddidc.Bhtesg26ggc,eeckslmytee,c,ortgnyfrtecnofapsddidc)Rgnometnanaed)Rgaceortgofto()ysoffeetteorl)Rganapintet;o)Ttisahhc,e,orintycrttdsntreaped)"eene"mssttnadfsataeinfreec;h,innoceseclaybdremetneypt()opstltnadfsormetnettdd,wrisl)"ei"msatgprasrdbeclurteweinadoyatortedttgfdayb.Eeinaomsacyceedpttotepsofcr2,te3,IoC.Eeissywhtepsofsn3,IoC,rdtyadnninpce,pdtta]
+[DELETED: srgtornslntaytopli.Eeisslaocywhtepson6,IoC,rgtodyssinpcpye)"es"msastw)IsanIor)WlgefmanadhhslorisetinIoasddbytebdbgwhtes4ggc)Hsedinoradtoaneeinadbsetinteflsrfgg,uecleedrgsanenfregcsshasteodaspdins,IoC;a)HsudntssIooranetcremadbyteclaybdadhsccrpypnttmstemmrsedbyteclayb)"ed"msteeedroftewtclpttosn7,IoC)()""msanattobeddbytecladttslntedettdds()prees)()"tdnp"msadlpmthgtfsaetdfmteclbyteeedrtoteatofapttobeudfreee)()"dc"mscsttheapeetfrteseofIoadieecmyfrteofI.Fsigbtntldtotenrofj,tereofjbg,adtelhoftetgplbeidtoceamxofcsadtgpsttantoidc.Csttreapedefreyiotepnslntbeintemxorasanidcrietecsdyteaybdcapttosn7,I)()""msanIortfrwmagtidursn7,IoC,adwohsmttemcsso,adhsbnadi,aneei)()""msteIolhgtpmedbn7,IoC)""msanilmgllryrsasddinsn3,IoC)Tepsoftssnslben,v,adofnofdetonadarJy1,2N2.TtSn7,IoC,b,adteseishdtordasf]
+[DELETED: .IOLHGTP.()TeishyeeIolhgtpmtobeadbytecleragtotepsoftss.TeisaohdteIolhgtpmaybdttsleeetanoftep.Tepeoftepmiopeengsfrees)Teaybdslctofte()msofteofrsadbytesrofteheofr,te()msofteseadbytepoteoftes,adte()msoftepcayteg)Teaybdslsttecattwlbeudteidcsbyc)CsttheapeecotfrteseooadttieecmyfrtepeofI)Fsigbtntldtotenrofjbo,tereofjbg,temnsyorwefractisintetpte()htqsfrIosdw,adtelhoftgp.Teflbeidtoceamxofcsadtsttantoidc.Csttreedefreyiotepnslneidintemxorasanidc)Teaybdslstartwhayrsfrigteeyoftepmtotelebr1ofehy)()Inortoartep,tecleedrslctwhaynyast)Ceada,ordeatdpytoceada,agtdnp)Ehagtanpsfrees.Teeessrennprtopnetd,tecleedrmrassottilgtasaeadbyDr31inteyrpganeessgnfhsladttalgtasbemenolrtnJ0ofteacyrteeestgsfmhhslgtadasmybemearshdebnteayoff)Adgstoeessfreeeneteei,sttoleanadtefgc,bgwhteggcsof2)Ifeestasedaefgifly,gtasslbepdftbdonttofanidcradbdontehtrsiemxedpttosn7,IoCepsofsn()oftss)Ifalfsr,pnsltnbdonaneessflndasvdbyt]
+[DELETED: osetxcnugteprystxrtrtied,ororcaddbewedtcledintscyb;a)Ifaefginaflyresees,ayudasmybeudinaewn7,IoC;a)Teorshasasaenytoitadeepsoftss)()Psmtedalgtfswnte()yfteadd.Ayrgfsarabkinetex()msorudfsatteedoftete()yrpdsttoteidcsfdedinsn7,I.Teclorisddsfmygtanenorenbydgtoteclanegc,igbtntldtorss,mys,sdvrs,orhhormli.TeeedrstanenorenfrpswoaeedinmysetoteUdSsorteseofIooredinrss.Teeedrmygtanenoreraptdgoregcsasedbyteayb,igbtntldtosdvrseorhhormli)()Nometnoehf()ofteilgtadmybeedbyaptinayacy;p,h,tttnslnta)Toaptinapmttislstnte()msi;o)Inoregcsasddbytecybdpttosn()oftss)()Gtasslbecdatoe()gtprees)()Teclaybdslatpsogtgesttmyldtoerrnofstgsorrtg,igbtntldtouyacp,ortrtoanoepmprtoatoflord.Ayrdorrdgsslbepdtotdcsfdedinsn7,IoC)()Tepsoftssnslben,v,adofneadetonadarJy1,2N3.TtSn7,IoC,b,adteseishdtordasf.IDCSF.()Teishyediesetyteidcsf)Msinteidcsfdaesttoleanadslctoftef)Lea)Dsadcsmetotef)Itedoniemsintef]
+[DELETED: )Mstdpttosn6,IoC)Msrdorrdtotefdpttosn7oC)Teidcsfdslbeudtoadgsasonsn7,IoC)Wnteaeaninaflyresp,teclmyeedrslueesmsasfntefgorofp)Freesspghhcecsttwdbdcsbtfrtertofaped,egcsfdthtesebdofetfrhhcep)UpPttoteayb,uptotnmnd)ofterganmybeudtopeedgtfgtoereesso,ofwhuptofnds()mybeudfreeatldunontefgc)Ifplasfmtecledaefmteedg,asslbepdftbnteptofidc;a)I,fgtepnpdfrinsh()oftsp,almsrnfransltnbebdonfln;a)Terganslberdintefdaesttoleaninstlsfrtepsofegidcrtgo)FrIooyssadpttos,IoC,toeesspgidcttotepsoftsc)ByJy1ehy,tecleedrslrtdatoteler)Tenraddsofeessagf)Tenradteofeeisadbytlayb)Teltadmxofidcspdbytxadvdbyteclpttosn7,IoC)Tenrofgsa,tenrofgsr,addsofp;a)Datodeteesoftep,itntldtopmcnr,sya,jbptr,adrnrsofpsiounpmcN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 461
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 72-1204, IDAHO CODE, TO DEFINE
+3 TERMS AND TO REVISE DEFINITIONS; AMENDING SECTION 72-1205, IDAHO CODE,
+4 TO REVISE PROVISIONS REGARDING THE IDAHO LAUNCH GRANT PROGRAM; AMEND-
+5 ING SECTION 72-1206, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+6 IN-DEMAND CAREERS FUND; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 72-1204, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 72-1204. IDAHO LAUNCH GRANT PROGRAM AND IN-DEMAND CAREERS FUND -- DEF-
+12 INITIONS. (1) As used in this section through section 72-1206, Idaho Code:
+13 (a) "Advisory board" means the Idaho launch grant program advisory
+14 board established in this chapter.
+15 (a) (b) "Board" means the state board of education.
+16 (b) "Council" means the workforce development council established in
+17 this chapter.
+18 (c) "Eligible adult learner" means an Idaho resident who is pursuing
+19 education or training for an in-demand career.
+20 (d) "Eligible coursework" means courses or training necessary for the
+21 completion of a participant's declared in-demand career. Beginning
+22 with the spring 2026 graduating class, eligible coursework shall mean
+23 only the education, certification, or training necessary for the com-
+24 pletion of a participant's declared in-demand career:
+25 (i) Requiring no more than an associate degree;
+26 (ii) Requiring a certificate or training of two (2) years of full-
+27 time equivalent time or less;
+28 (iii) Requiring an apprenticeship in the trades; or
+29 (iv) That is a health care, engineering, or information technol-
+30 ogy career that does not require a postbaccalaureate degree.
+31 (e) "Eligible education expenses" means student tuition and fees at an
+32 eligible institution for eligible coursework; however, in no case shall
+33 the council advisory board reimburse more than eighty percent (80%) of
+34 a program's total tuition and fees or more than eight thousand dollars
+35 ($8,000), whichever is less.
+36 (f) "Eligible institution" means a training provider as recognized by
+37 the council under the workforce innovation and opportunity act or the
+38 workforce development training fund advisory board. Eligible institu-
+39 tion also means a community college established pursuant to the provi-
+40 sions of chapter 21, title 33, Idaho Code. Eligible institutions shall
+41 comply with the provisions of section 33-138, Idaho Code, related to
+42 dignity and nondiscrimination in public education, provided that any
+
+2
+1 provisions relating to religion shall not apply to parochial institu-
+2 tions. Eligible institutions shall also comply with the provisions of
+3 section 67-5909C, Idaho Code, relating to diversity statements in pub-
+4 lic postsecondary education.
+5 (g) "Eligible student" means a student who:
+6 (i) Is an Idaho resident;
+7 (ii) Will graduate from an accredited high school or its equiva-
+8 lent in Idaho as determined by the board beginning with the spring
+9 2024 graduating class;
+10 (iii) Has enrolled in or applied to an eligible institution and be-
+11 gins enrollment in the fall semester following graduation, unless
+12 the council executive director grants an extension for extenuat-
+13 ing circumstances such as those outlined as provided in section
+14 72-1205, Idaho Code; and
+15 (iv) Has used next steps Idaho or an equivalent career exploration
+16 program accepted by the council advisory board and has completed
+17 a career pathway plan that meets the minimum requirements estab-
+18 lished by the council advisory board.
+19 (h) "Executive director" means the executive director of the workforce
+20 development council pursuant to section 72-1201, Idaho Code.
+21 (h) (i) "Grant" means an amount to be determined by the council advisory
+22 board that shall not exceed eight thousand dollars ($8,000) per eligi-
+23 ble student.
+24 (i) (j) "Grant distribution platform" means a digital platform through
+25 which grant funds are transferred from the council by the executive di-
+26 rector to the account of a participant to be used for eligible education
+27 expenses.
+28 (j) (k) "In-demand careers" means careers that have a positive economic
+29 output for the state of Idaho and increase economic mobility for the
+30 people of Idaho. Factors including but not limited to the number of job
+31 openings, the rate of job growth, and the length of the training program
+32 shall be incorporated to create a matrix of careers and training pro-
+33 grams that align to in-demand careers. Careers that require a postbac-
+34 calaureate degree for entry into the profession shall not be included
+35 in the matrix or as an in-demand career include the careers determined
+36 by the advisory board criteria pursuant to section 72-1205(2)(b), Idaho
+37 Code.
+38 (k) (l) "Participant" means an Idaho resident for whom a grant is
+39 awarded under section 72-1205, Idaho Code, and who has met the minimum
+40 academic standards of, and has been accepted into, an eligible institu-
+41 tion.
+42 (l) (m) "Program" means the Idaho launch grant program established by
+43 section 72-1205, Idaho Code.
+44 (m) (n) "Resident" means an individual meeting legal residency re-
+45 quirements as defined in section 33-3717B, Idaho Code.
+46 (2) The provisions of this section shall be null, void, and of no force
+47 and effect on and after July 1, 2029.
+48 SECTION 2. That Section 72-1205, Idaho Code, be, and the same is hereby
+49 amended to read as follows:
+
+3
+1 72-1205. IDAHO LAUNCH GRANT PROGRAM. (1) There is hereby established
+2 the Idaho launch grant program to be administered by the council executive
+3 director according to the provisions of this section. There is also hereby
+4 established the Idaho launch grant program advisory board that shall ensure
+5 the efficient administration of the program. The purpose of the program is
+6 to provide education grants for eligible students.
+7 (2)(a) The advisory board shall consist of three (3) members of the
+8 house of representatives appointed by the speaker of the house of repre-
+9 sentatives, three (3) members of the senate appointed by the president
+10 pro tempore of the senate, and three (3) members of the public appointed
+11 by the governor.
+12 (b) The advisory board shall select the criteria that will be used to
+13 determine in-demand careers by considering:
+14 (i) Careers that have a positive economic output for the state of
+15 Idaho and that increase economic mobility for the people of Idaho;
+16 and
+17 (ii) Factors including but not limited to the number of job open-
+18 ings, the rate of job growth, the median salary or wage for a career
+19 that is in the top three (3) highest quartiles for Idaho salaries
+20 and wages, and the length of training programs. These factors
+21 shall be incorporated to create a matrix of careers and training
+22 programs that align to in-demand careers. Careers that require a
+23 postbaccalaureate degree for entry into the profession shall not
+24 be included in the matrix or as an in-demand career.
+25 (c) The advisory board shall submit a report with any recommenda-
+26 tions for improving the efficiency of the program to the legislature by
+27 September 1 of each year.
+28 (2) (3) In order to administer the program, the council executive di-
+29 rector shall consult with any necessary agencies to:
+30 (a) Create and administer, or designate a third party to create and ad-
+31 minister, a grant distribution platform;
+32 (b) Establish a grant application process for eligible students. To
+33 ensure eligible students receive notification prior to postsecondary
+34 institution enrollment deadlines, the council executive director may
+35 stagger applications so that initial grant awards are announced by De-
+36 cember 31 in the year preceding an eligible student's graduation from
+37 high school and that additional grant awards be made no later than June
+38 30 of the academic year the eligible student graduates from high school.
+39 Additional grant award announcements may be made after such date based
+40 on the availability of funds;
+41 (c) Award grants to eligible students for eligible education expenses
+42 at eligible institutions, subject to legislative appropriation and to
+43 the following conditions, beginning with the graduating class of 2025:
+44 (i) If eligible student applications exceed available funding in
+45 a fiscal year, grant awards shall be prioritized first based on the
+46 pursuit of an in-demand career and based on the highest rankings in
+47 the matrix established pursuant to section 72-1204(j), Idaho Code
+48 the provisions of subsection (2)(b) of this section;
+49 (ii) If additional funds remain, prioritization shall then be
+50 based on an eligible student's financial need as verified by the
+
+4
+1 Idaho state tax commission using the prior year's tax return,
+2 most recent income documents, or other criteria determined by
+3 the workforce development council established in this chapter
+4 advisory board; and
+5 (iii) If available funding in a fiscal year exceeds eligible stu-
+6 dents, any unused appropriations may be used in accordance with
+7 section 72-1206(4), Idaho Code; and
+8 (d) Take other such actions as are necessary to implement and enforce
+9 the provisions of this section.
+10 (3) (4) Participants must expend all grant funds within three (3) years
+11 of the award date. Any remaining funds after a break in enrollment exceeding
+12 six (6) months or unused funds at the end of the three (3) year period shall
+13 revert to the in-demand careers fund established in section 72-1206, Idaho
+14 Code. The council or its designated staff may grant an extension or excep-
+15 tion by demonstrating to the council an extenuating circumstance, includ-
+16 ing but not limited to religious service, military service, structured vol-
+17 unteer service, or health or medical issues. The executive director shall
+18 grant an extension or exception for participants who are engaged in mili-
+19 tary service to the United States or the state of Idaho or engaged in reli-
+20 gious service. The executive director may grant an extension or exception
+21 for a participant demonstrating other extenuating circumstances as estab-
+22 lished by the advisory board, including but not limited to structured volun-
+23 teer service or health or medical issues.
+24 (4) (5) No more than one half (1/2) of the initial grant award may be ex-
+25 pended by a participant in any academic year; provided, however, that this
+26 subsection shall not apply:
+27 (a) To a participant in a program that is less than twelve (12) months in
+28 length; or
+29 (b) In other extenuating circumstances as determined by the council
+30 advisory board pursuant to subsection (4) of this section.
+31 (5) (6) Grant awards shall be capped at one (1) grant per eligible stu-
+32 dent.
+33 (6) (7) The council advisory board shall adopt policies outlining trig-
+34 gering events that may lead to earlier reversion of student grants or repay-
+35 ment grants, including but not limited to unsatisfactory academic progress,
+36 expulsion, or transfer to an out-of-state program prior to attainment of a
+37 credential or degree. Any reverted or repaid grants shall be paid to the
+38 in-demand careers fund established in section 72-1206, Idaho Code.
+39 (7) (8) The provisions of this section shall be null, void, and of no
+40 force and effect on and after July 1, 2029.
+41 SECTION 3. That Section 72-1206, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 72-1206. IN-DEMAND CAREERS FUND. (1) There is hereby established in
+44 the state treasury the in-demand careers fund.
+45 (2) Moneys in the in-demand careers fund are subject to legislative ap-
+46 propriation and shall consist of the following:
+47 (a) Legislative appropriations;
+48 (b) Donations and contributions made to the fund;
+49 (c) Interest earned on idle moneys in the fund;
+
+5
+1 (d) Moneys transferred pursuant to section 63-3638(17), Idaho Code;
+2 and
+3 (e) Moneys reverted or repaid to the fund pursuant to section 72-1205,
+4 Idaho Code.
+5 (3) The in-demand careers fund shall be used to award grants as outlined
+6 in section 72-1205, Idaho Code.
+7 (4) When the available appropriation in a fiscal year exceeds partici-
+8 pants, the council may executive director shall use excess moneys as follows
+9 in the following order of priority:
+10 (a) For eligible students pursuing health care careers that would be
+11 in-demand careers but for the requirement of a postbaccalaureate de-
+12 gree, excluding careers funded through the state board of education's
+13 budget for health care programs;
+14 (b) Up Pursuant to the advisory board, up to ten million dollars
+15 ($10,000,000) of the remaining appropriation may be used to provide en-
+16 hanced grant funding to either eligible students or, of which up to five
+17 million dollars ($5,000,000) may be used for eligible adult learners
+18 based upon on the following conditions:
+19 (i) If potential awards from the council exceed available funding
+20 from the enhanced grants, awards shall be prioritized first based
+21 on the pursuit of in-demand careers; and
+22 (ii) If, following the prioritization provided for in subpara-
+23 graph (i) of this paragraph, additional moneys remain for awards,
+24 prioritization shall then be based on financial need.; and
+25 (b) The remaining appropriation shall be retained in the fund and
+26 be subject to legislative appropriation in subsequent legislative
+27 sessions for the purposes of expanding in-demand career training oppor-
+28 tunities.
+29 (c) For Idaho opportunity scholarships awarded pursuant to section
+30 33-4303, Idaho Code, to eligible students pursuing in-demand careers
+31 pursuant to the provisions of this chapter.
+32 (5) By January 1 each year, the council executive director shall report
+33 sufficient data to the legislature regarding:
+34 (a) The number and demographics of eligible students applying for
+35 grants;
+36 (b) The number and type of eligible institutions approved by the
+37 council advisory board;
+38 (c) The list and matrix of in-demand careers prioritized by the
+39 matrix and verified by the council pursuant to section 72-1204(j)
+40 72-1205(2)(b), Idaho Code;
+41 (d) The number of grants awarded, the number of grants reverted, and de-
+42 mographics of participants; and
+43 (e) Data to demonstrate the effectiveness of the program, including
+44 but not limited to program completion rates, satisfactory academic
+45 progress, job placement rates, and retention rates of participants in
+46 Idaho upon program completion.
+47 SECTION 4. An emergency existing therefor, which emergency is hereby
+48 declared to exist, this act shall be in full force and effect on and after
+49 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YENCNAGTOE;AGSN7,IOC,TODSADTORED;AGSN7,IOCOREPSRGTEIOLHGTP;AGSN7,IOC,TOREPSRGTDCSF;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.IOLHGTPMADIDCSFD--D.()Asudintssnthsn7,IoC)"yb"msteIolhgtpmadedintsc)()""mstesebdofe)""mstewedtcledisc)"eatl"msanIortwoispnortgfranidc)"ec"mscsortgnyfrtnofapsddidc.Bhtesg26ggc,eeckslmytee,c,ortgnyfrtecnofapsddidc)Rgnometnanaed)Rgaceortgofto()ysoffeetteorl)Rganapintet;o)Ttisahhc,e,orintycrttdsntreaped)"eene"mssttnadfsataeinfreec;h,innoceseclaybdremetneypt()opstltnadfsormetnettdd,wrisl)"ei"msatgprasrdbeclurteweinadoyatortedttgfdayb.Eeinaomsacyceedpttotepsofcr2,te3,IoC.Eeissywhtepsofsn3,IoC,rdtyadnninpce,pdtta]
+[DELETED: srgtornslntaytopli.Eeisslaocywhtepson6,IoC,rgtodyssinpcpye)"es"msastw)IsanIor)WlgefmanadhhslorisetinIoasddbytebdbgwhtes4ggc)Hsedinoradtoaneeinadbsetinteflsrfgg,uecleedrgsanenfregcsshasteodaspdins,IoC;a)HsudntssIooranetcremadbyteclaybdadhsccrpypnttmstemmrsedbyteclayb)"ed"msteeedroftewtclpttosn7,IoC)()""msanattobeddbytecladttslntedettdds()prees)()"tdnp"msadlpmthgtfsaetdfmteclbyteeedrtoteatofapttobeudfreee)()"dc"mscsttheapeetfrteseofIoadieecmyfrteofI.Fsigbtntldtotenrofj,tereofjbg,adtelhoftetgplbeidtoceamxofcsadtgpsttantoidc.Csttreapedefreyiotepnslntbeintemxorasanidcrietecsdyteaybdcapttosn7,I)()""msanIortfrwmagtidursn7,IoC,adwohsmttemcsso,adhsbnadi,aneei)()""msteIolhgtpmedbn7,IoC)""msanilmgllryrsasddinsn3,IoC)Tepsoftssnslben,v,adofnofdetonadarJy1,2N2.TtSn7,IoC,b,adteseishdtordasf]
+[DELETED: .IOLHGTP.()TeishyeeIolhgtpmtobeadbytecleragtotepsoftss.TeisaohdteIolhgtpmaybdttsleeetanoftep.Tepeoftepmiopeengsfrees)Teaybdslctofte()msofteofrsadbytesrofteheofr,te()msofteseadbytepoteoftes,adte()msoftepcayteg)Teaybdslsttecattwlbeudteidcsbyc)CsttheapeecotfrteseooadttieecmyfrtepeofI)Fsigbtntldtotenrofjbo,tereofjbg,temnsyorwefractisintetpte()htqsfrIosdw,adtelhoftgp.Teflbeidtoceamxofcsadtsttantoidc.Csttreedefreyiotepnslneidintemxorasanidc)Teaybdslstartwhayrsfrigteeyoftepmtotelebr1ofehy)()Inortoartep,tecleedrslctwhaynyast)Ceada,ordeatdpytoceada,agtdnp)Ehagtanpsfrees.Teeessrennprtopnetd,tecleedrmrassottilgtasaeadbyDr31inteyrpganeessgnfhsladttalgtasbemenolrtnJ0ofteacyrteeestgsfmhhslgtadasmybemearshdebnteayoff)Adgstoeessfreeeneteei,sttoleanadtefgc,bgwhteggcsof2)Ifeestasedaefgifly,gtasslbepdftbdonttofanidcradbdontehtrsiemxedpttosn7,IoCepsofsn()oftss)Ifalfsr,pnsltnbdonaneessflndasvdbyt]
+[DELETED: osetxcnugteprystxrtrtied,ororcaddbewedtcledintscyb;a)Ifaefginaflyresees,ayudasmybeudinaewn7,IoC;a)Teorshasasaenytoitadeepsoftss)()Psmtedalgtfswnte()yfteadd.Ayrgfsarabkinetex()msorudfsatteedoftete()yrpdsttoteidcsfdedinsn7,I.Teclorisddsfmygtanenorenbydgtoteclanegc,igbtntldtorss,mys,sdvrs,orhhormli.TeeedrstanenorenfrpswoaeedinmysetoteUdSsorteseofIooredinrss.Teeedrmygtanenoreraptdgoregcsasedbyteayb,igbtntldtosdvrseorhhormli)()Nometnoehf()ofteilgtadmybeedbyaptinayacy;p,h,tttnslnta)Toaptinapmttislstnte()msi;o)Inoregcsasddbytecybdpttosn()oftss)()Gtasslbecdatoe()gtprees)()Teclaybdslatpsogtgesttmyldtoerrnofstgsorrtg,igbtntldtouyacp,ortrtoanoepmprtoatoflord.Ayrdorrdgsslbepdtotdcsfdedinsn7,IoC)()Tepsoftssnslben,v,adofneadetonadarJy1,2N3.TtSn7,IoC,b,adteseishdtordasf.IDCSF.()Teishyediesetyteidcsf)Msinteidcsfdaesttoleanadslctoftef)Lea)Dsadcsmetotef)Itedoniemsintef]
+[DELETED: )Mstdpttosn6,IoC)Msrdorrdtotefdpttosn7oC)Teidcsfdslbeudtoadgsasonsn7,IoC)Wnteaeaninaflyresp,teclmyeedrslueesmsasfntefgorofp)Freesspghhcecsttwdbdcsbtfrtertofaped,egcsfdthtesebdofetfrhhcep)UpPttoteayb,uptotnmnd)ofterganmybeudtopeedgtfgtoereesso,ofwhuptofnds()mybeudfreeatldunontefgc)Ifplasfmtecledaefmteedg,asslbepdftbnteptofidc;a)I,fgtepnpdfrinsh()oftsp,almsrnfransltnbebdonfln;a)Terganslberdintefdaesttoleaninstlsfrtepsofegidcrtgo)FrIooyssadpttos,IoC,toeesspgidcttotepsoftsc)ByJy1ehy,tecleedrslrtdatoteler)Tenraddsofeessagf)Tenradteofeeisadbytlayb)Teltadmxofidcspdbytxadvdbyteclpttosn7,IoC)Tenrofgsa,tenrofgsr,addsofp;a)Datodeteesoftep,itntldtopmcnr,sya,jbptr,adrnrsofpsiounpmcN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

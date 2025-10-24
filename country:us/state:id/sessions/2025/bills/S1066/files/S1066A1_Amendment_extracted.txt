@@ -1,0 +1,118 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Toews
+Seconded by Carlson
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1066
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 25, following "disclosure." in-
+3 sert: "A breach of the security of the system of an agency, individual, or
+4 commercial entity does not include the acquisition of data from any source
+5 other than systems maintained by the agency, individual, or commercial en-
+6 tity, or a service provider acting on behalf of such agency, individual, or
+7 commercial entity."; following line 29, insert:
+8 "(4) "Encryption" includes standard encryption, which scrambles data
+9 and requires a digital key to unscramble such data, and any other technique
+10 that translates or substitutes unusable data for personal information and
+11 requires a token, key, or other protective process to convert the translated
+12 or substituted data to personal information.";
+13 and in line 30, delete "(4)" and insert: "(4) (5)".
+14 On page 2, in line 9, delete "(5)" and insert: "(5) (6)"; in line 12,
+15 delete "either" and insert: "either"; also in line 12, delete "or" and in-
+16 sert: "or and"; delete lines 23 and 24; in line 25, delete "(g)" and insert:
+17 "(f)"; in line 26, delete "(h)" and insert: "(g)"; and in line 31, delete
+18 "(6)" and insert: "(6) (7)".
+19 AMENDMENT TO SECTION 2
+20 On page 3, in line 37, delete "thirty-six (36)" and insert: "twelve
+21 (12)".
+22 AMENDMENT TO THE BILL
+23 On page 4, following line 11, insert:
+24 "SECTION 4. That Section 28-51-107, Idaho Code, be, and the same is
+25 hereby amended to read as follows:
+26 28-51-107. VIOLATIONS. In any case in which an agency's, commercial
+27 entity's or individual's primary regulator has reason to believe that an
+28 agency, individual or commercial entity subject to that primary regula-
+29 tor's jurisdiction under section 28-51-104(6) (7), Idaho Code, has violated
+30 section 28-51-105, Idaho Code, by failing to give notice in accordance
+31 with that section, the primary regulator may bring a civil action to en-
+32 force compliance with that section and enjoin that agency, individual or
+33 commercial entity from further violations. Any agency, individual or com-
+34 mercial entity that intentionally fails to give notice in accordance with
+35 section 28-51-105, Idaho Code, shall be subject to a fine of not more than
+36 twenty-five thousand dollars ($25,000) per breach of the security of the
+37 system."
+38 ; and renumber subsequent sections accordingly.
+2
+1 CORRECTION TO TITLE
+2 On page 1, in line 3, delete "A DEFINITION" and insert: "DEFINITIONS, TO
+3 DEFINE A TERM,"; and in line 8, following "CORRECTIONS;" insert: "AMENDING
+4 SECTION 28-51-107, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE;".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyTdbyCNTESEATTOS.N.1TTOSNnpe1oftepdb,inle2,fg""i:"Abhoftesyoftesmofana,i,oleydsntieteanofdafmaysrtnssmdbytea,i,orcle,orasepragonbfofsha,i,ole;fgle2,i)""issde,whssddrsadlkytoueshd,adayortttsorssuedafrplinasat,k,ororpepstocttetrsddatoplidinle3,de""adi:")(npe2,inle9,de""adi:")(;inle1e""adi:";aoinle1,de""adi:"ra;dels23ad2;inle2,de""adi;inle2,de""adi:";adinle3,d"adi:")(TTOSNnpe3,inle3,de"x("adi:"TTOTEBnpe4,fgle1,iN4.TtSn2,IoC,b,adteseiyadtordasf.V.Inayceinwhana,csorispyrrhsrntobetta,ilorcleysttottpyrsjnursn2)(,IoC,hsvn2,IoC,byfgtogeneinahtts,tepyrrmybgaclantoeecewhttsnadentta,iloleyfmfrv.Aya,ilorcleyttiyfstogeneinaewn2,IoC,slbesttoafeofntmetetdds()prbhoftesyoftadrrstssa]
+[DELETED: NTOTnpe1,inle3,de"AD"adi:",TEAT;adinle8,fg""i:"N2,IOC,TOPEACTCER]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Toews
+Seconded by Carlson
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1066
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 25, following "disclosure." in-
+3 sert: "A breach of the security of the system of an agency, individual, or
+4 commercial entity does not include the acquisition of data from any source
+5 other than systems maintained by the agency, individual, or commercial en-
+6 tity, or a service provider acting on behalf of such agency, individual, or
+7 commercial entity."; following line 29, insert:
+8 "(4) "Encryption" includes standard encryption, which scrambles data
+9 and requires a digital key to unscramble such data, and any other technique
+10 that translates or substitutes unusable data for personal information and
+11 requires a token, key, or other protective process to convert the translated
+12 or substituted data to personal information.";
+13 and in line 30, delete "(4)" and insert: "(4) (5)".
+14 On page 2, in line 9, delete "(5)" and insert: "(5) (6)"; in line 12,
+15 delete "either" and insert: "either"; also in line 12, delete "or" and in-
+16 sert: "or and"; delete lines 23 and 24; in line 25, delete "(g)" and insert:
+17 "(f)"; in line 26, delete "(h)" and insert: "(g)"; and in line 31, delete
+18 "(6)" and insert: "(6) (7)".
+19 AMENDMENT TO SECTION 2
+20 On page 3, in line 37, delete "thirty-six (36)" and insert: "twelve
+21 (12)".
+22 AMENDMENT TO THE BILL
+23 On page 4, following line 11, insert:
+24 "SECTION 4. That Section 28-51-107, Idaho Code, be, and the same is
+25 hereby amended to read as follows:
+26 28-51-107. VIOLATIONS. In any case in which an agency's, commercial
+27 entity's or individual's primary regulator has reason to believe that an
+28 agency, individual or commercial entity subject to that primary regula-
+29 tor's jurisdiction under section 28-51-104(6) (7), Idaho Code, has violated
+30 section 28-51-105, Idaho Code, by failing to give notice in accordance
+31 with that section, the primary regulator may bring a civil action to en-
+32 force compliance with that section and enjoin that agency, individual or
+33 commercial entity from further violations. Any agency, individual or com-
+34 mercial entity that intentionally fails to give notice in accordance with
+35 section 28-51-105, Idaho Code, shall be subject to a fine of not more than
+36 twenty-five thousand dollars ($25,000) per breach of the security of the
+37 system."
+38 ; and renumber subsequent sections accordingly.
+
+2
+1 CORRECTION TO TITLE
+2 On page 1, in line 3, delete "A DEFINITION" and insert: "DEFINITIONS, TO
+3 DEFINE A TERM,"; and in line 8, following "CORRECTIONS;" insert: "AMENDING
+4 SECTION 28-51-107, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE;".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyTdbyCNTESEATTOS.N.1TTOSNnpe1oftepdb,inle2,fg""i:"Abhoftesyoftesmofana,i,oleydsntieteanofdafmaysrtnssmdbytea,i,orcle,orasepragonbfofsha,i,ole;fgle2,i)""issde,whssddrsadlkytoueshd,adayortttsorssuedafrplinasat,k,ororpepstocttetrsddatoplidinle3,de""adi:")(npe2,inle9,de""adi:")(;inle1e""adi:";aoinle1,de""adi:"ra;dels23ad2;inle2,de""adi;inle2,de""adi:";adinle3,d"adi:")(TTOSNnpe3,inle3,de"x("adi:"TTOTEBnpe4,fgle1,iN4.TtSn2,IoC,b,adteseiyadtordasf.V.Inayceinwhana,csorispyrrhsrntobetta,ilorcleysttottpyrsjnursn2)(,IoC,hsvn2,IoC,byfgtogeneinahtts,tepyrrmybgaclantoeecewhttsnadentta,iloleyfmfrv.Aya,ilorcleyttiyfstogeneinaewn2,IoC,slbesttoafeofntmetetdds()prbhoftesyoftadrrstssa]
+[DELETED: NTOTnpe1,inle3,de"AD"adi:",TEAT;adinle8,fg""i:"N2,IOC,TOPEACTCER]

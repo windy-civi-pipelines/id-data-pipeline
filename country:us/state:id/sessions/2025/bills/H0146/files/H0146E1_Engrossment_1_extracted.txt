@@ -1,0 +1,148 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 146, As Amended in the Senate
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO AERONAUTICS; AMENDING CHAPTER 5, TITLE 21, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 21-515B, IDAHO CODE, TO PROVIDE FOR LIGHT-MIT-
+4 IGATING TECHNOLOGY SYSTEMS TO BE INSTALLED ON WIND ENERGY CONVERSION
+5 SYSTEMS; AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 5, Title 21, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 21-515B, Idaho Code, and to read as follows:
+10 21-515B. WIND ENERGY CONVERSION SYSTEMS -- LIGHT-MITIGATING TECHNOL-
+11 OGY SYSTEMS. (1) On and after July 1, 2025, no new wind energy conversion
+12 system shall commence commercial operations in this state unless the de-
+13 veloper, owner, or operator of the wind energy conversion system applies to
+14 the federal aviation administration for installation of a light-mitigat-
+15 ing technology system that complies with federal aviation administration
+16 regulations 14 CFR 1.1, et seq. If approved by the federal aviation admin-
+17 istration, the developer, owner, or operator of such wind energy conversion
+18 system shall install the light-mitigating technology system on approved
+19 turbines within twenty-four (24) months after receipt of such approval.
+20 (2) On and after January 1, 2026, any developer, owner, or operator of
+21 a wind energy conversion system that has commenced commercial operations in
+22 the state without a light-mitigating technology system shall apply to the
+23 federal aviation administration for installation and operation of a light-
+24 mitigating technology system that complies with federal aviation adminis-
+25 tration regulations 14 CFR 1.1, et seq. If approved by the federal aviation
+26 administration, the developer, owner, or operator of such wind energy con-
+27 version system shall install the light-mitigating technology system on ap-
+28 proved turbines within sixty (60) months following such approval.
+29 (3) Any developer, owner, or operator who is required to apply to
+30 install a light-mitigating technology system on a wind energy conversion
+31 system pursuant to the requirements of this section and who is approved by
+32 the federal aviation administration for such installation shall provide to
+33 the Idaho transportation department division of aeronautics, in the form
+34 and manner prescribed by the division, notice of the progress of the instal-
+35 lation of such light-mitigating technology system. If the installation of
+36 the light-mitigating technology system is delayed beyond a timeframe es-
+37 tablished pursuant to this section, the developer, owner, or operator shall
+38 provide notice to the Idaho transportation department division of aeronau-
+39 tics not less than once every three (3) months to provide an update on the
+40 reasons for the delay and the current status of the installation.
+41 (4) Any costs associated with the installation, implementation, oper-
+42 ation, and maintenance of a light-mitigating technology system shall be the
+2
+1 responsibility of the developer, owner, or operator of the wind energy con-
+2 version system.
+3 (5) As used in this section:
+4 (a) "Light-mitigating technology system" means aircraft detection
+5 lighting or any other comparable system capable of reducing the impact
+6 of facility obstruction lighting while maintaining conspicuity suffi-
+7 cient to assist aircraft in identifying and avoiding collision with a
+8 wind energy conversion system.
+9 (b) "Wind energy conversion system" means an electricity genera-
+10 tion facility consisting of five (5) or more wind turbines that are
+11 fifty (50) feet or taller in height and any accessory structures and
+12 buildings, including substations, meteorological towers, electrical
+13 infrastructure, transmission lines, and other appurtenant structures.
+14 SECTION 2. An emergency existing therefor, which emergency is hereby
+15 declared to exist, this act shall be in full force and effect on and after its
+16 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1,AsAdinteSYTNADDECNAGTOA;AGCR5,TE2,IOC,BYTNOFANWSN2,IOC,TOPEFRLGTYSSTOBEIDONWDEYC;ADDGANEeItEdbyteLeofteSeofIN1.TtCr5,Te2,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn2,IoC,adtordasf.WDEYCNSS--LGTYS.()OnadarJy1,2,nonwwdeycmslceclosintsseusted,o,ororoftewdeycnsmasteflananfrinofalgtysmttcswhflanas14CR1,ets.Ifadbyteflana,ted,o,ororofshwdeycmsliltelgtysmonaswntr()msarrtofsha)OnadarJy1,2,ayd,o,ororowdeycnsmtthscdclosiesewtalgtysmslaytotlananfrinadonofalgtysmttcswhflananrs14CR1,ets.Ifadbytefla,ted,o,ororofshwdeycnsmsliltelgtysmonadtswnsy()msfgsha)Ayd,o,ororwoisrdtoaytlalgtysmonawdeycmpttotersoftssnadwoisadbeflananfrshinslpeteIotndtdnofa,intefdmrpdbyted,neoftepsofteinofshlgtys.Ifteinoelgtysmisddbdateedpttotss,ted,o,ororsenetoteIotndtdnofasntlstnoeeyte()mstopeanueontsfrtedyadtectssoftei)Aycsadwhtei,i,o,admeofalgtysmslbet]
+[DELETED: yofted,o,ororoftewdeycns)Asudintss)"gtys"msatdgorayorcesmceofrgteiffyonlgwemgcysttoatatinigadagcnwhdeycns)"deycns"msaneygnfycgoffe()ormewdtsttay()ftortrinhtadayayssa,igs,mlt,e,tnl,adoratsN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 146, As Amended in the Senate
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO AERONAUTICS; AMENDING CHAPTER 5, TITLE 21, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 21-515B, IDAHO CODE, TO PROVIDE FOR LIGHT-MIT-
+4 IGATING TECHNOLOGY SYSTEMS TO BE INSTALLED ON WIND ENERGY CONVERSION
+5 SYSTEMS; AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 5, Title 21, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 21-515B, Idaho Code, and to read as follows:
+10 21-515B. WIND ENERGY CONVERSION SYSTEMS -- LIGHT-MITIGATING TECHNOL-
+11 OGY SYSTEMS. (1) On and after July 1, 2025, no new wind energy conversion
+12 system shall commence commercial operations in this state unless the de-
+13 veloper, owner, or operator of the wind energy conversion system applies to
+14 the federal aviation administration for installation of a light-mitigat-
+15 ing technology system that complies with federal aviation administration
+16 regulations 14 CFR 1.1, et seq. If approved by the federal aviation admin-
+17 istration, the developer, owner, or operator of such wind energy conversion
+18 system shall install the light-mitigating technology system on approved
+19 turbines within twenty-four (24) months after receipt of such approval.
+20 (2) On and after January 1, 2026, any developer, owner, or operator of
+21 a wind energy conversion system that has commenced commercial operations in
+22 the state without a light-mitigating technology system shall apply to the
+23 federal aviation administration for installation and operation of a light-
+24 mitigating technology system that complies with federal aviation adminis-
+25 tration regulations 14 CFR 1.1, et seq. If approved by the federal aviation
+26 administration, the developer, owner, or operator of such wind energy con-
+27 version system shall install the light-mitigating technology system on ap-
+28 proved turbines within sixty (60) months following such approval.
+29 (3) Any developer, owner, or operator who is required to apply to
+30 install a light-mitigating technology system on a wind energy conversion
+31 system pursuant to the requirements of this section and who is approved by
+32 the federal aviation administration for such installation shall provide to
+33 the Idaho transportation department division of aeronautics, in the form
+34 and manner prescribed by the division, notice of the progress of the instal-
+35 lation of such light-mitigating technology system. If the installation of
+36 the light-mitigating technology system is delayed beyond a timeframe es-
+37 tablished pursuant to this section, the developer, owner, or operator shall
+38 provide notice to the Idaho transportation department division of aeronau-
+39 tics not less than once every three (3) months to provide an update on the
+40 reasons for the delay and the current status of the installation.
+41 (4) Any costs associated with the installation, implementation, oper-
+42 ation, and maintenance of a light-mitigating technology system shall be the
+
+2
+1 responsibility of the developer, owner, or operator of the wind energy con-
+2 version system.
+3 (5) As used in this section:
+4 (a) "Light-mitigating technology system" means aircraft detection
+5 lighting or any other comparable system capable of reducing the impact
+6 of facility obstruction lighting while maintaining conspicuity suffi-
+7 cient to assist aircraft in identifying and avoiding collision with a
+8 wind energy conversion system.
+9 (b) "Wind energy conversion system" means an electricity genera-
+10 tion facility consisting of five (5) or more wind turbines that are
+11 fifty (50) feet or taller in height and any accessory structures and
+12 buildings, including substations, meteorological towers, electrical
+13 infrastructure, transmission lines, and other appurtenant structures.
+14 SECTION 2. An emergency existing therefor, which emergency is hereby
+15 declared to exist, this act shall be in full force and effect on and after its
+16 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1,AsAdinteSYTNADDECNAGTOA;AGCR5,TE2,IOC,BYTNOFANWSN2,IOC,TOPEFRLGTYSSTOBEIDONWDEYC;ADDGANEeItEdbyteLeofteSeofIN1.TtCr5,Te2,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn2,IoC,adtordasf.WDEYCNSS--LGTYS.()OnadarJy1,2,nonwwdeycmslceclosintsseusted,o,ororoftewdeycnsmasteflananfrinofalgtysmttcswhflanas14CR1,ets.Ifadbyteflana,ted,o,ororofshwdeycmsliltelgtysmonaswntr()msarrtofsha)OnadarJy1,2,ayd,o,ororowdeycnsmtthscdclosiesewtalgtysmslaytotlananfrinadonofalgtysmttcswhflananrs14CR1,ets.Ifadbytefla,ted,o,ororofshwdeycnsmsliltelgtysmonadtswnsy()msfgsha)Ayd,o,ororwoisrdtoaytlalgtysmonawdeycmpttotersoftssnadwoisadbeflananfrshinslpeteIotndtdnofa,intefdmrpdbyted,neoftepsofteinofshlgtys.Ifteinoelgtysmisddbdateedpttotss,ted,o,ororsenetoteIotndtdnofasntlstnoeeyte()mstopeanueontsfrtedyadtectssoftei)Aycsadwhtei,i,o,admeofalgtysmslbet]
+[DELETED: yofted,o,ororoftewdeycns)Asudintss)"gtys"msatdgorayorcesmceofrgteiffyonlgwemgcysttoatatinigadagcnwhdeycns)"deycns"msaneygnfycgoffe()ormewdtsttay()ftortrinhtadayayssa,igs,mlt,e,tnl,adoratsN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

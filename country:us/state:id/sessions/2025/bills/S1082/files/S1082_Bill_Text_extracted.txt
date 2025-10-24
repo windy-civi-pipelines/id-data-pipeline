@@ -1,0 +1,83 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1082
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO ASSESSMENT LIENS; AMENDING SECTION 43-706, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING ASSESSMENT LIENS; AND DECLARING AN EMERGENCY AND
+4 PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 43-706, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 43-706. LIEN OF ASSESSMENT. (1) All assessments shall be liens against
+9 the property assessed from and after the first Monday in March of any year,
+10 the lien for the bonds of any series shall be a preferred lien to that of any
+11 subsequent series, except as in this title otherwise provided, and such lien
+12 shall not be removed until the assessments are paid or the property sold for
+13 the payment thereof.
+14 (2) Assessment liens shall be a first lien on the property assessed and
+15 shall be superior to the lien of any mortgage or deed of trust, whether prior
+16 in time or not.
+17 (3) The lien for the bonds of any series shall be a preferred lien to
+18 that of any subsequent series, except as otherwise provided in this title.
+19 (4) The lien shall not be removed until the assessments are paid, the
+20 property is sold for the payment thereof, or the assessments are canceled
+21 pursuant to section 43-716 or 43-1508, Idaho Code. Any mortgage or other
+22 lien on such assessed property shall, in all cases, be subject to the assess-
+23 ment lien provided in this section. Upon any sale of the property, the pur-
+24 chaser at such sale shall take the property subject to any annual assessment
+25 of the district that remains unpaid at the time of the sale.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YRSADETCNAGTOATL;AGSN4,IOC,TORSRGATL;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.LNOFA.()AlasslbelsaepyadfmadarteftMyinMhofayyelnfrtebsofayssslbeapdlntottofats,etasintsteoep,adshllntberdulteasaepdortepysdfeptt)Atlsslbeaftlnontepyadalbesrtotelnofaymeorddoft,wrpnteorn)Telnfrtebsofayssslbeapdlnttofaysts,etasoepdintst)Telnslntberdulteasaep,tyissdfrteptt,orteasaecttosn46or4,IoC.Aymeorononshadpys,inalc,besttoteatlnpdintss.Unayseoftep,tepratshsesltetepysttoayalaftedtttrsudatteteoftesN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1082
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO ASSESSMENT LIENS; AMENDING SECTION 43-706, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING ASSESSMENT LIENS; AND DECLARING AN EMERGENCY AND
+4 PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 43-706, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 43-706. LIEN OF ASSESSMENT. (1) All assessments shall be liens against
+9 the property assessed from and after the first Monday in March of any year,
+10 the lien for the bonds of any series shall be a preferred lien to that of any
+11 subsequent series, except as in this title otherwise provided, and such lien
+12 shall not be removed until the assessments are paid or the property sold for
+13 the payment thereof.
+14 (2) Assessment liens shall be a first lien on the property assessed and
+15 shall be superior to the lien of any mortgage or deed of trust, whether prior
+16 in time or not.
+17 (3) The lien for the bonds of any series shall be a preferred lien to
+18 that of any subsequent series, except as otherwise provided in this title.
+19 (4) The lien shall not be removed until the assessments are paid, the
+20 property is sold for the payment thereof, or the assessments are canceled
+21 pursuant to section 43-716 or 43-1508, Idaho Code. Any mortgage or other
+22 lien on such assessed property shall, in all cases, be subject to the assess-
+23 ment lien provided in this section. Upon any sale of the property, the pur-
+24 chaser at such sale shall take the property subject to any annual assessment
+25 of the district that remains unpaid at the time of the sale.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YRSADETCNAGTOATL;AGSN4,IOC,TORSRGATL;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.LNOFA.()AlasslbelsaepyadfmadarteftMyinMhofayyelnfrtebsofayssslbeapdlntottofats,etasintsteoep,adshllntberdulteasaepdortepysdfeptt)Atlsslbeaftlnontepyadalbesrtotelnofaymeorddoft,wrpnteorn)Telnfrtebsofayssslbeapdlnttofaysts,etasoepdintst)Telnslntberdulteasaep,tyissdfrteptt,orteasaecttosn46or4,IoC.Aymeorononshadpys,inalc,besttoteatlnpdintss.Unayseoftep,tepratshsesltetepysttoayalaftedtttrsudatteteoftesN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

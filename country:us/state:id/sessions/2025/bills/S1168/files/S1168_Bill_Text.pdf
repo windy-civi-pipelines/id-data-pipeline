@@ -1,0 +1,204 @@
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1168
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO STANDARD PROTECTION FOR ALL RESOURCES ON KIDS' DEVICES; AMEND-
+3 ING TITLE 48, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 21, TITLE 48,
+4 IDAHO CODE, TO PROVIDE A SHORT TITLE, TO PROVIDE A DECLARATION OF POL-
+5 ICY, TO DEFINE TERMS, TO REQUIRE INTERNET FILTERING ON CERTAIN DEVICES,
+6 TO PROVIDE FOR FILTER CAPABILITIES AND REQUIREMENTS, TO PROVIDE ADDI-
+7 TIONAL REQUIREMENTS FOR APP STORES, TO ESTABLISH PROVISIONS REGARDING
+8 MANUFACTURER LIABILITY, TO ESTABLISH PROVISIONS REGARDING DEVELOPER
+9 LIABILITY, AND TO PROVIDE FOR ATTORNEY GENERAL PROCEEDINGS; AND DECLAR-
+10 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Title 48, Idaho Code, be, and the same is hereby amended
+13 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+14 ter 21, Title 48, Idaho Code, and to read as follows:
+15 CHAPTER 21
+16 STANDARD PROTECTION FOR ALL RESOURCES ON KIDS' DEVICES ACT
+17 48-2101. SHORT TITLE. This chapter shall be known and may be cited as
+18 the "Standard Protection for All Resources on Kids' Devices Act."
+19 48-2102. DECLARATION OF POLICY. The Idaho legislature, recognizing
+20 the importance of mental health in the growth and education of minors and a
+21 need to protect minors from accessing or downloading content that is harm-
+22 ful, declares it to be the policy of the state to promote the mental health of
+23 minors and adopt a comprehensive and proactive approach to reducing minors'
+24 access to harmful content.
+25 48-2103. DEFINITIONS. As used in this chapter:
+26 (1) "Activate" means the process of powering on a device and associat-
+27 ing it with a user account.
+28 (2) "App" means a software application or electronic service that may
+29 be run or directed by a user on a computer, mobile device, or any other gen-
+30 eral purpose computing device.
+31 (3) "App store" means a publicly available website, software applica-
+32 tion, or other electronic service that distributes apps from third-party de-
+33 velopers to users of a computer, mobile device, or any other general purpose
+34 computing device.
+35 (4) "Content" means media accessible on a device, including but not
+36 limited to live or recorded television shows, movies, music, books, games,
+37 and apps.
+38 (5) "Developer" means any person that owns or controls an app available
+39 on an app store.
+
+2
+1 (6) "Device" means a tablet or smartphone that is capable of connecting
+2 to the internet and is manufactured on or after January 1, 2026.
+3 (7) "Filter" means software installed on a device that is capable of
+4 preventing the device from accessing or displaying obscene material or con-
+5 tent that is harmful to minors through internet browsers or search engines
+6 via mobile data networks, wired internet networks, and wireless internet
+7 networks. Additionally, a filter shall be capable of preventing the device
+8 from accessing material that is not suitable for minors pursuant to the pro-
+9 visions of section 48-2105, Idaho Code.
+10 (8) "Harmful to minors" means material that:
+11 (a) The average person applying contemporary community standards would
+12 find, taking the material as a whole and with respect to minors, is de-
+13 signed to appeal to, or is designed to pander to, the prurient interest;
+14 (b) Is devoted to or principally consists of descriptions of actual,
+15 simulated, or animated displays or depictions of any of the following,
+16 in a manner patently offensive with respect to minors:
+17 (i) Pubic hair, anus, vulva, genitals, or nipples of the female
+18 breast;
+19 (ii) Touching, caressing, or fondling of nipples, breasts, but-
+20 tocks, anuses, or genitals; or
+21 (iii) Sexual intercourse, masturbation, sodomy, bestiality, oral
+22 copulation, flagellation, excretory functions, exhibitions, or
+23 any other sexual act; and
+24 (c) Taken as a whole, lacks serious literary, artistic, political, or
+25 scientific value for minors.
+26 (9) "Internet" means the global information system that is logically
+27 linked together by a globally unique address space based on the internet
+28 protocol (IP), or its subsequent extensions, and that is able to support
+29 communications using the transmission control protocol/internet proto-
+30 col(TCP/IP) suite, or its subsequent extensions, or other IP-compatible
+31 protocols, and that provides, uses, or makes accessible, either publicly
+32 or privately, high-level services layered on communications and related
+33 infrastructure.
+34 (10) "Manufacturer" means a person or company that:
+35 (a) Is engaged in the business of manufacturing a device; and
+36 (b) Has a commercial designated registered agent as required by section
+37 30-21-402, Idaho Code.
+38 (11) "Minor" means an individual under eighteen (18) years of age who
+39 is not emancipated, married, or a member of the armed forces of the United
+40 States.
+41 (12) "Obscene material" means the same as that term is defined in sec-
+42 tion 18-4101, Idaho Code.
+43 (13) "Password" means a string of characters or numbers or other secure
+44 method used to enable, deactivate, modify, or uninstall a filter on a device.
+45 (14) "Smartphone" means an electronic device that combines a cellular
+46 phone with a handheld computer, typically offering internet access through a
+47 browser or search engine, data storage, text messaging, and email capabili-
+48 ties.
+
+3
+1 (15) "Tablet" means an internet-ready device equipped with an operating
+2 system, touchscreen display, rechargeable battery, and the ability to sup-
+3 port access to a cellular network.
+4 (16) "Virtual private network" or "VPN" means a technology that creates
+5 a secure, encrypted connection over the internet to a remote server owned by
+6 a VPN provider, allowing users to transmit data privately and anonymously by
+7 masking the user's IP address and location.
+8 48-2104. FILTER REQUIRED. (1) Beginning on January 1, 2026, all de-
+9 vices activated in this state must:
+10 (a) Contain a filter;
+11 (b) Determine the age of the user during activation and account setup;
+12 (c) Enable the filter for minor users;
+13 (d) Allow a password to be established for the filter;
+14 (e) Notify the user of the device when the filter blocks the device from
+15 accessing a website; and
+16 (f) Provide the password-holding user the opportunity to deactivate
+17 and reactivate the filter.
+18 (2) A device sold with a filter that complies with the provisions of
+19 this chapter and that is not capable of being disabled shall not be required
+20 to comply with the provisions of this section.
+21 48-2105. FILTER CAPABILITIES AND REQUIREMENTS. A filter, when acti-
+22 vated on a device, shall possess the capability to:
+23 (1) Prevent the device from accessing or displaying obscene material or
+24 content that is harmful to minors;
+25 (2) Prevent downloads on the device;
+26 (3) Notify the minor's parent or guardian of any download attempts or
+27 attempts to bypass the filter;
+28 (4) Prevent the use of a VPN on the device; and
+29 (5) Allow a parent or guardian to use a password to override the protec-
+30 tions established in subsections (1) through (4) of this section.
+31 48-2106. APP STORES -- ADDITIONAL REQUIREMENTS. (1) Beginning on Jan-
+32 uary 1, 2026, if a device provides access to an app store, the device's man-
+33 ufacturer shall require all app developers who sell or provide apps on such
+34 app store to identify, as to all apps sold or provided:
+35 (a) Whether such app has the ability to display, access, or link to ob-
+36 scene material or content that is harmful to minors or may contain ad-
+37 vertisements that include obscene material or content that is harmful
+38 to minors; and
+39 (b) Whether the app has the ability to bypass parental control set-
+40 tings.
+41 (2) If an app is identified as possessing any of the capabilities iden-
+42 tified in subsection (1) of this section, the manufacturer shall display
+43 such information whenever such app is attempted to be downloaded to the de-
+44 vice.
+45 (3) An app that possesses the capabilities identified in subsection
+46 (1) of this section shall not be downloaded to a device unless the correct
+47 filter password has been entered.
+
+4
+1 48-2107. MANUFACTURER LIABILITY. (1) Beginning January 1, 2026, a
+2 manufacturer of a device shall be subject to civil and criminal liability if:
+3 (a) The device is activated in this state;
+4 (b) The device does not comply with the requirements described in sec-
+5 tions 48-2104 through 48-2106, Idaho Code; and
+6 (c) A minor accesses obscene material or content that is harmful to mi-
+7 nors on the device.
+8 (2) Notwithstanding the provisions of subsection (1) of this section,
+9 this section does not apply to a manufacturer that makes a good faith effort
+10 to provide a device that, upon activation of the device in this state, au-
+11 tomatically enables a generally accepted and commercially reasonable filter
+12 that blocks obscene material and content that is harmful to minors on all in-
+13 ternet browsers and search engines accessed on the device in accordance with
+14 the provisions of section 48-2105, Idaho Code.
+15 (3) Nothing in this chapter shall be construed to create a cause of ac-
+16 tion against the retailer of a device.
+17 48-2108. DEVELOPER LIABILITY. (1) Beginning January 1, 2026, a devel-
+18 oper shall be subject to civil and criminal liability if:
+19 (a) The developer's app is available on devices in this state on or af-
+20 ter January 1, 2026;
+21 (b) The developer does not correctly identify the capabilities of the
+22 app pursuant to section 48-2106(1), Idaho Code; and
+23 (c) A minor accesses obscene material or content that is harmful to mi-
+24 nors using the app.
+25 (2) Notwithstanding the provisions of subsection (1) of this section,
+26 this section does not apply to a developer who makes a good faith effort to
+27 correctly identify the capabilities of an app.
+28 (3) Nothing in this section shall be construed to create a cause of ac-
+29 tion against the manufacturer of a device.
+30 48-2109. PROCEEDINGS BY THE ATTORNEY GENERAL. (1) Whenever the attor-
+31 ney general has reason to believe that a person violated or is violating the
+32 provisions of this chapter, the attorney general, acting in the public in-
+33 terest, may bring an action in the name of the state against such person:
+34 (a) To enjoin any action that constitutes a violation of this chapter by
+35 the issuance of a temporary restraining order or preliminary or perma-
+36 nent injunction;
+37 (b) To recover from the alleged violator a civil penalty not to exceed
+38 five thousand dollars ($5,000) per violation, and not to exceed a total
+39 of fifty thousand dollars ($50,000) in aggregate in any specific case,
+40 as determined by the court; and
+41 (c) To recover from the alleged violator the attorney general's reason-
+42 able expenses, investigative costs, and attorney's fees.
+43 (2) The attorney general may seek the revocation of any license or cer-
+44 tificate authorizing a manufacturer to engage in business in this state.
+45 (3) For purposes of assessing a penalty pursuant to this section, a man-
+46 ufacturer is considered to have committed a separate violation for each de-
+47 vice manufactured on or after January 1, 2026, that violates the provisions
+48 of section 48-2104, Idaho Code.
+
+5
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOSDPNFRALRSONK'D;AGTE4,IOC,BYTEANOFANWCR2,TE4OC,TOPEASTT,TOPEADNOFP,TODET,TOREITFGONCNDOPEFRFRCSADR,TOPEALRSFRAPS,TOEHPSRRL,TOEHPSRGD,ADTOPEFRAYGLP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te4,IoC,adtordasfR2DPNFRALRSONK'DSA.STT.Tscrslbeknadmybecdae"dPnfrAlRsonK'DsA.DNOFP.TeIol,reieofmlhhinteghadenofmsaddtoptmsfmagordgctttish,dsittobetepyoftesetopetemlhhosadataceadpeahtorgmstohlc.D.Asudintsc)""mstepsofpgonadeadagitwhaura)""msaseanorecsettmernorddbyauronac,med,orayorglpecgd)"ps"msapyaew,sea,ororecsettdsasfmtydstousofac,med,orayorglpgd)""msmaaeonad,igbtndtoleorrdtns,m,m,b,gda)""msaypnttosorcsanapananaps]
+[DELETED: )""msattorsettisceofcoteitadismdonorarJy1,2)""msseidonadettisceogtedefmagordgoemlorctttishltomsthitbsorsheamedan,wditn,adwsi.A,afrslbeceofpgtedmagmlttisntsefrmspttotepsofsn4,IoC)"ltom"msmlt)Teaepnagcycyssw,tgtemlasaweadwhrttom,isddtoalt,orisddtoprt,tepti)Isddtoorpycsofdsofa,oraddsordsofayoftefnamrpyoewhrttom)Pch,a,v,g,ornsoftef)T,c,orfgofn,b,b,a,org;o)Sli,m,s,b,o,f,eyf,e,oyorsla;a)Tnasaw,lsssl,a,p,ocvefrm)""msteglinsmttisldtrbyagyueassebdonteil(,orisste,adttisaetossugtetnclptp)s,orisste,ororI,adttp,u,ormsa,erprp,hlssldoncsadr)""msapnorcyt)Isedintebsofmgad;a)Hsaclddrdatasrdbys,IoC)""msaniluren()ysofaewsnte,m,oramrofteadfsofteU)"em"msteseastttmisddinsn1,IoC)""msasgofcsornsororsdudtoe,d,m,orulafronad)""msanecdettcsacewhahdc,tyogitasthrorshe,das,ttm,adelc]
+[DELETED: )""msaniydeedwhano,tnd,reb,adteaytostastoacrn)"lpen"or""msatyttcs,edcnorteittoaresrodbVNp,agustottdapyadaybgteusIPasadl.FRR.()BgonJy1,2,aldsadintssem)Cnaf)Deteaeofteurdganadats)Eetefrfrmru)Awapdtobeedfrtef)Nyteuroftedewntefrbstedefgaw;a)Petepgurteoytoddretef)Adesdwhafrttcswhtepsoscradttisntceofbgddslntberocywhtepsoftss.FRCSADR.Af,wnadonad,slpstecyt)Pttedefmagordgoemlotttishltom)Ptdsonted)Nytemsptorgnofayddasostobstef)PtteueofaVNonted;a)Awaptorgntoueapdtooetepsedinss()th()oftss.APSS--ALR.()BgonJy1,2,ifadepsastoanaps,tedsmrslrealapdswoslorpeasonspsetoi,astoalassdorp)Wrshaphsteaytod,a,orlktooemlorctttishltomsormycnasttieoemlorctttishom;a)Wrteaphsteaytobsplcls)Ifanapisidaspgayoftecsidinsn()oftss,temrsldhinwrshapisadtobeddtoted)Anapttpstecsidins)oftssnslntbeddtoadeustecrpdhsbne]
+[DELETED: .MRL.()BgJy1,2,rofadeslbesttocladcllyi)Tedeisadintss)Tededsntcywhtersddinss44th4,IoC;a)Amrasoemlorctttishltomsonted)Ngtepsofsn()oftssssndsntaytoamrttmsagdfheopeadet,unanoftedeintss,ayesagyadadcyreftbsoemladctttishltomsonalitbsadshesadontedeinaewepsofsn4,IoC)Ngintscrslbecdtoceaceofanatterrofad.DRL.()BgJy1,2,adrslbesttocladcllyi)TedsapisaeondsintsseonorarJy1,2)Tedrdsntcyiytecsoftppttosn4,IoC;a)Amrasoemlorctttishltomsugtea)Ngtepsofsn()oftssssndsntaytoadrwomsagdfhettyiytecsofana)Ngintssnslbecdtoceaceofanattemrofad.PSBYTEAYG.()Wrteayglhsrntobettapnvdorisvgtsoftsc,teayg,agintepci,mybgananinteneofteseatshp)Toenayanttcsavnoftscrbeieofatyrgororpyorpti)Torrfmteadvraclpynttoeetdds()prv,adnttoedatffytdds()inaeinaysccsddbytec;a)Torrfmteadvrteaygsree,iec,adasf)Teayglmyskternofayleorceagamrtoeeinbsintss)Frpsofagapypttotss,amriscdtohecdasevnfrehdemdonorarJy1,2,ttvstepfsn4,IoC]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,992 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1170
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ORE PROCESSING BY CYANIDATION; REPEALING SECTION 39-118A, IDAHO
+3 CODE, RELATING TO ORE PROCESSING BY CYANIDATION; AMENDING CHAPTER 1,
+4 TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-118A, IDAHO
+5 CODE, TO ESTABLISH PROVISIONS REGARDING ORE PROCESSING BY CYANIDA-
+6 TION; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA
+7 58.01.13 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING
+8 AN EMERGENCY.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 39-118A, Idaho Code, be, and the same is hereby
+11 repealed.
+12 SECTION 2. That Chapter 1, Title 39, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 39-118A, Idaho Code, and to read as follows:
+15 39-118A. ORE PROCESSING BY CYANIDATION. (1) As used in this chapter,
+16 unless the context requires otherwise:
+17 (a) "Application" means an application for a new or major modification
+18 permit.
+19 (b) "As-built submittal" means a report regarding the constructed
+20 cyanidation facility that is stamped by an Idaho-licensed professional
+21 engineer and that is consistent with the criteria for as-built documen-
+22 tation and other supporting documents, including:
+23 (i) As-built drawings; and
+24 (ii) Quality assurance and quality control documentation demon-
+25 strating that the constructed cyanidation facility, including
+26 controls, substantially conforms to the final permit and issued
+27 for construction data package, if applicable.
+28 (c) "Component or phase" means physical parts or locations of a
+29 cyanidation facility or temporal sequences of all or parts of a cyanida-
+30 tion facility, as applicable.
+31 (d) "Controls" means any containment structures, liners, pads, equip-
+32 ment, devices, procedures, or systems utilized to meet the requirements
+33 of this section.
+34 (e) "Cyanidation" means the method of extracting target precious met-
+35 als from ores by treatment with cyanide solution, which is the primary
+36 leaching agent for extraction.
+37 (f) "Cyanidation facility" means a portion of a new ore processing fa-
+38 cility, or a material or major modification of that portion of an exist-
+39 ing ore processing facility, that utilizes cyanidation and is intended
+40 to contain, treat, or dispose of cyanide-containing materials, includ-
+41 ing spent ore, tailings, and process water.
+2
+1 (g) "Cyanidation pollutants" means any chemical or constituent used or
+2 concentrated during cyanidation that is present in process water, spent
+3 ore, tailings, or other material from the cyanidation process in such
+4 concentrations or amounts that, if discharged into the environment,
+5 have the potential to cause adverse effects to any beneficial use of
+6 waters of the state or to degrade waters of the state.
+7 (h) "Department" means the Idaho department of environmental quality.
+8 (i) "Director" means the director of the department of environmental
+9 quality or an authorized designee.
+10 (j) "Final permit decision" means the director's final decision to ap-
+11 prove or deny, in whole or in part, an application for a permit or other
+12 decision to modify or revoke a previously issued permit.
+13 (k) "Issued for construction (IFC) data package" means plans and speci-
+14 fications for actual construction of a cyanidation facility consistent
+15 with the criteria for the IFC data package and other supporting docu-
+16 ments that is stamped by an Idaho-licensed professional engineer and
+17 includes the following:
+18 (i) IFC specifications, including any storage features or sec-
+19 ondary containments, as applicable;
+20 (ii) A final report documenting the basis of the design;
+21 (iii) IFC drawings depicting facility layout and typical sec-
+22 tions;
+23 (iv) Final capacity calculations;
+24 (v) Final load validation, if applicable; and
+25 (vi) Plans consistent with IFC design for closure, monitoring,
+26 water management, operations, maintenance, and surveillance.
+27 (l) "Major modification" or "material modification":
+28 (i) Means any change to a previously permitted cyanidation facil-
+29 ity that the department determines will:
+30 1. Cause, or increase the potential to cause, degradation
+31 of water or impairment to the beneficial use of waters of the
+32 state, including a new cyanide process or cyanidation facil-
+33 ity component or phase;
+34 2. Significantly change the capacity, location, or process
+35 of an existing cyanidation facility component, including
+36 a new cyanide process or cyanidation facility component or
+37 phase;
+38 3. Significantly change water quality compliance criteria
+39 or monitoring points; or
+40 4. Significantly change the site condition in a way that was
+41 not adequately described in the original permit applica-
+42 tion; and
+43 (ii) Does not mean or include:
+44 1. Reclamation and closure-related activities at a cyanida-
+45 tion facility with an existing permit that did not actively
+46 add cyanide after January 1, 2005; or
+47 2. Relocation of buildings, structures, or other similar
+48 modifications when such activity occurs within the same site
+49 footprint of the cyanidation facility, provided that con-
+50 tainment is maintained.
+3
+1 (m) "Permit" means a permit for a new or materially modified cyanida-
+2 tion facility.
+3 (n) "Procedural completeness" means that the permit application and
+4 its contents contain the required information, supporting plans, and
+5 documentation to allow the progression of the application to the tech-
+6 nical completeness review.
+7 (o) "Technical completeness" means that the permit application and its
+8 contents contain designs, specifications, supporting plans, and docu-
+9 mentation that comply with the provisions of this section to contain,
+10 control, and treat cyanidation process water, spent ore, tailings, and
+11 other material from the cyanidation process by having adequate contain-
+12 ment through the use of liners, barriers, structures, or other measures
+13 to prevent discharge of cyanidation pollutants into the environment
+14 that would impair beneficial use of waters of the state or would degrade
+15 waters of the state. For technical completeness, containment means:
+16 (i) Secondary containment for process equipment, tanks, and pip-
+17 ing; and
+18 (ii) Primary and secondary liners associated with leach pads,
+19 tailings storage facilities, and process ponds.
+20 (2)(a) A new or materially modified cyanidation facility shall not be
+21 constructed, operated, or closed prior to:
+22 (i) Obtaining a permit from the department pursuant to the provi-
+23 sions of this section and rules promulgated thereunder; and
+24 (ii) Obtaining necessary financial assurance and permanent clo-
+25 sure plan approvals applicable to cyanidation facilities pursuant
+26 to the requirements of chapter 15, title 47, Idaho Code, and rules
+27 promulgated thereunder.
+28 (b) A cyanidation facility with an existing permit approved by the de-
+29 partment prior to July 1, 2005, shall be subject to the applicable laws
+30 and rules for ore processing by cyanidation in effect on June 30, 2005.
+31 If there is a material modification of a cyanidation facility after June
+32 30, 2005, all provisions of this chapter shall apply to the modification
+33 or expansion. Reclamation or closure-related activities at a facility
+34 with an existing cyanidation permit approved by the department that did
+35 not actively add cyanide processes after January 1, 2005, shall not be
+36 considered a material modification or expansion thereof.
+37 (3) A cyanidation facility shall be:
+38 (a) Designed with controls sufficient to contain, control, and treat
+39 cyanidation process water, spent ore, tailings, and other material from
+40 the cyanidation processes to prevent discharge of cyanidation pollu-
+41 tants into the environment that would impair beneficial use of waters of
+42 the state or degrade waters of the state. Such controls shall be based
+43 on generally accepted design standards that are consistent with gener-
+44 ally accepted engineering practices and quality control and quality as-
+45 surance procedures; and
+46 (b) Maintained and operated in a manner that prevents discharge of
+47 cyanidation pollutants into the environment that would impair benefi-
+48 cial use of waters of the state or degrade waters of the state.
+49 (4) The department shall not issue a permit pursuant to this section un-
+50 less a permanent closure plan for the cyanidation facility has been submit-
+4
+1 ted for approval under chapter 15, title 47, Idaho Code. Any permit issued by
+2 the department pursuant to this section shall prohibit construction and op-
+3 eration of the cyanidation facility until the permittee submits proof to the
+4 department that financial assurance for the cyanidation facility permanent
+5 closure plan has been provided as required by chapter 15, title 47, Idaho
+6 Code.
+7 (5)(a) The director may deny a permit application if:
+8 (i) The application is procedurally or technically incomplete
+9 and cannot be made complete with additional clarifying or supple-
+10 mental information as requested by the department and provided by
+11 the applicant;
+12 (ii) The cyanidation facility, or any component or phase thereof,
+13 as proposed, cannot be conditioned for construction, operation,
+14 and closure in a way that complies with the provisions of this sec-
+15 tion and rules promulgated thereunder; or
+16 (iii) Any payment required by the cost recovery agreement is due
+17 and unpaid.
+18 (b) If an application is denied, the director shall provide written no-
+19 tice to the applicant explaining the basis for the rejection.
+20 (6) The department may request that the applicant provide supplemental
+21 or clarifying information at any point in the permitting process pursuant
+22 to this section and rules promulgated thereunder until a final permit deci-
+23 sion is issued. The applicant's failure or refusal to correct deficiencies
+24 or supply additional information as requested may result in permit denial.
+25 (7)(a) Before conducting a pre-application conference or submitting a
+26 preliminary design report, the applicant and department shall execute
+27 a cost recovery agreement. The cost recovery agreement shall provide
+28 for the recovery of the actual costs incurred by the department during
+29 the permitting process pursuant to this section and rules promulgated
+30 thereunder. The cost recovery agreement may provide for recovery of
+31 actual costs incurred by the department for any other service rendered
+32 pursuant to this section and rules promulgated thereunder if the appli-
+33 cant so agrees. The permitting process may include but is not limited
+34 to:
+35 (i) Pre-application meetings and interactions with the appli-
+36 cant;
+37 (ii) Reviewing pre-application submittals, including the prelim-
+38 inary design report, conceptual designs, draft plans, and other
+39 supporting documents;
+40 (iii) Conducting procedural completeness and technical reviews;
+41 (iv) Reviewing supplemental information and revised documents;
+42 (v) Reviewing final designs, supporting plans, and other docu-
+43 ments;
+44 (vi) Developing a draft permit and fact sheet;
+45 (vii) Reviewing and preparing responses to public comments;
+46 (viii) Developing a final permit and fact sheet;
+47 (ix) Contracting with a third-party consultant; and
+48 (x) Other activities related to processing permit applications.
+49 (b) After a cost recovery agreement is executed, the department shall
+50 conduct a pre-application conference with the applicant. After the
+5
+1 pre-application conference is held, the applicant shall submit a pre-
+2 liminary design report and permit application.
+3 (8) A permit application shall:
+4 (a) Address all of the criteria and standards provided in this section
+5 and rules promulgated thereunder;
+6 (b) Include the proposed plans and specifications for controls to con-
+7 tain, control, and treat cyanidation process water, spent ore, tail-
+8 ings, and other material from the cyanidation processes that the pro-
+9 posed cyanidation facility will have to prevent discharges of cyanida-
+10 tion pollutants into the environment that would impair beneficial use
+11 of waters of the state or degrade waters of the state. The proposed de-
+12 signs and specifications shall be based on generally accepted engineer-
+13 ing practices and quality control and quality assurance procedures; and
+14 (c) Not be required to have the level of design and engineering neces-
+15 sary for the IFC data package, provided that in the final permit the di-
+16 rector may condition construction on the review and approval of an IFC
+17 data package in accordance with subsection (18) of this section.
+18 (9) A water quality monitoring plan for a cyanidation facility:
+19 (a) Shall specify points of compliance and associated water quality
+20 compliance criteria for cyanidation pollutants for surface water and
+21 ground water;
+22 (b) Shall specify monitoring points and threshold concentrations for
+23 parameters that provide for early detection of cyanidation pollutant
+24 discharge; and
+25 (c) May not be required to contain points of compliance, compliance
+26 criteria, or monitoring locations for contaminants that are covered by
+27 other permits issued by the department, including ground water points
+28 of compliance established by rule for proposed mine activities, includ-
+29 ing cyanidation facilities.
+30 (10)(a) The department's review of any application made pursuant to
+31 this section shall not duplicate or conflict with other permits or the
+32 permitting process for other permits required pursuant to Idaho law,
+33 including permits administered by the department regarding protecting
+34 air, surface water, and ground water resources and authorizations made
+35 by the Idaho department of lands regarding reclamation and closure of a
+36 cyanidation facility. To the extent that other permits under Idaho law
+37 do not address or regulate potential cyanidation pollutants discharged
+38 from a cyanidation facility, the department may review and address such
+39 cyanidation pollutants or other pollutants in accordance with the pro-
+40 visions of this section and rules promulgated thereunder.
+41 (b) The department's review of an application shall be limited to the
+42 criteria and standards provided in this section and rules promulgated
+43 thereunder.
+44 (c) The department's review of an application for a major modification
+45 of a permit shall be limited to the proposed material modifications to
+46 the cyanidation facility that are required to be included therein.
+47 (11)(a) Within one hundred eighty (180) days of receiving an applica-
+48 tion, the director shall deliver to the applicant a written notice of
+49 rejection or approval. If the director fails to deliver a notice of
+50 rejection or approval within such time period, the submitted applica-
+6
+1 tion shall be deemed approved and the applicant may proceed with the
+2 construction, operation, or closure as if notice of approval had been
+3 received from the director.
+4 (b) Within thirty (30) days of receiving an application, the director
+5 shall review the application for procedural completeness, in whole or
+6 in part, and issue written notice to the applicant and the Idaho depart-
+7 ment of lands indicating that the application, in whole or in part for
+8 specific components or phases, is procedurally complete or procedu-
+9 rally incomplete. If the application, or any part thereof, is procedu-
+10 rally incomplete, the director shall explain the specific deficiencies
+11 and may request additional information. A determination that an appli-
+12 cation, or any part thereof, is procedurally complete shall not pre-
+13 clude the department from requiring the applicant to submit additional
+14 information for the department to continue processing the application.
+15 (c) Within sixty (60) days of the notice that the application is proce-
+16 durally complete, in whole or in part, the director shall complete re-
+17 view of the application for technical completeness, in whole or in part.
+18 If the director determines that the application, or specific components
+19 or phases thereof, satisfies the technical completeness requirements
+20 provided in this section and rules promulgated thereunder, the director
+21 shall:
+22 (i) Prepare a draft permit and fact sheet for the application or a
+23 specific component or phase thereof pursuant to the provisions of
+24 subsections (13) and (14) of this section;
+25 (ii) Provide public notice pursuant to subsections (21) through
+26 (23) of this section;
+27 (iii) Allow public comment pursuant to subsection (26) of this
+28 section; and
+29 (iv) Hold a public meeting pursuant to subsection (25) of this
+30 section.
+31 (12)(a) The department may contract with a third-party consultant to
+32 support review of an application, in whole or in part.
+33 (b) The director may, in his discretion, review and approve the ap-
+34 plication in part for specific components or phases of a cyanidation
+35 facility if such components or phases of the facility and the provisions
+36 of the application with respect thereto satisfy the requirements of
+37 this section. The director shall obtain the consent of the applicant
+38 prior to reviewing an application in part, and if obtained, shall work
+39 with the applicant to create a schedule for review of the application in
+40 part. Approving a component or phase of an application shall not imply
+41 the approval of the remaining components or phases. If an application
+42 is reviewed in part, the remaining components or phases of the applica-
+43 tion:
+44 (i) Shall not be subject to the timing requirements of subsection
+45 (11) of this section;
+46 (ii) Shall not be considered permit modifications if subsequent
+47 changes to the application do not constitute material modifica-
+48 tions from the original application; and
+49 (iii) Shall be subject to public notice and comment provisions of
+50 subsections (21) through (26) of this section.
+7
+1 (13) A draft or final permit shall contain:
+2 (a) All conditions necessary to require controls sufficient to prevent
+3 or mitigate the potential for the discharge of cyanidation pollutants
+4 into the environment that would impair beneficial use of waters of the
+5 state or degrade waters of the state;
+6 (b) Any information incorporated into the permit by reference; and
+7 (c) Any and all other conditions the director finds necessary to ensure
+8 compliance with this section and rules promulgated thereunder, includ-
+9 ing but not limited to:
+10 (i) Review and approval of an IFC data package prior to authoriz-
+11 ing commencement of construction; and
+12 (ii) Review and approval of a permanent closure plan and issuance
+13 of financial assurance pursuant to chapter 15, title 47, Idaho
+14 Code, and rules promulgated thereunder.
+15 (14) A fact sheet shall be published with a draft permit. The fact sheet
+16 shall:
+17 (a) State the principal facts and describe the proposed activity sought
+18 to be permitted;
+19 (b) Briefly describe the proposed cyanidation facility, operating
+20 plan, and application and state whether the application is being re-
+21 viewed in whole or in part;
+22 (c) State any significant legal and policy questions considered, in-
+23 cluding statutes, regulations, and references to the administrative
+24 record;
+25 (d) Summarize the conditions imposed in the permit; and
+26 (e) Provide the name and phone number of the department representative
+27 to contact for additional information.
+28 (15) A final permit shall be modified, as necessary, based on review of
+29 public comments, supplemental information received, and other appropriate
+30 reasons. The fact sheet shall be updated to reflect public comments, supple-
+31 mental information received, and modifications, if any, to the permit, and
+32 shall be published with the final permit.
+33 (16)(a) A final permit issued pursuant to this section shall expire in
+34 two (2) years if construction has not been commenced. The applicant may
+35 request, in writing, that the two (2) year period be extended. The di-
+36 rector may, in his discretion, allow a reasonable extension thereof.
+37 (b) A final permit shall remain valid until the director determines
+38 that permanent closure is completed or the director revokes or modifies
+39 the permit.
+40 (17) Construction of a new or a materially modified cyanidation facil-
+41 ity shall not deviate from the plans and specifications approved by the de-
+42 partment.
+43 (18)(a) A final permit issued pursuant to this section shall authorize
+44 the immediate commencement of construction and operation of a cyanida-
+45 tion facility in accordance with the terms of the permit.
+46 (b) A final permit may condition the commencement of construction of
+47 a cyanidation facility or a component or phase thereof on the depart-
+48 ment's review and approval of an IFC data package. If an applicant is
+49 required to provide an IFC data package, the director:
+8
+1 (i) Shall meet with the applicant at least sixty (60) days prior
+2 to the submittal of the IFC data package to discuss the status of
+3 the data package and any minor modifications from the final permit
+4 that the applicant is proposing;
+5 (ii) May open a public comment period for no more than thirty (30)
+6 days after receiving the IFC data package;
+7 (iii) Shall complete review of the IFC data package within sixty
+8 (60) days from the director's receipt of the data package to con-
+9 firm that the data package is consistent with the plans and speci-
+10 fications approved in the final permit; and
+11 (iv) Shall authorize construction, in whole or in part, if the di-
+12 rector finds that the IFC data package meets the requirements of
+13 this section and rules promulgated thereunder, and that all other
+14 conditions of the final permit have been satisfied.
+15 (19) Within thirty (30) days of completing construction on a cyanida-
+16 tion facility or component or phase thereof, if applicable, the operator
+17 shall submit an accurate as-built submittal depicting that actual con-
+18 struction of the cyanidation facility or component or phase thereof, if
+19 applicable, does not deviate from the plans and specifications approved in
+20 the permit and IFC data package, if applicable.
+21 (20) Public notice shall not be required when a preliminary design re-
+22 port submitted by an applicant is rejected or when an application, or any
+23 part thereof, is deemed incomplete.
+24 (21) The director shall give public notice of:
+25 (a) A determination that an application is procedurally complete;
+26 (b) Publication of a draft permit and fact sheet;
+27 (c) Any authorized public comment period or public meeting;
+28 (d) Issuance of a final permit and fact sheet;
+29 (e) Approval to construct, if the final permit conditioned construc-
+30 tion on the department's review and approval of an IFC data package;
+31 (f) A decision to reject a permit application;
+32 (g) A decision to revoke a permit; and
+33 (h) The filing of any appeal from any decision of the director with
+34 respect to any permit application for a new or materially modified
+35 cyanidation facility.
+36 (22) A public notice issued pursuant to this section shall contain:
+37 (a) A description of the cyanidation facility and its location;
+38 (b) A description of the public involvement procedures;
+39 (c) Information regarding the public comment period, if applicable;
+40 (d) Information regarding the time and place of the public meeting, if
+41 applicable;
+42 (e) Information on how to obtain additional available public informa-
+43 tion;
+44 (f) The name and phone number of the department representative to con-
+45 tact for additional information; and
+46 (g) Such other information as the department deems necessary.
+47 (23) Public notice shall be given by:
+48 (a) Certified or electronic mail to:
+49 (i) The applicant;
+9
+1 (ii) Persons on the public notice mailing list developed pursuant
+2 to subsection (24) of this section; and
+3 (iii) All federal, tribal, state, and local government entities
+4 who have an interest in the outcome of the permitting process;
+5 (b) Publication for two (2) consecutive weeks in a daily or weekly news-
+6 paper of general circulation in the area of the proposed cyanidation fa-
+7 cility; and
+8 (c) Any other method reasonably calculated to give actual notice to po-
+9 tentially affected persons.
+10 (24) The department shall develop a mailing list for public notices is-
+11 sued pursuant to this section by recording the names and contact informa-
+12 tion of those who request, in writing, to be on such list. The department
+13 shall make available on its website the ability to join the mailing list and
+14 shall periodically publish notice of the ability to join the mailing list in
+15 the local press, regional and state-funded newsletters, environmental bul-
+16 letins, state law journals, or similar publications. The department may pe-
+17 riodically update the mailing list by requesting written indication of con-
+18 tinued interest from those listed and may delete from the list the name of any
+19 person who fails to respond to the department's request.
+20 (25) Within thirty (30) days of the public notice of publication of a
+21 draft permit, the department shall hold a public meeting.
+22 (26) Public comment on a draft permit shall be permitted for sixty (60)
+23 days beginning on the date of the initial public notice of publication of a
+24 draft permit. Only written public comments received during the public com-
+25 ment period shall be accepted and considered by the department.
+26 (27) The department shall respond to all written public comments indi-
+27 vidually, except when comments can be responded to by theme or topic. All
+28 written comments received during this public comment period and the depart-
+29 ment's response thereto shall be made publicly available.
+30 (28) Within thirty (30) days of the end of the public comment period, the
+31 director shall provide public notice of the final permit decision. This no-
+32 tice shall:
+33 (a) Specify which provisions, if any, of the draft permit have been
+34 changed in the final permit and summarize the reasons for such changes;
+35 (b) Include information on how to view the public comments received and
+36 the department's responses thereto; and
+37 (c) Include information regarding the procedures for administrative
+38 appeal under applicable law.
+39 (29) The Idaho department of lands shall participate in public comment
+40 and meetings regarding performance criteria for permanent closure of a
+41 cyanidation facility.
+42 (30) The director and the applicant may agree to pause or extend the
+43 statutory time frames established in this section for a reasonable time,
+44 provided that:
+45 (a) The sixty (60) day technical completeness review may be paused upon
+46 the agreement of the director and the applicant for a period not to ex-
+47 ceed one (1) year from the date of the director's notice of procedural
+48 completeness to allow the applicant to submit additional information
+49 requested by the department; and
+10
+1 (b) Time frames requiring action by the director or department shall
+2 not be extended by more than sixty (60) days.
+3 (31) Research and development activities, including bench and pilot
+4 scale testing facilities, shall be exempt from the provisions of this sec-
+5 tion and rules promulgated thereunder.
+6 (32) The provisions of this section shall be applied retroactively to
+7 all permit applications submitted to the department on or before January 1,
+8 2025, that are still under review by the department as of July 1, 2025.
+9 (33)(a) The department shall promptly commence an administrative re-
+10 view of IDAPA 58.01.13 and shall promulgate rules, subject to legisla-
+11 tive approval, to bring such rules into compliance with the provisions
+12 of this section.
+13 (b) The department shall have until July 1, 2025, to issue temporary
+14 rules, if necessary, to administer the provisions of this section.
+15 SECTION 3. The rules contained in IDAPA 58.01.13, Department of Envi-
+16 ronmental Quality, relating to Rules for Ore Processing by Cyanidation, Sec-
+17 tion 100., Subsection 04.; Section 300.; Section 400.; Section 450.; and
+18 Section 550., shall be null, void, and of no force and effect on and after
+19 passage and approval of this act.
+20 SECTION 4. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after its
+22 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOOEPGBYC;RGSN3,I,RGTOOEPGBYC;AGCR1E3,IOC,BYTEANOFANWSN3,I,TOEHPSRGOEPGBYC;PGTTCNAERSCDINI3SLBEN,V,ADOFNOFEADE;ADDNEeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishN2.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.OEPGBYC.()Asudintscstectrso)""msananfranwormrm)"ts"msartrgtecnfyttissdbyanIdpradttisctwhtecafratdnadorsgd,i)Atd;a)Qyaeadqycldndgtttecdcnf,i,sycstoteflptadircndap,ifa)"torp"msplpsorlsofnfyortlssofalorpsofacnf,asa)""msaycts,l,p,e,d,p,orssudtomtterftss)""mstemdofegttpsmsfmosbyttwhces,whistepgatfre)"nf"msapnofanwoepgf,oramlormrmnofttpnofanegoepgf,ttuscnadisioc,t,ordeofcgm,igsto,t,adpsw]
+[DELETED: )"np"msayclorctudoddgcnttisptinpsw,s,t,orormlfmtecnpsinssorast,ifddioteeetepltoceaeestoayblueosofteseortodewsoftes)""msteIodtofelq)""mstedroftedtofeyoranadd)"lptd"mstedsfldntoaeord,inweorinp,ananfraptorontomyorreapyidp)"dfrcn()dap"mspsadssfralcnofacnfychtecafrteICdapeadorsgdsttissdbyanIdplerastef)ICs,igaysefsorsyc,asa)Aflrtdgtebsofted)ICdsdgfyltadtls)Flcyc)Flldv,ifa;a)PsctwhICdnfrc,mrm,o,m,ads)"rm"or"lm)Msaycetoapypdcnfytttedtdsw.C,orietepltoc,dfwrorittoteblueofwsoft,iganwcepsorcnfyctorp.Sycetec,l,orpfanegcnfyc,inwcepsorcnfycto.Sycewrqycecrmgp;o.Sycetesecninawyttwtayddinteolpta;a)Dsntmnori.RnadcdasatacnfywhanegptttddntadcearJy1,2;o.Rnofb,s,ororsswnshayoswntesestoftecnf,pdttctism]
+[DELETED: )""msaptfranwormymdcnf)"lc"msttteptanascscnterdi,sgp,antoawtepnofteantotetlcsr)"lc"msttteptanadiscnd,s,sgp,addnttcywhtepsoftssntoc,adttcnpsw,sto,t,armlfmtecnpsbyhgaectthteueofl,b,s,orormoptdeofcnpsioteetwdirblueofwsofteseorwddsoftes.Frtlc,ctm)Syctfrpse,t,adp;a)Pyadsylsadwhlhpssef,adpsp)Anwormymdcnfyslntb,o,orcdprt)Ogaptfmtedtpttotepsoftssnadrspdt;a)Ognyflaeadptcepnasaetocnfspotersofcr1,te4,IoC,adrdt)AcnfywhanegptadbytedtprtoJy1,2,slbesttoteaeldrsfroepgbycninetonJe3,2fteisamlmnofacnfyarJ,2,alpsoftscrslaytotemre.RnorcdasatafhanegcnptadbytedtttdtayadcepsarJy1,2,slntbdamlmnorent)Acnfyslb)Ddwhcssttoc,c,adtnpsw,sto,t,adormlfecnpstoptdeofcnpsioteetttwdirblueofwsoeseordewsoftes.Shcsslbebngyaddnssttaectwhgyadegpsadqycladqyaep;a)Mdadodinamrttpsdeonpsioteetttwdirblueofwsofteseordewsoftes)Tedtslntieaptpttotssnusaptcepnfrtecnfyhsbns]
+[DELETED: dfralurcr1,te4,IoC.Ayptidbedtpttotssnslptcnadonoftecnfyultepesspftottttflaefrtecnfypepnhsbnpdasrdbycr1,te4,I)Tedrmydyaptani)Teanispyortyidctbemecewhalcgorslinasrdbytedtadpdbea)Tecnf,orayctorpetsp,ctbecdfrc,odceinawyttcswhtepsoftssnadrspdt;o)Ayptrdbytectryatisddu)Ifananisd,tedrslpewnnetoteategtebsfrter)Tedtmyrtttteatpesrcginatayptintepgpspotssnadrspdtrulaflptdnisi.Teasfeorrltoctdrsyalinasrdmyrtinptd)Becgapnceorsgydnr,teataddtslectrya.Tectryatslprteryoftealcsidbytedtdepgpspttotssnadrsp.Tectryatmypefrryolcsidbytedtfrayorserttotssnadrspdtrifteatsoa.Tepgpsmyiebtisntl)Pnmsadiswhtea)Rgpns,igtepydnr,cld,dtp,adogd)Cgplcsadtlr)Rgslinadrdd)Rgfld,sgp,adord)Dgadtptadfts)Rgadpgrstopcc)Dgaflptadfts)Cgwhatyc;a)Orasrdtopgpta)Aractryatise,tedtstapncewhtea.Art]
+[DELETED: nceish,teatslstapydnrtadpta)Aptans)Asaloftecaadsspdintssdrspdt)Ietepdpsadssfrcstoc,c,adttcnpsw,sto,t,adormlfmtecnpstttepdcnfywlhetoptdsofcnpsioteetttwdirblufwsofteseordewsoftes.Tepddsadssslbebdongyadegpsadqycladqyaep;a)NtberdtohetellofdnadegnyfrteICdap,pdttinteflpttedrmycncnonterwadalofanIapeinaewhsn()oftss)Awrqymgpnfracnf)Slsypsofceadadwrqecafrcnpsfrsewradw)Slsymgpsadtdcsfsttpefreydnofcnp;a)Myntberdtocnpsofc,c,ormglsfrcsttaecdbrpsidbyted,iggdwrpfceedbyrefrpdmea,igcnf)TedsrwofayanmepttssnslntdeorctwhorpsortgpsfrorpsrdpttoIolgpsadbytedtrgp,sew,adgdwrrsadasmyteIodtoflsrgrnadceofnf.ToteetttorpsurIolontasorreplcnpsdmacnf,tedtmyrwadassnpsororpsinaewhtepsoftssnadrspdt)Tedsrwofananslbeldtotaadsspdintssnadrsp)Tedsrwofananframrmfaptslbeldtotepdmlmstecnfyttaerdtobeidt)Wnoehdey()dsofrgana,tedrsldrtoteatawnneonora.Iftedrfstodraneonoralwnshtep,tesda]
+[DELETED: nslbeddadadteatmypdwht,o,orceasifneofalhdbdfmted)Wnty()dsofrgana,tedlrwteanfrplc,inweonp,adiewnnetoteatadteIodtoflsigtttea,inweorinptfccsorp,ispyceorpyi.Iftea,orayptt,ispyi,tedrslentescddmyrtali.Adnttana,orayptt,ispyceslntpetedtfmrgteattostanfrtedttocepgtea)Wnsy()dsoftenettteanispyc,inweorinp,tedrslcerwofteanfrtlc,inweorinpftedrdstttea,orsccrpst,sstetlcsrdintssnadrspdt,ted)Peadtptadftstfrteanorcctorpetfpttotepsos()ad()oftss)Pepcnepttoss()t)oftss)Awpcctpttosn()oft;a)Hdapcmgpttosn()oft)Tedtmyctwhatyctttrwofana,inweorinp)Tedrm,inhsd,rwadaeteaninptfrsccsorpsofacyifshcsorpsoftefyadtepfteanwhrttosytersoss.Tedrslontectofteartorgananinp,adifo,slwhteattoceasefrrwofteani.Agactorpeofananslntiealoftergcsorp.Ifanasrdinp,tergcsorpsoftea)Slntbesttotetgrsofs)oftss)Slntbecdptmsifsstoteandontcemlmsfmteola;a)Slbesttopcneadctpsos()th()oftss]
+[DELETED: )Adtorflptslc)Alcsnytorecssttoprmeteplfrtedeofcnpoteetttwdirblueofwsofteordewsoftes)Ayinidioteptbyr;a)Ayadalorcstedrfsnytoeewhtssnadrspdt,igbtntldt)RwadalofanICdapeprtoagctofc;a)Rwadalofaptcepnadifflaepttocr1,te4,I,adrspdt)Aftstslbepdwhadtp.Tefts)Seteplfsaddetepdaysobep)Bydetepdcnf,o,adanadsewrteanisbgrdinweorinp)Seaystlladpyqsc,igs,r,adrstotea)Setecsidintep;a)Peteneadpenroftedtroctfrali)Aflptslbem,asn,bdonrwocc,slinr,adora.Teftstslbeudtortpcc,slinr,adm,ifa,totep,albepdwhteflp)Aflptidpttotssnsleeio()ysifcnhsntbnc.Teatm,inw,ttteto()yrpdbee.Tedrm,inhsd,awareent)Aflptslrnvdultedrdtptceiscdortedrrsormep)Cnofanworamymdcnfyslntdefmtepsadssadbyted)Aflptidpttotssnslaeiectofcnadonofacnfyinaewhtetsoftep)AflptmycntectofcnocnfyoractorpetfontedsrwadalofanICdap.IfanatidtopeanICdap,ted]
+[DELETED: )Slmtwhteatatltsy()dspoteslofteICdapetodstessoedapeadaymrmsfmteflptteatisp)Myonapcctpdfrnometnty(sarrgteICdap)SlcerwofteICdapewns)dsfmtedsrtoftedapetocmtttedapeisctwhtepsadssadinteflp;a)Slaec,inweorinp,iftedrfsttteICdapemstersossnadrspdt,adttalosofteflpthebns)Wnty()dsofcgcnonacnfyorctorpet,ifa,teolstanaeatsldgttalcnoftecnfyorctorpet,i,dsntdefmtepsadssadieptadICdap,ifa)Pcneslntberdwnapydnrtsdbyanatisrdorwnana,oratt,isddi)Tedrslgepcneo)Adnttananispyc)Pnofadtptadfts)Ayadpcctpdorpcm)Ieofaflptadfts)Altoc,ifteflptcdcnontedsrwadalofanICdap)Adntortapta)Adntoreap;a)Tefgofayalfmaydnoftedrwttoayptanfranwormymnf)Apcneidpttotssnslc)Adnoftecnfyadisl)Adnoftepcitp)Inrgtepcctp,ifa)Inrgteteadpeoftepcm,i)Inonhwtoonalaepci)Teneadpenroftedtretoctfrali;a)Shorinastedtdsn)Pcneslbegnb)Cdorecmlt)Tea]
+[DELETED: )Psontepcnemgltddposn()oftss;a)Alf,t,s,adllgteoheanitinteoeoftepgp)Pnfrto()cewsinadyorwynrofglcninteaaoftepdcnf;a)Ayormdrycdtogealnetopyadp)Tedtsldpamgltfrpcnsidpttotssnbyrgtensadctinoftewor,inw,tobeonshl.Tedlmeaeonisweteaytojntemgltalpyphneofteaytojntemgltiellp,rladsdn,elb,selwj,orsrp.Tedtmypyuetemgltbyrgwninofcditfmteldadmydefmteltteneofanwofstordtotedsr)Wnty()dsoftepcneofpnoftp,tedtslhdapcm)Pcctonadtptslbepdfrsy(sbgontedeofteilpcneofpnoftp.Oywnpccsrddgtepcctpdslbeadadcdbyted)Tedtslrdtoalwnpccsi,etwncscnberdtobyteort.Ancsrddgtspcctpdadtedsretoslbemepya)Wnty()dsofteedoftepcctp,trslpepcneofteflptd.Tsnes)Sywhp,ifa,oftedtpthebdinteflptadsetersfrshc)Ieinonhwtovwtepccsrdaedsrst;a)Ieinrgtepsfralurael)TeIodtoflsslpeinpccdmsrgpecafrptceofnf)Tedradteatmyaetopeoredtytefsedintssnfraretdt)Tesy()dytlcsrwmybepdueatoftedradteatfrapdnttoedoe()yrfmtedeoftedsneofpstoawteattostalidbyted;a]
+[DELETED: )Tefsrganbytedrordtstbeedbymetnsy()d)Rhaddta,igbhadpetgf,slbeetfmtepsoftssnadrspdt)TepsoftssnslbeadrytlptassdtotedtonorbeJy1,ttaeslurrwbytedtasofJy1,2)TedtslpyceanaerwofIA53adslper,sttolea,tobgshrsiocewhtepftss)TedtslheulJy1,2,toiet,ifn,toartepsoftssN3.TerscdinIA5,DtofElQ,rgtoRsfrOePgbyC,Sn1,Sn0;Sn3;Sn4;Sn4;an5,slben,v,adofnofeadetonadaeadaloftsaN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1170
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ORE PROCESSING BY CYANIDATION; REPEALING SECTION 39-118A, IDAHO
+3 CODE, RELATING TO ORE PROCESSING BY CYANIDATION; AMENDING CHAPTER 1,
+4 TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-118A, IDAHO
+5 CODE, TO ESTABLISH PROVISIONS REGARDING ORE PROCESSING BY CYANIDA-
+6 TION; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA
+7 58.01.13 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING
+8 AN EMERGENCY.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 39-118A, Idaho Code, be, and the same is hereby
+11 repealed.
+12 SECTION 2. That Chapter 1, Title 39, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 39-118A, Idaho Code, and to read as follows:
+15 39-118A. ORE PROCESSING BY CYANIDATION. (1) As used in this chapter,
+16 unless the context requires otherwise:
+17 (a) "Application" means an application for a new or major modification
+18 permit.
+19 (b) "As-built submittal" means a report regarding the constructed
+20 cyanidation facility that is stamped by an Idaho-licensed professional
+21 engineer and that is consistent with the criteria for as-built documen-
+22 tation and other supporting documents, including:
+23 (i) As-built drawings; and
+24 (ii) Quality assurance and quality control documentation demon-
+25 strating that the constructed cyanidation facility, including
+26 controls, substantially conforms to the final permit and issued
+27 for construction data package, if applicable.
+28 (c) "Component or phase" means physical parts or locations of a
+29 cyanidation facility or temporal sequences of all or parts of a cyanida-
+30 tion facility, as applicable.
+31 (d) "Controls" means any containment structures, liners, pads, equip-
+32 ment, devices, procedures, or systems utilized to meet the requirements
+33 of this section.
+34 (e) "Cyanidation" means the method of extracting target precious met-
+35 als from ores by treatment with cyanide solution, which is the primary
+36 leaching agent for extraction.
+37 (f) "Cyanidation facility" means a portion of a new ore processing fa-
+38 cility, or a material or major modification of that portion of an exist-
+39 ing ore processing facility, that utilizes cyanidation and is intended
+40 to contain, treat, or dispose of cyanide-containing materials, includ-
+41 ing spent ore, tailings, and process water.
+
+2
+1 (g) "Cyanidation pollutants" means any chemical or constituent used or
+2 concentrated during cyanidation that is present in process water, spent
+3 ore, tailings, or other material from the cyanidation process in such
+4 concentrations or amounts that, if discharged into the environment,
+5 have the potential to cause adverse effects to any beneficial use of
+6 waters of the state or to degrade waters of the state.
+7 (h) "Department" means the Idaho department of environmental quality.
+8 (i) "Director" means the director of the department of environmental
+9 quality or an authorized designee.
+10 (j) "Final permit decision" means the director's final decision to ap-
+11 prove or deny, in whole or in part, an application for a permit or other
+12 decision to modify or revoke a previously issued permit.
+13 (k) "Issued for construction (IFC) data package" means plans and speci-
+14 fications for actual construction of a cyanidation facility consistent
+15 with the criteria for the IFC data package and other supporting docu-
+16 ments that is stamped by an Idaho-licensed professional engineer and
+17 includes the following:
+18 (i) IFC specifications, including any storage features or sec-
+19 ondary containments, as applicable;
+20 (ii) A final report documenting the basis of the design;
+21 (iii) IFC drawings depicting facility layout and typical sec-
+22 tions;
+23 (iv) Final capacity calculations;
+24 (v) Final load validation, if applicable; and
+25 (vi) Plans consistent with IFC design for closure, monitoring,
+26 water management, operations, maintenance, and surveillance.
+27 (l) "Major modification" or "material modification":
+28 (i) Means any change to a previously permitted cyanidation facil-
+29 ity that the department determines will:
+30 1. Cause, or increase the potential to cause, degradation
+31 of water or impairment to the beneficial use of waters of the
+32 state, including a new cyanide process or cyanidation facil-
+33 ity component or phase;
+34 2. Significantly change the capacity, location, or process
+35 of an existing cyanidation facility component, including
+36 a new cyanide process or cyanidation facility component or
+37 phase;
+38 3. Significantly change water quality compliance criteria
+39 or monitoring points; or
+40 4. Significantly change the site condition in a way that was
+41 not adequately described in the original permit applica-
+42 tion; and
+43 (ii) Does not mean or include:
+44 1. Reclamation and closure-related activities at a cyanida-
+45 tion facility with an existing permit that did not actively
+46 add cyanide after January 1, 2005; or
+47 2. Relocation of buildings, structures, or other similar
+48 modifications when such activity occurs within the same site
+49 footprint of the cyanidation facility, provided that con-
+50 tainment is maintained.
+
+3
+1 (m) "Permit" means a permit for a new or materially modified cyanida-
+2 tion facility.
+3 (n) "Procedural completeness" means that the permit application and
+4 its contents contain the required information, supporting plans, and
+5 documentation to allow the progression of the application to the tech-
+6 nical completeness review.
+7 (o) "Technical completeness" means that the permit application and its
+8 contents contain designs, specifications, supporting plans, and docu-
+9 mentation that comply with the provisions of this section to contain,
+10 control, and treat cyanidation process water, spent ore, tailings, and
+11 other material from the cyanidation process by having adequate contain-
+12 ment through the use of liners, barriers, structures, or other measures
+13 to prevent discharge of cyanidation pollutants into the environment
+14 that would impair beneficial use of waters of the state or would degrade
+15 waters of the state. For technical completeness, containment means:
+16 (i) Secondary containment for process equipment, tanks, and pip-
+17 ing; and
+18 (ii) Primary and secondary liners associated with leach pads,
+19 tailings storage facilities, and process ponds.
+20 (2)(a) A new or materially modified cyanidation facility shall not be
+21 constructed, operated, or closed prior to:
+22 (i) Obtaining a permit from the department pursuant to the provi-
+23 sions of this section and rules promulgated thereunder; and
+24 (ii) Obtaining necessary financial assurance and permanent clo-
+25 sure plan approvals applicable to cyanidation facilities pursuant
+26 to the requirements of chapter 15, title 47, Idaho Code, and rules
+27 promulgated thereunder.
+28 (b) A cyanidation facility with an existing permit approved by the de-
+29 partment prior to July 1, 2005, shall be subject to the applicable laws
+30 and rules for ore processing by cyanidation in effect on June 30, 2005.
+31 If there is a material modification of a cyanidation facility after June
+32 30, 2005, all provisions of this chapter shall apply to the modification
+33 or expansion. Reclamation or closure-related activities at a facility
+34 with an existing cyanidation permit approved by the department that did
+35 not actively add cyanide processes after January 1, 2005, shall not be
+36 considered a material modification or expansion thereof.
+37 (3) A cyanidation facility shall be:
+38 (a) Designed with controls sufficient to contain, control, and treat
+39 cyanidation process water, spent ore, tailings, and other material from
+40 the cyanidation processes to prevent discharge of cyanidation pollu-
+41 tants into the environment that would impair beneficial use of waters of
+42 the state or degrade waters of the state. Such controls shall be based
+43 on generally accepted design standards that are consistent with gener-
+44 ally accepted engineering practices and quality control and quality as-
+45 surance procedures; and
+46 (b) Maintained and operated in a manner that prevents discharge of
+47 cyanidation pollutants into the environment that would impair benefi-
+48 cial use of waters of the state or degrade waters of the state.
+49 (4) The department shall not issue a permit pursuant to this section un-
+50 less a permanent closure plan for the cyanidation facility has been submit-
+
+4
+1 ted for approval under chapter 15, title 47, Idaho Code. Any permit issued by
+2 the department pursuant to this section shall prohibit construction and op-
+3 eration of the cyanidation facility until the permittee submits proof to the
+4 department that financial assurance for the cyanidation facility permanent
+5 closure plan has been provided as required by chapter 15, title 47, Idaho
+6 Code.
+7 (5)(a) The director may deny a permit application if:
+8 (i) The application is procedurally or technically incomplete
+9 and cannot be made complete with additional clarifying or supple-
+10 mental information as requested by the department and provided by
+11 the applicant;
+12 (ii) The cyanidation facility, or any component or phase thereof,
+13 as proposed, cannot be conditioned for construction, operation,
+14 and closure in a way that complies with the provisions of this sec-
+15 tion and rules promulgated thereunder; or
+16 (iii) Any payment required by the cost recovery agreement is due
+17 and unpaid.
+18 (b) If an application is denied, the director shall provide written no-
+19 tice to the applicant explaining the basis for the rejection.
+20 (6) The department may request that the applicant provide supplemental
+21 or clarifying information at any point in the permitting process pursuant
+22 to this section and rules promulgated thereunder until a final permit deci-
+23 sion is issued. The applicant's failure or refusal to correct deficiencies
+24 or supply additional information as requested may result in permit denial.
+25 (7)(a) Before conducting a pre-application conference or submitting a
+26 preliminary design report, the applicant and department shall execute
+27 a cost recovery agreement. The cost recovery agreement shall provide
+28 for the recovery of the actual costs incurred by the department during
+29 the permitting process pursuant to this section and rules promulgated
+30 thereunder. The cost recovery agreement may provide for recovery of
+31 actual costs incurred by the department for any other service rendered
+32 pursuant to this section and rules promulgated thereunder if the appli-
+33 cant so agrees. The permitting process may include but is not limited
+34 to:
+35 (i) Pre-application meetings and interactions with the appli-
+36 cant;
+37 (ii) Reviewing pre-application submittals, including the prelim-
+38 inary design report, conceptual designs, draft plans, and other
+39 supporting documents;
+40 (iii) Conducting procedural completeness and technical reviews;
+41 (iv) Reviewing supplemental information and revised documents;
+42 (v) Reviewing final designs, supporting plans, and other docu-
+43 ments;
+44 (vi) Developing a draft permit and fact sheet;
+45 (vii) Reviewing and preparing responses to public comments;
+46 (viii) Developing a final permit and fact sheet;
+47 (ix) Contracting with a third-party consultant; and
+48 (x) Other activities related to processing permit applications.
+49 (b) After a cost recovery agreement is executed, the department shall
+50 conduct a pre-application conference with the applicant. After the
+
+5
+1 pre-application conference is held, the applicant shall submit a pre-
+2 liminary design report and permit application.
+3 (8) A permit application shall:
+4 (a) Address all of the criteria and standards provided in this section
+5 and rules promulgated thereunder;
+6 (b) Include the proposed plans and specifications for controls to con-
+7 tain, control, and treat cyanidation process water, spent ore, tail-
+8 ings, and other material from the cyanidation processes that the pro-
+9 posed cyanidation facility will have to prevent discharges of cyanida-
+10 tion pollutants into the environment that would impair beneficial use
+11 of waters of the state or degrade waters of the state. The proposed de-
+12 signs and specifications shall be based on generally accepted engineer-
+13 ing practices and quality control and quality assurance procedures; and
+14 (c) Not be required to have the level of design and engineering neces-
+15 sary for the IFC data package, provided that in the final permit the di-
+16 rector may condition construction on the review and approval of an IFC
+17 data package in accordance with subsection (18) of this section.
+18 (9) A water quality monitoring plan for a cyanidation facility:
+19 (a) Shall specify points of compliance and associated water quality
+20 compliance criteria for cyanidation pollutants for surface water and
+21 ground water;
+22 (b) Shall specify monitoring points and threshold concentrations for
+23 parameters that provide for early detection of cyanidation pollutant
+24 discharge; and
+25 (c) May not be required to contain points of compliance, compliance
+26 criteria, or monitoring locations for contaminants that are covered by
+27 other permits issued by the department, including ground water points
+28 of compliance established by rule for proposed mine activities, includ-
+29 ing cyanidation facilities.
+30 (10)(a) The department's review of any application made pursuant to
+31 this section shall not duplicate or conflict with other permits or the
+32 permitting process for other permits required pursuant to Idaho law,
+33 including permits administered by the department regarding protecting
+34 air, surface water, and ground water resources and authorizations made
+35 by the Idaho department of lands regarding reclamation and closure of a
+36 cyanidation facility. To the extent that other permits under Idaho law
+37 do not address or regulate potential cyanidation pollutants discharged
+38 from a cyanidation facility, the department may review and address such
+39 cyanidation pollutants or other pollutants in accordance with the pro-
+40 visions of this section and rules promulgated thereunder.
+41 (b) The department's review of an application shall be limited to the
+42 criteria and standards provided in this section and rules promulgated
+43 thereunder.
+44 (c) The department's review of an application for a major modification
+45 of a permit shall be limited to the proposed material modifications to
+46 the cyanidation facility that are required to be included therein.
+47 (11)(a) Within one hundred eighty (180) days of receiving an applica-
+48 tion, the director shall deliver to the applicant a written notice of
+49 rejection or approval. If the director fails to deliver a notice of
+50 rejection or approval within such time period, the submitted applica-
+
+6
+1 tion shall be deemed approved and the applicant may proceed with the
+2 construction, operation, or closure as if notice of approval had been
+3 received from the director.
+4 (b) Within thirty (30) days of receiving an application, the director
+5 shall review the application for procedural completeness, in whole or
+6 in part, and issue written notice to the applicant and the Idaho depart-
+7 ment of lands indicating that the application, in whole or in part for
+8 specific components or phases, is procedurally complete or procedu-
+9 rally incomplete. If the application, or any part thereof, is procedu-
+10 rally incomplete, the director shall explain the specific deficiencies
+11 and may request additional information. A determination that an appli-
+12 cation, or any part thereof, is procedurally complete shall not pre-
+13 clude the department from requiring the applicant to submit additional
+14 information for the department to continue processing the application.
+15 (c) Within sixty (60) days of the notice that the application is proce-
+16 durally complete, in whole or in part, the director shall complete re-
+17 view of the application for technical completeness, in whole or in part.
+18 If the director determines that the application, or specific components
+19 or phases thereof, satisfies the technical completeness requirements
+20 provided in this section and rules promulgated thereunder, the director
+21 shall:
+22 (i) Prepare a draft permit and fact sheet for the application or a
+23 specific component or phase thereof pursuant to the provisions of
+24 subsections (13) and (14) of this section;
+25 (ii) Provide public notice pursuant to subsections (21) through
+26 (23) of this section;
+27 (iii) Allow public comment pursuant to subsection (26) of this
+28 section; and
+29 (iv) Hold a public meeting pursuant to subsection (25) of this
+30 section.
+31 (12)(a) The department may contract with a third-party consultant to
+32 support review of an application, in whole or in part.
+33 (b) The director may, in his discretion, review and approve the ap-
+34 plication in part for specific components or phases of a cyanidation
+35 facility if such components or phases of the facility and the provisions
+36 of the application with respect thereto satisfy the requirements of
+37 this section. The director shall obtain the consent of the applicant
+38 prior to reviewing an application in part, and if obtained, shall work
+39 with the applicant to create a schedule for review of the application in
+40 part. Approving a component or phase of an application shall not imply
+41 the approval of the remaining components or phases. If an application
+42 is reviewed in part, the remaining components or phases of the applica-
+43 tion:
+44 (i) Shall not be subject to the timing requirements of subsection
+45 (11) of this section;
+46 (ii) Shall not be considered permit modifications if subsequent
+47 changes to the application do not constitute material modifica-
+48 tions from the original application; and
+49 (iii) Shall be subject to public notice and comment provisions of
+50 subsections (21) through (26) of this section.
+
+7
+1 (13) A draft or final permit shall contain:
+2 (a) All conditions necessary to require controls sufficient to prevent
+3 or mitigate the potential for the discharge of cyanidation pollutants
+4 into the environment that would impair beneficial use of waters of the
+5 state or degrade waters of the state;
+6 (b) Any information incorporated into the permit by reference; and
+7 (c) Any and all other conditions the director finds necessary to ensure
+8 compliance with this section and rules promulgated thereunder, includ-
+9 ing but not limited to:
+10 (i) Review and approval of an IFC data package prior to authoriz-
+11 ing commencement of construction; and
+12 (ii) Review and approval of a permanent closure plan and issuance
+13 of financial assurance pursuant to chapter 15, title 47, Idaho
+14 Code, and rules promulgated thereunder.
+15 (14) A fact sheet shall be published with a draft permit. The fact sheet
+16 shall:
+17 (a) State the principal facts and describe the proposed activity sought
+18 to be permitted;
+19 (b) Briefly describe the proposed cyanidation facility, operating
+20 plan, and application and state whether the application is being re-
+21 viewed in whole or in part;
+22 (c) State any significant legal and policy questions considered, in-
+23 cluding statutes, regulations, and references to the administrative
+24 record;
+25 (d) Summarize the conditions imposed in the permit; and
+26 (e) Provide the name and phone number of the department representative
+27 to contact for additional information.
+28 (15) A final permit shall be modified, as necessary, based on review of
+29 public comments, supplemental information received, and other appropriate
+30 reasons. The fact sheet shall be updated to reflect public comments, supple-
+31 mental information received, and modifications, if any, to the permit, and
+32 shall be published with the final permit.
+33 (16)(a) A final permit issued pursuant to this section shall expire in
+34 two (2) years if construction has not been commenced. The applicant may
+35 request, in writing, that the two (2) year period be extended. The di-
+36 rector may, in his discretion, allow a reasonable extension thereof.
+37 (b) A final permit shall remain valid until the director determines
+38 that permanent closure is completed or the director revokes or modifies
+39 the permit.
+40 (17) Construction of a new or a materially modified cyanidation facil-
+41 ity shall not deviate from the plans and specifications approved by the de-
+42 partment.
+43 (18)(a) A final permit issued pursuant to this section shall authorize
+44 the immediate commencement of construction and operation of a cyanida-
+45 tion facility in accordance with the terms of the permit.
+46 (b) A final permit may condition the commencement of construction of
+47 a cyanidation facility or a component or phase thereof on the depart-
+48 ment's review and approval of an IFC data package. If an applicant is
+49 required to provide an IFC data package, the director:
+
+8
+1 (i) Shall meet with the applicant at least sixty (60) days prior
+2 to the submittal of the IFC data package to discuss the status of
+3 the data package and any minor modifications from the final permit
+4 that the applicant is proposing;
+5 (ii) May open a public comment period for no more than thirty (30)
+6 days after receiving the IFC data package;
+7 (iii) Shall complete review of the IFC data package within sixty
+8 (60) days from the director's receipt of the data package to con-
+9 firm that the data package is consistent with the plans and speci-
+10 fications approved in the final permit; and
+11 (iv) Shall authorize construction, in whole or in part, if the di-
+12 rector finds that the IFC data package meets the requirements of
+13 this section and rules promulgated thereunder, and that all other
+14 conditions of the final permit have been satisfied.
+15 (19) Within thirty (30) days of completing construction on a cyanida-
+16 tion facility or component or phase thereof, if applicable, the operator
+17 shall submit an accurate as-built submittal depicting that actual con-
+18 struction of the cyanidation facility or component or phase thereof, if
+19 applicable, does not deviate from the plans and specifications approved in
+20 the permit and IFC data package, if applicable.
+21 (20) Public notice shall not be required when a preliminary design re-
+22 port submitted by an applicant is rejected or when an application, or any
+23 part thereof, is deemed incomplete.
+24 (21) The director shall give public notice of:
+25 (a) A determination that an application is procedurally complete;
+26 (b) Publication of a draft permit and fact sheet;
+27 (c) Any authorized public comment period or public meeting;
+28 (d) Issuance of a final permit and fact sheet;
+29 (e) Approval to construct, if the final permit conditioned construc-
+30 tion on the department's review and approval of an IFC data package;
+31 (f) A decision to reject a permit application;
+32 (g) A decision to revoke a permit; and
+33 (h) The filing of any appeal from any decision of the director with
+34 respect to any permit application for a new or materially modified
+35 cyanidation facility.
+36 (22) A public notice issued pursuant to this section shall contain:
+37 (a) A description of the cyanidation facility and its location;
+38 (b) A description of the public involvement procedures;
+39 (c) Information regarding the public comment period, if applicable;
+40 (d) Information regarding the time and place of the public meeting, if
+41 applicable;
+42 (e) Information on how to obtain additional available public informa-
+43 tion;
+44 (f) The name and phone number of the department representative to con-
+45 tact for additional information; and
+46 (g) Such other information as the department deems necessary.
+47 (23) Public notice shall be given by:
+48 (a) Certified or electronic mail to:
+49 (i) The applicant;
+
+9
+1 (ii) Persons on the public notice mailing list developed pursuant
+2 to subsection (24) of this section; and
+3 (iii) All federal, tribal, state, and local government entities
+4 who have an interest in the outcome of the permitting process;
+5 (b) Publication for two (2) consecutive weeks in a daily or weekly news-
+6 paper of general circulation in the area of the proposed cyanidation fa-
+7 cility; and
+8 (c) Any other method reasonably calculated to give actual notice to po-
+9 tentially affected persons.
+10 (24) The department shall develop a mailing list for public notices is-
+11 sued pursuant to this section by recording the names and contact informa-
+12 tion of those who request, in writing, to be on such list. The department
+13 shall make available on its website the ability to join the mailing list and
+14 shall periodically publish notice of the ability to join the mailing list in
+15 the local press, regional and state-funded newsletters, environmental bul-
+16 letins, state law journals, or similar publications. The department may pe-
+17 riodically update the mailing list by requesting written indication of con-
+18 tinued interest from those listed and may delete from the list the name of any
+19 person who fails to respond to the department's request.
+20 (25) Within thirty (30) days of the public notice of publication of a
+21 draft permit, the department shall hold a public meeting.
+22 (26) Public comment on a draft permit shall be permitted for sixty (60)
+23 days beginning on the date of the initial public notice of publication of a
+24 draft permit. Only written public comments received during the public com-
+25 ment period shall be accepted and considered by the department.
+26 (27) The department shall respond to all written public comments indi-
+27 vidually, except when comments can be responded to by theme or topic. All
+28 written comments received during this public comment period and the depart-
+29 ment's response thereto shall be made publicly available.
+30 (28) Within thirty (30) days of the end of the public comment period, the
+31 director shall provide public notice of the final permit decision. This no-
+32 tice shall:
+33 (a) Specify which provisions, if any, of the draft permit have been
+34 changed in the final permit and summarize the reasons for such changes;
+35 (b) Include information on how to view the public comments received and
+36 the department's responses thereto; and
+37 (c) Include information regarding the procedures for administrative
+38 appeal under applicable law.
+39 (29) The Idaho department of lands shall participate in public comment
+40 and meetings regarding performance criteria for permanent closure of a
+41 cyanidation facility.
+42 (30) The director and the applicant may agree to pause or extend the
+43 statutory time frames established in this section for a reasonable time,
+44 provided that:
+45 (a) The sixty (60) day technical completeness review may be paused upon
+46 the agreement of the director and the applicant for a period not to ex-
+47 ceed one (1) year from the date of the director's notice of procedural
+48 completeness to allow the applicant to submit additional information
+49 requested by the department; and
+
+10
+1 (b) Time frames requiring action by the director or department shall
+2 not be extended by more than sixty (60) days.
+3 (31) Research and development activities, including bench and pilot
+4 scale testing facilities, shall be exempt from the provisions of this sec-
+5 tion and rules promulgated thereunder.
+6 (32) The provisions of this section shall be applied retroactively to
+7 all permit applications submitted to the department on or before January 1,
+8 2025, that are still under review by the department as of July 1, 2025.
+9 (33)(a) The department shall promptly commence an administrative re-
+10 view of IDAPA 58.01.13 and shall promulgate rules, subject to legisla-
+11 tive approval, to bring such rules into compliance with the provisions
+12 of this section.
+13 (b) The department shall have until July 1, 2025, to issue temporary
+14 rules, if necessary, to administer the provisions of this section.
+15 SECTION 3. The rules contained in IDAPA 58.01.13, Department of Envi-
+16 ronmental Quality, relating to Rules for Ore Processing by Cyanidation, Sec-
+17 tion 100., Subsection 04.; Section 300.; Section 400.; Section 450.; and
+18 Section 550., shall be null, void, and of no force and effect on and after
+19 passage and approval of this act.
+20 SECTION 4. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after its
+22 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOOEPGBYC;RGSN3,I,RGTOOEPGBYC;AGCR1E3,IOC,BYTEANOFANWSN3,I,TOEHPSRGOEPGBYC;PGTTCNAERSCDINI3SLBEN,V,ADOFNOFEADE;ADDNEeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishN2.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.OEPGBYC.()Asudintscstectrso)""msananfranwormrm)"ts"msartrgtecnfyttissdbyanIdpradttisctwhtecafratdnadorsgd,i)Atd;a)Qyaeadqycldndgtttecdcnf,i,sycstoteflptadircndap,ifa)"torp"msplpsorlsofnfyortlssofalorpsofacnf,asa)""msaycts,l,p,e,d,p,orssudtomtterftss)""mstemdofegttpsmsfmosbyttwhces,whistepgatfre)"nf"msapnofanwoepgf,oramlormrmnofttpnofanegoepgf,ttuscnadisioc,t,ordeofcgm,igsto,t,adpsw]
+[DELETED: )"np"msayclorctudoddgcnttisptinpsw,s,t,orormlfmtecnpsinssorast,ifddioteeetepltoceaeestoayblueosofteseortodewsoftes)""msteIodtofelq)""mstedroftedtofeyoranadd)"lptd"mstedsfldntoaeord,inweorinp,ananfraptorontomyorreapyidp)"dfrcn()dap"mspsadssfralcnofacnfychtecafrteICdapeadorsgdsttissdbyanIdplerastef)ICs,igaysefsorsyc,asa)Aflrtdgtebsofted)ICdsdgfyltadtls)Flcyc)Flldv,ifa;a)PsctwhICdnfrc,mrm,o,m,ads)"rm"or"lm)Msaycetoapypdcnfytttedtdsw.C,orietepltoc,dfwrorittoteblueofwsoft,iganwcepsorcnfyctorp.Sycetec,l,orpfanegcnfyc,inwcepsorcnfycto.Sycewrqycecrmgp;o.Sycetesecninawyttwtayddinteolpta;a)Dsntmnori.RnadcdasatacnfywhanegptttddntadcearJy1,2;o.Rnofb,s,ororsswnshayoswntesestoftecnf,pdttctism]
+[DELETED: )""msaptfranwormymdcnf)"lc"msttteptanascscnterdi,sgp,antoawtepnofteantotetlcsr)"lc"msttteptanadiscnd,s,sgp,addnttcywhtepsoftssntoc,adttcnpsw,sto,t,armlfmtecnpsbyhgaectthteueofl,b,s,orormoptdeofcnpsioteetwdirblueofwsofteseorwddsoftes.Frtlc,ctm)Syctfrpse,t,adp;a)Pyadsylsadwhlhpssef,adpsp)Anwormymdcnfyslntb,o,orcdprt)Ogaptfmtedtpttotepsoftssnadrspdt;a)Ognyflaeadptcepnasaetocnfspotersofcr1,te4,IoC,adrdt)AcnfywhanegptadbytedtprtoJy1,2,slbesttoteaeldrsfroepgbycninetonJe3,2fteisamlmnofacnfyarJ,2,alpsoftscrslaytotemre.RnorcdasatafhanegcnptadbytedtttdtayadcepsarJy1,2,slntbdamlmnorent)Acnfyslb)Ddwhcssttoc,c,adtnpsw,sto,t,adormlfecnpstoptdeofcnpsioteetttwdirblueofwsoeseordewsoftes.Shcsslbebngyaddnssttaectwhgyadegpsadqycladqyaep;a)Mdadodinamrttpsdeonpsioteetttwdirblueofwsofteseordewsoftes)Tedtslntieaptpttotssnusaptcepnfrtecnfyhsbns]
+[DELETED: dfralurcr1,te4,IoC.Ayptidbedtpttotssnslptcnadonoftecnfyultepesspftottttflaefrtecnfypepnhsbnpdasrdbycr1,te4,I)Tedrmydyaptani)Teanispyortyidctbemecewhalcgorslinasrdbytedtadpdbea)Tecnf,orayctorpetsp,ctbecdfrc,odceinawyttcswhtepsoftssnadrspdt;o)Ayptrdbytectryatisddu)Ifananisd,tedrslpewnnetoteategtebsfrter)Tedtmyrtttteatpesrcginatayptintepgpspotssnadrspdtrulaflptdnisi.Teasfeorrltoctdrsyalinasrdmyrtinptd)Becgapnceorsgydnr,teataddtslectrya.Tectryatslprteryoftealcsidbytedtdepgpspttotssnadrsp.Tectryatmypefrryolcsidbytedtfrayorserttotssnadrspdtrifteatsoa.Tepgpsmyiebtisntl)Pnmsadiswhtea)Rgpns,igtepydnr,cld,dtp,adogd)Cgplcsadtlr)Rgslinadrdd)Rgfld,sgp,adord)Dgadtptadfts)Rgadpgrstopcc)Dgaflptadfts)Cgwhatyc;a)Orasrdtopgpta)Aractryatise,tedtstapncewhtea.Art]
+[DELETED: nceish,teatslstapydnrtadpta)Aptans)Asaloftecaadsspdintssdrspdt)Ietepdpsadssfrcstoc,c,adttcnpsw,sto,t,adormlfmtecnpstttepdcnfywlhetoptdsofcnpsioteetttwdirblufwsofteseordewsoftes.Tepddsadssslbebdongyadegpsadqycladqyaep;a)NtberdtohetellofdnadegnyfrteICdap,pdttinteflpttedrmycncnonterwadalofanIapeinaewhsn()oftss)Awrqymgpnfracnf)Slsypsofceadadwrqecafrcnpsfrsewradw)Slsymgpsadtdcsfsttpefreydnofcnp;a)Myntberdtocnpsofc,c,ormglsfrcsttaecdbrpsidbyted,iggdwrpfceedbyrefrpdmea,igcnf)TedsrwofayanmepttssnslntdeorctwhorpsortgpsfrorpsrdpttoIolgpsadbytedtrgp,sew,adgdwrrsadasmyteIodtoflsrgrnadceofnf.ToteetttorpsurIolontasorreplcnpsdmacnf,tedtmyrwadassnpsororpsinaewhtepsoftssnadrspdt)Tedsrwofananslbeldtotaadsspdintssnadrsp)Tedsrwofananframrmfaptslbeldtotepdmlmstecnfyttaerdtobeidt)Wnoehdey()dsofrgana,tedrsldrtoteatawnneonora.Iftedrfstodraneonoralwnshtep,tesda]
+[DELETED: nslbeddadadteatmypdwht,o,orceasifneofalhdbdfmted)Wnty()dsofrgana,tedlrwteanfrplc,inweonp,adiewnnetoteatadteIodtoflsigtttea,inweorinptfccsorp,ispyceorpyi.Iftea,orayptt,ispyi,tedrslentescddmyrtali.Adnttana,orayptt,ispyceslntpetedtfmrgteattostanfrtedttocepgtea)Wnsy()dsoftenettteanispyc,inweorinp,tedrslcerwofteanfrtlc,inweorinpftedrdstttea,orsccrpst,sstetlcsrdintssnadrspdt,ted)Peadtptadftstfrteanorcctorpetfpttotepsos()ad()oftss)Pepcnepttoss()t)oftss)Awpcctpttosn()oft;a)Hdapcmgpttosn()oft)Tedtmyctwhatyctttrwofana,inweorinp)Tedrm,inhsd,rwadaeteaninptfrsccsorpsofacyifshcsorpsoftefyadtepfteanwhrttosytersoss.Tedrslontectofteartorgananinp,adifo,slwhteattoceasefrrwofteani.Agactorpeofananslntiealoftergcsorp.Ifanasrdinp,tergcsorpsoftea)Slntbesttotetgrsofs)oftss)Slntbecdptmsifsstoteandontcemlmsfmteola;a)Slbesttopcneadctpsos()th()oftss]
+[DELETED: )Adtorflptslc)Alcsnytorecssttoprmeteplfrtedeofcnpoteetttwdirblueofwsofteordewsoftes)Ayinidioteptbyr;a)Ayadalorcstedrfsnytoeewhtssnadrspdt,igbtntldt)RwadalofanICdapeprtoagctofc;a)Rwadalofaptcepnadifflaepttocr1,te4,I,adrspdt)Aftstslbepdwhadtp.Tefts)Seteplfsaddetepdaysobep)Bydetepdcnf,o,adanadsewrteanisbgrdinweorinp)Seaystlladpyqsc,igs,r,adrstotea)Setecsidintep;a)Peteneadpenroftedtroctfrali)Aflptslbem,asn,bdonrwocc,slinr,adora.Teftstslbeudtortpcc,slinr,adm,ifa,totep,albepdwhteflp)Aflptidpttotssnsleeio()ysifcnhsntbnc.Teatm,inw,ttteto()yrpdbee.Tedrm,inhsd,awareent)Aflptslrnvdultedrdtptceiscdortedrrsormep)Cnofanworamymdcnfyslntdefmtepsadssadbyted)Aflptidpttotssnslaeiectofcnadonofacnfyinaewhtetsoftep)AflptmycntectofcnocnfyoractorpetfontedsrwadalofanICdap.IfanatidtopeanICdap,ted]
+[DELETED: )Slmtwhteatatltsy()dspoteslofteICdapetodstessoedapeadaymrmsfmteflptteatisp)Myonapcctpdfrnometnty(sarrgteICdap)SlcerwofteICdapewns)dsfmtedsrtoftedapetocmtttedapeisctwhtepsadssadinteflp;a)Slaec,inweorinp,iftedrfsttteICdapemstersossnadrspdt,adttalosofteflpthebns)Wnty()dsofcgcnonacnfyorctorpet,ifa,teolstanaeatsldgttalcnoftecnfyorctorpet,i,dsntdefmtepsadssadieptadICdap,ifa)Pcneslntberdwnapydnrtsdbyanatisrdorwnana,oratt,isddi)Tedrslgepcneo)Adnttananispyc)Pnofadtptadfts)Ayadpcctpdorpcm)Ieofaflptadfts)Altoc,ifteflptcdcnontedsrwadalofanICdap)Adntortapta)Adntoreap;a)Tefgofayalfmaydnoftedrwttoayptanfranwormymnf)Apcneidpttotssnslc)Adnoftecnfyadisl)Adnoftepcitp)Inrgtepcctp,ifa)Inrgteteadpeoftepcm,i)Inonhwtoonalaepci)Teneadpenroftedtretoctfrali;a)Shorinastedtdsn)Pcneslbegnb)Cdorecmlt)Tea]
+[DELETED: )Psontepcnemgltddposn()oftss;a)Alf,t,s,adllgteoheanitinteoeoftepgp)Pnfrto()cewsinadyorwynrofglcninteaaoftepdcnf;a)Ayormdrycdtogealnetopyadp)Tedtsldpamgltfrpcnsidpttotssnbyrgtensadctinoftewor,inw,tobeonshl.Tedlmeaeonisweteaytojntemgltalpyphneofteaytojntemgltiellp,rladsdn,elb,selwj,orsrp.Tedtmypyuetemgltbyrgwninofcditfmteldadmydefmteltteneofanwofstordtotedsr)Wnty()dsoftepcneofpnoftp,tedtslhdapcm)Pcctonadtptslbepdfrsy(sbgontedeofteilpcneofpnoftp.Oywnpccsrddgtepcctpdslbeadadcdbyted)Tedtslrdtoalwnpccsi,etwncscnberdtobyteort.Ancsrddgtspcctpdadtedsretoslbemepya)Wnty()dsofteedoftepcctp,trslpepcneofteflptd.Tsnes)Sywhp,ifa,oftedtpthebdinteflptadsetersfrshc)Ieinonhwtovwtepccsrdaedsrst;a)Ieinrgtepsfralurael)TeIodtoflsslpeinpccdmsrgpecafrptceofnf)Tedradteatmyaetopeoredtytefsedintssnfraretdt)Tesy()dytlcsrwmybepdueatoftedradteatfrapdnttoedoe()yrfmtedeoftedsneofpstoawteattostalidbyted;a]
+[DELETED: )Tefsrganbytedrordtstbeedbymetnsy()d)Rhaddta,igbhadpetgf,slbeetfmtepsoftssnadrspdt)TepsoftssnslbeadrytlptassdtotedtonorbeJy1,ttaeslurrwbytedtasofJy1,2)TedtslpyceanaerwofIA53adslper,sttolea,tobgshrsiocewhtepftss)TedtslheulJy1,2,toiet,ifn,toartepsoftssN3.TerscdinIA5,DtofElQ,rgtoRsfrOePgbyC,Sn1,Sn0;Sn3;Sn4;Sn4;an5,slben,v,adofnofeadetonadaeadaloftsaN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

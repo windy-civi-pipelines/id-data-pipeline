@@ -1,0 +1,2352 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1102
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO RESIDENTIAL CARE OR ASSISTED LIVING ACT; AMENDING
+3 SECTION 39-3301, IDAHO CODE, TO REVISE LEGISLATIVE INTENT AND DECLA-
+4 RATIONS; AMENDING SECTION 39-3302, IDAHO CODE, TO REVISE DEFINITIONS
+5 AND TO DEFINE TERMS; AMENDING SECTION 39-3303, IDAHO CODE, TO REVISE
+6 PROVISIONS REGARDING PAYMENT LEVELS; AMENDING SECTION 39-3305, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING RULES; AMENDING SECTION 39-3307,
+8 IDAHO CODE, TO REVISE PROVISIONS REGARDING ADMISSIONS; AMENDING SEC-
+9 TION 39-3308, IDAHO CODE, TO REVISE PROVISIONS REGARDING ASSESSMENT;
+10 AMENDING SECTION 39-3309, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+11 NEGOTIATED SERVICE AGREEMENTS; AMENDING SECTION 39-3316, IDAHO CODE,
+12 TO REVISE PROVISIONS REGARDING RESIDENT RIGHTS; AMENDING CHAPTER 33,
+13 TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-3316A, IDAHO
+14 CODE, TO ESTABLISH PROVISIONS REGARDING NOTICE OF RESIDENTS RIGHTS;
+15 AMENDING SECTION 39-3318, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+16 A FACILITY'S RESPONSE TO INCIDENTS AND COMPLAINTS; AMENDING SECTION
+17 39-3321, IDAHO CODE, TO REVISE PROVISIONS REGARDING QUALIFICATIONS AND
+18 REQUIREMENTS OF ADMINISTRATORS; AMENDING SECTION 39-3322, IDAHO CODE,
+19 TO REMOVE A PROVISION REGARDING QUALIFICATIONS AND REQUIREMENTS FOR
+20 FACILITY STAFF; AMENDING SECTION 39-3326, IDAHO CODE, TO REVISE PRO-
+21 VISIONS REGARDING MEDICATION; AMENDING SECTION 39-3340, IDAHO CODE,
+22 TO REVISE PROVISIONS REGARDING LICENSING; AMENDING SECTION 39-3351,
+23 IDAHO CODE, TO REVISE PROVISIONS REGARDING EXEMPTIONS; AMENDING SEC-
+24 TION 39-3352, IDAHO CODE, TO REVISE A PROVISION REGARDING UNLICENSED
+25 RESIDENTIAL CARE OR ASSISTED LIVING FACILITIES; REPEALING SECTION
+26 39-3354A, IDAHO CODE, RELATING TO PERMITTING SPECIAL WAIVERS; AMEND-
+27 ING CHAPTER 33, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+28 39-3355A, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING INSPECTIONS;
+29 AMENDING CHAPTER 33, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+30 TION 39-3355B, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING PLANS OF
+31 CORRECTION; AMENDING SECTION 39-3356, IDAHO CODE, TO REVISE PROVISIONS
+32 REGARDING COMPLAINTS; AMENDING SECTION 39-3357, IDAHO CODE, TO PROVIDE
+33 FOR CERTAIN REQUIREMENTS REGARDING THE ENFORCEMENT PROCESS; AMENDING
+34 SECTION 63-701, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; PRO-
+35 VIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA 16.03.22
+36 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING AN EMER-
+37 GENCY AND PROVIDING AN EFFECTIVE DATE.
+38 Be It Enacted by the Legislature of the State of Idaho:
+39 SECTION 1. That Section 39-3301, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 39-3301. LEGISLATIVE INTENT AND DECLARATION. The purpose of a resi-
+42 dential care or assisted living facility in Idaho is to provide a humane,
+2
+1 safe, and homelike living arrangement for adults who need some assistance
+2 with activities of daily living and personal care but do not require the
+3 level of care identified under section 39-1301(b), Idaho Code, other than
+4 for short exceptional stays meaning a treatment window designed to allow a
+5 resident to receive treatment for a short term acute episode as determined by
+6 a licensed professional nurse.
+7 The state will encourage the development of facilities tailored to the
+8 needs of individual populations which that operate in integrated settings in
+9 communities where sufficient supportive services exist to provide the res-
+10 ident, if appropriate, an opportunity to work and be involved in recreation
+11 and education opportunities. Employment, recreational and educational op-
+12 portunities for people with disabilities shall be offered in the most inte-
+13 grated setting consistent with their needs.
+14 A residential care or assisted living facility shall be operated and
+15 staffed by individuals who have the knowledge and experience required to
+16 provide safe and appropriate services to all residents of the facility.
+17 The administrator or manager of the facility shall ensure that an objec-
+18 tive, individualized assessment to determine resident needs is conducted,
+19 develop a comprehensive negotiated plan of care to meet those needs, deliver
+20 appropriate services to meet resident needs, and ensure resident rights are
+21 honored.
+22 SECTION 2. That Section 39-3302, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 39-3302. DEFINITIONS. As used in this chapter:
+25 (1) "Abuse" means a nonaccidental act of sexual, physical or mental
+26 mistreatment or injury of a resident through the action or inaction of an-
+27 other individual.
+28 (2) "Accident" means an unexpected, unintended event that can cause a
+29 resident injury.
+30 (2) (3) "Accreditation" means a process of review that allows health
+31 care organizations to meet regulatory requirements and standards estab-
+32 lished by a recognized accreditation organization.
+33 (3) (4) "Accreditation commission" means the commission on accredita-
+34 tion of rehabilitation facilities (CARF), the joint commission, or another
+35 nationally recognized accreditation organization approved by the director.
+36 (4) (5) "Activities of daily living" means the performance of basic
+37 self-care activities in meeting an individual's needs to sustain him in a
+38 daily living environment.
+39 (5) (6) "Administrator" means an individual, properly licensed by the
+40 division of occupational and professional licenses, who is responsible for
+41 day-to-day operation of a residential care or assisted living facility.
+42 (7) "Administrator's designee" means a person authorized in writing to
+43 act in the absence of the administrator for no more than thirty (30) consec-
+44 utive days when the administrator is on vacation, has days off, is ill, or is
+45 away for trainings or meetings. This individual shall be knowledgeable of
+46 facility operations, the residents and their needs, emergency procedures,
+47 the location and operation of emergency equipment, and how the administrator
+48 can be reached in the event of an emergency.
+3
+1 (6) (8) "Adult" means a person who has attained the age of eighteen (18)
+2 years.
+3 (7) (9) "Advocate" means an authorized or designated representative of
+4 a program or organization operating under federal or state mandate to rep-
+5 resent the interests of mentally ill, developmentally disabled, or elderly
+6 residents.
+7 (8) (10) "Assessment" means the conclusion reached using uniform crite-
+8 ria, which identifies resident strengths, weaknesses, risks and needs, to
+9 include functional, medical and behavioral needs. The assessment criteria
+10 shall be developed by the department and residential care or assisted living
+11 council.
+12 (9) (11) "Authorized provider" in this chapter means an individual who
+13 is a nurse practitioner or clinical nurse specialist or a physician assis-
+14 tant.
+15 (10) (12) "Board" means the board of health and welfare.
+16 (11) (13) "Chemical restraint" means a medication used to control be-
+17 havior or to restrict freedom of movement and is not a standard treatment for
+18 the resident's condition.
+19 (14) "Complaint" means a formal expression of dissatisfaction, discon-
+20 tent, or unhappiness by, or on behalf of, a resident concerning the care or
+21 conditions at the facility. This expression could be oral or in writing or by
+22 an alternate means of communication.
+23 (12) (15) "Core issues" means abuse, neglect, exploitation, inadequate
+24 care, a situation in which the facility has operated for more than thirty
+25 (30) days without a licensed administrator designated the responsibility
+26 for the day-to-day operations of the facility, inoperable fire detection or
+27 extinguishing systems with no fire watch in place pending the correction of
+28 the system, and surveyors denied access to records, residents, or facili-
+29 ties.
+30 (16) "Deficiency" means a determination of noncompliance with any sec-
+31 tion of this chapter.
+32 (13) (17) "Department" means the Idaho department of health and wel-
+33 fare.
+34 (14) (18) "Director" means the director of the Idaho department of
+35 health and welfare.
+36 (19) "Exit conference" means a meeting with the facility administrator
+37 or his designee to provide review, discussion, and written documentation of
+38 non-core issues and to provide preliminary findings of core issues.
+39 (15) (20) "Exploitation" means the misuse of a resident's funds, prop-
+40 erty, resources, identity or person for profit or advantage.
+41 (16) (21) "Facility" means a residential care or assisted living facil-
+42 ity.
+43 (22) "Follow-up survey" means a survey conducted to confirm the facil-
+44 ity is in compliance and has the ability to remain in compliance.
+45 (17) (23) "Governmental unit" means the state, any county, any city,
+46 other political subdivision, or any department, division, board, or other
+47 agency thereof.
+48 (24) "Immediate jeopardy" means that immediate corrective action is re-
+49 quired because the facility is noncompliant with health and safety require-
+50 ments placing patients at risk of serious harm, injury, or death.
+4
+1 (18) (25) "Inadequate care" occurs when a facility fails to provide the
+2 services required to meet the terms of the negotiated service agreement or
+3 provide for room, board, activities of daily living, supervision, first aid,
+4 assistance and monitoring of medications, emergency intervention, coordi-
+5 nation of outside services, a safe living environment; or engages in viola-
+6 tions of residents' rights, or takes residents who have been admitted in vi-
+7 olation of the provisions of section 39-3307, Idaho Code engages in actions
+8 or omissions that cause harm to a resident or create a situation likely to
+9 result in immediate jeopardy to the health, safety, or well-being of a resi-
+10 dent.
+11 (19) (26) "License" means a basic permit to operate a residential care
+12 or assisted living facility.
+13 (20) (27) "Licensee" means the owner of a license to operate a residen-
+14 tial care or assisted living facility under this chapter.
+15 (21) (28) "Licensing agency" means the unit of the department of health
+16 and welfare that conducts inspections and surveys and issues licenses based
+17 on compliance with this chapter.
+18 (29) "Manager" means the individual delegated by the administrator to
+19 manage the day-to-day operations of the facility.
+20 (22) (30) "Neglect" means failure to provide food, clothing, shelter,
+21 or medical care necessary to sustain the life and health of a resident.
+22 (23) (31) "Negotiated service agreement" means the agreement reached by
+23 the resident and/or the resident's representative and the facility, based on
+24 the assessment, physician's orders, admission records, and desires of the
+25 resident, and which outlines services to be provided and the obligations of
+26 the facility and the resident.
+27 (32) "Non-core issue" means any finding of deficient practice that is
+28 not a core issue.
+29 (24) (33) "Personal assistance" means the provision by the staff of the
+30 facility of one (1) or more of the following services:
+31 (a) Assisting the resident with activities of daily living;
+32 (b) Arranging for supportive services;
+33 (c) Being aware of the resident's general whereabouts; and
+34 (d) Monitoring the activities of the resident while on the premises of
+35 the facility to ensure the resident's health, safety and well-being.
+36 (34) "Physical restraint" means any device or physical force that re-
+37 stricts the free movement of a portion of an individual's body, except for
+38 the temporary treatment of a medical condition, such as the use of a cast for
+39 a broken bone.
+40 (25) (35) "Political subdivision" means a city or county.
+41 (26) (36) "Resident" means an adult who lives in a residential care or
+42 assisted living facility.
+43 (27) (37) "Residential care or assisted living facility" means a facil-
+44 ity or residence, however named, operated on either a profit or nonprofit
+45 basis for the purpose of providing necessary supervision, personal assis-
+46 tance, meals and lodging to three (3) or more adults not related to the owner.
+47 (28) (38) "Room and board" means lodging and meals.
+48 (29) (39) "Substantial compliance" means a facility has no core issue
+49 deficiencies.
+5
+1 (30) (40) "Supervision" means administrative activity which provides
+2 the following: protection, guidance, knowledge of the resident's general
+3 whereabouts, and assistance with activities of daily living. The admin-
+4 istrator or manager is responsible for providing appropriate supervision
+5 based on each resident's negotiated service agreement or other legal re-
+6 quirements.
+7 (31) (41) "Supportive services" means the specific services that are
+8 provided to the resident in the community.
+9 SECTION 3. That Section 39-3303, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 39-3303. PAYMENT LEVELS. (1) Clients of the department who are receiv-
+12 ing financial aid as set out in sections 56-207, 56-208 and 56-209a, Idaho
+13 Code, seeking placement in a residential care or assisted living facility
+14 will be assessed by the department regarding their need for specific types
+15 of services and supports. This assessment will determine the reimbursement
+16 rate to the service provider.
+17 Eligible participants must be allowed to choose the facility or ser-
+18 vices that are appropriate to meet their medical needs and financial ability
+19 to pay. The department shall is authorized to promulgate rules, subject to
+20 legislative approval, outlining the payment policy and calculations for
+21 clients of the department through negotiated rulemaking.
+22 (2) Residents who are not clients of the department shall:
+23 (a) Be assessed by the facility regarding their need for specific types
+24 of services and supports. This assessment, and the individual negoti-
+25 ated service agreement, shall determine the rate charged to the resi-
+26 dent.
+27 (b) Receive a full description of services provided by the facility and
+28 associated costs upon admission, according to facility policies and
+29 procedures. A thirty (30) day notice must be provided prior to a change
+30 in facility billing practices or policies. When a resident's level of
+31 care changes, a facility is entitled to charge the increased rate no
+32 sooner than the date that notice is provided. Billing practices shall
+33 be transparent and understandable.
+34 (c) Be charged for the use of furnishings, equipment, supplies and ba-
+35 sic services as agreed upon in the negotiated service agreement or as
+36 identified in the admission agreement.
+37 SECTION 4. That Section 39-3305, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 39-3305. RULES. (1) The board shall have the authority is authorized
+40 to adopt, amend, repeal and enforce such rules, subject to legislative ap-
+41 proval, as may be necessary or proper to carry out the purpose and intent of
+42 this chapter which are designed to protect the health, safety and individual
+43 rights of residents in residential care or assisted living facilities. The
+44 department shall exercise the powers and perform the duties conferred upon
+45 it by this chapter, not inconsistent with any statute of this state. These
+46 rules shall are authorized, subject to legislative approval, to be promul-
+47 gated in accordance with the provisions of the Idaho administrative proce-
+6
+1 dure act. The department shall is authorized to, through negotiated rule-
+2 making, promulgate rules in the following areas, subject to legislative ap-
+3 proval:
+4 (a) Minimum criteria for the assessment;
+5 (b) Minimum criteria for the negotiated service agreement;
+6 (c) Guidelines for the facility's physical environment and location;
+7 (d) Criteria for the facility's license, to include:
+8 (i) Initial license application criteria and procedures;
+9 (ii) License renewal criteria, procedures and timing;
+10 (iii) Inspection criteria and procedures;
+11 (iv) Denial and revocation of license criteria and procedures;
+12 and
+13 (v) Effect of previous revocation or denial of license.
+14 (e) Remedy and enforcement provisions for noncompliance with statute.
+15 (2) Rules shall are authorized to be drafted and promulgated, subject
+16 to legislative approval, following negotiation with interested providers,
+17 assisted living nurse associations, and advocates.
+18 SECTION 5. That Section 39-3307, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 39-3307. ADMISSIONS. (1) A residential care or assisted living facil-
+21 ity shall not admit or retain any resident requiring a level of services or
+22 type of service for which the facility is not licensed or which the facility
+23 does not provide or arrange for, or if the facility does not have the staff,
+24 appropriate in numbers and with appropriate skills, to provide. Prospective
+25 residents will also be informed of options and rights available through
+26 other programs, to include medicare benefits where applicable. The depart-
+27 ment shall provide forms for this.
+28 (2) The department shall is authorized to develop rules, subject to
+29 legislative approval, governing admissions to residential care or assisted
+30 living facilities.
+31 SECTION 6. That Section 39-3308, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 39-3308. ASSESSMENT. (1) Initial assessments may be completed within
+34 thirty (30) days prior to a resident's move into a residential care or as-
+35 sisted living facility, but must be completed prior to admission.
+36 (2) The department shall employ uniform assessment criteria to assess
+37 function and cognitive disability. The conclusions shall be deemed the as-
+38 sessment and shall be used to provide appropriate placement and funding for
+39 service needs. The assessment shall also be used to ensure funding is cost-
+40 effective and appropriate when compared to other state programs relevant to
+41 the needs of the client being assessed. The department shall is authorized
+42 to develop rules, subject to legislative approval, regarding:
+43 (1) (a) Qualifications of persons making the assessments.;
+44 (2) (b) Department's responsibility for state pay clients.;
+45 (3) Time frames for completing an assessment.
+46 (4) (c) Information to be included in an assessment.;
+7
+1 (5) (d) Use of an assessment in developing the negotiated service
+2 agreement.;
+3 (6) (e) Use of assessments in determining facility staffing ratios.;
+4 and
+5 (7) (f) Use of assessments for determining the ability of provider and
+6 facility to meet residents' needs and special training or licenses that
+7 may be required in caring for certain residents.
+8 (3) The administrator shall ensure policies and procedures are devel-
+9 oped and implemented to ensure nursing services are performed in accordance
+10 with applicable state regulations and the provisions of this chapter.
+11 (4)(a) A licensed nurse shall visit the facility at least once every
+12 ninety (90) days to conduct quarterly nursing assessments for each res-
+13 ident. A licensed nurse is responsible for delegating to others as ap-
+14 propriate based on the nurse's license.
+15 (b) The licensed nurse shall be available to address changes in a resi-
+16 dent's health or mental status, to review and implement new orders, and
+17 to notify a physician or authorized provider when a resident repeatedly
+18 refuses to follow physician orders.
+19 SECTION 7. That Section 39-3309, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-3309. NEGOTIATED SERVICE AGREEMENT. (1) Each resident shall be
+22 provided a negotiated service agreement to provide for coordination of ser-
+23 vices and for guidance of the staff and management of the facility where the
+24 person resides. Upon completion, the agreement shall clearly identify the
+25 resident and describe the services to be provided to the resident and how
+26 such services are to be delivered. The negotiated service agreement shall
+27 be reviewed at least annually and upon any change in a diagnosis for the res-
+28 ident or other condition requiring substantially different additional or
+29 replacement services.
+30 (2) A negotiated service agreement shall be based on the person's:
+31 (a) Assessment;
+32 (b) Service needs for activities of daily living;
+33 (c) Need for limited nursing services;
+34 (d) Need for medication assistance;
+35 (e) Frequency of needed services;
+36 (f) Level of assistance, i.e., standby, reminding, total;
+37 (g) Signature and approval of agreement; and
+38 (h) Signing date that the plan was approved and date plan will be re-
+39 viewed.
+40 (3) The administrator or manager shall consult the resident, or the
+41 resident's family, guardian, representative, friends, or case manager
+42 and/or consumer coordinator, as necessary, in the development of the resi-
+43 dent's service agreement.
+44 (4) A copy of the agreement shall be given to the resident and a copy
+45 placed in the resident's records file no later than two (2) weeks from admis-
+46 sion.
+47 (5) A resident shall be given the choice and control of how and what ser-
+48 vices the facility shall provide, or external vendors shall provide, to the
+8
+1 extent the resident can make choices, so long as the resident's choice does
+2 not violate the provisions of section 39-3307(1), Idaho Code.
+3 (6) On an exception basis, a record shall be made of any changes or in-
+4 ability to provide services outlined in the negotiated service agreement.
+5 (7) The agreement shall include a statement regarding when there is no a
+6 need for access to external services.
+7 (8) There shall be documentation of refusal of certain treatments by
+8 competent resident or legal health care representative.
+9 SECTION 8. That Section 39-3316, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 39-3316. RESIDENT RIGHTS. A The administrator of a residential care or
+12 assisted living facility must ensure that policies and procedures are devel-
+13 oped and implemented that protect and promote the rights of each resident,
+14 including each of the following rights:
+15 (1) Resident records. Upon request, a resident or others authorized
+16 by law shall be provided immediate access to information on the resident's
+17 record and shall be provided with copies of such information within two (2)
+18 business days. Each facility must maintain and keep current a record of the
+19 following information on each resident:
+20 (a) A copy of the resident's current negotiated service agreement and
+21 physician's order.
+22 (b) Written acknowledgment that the resident has received copies of the
+23 rights.
+24 (c) A record of all personal property and funds that the resident has
+25 entrusted to the facility, including copies of receipts for the prop-
+26 erty.
+27 (d) Information about any specific health problems of the resident that
+28 may be useful in a medical emergency.
+29 (e) The name, address and telephone number of an individual identified
+30 by the resident who should be contacted in the event of an emergency or
+31 death of the resident.
+32 (f) Any other health-related, emergency, or pertinent information the
+33 resident requests the facility to keep on record.
+34 (g) The current admission agreement between the resident and the facil-
+35 ity.
+36 (2) Privacy. Each resident must be assured the right to privacy with
+37 regard to accommodations, medical and other treatment, written and tele-
+38 phone communications, visits, and meetings of family and resident groups.
+39 (3) Humane care and environment, (dignity, and respect).
+40 (a) Each resident shall have the right to humane care and a humane envi-
+41 ronment, including the following:
+42 (i) The right to a diet consistent with any religious or health-
+43 related restrictions.
+44 (ii) The right to refuse a restricted diet.
+45 (iii) The right to a safe and sanitary living environment.
+46 (b) Each resident shall have the right to be treated with dignity and
+47 respect, including:
+48 (i) The right to be treated in a courteous manner by staff.
+9
+1 (ii) The right to receive a response from the facility to any re-
+2 quest of the resident within a reasonable time.
+3 (iii) The right to be communicated with, orally and/or in writing,
+4 in a language the resident understands.
+5 (4) Personal possessions. Each resident shall have the right to:
+6 (a) Wear his own clothing.
+7 (b) Determine his own dress or hair style.
+8 (c) Retain and use his own personal property in his own living area so as
+9 to maintain individuality and personal dignity.
+10 (d) Be provided a separate storage area in his own living area and at
+11 least one (1) locked cabinet or drawer for keeping personal property.
+12 (5) Personal funds. Residents whose board and care is paid for by pub-
+13 lic assistance shall retain, for their personal use, the difference between
+14 their total income and the applicable board and care rent, utilities, and
+15 food allowance established by department rules.
+16 (a) A facility shall not require a resident to deposit his personal
+17 funds with the facility.
+18 (b) Once the facility accepts the written authorization of the resi-
+19 dent, it must hold, safeguard, and account for such personal funds under
+20 a system established and maintained by the facility in accordance with
+21 this paragraph.
+22 (6) Management of personal funds. Upon a facility's acceptance of
+23 written authorization of a resident, the facility must manage and account
+24 for the personal funds of the resident deposited with the facility as fol-
+25 lows:
+26 (a) The facility must deposit any amount of a resident's personal funds
+27 in excess of five (5) times the personal needs allowance in an interest-
+28 bearing account (or accounts) that is separate from any of the facil-
+29 ity's operating accounts and credit all interest earned on such sepa-
+30 rate account to such account. The facility must maintain any other per-
+31 sonal funds in a noninterest-bearing account or petty cash fund.
+32 (b) The facility must assure a full and complete separate accounting of
+33 each resident's personal funds, maintain a written record of all finan-
+34 cial transactions involving each resident's personal funds deposited
+35 with the facility, and afford each resident (or a legal representative
+36 of each resident) reasonable access to such record.
+37 (c) Upon the death of a resident with such an account, the facility must
+38 promptly convey the resident's personal funds (and a final accounting
+39 of such funds) to the individual administering the resident's estate.
+40 For clients of the department, the remaining balance of funds shall be
+41 refunded to the department medicaid estate recovery unit.
+42 (7) Access and visitation rights. Each facility must permit:
+43 (a) Immediate in-person access to any resident by any representative of
+44 the department, by the state ombudsman for the elderly or his designees,
+45 or by the resident's individual physician.
+46 (b) Immediate in-person access to a resident, subject to the resident's
+47 right to deny or withdraw consent at any time, by immediate family or
+48 other relatives.
+10
+1 (c) Immediate access to a resident, subject to reasonable restrictions
+2 and the resident's right to deny or withdraw consent at any time, by oth-
+3 ers who are visiting with the consent of the resident.
+4 (d) Reasonable access to a resident by any entity or individual that
+5 provides health, social, legal, or other services to the resident, sub-
+6 ject to the resident's right to deny or withdraw consent at any time.
+7 (8) Employment. Each resident shall have the right to refuse to per-
+8 form services for the facility except as contracted for by the resident and
+9 the administrator of the facility. If the resident is hired by the facility
+10 to perform services as an employee of the facility, the wage paid to the resi-
+11 dent shall be consistent with state and federal law.
+12 (9) Confidentiality. Each resident shall have the right to confiden-
+13 tiality of personal and clinical records.
+14 (10) Freedom from abuse, neglect, and restraints. Each resident shall
+15 have the right to be free from physical, mental, or sexual abuse, neglect,
+16 corporal punishment, involuntary seclusion, and any physical or chemical
+17 restraints. The use of supportive devices with restraining qualities is
+18 permissible if the following conditions are met:
+19 (a) For residents with the cognitive ability to consent, the facility
+20 shall document the following:
+21 (i) The resident specifically requests or approves of the device
+22 and a licensed health care professional has informed the individ-
+23 ual of the risks and benefits associated with the device;
+24 (ii) A facility nurse acting within the nurse's scope of license
+25 has conducted a thorough assessment;
+26 (iii) The facility has documented other less restrictive alterna-
+27 tives evaluated prior to the use of the device and obtained written
+28 consent from the patient or representative; and
+29 (iv) The facility has instructed direct care staff on the correct
+30 use and precautions related to the device.
+31 (b) Supportive devices with restraining qualities are permissible for
+32 residents who are unable to evaluate the risks and benefits of the de-
+33 vice when the conditions contained in paragraph (a)(ii) through (iv)
+34 of this subsection are present and documented by the facility. The
+35 facility shall also obtain and document the consent of the resident's
+36 guardian, representative, or power of attorney as applicable.
+37 (c) Documentation of the use of supportive devices with restraining
+38 qualities shall be included in the resident's service plan and evalu-
+39 ated on a quarterly basis.
+40 (11) Freedom of religion. Each resident shall have the right to prac-
+41 tice the religion of his choice or to abstain from religious practice. Res-
+42 idents shall also be free from the imposition of the religious practices of
+43 others.
+44 (12) Control and receipt of health-related services. Each resident
+45 shall have the right to control his receipt of health-related services, in-
+46 cluding:
+47 (a) The right to retain the services of his own personal physician, den-
+48 tist and other health care professionals.
+49 (b) The right to select the pharmacy or pharmacist of his choice so long
+50 as it meets the statute and rules governing residential care or assisted
+11
+1 living and the policies and procedures of the residential care or as-
+2 sisted living facility.
+3 (c) The right to confidentiality and privacy concerning his medical or
+4 dental condition and treatment.
+5 (d) The right to refuse medical services based on informed decision-
+6 making. Refusal of treatment does not relieve the facility of its obli-
+7 gations under this chapter.
+8 (i) The facility shall document that the resident and the res-
+9 ident's legal guardian have been informed of the consequences of
+10 the refusal; and
+11 (ii) The facility shall document that the resident's physician or
+12 authorized provider has been notified of the resident's refusal.
+13 (13) Grievances. Each resident shall have the right to voice grievances
+14 with respect to treatment or care that is (or fails to be) furnished with-
+15 out discrimination or reprisal for voicing the grievances and the right to
+16 prompt efforts by the facility to resolve grievances the resident may have,
+17 including those with respect to the behavior of other residents.
+18 (14) Participation in resident and family groups. Each resident shall
+19 have the right to organize and participate in resident groups in the facility
+20 and the right of the resident's family to meet in the facility with the fami-
+21 lies of other residents in the facility.
+22 (15) Participation in other activities. Each resident shall have the
+23 right to participate in social, religious, and community activities that do
+24 not interfere with the rights of other residents in the facility.
+25 (16) Examination of survey results. Each resident shall have the right
+26 to examine, upon reasonable request, the results of the most recent survey of
+27 the facility conducted by the department with respect to the facility and any
+28 plan of correction in effect with respect to the facility.
+29 (17) Access by advocates and representatives. A residential care or as-
+30 sisted living facility shall permit advocates and representatives of commu-
+31 nity legal services programs, whose purposes include rendering assistance
+32 without charge to residents, to have access to the facility at reasonable
+33 times in order to:.
+34 (a) Visit, talk with, and make personal, social and legal services
+35 available to all residents.
+36 (b) Inform residents of their rights and entitlements, and their cor-
+37 responding obligations, under state, federal and local laws by distri-
+38 bution of educational materials and discussion in groups and with indi-
+39 viduals.
+40 (c) Assist residents in asserting their legal rights regarding claims
+41 for public assistance, medical assistance and social security benefits
+42 and in all other matters in which residents are aggrieved, which may
+43 be provided individually or in a group basis and may include organiza-
+44 tional activity, counseling and litigation.
+45 (d) Engage in all other methods of assisting, advising and representing
+46 residents so as to extend to them the full enjoyment of their rights.
+47 (e) Communicate privately and without restrictions with any resident
+48 who consents to the communication.
+49 (f) Observe all common areas of the facility.
+12
+1 (18) Access by protection and advocacy system. A residential care or
+2 assisted living facility shall permit advocates and representatives of the
+3 protection and advocacy system, designated by the governor pursuant to 42
+4 U.S.C. 15043 and 10801 et seq., access to residents, facilities and records
+5 in accordance with applicable federal statutes and regulations.
+6 (19) Access by the long-term care ombudsman. A residential care or
+7 assisted living facility shall permit advocates and representatives of
+8 the long-term care ombudsman program, pursuant to 42 U.S.C. 3058, section
+9 67-5009, Idaho Code, and IDAPA 15.01.03, rules of the commission on aging,
+10 access to residents, facilities and records in accordance with applicable
+11 federal and state law, rules and regulations.
+12 (20) A facility may not require precautions, such as health screenings,
+13 for in-person visitors that are more stringent than precautions for facil-
+14 ity staff, and in-person access pursuant to subsection (7)(a) and (b) of this
+15 section shall not be precluded on the basis of a visitor's vaccination sta-
+16 tus.
+17 (21) Each resident shall have the right to be transferred or discharged
+18 only for medical reasons, for the resident's welfare or the welfare of other
+19 residents, or for nonpayment of the resident's stay. In non-emergency con-
+20 ditions, the resident shall be given at least thirty (30) calendar days no-
+21 tice of discharge. A resident has the right to appeal any involuntary dis-
+22 charge.
+23 SECTION 9. That Chapter 33, Title 39, Idaho Code, be, and the same is
+24 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+25 ignated as Section 39-3316A, Idaho Code, and to read as follows:
+26 39-3316A. NOTICE OF RESIDENTS' RIGHTS. Each facility shall:
+27 (1) Inform each resident, orally and in writing, at the time of admis-
+28 sion to the facility of the resident's legal rights during the stay at the fa-
+29 cility;
+30 (2) Make available to each resident, upon reasonable request, a written
+31 statement of such rights, and notify a resident when such rights change;
+32 (3) Ensure the written statement of legal rights includes a description
+33 of the protection of personal funds and a statement that a resident may file a
+34 complaint with the department regarding resident abuse, neglect, and misap-
+35 propriation of resident property in the facility at any time; and
+36 (4) Conspicuously post the residents' rights in the facility at all
+37 times.
+38 SECTION 10. That Section 39-3318, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 39-3318. FACILITY RESPONSE TO INCIDENTS AND COMPLAINTS. (1) In addi-
+41 tion to any other requirements of this chapter, the residential care or as-
+42 sisted living facility shall provide a procedure approved by the licensing
+43 agency for immediate response to incidents and complaints. This procedure
+44 shall include a method of assuring that the administrator or designee has
+45 personally investigated the matter, and that the person making the complaint
+46 or reporting the incident has received a response of action taken or a rea-
+47 son why no action needs to be taken. In the case of anonymous complaints, the
+13
+1 administrator or designee shall document the action taken or a reason why no
+2 action needs to be taken have a process in place to address incidents and com-
+3 plaints.
+4 (2) In order to assure the opportunity for complaints from the resi-
+5 dents, the neighborhood, and the community to be made directly to the ad-
+6 ministrator or designee, each facility shall, within a reasonable period of
+7 time, meet with a complainant.
+8 SECTION 11. That Section 39-3321, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 39-3321. QUALIFICATIONS AND REQUIREMENTS OF ADMINISTRATOR. (1) Each
+11 residential care or assisted living facility must employ at least one (1) ad-
+12 ministrator licensed by the division of occupational and professional li-
+13 censes, which is responsible for licensing residential care facility admin-
+14 istrators for the state of Idaho. Multiple Up to three (3) multiple facili-
+15 ties under one (1) administrator may will be allowed by the department based
+16 on an approved plan of operation.
+17 (2) The administrator or the administrator's designee is responsible
+18 for:
+19 (a) Ensuring that policies and procedures are developed and imple-
+20 mented to comply with this chapter;
+21 (b) Ensuring that adult protective services and law enforcement are no-
+22 tified when required pursuant to sections 39-5303 and 39-5310, Idaho
+23 Code;
+24 (c) Ensuring that facility procedures for investigation of complaints,
+25 incidents, accidents, and allegations of abuse, neglect, or exploita-
+26 tion are implemented to ensure resident safety;
+27 (d) Identifying and monitoring patterns of accidents, incidents, or
+28 complaints and developing interventions to prevent recurrences;
+29 (e) Completing an investigation and written report of the findings
+30 within thirty (30) calendar days for each accident, incident, com-
+31 plaint, or allegation of abuse, neglect, or exploitation;
+32 (f) Being reachable and available at all times; and
+33 (g) Ensuring that no personnel providing hands-on care or supervision
+34 services is under seventeen (17) years of age, unless such personnel
+35 have completed a certified nursing assistant certification course.
+36 (3) The administrator or the administrator's designee must be notified
+37 of all serious incidents, accidents, or allegations of abuse, neglect, or
+38 exploitation immediately and notified of complaints regarding health and
+39 safety issues within one (1) business day.
+40 (4) When abuse, neglect, exploitation, incidents, or accidents occur,
+41 corrective action shall be immediately taken and monitored to ensure the
+42 problem does not recur.
+43 (5) When a reportable incident occurs, the administrator or adminis-
+44 trator's designee shall notify the licensing agency within one (1) business
+45 day of the incident.
+46 (6) The facility shall notify the licensing agency, in writing, within
+47 three (3) business days of a change of administrator.
+14
+1 SECTION 12. That Section 39-3322, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-3322. QUALIFICATIONS AND REQUIREMENTS FOR FACILITY STAFF. (1) Each
+4 facility must employ or arrange for sufficient trained staff to fully meet
+5 the needs of its residents and the requirements of this chapter. The facil-
+6 ity shall have sufficient staff to provide care during all hours required in
+7 each resident's negotiated service plan. Additional staff may be required
+8 if physical plant and disability of residents indicate that staff assistance
+9 in emergencies is required. Benchmarks shall be established in the assess-
+10 ment criteria where the need for certified nursing assistants or licensed
+11 nurses is indicated. Residential care or assisted living facilities shall
+12 not retain residents who require the care provided by nursing facilities un-
+13 der section 39-1301(b), Idaho Code, other than for short exceptional stays
+14 pursuant to negotiated rulemaking as defined in chapter 52, title 67, Idaho
+15 Code.
+16 (2) Should a residential care or assisted living facility choose not
+17 to carry professional liability insurance, that information shall be dis-
+18 closed, in writing, to employees at the time of hiring.
+19 SECTION 13. That Section 39-3326, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-3326. MEDICATIONS. The medication policy governed by the policy
+22 and procedure of the facility shall include a policy permitting, under the
+23 conditions specified, a licensed nurse to fill individual dose systems such
+24 as blister pack, mediset, or other system approved by the department and
+25 label with the name, dosage, amount, time to be taken, and special instruc-
+26 tions if appropriate. The policy shall provide for appropriate records to
+27 maintain security of medications received from a pharmacist in accordance
+28 with pharmacy standards. The licensed nurse shall appropriately label the
+29 medication with name, dosage, amount and time to be taken, and special in-
+30 structions if appropriate. Facilities may choose to use bulk containers for
+31 over-the-counter medications.
+32 SECTION 14. That Section 39-3340, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 39-3340. LICENSING. (1) Any person, firm, partnership, association,
+35 governmental unit, or corporation within the state proposing to operate, es-
+36 tablish, manage, conduct, or maintain a residential care or assisted living
+37 facility in the state shall have a license issued by the licensing agency of
+38 the department. A license is not transferable. The owner of the license has
+39 ultimate responsibility for the operation of the facility.
+40 (2) Each residential care or assisted living facility in the state re-
+41 quires an administrator, properly licensed by the division of occupational
+42 and professional licenses, who is responsible for the day-to-day operation
+43 of the facility. The licensed administrator may perform the day-to-day
+44 responsibilities at the facility or may delegate all day-to-day responsi-
+45 bilities to a facility manager. A licensed administrator may serve up to
+15
+1 three (3) multiple facilities and delegate all day-to-day responsibilities
+2 to on-site managers.
+3 (3) A license is not transferable from one (1) individual to another,
+4 from one (1) business entity to another, or from one (1) location to another.
+5 When a change of operator, ownership or location occurs, the facility shall
+6 be relicensed, and the operator shall follow the application procedures and
+7 obtain a license before commencing operation as a facility. When there is
+8 a significant change in an owner's share of the facility that does not al-
+9 ter the overall ownership or operation of the business, that change shall be
+10 communicated to the licensing agency within sixty (60) days of the effective
+11 date of the change. When the owner contracts the operation to a facility man-
+12 agement company, other than for temporary management, it shall be treated as
+13 a change of operator.
+14 (3) All facilities must be licensed by the department.
+15 (a) Change of building ownership, new construction, or buildings being
+16 converted to a facility shall be licensed, and the operator shall follow
+17 the application procedures and obtain a license before commencing oper-
+18 ation as a facility.
+19 (b) When there is a change of operator or lessee in currently licensed
+20 buildings, the operator or lessee shall follow the licensing process
+21 for currently licensed buildings. Facilities shall submit requested
+22 licensing documents to the department. Any company or individual es-
+23 tablished in the state of Idaho with at least one (1) operating facility
+24 shall not be required to submit an updated copy of policies and pro-
+25 cedures. The licensing process shall not require a fire life safety
+26 inspection prior to license issuance. Within one hundred eighty (180)
+27 days of license issuance fire life safety shall inspect and provide rec-
+28 ommendations, if any, to the new operator or lessee.
+29 (c) Any minor change of ownership of existing buildings shall be commu-
+30 nicated to the department within sixty (60) days of the change.
+31 (d) Exceptions to the provisions of this section may be made by the de-
+32 partment for temporary management.
+33 SECTION 15. That Section 39-3351, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 39-3351. EXEMPTIONS. The provisions of this chapter do not apply to
+36 any of the following:
+37 (1) Any health facility as defined by chapter 13, title 39, Idaho Code.;
+38 (2) Any house, institution, hotel, congregate housing project, retire-
+39 ment home or other similar place that is limited to providing one (1) or more
+40 of the following: housing, meals, transportation, housekeeping, or recre-
+41 ational and social activities; or that has residents accessing supportive
+42 services from an entity approved to provide such services in Idaho and hold-
+43 ing no legal ownership interest in the entity operating the facility.; or
+44 (3) Any arrangement for the receiving and care of persons by a relative.
+45 (4) Any similar facility determined by the director.
+46 SECTION 16. That Section 39-3352, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+16
+1 39-3352. UNLICENSED RESIDENTIAL CARE OR ASSISTED LIVING FACILI-
+2 TIES. (1) No unlicensed residential care or assisted living facility shall
+3 operate in this state.
+4 (2) A facility shall be deemed to be an "unlicensed residential care or
+5 assisted living facility" and "maintained and operated to provide services"
+6 if it is unlicensed and not exempt from licensure, and any one (1) of the fol-
+7 lowing conditions is satisfied:
+8 (a) The facility is, or is held out as or represented as, providing
+9 care, supervision and services.
+10 (b) The facility accepts or retains residents who demonstrate the need
+11 for care, supervision, and services, as defined in this chapter or the
+12 rules adopted pursuant to this chapter.
+13 (3) Upon discovery of an unlicensed residential care or assisted living
+14 facility, the department shall refer residents to the appropriate placement
+15 or adult protective services agency if either of the following conditions
+16 exist:
+17 (a) There is an immediate threat to the resident's health and safety.
+18 (b) The facility will not cooperate with the licensing agency to apply
+19 for a license, meet licensing standards, and obtain a valid license.
+20 (4) A person found to be operating a residential care or assisted living
+21 facility without a license shall may be guilty of a misdemeanor punishable by
+22 imprisonment in a county jail not to exceed six (6) months, or by a fine not to
+23 exceed five thousand dollars ($5,000).
+24 (5) In the event the county attorney in the county where the alleged vi-
+25 olation occurred fails or refuses to act within thirty (30) days of notifica-
+26 tion of the violation, the attorney general is authorized to prosecute vio-
+27 lations under the provisions of this section.
+28 SECTION 17. That Section 39-3354A, Idaho Code, be, and the same is
+29 hereby repealed.
+30 SECTION 18. That Chapter 33, Title 39, Idaho Code, be, and the same is
+31 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+32 ignated as Section 39-3355A, Idaho Code, and to read as follows:
+33 39-3355A. INSPECTIONS. (1) The licensing agency shall cause to be made
+34 such inspections and investigations to determine compliance with this chap-
+35 ter and applicable rules.
+36 (2) Initial inspections, licensure or re-licensure inspections, fol-
+37 low-up inspections, and fire life safety inspections shall be scheduled in
+38 advance, with facilities receiving notice at least thirty (30) days prior to
+39 the inspection date.
+40 (3) Initial surveys shall be conducted within ninety (90) days of li-
+41 censure, followed by a licensure survey within fifteen (15) months.
+42 (4) Complaint investigation surveys shall occur based on the potential
+43 severity of the complaint and shall be made unannounced and without prior no-
+44 tice.
+45 (5) The department may accept the services of any qualified person or
+46 organization, either public or private, to examine, survey, or inspect any
+47 entity requesting or holding a facility license, including as described in
+48 subsection (13) of this section.
+17
+1 (6) An inspector shall have full access and authority to examine, among
+2 other things, quality of care and service delivery, a facility's records,
+3 resident accounts, and physical premises, including buildings, grounds and
+4 equipment, and any other areas necessary to determine compliance with this
+5 chapter and applicable rules.
+6 (7) An inspector shall have authority to interview the licensee, admin-
+7 istrator, staff, and residents. Interviews with residents shall be confi-
+8 dential and conducted privately unless otherwise specified by the resident.
+9 (8) The licensing agency shall notify the facility, in writing, of all
+10 deficiencies, provide a proposed plan of correction for all deficiencies,
+11 and approve a reasonable length of time for compliance by the facility. At
+12 the time of the exit conference, the licensing agency shall provide the fa-
+13 cility a written report specifying the non-core issue deficiencies. Facil-
+14 ities are not required to submit plans of correction for non-core deficien-
+15 cies.
+16 (9) When core issues are identified during a survey, the licensing
+17 agency shall provide a written report within ten (10) business days of the
+18 exit conference or the last day of receipt of additional material. Fa-
+19 cilities may either adopt the proposed plan of correction or submit an
+20 alternative plan of correction for approval by the department for core issue
+21 deficiencies.
+22 (10) If any deficiencies constitute an immediate jeopardy, the depart-
+23 ment shall require immediate correction of deficient practice.
+24 (11) Current lists of deficiencies, including plans of correction,
+25 shall be available to the public upon request in the individual facilities or
+26 by written request to the department.
+27 (12) The licensing agency shall conduct follow-up surveys to ascertain
+28 corrections to issues are made according to the time frames established in
+29 the plan of correction for core issues. If the department identifies re-
+30 peat deficient facility practices during any follow-up survey, the depart-
+31 ment may initiate or extend enforcement actions.
+32 (13) The department shall accept an accreditation survey from an ac-
+33 creditation commission for a residential care or assisted living facility
+34 instead of regular compliance inspections conducted under the authority of
+35 this section if all of the following conditions are met:
+36 (a) The accreditation commission's standards meet or exceed the state
+37 requirements for licensure for residential care or assisted living fa-
+38 cilities;
+39 (b) The facility submits to the department a copy of its required ac-
+40 creditation reports to the accreditation commission in addition to the
+41 application and any other information required for renewal of a li-
+42 cense;
+43 (c) The inspection results are available for public inspection to the
+44 same extent that the results of an investigation or inspection con-
+45 ducted under this section are available for public inspection;
+46 (d) The accreditation commission complies with the health insurance
+47 portability and accountability act and takes reasonable precautions
+48 to protect the confidentiality of personally identifiable information
+49 concerning the residents of the facility; and
+18
+1 (e) If the facility's accreditation report is not valid for the entire
+2 licensure period, the department may conduct a compliance inspection of
+3 the facility during the time period for which the department does not
+4 have a valid accreditation report.
+5 (14) The department shall establish a self-inspection program for fa-
+6 cilities that receive a gold or silver rating, defined as high ratings with
+7 no significant deficiencies on the most recent inspection. Qualifying
+8 facilities shall conduct self-inspections for complaints received by the
+9 department that do not involve health or safety concerns. Facilities shall
+10 submit findings and corrective actions to the department. The department
+11 retains the authority to conduct verification inspections for complaints
+12 involving health or safety concerns or incomplete reports.
+13 (15) The department shall not conduct an on-site compliance inspec-
+14 tion of the residential care or assisted living facility during the time
+15 the accreditation report is valid except for complaint surveys or in cases
+16 of emergencies. Accreditation does not limit the department in performing
+17 any power or duty under this chapter or inspection authorized under this
+18 section, including taking appropriate action relating to a residential
+19 care or assisted living facility, such as suspending or revoking a license,
+20 investigating an allegation of abuse, exploitation, or neglect or another
+21 complaint, or assessing an administrative penalty.
+22 SECTION 19. That Chapter 33, Title 39, Idaho Code, be, and the same is
+23 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+24 ignated as Section 39-3355B, Idaho Code, and to read as follows:
+25 39-3355B. PLAN OF CORRECTION FOR CORE ISSUES. (1) The facility shall
+26 either accept the proposed plan of correction for core issues or develop
+27 and submit an acceptable plan of correction to the licensing agency within
+28 ten (10) business days of receipt of the written report of identified core
+29 issues. If an acceptable plan of correction is not submitted within the
+30 required time frame, the department may initiate or extend enforcement ac-
+31 tions.
+32 (2) An acceptable plan of correction shall include:
+33 (a) A plan to ensure correction of each deficient practice and ongoing
+34 compliance;
+35 (b) A description of how, and at what frequency, corrective actions
+36 will be monitored to ensure that each deficient practice is corrected
+37 and will not recur, such as what program will be put into place to moni-
+38 tor the continued effectiveness of the systemic change; and
+39 (c) The completion date for correcting each deficiency. No correction
+40 date may be more than forty-five (45) days from the exit date printed
+41 on the written report except in unusual circumstances and only with the
+42 written approval of the licensing agency.
+43 SECTION 20. That Section 39-3356, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 39-3356. COMPLAINTS. (1) A person who believes that any provision
+46 of this chapter has been violated may file a complaint with the licensing
+47 agency.
+19
+1 (2) The licensing agency shall investigate, or cause to be investi-
+2 gated, any complaint alleging a violation of this chapter or applicable
+3 rules, regulations and standards. If the licensing agency reasonably be-
+4 lieves a requirement of this chapter has been violated, it shall conduct an
+5 inspection of the facility unannounced, unscheduled, and without written
+6 notice.
+7 (3) A complaint filed with the licensing agency which is subsequently
+8 released to the facility that is the subject of the complaint or to any member
+9 of the public shall not disclose the name or identifying characteristics of
+10 the complainant unless:
+11 (a) The complainant consents in writing to the disclosure.
+12 (b) The investigation results in a judicial proceeding and disclosure
+13 is ordered by the court.
+14 (c) If the disclosure is essential to the investigation, the com-
+15 plainant shall be given an opportunity to withdraw the complaint before
+16 disclosure.
+17 (4) The licensing agency shall inform the complainant or, if requested
+18 by the complainant, the complainant's designated representative, of the re-
+19 sults of the investigation and any action taken by the agency.
+20 (5) Complaints shall not be listed on the department's public website.
+21 Substantiated complaints that result in a citation may be included in the in-
+22 spection results on the department's public website.
+23 SECTION 21. That Section 39-3357, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 39-3357. ENFORCEMENT PROCESS. (1) If the licensing agency finds, on
+26 the basis of inspections as defined in this chapter or otherwise, that a res-
+27 idential or assisted living facility no longer meets a requirement of this
+28 chapter, and further finds that the facility's deficiencies:
+29 (a) Immediately jeopardize the health or safety of its residents,
+30 the department shall take immediate action to remove the jeopardy
+31 and correct the deficiencies through the remedy specified in section
+32 39-3358(1)(c), Idaho Code, or prohibit the facility from keeping or
+33 admitting residents and may provide, in addition, for one (1) or more of
+34 the other remedies described in section 39-3358, Idaho Code.
+35 (b) Do not immediately jeopardize the health or safety of its resi-
+36 dents, the department shall provide for one (1) or more of the remedies
+37 described in section 39-3358, Idaho Code.
+38 (2) Nothing in this section shall be construed as restricting the reme-
+39 dies available to the department to remedy a facility's deficiencies. If
+40 the department finds that a facility meets the requirements of this chap-
+41 ter, but, as of a previous period, intentionally did not meet such require-
+42 ments, the department may provide for a civil money penalty under section
+43 39-3358(1)(b), Idaho Code, for the days in which it finds that the facility
+44 was not in compliance with such requirements.
+45 (3) Residential care or assisted living facilities may be cited only
+46 for a violation of a requirement that is specified in an applicable law or
+47 in a rule promulgated in compliance with an applicable law. Facilities may
+48 not be cited for an act that is not expressly proscribed by an applicable law
+49 or rule or for an omission when an applicable law or rule does not expressly
+20
+1 require the conduct omitted. If the department requires a specific correc-
+2 tive action in relation to a citation, that requirement must be in writing
+3 and reference the corresponding rule.
+4 (4) If a civil money penalty is assessed against a facility for defi-
+5 ciencies that do not require relocation of residents or facility closure,
+6 the facility may use funds equal to the penalty amount to correct the defi-
+7 ciencies instead of paying the penalty. Documentation of expenditures ad-
+8 dressing the deficiencies must be submitted to the department.
+9 (5) Funds collected from such penalties, including those held by the
+10 department on July 1, 2025, or collected after such date, may be used by fa-
+11 cilities through a department-administered grant program to improve resi-
+12 dent care and quality of life. The department shall establish guidelines and
+13 a process for grant applications and fund distribution.
+14 SECTION 22. That Section 63-701, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 63-701. DEFINITIONS. As used in this chapter:
+17 (1) "Claimant" means a person who has filed an application under sec-
+18 tion 63-602G, Idaho Code, and has filed a claim under the provisions of
+19 sections 63-701 through 63-710, Idaho Code. Except as provided in section
+20 63-702(2), Idaho Code, on January 1 or before April 15 of the year in which
+21 the claimant first filed a claim on the homestead in question, a claimant
+22 must be an owner of the homestead, a claimant must have lawful presence in the
+23 United States pursuant to section 67-7903, Idaho Code, and on January 1 of
+24 said year a claimant must be:
+25 (a) Not less than sixty-five (65) years old; or
+26 (b) A child under the age of eighteen (18) years who is fatherless or
+27 motherless or who has been abandoned by any surviving parent or parents;
+28 or
+29 (c) A widow or widower; or
+30 (d) A disabled person who is recognized as disabled by the social se-
+31 curity administration pursuant to title 42 of the United States Code,
+32 or by the railroad retirement board pursuant to title 45 of the United
+33 States Code, or by the office of management and budget pursuant to title
+34 5 of the United States Code, or, if a person is not within the purview of,
+35 and is therefore not recognized as disabled by, any other entity listed
+36 in this paragraph, then by the public employee retirement system or pub-
+37 lic employee disability plan in which the person participates that may
+38 be of any state, local unit of government or other jurisdiction in the
+39 United States of America; or
+40 (e) A disabled veteran of any war engaged in by the United States, whose
+41 disability is recognized as a service-connected disability of a degree
+42 of ten percent (10%) or more, or who has a pension for nonservice-con-
+43 nected disabilities, in accordance with laws and regulations adminis-
+44 tered by the United States department of veterans affairs; or
+45 (f) A person, as specified in 42 U.S.C. 1701, who was or is entitled
+46 to receive benefits because he is known to have been taken by a hostile
+47 force as a prisoner, hostage or otherwise; or
+48 (g) Blind.
+21
+1 (2) "Homestead" means the dwelling, owner-occupied by the claimant
+2 as described in this chapter and used as the primary dwelling place of the
+3 claimant and may be occupied by any members of the household as their home,
+4 and so much of the land surrounding it, not exceeding one (1) acre, as is
+5 reasonably necessary for the use of the dwelling as a home. It may consist
+6 of a part of a multidwelling or multipurpose building and part of the land
+7 upon which it is built. "Homestead" does not include personal property such
+8 as furniture, furnishings or appliances, but a manufactured home may be a
+9 homestead.
+10 (3) "Household" means the claimant and the claimant's spouse. The term
+11 does not include bona fide lessees, tenants, or roomers and boarders on con-
+12 tract. "Household" includes persons described in subsection (8)(b) of this
+13 section.
+14 (4) "Household income" means all income received by the claimant and,
+15 if married, all income received by the claimant's spouse, in a calendar year.
+16 (5) "Income" means the sum of federal adjusted gross income as defined
+17 in the Internal Revenue Code, as defined in section 63-3004, Idaho Code, and
+18 to the extent not already included in federal adjusted gross income:
+19 (a) Alimony;
+20 (b) Support money;
+21 (c) Nontaxable strike benefits;
+22 (d) The nontaxable amount of any individual retirement account, pen-
+23 sion or annuity, including railroad retirement benefits, all payments
+24 received under the federal social security act except the social secu-
+25 rity death benefit as specified in this subsection, state unemployment
+26 insurance laws, and veterans disability pensions and compensation, ex-
+27 cluding any return of principal paid by the recipient of an annuity and
+28 excluding rollovers as provided in 26 U.S.C. 402 or 403, and excluding
+29 the nontaxable portion of a Roth individual retirement account distri-
+30 bution, as provided in 26 U.S.C. 408A;
+31 (e) Nontaxable interest received from the federal government or any of
+32 its instrumentalities or a state government or any of its instrumental-
+33 ities;
+34 (f) Worker's compensation; and
+35 (g) The gross amount of loss of earnings insurance.
+36 It does not include gifts from nongovernmental sources or inheritances. To
+37 the extent not reimbursed, the cost of medical care as defined in section
+38 213(d) of the Internal Revenue Code, incurred and paid by the claimant and,
+39 if married, the claimant's spouse, may be deducted from income. To the ex-
+40 tent not reimbursed, personal funeral expenses, including prepaid funeral
+41 expenses and premiums on funeral insurance, of the claimant and claimant's
+42 spouse only, may be deducted from income up to an annual maximum of five
+43 thousand dollars ($5,000) per claim. "Income" does not include veterans
+44 disability pensions received by a person described in subsection (1)(e)
+45 of this section who is a claimant or a claimant's spouse if the disability
+46 pension is received pursuant to a service-connected disability of a de-
+47 gree of forty percent (40%) or more. "Income" does not include dependency
+48 and indemnity compensation or death benefits paid to a person described in
+49 subsection (1) of this section by the United States department of veterans
+50 affairs and arising from a service-connected death or disability. "Income"
+22
+1 does not include lump sum death benefits made by the social security admin-
+2 istration pursuant to 42 U.S.C. 402(i). Documentation of medical expenses
+3 may be required by the county assessor and state tax commission in such form
+4 as the county assessor or state tax commission shall determine. For pur-
+5 poses of this chapter only and in the case of a claimant who owns and whose
+6 homestead is a certified family home as defined in section 39-3502, Idaho
+7 Code, "income" does not include payments that the claimant received as an
+8 enrolled medicaid provider from the medical assistance program. "Income"
+9 shall be that received in the calendar year immediately preceding the year
+10 in which a claim is filed. Where a claimant and/or the claimant's spouse
+11 does not file a federal tax return, the claimant's and/or the claimant's
+12 spouse's federal adjusted gross income, for purposes of this section, shall
+13 be an income equivalent to federal adjusted gross income had the claimant
+14 and/or the claimant's spouse filed a federal tax return, as determined by the
+15 county assessor. The county assessor or state tax commission may require
+16 documentation of income in such form as each shall determine, including, but
+17 not limited to: copies of federal or state tax returns and any attachments
+18 thereto; and income reporting forms such as the W-2 and 1099.
+19 For determining income for certain married individuals living apart,
+20 the provisions of sections 2(c) and 7703(b) of the Internal Revenue Code
+21 shall apply.
+22 (6) "Occupied" means actual use and possession.
+23 (7) "Owner" means a person holding title in fee simple or holding a cer-
+24 tificate of motor vehicle title (either of which may be subject to mortgage,
+25 deed of trust or other lien) or who has retained or been granted a life estate
+26 or who is a person entitled to file a claim under section 63-702, Idaho Code.
+27 "Owner" shall also include any person who:
+28 (a) Is the beneficiary of a revocable or irrevocable trust which is the
+29 owner of such homestead and under which the claimant or the claimant's
+30 spouse has the primary right of occupancy of the homestead; or
+31 (b) Is a partner of a limited partnership, member of a limited liabil-
+32 ity company or shareholder of a corporation if such entity holds title
+33 in fee simple or holds a certificate of motor vehicle title and if the
+34 person holds at least a five percent (5%) ownership in such entity, as
+35 determined by the county assessor; or
+36 (c) Has retained or been granted a life estate.
+37 "Owner" includes a vendee in possession under a land sale contract. Any
+38 partial ownership shall be considered as ownership for determining initial
+39 qualification for property tax reduction benefits; however, the amount of
+40 property tax reduction under section 63-704, Idaho Code, and rules promul-
+41 gated pursuant to section 63-705, Idaho Code, shall be computed on the value
+42 of the claimant's partial ownership. "Partial ownership," for the purposes
+43 of this section, means any one (1) person's ownership when property is owned
+44 by more than one (1) person or where the homestead is held by an entity, as
+45 set forth in this subsection, but more than one (1) person has the right of
+46 occupancy of such homestead. A person holding either partial title in fee
+47 simple or holding a certificate of motor vehicle title together with another
+48 person, but who does not occupy the dwelling as his primary dwelling place,
+49 shall not be considered an owner for purposes of this section, if such person
+50 is a cosignatory of a note secured by the dwelling in question and at least
+23
+1 one (1) of the other cosignatories of the note occupies the dwelling as his
+2 primary dwelling place. The combined community property interests of both
+3 spouses shall not be considered partial ownership as long as the combined
+4 community property interests constitute the entire ownership of the home-
+5 stead, including where the spouses are occupying a homestead owned by an en-
+6 tity, as set forth in this subsection, and the spouses have the primary right
+7 of occupancy of the homestead. The proportional reduction required under
+8 this subsection shall not apply to community property interests. Where
+9 title to property was held by a person who has died without timely filing a
+10 claim for property tax reduction, the estate of the deceased person shall be
+11 the "owner," provided that the time periods during which the deceased person
+12 held such title shall be attributed to the estate for the computation of any
+13 time periods under subsection (8)(a) or (b) of this section.
+14 (8)(a) "Primary dwelling place" means the claimant's dwelling place
+15 on January 1 or before April 15 of the year for which the claim is made.
+16 The primary dwelling place is the single place where a claimant has
+17 his true, fixed and permanent home and principal establishment, and to
+18 which whenever the individual is absent he has the intention of return-
+19 ing. A claimant must establish the dwelling to which the claim relates
+20 to be his primary dwelling place by clear and convincing evidence or by
+21 establishing that the dwelling is where the claimant resided on January
+22 1 or before April 15 and:
+23 (i) At least six (6) months during the prior year; or
+24 (ii) The majority of the time the claimant owned the dwelling if
+25 owned by the claimant less than one (1) year; or
+26 (iii) The majority of the time after the claimant first occupied
+27 the dwelling if occupied by the claimant for less than one (1)
+28 year. The county assessor may require written or other proof of
+29 the foregoing in such form as the county assessor may determine.
+30 (b) Notwithstanding the provisions of paragraph (a) of this subsec-
+31 tion, the property upon which the claimant makes application shall be
+32 deemed to be the claimant's primary dwelling place if the claimant is
+33 otherwise qualified and resides in a care facility and does not allow
+34 the property upon which the claimant has made application to be occu-
+35 pied by persons paying a consideration to occupy the dwelling. Payment
+36 of utilities shall not be payment of a consideration to occupy the
+37 dwelling. A claimant's spouse who resides in a care facility shall be
+38 deemed to reside at the claimant's primary dwelling place and to be a
+39 part of the claimant's household. A care facility is a hospital, nurs-
+40 ing facility or intermediate care facility for people with intellectual
+41 disabilities as defined in section 39-1301, Idaho Code, or a facility
+42 as defined in section 39-3302(16), Idaho Code, or a dwelling other than
+43 the one upon which the applicant makes application where a claimant who
+44 is unable to reside in the dwelling upon which the application is made
+45 lives and receives help in daily living, protection and security.
+46 SECTION 23. The rules contained in IDAPA 16.03.22, Idaho Department
+47 of Health and Welfare, relating to Residential Assisted Living Facilities,
+48 Section 001., Subsection 05.; Section 130.; Section 152., Subsection 03.b.;
+49 Section 215.; Section 300.; Section 550.; and Section 560. shall be null,
+50 void, and of no force and effect after July 1, 2025.
+24
+1 SECTION 24. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOTEIORLCEORADLGA;AN3,IOC,TORELEITADD;AGSN3,IOC,TOREDDTODET;AGSN3,IOC,TORSRGPTL;AGSN3,I,TOREPSRGR;AGSN3OC,TOREPSRGA;AGSN3,IOC,TOREPSRGAGSN3,IOC,TOREPSRDSEA;AGSN3,IOCOREPSRGRTR;AGCR3E3,IOC,BYTEANOFANWSN3,I,TOEHPSRGNEOFRSRGSN3,IOC,TOREPSRFSRETOISADC;AGS,IOC,TOREPSRGQSASOFA;AGSN3,IOCOREAPNRGQSADRSFYS;AGSN3,IOC,TOREPSRGM;AGSN3,IOCOREPSRGL;AGSN3OC,TOREPSRGE;AGSN3,IOC,TOREAPNRGULCEORADLGF;RGS,IOC,RGTOPGSLW;AGCR3,TE3,IOC,BYTEANOFANWS,IOC,TOEHPSRGIGCR3,TE3,IOC,BYTEANOFANWSN3,IOC,TOEHPSRGPSO;AGSN3,IOC,TOREPGC;AGSN3,IOC,TOPRCNRSRGTEETP;AN6,IOC,TOPEACTCER;PGTTCNAERSCDINIA1LBEN,V,ADOFNOFEADE;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.LEITADD.TepeofarlceoradlgfyinIoistopeah]
+[DELETED: ,adhelgatfraswondseahasofdylgadplcebtdontretlofceidursn3,IoC,ortrstelssmgattwwddtoawttorettfrasttmaeeeasddbldplnesewleetedtoffstdtotsofilpswhttoeinidssiswestsessettopeter,ifa,anoytowkadbeidinrdeno.E,rladelosfrpewhdsslbeodintemtidsgctwhtrnrlceoradlgfyslbeodadbyiswohetekeadeerdteseadaesstoalrsoftefearormroftefysleettano,idattodertnsiscpacendpnofcetomtten,desstomtrtn,adeertrsaN2.TtSn3,IoC,b,adteseishdtordasf.D.Asudintsc)""msanlatofs,plormtoriyofartthteanorinofari)""msanu,udetttcnceti)()""msapsofrwttasheostomtryrsadssedbyardano)()"nc"mstecnonanofrnfs(,tejtc,orayrdanonadbyted)()"sofdyl"mstepeofbeasinmganisnstosnhminylge)()""msani,pyldbytnofoladpll,woisrefyonofarlceoradlgf)"sd"msapnadinwgttinteaeoftearfrnometnty()cedswntearisonv,hsdso,isi,oriyfrtsorm.Tsilslbekeoyo,tersadtrn,eypelnadonofeye,adhwteanberdinteetofane]
+[DELETED: )()""msapnwohsadteaeofen()()""msanadorddreopmoronogurflorsemetortteisofmyi,dyd,ore)()""mstecnrdugumc,whisrts,w,rsadn,tef,mladbln.Teatclbeddbytedtadrlceoradl)()"dp"intscrmsanilwsaneprorclnestorapna)()""mstebdofhhadw)()"lr"msamnudtoclbrortortfmofmtadisntasdttfersc)""msaflenofd,d,orusb,oronbfo,artcgteceosattef.Tsencdbeolorinwgorbnaemsofc)()"ei"msa,n,e,i,asninwhtefyhsodfrmetnt)dswtaldarddterrtedyosoftef,iefednogsswhnofewhinpepgtecnoes,adssddastor,r,orf)""msadnofnewhaysnoftsc)()""msteIodtofhhadw)()""mstedrofteIodtohadw)"tc"msamgwhtefyarhsdetoper,d,adwndnoeisadtopepyfsofcei)()""mstemeofarsf,p,r,iyorpnfrptora)()""msarlceoradlgf)"ps"msasycdtocmtefyisinceadhsteaytorninc)()"lu"mstes,ayc,aycrpls,orayd,d,b,oroyt)"ej"msttieceanisrdbetefyisntwhhhadsyrspgpsatrkofssh,i,ord]
+[DELETED: )()"ec"oswnafyfstopetsrdtomttetsoftendseatoefrr,b,asofdyl,s,ftaeadmgofm,eyi,cnofoes,aselge;oresinvsofr'r,ortsrswohebnadinvnoftepsofsn3,IoCeesinarosttcehmtoartorceasnlyttiniejytoteh,s,orwgofar)()""msabcpttooearlcradlgf)()""msteorofaletooearlceoradlgfyurtsc)()"ga"msteutoftedtofhdwettcsisadssadislsbncewhtsc)""msteilddbyteartetedyosoftef)()""msfetopef,c,srmlcenytosnteleadhhofar)()"dsea"msteatrdbertartersreadtef,bdoea,pso,anr,addsoft,adwhossstobepdadteosoefyadter)"ei"msayfgofdtpettitacei)()"la"mstepnbytesfoftyofoe()ormeoftefgs)Agtertwhasofdyl)Agfrses)Bgaeoftersglw;a)Mgteasoftertweontepsoefytoeetersh,syadw)"lr"msaydeorplfettrstefemtofapnofanisb,etfetyttofamlc,shasteueofactfbnb)()"ls"msacyorc)()""msanatwolsinarlceodlgf)()"lceoradlgf"msafyorr,hrn,odoneraptornsfrtepeofpgnys,pla,msadlgtote()ormeasntrdtoteo)()"madb"mslgadm)"lc"msafyhsnocei]
+[DELETED: )()""msaeaywhpef:p,g,keoftersg,adaewhasofdyl.Tearormrisrefrpgaesdonehrsndseatororllr)()"es"mstescssttadtotertintecN3.TtSn3,IoC,b,adteseishdtordasf.PTL.()Csoftedtwoaergfladasstotinss5,58ad5,I,sgptinarlceoradlgflbeadbytedtrgtrndfrsctfssads.Tsatwldeteretotesepepsmtbeadtocetefyorssttaeaetomttrmlnsadflaop.Tedtslisadtoper,sttea,ogteptpyadcsfsoftedtthndr)Rswoaentcsoftedts)Beadbytefyrgtrndfrsctfssads.Tsa,adteilndsea,sldeterecdtoter)Reafldnofsspdbytefyadcsuna,agtofypsa.Aty()dynemtbepdprtoacnfybgpsorp.Wnarslloec,afyisedtoceteidrenrtntedettneisp.Bgpssettadu)Becdfrteueoff,e,ssadbcssasadunintendseatoradinteanaN4.TtSn3,IoC,b,adteseishdtordasf.R.()Tebdslheteayisaoa,a,rladeeshr,sttolea,asmybenyorprtocyottepeaditoscrwhaeddtoptteh,syadisofrsinrlceoradlgf.Ttsleetepsadpmtedscdutbytsc,ntitwhayseoftss.Tsslaea,sttolea,tobepdinaewhtepsofteIoaep]
+[DELETED: ea.Tedtslisadt,thndr,persintefga,sttolea)Mmcafrtea)Mmcafrtendsea)Gsfrtefspletadl)Cafrtefsl,toi)Illeancaadp)Lerlc,psadt)Incaadp)Dladrnoflecaadp)Etofpsrnordlofl)Ryadetpsfrnewhs)Rsslaeadtobeddadp,solea,fgnnwhidpdlgnea,adaN5.TtSn3,IoC,b,adteseishdtordasf.A.()Arlceoradlgfyslntatorrnayrtrgallofssoeofsefrwhtefyisntldorwhtefsntpeoraef,oriftefydsntheteseinnsadwhaes,top.Pswlaobeidofosadrsaetrp,toiemebswea.Tedtslpefsfrt)Tedtslisadtodpr,sttea,ggastorlceoragfN6.TtSn3,IoC,b,adteseishdtordasf.A.()Ilasmybecdwy()dsprtoarsmeioarlceoradlgf,btmtbecdprtoa)Tedtsleyumatcatoanadced.Tecsslbeddteatadslbeudtopeaeptadfgfen.Teatslaobeudtoeefgisceadaewncdtoorsepsrttensoftectbga.Tedtslisaodpr,sttolea,r)()Qsofpsmgtea)()Dsryfrsepyc)Tefsfrcgana)()Intobeidinana]
+[DELETED: )()Ueofanatindgtends)()Ueofasindgfysgr)()Ueofasfrdgteayofpraytomtr'nsadsltgorlstyberdincgfrcnr)Tearsleepsadpsaeddadidtoeengssaepdinahaesersadtepsoftsc)Aldneslvttefyatltoeey()dstoctqyngasfrehr.Aldneisrefrdgtoosasaebdontensl)Teldneslbeaetoascsinarshhormls,torwaditnwo,aonyapnoradprwnartrstofwpnoN7.TtSn3,IoC,b,adteseishdtordasf.NDSEA.()Ehrtslbdandseattopefrcnofssadfrgeoftesfadmtoftefywetnr.Unc,teatslcyiyttaddetesstobepdtotertadhhssaetobed.Tendseatserdatltayadunayceinadsfrtertororcnrgsydtalots)Andseatslbebdontep)A)Sensfrasofdyl)Ndfrldngs)Ndfrmna)Fyofnds)Llofa,i,s,r,t)Seadalofa;a)Sgdetttepnwsadaddepnwlber)Tearormrslctter,ortsf,g,r,f,orcemrcrc,asn,intedtofterssea)Acyofteatslbegntotertadacdintersrsfenolrtnto()wsfma)Artslbegnteceadclofhwadwtsstefyslp,orelvsslp,tot]
+[DELETED: ttertcnmec,solgasterscedtvetepsofsn3,IoC)Onanenb,ardslbemeofaycsoriytopessodintendsea)Teatslieastrgwnteisnodfrastoels)TeslbednofrlofcntsbtrtorllhhcerN8.TtSn3,IoC,b,adteseishdtordasf.RTR.earofarlceodlgfymteettpsadpsaeddadidttptadpetersofehrgehoftefgr)Rtr.Unr,artorosaylwslbepdieastoinonterdadslbepdwhcsofshinwnto(sd.Ehfymtmnadkpctardoftginonehr)Acyoftersctndseataso)Wnatttterthsrdcsoft)Ardofalplpyadfsttterthdtotef,igcsofrsfrtep)Inatayschhpsofterttybeulinamle)Ten,asadtenrofaniliytertwosdbecdinteetofaneyohofter)Ayorh,e,orptinttrstefytokponr)Tectanatbntertadtef)P.Ehrtmtbeadterttopywdtoa,mladort,wnadtec,v,admsoffyadrtg)Heceade,(,adr)Ehrtslheterttoheceadahee,igtef)Terttoadtctwhayrsorhdr)Terttoreardd)Terttoaseadsylge)Ehrtslheterttobetdwhdya,i)Terttobetdinacsmrbys]
+[DELETED: )Terttorearefmtefytoayrtoftertwnaret)Terttobecdw,oyarinwnaletertu)Plp.Ehrtslhetertt)Wrhsonc)Dehsondsorhrs)Rnaduehsonplpyinhsonlgaasoaomniyadpld)Bepdaseseaainhsonlgaaadatoe()ldctordrfrkgplp)Plf.Rswebdadceispdfrbypcaeslr,frtrplu,tedebrtlieadteaebdadcer,u,adaeedbydtr)Afyslntrearttodthspswhtef)Oetefyastewnanofter,itmth,s,adatfrshplfsusmedadmdbytefyinaewsp)Mtofplf.Unafsaeonanofar,tefymtmeadarteplfsoftertddwhtefyasf)Tefymtdtayatofarsplfnesoffe()tsteplnsaeinanigat(ra)ttissefmayoftefsogasadctalitedonshseattosha.Tefymtmnayorplfsinangatorpychf)Tefymtaeafladceseagohrsplf,mnawnrdofalfltsigehrsplfsdhtef,adadehrt(rallrfehr)reastoshr)Untedhofartwhshana,tefymycytersplfs(daflafshf)toteilagtersercsofted,tergbeoffsslbdtotedtmdeeryu)Asadvnr.Ehfymtp)Ieinastoayrtbyayreoed,byteseonfrteeyorhsdrbytersilp)Ieinastoar,sttoterttodyorwwctatayt,byiefyorr]
+[DELETED: )Ieastoar,sttorerdtersrttodyorwwctatayt,byoswoaevgwhtectofter)Reastoartbyayeyoriltsh,s,l,ororsstoter,sttotersrttodyorwwctatayt)E.Ehrtslheterttoretopmssfrtefyetascdfrbytertaearoftef.Iftertishdbytefopmssasaneeoftef,tewepdtotertslbectwhseadfll)C.Ehrtslheterttocyofpladclr)Fmfma,n,adr.Ehrtseterttobefefmp,m,orsla,nlp,iys,adayplorc.Teueofsedswhrgqsieiftefgcsaem)Frrswhteceaytoc,tefldttef)Tertsyrsorasofteddaldhhceplhsidteiloftersadbsadwhted)Afyneagwntensseoflscdatha)Tefyhsddorlsreasedprtoteueoftedeadodwtfmteptorr;a)Tefyhsiddtcesfonteceadpsrdtoted)Sedswhrgqsaepefswoaeuetoeetersadbsoftedewntecscdinph()th(ftssnaeptadddbytef.Tyslaoonaddttectofter,r,orprofayasa)Dnofteueofsedswhrsslbeidinterssepnadedonaqyb)Fmofr.Ehrtslheterttopeternofhsceortoanfmrsp.Rsslaobefefmteinofterspso)Cladrtofhds.Ehrlheterttoclhsrtofhds,i)Terttorntessofhsonplp,dtadorhhcep)Terttosttepyorptofhscesolsitmsteseadrsggrlceora]
+[DELETED: gadtepsadpsofterlceoradlgf)Terttocyadpycghsmlolcnadt)Terttoremlssbdonidd.Rlofttdsntretefyofisosurtsc)Tefysldttttertadtersllgnhebnidoftecsoer;a)Tefysldtttterspnodprhsbnndoftersr)G.Ehrtslheterttoveghrttottorcettis(rfstob)fdwtdnorrlfrvgtegsadtertttesbytefytoregstertmyhgtewhrttotebroforr)Pninrtadfyg.Ehrtseterttooeadpeinrtgsintefdtertoftersfytomtintefywhtefsoforrsintef)Pninora.Ehrtslhetttopeins,r,adcyasttdtiewhtersoforrsintef)Enofsyr.Ehrtslheteroe,unrer,tersoftemtrtsyoefycdbytedtwhrttotefyadanofcninetwhrttotef)Asbyasadr.Arlceoradlgfyslptasadrsofcyllssp,wepsiergatcetor,toheastotefyatrsinort)V,tkw,admep,sladllsetoalr)Imrsoftrrsade,adtrcgo,urs,fladlllsbydnofelmsaddningsadwhi)Atrsinagtrllrsrgcrpca,mlaeadslsybdinalormsinwhrsaea,whmepdiyorinagpbsadmyieola,cgadl)Eeinalormsofa,agadrssoastoedtotmtefletoftrr)Cepyadwtrswhayrocstotec)Oealcnasoftef]
+[DELETED: )Asbypnadays.Arlceodlgfyslptasadrsoftnadays,ddbytegrptto4.13ad11ets,astor,fsadrnaewhaeflssadr)Asbytelmceo.Arlceodlgfyslptasadrsoelmceonp,ptto42U.3,s,IoC,adIA1,rsoftecnonastor,fsadrsinaewhaladsel,rsadr)Afymyntrep,shashhsrinvsttaemesttnpsfrfys,adinaspttosn()ad()oftnslntbepdontebsofavsvns)Ehrtslheterttobetdordyfrmlr,frtersweorteweofo,orfrntofterss.Innyc,tertslbegnatltty()crdsneofd.ArthsterttoalayiydN9.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.NEOFR'R.Ehfys)Imehr,oyadinw,atteteofantotefyoftersllrsdgtesyattef)Meaetoehr,unrer,awtofshr,adnyartwnshrsc)Eetewnstofllrsisadftepnofplfsadastttartmyfetwhtedtrgrta,n,admnofrtpyintefyatayt;a)Cyptter'rsintefyataN1.TtSn3,IoC,b,adteseishdtordasf.FYRETOISADC.()Inantoayorrsoftsc,terlceoradlgfyslpeapeadbytelyfrieretoisadc.Tsplieamdofagtttearordehyidtem,adtttepnmgtecrrgteithsrdareofantnorarnwynoannstobet.Inteceofasc,t]
+[DELETED: rordesldtteantnorarnwynnnstobetnheapsinpetoasisadc)Inortoaeteoyfrcsfmter,ten,adtecytobemedytotearord,ehfys,wnarepdo,mtwhacN1.TtSn3,IoC,b,adteseishdtordasf.QSADRSOFA.()Elceoradlgfymteyatltoe()arldbytednofoladpll,whisrefrlgrlcefyasfrteseofI.MeUptote()mefsuroe()armywlbeadbytedtbnanadpnofo)Tearorteasdeisr)Egttpsadpsaeddadidtocywhtsc)Egttatpessadlwetaendwnrdpttoss33ad3,I)Egttfypsfrinofc,a,adasofa,n,orenaeidtoeerts)Igadmgpsofa,i,osaddgistoptr)Cganinadwnrtoftefnty()crdsfreha,i,c,oranofa,n,ore)Bgreadaeatalt;a)Egttnoplpghnceorssisursn()ysofa,usshpecdacdngatcncearorteasdemtbenfalssi,a,orasofa,n,oniyadndofcsrghhayiswnoe()bsd)Wna,n,e,i,orasoeanslbeiytnadmdtoeetmdsntr)Wnareito,tearorasdeslnytelgaywnoe()byoftei)Tefyslnytelga,inw,we()bsdsofaceofa]
+[DELETED: N1.TtSn3,IoC,b,adteseishdtordasf.QSADRSFRFYS.()Eymteyoraefrsttdsftofymensofisrsadtersoftsc.Tefyslhestsftopecedgalhsrdihrsndsep.Alsfmyberfplptaddyofrsiettsfanesisr.Bsslbeedinteatcawetendfrcdngasorlsisi.Rlceoradlgfsstrnrsworetecepdbyngfsursn3,IoC,ortnfrstelsttondrgasddincr5,te6,I)Sdarlceoradlgfycenocypllyi,ttinslbed,inw,toesatteteofhN1.TtSn3,IoC,b,adteseishdtordasf.M.Temnpygdbytepdpeoftefyslieapyp,urtss,aldnetoflildessssbrp,m,ororsmadbytedtalwhten,d,a,tetobet,adslisifa.Tepyslpefraerstnsyofmsrdfmaptinahpys.Teldneslaylltnwhn,d,atadtetobet,adslisifa.FsmycetouebkcsfrmN1.TtSn3,IoC,b,adteseishdtordasf.L.()Ayp,f,p,alu,orcnwntesepgtoo,e,m,c,ormnarlceoradlyinteseslhealeidbytelgayoed.Aleisntt.Teorofteleheryfrteonoftef)Ehrlceoradlgfyintesersana,pyldbytednofodpll,woisrefrtedyoftef.Teldarmypmtedsattefyormydealdyrstoafym.Aldarmyseupt]
+[DELETED: e()mefsaddealdyrooem)Aleisnttefmoe()iltoamoe()bseytoa,orfmoe()lntoanaceofo,oporlno,tefyser,adteorslfwteanpsanalebecgonasaf.Wnteistceinanosseoftefyttdsntarteoloporonofteb,ttceslbdtotelgaywnsy()dsofteeeoftec.Wnteorcsteontoafymtc,ortnfrtym,itslbetdaceofo)Alfsmtbeldbyted)Ceofbgo,nwc,orbsbdtoafyslbel,adteorslfeanpsadonalebecgonasaf)Wnteisaceofororleincyl,teororleslfwtelgprcyldb.Fsslstrgdstoted.AycyoriledinteseofIowhatltoe()ogflntberdtostanudcyofpsadp.Telgpsslntreafelesnprtolei.Wnoehdey(sofleiefelesyslitadper,ifa,totenwororl)Aymrceofopofegbsslbecdtotedtwnsy()dsoftec)EstotepsoftssnmybemebytedtfrtymN1.TtSn3,IoC,b,adteseishdtordasf.E.Tepsoftscrdontaytyoftef)Ayhhfyasddbycr1,te3,IoC)Ayh,i,h,cehgp,rtheororsrpettisldtopgoe()ormftef:h,m,t,h,orrladsla;ortthsrsagssfmaneyadtopeshssinIoadhgnollopitinteeyogtef;o)Ayatfrtergadceofpsbyar)AysrfyddbytedN1.TtSn3,IoC,b,adteseishdtordasf]
+[DELETED: .UDRLCEORADLGF.()Noudrlceoradlgfyseintss)Afyslbeddtobean"drlceodlgf"ad"dadodtopesfitisudadntetfml,adayoe()oftefgcsiss)Tefyi,orishdotasorrda,p,snads)Tefyasorrsrswodetenrc,s,ads,asddintscrortsadpttotsc)Undyofanudrlceoradl,tedtslrrrstoteaepratpessayiferoftefgc)Teisanietttotershhads)Tefywlntcewhtelgaytoaral,mtlgs,adonavdl)Apnfdtobeogarlceoradlywtaleslmybegyofamrpebtinacyjlnttoedsx()m,orbyafenttdfetdds()Inteettecyayintecyweteadvnodfsorrstoatwnty()dsofnnoftev,teayglisadtopevsurtepsoftssN1.TtSn3,IoC,b,adteseiyrN1.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.I.()Telgayslcetobemhisadistodecewhtscradaer)Ili,leorrei,fpi,adfelesyisslbesdi,whfsrgneatltty()dsprteind)Ilssslbecdwnny()dsofl,fdbyalesywnfn()m)Ctinssslorbdontepyoftectadslbemeudadwtprn)Tedtmyattessofayqdpno,erpcorp,toe,s,oritayrgorhgafyl,igasddin()oftss]
+[DELETED: )Anirslheflasadaytoe,art,qyofceadsed,afsrta,adplp,igb,gsa,adayorasnytodecewhtradaer)Anirslheaytoiwtel,a,s,adr.Iswhrsslbecladcdpyusoesdbyter)Telgayslnytef,inw,ofa,peapdpnofcnfralddaearelhoftefrcebytef.Aeteofteetc,telgayslpetefyawnrtsgteneied.Fsaentrdtostpsofcnfrned)Wnceisaeiddgas,telyslpeawnrtwntn()bsdsofttceorteltdyofrtofalm.Fsmyerattepdpnofcnorstaepnofcnfralbytedtfrcei)Ifaydsceaniej,tedtslreiecnofdtp)Ctlsofd,igpsofclbeaetotepcunrtinteilfsoywnrttoted)Telgayslctfpsstoastoisaemeagtotetefsediepnofcnfrcei.Iftedtisrtdtfypsdgayfps,tedtmyieoredeta)Tedtslatanansyfmanancnfrarlceoradlgfdofrrceiscdurteayossnifaloftefgcsaem)Teancsssmtoredtessfrlefrrlceoradlgf)Tefysstotedtacyofisrdanrstoteancninantotnadayorinrdfrrlofal)Teinrsaeaefrpcintoteettttersofaninorincdurtssnaeaefrpci)Teancncswhtehhiyadayatadtsrepopttecyofpyieigtersoftef;a]
+[DELETED: )Iftefsanrtisntvdfrteeep,tedtmyctaceinoefydgtetepdfrwhtedtdsneavdanr)Tedtslehasnpmfrfsttreagdorsrr,ddashhrswostdsontemtrti.Qsslctssfrcsrdbyttttdontiehhorsyc.Fsstfsadceastoted.Tedsteaytoctvnisfrcghhorsycsorier)Tedtslntctanoeceinofterlceoradlgfydgteteanrtisvdetfrctssorincfe.Andsntlttedtinpyprordyurtscrorinadurt,igtgaeanrgtoareoradlgf,shassgorrgalgananofa,e,orntora,oraganaepN1.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.PNOFCNFRCEI.()Tefysrattepdpnofcnfrceisorddstanaepnofcntotelgaywn()bsdsofrtoftewnrtofidc.Ifanaepnofcnisntsdwntdtef,tedtmyieoredeta)Anaepnofcnsli)Apntoeecnofehdtpeado)Adnofh,adatwtf,cealbemdtoeettehdtpeiscdwlntr,shaswtpmwlbeptiopetomrtecdesoftescc;a)Tecndefrcgehd.Nocemybemetnfe()dsfmteetdepntewnrtetinulcsadoywhtnaloftelgaN2.TtSn3,IoC,b,adteseishdtordasf.C.()Apnwobsttaypftscrhsbnvdmyfeactwhtel]
+[DELETED: )Telgaysli,orcetobei,ayctagavnoftscrora,rsads.Iftelgayrybsartoftscrhsbnv,itslctanoftefyu,u,adwtw)Actfdwhtelgaywhissdtotefyttistestoftectortoaymftepcslntdeteneorigcsoectu)Tectcsinwgtoted)Teinrsinajlpgaddsodbytec)Iftedeiseltotei,tectslbegnanoytowwtectb)Telgayslimtecto,ifrytec,tecsddr,oftersofteinadayantnbytea)CsslntbeldontedspcwdcsttrtinacnmybeidinteinrsontedspcwN2.TtSn3,IoC,b,adteseishdtordasf.ETP.()Iftelgayf,oebsofisasddintscroro,ttarloradlgfynolrmsartoft,adfrfstttefsd)Iyjetehhorsyofisredtslteieantoretejdcttedsthterysdins,IoC,orpttefyfmkgogrsadmyp,ina,froe()ormeoeorrsddinsn3,IoC)Dontiyjetehhorsyofisr,tedtslpefroe()ormeofterdinsn3,IoC)Ngintssnslbecdasrgtersaetotedttoryafsd.Iedtfsttafymstersoftsc,b,asofapsp,iyddntmtshr,tedtmypefraclmypyurs,IoC,frtedsinwhitfstttefsntincewhshr)Rlceoradlgfsmybecdoravnofartttissdinanaelwonarepdincewhanael.Fsmtbecdfranatttisnteypdbyanaelrreorfranonwnanaelworredsnte]
+[DELETED: etecto.Iftedtrsascceaninrntoac,ttrtmtbeinwdretecgr)Ifaclmypyisadatafyfrdsttdontrernofrsorfycefymyuefseltotepyattocttedsidofpgtep.Dnofesagtedsmtbesdtoted)Fscdfmshp,igtehdbyttonJy1,2,orcdarshd,mybeudbyfsthaddgtpmtoiertceadqyofl.TedtslehgsapsfrgtasadfddN2.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc)""msapnwohsfdananursn6,IoC,adhsfdacmurtepsos61th6,IoC.Etaspdins,IoC,onJy1orbeAl15ofteyrinwectftfdacmontehdinq,actbeanorofteh,actmthellpeintdSspttosn6,IoC,adonJy1odyractmtb)Ntlstnse()yso;o)Acdurteaeofen()yswoisfsosorwohsbnadbyaysgptorp)Awworw;o)Addpnwoisrdasddbyteslsyanpttote42ofteUdSsCrbyterdrtbdpttote45ofteUsC,orbyteoeofmtadbtpttotofteUdSsC,o,ifapnisntwntepwodistentrdasddb,ayoreylntsp,tnbytepceertsmorpceedypninwhtepnpsttmeofays,llutofgtororjnintdSsofA;o)AddvnofaywredinbyteUdS,wyisrdasasddyofadftnpt()orm,orwohsapnfrndd,inaewhlsadrsadbyteUdSsdtofvsa;o)Ap,assdin42U.1,wowsoriseorebsbeheiskntohebntnbyaheasap,heoro;o)B]
+[DELETED: )""msted,odbytecsddintscradudastepydgpeofttadmybeodbyaymsoftehdastrhdsomhofteldsgi,ntegoe()a,asiynyfrteueoftedgasah.Itmycfaptofamgormebgadptoftelnwhitisb.""dsntieplpyssf,fsora,btamdhemybe)""mstectadtecss.Tetsntiebafel,t,orrsadbsonc.""ispsddinsn()oft)"di"msalierdbytectafm,alierdbytecss,inacry)""mstesmoffladgsieasdnteIlReC,asddinsn6,IoC,aoteetntayidinfladgsi)A)Stm)Neseb)Teneatofayilrta,pnora,igrdrtb,alpdurteflslsyatetteslsydhbtassdintss,seuel,advsdypsadc,egayrnofplpdbytertofanayagrsaspdin26U.42or4,adeenepnofaRhilrtatd,aspdin26U.4)Neitrdfmteflgtorayosisorasegtorayofisi)Wsc;a)Tegsatoflsofesitdsntiegsfmnlssori.Teetntr,tectofmlceasddins)ofteIlReC,idadpdbytectafm,tecss,mybeddfmi.Toteetntr,plfle,igpdfsadpsonfli,oftectadceo,mybeddfmieuptoanalmmoffdds()prc.""dsntievypsrdbyapnddinsn(ftssnwoisactoracsseiftednisrdpttoasddyofadeoffypt()orm.""dsntieddiycnordhbspdtoapnddin()oftssnbyteUdSsdtofvsadagfmasddhord."]
+[DELETED: sntielpsmdhbsmebyteslsyanptto42U.4.Dnofmleyberdbytecyaradsetxcninshfstecyarorsetxcnsld.Frpsoftscroyadinteceofactwoosadwdisacdfyheasddinsn3,I,""dsntiepstttectrdasadmdprfmtemlaep."lbettrdintecryriypgteynwhacmisf.Weactartecsssntfeafltxr,tecsartecsfladgsi,frpsoftss,seanieettofladgsiehdtecrtecssefdafltxr,asddbytya.Tecyarorsetxcnmyrnofieinshfmasehsld,i,btldt:csofflorsetxrsadaya;adiergfsshasteW2ad1rdgiefrcnmdislgaepsofss2)ad7)ofteIlReCla)""msalueadp)""msapnhgteinfeseorhgaceofmrvete(rofwhmybesttomdofttororl)orwohsrdorbngdaleerwoisapnedtofeacmursn6,IoC"slaoieaypnw)Istebyofareoriettwhistrofshhdadurwhtectortecehstepyrtofoyofteh;o)Isaprofaldp,mrofaldlycyorsrofacnifsheyhstnfeseorhsaceofmrveteadiftnhsatltafept()opinshe,adbytecya;o)Hsrdorbngdalee"isaveinpnuraldsec.Alopslbecdasopfrdginfrpytxrnb;h,teatoytxrnursn6,IoC,adrspdpttosn6,IoC,slbecdontevftecsplo."lo"frtepftss,msayoe()psopwnpyisoymetnoe()pnorwetehdishdbyane,atfhintss,btmetnoe()pnhstertoyofshh.Apnhgerplteinfeorhgaceofmrvetetrwha,btwodsntoytedgashspydgplntbecdanorfrpsoftss,ifshpsacyofanesdbytedginqnadatl]
+[DELETED: e()ofteorcsofteneostedgashydgp.Tecdcypyisofbsslntbecdplopaslgastecypyisceteeeopofteh,igwetessaeogahdodbyane,asstfhintss,adtesshetepyrfoyofteh.Teplrnrdussnslntaytocypyi.Wetopywshdbyapnwohsddwttyfgmfrpytxr,teeeofteddpnslbe""pdtttetepsdgwhteddpdshteslbeadtoteeefrtecnofaepsursn()or()oftss)"ydgp"mstecsdgpnJy1orbeAl15ofteyrfrwhtecmismepydgpeistesepeweacthst,fdadptheadple,adthwrteilisathehsteinofr.ActmtehtedgtowhtecmrobehspydgpebycradcgeeorbgtttedgiswetectrdonJorbeAl15a)Atltsx()msdgtepry;o)Temyoftetetectodtedgidbytectlstnoe()y;o)Temyofteteartectftoedgifodbytectfrlstnoe(.Tecyarmyrewnororpfoefginshfmastecyarmyd)Ngtepsofph()oftss,tepyunwhtectmsanslbdtobetecspydgpeiftectieqdadrsinacefyaddsntaepyunwhtecthsmeantobeodbypspgacntooyted.Pfusslntbeptofacntooyt.Acsseworsinacefyslbdtoreattecspydgpeadtobetoftecsh.Acefyisah,ngfyoriecefyfrpewhisasddinsn3,IoC,orafsddinsn3,IoC,oradgorteoeunwhteatmsanweactwsuetoreintedgunwhteanismsadrshpindyl,pnadsN2.TerscdinIA1,IoDfHhadW,rgtoRlAdLgFn0,Sn0;Sn1;Sn1,Sn0n2;Sn3;Sn5;adSn5.slben,adofnofeadetarJy1,2]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1102
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO RESIDENTIAL CARE OR ASSISTED LIVING ACT; AMENDING
+3 SECTION 39-3301, IDAHO CODE, TO REVISE LEGISLATIVE INTENT AND DECLA-
+4 RATIONS; AMENDING SECTION 39-3302, IDAHO CODE, TO REVISE DEFINITIONS
+5 AND TO DEFINE TERMS; AMENDING SECTION 39-3303, IDAHO CODE, TO REVISE
+6 PROVISIONS REGARDING PAYMENT LEVELS; AMENDING SECTION 39-3305, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING RULES; AMENDING SECTION 39-3307,
+8 IDAHO CODE, TO REVISE PROVISIONS REGARDING ADMISSIONS; AMENDING SEC-
+9 TION 39-3308, IDAHO CODE, TO REVISE PROVISIONS REGARDING ASSESSMENT;
+10 AMENDING SECTION 39-3309, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+11 NEGOTIATED SERVICE AGREEMENTS; AMENDING SECTION 39-3316, IDAHO CODE,
+12 TO REVISE PROVISIONS REGARDING RESIDENT RIGHTS; AMENDING CHAPTER 33,
+13 TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-3316A, IDAHO
+14 CODE, TO ESTABLISH PROVISIONS REGARDING NOTICE OF RESIDENTS RIGHTS;
+15 AMENDING SECTION 39-3318, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+16 A FACILITY'S RESPONSE TO INCIDENTS AND COMPLAINTS; AMENDING SECTION
+17 39-3321, IDAHO CODE, TO REVISE PROVISIONS REGARDING QUALIFICATIONS AND
+18 REQUIREMENTS OF ADMINISTRATORS; AMENDING SECTION 39-3322, IDAHO CODE,
+19 TO REMOVE A PROVISION REGARDING QUALIFICATIONS AND REQUIREMENTS FOR
+20 FACILITY STAFF; AMENDING SECTION 39-3326, IDAHO CODE, TO REVISE PRO-
+21 VISIONS REGARDING MEDICATION; AMENDING SECTION 39-3340, IDAHO CODE,
+22 TO REVISE PROVISIONS REGARDING LICENSING; AMENDING SECTION 39-3351,
+23 IDAHO CODE, TO REVISE PROVISIONS REGARDING EXEMPTIONS; AMENDING SEC-
+24 TION 39-3352, IDAHO CODE, TO REVISE A PROVISION REGARDING UNLICENSED
+25 RESIDENTIAL CARE OR ASSISTED LIVING FACILITIES; REPEALING SECTION
+26 39-3354A, IDAHO CODE, RELATING TO PERMITTING SPECIAL WAIVERS; AMEND-
+27 ING CHAPTER 33, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+28 39-3355A, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING INSPECTIONS;
+29 AMENDING CHAPTER 33, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+30 TION 39-3355B, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING PLANS OF
+31 CORRECTION; AMENDING SECTION 39-3356, IDAHO CODE, TO REVISE PROVISIONS
+32 REGARDING COMPLAINTS; AMENDING SECTION 39-3357, IDAHO CODE, TO PROVIDE
+33 FOR CERTAIN REQUIREMENTS REGARDING THE ENFORCEMENT PROCESS; AMENDING
+34 SECTION 63-701, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; PRO-
+35 VIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA 16.03.22
+36 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING AN EMER-
+37 GENCY AND PROVIDING AN EFFECTIVE DATE.
+38 Be It Enacted by the Legislature of the State of Idaho:
+39 SECTION 1. That Section 39-3301, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 39-3301. LEGISLATIVE INTENT AND DECLARATION. The purpose of a resi-
+42 dential care or assisted living facility in Idaho is to provide a humane,
+
+2
+1 safe, and homelike living arrangement for adults who need some assistance
+2 with activities of daily living and personal care but do not require the
+3 level of care identified under section 39-1301(b), Idaho Code, other than
+4 for short exceptional stays meaning a treatment window designed to allow a
+5 resident to receive treatment for a short term acute episode as determined by
+6 a licensed professional nurse.
+7 The state will encourage the development of facilities tailored to the
+8 needs of individual populations which that operate in integrated settings in
+9 communities where sufficient supportive services exist to provide the res-
+10 ident, if appropriate, an opportunity to work and be involved in recreation
+11 and education opportunities. Employment, recreational and educational op-
+12 portunities for people with disabilities shall be offered in the most inte-
+13 grated setting consistent with their needs.
+14 A residential care or assisted living facility shall be operated and
+15 staffed by individuals who have the knowledge and experience required to
+16 provide safe and appropriate services to all residents of the facility.
+17 The administrator or manager of the facility shall ensure that an objec-
+18 tive, individualized assessment to determine resident needs is conducted,
+19 develop a comprehensive negotiated plan of care to meet those needs, deliver
+20 appropriate services to meet resident needs, and ensure resident rights are
+21 honored.
+22 SECTION 2. That Section 39-3302, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 39-3302. DEFINITIONS. As used in this chapter:
+25 (1) "Abuse" means a nonaccidental act of sexual, physical or mental
+26 mistreatment or injury of a resident through the action or inaction of an-
+27 other individual.
+28 (2) "Accident" means an unexpected, unintended event that can cause a
+29 resident injury.
+30 (2) (3) "Accreditation" means a process of review that allows health
+31 care organizations to meet regulatory requirements and standards estab-
+32 lished by a recognized accreditation organization.
+33 (3) (4) "Accreditation commission" means the commission on accredita-
+34 tion of rehabilitation facilities (CARF), the joint commission, or another
+35 nationally recognized accreditation organization approved by the director.
+36 (4) (5) "Activities of daily living" means the performance of basic
+37 self-care activities in meeting an individual's needs to sustain him in a
+38 daily living environment.
+39 (5) (6) "Administrator" means an individual, properly licensed by the
+40 division of occupational and professional licenses, who is responsible for
+41 day-to-day operation of a residential care or assisted living facility.
+42 (7) "Administrator's designee" means a person authorized in writing to
+43 act in the absence of the administrator for no more than thirty (30) consec-
+44 utive days when the administrator is on vacation, has days off, is ill, or is
+45 away for trainings or meetings. This individual shall be knowledgeable of
+46 facility operations, the residents and their needs, emergency procedures,
+47 the location and operation of emergency equipment, and how the administrator
+48 can be reached in the event of an emergency.
+
+3
+1 (6) (8) "Adult" means a person who has attained the age of eighteen (18)
+2 years.
+3 (7) (9) "Advocate" means an authorized or designated representative of
+4 a program or organization operating under federal or state mandate to rep-
+5 resent the interests of mentally ill, developmentally disabled, or elderly
+6 residents.
+7 (8) (10) "Assessment" means the conclusion reached using uniform crite-
+8 ria, which identifies resident strengths, weaknesses, risks and needs, to
+9 include functional, medical and behavioral needs. The assessment criteria
+10 shall be developed by the department and residential care or assisted living
+11 council.
+12 (9) (11) "Authorized provider" in this chapter means an individual who
+13 is a nurse practitioner or clinical nurse specialist or a physician assis-
+14 tant.
+15 (10) (12) "Board" means the board of health and welfare.
+16 (11) (13) "Chemical restraint" means a medication used to control be-
+17 havior or to restrict freedom of movement and is not a standard treatment for
+18 the resident's condition.
+19 (14) "Complaint" means a formal expression of dissatisfaction, discon-
+20 tent, or unhappiness by, or on behalf of, a resident concerning the care or
+21 conditions at the facility. This expression could be oral or in writing or by
+22 an alternate means of communication.
+23 (12) (15) "Core issues" means abuse, neglect, exploitation, inadequate
+24 care, a situation in which the facility has operated for more than thirty
+25 (30) days without a licensed administrator designated the responsibility
+26 for the day-to-day operations of the facility, inoperable fire detection or
+27 extinguishing systems with no fire watch in place pending the correction of
+28 the system, and surveyors denied access to records, residents, or facili-
+29 ties.
+30 (16) "Deficiency" means a determination of noncompliance with any sec-
+31 tion of this chapter.
+32 (13) (17) "Department" means the Idaho department of health and wel-
+33 fare.
+34 (14) (18) "Director" means the director of the Idaho department of
+35 health and welfare.
+36 (19) "Exit conference" means a meeting with the facility administrator
+37 or his designee to provide review, discussion, and written documentation of
+38 non-core issues and to provide preliminary findings of core issues.
+39 (15) (20) "Exploitation" means the misuse of a resident's funds, prop-
+40 erty, resources, identity or person for profit or advantage.
+41 (16) (21) "Facility" means a residential care or assisted living facil-
+42 ity.
+43 (22) "Follow-up survey" means a survey conducted to confirm the facil-
+44 ity is in compliance and has the ability to remain in compliance.
+45 (17) (23) "Governmental unit" means the state, any county, any city,
+46 other political subdivision, or any department, division, board, or other
+47 agency thereof.
+48 (24) "Immediate jeopardy" means that immediate corrective action is re-
+49 quired because the facility is noncompliant with health and safety require-
+50 ments placing patients at risk of serious harm, injury, or death.
+
+4
+1 (18) (25) "Inadequate care" occurs when a facility fails to provide the
+2 services required to meet the terms of the negotiated service agreement or
+3 provide for room, board, activities of daily living, supervision, first aid,
+4 assistance and monitoring of medications, emergency intervention, coordi-
+5 nation of outside services, a safe living environment; or engages in viola-
+6 tions of residents' rights, or takes residents who have been admitted in vi-
+7 olation of the provisions of section 39-3307, Idaho Code engages in actions
+8 or omissions that cause harm to a resident or create a situation likely to
+9 result in immediate jeopardy to the health, safety, or well-being of a resi-
+10 dent.
+11 (19) (26) "License" means a basic permit to operate a residential care
+12 or assisted living facility.
+13 (20) (27) "Licensee" means the owner of a license to operate a residen-
+14 tial care or assisted living facility under this chapter.
+15 (21) (28) "Licensing agency" means the unit of the department of health
+16 and welfare that conducts inspections and surveys and issues licenses based
+17 on compliance with this chapter.
+18 (29) "Manager" means the individual delegated by the administrator to
+19 manage the day-to-day operations of the facility.
+20 (22) (30) "Neglect" means failure to provide food, clothing, shelter,
+21 or medical care necessary to sustain the life and health of a resident.
+22 (23) (31) "Negotiated service agreement" means the agreement reached by
+23 the resident and/or the resident's representative and the facility, based on
+24 the assessment, physician's orders, admission records, and desires of the
+25 resident, and which outlines services to be provided and the obligations of
+26 the facility and the resident.
+27 (32) "Non-core issue" means any finding of deficient practice that is
+28 not a core issue.
+29 (24) (33) "Personal assistance" means the provision by the staff of the
+30 facility of one (1) or more of the following services:
+31 (a) Assisting the resident with activities of daily living;
+32 (b) Arranging for supportive services;
+33 (c) Being aware of the resident's general whereabouts; and
+34 (d) Monitoring the activities of the resident while on the premises of
+35 the facility to ensure the resident's health, safety and well-being.
+36 (34) "Physical restraint" means any device or physical force that re-
+37 stricts the free movement of a portion of an individual's body, except for
+38 the temporary treatment of a medical condition, such as the use of a cast for
+39 a broken bone.
+40 (25) (35) "Political subdivision" means a city or county.
+41 (26) (36) "Resident" means an adult who lives in a residential care or
+42 assisted living facility.
+43 (27) (37) "Residential care or assisted living facility" means a facil-
+44 ity or residence, however named, operated on either a profit or nonprofit
+45 basis for the purpose of providing necessary supervision, personal assis-
+46 tance, meals and lodging to three (3) or more adults not related to the owner.
+47 (28) (38) "Room and board" means lodging and meals.
+48 (29) (39) "Substantial compliance" means a facility has no core issue
+49 deficiencies.
+
+5
+1 (30) (40) "Supervision" means administrative activity which provides
+2 the following: protection, guidance, knowledge of the resident's general
+3 whereabouts, and assistance with activities of daily living. The admin-
+4 istrator or manager is responsible for providing appropriate supervision
+5 based on each resident's negotiated service agreement or other legal re-
+6 quirements.
+7 (31) (41) "Supportive services" means the specific services that are
+8 provided to the resident in the community.
+9 SECTION 3. That Section 39-3303, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 39-3303. PAYMENT LEVELS. (1) Clients of the department who are receiv-
+12 ing financial aid as set out in sections 56-207, 56-208 and 56-209a, Idaho
+13 Code, seeking placement in a residential care or assisted living facility
+14 will be assessed by the department regarding their need for specific types
+15 of services and supports. This assessment will determine the reimbursement
+16 rate to the service provider.
+17 Eligible participants must be allowed to choose the facility or ser-
+18 vices that are appropriate to meet their medical needs and financial ability
+19 to pay. The department shall is authorized to promulgate rules, subject to
+20 legislative approval, outlining the payment policy and calculations for
+21 clients of the department through negotiated rulemaking.
+22 (2) Residents who are not clients of the department shall:
+23 (a) Be assessed by the facility regarding their need for specific types
+24 of services and supports. This assessment, and the individual negoti-
+25 ated service agreement, shall determine the rate charged to the resi-
+26 dent.
+27 (b) Receive a full description of services provided by the facility and
+28 associated costs upon admission, according to facility policies and
+29 procedures. A thirty (30) day notice must be provided prior to a change
+30 in facility billing practices or policies. When a resident's level of
+31 care changes, a facility is entitled to charge the increased rate no
+32 sooner than the date that notice is provided. Billing practices shall
+33 be transparent and understandable.
+34 (c) Be charged for the use of furnishings, equipment, supplies and ba-
+35 sic services as agreed upon in the negotiated service agreement or as
+36 identified in the admission agreement.
+37 SECTION 4. That Section 39-3305, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 39-3305. RULES. (1) The board shall have the authority is authorized
+40 to adopt, amend, repeal and enforce such rules, subject to legislative ap-
+41 proval, as may be necessary or proper to carry out the purpose and intent of
+42 this chapter which are designed to protect the health, safety and individual
+43 rights of residents in residential care or assisted living facilities. The
+44 department shall exercise the powers and perform the duties conferred upon
+45 it by this chapter, not inconsistent with any statute of this state. These
+46 rules shall are authorized, subject to legislative approval, to be promul-
+47 gated in accordance with the provisions of the Idaho administrative proce-
+
+6
+1 dure act. The department shall is authorized to, through negotiated rule-
+2 making, promulgate rules in the following areas, subject to legislative ap-
+3 proval:
+4 (a) Minimum criteria for the assessment;
+5 (b) Minimum criteria for the negotiated service agreement;
+6 (c) Guidelines for the facility's physical environment and location;
+7 (d) Criteria for the facility's license, to include:
+8 (i) Initial license application criteria and procedures;
+9 (ii) License renewal criteria, procedures and timing;
+10 (iii) Inspection criteria and procedures;
+11 (iv) Denial and revocation of license criteria and procedures;
+12 and
+13 (v) Effect of previous revocation or denial of license.
+14 (e) Remedy and enforcement provisions for noncompliance with statute.
+15 (2) Rules shall are authorized to be drafted and promulgated, subject
+16 to legislative approval, following negotiation with interested providers,
+17 assisted living nurse associations, and advocates.
+18 SECTION 5. That Section 39-3307, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 39-3307. ADMISSIONS. (1) A residential care or assisted living facil-
+21 ity shall not admit or retain any resident requiring a level of services or
+22 type of service for which the facility is not licensed or which the facility
+23 does not provide or arrange for, or if the facility does not have the staff,
+24 appropriate in numbers and with appropriate skills, to provide. Prospective
+25 residents will also be informed of options and rights available through
+26 other programs, to include medicare benefits where applicable. The depart-
+27 ment shall provide forms for this.
+28 (2) The department shall is authorized to develop rules, subject to
+29 legislative approval, governing admissions to residential care or assisted
+30 living facilities.
+31 SECTION 6. That Section 39-3308, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 39-3308. ASSESSMENT. (1) Initial assessments may be completed within
+34 thirty (30) days prior to a resident's move into a residential care or as-
+35 sisted living facility, but must be completed prior to admission.
+36 (2) The department shall employ uniform assessment criteria to assess
+37 function and cognitive disability. The conclusions shall be deemed the as-
+38 sessment and shall be used to provide appropriate placement and funding for
+39 service needs. The assessment shall also be used to ensure funding is cost-
+40 effective and appropriate when compared to other state programs relevant to
+41 the needs of the client being assessed. The department shall is authorized
+42 to develop rules, subject to legislative approval, regarding:
+43 (1) (a) Qualifications of persons making the assessments.;
+44 (2) (b) Department's responsibility for state pay clients.;
+45 (3) Time frames for completing an assessment.
+46 (4) (c) Information to be included in an assessment.;
+
+7
+1 (5) (d) Use of an assessment in developing the negotiated service
+2 agreement.;
+3 (6) (e) Use of assessments in determining facility staffing ratios.;
+4 and
+5 (7) (f) Use of assessments for determining the ability of provider and
+6 facility to meet residents' needs and special training or licenses that
+7 may be required in caring for certain residents.
+8 (3) The administrator shall ensure policies and procedures are devel-
+9 oped and implemented to ensure nursing services are performed in accordance
+10 with applicable state regulations and the provisions of this chapter.
+11 (4)(a) A licensed nurse shall visit the facility at least once every
+12 ninety (90) days to conduct quarterly nursing assessments for each res-
+13 ident. A licensed nurse is responsible for delegating to others as ap-
+14 propriate based on the nurse's license.
+15 (b) The licensed nurse shall be available to address changes in a resi-
+16 dent's health or mental status, to review and implement new orders, and
+17 to notify a physician or authorized provider when a resident repeatedly
+18 refuses to follow physician orders.
+19 SECTION 7. That Section 39-3309, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-3309. NEGOTIATED SERVICE AGREEMENT. (1) Each resident shall be
+22 provided a negotiated service agreement to provide for coordination of ser-
+23 vices and for guidance of the staff and management of the facility where the
+24 person resides. Upon completion, the agreement shall clearly identify the
+25 resident and describe the services to be provided to the resident and how
+26 such services are to be delivered. The negotiated service agreement shall
+27 be reviewed at least annually and upon any change in a diagnosis for the res-
+28 ident or other condition requiring substantially different additional or
+29 replacement services.
+30 (2) A negotiated service agreement shall be based on the person's:
+31 (a) Assessment;
+32 (b) Service needs for activities of daily living;
+33 (c) Need for limited nursing services;
+34 (d) Need for medication assistance;
+35 (e) Frequency of needed services;
+36 (f) Level of assistance, i.e., standby, reminding, total;
+37 (g) Signature and approval of agreement; and
+38 (h) Signing date that the plan was approved and date plan will be re-
+39 viewed.
+40 (3) The administrator or manager shall consult the resident, or the
+41 resident's family, guardian, representative, friends, or case manager
+42 and/or consumer coordinator, as necessary, in the development of the resi-
+43 dent's service agreement.
+44 (4) A copy of the agreement shall be given to the resident and a copy
+45 placed in the resident's records file no later than two (2) weeks from admis-
+46 sion.
+47 (5) A resident shall be given the choice and control of how and what ser-
+48 vices the facility shall provide, or external vendors shall provide, to the
+
+8
+1 extent the resident can make choices, so long as the resident's choice does
+2 not violate the provisions of section 39-3307(1), Idaho Code.
+3 (6) On an exception basis, a record shall be made of any changes or in-
+4 ability to provide services outlined in the negotiated service agreement.
+5 (7) The agreement shall include a statement regarding when there is no a
+6 need for access to external services.
+7 (8) There shall be documentation of refusal of certain treatments by
+8 competent resident or legal health care representative.
+9 SECTION 8. That Section 39-3316, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 39-3316. RESIDENT RIGHTS. A The administrator of a residential care or
+12 assisted living facility must ensure that policies and procedures are devel-
+13 oped and implemented that protect and promote the rights of each resident,
+14 including each of the following rights:
+15 (1) Resident records. Upon request, a resident or others authorized
+16 by law shall be provided immediate access to information on the resident's
+17 record and shall be provided with copies of such information within two (2)
+18 business days. Each facility must maintain and keep current a record of the
+19 following information on each resident:
+20 (a) A copy of the resident's current negotiated service agreement and
+21 physician's order.
+22 (b) Written acknowledgment that the resident has received copies of the
+23 rights.
+24 (c) A record of all personal property and funds that the resident has
+25 entrusted to the facility, including copies of receipts for the prop-
+26 erty.
+27 (d) Information about any specific health problems of the resident that
+28 may be useful in a medical emergency.
+29 (e) The name, address and telephone number of an individual identified
+30 by the resident who should be contacted in the event of an emergency or
+31 death of the resident.
+32 (f) Any other health-related, emergency, or pertinent information the
+33 resident requests the facility to keep on record.
+34 (g) The current admission agreement between the resident and the facil-
+35 ity.
+36 (2) Privacy. Each resident must be assured the right to privacy with
+37 regard to accommodations, medical and other treatment, written and tele-
+38 phone communications, visits, and meetings of family and resident groups.
+39 (3) Humane care and environment, (dignity, and respect).
+40 (a) Each resident shall have the right to humane care and a humane envi-
+41 ronment, including the following:
+42 (i) The right to a diet consistent with any religious or health-
+43 related restrictions.
+44 (ii) The right to refuse a restricted diet.
+45 (iii) The right to a safe and sanitary living environment.
+46 (b) Each resident shall have the right to be treated with dignity and
+47 respect, including:
+48 (i) The right to be treated in a courteous manner by staff.
+
+9
+1 (ii) The right to receive a response from the facility to any re-
+2 quest of the resident within a reasonable time.
+3 (iii) The right to be communicated with, orally and/or in writing,
+4 in a language the resident understands.
+5 (4) Personal possessions. Each resident shall have the right to:
+6 (a) Wear his own clothing.
+7 (b) Determine his own dress or hair style.
+8 (c) Retain and use his own personal property in his own living area so as
+9 to maintain individuality and personal dignity.
+10 (d) Be provided a separate storage area in his own living area and at
+11 least one (1) locked cabinet or drawer for keeping personal property.
+12 (5) Personal funds. Residents whose board and care is paid for by pub-
+13 lic assistance shall retain, for their personal use, the difference between
+14 their total income and the applicable board and care rent, utilities, and
+15 food allowance established by department rules.
+16 (a) A facility shall not require a resident to deposit his personal
+17 funds with the facility.
+18 (b) Once the facility accepts the written authorization of the resi-
+19 dent, it must hold, safeguard, and account for such personal funds under
+20 a system established and maintained by the facility in accordance with
+21 this paragraph.
+22 (6) Management of personal funds. Upon a facility's acceptance of
+23 written authorization of a resident, the facility must manage and account
+24 for the personal funds of the resident deposited with the facility as fol-
+25 lows:
+26 (a) The facility must deposit any amount of a resident's personal funds
+27 in excess of five (5) times the personal needs allowance in an interest-
+28 bearing account (or accounts) that is separate from any of the facil-
+29 ity's operating accounts and credit all interest earned on such sepa-
+30 rate account to such account. The facility must maintain any other per-
+31 sonal funds in a noninterest-bearing account or petty cash fund.
+32 (b) The facility must assure a full and complete separate accounting of
+33 each resident's personal funds, maintain a written record of all finan-
+34 cial transactions involving each resident's personal funds deposited
+35 with the facility, and afford each resident (or a legal representative
+36 of each resident) reasonable access to such record.
+37 (c) Upon the death of a resident with such an account, the facility must
+38 promptly convey the resident's personal funds (and a final accounting
+39 of such funds) to the individual administering the resident's estate.
+40 For clients of the department, the remaining balance of funds shall be
+41 refunded to the department medicaid estate recovery unit.
+42 (7) Access and visitation rights. Each facility must permit:
+43 (a) Immediate in-person access to any resident by any representative of
+44 the department, by the state ombudsman for the elderly or his designees,
+45 or by the resident's individual physician.
+46 (b) Immediate in-person access to a resident, subject to the resident's
+47 right to deny or withdraw consent at any time, by immediate family or
+48 other relatives.
+
+10
+1 (c) Immediate access to a resident, subject to reasonable restrictions
+2 and the resident's right to deny or withdraw consent at any time, by oth-
+3 ers who are visiting with the consent of the resident.
+4 (d) Reasonable access to a resident by any entity or individual that
+5 provides health, social, legal, or other services to the resident, sub-
+6 ject to the resident's right to deny or withdraw consent at any time.
+7 (8) Employment. Each resident shall have the right to refuse to per-
+8 form services for the facility except as contracted for by the resident and
+9 the administrator of the facility. If the resident is hired by the facility
+10 to perform services as an employee of the facility, the wage paid to the resi-
+11 dent shall be consistent with state and federal law.
+12 (9) Confidentiality. Each resident shall have the right to confiden-
+13 tiality of personal and clinical records.
+14 (10) Freedom from abuse, neglect, and restraints. Each resident shall
+15 have the right to be free from physical, mental, or sexual abuse, neglect,
+16 corporal punishment, involuntary seclusion, and any physical or chemical
+17 restraints. The use of supportive devices with restraining qualities is
+18 permissible if the following conditions are met:
+19 (a) For residents with the cognitive ability to consent, the facility
+20 shall document the following:
+21 (i) The resident specifically requests or approves of the device
+22 and a licensed health care professional has informed the individ-
+23 ual of the risks and benefits associated with the device;
+24 (ii) A facility nurse acting within the nurse's scope of license
+25 has conducted a thorough assessment;
+26 (iii) The facility has documented other less restrictive alterna-
+27 tives evaluated prior to the use of the device and obtained written
+28 consent from the patient or representative; and
+29 (iv) The facility has instructed direct care staff on the correct
+30 use and precautions related to the device.
+31 (b) Supportive devices with restraining qualities are permissible for
+32 residents who are unable to evaluate the risks and benefits of the de-
+33 vice when the conditions contained in paragraph (a)(ii) through (iv)
+34 of this subsection are present and documented by the facility. The
+35 facility shall also obtain and document the consent of the resident's
+36 guardian, representative, or power of attorney as applicable.
+37 (c) Documentation of the use of supportive devices with restraining
+38 qualities shall be included in the resident's service plan and evalu-
+39 ated on a quarterly basis.
+40 (11) Freedom of religion. Each resident shall have the right to prac-
+41 tice the religion of his choice or to abstain from religious practice. Res-
+42 idents shall also be free from the imposition of the religious practices of
+43 others.
+44 (12) Control and receipt of health-related services. Each resident
+45 shall have the right to control his receipt of health-related services, in-
+46 cluding:
+47 (a) The right to retain the services of his own personal physician, den-
+48 tist and other health care professionals.
+49 (b) The right to select the pharmacy or pharmacist of his choice so long
+50 as it meets the statute and rules governing residential care or assisted
+
+11
+1 living and the policies and procedures of the residential care or as-
+2 sisted living facility.
+3 (c) The right to confidentiality and privacy concerning his medical or
+4 dental condition and treatment.
+5 (d) The right to refuse medical services based on informed decision-
+6 making. Refusal of treatment does not relieve the facility of its obli-
+7 gations under this chapter.
+8 (i) The facility shall document that the resident and the res-
+9 ident's legal guardian have been informed of the consequences of
+10 the refusal; and
+11 (ii) The facility shall document that the resident's physician or
+12 authorized provider has been notified of the resident's refusal.
+13 (13) Grievances. Each resident shall have the right to voice grievances
+14 with respect to treatment or care that is (or fails to be) furnished with-
+15 out discrimination or reprisal for voicing the grievances and the right to
+16 prompt efforts by the facility to resolve grievances the resident may have,
+17 including those with respect to the behavior of other residents.
+18 (14) Participation in resident and family groups. Each resident shall
+19 have the right to organize and participate in resident groups in the facility
+20 and the right of the resident's family to meet in the facility with the fami-
+21 lies of other residents in the facility.
+22 (15) Participation in other activities. Each resident shall have the
+23 right to participate in social, religious, and community activities that do
+24 not interfere with the rights of other residents in the facility.
+25 (16) Examination of survey results. Each resident shall have the right
+26 to examine, upon reasonable request, the results of the most recent survey of
+27 the facility conducted by the department with respect to the facility and any
+28 plan of correction in effect with respect to the facility.
+29 (17) Access by advocates and representatives. A residential care or as-
+30 sisted living facility shall permit advocates and representatives of commu-
+31 nity legal services programs, whose purposes include rendering assistance
+32 without charge to residents, to have access to the facility at reasonable
+33 times in order to:.
+34 (a) Visit, talk with, and make personal, social and legal services
+35 available to all residents.
+36 (b) Inform residents of their rights and entitlements, and their cor-
+37 responding obligations, under state, federal and local laws by distri-
+38 bution of educational materials and discussion in groups and with indi-
+39 viduals.
+40 (c) Assist residents in asserting their legal rights regarding claims
+41 for public assistance, medical assistance and social security benefits
+42 and in all other matters in which residents are aggrieved, which may
+43 be provided individually or in a group basis and may include organiza-
+44 tional activity, counseling and litigation.
+45 (d) Engage in all other methods of assisting, advising and representing
+46 residents so as to extend to them the full enjoyment of their rights.
+47 (e) Communicate privately and without restrictions with any resident
+48 who consents to the communication.
+49 (f) Observe all common areas of the facility.
+
+12
+1 (18) Access by protection and advocacy system. A residential care or
+2 assisted living facility shall permit advocates and representatives of the
+3 protection and advocacy system, designated by the governor pursuant to 42
+4 U.S.C. 15043 and 10801 et seq., access to residents, facilities and records
+5 in accordance with applicable federal statutes and regulations.
+6 (19) Access by the long-term care ombudsman. A residential care or
+7 assisted living facility shall permit advocates and representatives of
+8 the long-term care ombudsman program, pursuant to 42 U.S.C. 3058, section
+9 67-5009, Idaho Code, and IDAPA 15.01.03, rules of the commission on aging,
+10 access to residents, facilities and records in accordance with applicable
+11 federal and state law, rules and regulations.
+12 (20) A facility may not require precautions, such as health screenings,
+13 for in-person visitors that are more stringent than precautions for facil-
+14 ity staff, and in-person access pursuant to subsection (7)(a) and (b) of this
+15 section shall not be precluded on the basis of a visitor's vaccination sta-
+16 tus.
+17 (21) Each resident shall have the right to be transferred or discharged
+18 only for medical reasons, for the resident's welfare or the welfare of other
+19 residents, or for nonpayment of the resident's stay. In non-emergency con-
+20 ditions, the resident shall be given at least thirty (30) calendar days no-
+21 tice of discharge. A resident has the right to appeal any involuntary dis-
+22 charge.
+23 SECTION 9. That Chapter 33, Title 39, Idaho Code, be, and the same is
+24 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+25 ignated as Section 39-3316A, Idaho Code, and to read as follows:
+26 39-3316A. NOTICE OF RESIDENTS' RIGHTS. Each facility shall:
+27 (1) Inform each resident, orally and in writing, at the time of admis-
+28 sion to the facility of the resident's legal rights during the stay at the fa-
+29 cility;
+30 (2) Make available to each resident, upon reasonable request, a written
+31 statement of such rights, and notify a resident when such rights change;
+32 (3) Ensure the written statement of legal rights includes a description
+33 of the protection of personal funds and a statement that a resident may file a
+34 complaint with the department regarding resident abuse, neglect, and misap-
+35 propriation of resident property in the facility at any time; and
+36 (4) Conspicuously post the residents' rights in the facility at all
+37 times.
+38 SECTION 10. That Section 39-3318, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 39-3318. FACILITY RESPONSE TO INCIDENTS AND COMPLAINTS. (1) In addi-
+41 tion to any other requirements of this chapter, the residential care or as-
+42 sisted living facility shall provide a procedure approved by the licensing
+43 agency for immediate response to incidents and complaints. This procedure
+44 shall include a method of assuring that the administrator or designee has
+45 personally investigated the matter, and that the person making the complaint
+46 or reporting the incident has received a response of action taken or a rea-
+47 son why no action needs to be taken. In the case of anonymous complaints, the
+
+13
+1 administrator or designee shall document the action taken or a reason why no
+2 action needs to be taken have a process in place to address incidents and com-
+3 plaints.
+4 (2) In order to assure the opportunity for complaints from the resi-
+5 dents, the neighborhood, and the community to be made directly to the ad-
+6 ministrator or designee, each facility shall, within a reasonable period of
+7 time, meet with a complainant.
+8 SECTION 11. That Section 39-3321, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 39-3321. QUALIFICATIONS AND REQUIREMENTS OF ADMINISTRATOR. (1) Each
+11 residential care or assisted living facility must employ at least one (1) ad-
+12 ministrator licensed by the division of occupational and professional li-
+13 censes, which is responsible for licensing residential care facility admin-
+14 istrators for the state of Idaho. Multiple Up to three (3) multiple facili-
+15 ties under one (1) administrator may will be allowed by the department based
+16 on an approved plan of operation.
+17 (2) The administrator or the administrator's designee is responsible
+18 for:
+19 (a) Ensuring that policies and procedures are developed and imple-
+20 mented to comply with this chapter;
+21 (b) Ensuring that adult protective services and law enforcement are no-
+22 tified when required pursuant to sections 39-5303 and 39-5310, Idaho
+23 Code;
+24 (c) Ensuring that facility procedures for investigation of complaints,
+25 incidents, accidents, and allegations of abuse, neglect, or exploita-
+26 tion are implemented to ensure resident safety;
+27 (d) Identifying and monitoring patterns of accidents, incidents, or
+28 complaints and developing interventions to prevent recurrences;
+29 (e) Completing an investigation and written report of the findings
+30 within thirty (30) calendar days for each accident, incident, com-
+31 plaint, or allegation of abuse, neglect, or exploitation;
+32 (f) Being reachable and available at all times; and
+33 (g) Ensuring that no personnel providing hands-on care or supervision
+34 services is under seventeen (17) years of age, unless such personnel
+35 have completed a certified nursing assistant certification course.
+36 (3) The administrator or the administrator's designee must be notified
+37 of all serious incidents, accidents, or allegations of abuse, neglect, or
+38 exploitation immediately and notified of complaints regarding health and
+39 safety issues within one (1) business day.
+40 (4) When abuse, neglect, exploitation, incidents, or accidents occur,
+41 corrective action shall be immediately taken and monitored to ensure the
+42 problem does not recur.
+43 (5) When a reportable incident occurs, the administrator or adminis-
+44 trator's designee shall notify the licensing agency within one (1) business
+45 day of the incident.
+46 (6) The facility shall notify the licensing agency, in writing, within
+47 three (3) business days of a change of administrator.
+
+14
+1 SECTION 12. That Section 39-3322, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-3322. QUALIFICATIONS AND REQUIREMENTS FOR FACILITY STAFF. (1) Each
+4 facility must employ or arrange for sufficient trained staff to fully meet
+5 the needs of its residents and the requirements of this chapter. The facil-
+6 ity shall have sufficient staff to provide care during all hours required in
+7 each resident's negotiated service plan. Additional staff may be required
+8 if physical plant and disability of residents indicate that staff assistance
+9 in emergencies is required. Benchmarks shall be established in the assess-
+10 ment criteria where the need for certified nursing assistants or licensed
+11 nurses is indicated. Residential care or assisted living facilities shall
+12 not retain residents who require the care provided by nursing facilities un-
+13 der section 39-1301(b), Idaho Code, other than for short exceptional stays
+14 pursuant to negotiated rulemaking as defined in chapter 52, title 67, Idaho
+15 Code.
+16 (2) Should a residential care or assisted living facility choose not
+17 to carry professional liability insurance, that information shall be dis-
+18 closed, in writing, to employees at the time of hiring.
+19 SECTION 13. That Section 39-3326, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-3326. MEDICATIONS. The medication policy governed by the policy
+22 and procedure of the facility shall include a policy permitting, under the
+23 conditions specified, a licensed nurse to fill individual dose systems such
+24 as blister pack, mediset, or other system approved by the department and
+25 label with the name, dosage, amount, time to be taken, and special instruc-
+26 tions if appropriate. The policy shall provide for appropriate records to
+27 maintain security of medications received from a pharmacist in accordance
+28 with pharmacy standards. The licensed nurse shall appropriately label the
+29 medication with name, dosage, amount and time to be taken, and special in-
+30 structions if appropriate. Facilities may choose to use bulk containers for
+31 over-the-counter medications.
+32 SECTION 14. That Section 39-3340, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 39-3340. LICENSING. (1) Any person, firm, partnership, association,
+35 governmental unit, or corporation within the state proposing to operate, es-
+36 tablish, manage, conduct, or maintain a residential care or assisted living
+37 facility in the state shall have a license issued by the licensing agency of
+38 the department. A license is not transferable. The owner of the license has
+39 ultimate responsibility for the operation of the facility.
+40 (2) Each residential care or assisted living facility in the state re-
+41 quires an administrator, properly licensed by the division of occupational
+42 and professional licenses, who is responsible for the day-to-day operation
+43 of the facility. The licensed administrator may perform the day-to-day
+44 responsibilities at the facility or may delegate all day-to-day responsi-
+45 bilities to a facility manager. A licensed administrator may serve up to
+
+15
+1 three (3) multiple facilities and delegate all day-to-day responsibilities
+2 to on-site managers.
+3 (3) A license is not transferable from one (1) individual to another,
+4 from one (1) business entity to another, or from one (1) location to another.
+5 When a change of operator, ownership or location occurs, the facility shall
+6 be relicensed, and the operator shall follow the application procedures and
+7 obtain a license before commencing operation as a facility. When there is
+8 a significant change in an owner's share of the facility that does not al-
+9 ter the overall ownership or operation of the business, that change shall be
+10 communicated to the licensing agency within sixty (60) days of the effective
+11 date of the change. When the owner contracts the operation to a facility man-
+12 agement company, other than for temporary management, it shall be treated as
+13 a change of operator.
+14 (3) All facilities must be licensed by the department.
+15 (a) Change of building ownership, new construction, or buildings being
+16 converted to a facility shall be licensed, and the operator shall follow
+17 the application procedures and obtain a license before commencing oper-
+18 ation as a facility.
+19 (b) When there is a change of operator or lessee in currently licensed
+20 buildings, the operator or lessee shall follow the licensing process
+21 for currently licensed buildings. Facilities shall submit requested
+22 licensing documents to the department. Any company or individual es-
+23 tablished in the state of Idaho with at least one (1) operating facility
+24 shall not be required to submit an updated copy of policies and pro-
+25 cedures. The licensing process shall not require a fire life safety
+26 inspection prior to license issuance. Within one hundred eighty (180)
+27 days of license issuance fire life safety shall inspect and provide rec-
+28 ommendations, if any, to the new operator or lessee.
+29 (c) Any minor change of ownership of existing buildings shall be commu-
+30 nicated to the department within sixty (60) days of the change.
+31 (d) Exceptions to the provisions of this section may be made by the de-
+32 partment for temporary management.
+33 SECTION 15. That Section 39-3351, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 39-3351. EXEMPTIONS. The provisions of this chapter do not apply to
+36 any of the following:
+37 (1) Any health facility as defined by chapter 13, title 39, Idaho Code.;
+38 (2) Any house, institution, hotel, congregate housing project, retire-
+39 ment home or other similar place that is limited to providing one (1) or more
+40 of the following: housing, meals, transportation, housekeeping, or recre-
+41 ational and social activities; or that has residents accessing supportive
+42 services from an entity approved to provide such services in Idaho and hold-
+43 ing no legal ownership interest in the entity operating the facility.; or
+44 (3) Any arrangement for the receiving and care of persons by a relative.
+45 (4) Any similar facility determined by the director.
+46 SECTION 16. That Section 39-3352, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+16
+1 39-3352. UNLICENSED RESIDENTIAL CARE OR ASSISTED LIVING FACILI-
+2 TIES. (1) No unlicensed residential care or assisted living facility shall
+3 operate in this state.
+4 (2) A facility shall be deemed to be an "unlicensed residential care or
+5 assisted living facility" and "maintained and operated to provide services"
+6 if it is unlicensed and not exempt from licensure, and any one (1) of the fol-
+7 lowing conditions is satisfied:
+8 (a) The facility is, or is held out as or represented as, providing
+9 care, supervision and services.
+10 (b) The facility accepts or retains residents who demonstrate the need
+11 for care, supervision, and services, as defined in this chapter or the
+12 rules adopted pursuant to this chapter.
+13 (3) Upon discovery of an unlicensed residential care or assisted living
+14 facility, the department shall refer residents to the appropriate placement
+15 or adult protective services agency if either of the following conditions
+16 exist:
+17 (a) There is an immediate threat to the resident's health and safety.
+18 (b) The facility will not cooperate with the licensing agency to apply
+19 for a license, meet licensing standards, and obtain a valid license.
+20 (4) A person found to be operating a residential care or assisted living
+21 facility without a license shall may be guilty of a misdemeanor punishable by
+22 imprisonment in a county jail not to exceed six (6) months, or by a fine not to
+23 exceed five thousand dollars ($5,000).
+24 (5) In the event the county attorney in the county where the alleged vi-
+25 olation occurred fails or refuses to act within thirty (30) days of notifica-
+26 tion of the violation, the attorney general is authorized to prosecute vio-
+27 lations under the provisions of this section.
+28 SECTION 17. That Section 39-3354A, Idaho Code, be, and the same is
+29 hereby repealed.
+30 SECTION 18. That Chapter 33, Title 39, Idaho Code, be, and the same is
+31 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+32 ignated as Section 39-3355A, Idaho Code, and to read as follows:
+33 39-3355A. INSPECTIONS. (1) The licensing agency shall cause to be made
+34 such inspections and investigations to determine compliance with this chap-
+35 ter and applicable rules.
+36 (2) Initial inspections, licensure or re-licensure inspections, fol-
+37 low-up inspections, and fire life safety inspections shall be scheduled in
+38 advance, with facilities receiving notice at least thirty (30) days prior to
+39 the inspection date.
+40 (3) Initial surveys shall be conducted within ninety (90) days of li-
+41 censure, followed by a licensure survey within fifteen (15) months.
+42 (4) Complaint investigation surveys shall occur based on the potential
+43 severity of the complaint and shall be made unannounced and without prior no-
+44 tice.
+45 (5) The department may accept the services of any qualified person or
+46 organization, either public or private, to examine, survey, or inspect any
+47 entity requesting or holding a facility license, including as described in
+48 subsection (13) of this section.
+
+17
+1 (6) An inspector shall have full access and authority to examine, among
+2 other things, quality of care and service delivery, a facility's records,
+3 resident accounts, and physical premises, including buildings, grounds and
+4 equipment, and any other areas necessary to determine compliance with this
+5 chapter and applicable rules.
+6 (7) An inspector shall have authority to interview the licensee, admin-
+7 istrator, staff, and residents. Interviews with residents shall be confi-
+8 dential and conducted privately unless otherwise specified by the resident.
+9 (8) The licensing agency shall notify the facility, in writing, of all
+10 deficiencies, provide a proposed plan of correction for all deficiencies,
+11 and approve a reasonable length of time for compliance by the facility. At
+12 the time of the exit conference, the licensing agency shall provide the fa-
+13 cility a written report specifying the non-core issue deficiencies. Facil-
+14 ities are not required to submit plans of correction for non-core deficien-
+15 cies.
+16 (9) When core issues are identified during a survey, the licensing
+17 agency shall provide a written report within ten (10) business days of the
+18 exit conference or the last day of receipt of additional material. Fa-
+19 cilities may either adopt the proposed plan of correction or submit an
+20 alternative plan of correction for approval by the department for core issue
+21 deficiencies.
+22 (10) If any deficiencies constitute an immediate jeopardy, the depart-
+23 ment shall require immediate correction of deficient practice.
+24 (11) Current lists of deficiencies, including plans of correction,
+25 shall be available to the public upon request in the individual facilities or
+26 by written request to the department.
+27 (12) The licensing agency shall conduct follow-up surveys to ascertain
+28 corrections to issues are made according to the time frames established in
+29 the plan of correction for core issues. If the department identifies re-
+30 peat deficient facility practices during any follow-up survey, the depart-
+31 ment may initiate or extend enforcement actions.
+32 (13) The department shall accept an accreditation survey from an ac-
+33 creditation commission for a residential care or assisted living facility
+34 instead of regular compliance inspections conducted under the authority of
+35 this section if all of the following conditions are met:
+36 (a) The accreditation commission's standards meet or exceed the state
+37 requirements for licensure for residential care or assisted living fa-
+38 cilities;
+39 (b) The facility submits to the department a copy of its required ac-
+40 creditation reports to the accreditation commission in addition to the
+41 application and any other information required for renewal of a li-
+42 cense;
+43 (c) The inspection results are available for public inspection to the
+44 same extent that the results of an investigation or inspection con-
+45 ducted under this section are available for public inspection;
+46 (d) The accreditation commission complies with the health insurance
+47 portability and accountability act and takes reasonable precautions
+48 to protect the confidentiality of personally identifiable information
+49 concerning the residents of the facility; and
+
+18
+1 (e) If the facility's accreditation report is not valid for the entire
+2 licensure period, the department may conduct a compliance inspection of
+3 the facility during the time period for which the department does not
+4 have a valid accreditation report.
+5 (14) The department shall establish a self-inspection program for fa-
+6 cilities that receive a gold or silver rating, defined as high ratings with
+7 no significant deficiencies on the most recent inspection. Qualifying
+8 facilities shall conduct self-inspections for complaints received by the
+9 department that do not involve health or safety concerns. Facilities shall
+10 submit findings and corrective actions to the department. The department
+11 retains the authority to conduct verification inspections for complaints
+12 involving health or safety concerns or incomplete reports.
+13 (15) The department shall not conduct an on-site compliance inspec-
+14 tion of the residential care or assisted living facility during the time
+15 the accreditation report is valid except for complaint surveys or in cases
+16 of emergencies. Accreditation does not limit the department in performing
+17 any power or duty under this chapter or inspection authorized under this
+18 section, including taking appropriate action relating to a residential
+19 care or assisted living facility, such as suspending or revoking a license,
+20 investigating an allegation of abuse, exploitation, or neglect or another
+21 complaint, or assessing an administrative penalty.
+22 SECTION 19. That Chapter 33, Title 39, Idaho Code, be, and the same is
+23 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+24 ignated as Section 39-3355B, Idaho Code, and to read as follows:
+25 39-3355B. PLAN OF CORRECTION FOR CORE ISSUES. (1) The facility shall
+26 either accept the proposed plan of correction for core issues or develop
+27 and submit an acceptable plan of correction to the licensing agency within
+28 ten (10) business days of receipt of the written report of identified core
+29 issues. If an acceptable plan of correction is not submitted within the
+30 required time frame, the department may initiate or extend enforcement ac-
+31 tions.
+32 (2) An acceptable plan of correction shall include:
+33 (a) A plan to ensure correction of each deficient practice and ongoing
+34 compliance;
+35 (b) A description of how, and at what frequency, corrective actions
+36 will be monitored to ensure that each deficient practice is corrected
+37 and will not recur, such as what program will be put into place to moni-
+38 tor the continued effectiveness of the systemic change; and
+39 (c) The completion date for correcting each deficiency. No correction
+40 date may be more than forty-five (45) days from the exit date printed
+41 on the written report except in unusual circumstances and only with the
+42 written approval of the licensing agency.
+43 SECTION 20. That Section 39-3356, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 39-3356. COMPLAINTS. (1) A person who believes that any provision
+46 of this chapter has been violated may file a complaint with the licensing
+47 agency.
+
+19
+1 (2) The licensing agency shall investigate, or cause to be investi-
+2 gated, any complaint alleging a violation of this chapter or applicable
+3 rules, regulations and standards. If the licensing agency reasonably be-
+4 lieves a requirement of this chapter has been violated, it shall conduct an
+5 inspection of the facility unannounced, unscheduled, and without written
+6 notice.
+7 (3) A complaint filed with the licensing agency which is subsequently
+8 released to the facility that is the subject of the complaint or to any member
+9 of the public shall not disclose the name or identifying characteristics of
+10 the complainant unless:
+11 (a) The complainant consents in writing to the disclosure.
+12 (b) The investigation results in a judicial proceeding and disclosure
+13 is ordered by the court.
+14 (c) If the disclosure is essential to the investigation, the com-
+15 plainant shall be given an opportunity to withdraw the complaint before
+16 disclosure.
+17 (4) The licensing agency shall inform the complainant or, if requested
+18 by the complainant, the complainant's designated representative, of the re-
+19 sults of the investigation and any action taken by the agency.
+20 (5) Complaints shall not be listed on the department's public website.
+21 Substantiated complaints that result in a citation may be included in the in-
+22 spection results on the department's public website.
+23 SECTION 21. That Section 39-3357, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 39-3357. ENFORCEMENT PROCESS. (1) If the licensing agency finds, on
+26 the basis of inspections as defined in this chapter or otherwise, that a res-
+27 idential or assisted living facility no longer meets a requirement of this
+28 chapter, and further finds that the facility's deficiencies:
+29 (a) Immediately jeopardize the health or safety of its residents,
+30 the department shall take immediate action to remove the jeopardy
+31 and correct the deficiencies through the remedy specified in section
+32 39-3358(1)(c), Idaho Code, or prohibit the facility from keeping or
+33 admitting residents and may provide, in addition, for one (1) or more of
+34 the other remedies described in section 39-3358, Idaho Code.
+35 (b) Do not immediately jeopardize the health or safety of its resi-
+36 dents, the department shall provide for one (1) or more of the remedies
+37 described in section 39-3358, Idaho Code.
+38 (2) Nothing in this section shall be construed as restricting the reme-
+39 dies available to the department to remedy a facility's deficiencies. If
+40 the department finds that a facility meets the requirements of this chap-
+41 ter, but, as of a previous period, intentionally did not meet such require-
+42 ments, the department may provide for a civil money penalty under section
+43 39-3358(1)(b), Idaho Code, for the days in which it finds that the facility
+44 was not in compliance with such requirements.
+45 (3) Residential care or assisted living facilities may be cited only
+46 for a violation of a requirement that is specified in an applicable law or
+47 in a rule promulgated in compliance with an applicable law. Facilities may
+48 not be cited for an act that is not expressly proscribed by an applicable law
+49 or rule or for an omission when an applicable law or rule does not expressly
+
+20
+1 require the conduct omitted. If the department requires a specific correc-
+2 tive action in relation to a citation, that requirement must be in writing
+3 and reference the corresponding rule.
+4 (4) If a civil money penalty is assessed against a facility for defi-
+5 ciencies that do not require relocation of residents or facility closure,
+6 the facility may use funds equal to the penalty amount to correct the defi-
+7 ciencies instead of paying the penalty. Documentation of expenditures ad-
+8 dressing the deficiencies must be submitted to the department.
+9 (5) Funds collected from such penalties, including those held by the
+10 department on July 1, 2025, or collected after such date, may be used by fa-
+11 cilities through a department-administered grant program to improve resi-
+12 dent care and quality of life. The department shall establish guidelines and
+13 a process for grant applications and fund distribution.
+14 SECTION 22. That Section 63-701, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 63-701. DEFINITIONS. As used in this chapter:
+17 (1) "Claimant" means a person who has filed an application under sec-
+18 tion 63-602G, Idaho Code, and has filed a claim under the provisions of
+19 sections 63-701 through 63-710, Idaho Code. Except as provided in section
+20 63-702(2), Idaho Code, on January 1 or before April 15 of the year in which
+21 the claimant first filed a claim on the homestead in question, a claimant
+22 must be an owner of the homestead, a claimant must have lawful presence in the
+23 United States pursuant to section 67-7903, Idaho Code, and on January 1 of
+24 said year a claimant must be:
+25 (a) Not less than sixty-five (65) years old; or
+26 (b) A child under the age of eighteen (18) years who is fatherless or
+27 motherless or who has been abandoned by any surviving parent or parents;
+28 or
+29 (c) A widow or widower; or
+30 (d) A disabled person who is recognized as disabled by the social se-
+31 curity administration pursuant to title 42 of the United States Code,
+32 or by the railroad retirement board pursuant to title 45 of the United
+33 States Code, or by the office of management and budget pursuant to title
+34 5 of the United States Code, or, if a person is not within the purview of,
+35 and is therefore not recognized as disabled by, any other entity listed
+36 in this paragraph, then by the public employee retirement system or pub-
+37 lic employee disability plan in which the person participates that may
+38 be of any state, local unit of government or other jurisdiction in the
+39 United States of America; or
+40 (e) A disabled veteran of any war engaged in by the United States, whose
+41 disability is recognized as a service-connected disability of a degree
+42 of ten percent (10%) or more, or who has a pension for nonservice-con-
+43 nected disabilities, in accordance with laws and regulations adminis-
+44 tered by the United States department of veterans affairs; or
+45 (f) A person, as specified in 42 U.S.C. 1701, who was or is entitled
+46 to receive benefits because he is known to have been taken by a hostile
+47 force as a prisoner, hostage or otherwise; or
+48 (g) Blind.
+
+21
+1 (2) "Homestead" means the dwelling, owner-occupied by the claimant
+2 as described in this chapter and used as the primary dwelling place of the
+3 claimant and may be occupied by any members of the household as their home,
+4 and so much of the land surrounding it, not exceeding one (1) acre, as is
+5 reasonably necessary for the use of the dwelling as a home. It may consist
+6 of a part of a multidwelling or multipurpose building and part of the land
+7 upon which it is built. "Homestead" does not include personal property such
+8 as furniture, furnishings or appliances, but a manufactured home may be a
+9 homestead.
+10 (3) "Household" means the claimant and the claimant's spouse. The term
+11 does not include bona fide lessees, tenants, or roomers and boarders on con-
+12 tract. "Household" includes persons described in subsection (8)(b) of this
+13 section.
+14 (4) "Household income" means all income received by the claimant and,
+15 if married, all income received by the claimant's spouse, in a calendar year.
+16 (5) "Income" means the sum of federal adjusted gross income as defined
+17 in the Internal Revenue Code, as defined in section 63-3004, Idaho Code, and
+18 to the extent not already included in federal adjusted gross income:
+19 (a) Alimony;
+20 (b) Support money;
+21 (c) Nontaxable strike benefits;
+22 (d) The nontaxable amount of any individual retirement account, pen-
+23 sion or annuity, including railroad retirement benefits, all payments
+24 received under the federal social security act except the social secu-
+25 rity death benefit as specified in this subsection, state unemployment
+26 insurance laws, and veterans disability pensions and compensation, ex-
+27 cluding any return of principal paid by the recipient of an annuity and
+28 excluding rollovers as provided in 26 U.S.C. 402 or 403, and excluding
+29 the nontaxable portion of a Roth individual retirement account distri-
+30 bution, as provided in 26 U.S.C. 408A;
+31 (e) Nontaxable interest received from the federal government or any of
+32 its instrumentalities or a state government or any of its instrumental-
+33 ities;
+34 (f) Worker's compensation; and
+35 (g) The gross amount of loss of earnings insurance.
+36 It does not include gifts from nongovernmental sources or inheritances. To
+37 the extent not reimbursed, the cost of medical care as defined in section
+38 213(d) of the Internal Revenue Code, incurred and paid by the claimant and,
+39 if married, the claimant's spouse, may be deducted from income. To the ex-
+40 tent not reimbursed, personal funeral expenses, including prepaid funeral
+41 expenses and premiums on funeral insurance, of the claimant and claimant's
+42 spouse only, may be deducted from income up to an annual maximum of five
+43 thousand dollars ($5,000) per claim. "Income" does not include veterans
+44 disability pensions received by a person described in subsection (1)(e)
+45 of this section who is a claimant or a claimant's spouse if the disability
+46 pension is received pursuant to a service-connected disability of a de-
+47 gree of forty percent (40%) or more. "Income" does not include dependency
+48 and indemnity compensation or death benefits paid to a person described in
+49 subsection (1) of this section by the United States department of veterans
+50 affairs and arising from a service-connected death or disability. "Income"
+
+22
+1 does not include lump sum death benefits made by the social security admin-
+2 istration pursuant to 42 U.S.C. 402(i). Documentation of medical expenses
+3 may be required by the county assessor and state tax commission in such form
+4 as the county assessor or state tax commission shall determine. For pur-
+5 poses of this chapter only and in the case of a claimant who owns and whose
+6 homestead is a certified family home as defined in section 39-3502, Idaho
+7 Code, "income" does not include payments that the claimant received as an
+8 enrolled medicaid provider from the medical assistance program. "Income"
+9 shall be that received in the calendar year immediately preceding the year
+10 in which a claim is filed. Where a claimant and/or the claimant's spouse
+11 does not file a federal tax return, the claimant's and/or the claimant's
+12 spouse's federal adjusted gross income, for purposes of this section, shall
+13 be an income equivalent to federal adjusted gross income had the claimant
+14 and/or the claimant's spouse filed a federal tax return, as determined by the
+15 county assessor. The county assessor or state tax commission may require
+16 documentation of income in such form as each shall determine, including, but
+17 not limited to: copies of federal or state tax returns and any attachments
+18 thereto; and income reporting forms such as the W-2 and 1099.
+19 For determining income for certain married individuals living apart,
+20 the provisions of sections 2(c) and 7703(b) of the Internal Revenue Code
+21 shall apply.
+22 (6) "Occupied" means actual use and possession.
+23 (7) "Owner" means a person holding title in fee simple or holding a cer-
+24 tificate of motor vehicle title (either of which may be subject to mortgage,
+25 deed of trust or other lien) or who has retained or been granted a life estate
+26 or who is a person entitled to file a claim under section 63-702, Idaho Code.
+27 "Owner" shall also include any person who:
+28 (a) Is the beneficiary of a revocable or irrevocable trust which is the
+29 owner of such homestead and under which the claimant or the claimant's
+30 spouse has the primary right of occupancy of the homestead; or
+31 (b) Is a partner of a limited partnership, member of a limited liabil-
+32 ity company or shareholder of a corporation if such entity holds title
+33 in fee simple or holds a certificate of motor vehicle title and if the
+34 person holds at least a five percent (5%) ownership in such entity, as
+35 determined by the county assessor; or
+36 (c) Has retained or been granted a life estate.
+37 "Owner" includes a vendee in possession under a land sale contract. Any
+38 partial ownership shall be considered as ownership for determining initial
+39 qualification for property tax reduction benefits; however, the amount of
+40 property tax reduction under section 63-704, Idaho Code, and rules promul-
+41 gated pursuant to section 63-705, Idaho Code, shall be computed on the value
+42 of the claimant's partial ownership. "Partial ownership," for the purposes
+43 of this section, means any one (1) person's ownership when property is owned
+44 by more than one (1) person or where the homestead is held by an entity, as
+45 set forth in this subsection, but more than one (1) person has the right of
+46 occupancy of such homestead. A person holding either partial title in fee
+47 simple or holding a certificate of motor vehicle title together with another
+48 person, but who does not occupy the dwelling as his primary dwelling place,
+49 shall not be considered an owner for purposes of this section, if such person
+50 is a cosignatory of a note secured by the dwelling in question and at least
+
+23
+1 one (1) of the other cosignatories of the note occupies the dwelling as his
+2 primary dwelling place. The combined community property interests of both
+3 spouses shall not be considered partial ownership as long as the combined
+4 community property interests constitute the entire ownership of the home-
+5 stead, including where the spouses are occupying a homestead owned by an en-
+6 tity, as set forth in this subsection, and the spouses have the primary right
+7 of occupancy of the homestead. The proportional reduction required under
+8 this subsection shall not apply to community property interests. Where
+9 title to property was held by a person who has died without timely filing a
+10 claim for property tax reduction, the estate of the deceased person shall be
+11 the "owner," provided that the time periods during which the deceased person
+12 held such title shall be attributed to the estate for the computation of any
+13 time periods under subsection (8)(a) or (b) of this section.
+14 (8)(a) "Primary dwelling place" means the claimant's dwelling place
+15 on January 1 or before April 15 of the year for which the claim is made.
+16 The primary dwelling place is the single place where a claimant has
+17 his true, fixed and permanent home and principal establishment, and to
+18 which whenever the individual is absent he has the intention of return-
+19 ing. A claimant must establish the dwelling to which the claim relates
+20 to be his primary dwelling place by clear and convincing evidence or by
+21 establishing that the dwelling is where the claimant resided on January
+22 1 or before April 15 and:
+23 (i) At least six (6) months during the prior year; or
+24 (ii) The majority of the time the claimant owned the dwelling if
+25 owned by the claimant less than one (1) year; or
+26 (iii) The majority of the time after the claimant first occupied
+27 the dwelling if occupied by the claimant for less than one (1)
+28 year. The county assessor may require written or other proof of
+29 the foregoing in such form as the county assessor may determine.
+30 (b) Notwithstanding the provisions of paragraph (a) of this subsec-
+31 tion, the property upon which the claimant makes application shall be
+32 deemed to be the claimant's primary dwelling place if the claimant is
+33 otherwise qualified and resides in a care facility and does not allow
+34 the property upon which the claimant has made application to be occu-
+35 pied by persons paying a consideration to occupy the dwelling. Payment
+36 of utilities shall not be payment of a consideration to occupy the
+37 dwelling. A claimant's spouse who resides in a care facility shall be
+38 deemed to reside at the claimant's primary dwelling place and to be a
+39 part of the claimant's household. A care facility is a hospital, nurs-
+40 ing facility or intermediate care facility for people with intellectual
+41 disabilities as defined in section 39-1301, Idaho Code, or a facility
+42 as defined in section 39-3302(16), Idaho Code, or a dwelling other than
+43 the one upon which the applicant makes application where a claimant who
+44 is unable to reside in the dwelling upon which the application is made
+45 lives and receives help in daily living, protection and security.
+46 SECTION 23. The rules contained in IDAPA 16.03.22, Idaho Department
+47 of Health and Welfare, relating to Residential Assisted Living Facilities,
+48 Section 001., Subsection 05.; Section 130.; Section 152., Subsection 03.b.;
+49 Section 215.; Section 300.; Section 550.; and Section 560. shall be null,
+50 void, and of no force and effect after July 1, 2025.
+
+24
+1 SECTION 24. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOTEIORLCEORADLGA;AN3,IOC,TORELEITADD;AGSN3,IOC,TOREDDTODET;AGSN3,IOC,TORSRGPTL;AGSN3,I,TOREPSRGR;AGSN3OC,TOREPSRGA;AGSN3,IOC,TOREPSRGAGSN3,IOC,TOREPSRDSEA;AGSN3,IOCOREPSRGRTR;AGCR3E3,IOC,BYTEANOFANWSN3,I,TOEHPSRGNEOFRSRGSN3,IOC,TOREPSRFSRETOISADC;AGS,IOC,TOREPSRGQSASOFA;AGSN3,IOCOREAPNRGQSADRSFYS;AGSN3,IOC,TOREPSRGM;AGSN3,IOCOREPSRGL;AGSN3OC,TOREPSRGE;AGSN3,IOC,TOREAPNRGULCEORADLGF;RGS,IOC,RGTOPGSLW;AGCR3,TE3,IOC,BYTEANOFANWS,IOC,TOEHPSRGIGCR3,TE3,IOC,BYTEANOFANWSN3,IOC,TOEHPSRGPSO;AGSN3,IOC,TOREPGC;AGSN3,IOC,TOPRCNRSRGTEETP;AN6,IOC,TOPEACTCER;PGTTCNAERSCDINIA1LBEN,V,ADOFNOFEADE;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.LEITADD.TepeofarlceoradlgfyinIoistopeah]
+[DELETED: ,adhelgatfraswondseahasofdylgadplcebtdontretlofceidursn3,IoC,ortrstelssmgattwwddtoawttorettfrasttmaeeeasddbldplnesewleetedtoffstdtotsofilpswhttoeinidssiswestsessettopeter,ifa,anoytowkadbeidinrdeno.E,rladelosfrpewhdsslbeodintemtidsgctwhtrnrlceoradlgfyslbeodadbyiswohetekeadeerdteseadaesstoalrsoftefearormroftefysleettano,idattodertnsiscpacendpnofcetomtten,desstomtrtn,adeertrsaN2.TtSn3,IoC,b,adteseishdtordasf.D.Asudintsc)""msanlatofs,plormtoriyofartthteanorinofari)""msanu,udetttcnceti)()""msapsofrwttasheostomtryrsadssedbyardano)()"nc"mstecnonanofrnfs(,tejtc,orayrdanonadbyted)()"sofdyl"mstepeofbeasinmganisnstosnhminylge)()""msani,pyldbytnofoladpll,woisrefyonofarlceoradlgf)"sd"msapnadinwgttinteaeoftearfrnometnty()cedswntearisonv,hsdso,isi,oriyfrtsorm.Tsilslbekeoyo,tersadtrn,eypelnadonofeye,adhwteanberdinteetofane]
+[DELETED: )()""msapnwohsadteaeofen()()""msanadorddreopmoronogurflorsemetortteisofmyi,dyd,ore)()""mstecnrdugumc,whisrts,w,rsadn,tef,mladbln.Teatclbeddbytedtadrlceoradl)()"dp"intscrmsanilwsaneprorclnestorapna)()""mstebdofhhadw)()"lr"msamnudtoclbrortortfmofmtadisntasdttfersc)""msaflenofd,d,orusb,oronbfo,artcgteceosattef.Tsencdbeolorinwgorbnaemsofc)()"ei"msa,n,e,i,asninwhtefyhsodfrmetnt)dswtaldarddterrtedyosoftef,iefednogsswhnofewhinpepgtecnoes,adssddastor,r,orf)""msadnofnewhaysnoftsc)()""msteIodtofhhadw)()""mstedrofteIodtohadw)"tc"msamgwhtefyarhsdetoper,d,adwndnoeisadtopepyfsofcei)()""mstemeofarsf,p,r,iyorpnfrptora)()""msarlceoradlgf)"ps"msasycdtocmtefyisinceadhsteaytorninc)()"lu"mstes,ayc,aycrpls,orayd,d,b,oroyt)"ej"msttieceanisrdbetefyisntwhhhadsyrspgpsatrkofssh,i,ord]
+[DELETED: )()"ec"oswnafyfstopetsrdtomttetsoftendseatoefrr,b,asofdyl,s,ftaeadmgofm,eyi,cnofoes,aselge;oresinvsofr'r,ortsrswohebnadinvnoftepsofsn3,IoCeesinarosttcehmtoartorceasnlyttiniejytoteh,s,orwgofar)()""msabcpttooearlcradlgf)()""msteorofaletooearlceoradlgfyurtsc)()"ga"msteutoftedtofhdwettcsisadssadislsbncewhtsc)""msteilddbyteartetedyosoftef)()""msfetopef,c,srmlcenytosnteleadhhofar)()"dsea"msteatrdbertartersreadtef,bdoea,pso,anr,addsoft,adwhossstobepdadteosoefyadter)"ei"msayfgofdtpettitacei)()"la"mstepnbytesfoftyofoe()ormeoftefgs)Agtertwhasofdyl)Agfrses)Bgaeoftersglw;a)Mgteasoftertweontepsoefytoeetersh,syadw)"lr"msaydeorplfettrstefemtofapnofanisb,etfetyttofamlc,shasteueofactfbnb)()"ls"msacyorc)()""msanatwolsinarlceodlgf)()"lceoradlgf"msafyorr,hrn,odoneraptornsfrtepeofpgnys,pla,msadlgtote()ormeasntrdtoteo)()"madb"mslgadm)"lc"msafyhsnocei]
+[DELETED: )()""msaeaywhpef:p,g,keoftersg,adaewhasofdyl.Tearormrisrefrpgaesdonehrsndseatororllr)()"es"mstescssttadtotertintecN3.TtSn3,IoC,b,adteseishdtordasf.PTL.()Csoftedtwoaergfladasstotinss5,58ad5,I,sgptinarlceoradlgflbeadbytedtrgtrndfrsctfssads.Tsatwldeteretotesepepsmtbeadtocetefyorssttaeaetomttrmlnsadflaop.Tedtslisadtoper,sttea,ogteptpyadcsfsoftedtthndr)Rswoaentcsoftedts)Beadbytefyrgtrndfrsctfssads.Tsa,adteilndsea,sldeterecdtoter)Reafldnofsspdbytefyadcsuna,agtofypsa.Aty()dynemtbepdprtoacnfybgpsorp.Wnarslloec,afyisedtoceteidrenrtntedettneisp.Bgpssettadu)Becdfrteueoff,e,ssadbcssasadunintendseatoradinteanaN4.TtSn3,IoC,b,adteseishdtordasf.R.()Tebdslheteayisaoa,a,rladeeshr,sttolea,asmybenyorprtocyottepeaditoscrwhaeddtoptteh,syadisofrsinrlceoradlgf.Ttsleetepsadpmtedscdutbytsc,ntitwhayseoftss.Tsslaea,sttolea,tobepdinaewhtepsofteIoaep]
+[DELETED: ea.Tedtslisadt,thndr,persintefga,sttolea)Mmcafrtea)Mmcafrtendsea)Gsfrtefspletadl)Cafrtefsl,toi)Illeancaadp)Lerlc,psadt)Incaadp)Dladrnoflecaadp)Etofpsrnordlofl)Ryadetpsfrnewhs)Rsslaeadtobeddadp,solea,fgnnwhidpdlgnea,adaN5.TtSn3,IoC,b,adteseishdtordasf.A.()Arlceoradlgfyslntatorrnayrtrgallofssoeofsefrwhtefyisntldorwhtefsntpeoraef,oriftefydsntheteseinnsadwhaes,top.Pswlaobeidofosadrsaetrp,toiemebswea.Tedtslpefsfrt)Tedtslisadtodpr,sttea,ggastorlceoragfN6.TtSn3,IoC,b,adteseishdtordasf.A.()Ilasmybecdwy()dsprtoarsmeioarlceoradlgf,btmtbecdprtoa)Tedtsleyumatcatoanadced.Tecsslbeddteatadslbeudtopeaeptadfgfen.Teatslaobeudtoeefgisceadaewncdtoorsepsrttensoftectbga.Tedtslisaodpr,sttolea,r)()Qsofpsmgtea)()Dsryfrsepyc)Tefsfrcgana)()Intobeidinana]
+[DELETED: )()Ueofanatindgtends)()Ueofasindgfysgr)()Ueofasfrdgteayofpraytomtr'nsadsltgorlstyberdincgfrcnr)Tearsleepsadpsaeddadidtoeengssaepdinahaesersadtepsoftsc)Aldneslvttefyatltoeey()dstoctqyngasfrehr.Aldneisrefrdgtoosasaebdontensl)Teldneslbeaetoascsinarshhormls,torwaditnwo,aonyapnoradprwnartrstofwpnoN7.TtSn3,IoC,b,adteseishdtordasf.NDSEA.()Ehrtslbdandseattopefrcnofssadfrgeoftesfadmtoftefywetnr.Unc,teatslcyiyttaddetesstobepdtotertadhhssaetobed.Tendseatserdatltayadunayceinadsfrtertororcnrgsydtalots)Andseatslbebdontep)A)Sensfrasofdyl)Ndfrldngs)Ndfrmna)Fyofnds)Llofa,i,s,r,t)Seadalofa;a)Sgdetttepnwsadaddepnwlber)Tearormrslctter,ortsf,g,r,f,orcemrcrc,asn,intedtofterssea)Acyofteatslbegntotertadacdintersrsfenolrtnto()wsfma)Artslbegnteceadclofhwadwtsstefyslp,orelvsslp,tot]
+[DELETED: ttertcnmec,solgasterscedtvetepsofsn3,IoC)Onanenb,ardslbemeofaycsoriytopessodintendsea)Teatslieastrgwnteisnodfrastoels)TeslbednofrlofcntsbtrtorllhhcerN8.TtSn3,IoC,b,adteseishdtordasf.RTR.earofarlceodlgfymteettpsadpsaeddadidttptadpetersofehrgehoftefgr)Rtr.Unr,artorosaylwslbepdieastoinonterdadslbepdwhcsofshinwnto(sd.Ehfymtmnadkpctardoftginonehr)Acyoftersctndseataso)Wnatttterthsrdcsoft)Ardofalplpyadfsttterthdtotef,igcsofrsfrtep)Inatayschhpsofterttybeulinamle)Ten,asadtenrofaniliytertwosdbecdinteetofaneyohofter)Ayorh,e,orptinttrstefytokponr)Tectanatbntertadtef)P.Ehrtmtbeadterttopywdtoa,mladort,wnadtec,v,admsoffyadrtg)Heceade,(,adr)Ehrtslheterttoheceadahee,igtef)Terttoadtctwhayrsorhdr)Terttoreardd)Terttoaseadsylge)Ehrtslheterttobetdwhdya,i)Terttobetdinacsmrbys]
+[DELETED: )Terttorearefmtefytoayrtoftertwnaret)Terttobecdw,oyarinwnaletertu)Plp.Ehrtslhetertt)Wrhsonc)Dehsondsorhrs)Rnaduehsonplpyinhsonlgaasoaomniyadpld)Bepdaseseaainhsonlgaaadatoe()ldctordrfrkgplp)Plf.Rswebdadceispdfrbypcaeslr,frtrplu,tedebrtlieadteaebdadcer,u,adaeedbydtr)Afyslntrearttodthspswhtef)Oetefyastewnanofter,itmth,s,adatfrshplfsusmedadmdbytefyinaewsp)Mtofplf.Unafsaeonanofar,tefymtmeadarteplfsoftertddwhtefyasf)Tefymtdtayatofarsplfnesoffe()tsteplnsaeinanigat(ra)ttissefmayoftefsogasadctalitedonshseattosha.Tefymtmnayorplfsinangatorpychf)Tefymtaeafladceseagohrsplf,mnawnrdofalfltsigehrsplfsdhtef,adadehrt(rallrfehr)reastoshr)Untedhofartwhshana,tefymycytersplfs(daflafshf)toteilagtersercsofted,tergbeoffsslbdtotedtmdeeryu)Asadvnr.Ehfymtp)Ieinastoayrtbyayreoed,byteseonfrteeyorhsdrbytersilp)Ieinastoar,sttoterttodyorwwctatayt,byiefyorr]
+[DELETED: )Ieastoar,sttorerdtersrttodyorwwctatayt,byoswoaevgwhtectofter)Reastoartbyayeyoriltsh,s,l,ororsstoter,sttotersrttodyorwwctatayt)E.Ehrtslheterttoretopmssfrtefyetascdfrbytertaearoftef.Iftertishdbytefopmssasaneeoftef,tewepdtotertslbectwhseadfll)C.Ehrtslheterttocyofpladclr)Fmfma,n,adr.Ehrtseterttobefefmp,m,orsla,nlp,iys,adayplorc.Teueofsedswhrgqsieiftefgcsaem)Frrswhteceaytoc,tefldttef)Tertsyrsorasofteddaldhhceplhsidteiloftersadbsadwhted)Afyneagwntensseoflscdatha)Tefyhsddorlsreasedprtoteueoftedeadodwtfmteptorr;a)Tefyhsiddtcesfonteceadpsrdtoted)Sedswhrgqsaepefswoaeuetoeetersadbsoftedewntecscdinph()th(ftssnaeptadddbytef.Tyslaoonaddttectofter,r,orprofayasa)Dnofteueofsedswhrsslbeidinterssepnadedonaqyb)Fmofr.Ehrtslheterttopeternofhsceortoanfmrsp.Rsslaobefefmteinofterspso)Cladrtofhds.Ehrlheterttoclhsrtofhds,i)Terttorntessofhsonplp,dtadorhhcep)Terttosttepyorptofhscesolsitmsteseadrsggrlceora]
+[DELETED: gadtepsadpsofterlceoradlgf)Terttocyadpycghsmlolcnadt)Terttoremlssbdonidd.Rlofttdsntretefyofisosurtsc)Tefysldttttertadtersllgnhebnidoftecsoer;a)Tefysldtttterspnodprhsbnndoftersr)G.Ehrtslheterttoveghrttottorcettis(rfstob)fdwtdnorrlfrvgtegsadtertttesbytefytoregstertmyhgtewhrttotebroforr)Pninrtadfyg.Ehrtseterttooeadpeinrtgsintefdtertoftersfytomtintefywhtefsoforrsintef)Pninora.Ehrtslhetttopeins,r,adcyasttdtiewhtersoforrsintef)Enofsyr.Ehrtslheteroe,unrer,tersoftemtrtsyoefycdbytedtwhrttotefyadanofcninetwhrttotef)Asbyasadr.Arlceoradlgfyslptasadrsofcyllssp,wepsiergatcetor,toheastotefyatrsinort)V,tkw,admep,sladllsetoalr)Imrsoftrrsade,adtrcgo,urs,fladlllsbydnofelmsaddningsadwhi)Atrsinagtrllrsrgcrpca,mlaeadslsybdinalormsinwhrsaea,whmepdiyorinagpbsadmyieola,cgadl)Eeinalormsofa,agadrssoastoedtotmtefletoftrr)Cepyadwtrswhayrocstotec)Oealcnasoftef]
+[DELETED: )Asbypnadays.Arlceodlgfyslptasadrsoftnadays,ddbytegrptto4.13ad11ets,astor,fsadrnaewhaeflssadr)Asbytelmceo.Arlceodlgfyslptasadrsoelmceonp,ptto42U.3,s,IoC,adIA1,rsoftecnonastor,fsadrsinaewhaladsel,rsadr)Afymyntrep,shashhsrinvsttaemesttnpsfrfys,adinaspttosn()ad()oftnslntbepdontebsofavsvns)Ehrtslheterttobetdordyfrmlr,frtersweorteweofo,orfrntofterss.Innyc,tertslbegnatltty()crdsneofd.ArthsterttoalayiydN9.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.NEOFR'R.Ehfys)Imehr,oyadinw,atteteofantotefyoftersllrsdgtesyattef)Meaetoehr,unrer,awtofshr,adnyartwnshrsc)Eetewnstofllrsisadftepnofplfsadastttartmyfetwhtedtrgrta,n,admnofrtpyintefyatayt;a)Cyptter'rsintefyataN1.TtSn3,IoC,b,adteseishdtordasf.FYRETOISADC.()Inantoayorrsoftsc,terlceoradlgfyslpeapeadbytelyfrieretoisadc.Tsplieamdofagtttearordehyidtem,adtttepnmgtecrrgteithsrdareofantnorarnwynoannstobet.Inteceofasc,t]
+[DELETED: rordesldtteantnorarnwynnnstobetnheapsinpetoasisadc)Inortoaeteoyfrcsfmter,ten,adtecytobemedytotearord,ehfys,wnarepdo,mtwhacN1.TtSn3,IoC,b,adteseishdtordasf.QSADRSOFA.()Elceoradlgfymteyatltoe()arldbytednofoladpll,whisrefrlgrlcefyasfrteseofI.MeUptote()mefsuroe()armywlbeadbytedtbnanadpnofo)Tearorteasdeisr)Egttpsadpsaeddadidtocywhtsc)Egttatpessadlwetaendwnrdpttoss33ad3,I)Egttfypsfrinofc,a,adasofa,n,orenaeidtoeerts)Igadmgpsofa,i,osaddgistoptr)Cganinadwnrtoftefnty()crdsfreha,i,c,oranofa,n,ore)Bgreadaeatalt;a)Egttnoplpghnceorssisursn()ysofa,usshpecdacdngatcncearorteasdemtbenfalssi,a,orasofa,n,oniyadndofcsrghhayiswnoe()bsd)Wna,n,e,i,orasoeanslbeiytnadmdtoeetmdsntr)Wnareito,tearorasdeslnytelgaywnoe()byoftei)Tefyslnytelga,inw,we()bsdsofaceofa]
+[DELETED: N1.TtSn3,IoC,b,adteseishdtordasf.QSADRSFRFYS.()Eymteyoraefrsttdsftofymensofisrsadtersoftsc.Tefyslhestsftopecedgalhsrdihrsndsep.Alsfmyberfplptaddyofrsiettsfanesisr.Bsslbeedinteatcawetendfrcdngasorlsisi.Rlceoradlgfsstrnrsworetecepdbyngfsursn3,IoC,ortnfrstelsttondrgasddincr5,te6,I)Sdarlceoradlgfycenocypllyi,ttinslbed,inw,toesatteteofhN1.TtSn3,IoC,b,adteseishdtordasf.M.Temnpygdbytepdpeoftefyslieapyp,urtss,aldnetoflildessssbrp,m,ororsmadbytedtalwhten,d,a,tetobet,adslisifa.Tepyslpefraerstnsyofmsrdfmaptinahpys.Teldneslaylltnwhn,d,atadtetobet,adslisifa.FsmycetouebkcsfrmN1.TtSn3,IoC,b,adteseishdtordasf.L.()Ayp,f,p,alu,orcnwntesepgtoo,e,m,c,ormnarlceoradlyinteseslhealeidbytelgayoed.Aleisntt.Teorofteleheryfrteonoftef)Ehrlceoradlgfyintesersana,pyldbytednofodpll,woisrefrtedyoftef.Teldarmypmtedsattefyormydealdyrstoafym.Aldarmyseupt]
+[DELETED: e()mefsaddealdyrooem)Aleisnttefmoe()iltoamoe()bseytoa,orfmoe()lntoanaceofo,oporlno,tefyser,adteorslfwteanpsanalebecgonasaf.Wnteistceinanosseoftefyttdsntarteoloporonofteb,ttceslbdtotelgaywnsy()dsofteeeoftec.Wnteorcsteontoafymtc,ortnfrtym,itslbetdaceofo)Alfsmtbeldbyted)Ceofbgo,nwc,orbsbdtoafyslbel,adteorslfeanpsadonalebecgonasaf)Wnteisaceofororleincyl,teororleslfwtelgprcyldb.Fsslstrgdstoted.AycyoriledinteseofIowhatltoe()ogflntberdtostanudcyofpsadp.Telgpsslntreafelesnprtolei.Wnoehdey(sofleiefelesyslitadper,ifa,totenwororl)Aymrceofopofegbsslbecdtotedtwnsy()dsoftec)EstotepsoftssnmybemebytedtfrtymN1.TtSn3,IoC,b,adteseishdtordasf.E.Tepsoftscrdontaytyoftef)Ayhhfyasddbycr1,te3,IoC)Ayh,i,h,cehgp,rtheororsrpettisldtopgoe()ormftef:h,m,t,h,orrladsla;ortthsrsagssfmaneyadtopeshssinIoadhgnollopitinteeyogtef;o)Ayatfrtergadceofpsbyar)AysrfyddbytedN1.TtSn3,IoC,b,adteseishdtordasf]
+[DELETED: .UDRLCEORADLGF.()Noudrlceoradlgfyseintss)Afyslbeddtobean"drlceodlgf"ad"dadodtopesfitisudadntetfml,adayoe()oftefgcsiss)Tefyi,orishdotasorrda,p,snads)Tefyasorrsrswodetenrc,s,ads,asddintscrortsadpttotsc)Undyofanudrlceoradl,tedtslrrrstoteaepratpessayiferoftefgc)Teisanietttotershhads)Tefywlntcewhtelgaytoaral,mtlgs,adonavdl)Apnfdtobeogarlceoradlywtaleslmybegyofamrpebtinacyjlnttoedsx()m,orbyafenttdfetdds()Inteettecyayintecyweteadvnodfsorrstoatwnty()dsofnnoftev,teayglisadtopevsurtepsoftssN1.TtSn3,IoC,b,adteseiyrN1.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.I.()Telgayslcetobemhisadistodecewhtscradaer)Ili,leorrei,fpi,adfelesyisslbesdi,whfsrgneatltty()dsprteind)Ilssslbecdwnny()dsofl,fdbyalesywnfn()m)Ctinssslorbdontepyoftectadslbemeudadwtprn)Tedtmyattessofayqdpno,erpcorp,toe,s,oritayrgorhgafyl,igasddin()oftss]
+[DELETED: )Anirslheflasadaytoe,art,qyofceadsed,afsrta,adplp,igb,gsa,adayorasnytodecewhtradaer)Anirslheaytoiwtel,a,s,adr.Iswhrsslbecladcdpyusoesdbyter)Telgayslnytef,inw,ofa,peapdpnofcnfralddaearelhoftefrcebytef.Aeteofteetc,telgayslpetefyawnrtsgteneied.Fsaentrdtostpsofcnfrned)Wnceisaeiddgas,telyslpeawnrtwntn()bsdsofttceorteltdyofrtofalm.Fsmyerattepdpnofcnorstaepnofcnfralbytedtfrcei)Ifaydsceaniej,tedtslreiecnofdtp)Ctlsofd,igpsofclbeaetotepcunrtinteilfsoywnrttoted)Telgayslctfpsstoastoisaemeagtotetefsediepnofcnfrcei.Iftedtisrtdtfypsdgayfps,tedtmyieoredeta)Tedtslatanansyfmanancnfrarlceoradlgfdofrrceiscdurteayossnifaloftefgcsaem)Teancsssmtoredtessfrlefrrlceoradlgf)Tefysstotedtacyofisrdanrstoteancninantotnadayorinrdfrrlofal)Teinrsaeaefrpcintoteettttersofaninorincdurtssnaeaefrpci)Teancncswhtehhiyadayatadtsrepopttecyofpyieigtersoftef;a]
+[DELETED: )Iftefsanrtisntvdfrteeep,tedtmyctaceinoefydgtetepdfrwhtedtdsneavdanr)Tedtslehasnpmfrfsttreagdorsrr,ddashhrswostdsontemtrti.Qsslctssfrcsrdbyttttdontiehhorsyc.Fsstfsadceastoted.Tedsteaytoctvnisfrcghhorsycsorier)Tedtslntctanoeceinofterlceoradlgfydgteteanrtisvdetfrctssorincfe.Andsntlttedtinpyprordyurtscrorinadurt,igtgaeanrgtoareoradlgf,shassgorrgalgananofa,e,orntora,oraganaepN1.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.PNOFCNFRCEI.()Tefysrattepdpnofcnfrceisorddstanaepnofcntotelgaywn()bsdsofrtoftewnrtofidc.Ifanaepnofcnisntsdwntdtef,tedtmyieoredeta)Anaepnofcnsli)Apntoeecnofehdtpeado)Adnofh,adatwtf,cealbemdtoeettehdtpeiscdwlntr,shaswtpmwlbeptiopetomrtecdesoftescc;a)Tecndefrcgehd.Nocemybemetnfe()dsfmteetdepntewnrtetinulcsadoywhtnaloftelgaN2.TtSn3,IoC,b,adteseishdtordasf.C.()Apnwobsttaypftscrhsbnvdmyfeactwhtel]
+[DELETED: )Telgaysli,orcetobei,ayctagavnoftscrora,rsads.Iftelgayrybsartoftscrhsbnv,itslctanoftefyu,u,adwtw)Actfdwhtelgaywhissdtotefyttistestoftectortoaymftepcslntdeteneorigcsoectu)Tectcsinwgtoted)Teinrsinajlpgaddsodbytec)Iftedeiseltotei,tectslbegnanoytowwtectb)Telgayslimtecto,ifrytec,tecsddr,oftersofteinadayantnbytea)CsslntbeldontedspcwdcsttrtinacnmybeidinteinrsontedspcwN2.TtSn3,IoC,b,adteseishdtordasf.ETP.()Iftelgayf,oebsofisasddintscroro,ttarloradlgfynolrmsartoft,adfrfstttefsd)Iyjetehhorsyofisredtslteieantoretejdcttedsthterysdins,IoC,orpttefyfmkgogrsadmyp,ina,froe()ormeoeorrsddinsn3,IoC)Dontiyjetehhorsyofisr,tedtslpefroe()ormeofterdinsn3,IoC)Ngintssnslbecdasrgtersaetotedttoryafsd.Iedtfsttafymstersoftsc,b,asofapsp,iyddntmtshr,tedtmypefraclmypyurs,IoC,frtedsinwhitfstttefsntincewhshr)Rlceoradlgfsmybecdoravnofartttissdinanaelwonarepdincewhanael.Fsmtbecdfranatttisnteypdbyanaelrreorfranonwnanaelworredsnte]
+[DELETED: etecto.Iftedtrsascceaninrntoac,ttrtmtbeinwdretecgr)Ifaclmypyisadatafyfrdsttdontrernofrsorfycefymyuefseltotepyattocttedsidofpgtep.Dnofesagtedsmtbesdtoted)Fscdfmshp,igtehdbyttonJy1,2,orcdarshd,mybeudbyfsthaddgtpmtoiertceadqyofl.TedtslehgsapsfrgtasadfddN2.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc)""msapnwohsfdananursn6,IoC,adhsfdacmurtepsos61th6,IoC.Etaspdins,IoC,onJy1orbeAl15ofteyrinwectftfdacmontehdinq,actbeanorofteh,actmthellpeintdSspttosn6,IoC,adonJy1odyractmtb)Ntlstnse()yso;o)Acdurteaeofen()yswoisfsosorwohsbnadbyaysgptorp)Awworw;o)Addpnwoisrdasddbyteslsyanpttote42ofteUdSsCrbyterdrtbdpttote45ofteUsC,orbyteoeofmtadbtpttotofteUdSsC,o,ifapnisntwntepwodistentrdasddb,ayoreylntsp,tnbytepceertsmorpceedypninwhtepnpsttmeofays,llutofgtororjnintdSsofA;o)AddvnofaywredinbyteUdS,wyisrdasasddyofadftnpt()orm,orwohsapnfrndd,inaewhlsadrsadbyteUdSsdtofvsa;o)Ap,assdin42U.1,wowsoriseorebsbeheiskntohebntnbyaheasap,heoro;o)B]
+[DELETED: )""msted,odbytecsddintscradudastepydgpeofttadmybeodbyaymsoftehdastrhdsomhofteldsgi,ntegoe()a,asiynyfrteueoftedgasah.Itmycfaptofamgormebgadptoftelnwhitisb.""dsntieplpyssf,fsora,btamdhemybe)""mstectadtecss.Tetsntiebafel,t,orrsadbsonc.""ispsddinsn()oft)"di"msalierdbytectafm,alierdbytecss,inacry)""mstesmoffladgsieasdnteIlReC,asddinsn6,IoC,aoteetntayidinfladgsi)A)Stm)Neseb)Teneatofayilrta,pnora,igrdrtb,alpdurteflslsyatetteslsydhbtassdintss,seuel,advsdypsadc,egayrnofplpdbytertofanayagrsaspdin26U.42or4,adeenepnofaRhilrtatd,aspdin26U.4)Neitrdfmteflgtorayosisorasegtorayofisi)Wsc;a)Tegsatoflsofesitdsntiegsfmnlssori.Teetntr,tectofmlceasddins)ofteIlReC,idadpdbytectafm,tecss,mybeddfmi.Toteetntr,plfle,igpdfsadpsonfli,oftectadceo,mybeddfmieuptoanalmmoffdds()prc.""dsntievypsrdbyapnddinsn(ftssnwoisactoracsseiftednisrdpttoasddyofadeoffypt()orm.""dsntieddiycnordhbspdtoapnddin()oftssnbyteUdSsdtofvsadagfmasddhord."]
+[DELETED: sntielpsmdhbsmebyteslsyanptto42U.4.Dnofmleyberdbytecyaradsetxcninshfstecyarorsetxcnsld.Frpsoftscroyadinteceofactwoosadwdisacdfyheasddinsn3,I,""dsntiepstttectrdasadmdprfmtemlaep."lbettrdintecryriypgteynwhacmisf.Weactartecsssntfeafltxr,tecsartecsfladgsi,frpsoftss,seanieettofladgsiehdtecrtecssefdafltxr,asddbytya.Tecyarorsetxcnmyrnofieinshfmasehsld,i,btldt:csofflorsetxrsadaya;adiergfsshasteW2ad1rdgiefrcnmdislgaepsofss2)ad7)ofteIlReCla)""msalueadp)""msapnhgteinfeseorhgaceofmrvete(rofwhmybesttomdofttororl)orwohsrdorbngdaleerwoisapnedtofeacmursn6,IoC"slaoieaypnw)Istebyofareoriettwhistrofshhdadurwhtectortecehstepyrtofoyofteh;o)Isaprofaldp,mrofaldlycyorsrofacnifsheyhstnfeseorhsaceofmrveteadiftnhsatltafept()opinshe,adbytecya;o)Hsrdorbngdalee"isaveinpnuraldsec.Alopslbecdasopfrdginfrpytxrnb;h,teatoytxrnursn6,IoC,adrspdpttosn6,IoC,slbecdontevftecsplo."lo"frtepftss,msayoe()psopwnpyisoymetnoe()pnorwetehdishdbyane,atfhintss,btmetnoe()pnhstertoyofshh.Apnhgerplteinfeorhgaceofmrvetetrwha,btwodsntoytedgashspydgplntbecdanorfrpsoftss,ifshpsacyofanesdbytedginqnadatl]
+[DELETED: e()ofteorcsofteneostedgashydgp.Tecdcypyisofbsslntbecdplopaslgastecypyisceteeeopofteh,igwetessaeogahdodbyane,asstfhintss,adtesshetepyrfoyofteh.Teplrnrdussnslntaytocypyi.Wetopywshdbyapnwohsddwttyfgmfrpytxr,teeeofteddpnslbe""pdtttetepsdgwhteddpdshteslbeadtoteeefrtecnofaepsursn()or()oftss)"ydgp"mstecsdgpnJy1orbeAl15ofteyrfrwhtecmismepydgpeistesepeweacthst,fdadptheadple,adthwrteilisathehsteinofr.ActmtehtedgtowhtecmrobehspydgpebycradcgeeorbgtttedgiswetectrdonJorbeAl15a)Atltsx()msdgtepry;o)Temyoftetetectodtedgidbytectlstnoe()y;o)Temyofteteartectftoedgifodbytectfrlstnoe(.Tecyarmyrewnororpfoefginshfmastecyarmyd)Ngtepsofph()oftss,tepyunwhtectmsanslbdtobetecspydgpeiftectieqdadrsinacefyaddsntaepyunwhtecthsmeantobeodbypspgacntooyted.Pfusslntbeptofacntooyt.Acsseworsinacefyslbdtoreattecspydgpeadtobetoftecsh.Acefyisah,ngfyoriecefyfrpewhisasddinsn3,IoC,orafsddinsn3,IoC,oradgorteoeunwhteatmsanweactwsuetoreintedgunwhteanismsadrshpindyl,pnadsN2.TerscdinIA1,IoDfHhadW,rgtoRlAdLgFn0,Sn0;Sn1;Sn1,Sn0n2;Sn3;Sn5;adSn5.slben,adofnofeadetarJy1,2]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

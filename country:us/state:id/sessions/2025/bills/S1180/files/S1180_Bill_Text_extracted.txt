@@ -1,0 +1,210 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1180
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO TRAFFIC ENFORCEMENT; AMENDING CHAPTER 14, TITLE 49, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 49-1432, IDAHO CODE, TO ESTABLISH PRO-
+4 VISIONS REGARDING AUTOMATED LICENSE PLATE READERS AND DATA; AMENDING
+5 SECTION 49-428, IDAHO CODE, TO REVISE A PROVISION REGARDING DISPLAY OF
+6 PLATE AND STICKERS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+7 TIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 14, Title 49, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 49-1432, Idaho Code, and to read as follows:
+12 49-1432. AUTOMATED LICENSE PLATE READERS -- DATA ACCESS AND CON-
+13 TROL. (1) For the purposes of this section:
+14 (a) "Agency" means the state of Idaho, any political subdivision of the
+15 state of Idaho, or any agency thereof.
+16 (b) "Automated license plate reader" means a device that passively
+17 records license plates of vehicles on a roadway or any similar device.
+18 (c) "Traffic flow analysis" means the study and real-time use of data
+19 regarding vehicles moving through a transportation network in order to
+20 improve traffic flow, reduce congestion, and increase safety.
+21 (2) An agency may use an automated license plate reader and its data
+22 for law enforcement purposes, traffic flow analysis purposes, or both. An
+23 agency that uses an automated license plate reader for law enforcement pur-
+24 poses shall do so pursuant to the following requirements:
+25 (a) The device and its data shall not be used for any purpose other than
+26 the investigation of felony or misdemeanor crimes or traffic accidents
+27 or to search for missing or endangered persons; and
+28 (b) The device and its data shall not be used to enforce traffic infrac-
+29 tions other than those associated with a traffic accident.
+30 (3) Access to automated license plate reader data shall be limited to an
+31 agency's authorized personnel. Agencies shall implement access controls to
+32 ensure that only individuals with appropriate clearance are able to retrieve
+33 automated license plate reader data.
+34 (4) Except as expressly allowed pursuant to this section, automated
+35 license plate reader data shall not be used for any non-law enforcement
+36 purpose, including but not limited to personal use, political activity, or
+37 surveillance unrelated to the purposes described in subsection (2)(a) of
+38 this section.
+39 (5) A person who misuses automated license plate reader data pursuant
+40 to subsection (4) of this section shall be subject to discipline, adminis-
+41 trative penalties, and criminal prosecution, if applicable.
+2
+1 (6) Each agency that uses automated license plate readers shall conduct
+2 mandatory training for all authorized users regarding data privacy, legal
+3 compliance, and ethical use of automated license plate reader systems.
+4 (7) All access to and queries of automated license plate reader data
+5 shall be logged in a secure audit system to include user identity, date,
+6 time, and the purpose of access.
+7 (8) Agencies shall conduct semiannual audits of automated license
+8 plate reader data access logs to detect and address any unauthorized or sus-
+9 picious activity.
+10 SECTION 2. That Section 49-428, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 49-428. DISPLAY OF PLATE AND STICKERS. (1) License plates assigned to
+13 a motor vehicle shall be attached, one (1) in the front, if the vehicle is
+14 equipped with a front license plate mounting bracket, and the other in the
+15 rear, with the exception of the following:
+16 (a) The license plate assigned to a motorcycle, all-terrain vehicle,
+17 utility type vehicle, motorbike or semitrailer and the license plate
+18 assigned to a motor vehicle operated by a manufacturer, repossession
+19 agent or dealer shall be attached to the rear.
+20 (b) Vehicles displaying year of manufacture, old timer, classic car,
+21 street rod, or custom vehicle license plates shall be allowed to display
+22 one (1) plate attached to the rear of the vehicle.
+23 (c) The license plate attached to a tractor shall be attached to the
+24 front.
+25 (d) The wrecker plate shall be displayed on the vehicle being towed in
+26 such a manner as to be visible when the vehicle being towed is approached
+27 from the rear.
+28 License plates shall be displayed during the current registration year. The
+29 annual registration sticker for the current registration year shall be dis-
+30 played on each license plate, except for trailers, semitrailers, and commer-
+31 cial vehicles over twenty-six thousand (26,000) pounds under the provisions
+32 of sections 49-434 and 49-435, Idaho Code. For the purposes of this title,
+33 the license plates together with the registration stickers shall be consid-
+34 ered as license plates for the year designated on the registration sticker.
+35 For purposes of this chapter, a validation sticker issued to the operator of
+36 an all-terrain vehicle, utility type vehicle, or motorbike under the provi-
+37 sions of sections 67-7122 and 67-7124, Idaho Code, shall be considered the
+38 registration sticker.
+39 (2) Every license plate shall at all times be securely fastened to the
+40 vehicle to which it is assigned to prevent the plate from swinging, be at a
+41 height not less than twelve (12) inches from the ground, measuring from the
+42 bottom of the plate, be in a place and position to be clearly visible, and be
+43 maintained free from foreign materials and in a condition to be clearly legi-
+44 ble, and all registration stickers shall be securely attached to the license
+45 plates and shall be displayed as provided in section 49-443(4), Idaho Code.
+46 SECTION 3. An emergency existing therefor, which emergency is hereby
+47 declared to exist, this act shall be in full force and effect on and after
+48 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YJYADRSCNAGTOTCE;AGCR1,TE4,IOCYTEANOFANWSN4,IOC,TOEHPSRGADLEPERSADD;AN4,IOC,TOREAPNRGDYOEADS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr1,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ADLEPERS--DAASADC.()Frtepsoftss)""msteseofI,ayplsnofteofI,orayayt)"dleper"msadettpslepsofvsonaryoraysrd)"cfwa"mstesyadreueofdgvsmgthatnnkinortetcf,rec,adies)Anaymyueanadleperradisdrlwetp,tcfwasp,orb.Ayttusanadleperrfrlwetpssldosopttotefgr)Tedeadisdaslntbeudfraypeorteinoffyormrcsortcartoshfrmgoredp;a)Tedeadisdaslntbeudtoeetcisortnteadwhatca)Astoadleperrdaslbeldtoasadp.Asslitascstettoyiswhaeceaeaetordleperrd)Etaseyadpttotss,aeperrdaslntbeudfraynwe,igbtntldtoplu,pla,oeudtotepsddinsn()oss)Apnwomsadleperrdaposn()oftssnslbesttod,aep,adclp,ifa]
+[DELETED: )Ehayttusadlepersslcytgfraladusrgdap,l,adelueofadleperrs)Alastoadqsofadleperrdlbeldinaseatsmtoieuri,d,adtepeofa)AsslctslasofadlerrdaaslstodtadasayudorssaN2.TtSn4,IoC,b,adteseishdtordasf.DYOFPEADS.()Lepsadtmrveslbea,oe()intef,ifteveidwhaftlepemgb,adteorint,whteenoftef)Telepeadtoam,anvytev,meorsradtelepdtoamrveodbyam,rtordrslbeadtoter)Vsdgyrofm,odt,ccctr,orcmvelepsslbeadtode()peadtoterroftev)Telepeadtoatrslbeadtot)Tewrpeslbeddontevebgtdihamrastobevewntevebgtdisamterepsslbedddgtectrny.Tlrnsrfrtectrnyrslbeddonehlep,etfrt,s,adclvsortxtd()psurtepfss44ad4,IoC.Frtepsoftstelepstrwhternssslbecdaslepsfrteyrddonternsrpsoftsc,avnsridtoteoronanv,uytev,ormeurtepsofss62ad6,IoC,slbecdtns)Eylepeslataltsbesyfdtotetowhitisadtopttepefms,beattntlstnte()isfmteg,mgfmtmoftep,beinapeadpntobecyv,adbdfefmfnmsadinacntobecyl,adalrnssslbesyadtotelsadslbeddaspdinsn4,IoCN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1180
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO TRAFFIC ENFORCEMENT; AMENDING CHAPTER 14, TITLE 49, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 49-1432, IDAHO CODE, TO ESTABLISH PRO-
+4 VISIONS REGARDING AUTOMATED LICENSE PLATE READERS AND DATA; AMENDING
+5 SECTION 49-428, IDAHO CODE, TO REVISE A PROVISION REGARDING DISPLAY OF
+6 PLATE AND STICKERS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+7 TIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 14, Title 49, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 49-1432, Idaho Code, and to read as follows:
+12 49-1432. AUTOMATED LICENSE PLATE READERS -- DATA ACCESS AND CON-
+13 TROL. (1) For the purposes of this section:
+14 (a) "Agency" means the state of Idaho, any political subdivision of the
+15 state of Idaho, or any agency thereof.
+16 (b) "Automated license plate reader" means a device that passively
+17 records license plates of vehicles on a roadway or any similar device.
+18 (c) "Traffic flow analysis" means the study and real-time use of data
+19 regarding vehicles moving through a transportation network in order to
+20 improve traffic flow, reduce congestion, and increase safety.
+21 (2) An agency may use an automated license plate reader and its data
+22 for law enforcement purposes, traffic flow analysis purposes, or both. An
+23 agency that uses an automated license plate reader for law enforcement pur-
+24 poses shall do so pursuant to the following requirements:
+25 (a) The device and its data shall not be used for any purpose other than
+26 the investigation of felony or misdemeanor crimes or traffic accidents
+27 or to search for missing or endangered persons; and
+28 (b) The device and its data shall not be used to enforce traffic infrac-
+29 tions other than those associated with a traffic accident.
+30 (3) Access to automated license plate reader data shall be limited to an
+31 agency's authorized personnel. Agencies shall implement access controls to
+32 ensure that only individuals with appropriate clearance are able to retrieve
+33 automated license plate reader data.
+34 (4) Except as expressly allowed pursuant to this section, automated
+35 license plate reader data shall not be used for any non-law enforcement
+36 purpose, including but not limited to personal use, political activity, or
+37 surveillance unrelated to the purposes described in subsection (2)(a) of
+38 this section.
+39 (5) A person who misuses automated license plate reader data pursuant
+40 to subsection (4) of this section shall be subject to discipline, adminis-
+41 trative penalties, and criminal prosecution, if applicable.
+
+2
+1 (6) Each agency that uses automated license plate readers shall conduct
+2 mandatory training for all authorized users regarding data privacy, legal
+3 compliance, and ethical use of automated license plate reader systems.
+4 (7) All access to and queries of automated license plate reader data
+5 shall be logged in a secure audit system to include user identity, date,
+6 time, and the purpose of access.
+7 (8) Agencies shall conduct semiannual audits of automated license
+8 plate reader data access logs to detect and address any unauthorized or sus-
+9 picious activity.
+10 SECTION 2. That Section 49-428, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 49-428. DISPLAY OF PLATE AND STICKERS. (1) License plates assigned to
+13 a motor vehicle shall be attached, one (1) in the front, if the vehicle is
+14 equipped with a front license plate mounting bracket, and the other in the
+15 rear, with the exception of the following:
+16 (a) The license plate assigned to a motorcycle, all-terrain vehicle,
+17 utility type vehicle, motorbike or semitrailer and the license plate
+18 assigned to a motor vehicle operated by a manufacturer, repossession
+19 agent or dealer shall be attached to the rear.
+20 (b) Vehicles displaying year of manufacture, old timer, classic car,
+21 street rod, or custom vehicle license plates shall be allowed to display
+22 one (1) plate attached to the rear of the vehicle.
+23 (c) The license plate attached to a tractor shall be attached to the
+24 front.
+25 (d) The wrecker plate shall be displayed on the vehicle being towed in
+26 such a manner as to be visible when the vehicle being towed is approached
+27 from the rear.
+28 License plates shall be displayed during the current registration year. The
+29 annual registration sticker for the current registration year shall be dis-
+30 played on each license plate, except for trailers, semitrailers, and commer-
+31 cial vehicles over twenty-six thousand (26,000) pounds under the provisions
+32 of sections 49-434 and 49-435, Idaho Code. For the purposes of this title,
+33 the license plates together with the registration stickers shall be consid-
+34 ered as license plates for the year designated on the registration sticker.
+35 For purposes of this chapter, a validation sticker issued to the operator of
+36 an all-terrain vehicle, utility type vehicle, or motorbike under the provi-
+37 sions of sections 67-7122 and 67-7124, Idaho Code, shall be considered the
+38 registration sticker.
+39 (2) Every license plate shall at all times be securely fastened to the
+40 vehicle to which it is assigned to prevent the plate from swinging, be at a
+41 height not less than twelve (12) inches from the ground, measuring from the
+42 bottom of the plate, be in a place and position to be clearly visible, and be
+43 maintained free from foreign materials and in a condition to be clearly legi-
+44 ble, and all registration stickers shall be securely attached to the license
+45 plates and shall be displayed as provided in section 49-443(4), Idaho Code.
+46 SECTION 3. An emergency existing therefor, which emergency is hereby
+47 declared to exist, this act shall be in full force and effect on and after
+48 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YJYADRSCNAGTOTCE;AGCR1,TE4,IOCYTEANOFANWSN4,IOC,TOEHPSRGADLEPERSADD;AN4,IOC,TOREAPNRGDYOEADS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr1,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ADLEPERS--DAASADC.()Frtepsoftss)""msteseofI,ayplsnofteofI,orayayt)"dleper"msadettpslepsofvsonaryoraysrd)"cfwa"mstesyadreueofdgvsmgthatnnkinortetcf,rec,adies)Anaymyueanadleperradisdrlwetp,tcfwasp,orb.Ayttusanadleperrfrlwetpssldosopttotefgr)Tedeadisdaslntbeudfraypeorteinoffyormrcsortcartoshfrmgoredp;a)Tedeadisdaslntbeudtoeetcisortnteadwhatca)Astoadleperrdaslbeldtoasadp.Asslitascstettoyiswhaeceaeaetordleperrd)Etaseyadpttotss,aeperrdaslntbeudfraynwe,igbtntldtoplu,pla,oeudtotepsddinsn()oss)Apnwomsadleperrdaposn()oftssnslbesttod,aep,adclp,ifa]
+[DELETED: )Ehayttusadlepersslcytgfraladusrgdap,l,adelueofadleperrs)Alastoadqsofadleperrdlbeldinaseatsmtoieuri,d,adtepeofa)AsslctslasofadlerrdaaslstodtadasayudorssaN2.TtSn4,IoC,b,adteseishdtordasf.DYOFPEADS.()Lepsadtmrveslbea,oe()intef,ifteveidwhaftlepemgb,adteorint,whteenoftef)Telepeadtoam,anvytev,meorsradtelepdtoamrveodbyam,rtordrslbeadtoter)Vsdgyrofm,odt,ccctr,orcmvelepsslbeadtode()peadtoterroftev)Telepeadtoatrslbeadtot)Tewrpeslbeddontevebgtdihamrastobevewntevebgtdisamterepsslbedddgtectrny.Tlrnsrfrtectrnyrslbeddonehlep,etfrt,s,adclvsortxtd()psurtepfss44ad4,IoC.Frtepsoftstelepstrwhternssslbecdaslepsfrteyrddonternsrpsoftsc,avnsridtoteoronanv,uytev,ormeurtepsofss62ad6,IoC,slbecdtns)Eylepeslataltsbesyfdtotetowhitisadtopttepefms,beattntlstnte()isfmteg,mgfmtmoftep,beinapeadpntobecyv,adbdfefmfnmsadinacntobecyl,adalrnssslbesyadtotelsadslbeddaspdinsn4,IoCN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

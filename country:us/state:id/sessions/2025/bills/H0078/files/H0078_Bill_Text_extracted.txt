@@ -1,0 +1,1224 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 78
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLE DRIVER'S LICENSES; AMENDING SECTION 49-105, IDAHO
+3 CODE, TO REVISE A DEFINITION; AMENDING SECTION 49-315, IDAHO CODE, TO
+4 PROVIDE FOR ELECTRONIC DRIVER'S LICENSES; AMENDING CHAPTER 3, TITLE
+5 49, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 49-315A, IDAHO CODE,
+6 TO ESTABLISH AN ELECTRONIC DRIVER'S LICENSE PROGRAM; AMENDING SEC-
+7 TION 49-316, IDAHO CODE, TO PROVIDE FOR ELECTRONIC DRIVER'S LICENSES;
+8 AMENDING SECTION 49-322, IDAHO CODE, TO PROVIDE FOR THE CANCELLATION
+9 OF ELECTRONIC DRIVER'S LICENSES; AMENDING SECTION 49-2444, IDAHO CODE,
+10 TO PROVIDE FOR ELECTRONIC IDENTIFICATION CARDS; AMENDING CHAPTER 24,
+11 TITLE 49, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 49-2444A, IDAHO
+12 CODE, TO ESTABLISH AN ELECTRONIC IDENTIFICATION CARD PROGRAM; AND
+13 DECLARING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 49-105, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 49-105. DEFINITIONS -- D. (1) "Dealer" means every person in the busi-
+18 ness of buying, selling or exchanging five (5) or more new or used vehicles,
+19 new or used neighborhood electric vehicles, new or used motorcycles, motor-
+20 driven cycles, snow machines or motorbikes, travel trailers, truck campers,
+21 all-terrain vehicles, utility type vehicles or motor homes in any calendar
+22 year, either outright or on conditional sale, bailment, lease, chattel mort-
+23 gage, or otherwise, or who has an established place of business for the sale,
+24 lease, trade, or display of these vehicles. No insurance company, bank, fi-
+25 nance company, public utilities company, or other person coming into posses-
+26 sion of any vehicle, as an incident to its regular business, who shall sell
+27 that vehicle under any contractual rights it may have, shall be considered a
+28 dealer. See also "salvage pool," section 49-120, Idaho Code.
+29 (2) "Dealer's selling agreement." (See "Franchise," section 49-107,
+30 Idaho Code)
+31 (3) "Department" means the Idaho transportation department acting di-
+32 rectly or through its duly authorized officers and agents, except in chap-
+33 ters 6 and 9, title 49, Idaho Code, where the term means the Idaho state po-
+34 lice, except as otherwise specifically provided.
+35 (4) "Designated family member" means the spouse, child, grandchild,
+36 parent, brother or sister of the owner of a vehicle dealership who, in the
+37 event of the owner's death, is entitled to inherit the ownership interest in
+38 the dealership under the same terms of the owner's will, or who has been nom-
+39 inated in any other written instrument, or who, in the case of an incapaci-
+40 tated owner of a dealership, has been appointed by a court as the legal repre-
+41 sentative of the dealer's property.
+2
+1 (5) "Director" means the director of the Idaho transportation depart-
+2 ment, except in chapters 6, 9 and 22, title 49, Idaho Code, where the term
+3 means the director of the Idaho state police.
+4 (6) "Disclose" means to engage in any practice or conduct to make avail-
+5 able and make known personal information contained in records of the depart-
+6 ment about a person to any other person, organization or entity, by any means
+7 of communication.
+8 (7) "Disqualification" as defined in 49 CFR part 383, means withdrawal
+9 by the department of commercial vehicle driving privileges.
+10 (8) "Distributor" means any person, firm, association, corporation or
+11 trust, resident or nonresident, who has a franchise from a manufacturer of
+12 vehicles to distribute vehicles in this state, and who in whole or in part
+13 sells or distributes new vehicles to dealers or who maintains distributor
+14 representatives.
+15 (9) "Distributor branch" means a branch office similarly maintained by
+16 a distributor for the same purposes a factory branch is maintained.
+17 (10) "Distributor representative" means any person, firm, association,
+18 corporation or trust, and each officer and employee thereof engaged as a rep-
+19 resentative of a distributor or distributor branch of vehicles for the pur-
+20 pose of making or promoting the sale of vehicles, or for supervising or con-
+21 tacting dealers or prospective dealers.
+22 (11) "District" means:
+23 (a) Business district. The territory contiguous to and including a
+24 highway when within any six hundred (600) feet along the highway there
+25 are buildings in use for business or industrial purposes, including ho-
+26 tels, banks or office buildings, railroad stations and public buildings
+27 which occupy at least three hundred (300) feet of frontage on one side or
+28 three hundred (300) feet collectively on both sides of the highway.
+29 (b) Residential district. The territory contiguous to and including
+30 a highway not comprising a business district when the property on the
+31 highway for a distance of three hundred (300) feet or more is in the main
+32 improved with residences, or residences and buildings in use for busi-
+33 ness.
+34 (c) Urban district. The territory contiguous to and including any
+35 highway which is built up with structures devoted to business, indus-
+36 try or dwelling houses. For purposes of establishing speed limits in
+37 accordance with the provisions of section 49-654, Idaho Code, no state
+38 highway or any portion thereof lying within the boundaries of an urban
+39 district is subject to the limitations which otherwise apply to non-
+40 state highways within an urban district.
+41 (12) "Documented vessel" means a vessel having a valid marine document
+42 as a vessel of the United States.
+43 (13) "Downgrade" as it pertains to commercial drivers licensing shall
+44 mean either:
+45 (a) The driver has changed his or her medical requirement self-certifi-
+46 cation to interstate but operates exclusively in transportation or op-
+47 erations excepted from part 391 of the federal motor carrier safety reg-
+48 ulations; or
+3
+1 (b) The driver has changed his or her medical requirement self-certifi-
+2 cation to intrastate and operates exclusively in transportation or op-
+3 erations as listed in section 67-2901B(2), Idaho Code; or
+4 (c) The driver no longer has commercial motor vehicle driving privi-
+5 leges, but has retained privileges to drive noncommercial motor vehi-
+6 cles.
+7 (14) "Drag race" means the operation of two (2) or more vehicles from a
+8 point side by side at accelerating speeds in a competitive attempt to out-
+9 distance each other, or the operation of one (1) or more vehicles over a com-
+10 mon selected course, from the same point to the same point, for the purpose
+11 of comparing the relative speeds or power of acceleration of the vehicles
+12 within a certain distance or time limit.
+13 (15) "Driver" means every person who drives or is in actual physical
+14 control of a vehicle.
+15 (16) "Driver's license" means a license or permit, including an elec-
+16 tronic driver's license as described in section 49-315A, Idaho Code, issued
+17 by the department or by any other jurisdiction to an individual which autho-
+18 rizes the individual to operate a motor vehicle or commercial motor vehicle
+19 on the highways in accordance with the requirements of title 49, Idaho Code.
+20 (17) "Driver's license -- Classes of" are issued for the operation of a
+21 vehicle based on the size of the vehicle or the type of load and mean:
+22 (a) Class A. This license shall be issued and valid for the operation
+23 of any combination of motor vehicles with a manufacturer's gross combi-
+24 nation weight rating (GCWR) in excess of twenty-six thousand (26,000)
+25 pounds, provided the manufacturer's gross vehicle weight rating (GVWR)
+26 of the vehicle(s) being towed is in excess of ten thousand (10,000)
+27 pounds. Persons holding a valid class A license may also operate vehi-
+28 cles requiring a class B, C or D license.
+29 (b) Class B. This license shall be issued and valid for the operation
+30 of any single vehicle with a manufacturer's gross vehicle weight rat-
+31 ing (GVWR) in excess of twenty-six thousand (26,000) pounds, or any such
+32 vehicle towing a vehicle not in excess of ten thousand (10,000) pounds
+33 manufacturer's gross vehicle weight rating (GVWR). Persons holding a
+34 valid class B license may also operate vehicles requiring a class C li-
+35 cense or a class D license.
+36 (c) Class C. This license shall be issued and valid for the operation
+37 of any single vehicle or combination of vehicles that does not meet the
+38 definition of class A or class B, as defined in this section, but that
+39 either is designed to transport sixteen (16) or more people including
+40 the driver, or is of any size which does not meet the definition of class
+41 A or class B and is used in the transportation of materials found to be
+42 hazardous according to the hazardous material transportation act and
+43 which requires the motor vehicle to be placarded under the federal haz-
+44 ardous materials regulations 49 CFR part 172, subpart F. Persons hold-
+45 ing a valid class C license may also operate vehicles requiring a class D
+46 license.
+47 (d) Class D. This license shall be issued and valid for the operation of
+48 a motor vehicle that is not a commercial vehicle as defined in section
+49 49-123, Idaho Code.
+4
+1 (e) "Seasonal driver's license" means a special restricted class B or
+2 C driver's license to operate certain commercial vehicles in farm-re-
+3 lated industries under restrictions imposed by the department. As used
+4 in this definition, "farm-related industry" shall mean custom har-
+5 vesters, farm retail outlets and suppliers, agri-chemical businesses
+6 and livestock feeders. Seasonal driver's licenses are not valid for
+7 driving vehicles carrying any quantities of hazardous material requir-
+8 ing placarding, except for diesel fuel in quantities of one thousand
+9 (1,000) gallons or less, liquid fertilizers, i.e., plant nutrients,
+10 in vehicles or implements of husbandry with total capacities of three
+11 thousand (3,000) gallons or less, and solid fertilizers, i.e., solid
+12 plant nutrients, that are not mixed with any organic substance.
+13 (18) "Driver record" means any record that pertains to an individual's
+14 driver's license, driving permit, driving privileges, driving history,
+15 identification documents or other similar credentials issued by the depart-
+16 ment.
+17 (19) "Driver's license endorsements" means special authorizations that
+18 are required to be displayed on a driver's license which permit the driver to
+19 operate certain types of commercial vehicles or commercial vehicles hauling
+20 certain types of cargo, or to operate a motorcycle or a school bus.
+21 (a) "Endorsement T -- Double/Triple trailer" means this endorsement is
+22 required on a class A, B or C license to permit the licensee to operate a
+23 vehicle authorized to tow more than one (1) trailer.
+24 (b) "Endorsement H -- Hazardous material" means this endorsement is re-
+25 quired on a class A, B or C license if the driver is operating a vehicle
+26 used in the transportation of materials found to be hazardous according
+27 to the hazardous material transportation act and which requires the mo-
+28 tor vehicle to be placarded under the federal hazardous materials regu-
+29 lations 49 CFR part 172, subpart F.
+30 (c) "Endorsement P -- Passenger" means this endorsement is required on
+31 a class A, B or C license to permit the licensee to operate a vehicle de-
+32 signed to transport sixteen (16) or more people including the driver.
+33 (d) "Endorsement N -- Tank vehicle" means this endorsement is required
+34 on a class A, B or C license to permit the licensee to operate a tank ve-
+35 hicle as defined in section 49-123, Idaho Code.
+36 (e) "Endorsement M -- Motorcycle" means this endorsement is required on
+37 a driver's license to permit the driver to operate a motorcycle or mo-
+38 tor-driven cycle.
+39 (f) "Endorsement S -- School bus" means this endorsement is required on
+40 a class A, B or C license to permit the licensee to operate a school bus
+41 in accordance with 49 CFR part 383, to transport preprimary, primary or
+42 secondary school students from home to school, from school to home, or
+43 to and from school-sponsored events. School bus does not include a bus
+44 used as a common carrier.
+45 (20) "Driveway" means a private road giving access from a public way to a
+46 building on abutting grounds.
+47 (21) "Dromedary tractor" means every motor vehicle designed and used
+48 primarily for drawing a semitrailer and so constructed as to carry mani-
+49 fested cargo in addition to a part of the weight of the semitrailer.
+5
+1 SECTION 2. That Section 49-315, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 49-315. LICENSES ISSUED TO DRIVERS. (1) The department shall issue
+4 to every qualifying applicant a distinguishing driver's license as applied
+5 for, which shall bear a distinguishing number assigned to the licensee, the
+6 full name, date of birth, Idaho residence address, sex, weight, height, eye
+7 color, hair color, color photograph, name of this state, date of issuance,
+8 date of expiration, license class, endorsements, restrictions, and the ap-
+9 plicant's signature. If an applicant has submitted an application pursuant
+10 to the provisions of chapter 58, title 19, Idaho Code, then the applicant's
+11 driver's license shall contain his or her alternative Idaho mailing address
+12 in place of his or her Idaho residence address. Driver's licenses for per-
+13 sons under eighteen (18) years of age shall include a notation "under 18
+14 until (month, day, year)," and driver's licenses for persons eighteen (18)
+15 years of age to twenty-one (21) years of age shall include a notation "under
+16 21 until (month, day, year)." No driver's license shall be valid until it has
+17 been signed on the signature line of the license by the licensee. Driver's
+18 licenses for persons who are United States citizens shall, where possible,
+19 include the notation "USA." An electronic driver's license pursuant to sec-
+20 tion 49-315A, Idaho Code, shall be designed to satisfy the requirements of
+21 this subsection and shall be deemed to comply with such requirements.
+22 (2) Every driver's license shall bear a color photograph of the li-
+23 censee, which shall be taken by the examiner at the time the application is
+24 made. The photograph shall be taken without headgear or other clothing or
+25 device that disguises or otherwise conceals the face or head of the appli-
+26 cant. A waiver may be granted by the department allowing the applicant to
+27 wear headgear or other head covering for medical, religious or safety pur-
+28 poses as long as the face is not disguised or otherwise concealed. At the
+29 request of the applicant, a driver's license may contain a statement or indi-
+30 cation of the medical condition of the licensee.
+31 (3) The department shall notify the commercial driver license infor-
+32 mation system that a class A, B or C driver's license has been issued as re-
+33 quired by 49 CFR parts 383 and 384.
+34 (4) A licensee applying for a hazardous material endorsement on a
+35 driver's license shall have a security background records check and shall
+36 receive clearance from the federal transportation security administration
+37 before the endorsement can be issued, renewed or transferred as required
+38 by 49 CFR part 383, subject to procedures established by the federal trans-
+39 portation security administration.
+40 (5) A licensee who desires to donate any or all organs or tissue in the
+41 event of death, and who has completed a document of gift pursuant to the pro-
+42 visions for donation of anatomical gifts as set forth in chapter 34, title
+43 39, Idaho Code, may, at the option of the donor, indicate this desire on the
+44 driver's license by the imprinting of the word "donor" on the license. The
+45 provisions of this subsection shall apply to licensees fifteen (15) years of
+46 age or older but less than eighteen (18) years of age if the requirements pro-
+47 vided in chapter 34, title 39, Idaho Code, have been complied with and the
+48 donor indicates this desire be placed on the license.
+6
+1 (6) A licensee who is a person with a permanent disability may request
+2 that the notation "permanently disabled" be imprinted on the driver's li-
+3 cense, provided the licensee presents written certification from a licensed
+4 physician verifying that the licensee's stated impairment qualifies as a
+5 permanent disability according to the provisions of section 49-117, Idaho
+6 Code.
+7 (7) A licensee who is a veteran may request that his or her status as
+8 such be designated on the driver's license at no additional cost. Any such
+9 request shall be accompanied by proof of being a current or former member of
+10 the United States armed forces. Upon request and submission of satisfactory
+11 proof, the department shall indicate such person's status as a veteran on any
+12 class of driver's license issued pursuant to this section. Such designation
+13 shall be made upon original issuance or renewal of a driver's license. Des-
+14 ignation shall also be made on any duplicate driver's license issued, pro-
+15 vided that the fee for such duplicate driver's license is paid in accordance
+16 with section 49-306, Idaho Code.
+17 Satisfactory proof of being a current or former member of the United
+18 States armed forces must be furnished by an applicant to the department
+19 before a designation of veteran status will be indicated on any class of
+20 driver's license. Acceptable proof shall be a copy of form DD214 or an equiv-
+21 alent document or statement from the department of veterans affairs that
+22 identifies a character of service upon separation as "honorable" or "general
+23 under honorable conditions."
+24 SECTION 3. That Chapter 3, Title 49, Idaho Code, be, and the same is
+25 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+26 ignated as Section 49-315A, Idaho Code, and to read as follows:
+27 49-315A. ELECTRONIC DRIVER'S LICENSES. (1) On or before July 1, 2026,
+28 the department shall establish and maintain a process and system for an in-
+29 dividual to obtain an electronic driver's license in addition to a physical
+30 driver's license.
+31 (2) An electronic driver's license, as provided for in this section,
+32 shall be an electronic extension of a department-issued physical credential
+33 that conveys identity and driving privilege information and is in compliance
+34 with the American association of motor vehicle administrators' (AAMVA) mo-
+35 bile driver license implementation guidelines and the ISO/IEC 18013-5 stan-
+36 dard. It shall be capable of being displayed on a wireless communication
+37 device and shall be deemed a valid driver's license for all purposes under
+38 Idaho Code.
+39 (3) The department shall ensure that the system and technology used for
+40 an electronic license certificate or identification card maintains the data
+41 security and privacy of the individual.
+42 (4) A person or entity that seeks to view an individual's electronic
+43 driver's license for identity or age verification purposes shall access only
+44 the identity elements necessary for the transaction or purpose prompting
+45 the request through an authenticator that validates these elements against
+46 AAMVA's digital trust service.
+47 (5) The department is authorized to promulgate rules, subject to leg-
+48 islative approval, to implement the provisions of this section.
+7
+1 SECTION 4. That Section 49-316, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 49-316. DRIVER'S LICENSE TO BE CARRIED AND EXHIBITED ON DEMAND. (1)
+4 Every licensee shall have his physical driver's license in his immediate
+5 possession at all times when operating a motor vehicle and shall, upon de-
+6 mand, surrender the driver's license into the hands of a peace officer for
+7 his inspection. However, no person charged with a violation of the provi-
+8 sions of this section shall be convicted if a driver's license issued to the
+9 person and valid at the time of his arrest is produced in court.
+10 (2) If a licensee has his electronic driver's license inspected by a
+11 peace officer, the licensee shall not be deemed to have consented to the
+12 peace officer viewing or accessing any other content on the licensee's wire-
+13 less communication device. A licensee displaying an electronic driver's
+14 license to a peace officer may keep the device in his possession and shall not
+15 be required to surrender the device.
+16 SECTION 5. That Section 49-322, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 49-322. AUTHORITY OF DEPARTMENT TO CANCEL AND DOWNGRADE DRIVER'S LI-
+19 CENSE OR INSTRUCTION PERMIT. (1) The department shall cancel any driver's
+20 license, restricted school attendance driving permit, or instruction permit
+21 upon determining that the licensee or permittee was not entitled to the is-
+22 suance of the driver's license or instruction permit, that the licensee or
+23 permittee failed to give the required or correct information in his applica-
+24 tion, or that the licensee or permittee committed fraud in making the appli-
+25 cation.
+26 (2) Upon a cancellation, the licensee or permittee shall surrender the
+27 canceled driver's license or canceled instruction permit to the department,
+28 and the department shall cancel the licensee's electronic driver's license,
+29 if applicable. The licensee shall not be required to surrender a device on
+30 which an electronic driver's license is held.
+31 (3) The department shall cancel a person's commercial driver's license
+32 upon determining that the class A, B or C licensee has falsified information.
+33 Upon cancellation of a class A, B or C driver's license, the licensee shall be
+34 disqualified from operating a commercial motor vehicle for a period of sixty
+35 (60) days.
+36 (4) The department shall decertify the medical status and initiate a
+37 downgrade of any driver who is required by the federal motor carrier safety
+38 administration to maintain a medical examiner's certificate and/or medical
+39 exemption letter or skill performance evaluation certificate upon determin-
+40 ing the person's medical certification has expired or has been revoked or
+41 canceled. The department shall change the person's driving status in the
+42 driver record to "not-certified," within ten (10) days and shall mail a no-
+43 tification letter regarding the pending decertification and downgrade ac-
+44 tion to the driver's last known address. The downgrade action shall occur no
+45 more than sixty (60) days from the date the not-certified status is posted to
+46 the record. Drivers can remove the not-certified medical status from their
+47 driving record by presenting a current and valid medical examiner's certifi-
+48 cate and/or medical exemption letter or skill performance evaluation cer-
+8
+1 tificate to the department or by submitting an application to the department
+2 requesting their medical status be changed to "excepted."
+3 (5) The department shall remove and, when applicable, subsequently re-
+4 instate a driver's commercial driving privileges upon receiving notifica-
+5 tion of a driver's status change in the drug and alcohol clearinghouse.
+6 (6) When a driver's license has been canceled for reasons of impair-
+7 ment, incompetence or inability of the licensed driver to operate a motor
+8 vehicle safely as provided in section 49-303 or 49-326, Idaho Code, and
+9 the licensee has voluntarily surrendered his driver's license, or when a
+10 licensed driver requests cancellation of his license for any of the same
+11 reasons stated in this subsection and he voluntarily surrenders his license,
+12 the licensee may be eligible for a no-fee identification card as provided in
+13 section 49-2444, Idaho Code.
+14 SECTION 6. That Section 49-2444, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 49-2444. IDENTIFICATION CARD ISSUED -- FOUR-YEAR OR EIGHT-YEAR. (1)
+17 The department shall issue a distinguishing identification card that sets
+18 forth the information contained in the application in a form as prescribed
+19 by the department. All identification cards issued on or after January 1,
+20 1993, shall not contain the applicant's social security number. An appli-
+21 cant's social security number shall be exempt from disclosure except for in-
+22 quiries from agencies or institutions authorized to obtain such information
+23 by federal law or regulation, from peace officers, or from jury commission-
+24 ers. Each card shall have printed on it the applicant's full name, date of
+25 birth, Idaho residence address, sex, weight, height, eye color, and hair
+26 color and shall include a distinguishing number assigned to the applicant.
+27 If an applicant has submitted an application pursuant to the provisions of
+28 chapter 58, title 19, Idaho Code, then the applicant's identification card
+29 shall contain his or her alternative Idaho mailing address in place of his or
+30 her Idaho residence address. Each card shall also have printed on it the name
+31 of this state, the date of issuance, and the date of expiration. An identi-
+32 fication card shall not be valid until it has been signed on the signature
+33 line by the applicant. Each card shall include a color photograph of the ap-
+34 plicant, which shall be taken by the examiner at the time of application.
+35 The photograph shall be taken without headgear or other clothing or device
+36 that disguises or otherwise conceals the face or head of the applicant. A
+37 waiver may be granted by the department allowing the applicant to wear head-
+38 gear or other head covering for medical, religious or safety purposes as long
+39 as the face is not disguised or otherwise concealed. At the request of the
+40 applicant, an identification card may contain a statement or indication of
+41 the medical condition of the applicant. An electronic identification card
+42 pursuant to section 49-2444A, Idaho Code, shall be designed to satisfy the
+43 requirements of this subsection and shall be deemed to comply with such re-
+44 quirements.
+45 (2) No person shall receive an identification card unless and until he
+46 surrenders to the department all identification cards in his possession is-
+47 sued to him by Idaho or any other jurisdiction, or any driver's license is-
+48 sued by any other jurisdiction within the United States, or until he executes
+9
+1 an affidavit that he does not possess an identification card or any driver's
+2 license.
+3 (3) Identification cards issued to persons under eighteen (18) years of
+4 age shall include a notation "under 18 until (month, day, year)," and iden-
+5 tification cards issued to persons eighteen (18) years of age to twenty-one
+6 (21) years of age shall include a notation "under 21 until (month, day,
+7 year)." The nonrefundable fee for a four (4) year identification card issued
+8 to persons twenty-one (21) years of age or older shall be fifteen dollars
+9 ($15.00), of which ten dollars ($10.00) shall be retained by the county
+10 and credited to the current expense fund and five dollars ($5.00) shall be
+11 deposited in the state treasury to the credit of the highway distribution
+12 account. The nonrefundable fee for identification cards issued to persons
+13 under twenty-one (21) years of age shall be ten dollars ($10.00), of which
+14 five dollars ($5.00) shall be retained by the authorized issuing agent or,
+15 if issued by the county, shall be credited to the current expense fund and
+16 five dollars ($5.00) shall be deposited in the state treasury to the credit
+17 of the highway distribution account. The nonrefundable fee for an eight (8)
+18 year identification card shall be twenty-five dollars ($25.00), of which
+19 fifteen dollars ($15.00) shall be retained by the authorized issuing agent
+20 or, if issued by the county, shall be credited to the current expense fund and
+21 ten dollars ($10.00) shall be deposited in the state treasury to the credit
+22 of the highway distribution account. At the option of the applicant, the
+23 identification card issued to a person twenty-one (21) years of age or older
+24 shall expire either on the card holder's birthday in the fourth year or the
+25 eighth year following issuance of the card, except as otherwise provided
+26 in subsection (7) of this section. Every identification card issued to a
+27 person under eighteen (18) years of age shall expire five (5) days after the
+28 person's eighteenth birthday, except as otherwise provided in subsection
+29 (7) of this section. Every identification card issued to a person eighteen
+30 (18) years of age but under twenty-one (21) years of age shall expire five (5)
+31 days after the person's twenty-first birthday, except as otherwise provided
+32 in subsection (7) of this section.
+33 (4) Individuals required to register in compliance with section 3
+34 of the federal military selective service act, 50 U.S.C. 451 et seq., as
+35 amended, shall be provided an opportunity to fulfill such registration re-
+36 quirements in conjunction with an application for an identification card.
+37 Any registration information so supplied shall be transmitted by the depart-
+38 ment to the selective service system.
+39 (5) Every identification card, except those issued to persons under
+40 twenty-one (21) years of age, shall be renewable on or before its expiration,
+41 but not more than twenty-five (25) months before, and upon application and
+42 payment of the required fee.
+43 (6) The applicant for an identification card must submit proof of iden-
+44 tity and citizenship status acceptable to the examiner or the department and
+45 date of birth as set forth in a certified copy of his birth certificate. When
+46 a certified copy of his birth certificate or a delayed birth certificate is
+47 impossible to obtain from a vital statistics agency, another government-is-
+48 sued document may be submitted that provides satisfactory evidence of a per-
+49 son's full legal name and date of birth acceptable to the examiner or the de-
+50 partment.
+10
+1 (7) Every identification card issued to a person who is a citizen of the
+2 United States shall, where possible, include the notation "USA." Every iden-
+3 tification card issued to a person who is not a citizen or permanent legal
+4 resident of the United States shall have an expiration date that is the same
+5 date as the end of lawful stay in the United States as indicated on documents
+6 issued and verified by the department of homeland security; however, the ex-
+7 piration date shall not extend beyond the expiration date for the same cate-
+8 gory of identification card issued to citizens. Persons whose department of
+9 homeland security documents do not state an expiration date shall be issued
+10 an identification card with an expiration date of one (1) year from the date
+11 of issuance.
+12 (8) When an identification card has been expired for less than twenty-
+13 five (25) months, the renewal of the identification card shall start from
+14 the original date of expiration, regardless of the year in which the applica-
+15 tion for renewal is made. If the identification card is expired for more than
+16 twenty-five (25) months, the application shall expire, at the option of the
+17 applicant, on the applicant's birthday in the fourth year or the eighth year
+18 following reissuance of the identification card, except as otherwise pro-
+19 vided in subsection (7) of this section.
+20 (9)(a) If an Idaho identification card has expired or will expire and
+21 the identification card holder is temporarily out of state, except
+22 on active military duty, the identification card holder may request
+23 in writing on a form prescribed by the department an extension of the
+24 identification card. The request shall be accompanied by the fee
+25 fixed in section 49-306, Idaho Code, and the extension shall be no more
+26 than a twelve (12) month period. If the department determines that an
+27 extension of the identification card is necessary, it may issue an iden-
+28 tification card showing the date to which the expired identification
+29 card is extended. Identification card extensions are limited to two (2)
+30 consecutive extensions per identification card holder.
+31 (b) Upon returning to the state of Idaho, the identification card
+32 holder shall, within ten (10) days, apply for a renewal of the expired
+33 identification card and surrender the extended identification card and
+34 the expired identification card.
+35 (10) An Idaho identification card issued to any person prior to serving
+36 on active duty in the armed forces of the United States, or a member of the
+37 immediate family accompanying such a person, if valid and in full force and
+38 effect upon entering active duty, shall remain in full force and effect and
+39 shall, upon application, be extended for a period of four (4) years as long
+40 as active duty continues, and the identification card shall remain in full
+41 force and effect sixty (60) days following the date the card holder is re-
+42 leased from active duty.
+43 (11) A person possessing an identification card who desires to donate
+44 any or all organs or tissue in the event of death, and who has completed a
+45 document of gift pursuant to the provisions for donation of anatomical gifts
+46 as set forth in chapter 34, title 39, Idaho Code, may, at the option of the
+47 donor, indicate this desire on the identification card by the imprinting of
+48 the word "donor" on the identification card. The provisions of this subsec-
+49 tion shall apply to persons possessing an identification card who are fif-
+50 teen (15) years of age or older but less than eighteen (18) years of age if
+11
+1 the requirements provided in chapter 34, title 39, Idaho Code, have been com-
+2 plied with.
+3 (12) A person possessing an identification card or an applicant for an
+4 identification card who is a person with a permanent disability may request
+5 that the notation "permanently disabled" be imprinted on the identification
+6 card, provided the person presents written certification from a licensed
+7 physician verifying that the person's stated impairment qualifies as a per-
+8 manent disability according to the provisions of section 49-117, Idaho Code.
+9 (13) A person who is a veteran may request that his or her status as such
+10 be designated on an identification card at no additional cost. Any such re-
+11 quest shall be accompanied by proof of being a current or former member of
+12 the United States armed forces. Upon request and submission of satisfactory
+13 proof, the department shall indicate such person's status as a veteran on any
+14 identification card issued pursuant to the provisions of this section. Such
+15 designation shall be made upon original issuance or renewal of an identifi-
+16 cation card. Designation shall also be made on any duplicate identification
+17 card issued, provided that the fee for such duplicate card is paid in accor-
+18 dance with this section.
+19 (14) Satisfactory proof of being a current or former member of the
+20 United States armed forces must be furnished by an applicant to the de-
+21 partment before a designation of veteran status will be indicated on any
+22 identification card. Acceptable proof shall be a copy of form DD214 or an
+23 equivalent document or statement from the department of veterans affairs
+24 that identifies a character of service upon separation as "honorable" or
+25 "general under honorable conditions."
+26 (15) In the case of a name change, the applicant shall provide legal doc-
+27 umentation to verify the change in accordance with department rules.
+28 (16) Whenever any person, after applying for or receiving an identifi-
+29 cation card, moves from the address shown on the application or on the iden-
+30 tification card issued, that person shall, within thirty (30) days, notify
+31 the transportation department in writing of the old and new addresses.
+32 (17) The department shall cancel any identification card upon determin-
+33 ing that the person was not entitled to the issuance of the identification
+34 card or that the person failed to give the required and correct information
+35 in his application or committed fraud in making the application. Upon can-
+36 cellation, the person shall surrender the canceled identification card to
+37 the department.
+38 (18) If any person shall fail to return to the department the identifi-
+39 cation card as required, the department may direct any peace officer to se-
+40 cure its possession and return the identification card to the department.
+41 (19) The department may issue a no-fee identification card to an indi-
+42 vidual whose driver's license has been canceled and voluntarily surrendered
+43 as provided in section 49-322(5), Idaho Code. The identification card may be
+44 renewed at no cost to the applicant as long as the driver's license remains
+45 canceled.
+46 (20) It is an infraction for any person to fail to notify the department
+47 of a change of address as required by the provisions of subsection (16) of
+48 this section.
+49 (21) The department may issue an initial four (4) year no-fee identifi-
+50 cation card to an individual who is homeless. The department shall establish
+12
+1 a form for verification of homelessness pursuant to this section. Such form
+2 shall require the signature of an outreach worker or service worker verify-
+3 ing that the individual is homeless and attesting to the individual's resi-
+4 dency at an Idaho relief agency or shelter. An applicant issued an identifi-
+5 cation card under the provisions of this subsection shall be entitled to one
+6 (1) free replacement. Subsequent replacements and renewals of this identi-
+7 fication card will be subject to the fees imposed in this section.
+8 (22) The department shall issue a four (4) year no-fee identification
+9 card to any individual eighteen (18) years of age or older who indicates on
+10 the application that an identification card is needed to comply with voter
+11 registration or voting requirements. An applicant issued an identification
+12 card under this subsection shall be entitled to one (1) free replacement.
+13 Such applicants are entitled to no-fee renewals as long as the applicant
+14 meets the requirements of this subsection at the time of renewal.
+15 SECTION 7. That Chapter 24, Title 49, Idaho Code, be, and the same is
+16 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+17 ignated as Section 49-2444A, Idaho Code, and to read as follows:
+18 49-2444A. ELECTRONIC IDENTIFICATION CARDS. (1) On or before July 1,
+19 2026, the department shall establish and maintain a process and system for
+20 an individual to obtain an electronic identification card in addition to a
+21 physical identification card.
+22 (2) An electronic identification card, as provided for in this section,
+23 shall be an electronic extension of the department-issued physical creden-
+24 tial that conveys identity information and is in compliance with the AAMVA
+25 mobile driver license implementation guidelines and the ISO/IEC 18013-5
+26 standard. It shall be capable of being displayed on a wireless communication
+27 device and shall be deemed a valid identification card for all purposes under
+28 Idaho Code.
+29 (3) The department shall ensure that the system and technology used for
+30 an electronic identification card maintains the data security and privacy of
+31 the individual.
+32 (4) A person or entity that seeks to view an individual's electronic
+33 identification card for identity or age verification purposes shall access
+34 only the identity elements necessary for the transaction or purpose prompt-
+35 ing the request through an authenticator that validates these elements
+36 against AAMVA's digital trust service.
+37 (5) The department is authorized to promulgate rules, subject to leg-
+38 islative approval, to implement the provisions of this section.
+39 SECTION 8. An emergency existing therefor, which emergency is hereby
+40 declared to exist, Sections 3 and 7 of this act shall be in full force and ef-
+41 fect on and after July 1, 2025. Sections 1, 2, 4, 5, and 6 of this act shall be
+42 in full force and effect on and after July 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.7YTNADDECNAGTOMRVEDSL;AGSN4,I,TOREAD;AGSN4,IOC,TEFRECDSL;AGCR3,T,IOC,BYTEANOFANWSN4,IOCOEHANECDSLEP;AGSN4,IOC,TOPEFRECDSLGSN4,IOC,TOPEFRTECFECDSL;AGSN4,IOCOPEFRECINC;AGCR2E4,IOC,BYTEANOFANWSN4,I,TOEHANECINCDP;AGANEYADPGEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DS--D.()""mseypnintebsofb,sgoregfe()ormenworudvworudndecv,nworudm,mnc,swmsorm,tlt,tkcnv,uytevsormrhsinayc,erotoroncls,b,l,clm,oro,orwohsanedpeofbsfrtes,t,ordyoftev.Noiec,b,fec,pcusc,ororpncgiopnofayv,asanittoisrrb,woslstveurayclrsitmyh,slbecd.Seao"ep"sn4,IoC)"ssga"(e""sn4oC)""msteIotndtagdyorthisdyadosada,etincs6ad9,te4,IoC,wetetmmsteIosep,etasoesyp)"dfym"mstes,c,g,brorsrofteorofavedpw,inttofteosd,isedtoitteopitiedpurtesetsofteosw,orwohsbnndinayorwni,orw,inteceofanidorofad,hsbnadbyactastellreoftedsp]
+[DELETED: )""mstedrofteIotnd,etincs6,9ad2,te4,IoC,wetetstedrofteIosep)""mstoeeinaypeorcttomeaeadmeknplincdinrsoftedtatapntoayorp,onore,byaymfc)""asddin49CRpt3,mswytedtofclvedgp)""msayp,f,a,cno,rtorn,wohsafefmamrostodevsintss,adwoinweorinpsordsnwvstodsorwomsd)"rb"msabhoesymdbdrfrtesepsafybhism)"rr"msayp,f,anort,adehoradeetfedasareofadrordrbhofvsfrtepeofmgorpgteseofv,orfrsgorcgdsorped)""m)Bsd.Tetycstoadigywnwnaysxhd()ftagtehytebsinuefrbsorilp,igh,bsoroeb,rdssadpcbhoyatlttehd()ftoffeonoeseoehd()ftcyonbhssofteh)Rld.Tetycstoadihyntcgabsdtwntepyontyfradeoftehd()ftormeisintemdwhr,orrsadbsinuefrb)Und.Tetycstoadigaywhisbtupwhssddtob,iyordgh.Frpsofegsdlsiewhtepsofsn4,IoC,nosyoraypntflgwntebsofanutissttotelswhoeaytonehswnanund)"dv"msavlhgavdmedsavlofteUdS)""asitpstocldslgsne)Tedrhscdhsorhrmlrtsntoiebtoseyintnorosedfmpt31ofteflmrcrsyr;o]
+[DELETED: )Tedrhscdhsorhrmlrtsntoieadoseyintnorosasldinsn6,IoC;o)Tedrnolrhsclmrvedgp,bthsrdpstodenlmrv)"gr"msteonofto()ormevsfmtsebyseatagssinaceattooeeho,orteonofoe()ormevsoracnsdc,fmtesepttotesep,frtepfcgteressorprofanoftevnacndeortel)""mseypnwodsorisinalplofav)"sl"msaleorp,iganecdsleasddinsn4,IoC,iytedtorbyayorjntoanilwhasteiltooeamrveorclmrvntehsinaewhtersofte4,IoC)"sle--Cso"aeidfrteonofebdonteseofteveorteteofldadm)CsA.Tsleslbeidadvdfrteofaycnofmrvswhamsgscnwtrg()inesoftxtd(,pdtemsgsvewtrg(ftev)bgtdisinesoftntd(.PshgavdcsAlemyaooevsrgacsB,CorDl)CsB.Tsleslbeidadvdfrteofaysevewhamsgsvewtrg()inesoftxtd()p,oraysetgaventinesoftntd()psgsvewtrg(.PshgdcsBlemyaooevsrgacsCleoracsDl)CsC.TsleslbeidadvdfrteofayseveorcnofvsttdsntmttnofcsAorcsB,asddintss,bttrisddtottsn()ormepeied,orisofaysewhdsntmttednofcorcsBadisudintetnofmsfdtobsagtotehsmltnatahrstemrvetobepdurteflhsmsrs49CRpt1,stF.PshgavdcsClemyaooevsrgacs)CsD.Tsleslbeidadvdfrteonomrvettisntaclveasddins,IoC]
+[DELETED: )"ldsl"msaslrdcsBodsletooecnclvsinfdisurrsidbyted.Asuntsd,"di"slmncmh,fmrlosads,albdlkf.Sldslsaentvdfgvscgayqsofhsmlrgp,etfrdlflinqsofoet)gsorl,ldf,i,ptnnvsorisofhywhtlcsoftd()gsorl,adsdf,i,stn,ttaentmdwhayocs)"rr"msayrdttpstoanisl,dgp,dgp,dghndsororsrcsidbyted)"slee"msslasterdtobeddonadslewhpttedrtecntsofclvsorclvshntsofc,ortooeameoraslb)"tT--Det"mstsetidonacsA,BorCletoptteletooeeadtotwmetnoe()t)"tH--Hsm"mstsetisrdonacsA,BorCleiftedrisogavdintetnofmsfdtobehsaotehsmltnatadwhrstemrvetobepdurteflhsmsrs49CRpt1,stF)"tP--P"mstsetisrdocsA,BorCletoptteletooeaveddtottsn()ormepeigted)"tN--Tkv"mstsetisrnacsA,BorCletoptteletooeatkveasddinsn4,IoC)"tM--M"mstsetisrdodsletopttedrtooeameormnc)"tS--Slb"mstsetisrdocsA,BorCletoptteletooeaslbnaewh49CRpt3,tottp,pyoyslssfmhetos,fmsltoh,ooadfmsde.Slbsdsntieabdasacnc)""msaperdggasfmapcwytogonagg)"yt"mseymrveddaduyfrdgasradsocdastocymdcoinantoaptoftewtoftes]
+[DELETED: N2.TtSn4,IoC,b,adteseishdtordasf.LSIDTOD.()Tedtslioeyqgatadgdsleasa,whslbradgnradtotel,tln,deofb,Iorea,s,w,h,e,hrc,crp,neoftss,deofieofe,lec,e,r,adteass.Ifanathssdananpotepsofcr5,te1,IoC,tnteasleslcnhsorhraeIomganpeofhsorhrIorea.Dslsfrpsuren()ysofaeslieann"r1l(,d,y"addslsfrpsen(sofaetote()ysofaeslieann"1ul(,d,y"Nodsleslbevdulithnsdonteseleoftelebytel.DsfrpswoaeUdSscss,wepetenn""Anecdslepttosn4,IoC,slbeddtosytersossnadslbeddtocywhshr)Eydsleslbracrphoftel,whslbetnbyteeratteteteani.Tephslbetnwthrororcgoettdsoroecstefeorhdoftea.Awrmybegdbytedtagteattrhrororhdcgfrm,rsorsypsaslgastefeisntddoroec.Atttoftea,adslemycnastorinoftemlcnoftel)TedtslnytecldrleinsmttacsA,BorCdslehsbnidasrdby49CRps33ad3)Aleagfrahsmletonsleslheasybdrsckadsecefmtefltnsyaeteetcnbei,rdortdasry49CRpt3,sttopsedbytefltnsya)Alewodstodeayoralosorteinttofd,adwohscdadtofgtpttotepsfrdnofalgsasstfhincr3,t,IoC,m,atteonofted,ietsdeontslebyteigoftewd""ontel.Tsoftssnslaytolsfn()ysoeororbtlstnen()ysofaeifterspdincr3,te3,IoC,hebncdwhadtristsdebepdontel]
+[DELETED: )Alewoisapnwhaptdymyrttenn"yd"beidontedsl,pdtelepswncnfmalnvgtttelssditqsastdyagtotepsofsn4,I)Alewoisavnmyrttthsorhrssahbeddontedsleatnoalc.AystslbeadbypfofbgactorfrmroeUdSsadf.Unrtadsnofs,tedtslieshpsssasavnonasofdsleidpttotss.Shdlbemeunolieorrlofadsl.Dnslaobemeonaydedslei,pdtttefefrshdedsleispdinahsn4,IoCypfofbgactorfrmrofteUsadfsmtbefdbyanattotedeadnofvnsswlbeidonaycsosl.AepfslbeacyoffmD4oranetdtorstfmtedtofvsastsacrofseunsnas""or"rhecN3.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ECDSL.()OnorbeJy1,2edtslehadmnapsadsmfraniltoonanecdsleinantoapsl)Anecdsl,aspdfrintsslbeanecenofaddplctcsiyaddgpeinadisinchteAnanofmrvea'()medrleingsadteIC15s.ItslbeceofbgddonawsceadslbeddavddslefralpsuoC)Tedtsleetttesmadtyudfnecleceorincdmstedyadpyoftei)Apnoreyttsstovwaniseslefriyoraevnpsslasoeiyesnyfrtetnorpepertthanarttvsteesasdltts)Tedtisadtoper,sttolea,toittepsoftss]
+[DELETED: N4.TtSn4,IoC,b,adteseishdtordasf.DSLETOBECDADEDOND.(yleslhehspldsleinhsinataltswnogamrveads,und,srtedsleiotehsofapeorfsi.H,nopncdwhavnoftepsoftssnslbecdifadsleidtotnadvdatteteofhsatispdinc)Ifalehshsecdsleidbyeo,teleslntbeddtohecdtoteorvgoragayorctontelswscnd.AledganecdetoapeormykptedeinhspnadslnerdtosrtedN5.TtSn4,IoC,b,adteseishdtordasf.AYOFDTTOCLADDEDSLEORINP.()Tedtslclayd,rdslaedgp,orinpndgttteleorpewsntedtoteieoftedsleorinp,ttteleoefdtogeterdorctininhsa,orttteleorpecdfdinmgtea)Unac,teleorpeslsrtddsleorcdinpttoteddtedtslcltelsecdslfa.Teleslntberdtosradeohanecdsleish)TedtslclapscldslndgtttecsA,BorClehsfdincnofacsA,BorCdsl,teleslbdfmogaclmrvefrapdofs)d)Tedtsldytemlssadieeofaydrwoisrdbyteflmrcrsntomnamlescearmnlrorslpeenceundgtepsmlcnhsedorhsbnrdo.Tedtslcetepsdgssintrrdto""wntn()dsadslmlannlrrgtepgdnaddeantotedsltkna.Tedeanslornetnsy()dsfmtedetendssispdter.Dscnretendmlssfmtgrdbypgactadvdmlescearmlenlrorslpeenc]
+[DELETED: etotedtorbysganantotedgtrmlssbecdto")Tedtslrea,wna,syreadscldgpsunrgnnofadsssceintedgadalc)Wnadslehsbncdfrrsofi,ieoriyoftelddrtooeamesyaspdinsn43or4,IoC,aelehsvysdhsdsl,orwnddrrscnofhslefrayoftesssdintssnadhevysshslelemybeeefraneincdaspdin4,IoCN6.TtSn4,IoC,b,adteseishdtordasf.INCDID--FRORE.(edtslieadgincdttshteincdinteaninafmaspyted.AlincsidonorarJy1,slntcnteasslsyn.Anasslsynrslbeetfmdeetfrisfmasorisadtoonshiyfllworr,fmpeo,orfmjyc.Ehcdslhepdonitteasfln,deo,Iorea,s,w,h,eec,adhradslieadgnradtoteafanathssdananpttotepsor5,te1,IoC,tnteasinclcnhsorhraeIomgasinpeofhsorIorea.Ehcdslaohepdonittenftss,tedeofi,adtedeofe.Anincdslntbevdulithsbnsdontesebytea.Ehcdslieacrphoftea,whslbetnbyteeratteteofaephslbetnwthrororcgordtdsoroecstefeorhdoftea.rmybegdbytedtagteattowrhrororhdcgfrm,rsorsypsaslstefeisntddoroec.Attertoft,anincdmycnastorinoemlcnoftea.Anecincttosn4,IoC,slbeddtosytsoftssnadslbeddtocywhshr)NopnslreanincdusadulhstotedtalincsinhspnidtohmbyIoorayorj,oraydsleidbyayorjnwnteUdS,orulhee]
+[DELETED: nattthedsntpsanincdorayd)Incsidtopsuren()ysoeslieann"r18ul(,d,y"adincsidtopsen()ysofaetot)ysofaeslieann"r21ul(,d"Tenefefrafr()yrincdiopste()ysofaeororslbefnd,ofwhtnds()slberdbytecdcdtotecteefdadfeds()slbdintesetytotectoftehyd.Tenefefrincsidtoprte()ysofaeslbetnds(,ofweds()slberdbyteadigatofidbytec,slbecdtotecteefdaeds()slbeddintesetytotecftehydna.Tenefefranet(rincdslbeteds(,ofwnds()slberdbyteadiga,ifidbytec,slbecdtotecteefdands()slbeddintesetytotecftehydna.Atteonoftea,tncdidtoapnte()ysofaeoroleeerontecdhsbyintefhyrorthyrfgieoftec,etasoepnsn()oftss.Eyincdidtonuren()ysofaesleefe()dsartsehb,etasoepdins)oftss.Eyincdidtoapne)ysofaebturte()ysofaesleefe(sartepsttb,etasoepnsn()oftss)Isrdtorrincewhsnfteflmysesea,50U.41ets,a,slbepdanoytoflshrnrsincnwhananfranincyrninsosdslbetdbytedttoteseses)Eyinc,etteidtopsue()ysofa,slbereonorbeisetntmetnte()msb,adunanatofterdf)Teatfranincdmtstpfofiyadcpssaetoteerortedtaeofbhasstfhinacdcyofhsbhc.Wcdcyofhsbhceoraddbhceietoonfmavlssa,argddtmybesdttpssyeeofapsflllneaddeofbhaetoteerorted]
+[DELETED: )EyincdidtoapnwoisacnoftdSss,wep,ietenn""EyincdidtoapnwoisntacnorptltofteUdSsslheanendettisteseasteedofllsyinteUdSsasidonddadvdbytedtofhds;h,teendeslntedbdteendefrtesecyofincdidtoc.Pswedtodsydsdontseanendeslbeinincdwhanendeofoe()yrfmtedfi)Wnanincdhsbnedfrlstnte()m,terlofteincdslstfeoldeofe,rsofteyrinwhteanfrrlism.Ifteincdisedfrmete()m,teansle,atteonoft,onteasbyintefhyrorteehygreofteinc,etasoepdinsn()oftss)IfanIoincdhsedorwleeaeincdhristyotofs,enaemyd,teincdhrmyrnwgonafmpdbytedtanenoftnc.Tertslbeadbytefdinsn4,IoC,adteenslbenomnate()mhp.Iftedtdsttanofteincdisn,itmyieanincdsgtedetowhteedidise.Incdesaeldtoto(eesprincdh)UnrgtoteseofI,teincrs,wntn()d,ayfrarlofteencdadsrteedincdaeedinc)AnIoincdidtoaypnprtosnaedyinteadfsofteUdS,oramroftefyagshap,ifvdadinflfeatunegaed,slrninflfeadeta,una,beedfrapdoffr()ysaslsaedyc,adteincdslrninfeadetsy()dsfgtedetecdhrisrdfmaed)Apnpganincdwodstodyoralosorteinteetofd,adwohscdtofgtpttotepsfrdnofalgsstfhincr3,te3,IoC,m,atteonoft,ietsdeonteincdbyteigoewd""onteinc.Tepsoftssnslaytopspganincdwoaefn()ysofaeororbtlstnen()ysofaei]
+[DELETED: erspdincr3,te3,IoC,hebncdw)Apnpganincdoranatfrancdwoisapnwhaptdymyrttenn"yd"beidontei,pdtepnpswncnfmalnvgtttepssditqsasaptdyagtotepsofsn4,IoC)Apnwoisavnmyrttthsorhrssasseddonanincdatnoalc.AyshrtslbeadbypfofbgactorfrmroeUdSsadf.Unrtadsnofs,tedtslieshpsssasavnonancdidpttotepsoftss.Snslbemeunolieorrlofaninc.Dnslaobemeonaydeidi,pdtttefefrshdecdispdinaewhtss)SypfofbgactorfrmroftdSsadfsmtbefdbyanattotedtbeadnofvnsswlbeidonanc.AepfslbeacyoffmD4oratdtorstfmtedtofvsatisacrofseunsnas""olurhec)Inteceofanec,teatslpelldntovyteceinaewhdtr)Wrayp,aragfrorrganinc,msfmteassnonteanoronteincdi,ttpns,wnty()d,netndtinwgofteodadnwa)Tedtslclayincdundgtttepnwsntedtoteieofteidortttepnfdtogeterdadctinhsanorcdfdinmgtea.Unc,tepnslsrtecdincdted)Ifaypnslfltorntotedtteincdasr,tedtmydtaypeortoseispnadrnteincdtoted)Tedtmyieaneincdtoanilwedslehsbncdadvysspdinsn4,IoC.Teincdmybdatnocttoteataslgastedsler)Itisaninfraypntofltonytedfaceofasasrdbytepsofsn()oss)Tedtmyieanilfr()yrneincdtoanilwoish.Tedtsle]
+[DELETED: fmfrvnofhspttotss.ShflreteseofanohwrorsewrvgttteilishsadagtoteisryatanIorfayors.Anatidanincdurtepsoftssnslbeedtoo)fer.Strsadrsoftsincdwlbesttotefsidintss)Tedtslieafr()yrneidtoayilen()ysofaeororwoisoeanttanincdisndtocywhvnorvgr.Anatidanidurtssnslbeedtooe()ferhasaeedtonersaslgasteastersoftssnatteteofrN7.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ECINC.()OnorbeJy1,tedtslehadmnapsadsmfniltoonanecincdinantolinc)Anecinc,aspdfrintsslbeanecenofteddplclttcsiyinadisincewhteAedrleingsadteIC1.ItslbeceofbgddonawsceadslbeddavdincdfralpsuoC)Tedtsleetttesmadtyudfnecincdmstedasyadpyoei)ApnoreyttsstovwanisencdfriyoraevnpsslayteiyesnyfrtetnorpepgtertthanarttvsteetAsdltts)Tedtisadtoper,sttolea,toittepsoftssN8.Aneyegt,wheyishdtoe,Ss3ad7oftsatslbeinflfeadetonadarJy1,2.Ss1,2,4,5,ad6oftsatslbnflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 78
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLE DRIVER'S LICENSES; AMENDING SECTION 49-105, IDAHO
+3 CODE, TO REVISE A DEFINITION; AMENDING SECTION 49-315, IDAHO CODE, TO
+4 PROVIDE FOR ELECTRONIC DRIVER'S LICENSES; AMENDING CHAPTER 3, TITLE
+5 49, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 49-315A, IDAHO CODE,
+6 TO ESTABLISH AN ELECTRONIC DRIVER'S LICENSE PROGRAM; AMENDING SEC-
+7 TION 49-316, IDAHO CODE, TO PROVIDE FOR ELECTRONIC DRIVER'S LICENSES;
+8 AMENDING SECTION 49-322, IDAHO CODE, TO PROVIDE FOR THE CANCELLATION
+9 OF ELECTRONIC DRIVER'S LICENSES; AMENDING SECTION 49-2444, IDAHO CODE,
+10 TO PROVIDE FOR ELECTRONIC IDENTIFICATION CARDS; AMENDING CHAPTER 24,
+11 TITLE 49, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 49-2444A, IDAHO
+12 CODE, TO ESTABLISH AN ELECTRONIC IDENTIFICATION CARD PROGRAM; AND
+13 DECLARING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 49-105, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 49-105. DEFINITIONS -- D. (1) "Dealer" means every person in the busi-
+18 ness of buying, selling or exchanging five (5) or more new or used vehicles,
+19 new or used neighborhood electric vehicles, new or used motorcycles, motor-
+20 driven cycles, snow machines or motorbikes, travel trailers, truck campers,
+21 all-terrain vehicles, utility type vehicles or motor homes in any calendar
+22 year, either outright or on conditional sale, bailment, lease, chattel mort-
+23 gage, or otherwise, or who has an established place of business for the sale,
+24 lease, trade, or display of these vehicles. No insurance company, bank, fi-
+25 nance company, public utilities company, or other person coming into posses-
+26 sion of any vehicle, as an incident to its regular business, who shall sell
+27 that vehicle under any contractual rights it may have, shall be considered a
+28 dealer. See also "salvage pool," section 49-120, Idaho Code.
+29 (2) "Dealer's selling agreement." (See "Franchise," section 49-107,
+30 Idaho Code)
+31 (3) "Department" means the Idaho transportation department acting di-
+32 rectly or through its duly authorized officers and agents, except in chap-
+33 ters 6 and 9, title 49, Idaho Code, where the term means the Idaho state po-
+34 lice, except as otherwise specifically provided.
+35 (4) "Designated family member" means the spouse, child, grandchild,
+36 parent, brother or sister of the owner of a vehicle dealership who, in the
+37 event of the owner's death, is entitled to inherit the ownership interest in
+38 the dealership under the same terms of the owner's will, or who has been nom-
+39 inated in any other written instrument, or who, in the case of an incapaci-
+40 tated owner of a dealership, has been appointed by a court as the legal repre-
+41 sentative of the dealer's property.
+
+2
+1 (5) "Director" means the director of the Idaho transportation depart-
+2 ment, except in chapters 6, 9 and 22, title 49, Idaho Code, where the term
+3 means the director of the Idaho state police.
+4 (6) "Disclose" means to engage in any practice or conduct to make avail-
+5 able and make known personal information contained in records of the depart-
+6 ment about a person to any other person, organization or entity, by any means
+7 of communication.
+8 (7) "Disqualification" as defined in 49 CFR part 383, means withdrawal
+9 by the department of commercial vehicle driving privileges.
+10 (8) "Distributor" means any person, firm, association, corporation or
+11 trust, resident or nonresident, who has a franchise from a manufacturer of
+12 vehicles to distribute vehicles in this state, and who in whole or in part
+13 sells or distributes new vehicles to dealers or who maintains distributor
+14 representatives.
+15 (9) "Distributor branch" means a branch office similarly maintained by
+16 a distributor for the same purposes a factory branch is maintained.
+17 (10) "Distributor representative" means any person, firm, association,
+18 corporation or trust, and each officer and employee thereof engaged as a rep-
+19 resentative of a distributor or distributor branch of vehicles for the pur-
+20 pose of making or promoting the sale of vehicles, or for supervising or con-
+21 tacting dealers or prospective dealers.
+22 (11) "District" means:
+23 (a) Business district. The territory contiguous to and including a
+24 highway when within any six hundred (600) feet along the highway there
+25 are buildings in use for business or industrial purposes, including ho-
+26 tels, banks or office buildings, railroad stations and public buildings
+27 which occupy at least three hundred (300) feet of frontage on one side or
+28 three hundred (300) feet collectively on both sides of the highway.
+29 (b) Residential district. The territory contiguous to and including
+30 a highway not comprising a business district when the property on the
+31 highway for a distance of three hundred (300) feet or more is in the main
+32 improved with residences, or residences and buildings in use for busi-
+33 ness.
+34 (c) Urban district. The territory contiguous to and including any
+35 highway which is built up with structures devoted to business, indus-
+36 try or dwelling houses. For purposes of establishing speed limits in
+37 accordance with the provisions of section 49-654, Idaho Code, no state
+38 highway or any portion thereof lying within the boundaries of an urban
+39 district is subject to the limitations which otherwise apply to non-
+40 state highways within an urban district.
+41 (12) "Documented vessel" means a vessel having a valid marine document
+42 as a vessel of the United States.
+43 (13) "Downgrade" as it pertains to commercial drivers licensing shall
+44 mean either:
+45 (a) The driver has changed his or her medical requirement self-certifi-
+46 cation to interstate but operates exclusively in transportation or op-
+47 erations excepted from part 391 of the federal motor carrier safety reg-
+48 ulations; or
+
+3
+1 (b) The driver has changed his or her medical requirement self-certifi-
+2 cation to intrastate and operates exclusively in transportation or op-
+3 erations as listed in section 67-2901B(2), Idaho Code; or
+4 (c) The driver no longer has commercial motor vehicle driving privi-
+5 leges, but has retained privileges to drive noncommercial motor vehi-
+6 cles.
+7 (14) "Drag race" means the operation of two (2) or more vehicles from a
+8 point side by side at accelerating speeds in a competitive attempt to out-
+9 distance each other, or the operation of one (1) or more vehicles over a com-
+10 mon selected course, from the same point to the same point, for the purpose
+11 of comparing the relative speeds or power of acceleration of the vehicles
+12 within a certain distance or time limit.
+13 (15) "Driver" means every person who drives or is in actual physical
+14 control of a vehicle.
+15 (16) "Driver's license" means a license or permit, including an elec-
+16 tronic driver's license as described in section 49-315A, Idaho Code, issued
+17 by the department or by any other jurisdiction to an individual which autho-
+18 rizes the individual to operate a motor vehicle or commercial motor vehicle
+19 on the highways in accordance with the requirements of title 49, Idaho Code.
+20 (17) "Driver's license -- Classes of" are issued for the operation of a
+21 vehicle based on the size of the vehicle or the type of load and mean:
+22 (a) Class A. This license shall be issued and valid for the operation
+23 of any combination of motor vehicles with a manufacturer's gross combi-
+24 nation weight rating (GCWR) in excess of twenty-six thousand (26,000)
+25 pounds, provided the manufacturer's gross vehicle weight rating (GVWR)
+26 of the vehicle(s) being towed is in excess of ten thousand (10,000)
+27 pounds. Persons holding a valid class A license may also operate vehi-
+28 cles requiring a class B, C or D license.
+29 (b) Class B. This license shall be issued and valid for the operation
+30 of any single vehicle with a manufacturer's gross vehicle weight rat-
+31 ing (GVWR) in excess of twenty-six thousand (26,000) pounds, or any such
+32 vehicle towing a vehicle not in excess of ten thousand (10,000) pounds
+33 manufacturer's gross vehicle weight rating (GVWR). Persons holding a
+34 valid class B license may also operate vehicles requiring a class C li-
+35 cense or a class D license.
+36 (c) Class C. This license shall be issued and valid for the operation
+37 of any single vehicle or combination of vehicles that does not meet the
+38 definition of class A or class B, as defined in this section, but that
+39 either is designed to transport sixteen (16) or more people including
+40 the driver, or is of any size which does not meet the definition of class
+41 A or class B and is used in the transportation of materials found to be
+42 hazardous according to the hazardous material transportation act and
+43 which requires the motor vehicle to be placarded under the federal haz-
+44 ardous materials regulations 49 CFR part 172, subpart F. Persons hold-
+45 ing a valid class C license may also operate vehicles requiring a class D
+46 license.
+47 (d) Class D. This license shall be issued and valid for the operation of
+48 a motor vehicle that is not a commercial vehicle as defined in section
+49 49-123, Idaho Code.
+
+4
+1 (e) "Seasonal driver's license" means a special restricted class B or
+2 C driver's license to operate certain commercial vehicles in farm-re-
+3 lated industries under restrictions imposed by the department. As used
+4 in this definition, "farm-related industry" shall mean custom har-
+5 vesters, farm retail outlets and suppliers, agri-chemical businesses
+6 and livestock feeders. Seasonal driver's licenses are not valid for
+7 driving vehicles carrying any quantities of hazardous material requir-
+8 ing placarding, except for diesel fuel in quantities of one thousand
+9 (1,000) gallons or less, liquid fertilizers, i.e., plant nutrients,
+10 in vehicles or implements of husbandry with total capacities of three
+11 thousand (3,000) gallons or less, and solid fertilizers, i.e., solid
+12 plant nutrients, that are not mixed with any organic substance.
+13 (18) "Driver record" means any record that pertains to an individual's
+14 driver's license, driving permit, driving privileges, driving history,
+15 identification documents or other similar credentials issued by the depart-
+16 ment.
+17 (19) "Driver's license endorsements" means special authorizations that
+18 are required to be displayed on a driver's license which permit the driver to
+19 operate certain types of commercial vehicles or commercial vehicles hauling
+20 certain types of cargo, or to operate a motorcycle or a school bus.
+21 (a) "Endorsement T -- Double/Triple trailer" means this endorsement is
+22 required on a class A, B or C license to permit the licensee to operate a
+23 vehicle authorized to tow more than one (1) trailer.
+24 (b) "Endorsement H -- Hazardous material" means this endorsement is re-
+25 quired on a class A, B or C license if the driver is operating a vehicle
+26 used in the transportation of materials found to be hazardous according
+27 to the hazardous material transportation act and which requires the mo-
+28 tor vehicle to be placarded under the federal hazardous materials regu-
+29 lations 49 CFR part 172, subpart F.
+30 (c) "Endorsement P -- Passenger" means this endorsement is required on
+31 a class A, B or C license to permit the licensee to operate a vehicle de-
+32 signed to transport sixteen (16) or more people including the driver.
+33 (d) "Endorsement N -- Tank vehicle" means this endorsement is required
+34 on a class A, B or C license to permit the licensee to operate a tank ve-
+35 hicle as defined in section 49-123, Idaho Code.
+36 (e) "Endorsement M -- Motorcycle" means this endorsement is required on
+37 a driver's license to permit the driver to operate a motorcycle or mo-
+38 tor-driven cycle.
+39 (f) "Endorsement S -- School bus" means this endorsement is required on
+40 a class A, B or C license to permit the licensee to operate a school bus
+41 in accordance with 49 CFR part 383, to transport preprimary, primary or
+42 secondary school students from home to school, from school to home, or
+43 to and from school-sponsored events. School bus does not include a bus
+44 used as a common carrier.
+45 (20) "Driveway" means a private road giving access from a public way to a
+46 building on abutting grounds.
+47 (21) "Dromedary tractor" means every motor vehicle designed and used
+48 primarily for drawing a semitrailer and so constructed as to carry mani-
+49 fested cargo in addition to a part of the weight of the semitrailer.
+
+5
+1 SECTION 2. That Section 49-315, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 49-315. LICENSES ISSUED TO DRIVERS. (1) The department shall issue
+4 to every qualifying applicant a distinguishing driver's license as applied
+5 for, which shall bear a distinguishing number assigned to the licensee, the
+6 full name, date of birth, Idaho residence address, sex, weight, height, eye
+7 color, hair color, color photograph, name of this state, date of issuance,
+8 date of expiration, license class, endorsements, restrictions, and the ap-
+9 plicant's signature. If an applicant has submitted an application pursuant
+10 to the provisions of chapter 58, title 19, Idaho Code, then the applicant's
+11 driver's license shall contain his or her alternative Idaho mailing address
+12 in place of his or her Idaho residence address. Driver's licenses for per-
+13 sons under eighteen (18) years of age shall include a notation "under 18
+14 until (month, day, year)," and driver's licenses for persons eighteen (18)
+15 years of age to twenty-one (21) years of age shall include a notation "under
+16 21 until (month, day, year)." No driver's license shall be valid until it has
+17 been signed on the signature line of the license by the licensee. Driver's
+18 licenses for persons who are United States citizens shall, where possible,
+19 include the notation "USA." An electronic driver's license pursuant to sec-
+20 tion 49-315A, Idaho Code, shall be designed to satisfy the requirements of
+21 this subsection and shall be deemed to comply with such requirements.
+22 (2) Every driver's license shall bear a color photograph of the li-
+23 censee, which shall be taken by the examiner at the time the application is
+24 made. The photograph shall be taken without headgear or other clothing or
+25 device that disguises or otherwise conceals the face or head of the appli-
+26 cant. A waiver may be granted by the department allowing the applicant to
+27 wear headgear or other head covering for medical, religious or safety pur-
+28 poses as long as the face is not disguised or otherwise concealed. At the
+29 request of the applicant, a driver's license may contain a statement or indi-
+30 cation of the medical condition of the licensee.
+31 (3) The department shall notify the commercial driver license infor-
+32 mation system that a class A, B or C driver's license has been issued as re-
+33 quired by 49 CFR parts 383 and 384.
+34 (4) A licensee applying for a hazardous material endorsement on a
+35 driver's license shall have a security background records check and shall
+36 receive clearance from the federal transportation security administration
+37 before the endorsement can be issued, renewed or transferred as required
+38 by 49 CFR part 383, subject to procedures established by the federal trans-
+39 portation security administration.
+40 (5) A licensee who desires to donate any or all organs or tissue in the
+41 event of death, and who has completed a document of gift pursuant to the pro-
+42 visions for donation of anatomical gifts as set forth in chapter 34, title
+43 39, Idaho Code, may, at the option of the donor, indicate this desire on the
+44 driver's license by the imprinting of the word "donor" on the license. The
+45 provisions of this subsection shall apply to licensees fifteen (15) years of
+46 age or older but less than eighteen (18) years of age if the requirements pro-
+47 vided in chapter 34, title 39, Idaho Code, have been complied with and the
+48 donor indicates this desire be placed on the license.
+
+6
+1 (6) A licensee who is a person with a permanent disability may request
+2 that the notation "permanently disabled" be imprinted on the driver's li-
+3 cense, provided the licensee presents written certification from a licensed
+4 physician verifying that the licensee's stated impairment qualifies as a
+5 permanent disability according to the provisions of section 49-117, Idaho
+6 Code.
+7 (7) A licensee who is a veteran may request that his or her status as
+8 such be designated on the driver's license at no additional cost. Any such
+9 request shall be accompanied by proof of being a current or former member of
+10 the United States armed forces. Upon request and submission of satisfactory
+11 proof, the department shall indicate such person's status as a veteran on any
+12 class of driver's license issued pursuant to this section. Such designation
+13 shall be made upon original issuance or renewal of a driver's license. Des-
+14 ignation shall also be made on any duplicate driver's license issued, pro-
+15 vided that the fee for such duplicate driver's license is paid in accordance
+16 with section 49-306, Idaho Code.
+17 Satisfactory proof of being a current or former member of the United
+18 States armed forces must be furnished by an applicant to the department
+19 before a designation of veteran status will be indicated on any class of
+20 driver's license. Acceptable proof shall be a copy of form DD214 or an equiv-
+21 alent document or statement from the department of veterans affairs that
+22 identifies a character of service upon separation as "honorable" or "general
+23 under honorable conditions."
+24 SECTION 3. That Chapter 3, Title 49, Idaho Code, be, and the same is
+25 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+26 ignated as Section 49-315A, Idaho Code, and to read as follows:
+27 49-315A. ELECTRONIC DRIVER'S LICENSES. (1) On or before July 1, 2026,
+28 the department shall establish and maintain a process and system for an in-
+29 dividual to obtain an electronic driver's license in addition to a physical
+30 driver's license.
+31 (2) An electronic driver's license, as provided for in this section,
+32 shall be an electronic extension of a department-issued physical credential
+33 that conveys identity and driving privilege information and is in compliance
+34 with the American association of motor vehicle administrators' (AAMVA) mo-
+35 bile driver license implementation guidelines and the ISO/IEC 18013-5 stan-
+36 dard. It shall be capable of being displayed on a wireless communication
+37 device and shall be deemed a valid driver's license for all purposes under
+38 Idaho Code.
+39 (3) The department shall ensure that the system and technology used for
+40 an electronic license certificate or identification card maintains the data
+41 security and privacy of the individual.
+42 (4) A person or entity that seeks to view an individual's electronic
+43 driver's license for identity or age verification purposes shall access only
+44 the identity elements necessary for the transaction or purpose prompting
+45 the request through an authenticator that validates these elements against
+46 AAMVA's digital trust service.
+47 (5) The department is authorized to promulgate rules, subject to leg-
+48 islative approval, to implement the provisions of this section.
+
+7
+1 SECTION 4. That Section 49-316, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 49-316. DRIVER'S LICENSE TO BE CARRIED AND EXHIBITED ON DEMAND. (1)
+4 Every licensee shall have his physical driver's license in his immediate
+5 possession at all times when operating a motor vehicle and shall, upon de-
+6 mand, surrender the driver's license into the hands of a peace officer for
+7 his inspection. However, no person charged with a violation of the provi-
+8 sions of this section shall be convicted if a driver's license issued to the
+9 person and valid at the time of his arrest is produced in court.
+10 (2) If a licensee has his electronic driver's license inspected by a
+11 peace officer, the licensee shall not be deemed to have consented to the
+12 peace officer viewing or accessing any other content on the licensee's wire-
+13 less communication device. A licensee displaying an electronic driver's
+14 license to a peace officer may keep the device in his possession and shall not
+15 be required to surrender the device.
+16 SECTION 5. That Section 49-322, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 49-322. AUTHORITY OF DEPARTMENT TO CANCEL AND DOWNGRADE DRIVER'S LI-
+19 CENSE OR INSTRUCTION PERMIT. (1) The department shall cancel any driver's
+20 license, restricted school attendance driving permit, or instruction permit
+21 upon determining that the licensee or permittee was not entitled to the is-
+22 suance of the driver's license or instruction permit, that the licensee or
+23 permittee failed to give the required or correct information in his applica-
+24 tion, or that the licensee or permittee committed fraud in making the appli-
+25 cation.
+26 (2) Upon a cancellation, the licensee or permittee shall surrender the
+27 canceled driver's license or canceled instruction permit to the department,
+28 and the department shall cancel the licensee's electronic driver's license,
+29 if applicable. The licensee shall not be required to surrender a device on
+30 which an electronic driver's license is held.
+31 (3) The department shall cancel a person's commercial driver's license
+32 upon determining that the class A, B or C licensee has falsified information.
+33 Upon cancellation of a class A, B or C driver's license, the licensee shall be
+34 disqualified from operating a commercial motor vehicle for a period of sixty
+35 (60) days.
+36 (4) The department shall decertify the medical status and initiate a
+37 downgrade of any driver who is required by the federal motor carrier safety
+38 administration to maintain a medical examiner's certificate and/or medical
+39 exemption letter or skill performance evaluation certificate upon determin-
+40 ing the person's medical certification has expired or has been revoked or
+41 canceled. The department shall change the person's driving status in the
+42 driver record to "not-certified," within ten (10) days and shall mail a no-
+43 tification letter regarding the pending decertification and downgrade ac-
+44 tion to the driver's last known address. The downgrade action shall occur no
+45 more than sixty (60) days from the date the not-certified status is posted to
+46 the record. Drivers can remove the not-certified medical status from their
+47 driving record by presenting a current and valid medical examiner's certifi-
+48 cate and/or medical exemption letter or skill performance evaluation cer-
+
+8
+1 tificate to the department or by submitting an application to the department
+2 requesting their medical status be changed to "excepted."
+3 (5) The department shall remove and, when applicable, subsequently re-
+4 instate a driver's commercial driving privileges upon receiving notifica-
+5 tion of a driver's status change in the drug and alcohol clearinghouse.
+6 (6) When a driver's license has been canceled for reasons of impair-
+7 ment, incompetence or inability of the licensed driver to operate a motor
+8 vehicle safely as provided in section 49-303 or 49-326, Idaho Code, and
+9 the licensee has voluntarily surrendered his driver's license, or when a
+10 licensed driver requests cancellation of his license for any of the same
+11 reasons stated in this subsection and he voluntarily surrenders his license,
+12 the licensee may be eligible for a no-fee identification card as provided in
+13 section 49-2444, Idaho Code.
+14 SECTION 6. That Section 49-2444, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 49-2444. IDENTIFICATION CARD ISSUED -- FOUR-YEAR OR EIGHT-YEAR. (1)
+17 The department shall issue a distinguishing identification card that sets
+18 forth the information contained in the application in a form as prescribed
+19 by the department. All identification cards issued on or after January 1,
+20 1993, shall not contain the applicant's social security number. An appli-
+21 cant's social security number shall be exempt from disclosure except for in-
+22 quiries from agencies or institutions authorized to obtain such information
+23 by federal law or regulation, from peace officers, or from jury commission-
+24 ers. Each card shall have printed on it the applicant's full name, date of
+25 birth, Idaho residence address, sex, weight, height, eye color, and hair
+26 color and shall include a distinguishing number assigned to the applicant.
+27 If an applicant has submitted an application pursuant to the provisions of
+28 chapter 58, title 19, Idaho Code, then the applicant's identification card
+29 shall contain his or her alternative Idaho mailing address in place of his or
+30 her Idaho residence address. Each card shall also have printed on it the name
+31 of this state, the date of issuance, and the date of expiration. An identi-
+32 fication card shall not be valid until it has been signed on the signature
+33 line by the applicant. Each card shall include a color photograph of the ap-
+34 plicant, which shall be taken by the examiner at the time of application.
+35 The photograph shall be taken without headgear or other clothing or device
+36 that disguises or otherwise conceals the face or head of the applicant. A
+37 waiver may be granted by the department allowing the applicant to wear head-
+38 gear or other head covering for medical, religious or safety purposes as long
+39 as the face is not disguised or otherwise concealed. At the request of the
+40 applicant, an identification card may contain a statement or indication of
+41 the medical condition of the applicant. An electronic identification card
+42 pursuant to section 49-2444A, Idaho Code, shall be designed to satisfy the
+43 requirements of this subsection and shall be deemed to comply with such re-
+44 quirements.
+45 (2) No person shall receive an identification card unless and until he
+46 surrenders to the department all identification cards in his possession is-
+47 sued to him by Idaho or any other jurisdiction, or any driver's license is-
+48 sued by any other jurisdiction within the United States, or until he executes
+
+9
+1 an affidavit that he does not possess an identification card or any driver's
+2 license.
+3 (3) Identification cards issued to persons under eighteen (18) years of
+4 age shall include a notation "under 18 until (month, day, year)," and iden-
+5 tification cards issued to persons eighteen (18) years of age to twenty-one
+6 (21) years of age shall include a notation "under 21 until (month, day,
+7 year)." The nonrefundable fee for a four (4) year identification card issued
+8 to persons twenty-one (21) years of age or older shall be fifteen dollars
+9 ($15.00), of which ten dollars ($10.00) shall be retained by the county
+10 and credited to the current expense fund and five dollars ($5.00) shall be
+11 deposited in the state treasury to the credit of the highway distribution
+12 account. The nonrefundable fee for identification cards issued to persons
+13 under twenty-one (21) years of age shall be ten dollars ($10.00), of which
+14 five dollars ($5.00) shall be retained by the authorized issuing agent or,
+15 if issued by the county, shall be credited to the current expense fund and
+16 five dollars ($5.00) shall be deposited in the state treasury to the credit
+17 of the highway distribution account. The nonrefundable fee for an eight (8)
+18 year identification card shall be twenty-five dollars ($25.00), of which
+19 fifteen dollars ($15.00) shall be retained by the authorized issuing agent
+20 or, if issued by the county, shall be credited to the current expense fund and
+21 ten dollars ($10.00) shall be deposited in the state treasury to the credit
+22 of the highway distribution account. At the option of the applicant, the
+23 identification card issued to a person twenty-one (21) years of age or older
+24 shall expire either on the card holder's birthday in the fourth year or the
+25 eighth year following issuance of the card, except as otherwise provided
+26 in subsection (7) of this section. Every identification card issued to a
+27 person under eighteen (18) years of age shall expire five (5) days after the
+28 person's eighteenth birthday, except as otherwise provided in subsection
+29 (7) of this section. Every identification card issued to a person eighteen
+30 (18) years of age but under twenty-one (21) years of age shall expire five (5)
+31 days after the person's twenty-first birthday, except as otherwise provided
+32 in subsection (7) of this section.
+33 (4) Individuals required to register in compliance with section 3
+34 of the federal military selective service act, 50 U.S.C. 451 et seq., as
+35 amended, shall be provided an opportunity to fulfill such registration re-
+36 quirements in conjunction with an application for an identification card.
+37 Any registration information so supplied shall be transmitted by the depart-
+38 ment to the selective service system.
+39 (5) Every identification card, except those issued to persons under
+40 twenty-one (21) years of age, shall be renewable on or before its expiration,
+41 but not more than twenty-five (25) months before, and upon application and
+42 payment of the required fee.
+43 (6) The applicant for an identification card must submit proof of iden-
+44 tity and citizenship status acceptable to the examiner or the department and
+45 date of birth as set forth in a certified copy of his birth certificate. When
+46 a certified copy of his birth certificate or a delayed birth certificate is
+47 impossible to obtain from a vital statistics agency, another government-is-
+48 sued document may be submitted that provides satisfactory evidence of a per-
+49 son's full legal name and date of birth acceptable to the examiner or the de-
+50 partment.
+
+10
+1 (7) Every identification card issued to a person who is a citizen of the
+2 United States shall, where possible, include the notation "USA." Every iden-
+3 tification card issued to a person who is not a citizen or permanent legal
+4 resident of the United States shall have an expiration date that is the same
+5 date as the end of lawful stay in the United States as indicated on documents
+6 issued and verified by the department of homeland security; however, the ex-
+7 piration date shall not extend beyond the expiration date for the same cate-
+8 gory of identification card issued to citizens. Persons whose department of
+9 homeland security documents do not state an expiration date shall be issued
+10 an identification card with an expiration date of one (1) year from the date
+11 of issuance.
+12 (8) When an identification card has been expired for less than twenty-
+13 five (25) months, the renewal of the identification card shall start from
+14 the original date of expiration, regardless of the year in which the applica-
+15 tion for renewal is made. If the identification card is expired for more than
+16 twenty-five (25) months, the application shall expire, at the option of the
+17 applicant, on the applicant's birthday in the fourth year or the eighth year
+18 following reissuance of the identification card, except as otherwise pro-
+19 vided in subsection (7) of this section.
+20 (9)(a) If an Idaho identification card has expired or will expire and
+21 the identification card holder is temporarily out of state, except
+22 on active military duty, the identification card holder may request
+23 in writing on a form prescribed by the department an extension of the
+24 identification card. The request shall be accompanied by the fee
+25 fixed in section 49-306, Idaho Code, and the extension shall be no more
+26 than a twelve (12) month period. If the department determines that an
+27 extension of the identification card is necessary, it may issue an iden-
+28 tification card showing the date to which the expired identification
+29 card is extended. Identification card extensions are limited to two (2)
+30 consecutive extensions per identification card holder.
+31 (b) Upon returning to the state of Idaho, the identification card
+32 holder shall, within ten (10) days, apply for a renewal of the expired
+33 identification card and surrender the extended identification card and
+34 the expired identification card.
+35 (10) An Idaho identification card issued to any person prior to serving
+36 on active duty in the armed forces of the United States, or a member of the
+37 immediate family accompanying such a person, if valid and in full force and
+38 effect upon entering active duty, shall remain in full force and effect and
+39 shall, upon application, be extended for a period of four (4) years as long
+40 as active duty continues, and the identification card shall remain in full
+41 force and effect sixty (60) days following the date the card holder is re-
+42 leased from active duty.
+43 (11) A person possessing an identification card who desires to donate
+44 any or all organs or tissue in the event of death, and who has completed a
+45 document of gift pursuant to the provisions for donation of anatomical gifts
+46 as set forth in chapter 34, title 39, Idaho Code, may, at the option of the
+47 donor, indicate this desire on the identification card by the imprinting of
+48 the word "donor" on the identification card. The provisions of this subsec-
+49 tion shall apply to persons possessing an identification card who are fif-
+50 teen (15) years of age or older but less than eighteen (18) years of age if
+
+11
+1 the requirements provided in chapter 34, title 39, Idaho Code, have been com-
+2 plied with.
+3 (12) A person possessing an identification card or an applicant for an
+4 identification card who is a person with a permanent disability may request
+5 that the notation "permanently disabled" be imprinted on the identification
+6 card, provided the person presents written certification from a licensed
+7 physician verifying that the person's stated impairment qualifies as a per-
+8 manent disability according to the provisions of section 49-117, Idaho Code.
+9 (13) A person who is a veteran may request that his or her status as such
+10 be designated on an identification card at no additional cost. Any such re-
+11 quest shall be accompanied by proof of being a current or former member of
+12 the United States armed forces. Upon request and submission of satisfactory
+13 proof, the department shall indicate such person's status as a veteran on any
+14 identification card issued pursuant to the provisions of this section. Such
+15 designation shall be made upon original issuance or renewal of an identifi-
+16 cation card. Designation shall also be made on any duplicate identification
+17 card issued, provided that the fee for such duplicate card is paid in accor-
+18 dance with this section.
+19 (14) Satisfactory proof of being a current or former member of the
+20 United States armed forces must be furnished by an applicant to the de-
+21 partment before a designation of veteran status will be indicated on any
+22 identification card. Acceptable proof shall be a copy of form DD214 or an
+23 equivalent document or statement from the department of veterans affairs
+24 that identifies a character of service upon separation as "honorable" or
+25 "general under honorable conditions."
+26 (15) In the case of a name change, the applicant shall provide legal doc-
+27 umentation to verify the change in accordance with department rules.
+28 (16) Whenever any person, after applying for or receiving an identifi-
+29 cation card, moves from the address shown on the application or on the iden-
+30 tification card issued, that person shall, within thirty (30) days, notify
+31 the transportation department in writing of the old and new addresses.
+32 (17) The department shall cancel any identification card upon determin-
+33 ing that the person was not entitled to the issuance of the identification
+34 card or that the person failed to give the required and correct information
+35 in his application or committed fraud in making the application. Upon can-
+36 cellation, the person shall surrender the canceled identification card to
+37 the department.
+38 (18) If any person shall fail to return to the department the identifi-
+39 cation card as required, the department may direct any peace officer to se-
+40 cure its possession and return the identification card to the department.
+41 (19) The department may issue a no-fee identification card to an indi-
+42 vidual whose driver's license has been canceled and voluntarily surrendered
+43 as provided in section 49-322(5), Idaho Code. The identification card may be
+44 renewed at no cost to the applicant as long as the driver's license remains
+45 canceled.
+46 (20) It is an infraction for any person to fail to notify the department
+47 of a change of address as required by the provisions of subsection (16) of
+48 this section.
+49 (21) The department may issue an initial four (4) year no-fee identifi-
+50 cation card to an individual who is homeless. The department shall establish
+
+12
+1 a form for verification of homelessness pursuant to this section. Such form
+2 shall require the signature of an outreach worker or service worker verify-
+3 ing that the individual is homeless and attesting to the individual's resi-
+4 dency at an Idaho relief agency or shelter. An applicant issued an identifi-
+5 cation card under the provisions of this subsection shall be entitled to one
+6 (1) free replacement. Subsequent replacements and renewals of this identi-
+7 fication card will be subject to the fees imposed in this section.
+8 (22) The department shall issue a four (4) year no-fee identification
+9 card to any individual eighteen (18) years of age or older who indicates on
+10 the application that an identification card is needed to comply with voter
+11 registration or voting requirements. An applicant issued an identification
+12 card under this subsection shall be entitled to one (1) free replacement.
+13 Such applicants are entitled to no-fee renewals as long as the applicant
+14 meets the requirements of this subsection at the time of renewal.
+15 SECTION 7. That Chapter 24, Title 49, Idaho Code, be, and the same is
+16 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+17 ignated as Section 49-2444A, Idaho Code, and to read as follows:
+18 49-2444A. ELECTRONIC IDENTIFICATION CARDS. (1) On or before July 1,
+19 2026, the department shall establish and maintain a process and system for
+20 an individual to obtain an electronic identification card in addition to a
+21 physical identification card.
+22 (2) An electronic identification card, as provided for in this section,
+23 shall be an electronic extension of the department-issued physical creden-
+24 tial that conveys identity information and is in compliance with the AAMVA
+25 mobile driver license implementation guidelines and the ISO/IEC 18013-5
+26 standard. It shall be capable of being displayed on a wireless communication
+27 device and shall be deemed a valid identification card for all purposes under
+28 Idaho Code.
+29 (3) The department shall ensure that the system and technology used for
+30 an electronic identification card maintains the data security and privacy of
+31 the individual.
+32 (4) A person or entity that seeks to view an individual's electronic
+33 identification card for identity or age verification purposes shall access
+34 only the identity elements necessary for the transaction or purpose prompt-
+35 ing the request through an authenticator that validates these elements
+36 against AAMVA's digital trust service.
+37 (5) The department is authorized to promulgate rules, subject to leg-
+38 islative approval, to implement the provisions of this section.
+39 SECTION 8. An emergency existing therefor, which emergency is hereby
+40 declared to exist, Sections 3 and 7 of this act shall be in full force and ef-
+41 fect on and after July 1, 2025. Sections 1, 2, 4, 5, and 6 of this act shall be
+42 in full force and effect on and after July 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.7YTNADDECNAGTOMRVEDSL;AGSN4,I,TOREAD;AGSN4,IOC,TEFRECDSL;AGCR3,T,IOC,BYTEANOFANWSN4,IOCOEHANECDSLEP;AGSN4,IOC,TOPEFRECDSLGSN4,IOC,TOPEFRTECFECDSL;AGSN4,IOCOPEFRECINC;AGCR2E4,IOC,BYTEANOFANWSN4,I,TOEHANECINCDP;AGANEYADPGEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DS--D.()""mseypnintebsofb,sgoregfe()ormenworudvworudndecv,nworudm,mnc,swmsorm,tlt,tkcnv,uytevsormrhsinayc,erotoroncls,b,l,clm,oro,orwohsanedpeofbsfrtes,t,ordyoftev.Noiec,b,fec,pcusc,ororpncgiopnofayv,asanittoisrrb,woslstveurayclrsitmyh,slbecd.Seao"ep"sn4,IoC)"ssga"(e""sn4oC)""msteIotndtagdyorthisdyadosada,etincs6ad9,te4,IoC,wetetmmsteIosep,etasoesyp)"dfym"mstes,c,g,brorsrofteorofavedpw,inttofteosd,isedtoitteopitiedpurtesetsofteosw,orwohsbnndinayorwni,orw,inteceofanidorofad,hsbnadbyactastellreoftedsp]
+[DELETED: )""mstedrofteIotnd,etincs6,9ad2,te4,IoC,wetetstedrofteIosep)""mstoeeinaypeorcttomeaeadmeknplincdinrsoftedtatapntoayorp,onore,byaymfc)""asddin49CRpt3,mswytedtofclvedgp)""msayp,f,a,cno,rtorn,wohsafefmamrostodevsintss,adwoinweorinpsordsnwvstodsorwomsd)"rb"msabhoesymdbdrfrtesepsafybhism)"rr"msayp,f,anort,adehoradeetfedasareofadrordrbhofvsfrtepeofmgorpgteseofv,orfrsgorcgdsorped)""m)Bsd.Tetycstoadigywnwnaysxhd()ftagtehytebsinuefrbsorilp,igh,bsoroeb,rdssadpcbhoyatlttehd()ftoffeonoeseoehd()ftcyonbhssofteh)Rld.Tetycstoadihyntcgabsdtwntepyontyfradeoftehd()ftormeisintemdwhr,orrsadbsinuefrb)Und.Tetycstoadigaywhisbtupwhssddtob,iyordgh.Frpsofegsdlsiewhtepsofsn4,IoC,nosyoraypntflgwntebsofanutissttotelswhoeaytonehswnanund)"dv"msavlhgavdmedsavlofteUdS)""asitpstocldslgsne)Tedrhscdhsorhrmlrtsntoiebtoseyintnorosedfmpt31ofteflmrcrsyr;o]
+[DELETED: )Tedrhscdhsorhrmlrtsntoieadoseyintnorosasldinsn6,IoC;o)Tedrnolrhsclmrvedgp,bthsrdpstodenlmrv)"gr"msteonofto()ormevsfmtsebyseatagssinaceattooeeho,orteonofoe()ormevsoracnsdc,fmtesepttotesep,frtepfcgteressorprofanoftevnacndeortel)""mseypnwodsorisinalplofav)"sl"msaleorp,iganecdsleasddinsn4,IoC,iytedtorbyayorjntoanilwhasteiltooeamrveorclmrvntehsinaewhtersofte4,IoC)"sle--Cso"aeidfrteonofebdonteseofteveorteteofldadm)CsA.Tsleslbeidadvdfrteofaycnofmrvswhamsgscnwtrg()inesoftxtd(,pdtemsgsvewtrg(ftev)bgtdisinesoftntd(.PshgavdcsAlemyaooevsrgacsB,CorDl)CsB.Tsleslbeidadvdfrteofaysevewhamsgsvewtrg()inesoftxtd()p,oraysetgaventinesoftntd()psgsvewtrg(.PshgdcsBlemyaooevsrgacsCleoracsDl)CsC.TsleslbeidadvdfrteofayseveorcnofvsttdsntmttnofcsAorcsB,asddintss,bttrisddtottsn()ormepeied,orisofaysewhdsntmttednofcorcsBadisudintetnofmsfdtobsagtotehsmltnatahrstemrvetobepdurteflhsmsrs49CRpt1,stF.PshgavdcsClemyaooevsrgacs)CsD.Tsleslbeidadvdfrteonomrvettisntaclveasddins,IoC]
+[DELETED: )"ldsl"msaslrdcsBodsletooecnclvsinfdisurrsidbyted.Asuntsd,"di"slmncmh,fmrlosads,albdlkf.Sldslsaentvdfgvscgayqsofhsmlrgp,etfrdlflinqsofoet)gsorl,ldf,i,ptnnvsorisofhywhtlcsoftd()gsorl,adsdf,i,stn,ttaentmdwhayocs)"rr"msayrdttpstoanisl,dgp,dgp,dghndsororsrcsidbyted)"slee"msslasterdtobeddonadslewhpttedrtecntsofclvsorclvshntsofc,ortooeameoraslb)"tT--Det"mstsetidonacsA,BorCletoptteletooeeadtotwmetnoe()t)"tH--Hsm"mstsetisrdonacsA,BorCleiftedrisogavdintetnofmsfdtobehsaotehsmltnatadwhrstemrvetobepdurteflhsmsrs49CRpt1,stF)"tP--P"mstsetisrdocsA,BorCletoptteletooeaveddtottsn()ormepeigted)"tN--Tkv"mstsetisrnacsA,BorCletoptteletooeatkveasddinsn4,IoC)"tM--M"mstsetisrdodsletopttedrtooeameormnc)"tS--Slb"mstsetisrdocsA,BorCletoptteletooeaslbnaewh49CRpt3,tottp,pyoyslssfmhetos,fmsltoh,ooadfmsde.Slbsdsntieabdasacnc)""msaperdggasfmapcwytogonagg)"yt"mseymrveddaduyfrdgasradsocdastocymdcoinantoaptoftewtoftes]
+[DELETED: N2.TtSn4,IoC,b,adteseishdtordasf.LSIDTOD.()Tedtslioeyqgatadgdsleasa,whslbradgnradtotel,tln,deofb,Iorea,s,w,h,e,hrc,crp,neoftss,deofieofe,lec,e,r,adteass.Ifanathssdananpotepsofcr5,te1,IoC,tnteasleslcnhsorhraeIomganpeofhsorhrIorea.Dslsfrpsuren()ysofaeslieann"r1l(,d,y"addslsfrpsen(sofaetote()ysofaeslieann"1ul(,d,y"Nodsleslbevdulithnsdonteseleoftelebytel.DsfrpswoaeUdSscss,wepetenn""Anecdslepttosn4,IoC,slbeddtosytersossnadslbeddtocywhshr)Eydsleslbracrphoftel,whslbetnbyteeratteteteani.Tephslbetnwthrororcgoettdsoroecstefeorhdoftea.Awrmybegdbytedtagteattrhrororhdcgfrm,rsorsypsaslgastefeisntddoroec.Atttoftea,adslemycnastorinoftemlcnoftel)TedtslnytecldrleinsmttacsA,BorCdslehsbnidasrdby49CRps33ad3)Aleagfrahsmletonsleslheasybdrsckadsecefmtefltnsyaeteetcnbei,rdortdasry49CRpt3,sttopsedbytefltnsya)Alewodstodeayoralosorteinttofd,adwohscdadtofgtpttotepsfrdnofalgsasstfhincr3,t,IoC,m,atteonofted,ietsdeontslebyteigoftewd""ontel.Tsoftssnslaytolsfn()ysoeororbtlstnen()ysofaeifterspdincr3,te3,IoC,hebncdwhadtristsdebepdontel]
+[DELETED: )Alewoisapnwhaptdymyrttenn"yd"beidontedsl,pdtelepswncnfmalnvgtttelssditqsastdyagtotepsofsn4,I)Alewoisavnmyrttthsorhrssahbeddontedsleatnoalc.AystslbeadbypfofbgactorfrmroeUdSsadf.Unrtadsnofs,tedtslieshpsssasavnonasofdsleidpttotss.Shdlbemeunolieorrlofadsl.Dnslaobemeonaydedslei,pdtttefefrshdedsleispdinahsn4,IoCypfofbgactorfrmrofteUsadfsmtbefdbyanattotedeadnofvnsswlbeidonaycsosl.AepfslbeacyoffmD4oranetdtorstfmtedtofvsastsacrofseunsnas""or"rhecN3.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ECDSL.()OnorbeJy1,2edtslehadmnapsadsmfraniltoonanecdsleinantoapsl)Anecdsl,aspdfrintsslbeanecenofaddplctcsiyaddgpeinadisinchteAnanofmrvea'()medrleingsadteIC15s.ItslbeceofbgddonawsceadslbeddavddslefralpsuoC)Tedtsleetttesmadtyudfnecleceorincdmstedyadpyoftei)Apnoreyttsstovwaniseslefriyoraevnpsslasoeiyesnyfrtetnorpepertthanarttvsteesasdltts)Tedtisadtoper,sttolea,toittepsoftss]
+[DELETED: N4.TtSn4,IoC,b,adteseishdtordasf.DSLETOBECDADEDOND.(yleslhehspldsleinhsinataltswnogamrveads,und,srtedsleiotehsofapeorfsi.H,nopncdwhavnoftepsoftssnslbecdifadsleidtotnadvdatteteofhsatispdinc)Ifalehshsecdsleidbyeo,teleslntbeddtohecdtoteorvgoragayorctontelswscnd.AledganecdetoapeormykptedeinhspnadslnerdtosrtedN5.TtSn4,IoC,b,adteseishdtordasf.AYOFDTTOCLADDEDSLEORINP.()Tedtslclayd,rdslaedgp,orinpndgttteleorpewsntedtoteieoftedsleorinp,ttteleoefdtogeterdorctininhsa,orttteleorpecdfdinmgtea)Unac,teleorpeslsrtddsleorcdinpttoteddtedtslcltelsecdslfa.Teleslntberdtosradeohanecdsleish)TedtslclapscldslndgtttecsA,BorClehsfdincnofacsA,BorCdsl,teleslbdfmogaclmrvefrapdofs)d)Tedtsldytemlssadieeofaydrwoisrdbyteflmrcrsntomnamlescearmnlrorslpeenceundgtepsmlcnhsedorhsbnrdo.Tedtslcetepsdgssintrrdto""wntn()dsadslmlannlrrgtepgdnaddeantotedsltkna.Tedeanslornetnsy()dsfmtedetendssispdter.Dscnretendmlssfmtgrdbypgactadvdmlescearmlenlrorslpeenc]
+[DELETED: etotedtorbysganantotedgtrmlssbecdto")Tedtslrea,wna,syreadscldgpsunrgnnofadsssceintedgadalc)Wnadslehsbncdfrrsofi,ieoriyoftelddrtooeamesyaspdinsn43or4,IoC,aelehsvysdhsdsl,orwnddrrscnofhslefrayoftesssdintssnadhevysshslelemybeeefraneincdaspdin4,IoCN6.TtSn4,IoC,b,adteseishdtordasf.INCDID--FRORE.(edtslieadgincdttshteincdinteaninafmaspyted.AlincsidonorarJy1,slntcnteasslsyn.Anasslsynrslbeetfmdeetfrisfmasorisadtoonshiyfllworr,fmpeo,orfmjyc.Ehcdslhepdonitteasfln,deo,Iorea,s,w,h,eec,adhradslieadgnradtoteafanathssdananpttotepsor5,te1,IoC,tnteasinclcnhsorhraeIomgasinpeofhsorIorea.Ehcdslaohepdonittenftss,tedeofi,adtedeofe.Anincdslntbevdulithsbnsdontesebytea.Ehcdslieacrphoftea,whslbetnbyteeratteteofaephslbetnwthrororcgordtdsoroecstefeorhdoftea.rmybegdbytedtagteattowrhrororhdcgfrm,rsorsypsaslstefeisntddoroec.Attertoft,anincdmycnastorinoemlcnoftea.Anecincttosn4,IoC,slbeddtosytsoftssnadslbeddtocywhshr)NopnslreanincdusadulhstotedtalincsinhspnidtohmbyIoorayorj,oraydsleidbyayorjnwnteUdS,orulhee]
+[DELETED: nattthedsntpsanincdorayd)Incsidtopsuren()ysoeslieann"r18ul(,d,y"adincsidtopsen()ysofaetot)ysofaeslieann"r21ul(,d"Tenefefrafr()yrincdiopste()ysofaeororslbefnd,ofwhtnds()slberdbytecdcdtotecteefdadfeds()slbdintesetytotectoftehyd.Tenefefrincsidtoprte()ysofaeslbetnds(,ofweds()slberdbyteadigatofidbytec,slbecdtotecteefdaeds()slbeddintesetytotecftehydna.Tenefefranet(rincdslbeteds(,ofwnds()slberdbyteadiga,ifidbytec,slbecdtotecteefdands()slbeddintesetytotecftehydna.Atteonoftea,tncdidtoapnte()ysofaeoroleeerontecdhsbyintefhyrorthyrfgieoftec,etasoepnsn()oftss.Eyincdidtonuren()ysofaesleefe()dsartsehb,etasoepdins)oftss.Eyincdidtoapne)ysofaebturte()ysofaesleefe(sartepsttb,etasoepnsn()oftss)Isrdtorrincewhsnfteflmysesea,50U.41ets,a,slbepdanoytoflshrnrsincnwhananfranincyrninsosdslbetdbytedttoteseses)Eyinc,etteidtopsue()ysofa,slbereonorbeisetntmetnte()msb,adunanatofterdf)Teatfranincdmtstpfofiyadcpssaetoteerortedtaeofbhasstfhinacdcyofhsbhc.Wcdcyofhsbhceoraddbhceietoonfmavlssa,argddtmybesdttpssyeeofapsflllneaddeofbhaetoteerorted]
+[DELETED: )EyincdidtoapnwoisacnoftdSss,wep,ietenn""EyincdidtoapnwoisntacnorptltofteUdSsslheanendettisteseasteedofllsyinteUdSsasidonddadvdbytedtofhds;h,teendeslntedbdteendefrtesecyofincdidtoc.Pswedtodsydsdontseanendeslbeinincdwhanendeofoe()yrfmtedfi)Wnanincdhsbnedfrlstnte()m,terlofteincdslstfeoldeofe,rsofteyrinwhteanfrrlism.Ifteincdisedfrmete()m,teansle,atteonoft,onteasbyintefhyrorteehygreofteinc,etasoepdinsn()oftss)IfanIoincdhsedorwleeaeincdhristyotofs,enaemyd,teincdhrmyrnwgonafmpdbytedtanenoftnc.Tertslbeadbytefdinsn4,IoC,adteenslbenomnate()mhp.Iftedtdsttanofteincdisn,itmyieanincdsgtedetowhteedidise.Incdesaeldtoto(eesprincdh)UnrgtoteseofI,teincrs,wntn()d,ayfrarlofteencdadsrteedincdaeedinc)AnIoincdidtoaypnprtosnaedyinteadfsofteUdS,oramroftefyagshap,ifvdadinflfeatunegaed,slrninflfeadeta,una,beedfrapdoffr()ysaslsaedyc,adteincdslrninfeadetsy()dsfgtedetecdhrisrdfmaed)Apnpganincdwodstodyoralosorteinteetofd,adwohscdtofgtpttotepsfrdnofalgsstfhincr3,te3,IoC,m,atteonoft,ietsdeonteincdbyteigoewd""onteinc.Tepsoftssnslaytopspganincdwoaefn()ysofaeororbtlstnen()ysofaei]
+[DELETED: erspdincr3,te3,IoC,hebncdw)Apnpganincdoranatfrancdwoisapnwhaptdymyrttenn"yd"beidontei,pdtepnpswncnfmalnvgtttepssditqsasaptdyagtotepsofsn4,IoC)Apnwoisavnmyrttthsorhrssasseddonanincdatnoalc.AyshrtslbeadbypfofbgactorfrmroeUdSsadf.Unrtadsnofs,tedtslieshpsssasavnonancdidpttotepsoftss.Snslbemeunolieorrlofaninc.Dnslaobemeonaydeidi,pdtttefefrshdecdispdinaewhtss)SypfofbgactorfrmroftdSsadfsmtbefdbyanattotedtbeadnofvnsswlbeidonanc.AepfslbeacyoffmD4oratdtorstfmtedtofvsatisacrofseunsnas""olurhec)Inteceofanec,teatslpelldntovyteceinaewhdtr)Wrayp,aragfrorrganinc,msfmteassnonteanoronteincdi,ttpns,wnty()d,netndtinwgofteodadnwa)Tedtslclayincdundgtttepnwsntedtoteieofteidortttepnfdtogeterdadctinhsanorcdfdinmgtea.Unc,tepnslsrtecdincdted)Ifaypnslfltorntotedtteincdasr,tedtmydtaypeortoseispnadrnteincdtoted)Tedtmyieaneincdtoanilwedslehsbncdadvysspdinsn4,IoC.Teincdmybdatnocttoteataslgastedsler)Itisaninfraypntofltonytedfaceofasasrdbytepsofsn()oss)Tedtmyieanilfr()yrneincdtoanilwoish.Tedtsle]
+[DELETED: fmfrvnofhspttotss.ShflreteseofanohwrorsewrvgttteilishsadagtoteisryatanIorfayors.Anatidanincdurtepsoftssnslbeedtoo)fer.Strsadrsoftsincdwlbesttotefsidintss)Tedtslieafr()yrneidtoayilen()ysofaeororwoisoeanttanincdisndtocywhvnorvgr.Anatidanidurtssnslbeedtooe()ferhasaeedtonersaslgasteastersoftssnatteteofrN7.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ECINC.()OnorbeJy1,tedtslehadmnapsadsmfniltoonanecincdinantolinc)Anecinc,aspdfrintsslbeanecenofteddplclttcsiyinadisincewhteAedrleingsadteIC1.ItslbeceofbgddonawsceadslbeddavdincdfralpsuoC)Tedtsleetttesmadtyudfnecincdmstedasyadpyoei)ApnoreyttsstovwanisencdfriyoraevnpsslayteiyesnyfrtetnorpepgtertthanarttvsteetAsdltts)Tedtisadtoper,sttolea,toittepsoftssN8.Aneyegt,wheyishdtoe,Ss3ad7oftsatslbeinflfeadetonadarJy1,2.Ss1,2,4,5,ad6oftsatslbnflfeadetonadarJy1,2]

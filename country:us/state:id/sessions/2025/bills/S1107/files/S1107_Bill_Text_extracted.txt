@@ -1,0 +1,912 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1107
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO APPROPRIATIONS TO PUBLIC SAFETY FOR FISCAL YEAR 2026; APPRO-
+3 PRIATING MONEYS TO THE DEPARTMENT OF CORRECTION, THE DEPARTMENT OF
+4 JUVENILE CORRECTIONS, AND THE IDAHO STATE POLICE FOR FISCAL YEAR 2026;
+5 LIMITING THE NUMBER OF AUTHORIZED FULL-TIME EQUIVALENT POSITIONS; EX-
+6 EMPTING THE APPROPRIATION FROM SPECIFIC PROGRAM TRANSFER LIMITATIONS;
+7 PROVIDING FOR ACCOUNTABILITY REPORTS; PROVIDING FOR CONDITIONS, LIMI-
+8 TATIONS, AND RESTRICTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+9 EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. There is hereby appropriated to Public Safety the follow-
+12 ing amounts to be expended according to the designated programs and expense
+13 classes from the listed funds for the period July 1, 2025, through June 30,
+14 2026:
+15 FOR
+16 FOR FOR FOR TRUSTEE AND
+17 PERSONNEL OPERATING CAPITAL BENEFIT
+18 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+19 (1) DEPARTMENT OF CORRECTION:
+20 I. MANAGEMENT SERVICES:
+21 FROM:
+22 General
+23 Fund $12,592,100 $13,523,800 $26,115,900
+24 Inmate Labor
+25 Fund 383,700 10,000 393,700
+26 Parolee Supervision
+27 Fund 339,100 132,300 471,400
+28 Miscellaneous Revenue
+29 Fund 1,327,000 167,400 1,494,400
+30 TOTAL $14,641,900 $13,833,500 $28,475,400
+31 II. STATE PRISONS:
+32 A. PRISONS ADMINISTRATION:
+33 FROM:
+34 General
+35 Fund $5,602,800 $929,900 $6,532,700
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 289,500 161,400 450,900
+7 Penitentiary Endowment Income
+8 Fund $160,000 160,000
+9 Federal Grant
+10 Fund 771,700 770,300 0 1,542,000
+11 TOTAL $6,664,000 $1,861,600 $160,000 $8,685,600
+12 B. IDAHO STATE CORRECTIONAL INSTITUTION - BOISE:
+13 FROM:
+14 General
+15 Fund $31,868,300 $4,046,900 $35,915,200
+16 Inmate Labor
+17 Fund 53,000 53,000
+18 Miscellaneous Revenue
+19 Fund 884,700 224,000 1,108,700
+20 Penitentiary Endowment Income
+21 Fund 0 1,189,400 1,189,400
+22 TOTAL $32,753,000 $5,513,300 $38,266,300
+23 C. IDAHO STATE CORRECTIONAL CENTER - BOISE:
+24 FROM:
+25 General
+26 Fund $30,733,400 $6,323,900 $37,057,300
+27 Inmate Labor
+28 Fund 10,500 10,500
+29 Miscellaneous Revenue
+30 Fund 0 462,300 462,300
+31 TOTAL $30,733,400 $6,796,700 $37,530,100
+32 D. IDAHO CORRECTIONAL INSTITUTION - OROFINO:
+33 FROM:
+34 General
+35 Fund $11,708,000 $1,866,800 $13,574,800
+36 Inmate Labor
+37 Fund 1,267,300 534,500 1,801,800
+3
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 95,200 67,200 162,400
+7 Penitentiary Endowment Income
+8 Fund 0 55,800 55,800
+9 TOTAL $13,070,500 $2,524,300 $15,594,800
+10 E. IDAHO MAXIMUM SECURITY INSTITUTION - BOISE:
+11 FROM:
+12 General
+13 Fund $15,535,400 $1,883,500 $17,418,900
+14 Inmate Labor
+15 Fund 53,200 53,200
+16 Miscellaneous Revenue
+17 Fund 71,100 71,100
+18 Penitentiary Endowment Income
+19 Fund 0 22,000 22,000
+20 TOTAL $15,535,400 $2,029,800 $17,565,200
+21 F. NORTH IDAHO CORRECTIONAL INSTITUTION - COTTONWOOD:
+22 FROM:
+23 General
+24 Fund $7,139,600 $1,160,000 $8,299,600
+25 Inmate Labor
+26 Fund 46,300 46,300
+27 Miscellaneous Revenue
+28 Fund 72,200 114,200 186,400
+29 Penitentiary Endowment Income
+30 Fund 0 14,800 14,800
+31 TOTAL $7,211,800 $1,335,300 $8,547,100
+32 G. SOUTH IDAHO CORRECTIONAL INSTITUTION - BOISE:
+33 FROM:
+34 General
+35 Fund $12,323,900 $2,441,800 $14,765,700
+36 Inmate Labor
+37 Fund 4,306,000 980,400 5,286,400
+4
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 191,800 109,400 301,200
+7 Penitentiary Endowment Income
+8 Fund 0 24,500 24,500
+9 TOTAL $16,821,700 $3,556,100 $20,377,800
+10 H. ST. ANTHONY WORK CAMP:
+11 FROM:
+12 General
+13 Fund $6,000,400 $869,500 $6,869,900
+14 Inmate Labor
+15 Fund 1,940,900 898,200 2,839,100
+16 Miscellaneous Revenue
+17 Fund 27,000 27,000
+18 Penitentiary Endowment Income
+19 Fund 0 1,900 1,900
+20 TOTAL $7,941,300 $1,796,600 $9,737,900
+21 I. POCATELLO WOMEN'S CORRECTIONAL CENTER:
+22 FROM:
+23 General
+24 Fund $8,233,300 $1,076,900 $9,310,200
+25 Inmate Labor
+26 Fund 618,600 84,400 703,000
+27 Miscellaneous Revenue
+28 Fund 333,500 120,400 453,900
+29 Penitentiary Endowment Income
+30 Fund 0 31,100 31,100
+31 TOTAL $9,185,400 $1,312,800 $10,498,200
+32 J. SOUTH BOISE WOMEN'S CORRECTIONAL CENTER:
+33 FROM:
+34 General
+35 Fund $5,561,900 $665,500 $6,227,400
+36 Inmate Labor
+37 Fund 200 200
+5
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 42,800 42,800
+7 Penitentiary Endowment Income
+8 Fund 0 8,800 8,800
+9 TOTAL $5,561,900 $717,300 $6,279,200
+10 K. MOUNTAIN VIEW TRANSFORMATION CENTER:
+11 FROM:
+12 General
+13 Fund $7,306,800 $1,961,400 $9,268,200
+14 Miscellaneous Revenue
+15 Fund 0 300,000 300,000
+16 TOTAL $7,306,800 $2,261,400 $9,568,200
+17 DIVISIONTOTAL $152,785,200 $29,705,200 $160,000 $182,650,400
+18 III. COUNTY & OUT-OF-STATE PLACEMENT:
+19 FROM:
+20 General
+21 Fund $31,856,500 $31,856,500
+22 IV. COMMUNITY CORRECTIONS:
+23 A. COMMUNITY SUPERVISION:
+24 FROM:
+25 General
+26 Fund $29,982,700 $10,156,600 $1,000,000 $41,139,300
+27 Inmate Labor
+28 Fund 115,600 115,600
+29 Parolee Supervision
+30 Fund 7,316,400 1,812,200 9,128,600
+31 Drug and Mental Health Court Supervision
+32 Fund 381,100 27,200 408,300
+33 Miscellaneous Revenue
+34 Fund 439,100 439,100
+6
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Federal Grant
+6 Fund 93,600 595,300 400,000 1,088,900
+7 TOTAL $38,212,900 $12,706,900 $1,400,000 $52,319,800
+8 B. COMMUNITY REENTRY CENTERS:
+9 FROM:
+10 General
+11 Fund $6,727,700 $47,700 $6,775,400
+12 State-Directed Opioid Settlement
+13 Fund 167,400 423,600 591,000
+14 Inmate Labor
+15 Fund 3,897,900 2,842,500 6,740,400
+16 TOTAL $10,793,000 $3,313,800 $14,106,800
+17 DIVISIONTOTAL $49,005,900 $16,020,700 $1,400,000 $66,426,600
+18 V. COMMUNITY-BASED SUBSTANCE USE DISORDER TREATMENT:
+19 FROM:
+20 General
+21 Fund $1,915,000 $46,100 $1,846,500 $3,807,600
+22 VI. MEDICAL SERVICES:
+23 FROM:
+24 General
+25 Fund $63,629,000 $63,629,000
+26 Miscellaneous Revenue
+27 Fund 135,000 135,000
+28 TOTAL $63,764,000 $63,764,000
+29 DEPARTMENT
+30 TOTAL $218,348,000 $155,226,000 $160,000 $3,246,500 $376,980,500
+31 (2) DEPARTMENT OF JUVENILE CORRECTIONS:
+32 A. ADMINISTRATION:
+33 FROM:
+34 General
+35 Fund $3,705,700 $854,400 $60,000 $4,620,100
+7
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 0 16,400 0 16,400
+7 TOTAL $3,705,700 $870,800 $60,000 $4,636,500
+8 B. COMMUNITY, OPERATIONS, AND PROGRAM SERVICES:
+9 FROM:
+10 General
+11 Fund $1,894,700 $326,100 $7,651,000 $9,871,800
+12 Juvenile Corrections
+13 Fund 110,000 110,000
+14 Juvenile Corrections - Cigarette/Tobacco Tax
+15 Fund 4,375,000 4,375,000
+16 Miscellaneous Revenue
+17 Fund 327,000 327,000
+18 Federal Grant
+19 Fund 0 199,600 521,000 720,600
+20 TOTAL $1,894,700 $635,700 $12,874,000 $15,404,400
+21 C. INSTITUTIONS:
+22 FROM:
+23 General
+24 Fund $31,810,700 $2,610,100 $2,553,500 $36,974,300
+25 Miscellaneous Revenue
+26 Fund 238,600 460,000 698,600
+27 State Juvenile Corrections Center Endowment Income
+28 Fund 1,073,800 1,073,800
+29 Federal Grant
+30 Fund 231,800 768,400 475,400 1,475,600
+31 TOTAL $32,042,500 $4,690,900 $3,488,900 $40,222,300
+32 DIVISIONTOTAL $37,642,900 $6,197,400 $16,422,900 $60,263,200
+33 (3) IDAHO STATE POLICE:
+34 I. BRAND INSPECTION:
+35 FROM:
+8
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 State Brand Board
+6 Fund $3,535,000 $510,600 $4,045,600
+7 II. DIVISION OF IDAHO STATE POLICE:
+8 A. DIRECTOR'S OFFICE:
+9 FROM:
+10 General
+11 Fund $2,520,400 $212,100 $2,732,500
+12 Idaho Law Enforcement (Project Choice)
+13 Fund 160,700 2,500 163,200
+14 Miscellaneous Revenue
+15 Fund 79,600 79,600
+16 Federal Grant
+17 Fund 83,900 18,100 102,000
+18 TOTAL $2,765,000 $312,300 $3,077,300
+19 B. CAPITOL PROTECTIVE SERVICES:
+20 FROM:
+21 General
+22 Fund $2,082,600 $116,000 $2,198,600
+23 Idaho Law Enforcement
+24 Fund 213,500 213,500
+25 Idaho Law Enforcement (Project Choice)
+26 Fund 269,000 6,400 275,400
+27 Miscellaneous Revenue
+28 Fund 131,100 7,200 138,300
+29 TOTAL $2,482,700 $343,100 $2,825,800
+30 C. INVESTIGATIONS:
+31 FROM:
+32 General
+33 Fund $9,367,000 $949,300 $10,316,300
+34 Idaho Law Enforcement (Project Choice)
+35 Fund 1,240,200 29,100 1,269,300
+36 Drug & DWUI Enforcement Donation
+37 Fund 211,700 497,600 709,300
+9
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Federal Grant
+6 Fund 346,700 658,300 $210,000 1,215,000
+7 TOTAL $11,165,600 $2,134,300 $210,000 $13,509,900
+8 D. PATROL:
+9 FROM:
+10 General
+11 Fund $28,380,900 $4,378,300 $503,900 $33,263,100
+12 Idaho Law Enforcement
+13 Fund 4,943,200 788,100 5,731,300
+14 Idaho Law Enforcement (Project Choice)
+15 Fund 3,934,100 115,000 4,049,100
+16 Hazardous Materials/Waste Enforcement
+17 Fund 609,700 78,800 $67,800 756,300
+18 Miscellaneous Revenue
+19 Fund 630,100 79,000 709,100
+20 Federal Grant
+21 Fund 4,062,800 1,115,400 0 4,132,200 9,310,400
+22 TOTAL $42,560,800 $6,554,600 $503,900 $4,200,000 $53,819,300
+23 E. LAW ENFORCEMENT PROGRAMS:
+24 FROM:
+25 General
+26 Fund $157,800 $180,700 $338,500
+27 Alcohol Beverage Control
+28 Fund 1,879,900 520,500 2,400,400
+29 Idaho Law Enforcement (Project Choice)
+30 Fund 295,200 5,600 300,800
+31 Miscellaneous Revenue
+32 Fund 12,500 12,500
+33 Federal Grant
+34 Fund 94,900 10,000 104,900
+35 TOTAL $2,427,800 $729,300 $3,157,100
+36 F. SUPPORT SERVICES:
+37 FROM:
+10
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 General
+6 Fund $2,879,700 $1,260,300 $4,140,000
+7 Alcohol Beverage Control
+8 Fund 91,200 5,900 97,100
+9 Idaho Law Enforcement (Project Choice)
+10 Fund 28,600 2,400 31,000
+11 Idaho Law Enforcement Telecommunications
+12 Fund 908,800 1,327,600 2,236,400
+13 Miscellaneous Revenue
+14 Fund 2,174,200 1,906,500 4,080,700
+15 Federal Grant
+16 Fund 47,000 35,800 82,800
+17 TOTAL $6,129,500 $4,538,500 $10,668,000
+18 G. FORENSIC SERVICES:
+19 FROM:
+20 General
+21 Fund $5,783,900 $1,082,800 $6,866,700
+22 Idaho Law Enforcement (Project Choice)
+23 Fund 505,500 22,900 528,400
+24 Drug & DWUI Enforcement Donation
+25 Fund 500,200 500,200
+26 Miscellaneous Revenue
+27 Fund 199,100 131,500 330,600
+28 Federal Grant
+29 Fund 913,400 2,370,600 3,284,000
+30 TOTAL $7,401,900 $4,108,000 $11,509,900
+31 DIVISIONTOTAL $74,933,300 $18,720,100 $503,900 $4,410,000 $98,567,300
+32 III. POST ACADEMY:
+33 A. PEACE OFFICER STANDARDS AND TRAINING ACADEMY:
+34 FROM:
+35 Idaho Law Enforcement (Project Choice)
+36 Fund $34,500 $14,800 $49,300
+11
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Peace Officers Training
+6 Fund 3,116,700 2,175,700 $155,900 5,448,300
+7 Misdemeanor Probation Training
+8 Fund 21,100 30,400 30,000 81,500
+9 Miscellaneous Revenue
+10 Fund 29,000 29,000
+11 Federal Grant
+12 Fund 37,500 221,200 0 258,700
+13 TOTAL $3,209,800 $2,471,100 $185,900 $5,866,800
+14 IV. RACING COMMISSION:
+15 FROM:
+16 State Regulatory
+17 Fund $298,800 $171,000 $469,800
+18 Pari-Mutuel Distribution
+19 Fund 0 0 $30,000 30,000
+20 TOTAL $298,800 $171,000 $30,000 $499,800
+21 DEPARTMENT
+22 TOTAL $81,976,900 $21,872,800 $503,900 $4,625,900 $108,979,500
+23 GRANDTOTAL $337,967,800 $183,296,200 $663,900 $24,295,300 $546,223,200
+24 SECTION 2. FTP AUTHORIZATION. In accordance with Section 67-3519,
+25 Idaho Code, each of the departments in Public Safety is authorized no more
+26 than the following number of full-time equivalent positions at any point
+27 during the period July 1, 2025, through June 30, 2026, unless specifically
+28 authorized by the Governor. The Joint Finance-Appropriations Committee
+29 will be notified promptly of any increased positions so authorized.
+30 Department of Correction ...................................2,254.85
+31 Department of Juvenile Corrections ...........................409.00
+32 Idaho State Police ...........................................658.76
+33 SECTION 3. EXEMPTIONS FROM PROGRAM TRANSFER LIMITATIONS. The De-
+34 partment of Correction is hereby exempted from the provisions of Section
+35 67-3511(2), Idaho Code, allowing unlimited transfers between programs for
+36 all moneys appropriated to it for the period July 1, 2025, through June 30,
+37 2026; provided, however, moneys appropriated to the County and Out-of-State
+38 Placement Program and the Medical Services Program may only be transferred
+12
+1 between said programs. Legislative appropriations shall not be transferred
+2 from one fund to another fund unless expressly approved by the Legislature.
+3 SECTION 4. ACCOUNTABILITY REPORTS. Funds specifically identified in
+4 statute or in an appropriation act as intended for a certain purpose may
+5 be used only for that purpose. Funds provided in this act are subject to
+6 accountability reports and management reviews in accordance with Section
+7 67-702, Idaho Code, provided the Legislative Services Office auditor has
+8 sufficient resources to conduct those reports. State agencies that are
+9 authorized to contract for outside audits shall submit those reports to the
+10 Joint Finance-Appropriations Committee when those reports become avail-
+11 able.
+12 SECTION 5. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+13 made pursuant to this act are subject to the conditions, limitations, and re-
+14 strictions specified in this act.
+15 SECTION 6. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YFECNAGTOASTOPCSYFRFLYR2;AGMSTOTEDTOFC,TEDTOEC,ADTEIOSEPEFRFLYR2GTENROFADFEETP;EGTEANFMSCPMTRLGFRAYR;PGFRC,L,ADR;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TeishyadtoPcSytefgastobeedagtoteddpsadesfmteldfsfrtepdJy1,2,thJe3RFRFRTEALOGCSESOYPST)DTOFC.MTS0$0$eL0103eS0104sR01010$0$.SEP.PSA0$0$]
+[DELETED: RFRFRTEALOGCSESOYPSTsR0104yEtI01lG010$0$0$.IOSECLIN-B0$0$eL05sR0201yEtI010$0$.IOSECLCR-B0$0$eL01sR040$0$.IOCLIN-O0$0$eL0501]
+[DELETED: RFRFRTEALOGCSESOYPSTsR0601yEtI050$0$.IOMMSYIN-B0$0$eL05sR07yEtI020$0$.NHIOCLIN-C0$0$eL04sR0101yEtI010$0$.SHIOCLIN-B0$0$eL0905]
+[DELETED: RFRFRTEALOGCSESOYPSTsR0103yEtI020$0$.S.AYWKC0$0$eL0802sR02yEtI010$0$.POWSCLC0$0$eL0807sR0104yEtI030$0$.SHBEWSCLC0$0$eL02]
+[DELETED: RFRFRTEALOGCSESOYPSTsR04yEtI080$0$.MNVWTNC0$0$sR030$0$NT0$0$0$.CY&OEP0$.CYC.CYS0$0$0$eL01eS0109gadMlHhCtS0204sR04]
+[DELETED: RFRFRTEALOGCSESOYPSTlG0504010$0$0$.CYRYC0$0$dOdS0405eL060$0$NT0$0$0$.CDSEUEDRT0$0$0$.MLS0$sR010$0$0$0$0$)DTOFJEC.A0$0$0$]
+[DELETED: RFRFRTEALOGCSESOYPSTsR010$0$0$.C,O,ADPMS0$0$0$eC01eCs-CoT04sR03lG05070$0$0$.I0$0$0$sR0406eJeCsCrEtI01lG0704010$0$0$NT0$0$0$)IOSEP.BDI]
+[DELETED: RFRFRTEALOGCSESOYPSTeBdB0$0$.DNOFIOSEP.DSO0$0$oLwEt(tC0201sR07lG01010$0$.CLPES0$0$oLwE02oLwEt(tC0602sR07010$0$.I0$0$oLwEt(tC0201g&DIEtD0407]
+[DELETED: RFRFRTEALOGCSESOYPSTlG060$010$0$0$.P0$0$0$oLwE0705oLwEt(tC0104sMeE070$07sR0707lG0104090$0$0$0$.LWETP0$0$lBeC0502oLwEt(tC0503sR01lG01010$0$.STS]
+[DELETED: RFRFRTEALOGCSESOYPST0$0$lBeC0509oLwEt(tC0203oLwEtT0102sR0104lG03080$0$.FCS0$0$oLwEt(tC0205g&DIEtD05sR0103lG02030$0$NT0$0$0$0$.PTA.PEORSSADTGAoLwEt(tC0$0$]
+[DELETED: RFRFRTEALOGCSESOYPSTeOsT020$05rPnT030308sR02lG02020$0$0$.RGCeR0$0$lD030$0$0$0$0$0$0$DT0$0$0$0$N2.FPA.InaewhSn6oC,ehoftedsinPcSyisadnomntefgnroffeetpsataypgtepdJy1,2,thJe3,2,ussdbyteG.TeJtFsClbendpyofayidpssoatofCn.tofJeCs.oSePe.N3.ESFMPMTRL.TeDtofCnishyedfmtepsofS,IoC,agudtsbnpsflmsadtoitfrtepdJy1,2,thJe3;p,h,msadtoteCyadOtPmadteMlSsPmmyoybet]
+[DELETED: nsdp.LeasslntbetmoefdtoarfduseyadbyteLN4.AYR.Fssyidieorinananatasidfracnpemeudoyfrttp.FspdintsataesttyrsadmtrsinaewhS,IoC,pdteLeSsOearhtrstoctter.SeasttadtoctfroeasslstterstottFsCewntersbeaN5.C,L,ADR.Aepttotsataesttotec,l,adrssdintsaN6.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1107
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO APPROPRIATIONS TO PUBLIC SAFETY FOR FISCAL YEAR 2026; APPRO-
+3 PRIATING MONEYS TO THE DEPARTMENT OF CORRECTION, THE DEPARTMENT OF
+4 JUVENILE CORRECTIONS, AND THE IDAHO STATE POLICE FOR FISCAL YEAR 2026;
+5 LIMITING THE NUMBER OF AUTHORIZED FULL-TIME EQUIVALENT POSITIONS; EX-
+6 EMPTING THE APPROPRIATION FROM SPECIFIC PROGRAM TRANSFER LIMITATIONS;
+7 PROVIDING FOR ACCOUNTABILITY REPORTS; PROVIDING FOR CONDITIONS, LIMI-
+8 TATIONS, AND RESTRICTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+9 EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. There is hereby appropriated to Public Safety the follow-
+12 ing amounts to be expended according to the designated programs and expense
+13 classes from the listed funds for the period July 1, 2025, through June 30,
+14 2026:
+15 FOR
+16 FOR FOR FOR TRUSTEE AND
+17 PERSONNEL OPERATING CAPITAL BENEFIT
+18 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+19 (1) DEPARTMENT OF CORRECTION:
+20 I. MANAGEMENT SERVICES:
+21 FROM:
+22 General
+23 Fund $12,592,100 $13,523,800 $26,115,900
+24 Inmate Labor
+25 Fund 383,700 10,000 393,700
+26 Parolee Supervision
+27 Fund 339,100 132,300 471,400
+28 Miscellaneous Revenue
+29 Fund 1,327,000 167,400 1,494,400
+30 TOTAL $14,641,900 $13,833,500 $28,475,400
+31 II. STATE PRISONS:
+32 A. PRISONS ADMINISTRATION:
+33 FROM:
+34 General
+35 Fund $5,602,800 $929,900 $6,532,700
+
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 289,500 161,400 450,900
+7 Penitentiary Endowment Income
+8 Fund $160,000 160,000
+9 Federal Grant
+10 Fund 771,700 770,300 0 1,542,000
+11 TOTAL $6,664,000 $1,861,600 $160,000 $8,685,600
+12 B. IDAHO STATE CORRECTIONAL INSTITUTION - BOISE:
+13 FROM:
+14 General
+15 Fund $31,868,300 $4,046,900 $35,915,200
+16 Inmate Labor
+17 Fund 53,000 53,000
+18 Miscellaneous Revenue
+19 Fund 884,700 224,000 1,108,700
+20 Penitentiary Endowment Income
+21 Fund 0 1,189,400 1,189,400
+22 TOTAL $32,753,000 $5,513,300 $38,266,300
+23 C. IDAHO STATE CORRECTIONAL CENTER - BOISE:
+24 FROM:
+25 General
+26 Fund $30,733,400 $6,323,900 $37,057,300
+27 Inmate Labor
+28 Fund 10,500 10,500
+29 Miscellaneous Revenue
+30 Fund 0 462,300 462,300
+31 TOTAL $30,733,400 $6,796,700 $37,530,100
+32 D. IDAHO CORRECTIONAL INSTITUTION - OROFINO:
+33 FROM:
+34 General
+35 Fund $11,708,000 $1,866,800 $13,574,800
+36 Inmate Labor
+37 Fund 1,267,300 534,500 1,801,800
+
+3
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 95,200 67,200 162,400
+7 Penitentiary Endowment Income
+8 Fund 0 55,800 55,800
+9 TOTAL $13,070,500 $2,524,300 $15,594,800
+10 E. IDAHO MAXIMUM SECURITY INSTITUTION - BOISE:
+11 FROM:
+12 General
+13 Fund $15,535,400 $1,883,500 $17,418,900
+14 Inmate Labor
+15 Fund 53,200 53,200
+16 Miscellaneous Revenue
+17 Fund 71,100 71,100
+18 Penitentiary Endowment Income
+19 Fund 0 22,000 22,000
+20 TOTAL $15,535,400 $2,029,800 $17,565,200
+21 F. NORTH IDAHO CORRECTIONAL INSTITUTION - COTTONWOOD:
+22 FROM:
+23 General
+24 Fund $7,139,600 $1,160,000 $8,299,600
+25 Inmate Labor
+26 Fund 46,300 46,300
+27 Miscellaneous Revenue
+28 Fund 72,200 114,200 186,400
+29 Penitentiary Endowment Income
+30 Fund 0 14,800 14,800
+31 TOTAL $7,211,800 $1,335,300 $8,547,100
+32 G. SOUTH IDAHO CORRECTIONAL INSTITUTION - BOISE:
+33 FROM:
+34 General
+35 Fund $12,323,900 $2,441,800 $14,765,700
+36 Inmate Labor
+37 Fund 4,306,000 980,400 5,286,400
+
+4
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 191,800 109,400 301,200
+7 Penitentiary Endowment Income
+8 Fund 0 24,500 24,500
+9 TOTAL $16,821,700 $3,556,100 $20,377,800
+10 H. ST. ANTHONY WORK CAMP:
+11 FROM:
+12 General
+13 Fund $6,000,400 $869,500 $6,869,900
+14 Inmate Labor
+15 Fund 1,940,900 898,200 2,839,100
+16 Miscellaneous Revenue
+17 Fund 27,000 27,000
+18 Penitentiary Endowment Income
+19 Fund 0 1,900 1,900
+20 TOTAL $7,941,300 $1,796,600 $9,737,900
+21 I. POCATELLO WOMEN'S CORRECTIONAL CENTER:
+22 FROM:
+23 General
+24 Fund $8,233,300 $1,076,900 $9,310,200
+25 Inmate Labor
+26 Fund 618,600 84,400 703,000
+27 Miscellaneous Revenue
+28 Fund 333,500 120,400 453,900
+29 Penitentiary Endowment Income
+30 Fund 0 31,100 31,100
+31 TOTAL $9,185,400 $1,312,800 $10,498,200
+32 J. SOUTH BOISE WOMEN'S CORRECTIONAL CENTER:
+33 FROM:
+34 General
+35 Fund $5,561,900 $665,500 $6,227,400
+36 Inmate Labor
+37 Fund 200 200
+
+5
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 42,800 42,800
+7 Penitentiary Endowment Income
+8 Fund 0 8,800 8,800
+9 TOTAL $5,561,900 $717,300 $6,279,200
+10 K. MOUNTAIN VIEW TRANSFORMATION CENTER:
+11 FROM:
+12 General
+13 Fund $7,306,800 $1,961,400 $9,268,200
+14 Miscellaneous Revenue
+15 Fund 0 300,000 300,000
+16 TOTAL $7,306,800 $2,261,400 $9,568,200
+17 DIVISIONTOTAL $152,785,200 $29,705,200 $160,000 $182,650,400
+18 III. COUNTY & OUT-OF-STATE PLACEMENT:
+19 FROM:
+20 General
+21 Fund $31,856,500 $31,856,500
+22 IV. COMMUNITY CORRECTIONS:
+23 A. COMMUNITY SUPERVISION:
+24 FROM:
+25 General
+26 Fund $29,982,700 $10,156,600 $1,000,000 $41,139,300
+27 Inmate Labor
+28 Fund 115,600 115,600
+29 Parolee Supervision
+30 Fund 7,316,400 1,812,200 9,128,600
+31 Drug and Mental Health Court Supervision
+32 Fund 381,100 27,200 408,300
+33 Miscellaneous Revenue
+34 Fund 439,100 439,100
+
+6
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Federal Grant
+6 Fund 93,600 595,300 400,000 1,088,900
+7 TOTAL $38,212,900 $12,706,900 $1,400,000 $52,319,800
+8 B. COMMUNITY REENTRY CENTERS:
+9 FROM:
+10 General
+11 Fund $6,727,700 $47,700 $6,775,400
+12 State-Directed Opioid Settlement
+13 Fund 167,400 423,600 591,000
+14 Inmate Labor
+15 Fund 3,897,900 2,842,500 6,740,400
+16 TOTAL $10,793,000 $3,313,800 $14,106,800
+17 DIVISIONTOTAL $49,005,900 $16,020,700 $1,400,000 $66,426,600
+18 V. COMMUNITY-BASED SUBSTANCE USE DISORDER TREATMENT:
+19 FROM:
+20 General
+21 Fund $1,915,000 $46,100 $1,846,500 $3,807,600
+22 VI. MEDICAL SERVICES:
+23 FROM:
+24 General
+25 Fund $63,629,000 $63,629,000
+26 Miscellaneous Revenue
+27 Fund 135,000 135,000
+28 TOTAL $63,764,000 $63,764,000
+29 DEPARTMENT
+30 TOTAL $218,348,000 $155,226,000 $160,000 $3,246,500 $376,980,500
+31 (2) DEPARTMENT OF JUVENILE CORRECTIONS:
+32 A. ADMINISTRATION:
+33 FROM:
+34 General
+35 Fund $3,705,700 $854,400 $60,000 $4,620,100
+
+7
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 0 16,400 0 16,400
+7 TOTAL $3,705,700 $870,800 $60,000 $4,636,500
+8 B. COMMUNITY, OPERATIONS, AND PROGRAM SERVICES:
+9 FROM:
+10 General
+11 Fund $1,894,700 $326,100 $7,651,000 $9,871,800
+12 Juvenile Corrections
+13 Fund 110,000 110,000
+14 Juvenile Corrections - Cigarette/Tobacco Tax
+15 Fund 4,375,000 4,375,000
+16 Miscellaneous Revenue
+17 Fund 327,000 327,000
+18 Federal Grant
+19 Fund 0 199,600 521,000 720,600
+20 TOTAL $1,894,700 $635,700 $12,874,000 $15,404,400
+21 C. INSTITUTIONS:
+22 FROM:
+23 General
+24 Fund $31,810,700 $2,610,100 $2,553,500 $36,974,300
+25 Miscellaneous Revenue
+26 Fund 238,600 460,000 698,600
+27 State Juvenile Corrections Center Endowment Income
+28 Fund 1,073,800 1,073,800
+29 Federal Grant
+30 Fund 231,800 768,400 475,400 1,475,600
+31 TOTAL $32,042,500 $4,690,900 $3,488,900 $40,222,300
+32 DIVISIONTOTAL $37,642,900 $6,197,400 $16,422,900 $60,263,200
+33 (3) IDAHO STATE POLICE:
+34 I. BRAND INSPECTION:
+35 FROM:
+
+8
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 State Brand Board
+6 Fund $3,535,000 $510,600 $4,045,600
+7 II. DIVISION OF IDAHO STATE POLICE:
+8 A. DIRECTOR'S OFFICE:
+9 FROM:
+10 General
+11 Fund $2,520,400 $212,100 $2,732,500
+12 Idaho Law Enforcement (Project Choice)
+13 Fund 160,700 2,500 163,200
+14 Miscellaneous Revenue
+15 Fund 79,600 79,600
+16 Federal Grant
+17 Fund 83,900 18,100 102,000
+18 TOTAL $2,765,000 $312,300 $3,077,300
+19 B. CAPITOL PROTECTIVE SERVICES:
+20 FROM:
+21 General
+22 Fund $2,082,600 $116,000 $2,198,600
+23 Idaho Law Enforcement
+24 Fund 213,500 213,500
+25 Idaho Law Enforcement (Project Choice)
+26 Fund 269,000 6,400 275,400
+27 Miscellaneous Revenue
+28 Fund 131,100 7,200 138,300
+29 TOTAL $2,482,700 $343,100 $2,825,800
+30 C. INVESTIGATIONS:
+31 FROM:
+32 General
+33 Fund $9,367,000 $949,300 $10,316,300
+34 Idaho Law Enforcement (Project Choice)
+35 Fund 1,240,200 29,100 1,269,300
+36 Drug & DWUI Enforcement Donation
+37 Fund 211,700 497,600 709,300
+
+9
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Federal Grant
+6 Fund 346,700 658,300 $210,000 1,215,000
+7 TOTAL $11,165,600 $2,134,300 $210,000 $13,509,900
+8 D. PATROL:
+9 FROM:
+10 General
+11 Fund $28,380,900 $4,378,300 $503,900 $33,263,100
+12 Idaho Law Enforcement
+13 Fund 4,943,200 788,100 5,731,300
+14 Idaho Law Enforcement (Project Choice)
+15 Fund 3,934,100 115,000 4,049,100
+16 Hazardous Materials/Waste Enforcement
+17 Fund 609,700 78,800 $67,800 756,300
+18 Miscellaneous Revenue
+19 Fund 630,100 79,000 709,100
+20 Federal Grant
+21 Fund 4,062,800 1,115,400 0 4,132,200 9,310,400
+22 TOTAL $42,560,800 $6,554,600 $503,900 $4,200,000 $53,819,300
+23 E. LAW ENFORCEMENT PROGRAMS:
+24 FROM:
+25 General
+26 Fund $157,800 $180,700 $338,500
+27 Alcohol Beverage Control
+28 Fund 1,879,900 520,500 2,400,400
+29 Idaho Law Enforcement (Project Choice)
+30 Fund 295,200 5,600 300,800
+31 Miscellaneous Revenue
+32 Fund 12,500 12,500
+33 Federal Grant
+34 Fund 94,900 10,000 104,900
+35 TOTAL $2,427,800 $729,300 $3,157,100
+36 F. SUPPORT SERVICES:
+37 FROM:
+
+10
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 General
+6 Fund $2,879,700 $1,260,300 $4,140,000
+7 Alcohol Beverage Control
+8 Fund 91,200 5,900 97,100
+9 Idaho Law Enforcement (Project Choice)
+10 Fund 28,600 2,400 31,000
+11 Idaho Law Enforcement Telecommunications
+12 Fund 908,800 1,327,600 2,236,400
+13 Miscellaneous Revenue
+14 Fund 2,174,200 1,906,500 4,080,700
+15 Federal Grant
+16 Fund 47,000 35,800 82,800
+17 TOTAL $6,129,500 $4,538,500 $10,668,000
+18 G. FORENSIC SERVICES:
+19 FROM:
+20 General
+21 Fund $5,783,900 $1,082,800 $6,866,700
+22 Idaho Law Enforcement (Project Choice)
+23 Fund 505,500 22,900 528,400
+24 Drug & DWUI Enforcement Donation
+25 Fund 500,200 500,200
+26 Miscellaneous Revenue
+27 Fund 199,100 131,500 330,600
+28 Federal Grant
+29 Fund 913,400 2,370,600 3,284,000
+30 TOTAL $7,401,900 $4,108,000 $11,509,900
+31 DIVISIONTOTAL $74,933,300 $18,720,100 $503,900 $4,410,000 $98,567,300
+32 III. POST ACADEMY:
+33 A. PEACE OFFICER STANDARDS AND TRAINING ACADEMY:
+34 FROM:
+35 Idaho Law Enforcement (Project Choice)
+36 Fund $34,500 $14,800 $49,300
+
+11
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Peace Officers Training
+6 Fund 3,116,700 2,175,700 $155,900 5,448,300
+7 Misdemeanor Probation Training
+8 Fund 21,100 30,400 30,000 81,500
+9 Miscellaneous Revenue
+10 Fund 29,000 29,000
+11 Federal Grant
+12 Fund 37,500 221,200 0 258,700
+13 TOTAL $3,209,800 $2,471,100 $185,900 $5,866,800
+14 IV. RACING COMMISSION:
+15 FROM:
+16 State Regulatory
+17 Fund $298,800 $171,000 $469,800
+18 Pari-Mutuel Distribution
+19 Fund 0 0 $30,000 30,000
+20 TOTAL $298,800 $171,000 $30,000 $499,800
+21 DEPARTMENT
+22 TOTAL $81,976,900 $21,872,800 $503,900 $4,625,900 $108,979,500
+23 GRANDTOTAL $337,967,800 $183,296,200 $663,900 $24,295,300 $546,223,200
+24 SECTION 2. FTP AUTHORIZATION. In accordance with Section 67-3519,
+25 Idaho Code, each of the departments in Public Safety is authorized no more
+26 than the following number of full-time equivalent positions at any point
+27 during the period July 1, 2025, through June 30, 2026, unless specifically
+28 authorized by the Governor. The Joint Finance-Appropriations Committee
+29 will be notified promptly of any increased positions so authorized.
+30 Department of Correction ...................................2,254.85
+31 Department of Juvenile Corrections ...........................409.00
+32 Idaho State Police ...........................................658.76
+33 SECTION 3. EXEMPTIONS FROM PROGRAM TRANSFER LIMITATIONS. The De-
+34 partment of Correction is hereby exempted from the provisions of Section
+35 67-3511(2), Idaho Code, allowing unlimited transfers between programs for
+36 all moneys appropriated to it for the period July 1, 2025, through June 30,
+37 2026; provided, however, moneys appropriated to the County and Out-of-State
+38 Placement Program and the Medical Services Program may only be transferred
+
+12
+1 between said programs. Legislative appropriations shall not be transferred
+2 from one fund to another fund unless expressly approved by the Legislature.
+3 SECTION 4. ACCOUNTABILITY REPORTS. Funds specifically identified in
+4 statute or in an appropriation act as intended for a certain purpose may
+5 be used only for that purpose. Funds provided in this act are subject to
+6 accountability reports and management reviews in accordance with Section
+7 67-702, Idaho Code, provided the Legislative Services Office auditor has
+8 sufficient resources to conduct those reports. State agencies that are
+9 authorized to contract for outside audits shall submit those reports to the
+10 Joint Finance-Appropriations Committee when those reports become avail-
+11 able.
+12 SECTION 5. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+13 made pursuant to this act are subject to the conditions, limitations, and re-
+14 strictions specified in this act.
+15 SECTION 6. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YFECNAGTOASTOPCSYFRFLYR2;AGMSTOTEDTOFC,TEDTOEC,ADTEIOSEPEFRFLYR2GTENROFADFEETP;EGTEANFMSCPMTRLGFRAYR;PGFRC,L,ADR;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TeishyadtoPcSytefgastobeedagtoteddpsadesfmteldfsfrtepdJy1,2,thJe3RFRFRTEALOGCSESOYPST)DTOFC.MTS0$0$eL0103eS0104sR01010$0$.SEP.PSA0$0$]
+[DELETED: RFRFRTEALOGCSESOYPSTsR0104yEtI01lG010$0$0$.IOSECLIN-B0$0$eL05sR0201yEtI010$0$.IOSECLCR-B0$0$eL01sR040$0$.IOCLIN-O0$0$eL0501]
+[DELETED: RFRFRTEALOGCSESOYPSTsR0601yEtI050$0$.IOMMSYIN-B0$0$eL05sR07yEtI020$0$.NHIOCLIN-C0$0$eL04sR0101yEtI010$0$.SHIOCLIN-B0$0$eL0905]
+[DELETED: RFRFRTEALOGCSESOYPSTsR0103yEtI020$0$.S.AYWKC0$0$eL0802sR02yEtI010$0$.POWSCLC0$0$eL0807sR0104yEtI030$0$.SHBEWSCLC0$0$eL02]
+[DELETED: RFRFRTEALOGCSESOYPSTsR04yEtI080$0$.MNVWTNC0$0$sR030$0$NT0$0$0$.CY&OEP0$.CYC.CYS0$0$0$eL01eS0109gadMlHhCtS0204sR04]
+[DELETED: RFRFRTEALOGCSESOYPSTlG0504010$0$0$.CYRYC0$0$dOdS0405eL060$0$NT0$0$0$.CDSEUEDRT0$0$0$.MLS0$sR010$0$0$0$0$)DTOFJEC.A0$0$0$]
+[DELETED: RFRFRTEALOGCSESOYPSTsR010$0$0$.C,O,ADPMS0$0$0$eC01eCs-CoT04sR03lG05070$0$0$.I0$0$0$sR0406eJeCsCrEtI01lG0704010$0$0$NT0$0$0$)IOSEP.BDI]
+[DELETED: RFRFRTEALOGCSESOYPSTeBdB0$0$.DNOFIOSEP.DSO0$0$oLwEt(tC0201sR07lG01010$0$.CLPES0$0$oLwE02oLwEt(tC0602sR07010$0$.I0$0$oLwEt(tC0201g&DIEtD0407]
+[DELETED: RFRFRTEALOGCSESOYPSTlG060$010$0$0$.P0$0$0$oLwE0705oLwEt(tC0104sMeE070$07sR0707lG0104090$0$0$0$.LWETP0$0$lBeC0502oLwEt(tC0503sR01lG01010$0$.STS]
+[DELETED: RFRFRTEALOGCSESOYPST0$0$lBeC0509oLwEt(tC0203oLwEtT0102sR0104lG03080$0$.FCS0$0$oLwEt(tC0205g&DIEtD05sR0103lG02030$0$NT0$0$0$0$.PTA.PEORSSADTGAoLwEt(tC0$0$]
+[DELETED: RFRFRTEALOGCSESOYPSTeOsT020$05rPnT030308sR02lG02020$0$0$.RGCeR0$0$lD030$0$0$0$0$0$0$DT0$0$0$0$N2.FPA.InaewhSn6oC,ehoftedsinPcSyisadnomntefgnroffeetpsataypgtepdJy1,2,thJe3,2,ussdbyteG.TeJtFsClbendpyofayidpssoatofCn.tofJeCs.oSePe.N3.ESFMPMTRL.TeDtofCnishyedfmtepsofS,IoC,agudtsbnpsflmsadtoitfrtepdJy1,2,thJe3;p,h,msadtoteCyadOtPmadteMlSsPmmyoybet]
+[DELETED: nsdp.LeasslntbetmoefdtoarfduseyadbyteLN4.AYR.Fssyidieorinananatasidfracnpemeudoyfrttp.FspdintsataesttyrsadmtrsinaewhS,IoC,pdteLeSsOearhtrstoctter.SeasttadtoctfroeasslstterstottFsCewntersbeaN5.C,L,ADR.Aepttotsataesttotec,l,adrssdintsaN6.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

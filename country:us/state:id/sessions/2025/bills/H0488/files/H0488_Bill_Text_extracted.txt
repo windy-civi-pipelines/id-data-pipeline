@@ -1,0 +1,424 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 488
+BY EHARDT
+1 AN ACT
+2 RELATING TO ANNEXATION BY CITIES; AMENDING SECTION 50-222, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING ANNEXATION BY CITIES; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 50-222, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 50-222. ANNEXATION BY CITIES. (1) Legislative intent. It is the in-
+9 tent of the legislature to honor the right of private landowners to have a
+10 voice in their own governance, to minimize conflict between citizens and mu-
+11 nicipalities, to provide a mechanism for the orderly development of Idaho
+12 cities, including the efficient and economically viable provision of tax-
+13 supported and fee-supported municipal services, to enable the orderly de-
+14 velopment of private lands that benefit from cost-effective availability of
+15 municipal services in urbanizing areas, and to equitably allocate the costs
+16 of public services in managing development on the urban fringe.
+17 (2) Definitions. For purposes of this section:
+18 (a) "Consent" means a written document executed by the landowner or
+19 the landowner's authorized agent explicitly agreeing to annexation.
+20 Written consent to annex lands must be recorded in the county recorder's
+21 office to be binding upon subsequent purchasers, heirs, or assigns of
+22 lands addressed in the consent.
+23 (b) "Contiguous" means sharing a common border. For the purpose of this
+24 section, land is not contiguous if the only common border is along a
+25 shoestring connection.
+26 (c) "Implied consent" means that valid consent to annex is implied for
+27 the area of all lands connected to a water or wastewater collection sys-
+28 tem owned and operated in its entirety by the city if the connection was
+29 requested in writing by the owner or the owner's authorized agent prior
+30 to July 1, 2024, or if the connection was completed before July 1, 2008.
+31 (d) "Landowner" means a person owning real property in the area pro-
+32 posed for annexation.
+33 (e) "Planning and zoning commission" means the entity performing plan-
+34 ning and zoning duties for the city, which may be the city council it-
+35 self, a planning commission, a zoning commission, or a planning and zon-
+36 ing commission.
+37 (f) "Subject land" means an area proposed for annexation by a city pur-
+38 suant to this section.
+39 (3) Requirements. Except as provided in subsection (5) (6) of this sec-
+40 tion, no city of this state shall annex land unless and until the following
+41 requirements are met:
+2
+1 (a) The subject land is contiguous to or surrounded by the city, except
+2 as provided in subsections (7), (9), or (11) (8), (10), or (12) of this
+3 section;
+4 (b) The city notifies each landowner and the board of county commis-
+5 sioners of its intent to annex the subject land. Such notification
+6 shall:
+7 (i) Include a summary of the annexation plan;
+8 (ii) Advise landowners of their right to give or withhold consent;
+9 (iii) Include a description of how consent can be made, where it
+10 should be filed, and the deadline for such filing, which shall be
+11 no later than forty-five (45) days after the date of notification;
+12 (iv) Include information about where the entire record of the pro-
+13 posed annexation may be reviewed; and
+14 (v) Include a legal description of the subject land and a simple
+15 map depicting the location of the subject land;
+16 (c) The city publishes notice of its intent to annex the subject land.
+17 In providing notice, the city shall comply with the notice and hearing
+18 procedures governing a zoning district boundary change as set forth in
+19 chapter 65, title 67, Idaho Code, unless otherwise provided in this sec-
+20 tion, on the question of whether the subject land should be annexed and,
+21 if annexed, the zoning designation to be applied to the subject land.
+22 The initial notice of public hearing concerning the question of annexa-
+23 tion and zoning shall be published in the official newspaper of the city
+24 and mailed by first class mail to every landowner of property included
+25 in the annexation proposal at least twenty-eight (28) days prior to the
+26 initial public hearing. All public hearing notices shall establish a
+27 time and procedure by which comments concerning the proposed annexation
+28 may be received in writing and heard;
+29 (d) The city council adopts a written annexation plan;
+30 (e) Subsequent to publishing notice of intent and a written annexa-
+31 tion plan, the city council and the planning and zoning commission each
+32 holds a public hearing on the proposed annexation, pursuant to section
+33 67-6525, Idaho Code, at which landowners and city residents are af-
+34 forded an opportunity to testify for or against annexation. Provided,
+35 however, if a city performs its own planning and zoning functions with-
+36 out a commission, the two (2) public hearings required by this paragraph
+37 may be combined into one (1) public hearing, but in such case, the no-
+38 tice to landowners required by paragraph (c) of this subsection must be
+39 mailed at least forty-five (45) days prior to the public hearing; and
+40 (f) Landowners representing sixty percent (60%) of the parcels and at
+41 least fifty percent (50%) of the area proposed for annexation give vol-
+42 untary consent as defined in subsection (2) of this section and record
+43 such consent with the county recorder's office for the county in which
+44 the property is located.
+45 (4) Written annexation plan. The written annexation plan required by
+46 subsection (3) of this section shall describe:
+47 (a) The manner of providing tax-supported municipal services to the
+48 subject land;
+49 (b) The changes in taxation and other costs that would result if the
+50 subject land were to be annexed;
+3
+1 (c) The means of providing fee-supported municipal services, if any, to
+2 the subject land;
+3 (d) An analysis of the potential effects of annexation on other units of
+4 local government that currently provide tax-supported or fee-supported
+5 services to the subject land;
+6 (e) The proposed future land use plan and zoning designation or desig-
+7 nations, subject to public hearing, for the subject land; and
+8 (f) A statement of the public purposes that would benefit from annexa-
+9 tion.
+10 (5) Landowners whose property is annexed by a city but who do not give
+11 voluntary consent for such annexation pursuant to the provisions of subsec-
+12 tion (3)(f) of this section shall not be required to use wastewater and water
+13 tax-supported municipal services and shall be allowed to maintain existing
+14 wastewater and water systems that are compliant with applicable rules and
+15 regulations. Any other costs incurred by such landowners that are directly
+16 related to the city's annexation of the landowners' property shall be paid by
+17 the city.
+18 (5) (6) Exceptions.
+19 (a) Annexation with consent. In the case of a prospective annexation
+20 where all landowners of the subject property have requested annexation
+21 or where consent has been given by the landowner or landowners of a con-
+22 tiguous parcel or parcels or where implied consent has been given, the
+23 provisions of subsections (3) and (4) of this section shall not apply.
+24 In such a case, the subject land may extend beyond the city area of im-
+25 pact if the land is contiguous to the city and the comprehensive plan in-
+26 cludes the area of annexation. Lands need not be contiguous to the city
+27 limits at the time a landowner consents to annexation for the property
+28 to be subject to a valid consent to annex, but no annexation of lands may
+29 occur, regardless of consent, until such land becomes contiguous to the
+30 city. Upon determining that a proposed annexation meets the require-
+31 ments of this subsection, a city may initiate the planning and zoning
+32 procedures set forth in chapter 65, title 67, Idaho Code, to establish
+33 the comprehensive planning policies, where necessary, and zoning clas-
+34 sification of the lands to be annexed.
+35 (b) Enclaves. The provisions of subsections (3) and (4) of this section
+36 shall not apply to the annexation of any residential enclaved lands of
+37 thirty (30) or fewer privately owned parcels that are surrounded on all
+38 sides by lands within a city or lands that cannot legally or physically
+39 be annexed.
+40 (6) (7) Ordinance. If all requirements provided in subsection (3) or
+41 (5) (6) of this section are satisfied and the city agrees to the annexation,
+42 then the city council shall enact an annexation ordinance.
+43 (7) (8) Highways. In any annexation proceeding, all portions of high-
+44 ways lying wholly or partly in the subject area shall be included in the area
+45 annexed unless there is an express agreement otherwise between the city and
+46 the governing board of the highway agency providing road maintenance at the
+47 time of annexation. Provided, however, no city council may annex property
+48 if the property will be connected to the city only by a shoestring connection
+49 or strip of land comprising the highway's right-of-way in order to establish
+50 contiguity.
+4
+1 (8) (9) Fairgrounds. Property that is used as a fairground pursuant to
+2 the provisions of chapter 8, title 31, Idaho Code, or chapter 2, title 22,
+3 Idaho Code, shall not be annexed unless the annexation is approved by a ma-
+4 jority of the board of county commissioners of the county in which the prop-
+5 erty lies.
+6 (9) (10) Airports. A city may annex land that is not contiguous to the
+7 city itself if such land is occupied by a municipally owned or operated air-
+8 port or landing field. A city may not annex any land contiguous to the air-
+9 port or landing field unless the land may otherwise be annexed pursuant to
+10 this section.
+11 (10) (11) Recreational areas. Property owned by a nongovernmental en-
+12 tity that is used to provide outdoor recreational activities to the public
+13 and that has been designated as a planned unit development of fifty (50)
+14 acres or more and does not require or utilize any city services must have the
+15 express written permission of the nongovernmental entity owner to be annexed
+16 by a city.
+17 (11) (12) Railroad rights-of-way. A railroad right-of-way property
+18 may be annexed pursuant to this section only when property within the city
+19 adjoins or will adjoin both sides of the right-of-way. Provided, however,
+20 no city council may annex property if the property will be connected to the
+21 city only by a shoestring connection or strip of land comprising the railroad
+22 right-of-way.
+23 (12) (13) Agricultural or forest lands. In addition to the requirements
+24 set forth in this section, the following lands may not be annexed without the
+25 express written permission of the landowner:
+26 (a) Land, if five (5) acres or greater, actively devoted to agriculture
+27 as defined in section 63-604(1), Idaho Code, regardless of whether such
+28 land is surrounded or bounded on all sides by lands within the city; and
+29 (b) Land, if five (5) acres or greater, actively devoted to forest land
+30 as defined in section 63-1701, Idaho Code, regardless of whether such
+31 land is surrounded or bounded on all sides by lands within the city.
+32 (13) (14) Judicial review. In the case of a city-initiated annexation,
+33 the decision of a city council to annex and zone land shall be subject to
+34 judicial review in accordance with the procedures provided in chapter 52,
+35 title 67, Idaho Code, and pursuant to the standards set forth in section
+36 67-5279, Idaho Code. An appeal shall be filed by an affected person in the
+37 appropriate district court no later than twenty-eight (28) days after the
+38 date of publication of the annexation ordinance and shall be heard by the
+39 district court at the earliest practicable time. All cases in which there
+40 may arise a question of the validity of any city-initiated annexation under
+41 this section shall be advanced as a matter of immediate public interest and
+42 concern and shall be heard by the district court at the earliest practicable
+43 time.
+44 (14) (15) This section applies to annexations occurring on and after
+45 July 1, 2024. It does not invalidate or affect consent, including implied
+46 consent, obtained or annexations undertaken lawfully according to the laws
+47 in effect at the time of such consent or annexations.
+48 SECTION 2. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after
+50 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YENAGTOANBYC;AGSN5,IOC,TEPSRGANBYC;ADDGAYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.ANBYC.()Lei.Itisteitofteletohrtertofpelstoheeintrong,tomectbncsadm,topeammfrteoydtofI,igteetadeyvepnoftdadfdmls,toeeteoydtofpelsttbtfmceayolssinuga,adtoeyaetecfpcssinmgdtonteunf)D.Frpsoftss)""msawndtedbytelroelsadateyagtoancttoaxlsmtberdintecyretobebgunstp,h,orasosadintec)""mssgacnb.Frtepeoft,ldisntcsifteoycnbrisaggc)"dc"msttvdcttoaxisidfeaaofallscdtoawrorwrcnsmodadodiniseybytecyiftecnwdinwgbyteororteosadatpoJy1,2,oriftecnwscdbeJy1,2)""msapnogrlpyinteaapdfra)"gadzgc"msteeypgpgadzgdsfrtec,whmybetecycli,apgc,azgc,orapgadzgc)"tl"msanaapdfranbyacypttotss)R.Etaspdinsn()()oftss,nocyoftsseslaxldusadultefsaem]
+[DELETED: )Testldiscstoorsdbytec,espdinss(,(,or()(,(,or()oft)Tecynsehlradtebdofcycsofisittoaxtestl.Shn)Ieasyofteanp)Aelsoftrrttogeorwdc)Ieadnofhwctcnbem,weidbef,adtedefrshf,whslbolrtnfe()dsartedeofn)Ieinatweteeerdoftepdanmyber;a)Iealldnoftestldadaspdgtelnoftestl)Tecypsneofisittoaxtestlnpgn,tecyslcywhteneadhsggazgdtbyceasstfhir6,te6,IoC,usoepdintss,onteqnofwrtestldsdbeadafa,tezgdntobeadtotestleilneofpchgcgteqnofanadzgslbepdinteolnroftecdmdbyftcsmltoeylrofpyinteanplatlttt()dsprtotlpch.Alpchgnssleheadpebywhcscgtepdayberdinwgadh)Tecyclasawnanp)Sttopgneofitadawnanp,tecycladtepgadzgcnesapchgontepda,pttos,IoC,atwhlsadcyrsaeadanoytotyfrorata.P,ifacypsisonpgadzgfswtac,teto()pchsrdbytspybecdiooe()pch,btinshc,tenetolsrdbyph()oftssnmtbdatltfe()dsprtotepch;a)Lsrgsypt()oftepsadatfypt()ofteaapdfrangevyctasddinsn()oftssnadrhctwhtecyrsoefrtecyinwepyisl)Wnanp.Tewnanpnrdbn()oftssnsld)Temrofpgtdmlsstottl)Tecsintnadorcsttwdrtifttldwetobea]
+[DELETED: )Temsofpgfdmls,ifa,testl)Anasofteplesofanonorusolgtttcypetdorfstotestl)Tepdfelduepnadzgdnord,sttopch,frtestl;a)Astoftepcpsttwdbtfma)Lswepyisadbyacybtwodontgyctfrshanpttotepsofsn()oftssnslntberdtouewradwdmlssadslbeadtomneradwrssttaectwhaersa.Ayorcsidbyshlsttaeddtotecsanoftel'pyslbepdbec)()E)Anwhc.Inteceofapeaeallsoftestpyherdarwecthsbngnbytelrorlsofacsplorpsorweidcthsbng,tsofss()ad()oftssnslntanshac,testldmyedbdtecyaaofitifteldiscstotecyadtecepnisteaaofa.Lsndntbecstotecsattetealrcstoanfrtepobesttoavdcttoa,btnoanoflsm,rsofc,ulshldbscstot.Undgttapdanmstersoftss,acymyietepgadzsstfhincr6,te6,IoC,toeecepgp,wen,adzgcnoftelstobea)E.Tepsofss()ad()oftsslntaytoteanofayrledlsoy()orfrpyodpsttaesdonasbylswnacyorlsttctlyorpea)()O.Ifalrspdinsn()o)()oftssnaesdadtecyastoteantecyclsletanano)()H.Inayanp,alpsofhslgwyorpyintestaaslbeidinteadusteisanesatoebntecyaeggbdoftehyaypgrdmeatteofa.P,h,nocyclmyaxpftepywlbecdtotecyoybyasgcrspofldcgtehsryinortoe]
+[DELETED: )()F.Pyttisudasafdpttepsofcr8,te3,IoC,orcr2,te2oC,slntbeadusteanisadbyamyoftebdofcycsoftecyinwhtepyl)()A.Acymyaxldttisntcstotyififshldisodbyamyodorodatorlgf.Acymyntaxayldcstoteatorlgfdusteldmyoebeadpttss)()Rla.Pyodbyanleyttisudtopeorrlastotepdtthsbnddasapdutdtoffy(sormeaddsntreorueaycyssmthetswnpnoftenleyortobeayac)()Rdr.Ardrypybeadpttotssnoywnpywntecsorwlanbhssofter.P,hocyclmyaxpyiftepywlbecdtotyoybyasgcnorspofldcgter)()Alorftl.Inantotertfhintss,tefglsmyntbeadwttswnpnoftel)L,iffe()asorg,ayddtoasddinsn6,IoC,rsofwrsdissdorbdonalssbylswntec;a)L,iffe()asorg,ayddtoftlsddinsn6,IoC,rsofwrsdissdorbdonalssbylswntec)()Jlr.Inteceofacdaednofacycltoaxadzeldslbesttlrwinaewhtepspdincr5e6,IoC,adpttotessstfhins,IoC.Analslbefdbyanadpnintedtctnolrtntt()dsarteofpnofteanoeadslbehdbyttctatteetpet.Alcsinwhtyaeaqnoftevyofaycdanussnslbeadasamrofiepcitanadslbehdbytedtctatteetp)Tssnastoasogonaday1,2.Itdsntieoratc,igi,odorasunlyagtotelnetatteteofshctoraN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 488
+BY EHARDT
+1 AN ACT
+2 RELATING TO ANNEXATION BY CITIES; AMENDING SECTION 50-222, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING ANNEXATION BY CITIES; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 50-222, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 50-222. ANNEXATION BY CITIES. (1) Legislative intent. It is the in-
+9 tent of the legislature to honor the right of private landowners to have a
+10 voice in their own governance, to minimize conflict between citizens and mu-
+11 nicipalities, to provide a mechanism for the orderly development of Idaho
+12 cities, including the efficient and economically viable provision of tax-
+13 supported and fee-supported municipal services, to enable the orderly de-
+14 velopment of private lands that benefit from cost-effective availability of
+15 municipal services in urbanizing areas, and to equitably allocate the costs
+16 of public services in managing development on the urban fringe.
+17 (2) Definitions. For purposes of this section:
+18 (a) "Consent" means a written document executed by the landowner or
+19 the landowner's authorized agent explicitly agreeing to annexation.
+20 Written consent to annex lands must be recorded in the county recorder's
+21 office to be binding upon subsequent purchasers, heirs, or assigns of
+22 lands addressed in the consent.
+23 (b) "Contiguous" means sharing a common border. For the purpose of this
+24 section, land is not contiguous if the only common border is along a
+25 shoestring connection.
+26 (c) "Implied consent" means that valid consent to annex is implied for
+27 the area of all lands connected to a water or wastewater collection sys-
+28 tem owned and operated in its entirety by the city if the connection was
+29 requested in writing by the owner or the owner's authorized agent prior
+30 to July 1, 2024, or if the connection was completed before July 1, 2008.
+31 (d) "Landowner" means a person owning real property in the area pro-
+32 posed for annexation.
+33 (e) "Planning and zoning commission" means the entity performing plan-
+34 ning and zoning duties for the city, which may be the city council it-
+35 self, a planning commission, a zoning commission, or a planning and zon-
+36 ing commission.
+37 (f) "Subject land" means an area proposed for annexation by a city pur-
+38 suant to this section.
+39 (3) Requirements. Except as provided in subsection (5) (6) of this sec-
+40 tion, no city of this state shall annex land unless and until the following
+41 requirements are met:
+
+2
+1 (a) The subject land is contiguous to or surrounded by the city, except
+2 as provided in subsections (7), (9), or (11) (8), (10), or (12) of this
+3 section;
+4 (b) The city notifies each landowner and the board of county commis-
+5 sioners of its intent to annex the subject land. Such notification
+6 shall:
+7 (i) Include a summary of the annexation plan;
+8 (ii) Advise landowners of their right to give or withhold consent;
+9 (iii) Include a description of how consent can be made, where it
+10 should be filed, and the deadline for such filing, which shall be
+11 no later than forty-five (45) days after the date of notification;
+12 (iv) Include information about where the entire record of the pro-
+13 posed annexation may be reviewed; and
+14 (v) Include a legal description of the subject land and a simple
+15 map depicting the location of the subject land;
+16 (c) The city publishes notice of its intent to annex the subject land.
+17 In providing notice, the city shall comply with the notice and hearing
+18 procedures governing a zoning district boundary change as set forth in
+19 chapter 65, title 67, Idaho Code, unless otherwise provided in this sec-
+20 tion, on the question of whether the subject land should be annexed and,
+21 if annexed, the zoning designation to be applied to the subject land.
+22 The initial notice of public hearing concerning the question of annexa-
+23 tion and zoning shall be published in the official newspaper of the city
+24 and mailed by first class mail to every landowner of property included
+25 in the annexation proposal at least twenty-eight (28) days prior to the
+26 initial public hearing. All public hearing notices shall establish a
+27 time and procedure by which comments concerning the proposed annexation
+28 may be received in writing and heard;
+29 (d) The city council adopts a written annexation plan;
+30 (e) Subsequent to publishing notice of intent and a written annexa-
+31 tion plan, the city council and the planning and zoning commission each
+32 holds a public hearing on the proposed annexation, pursuant to section
+33 67-6525, Idaho Code, at which landowners and city residents are af-
+34 forded an opportunity to testify for or against annexation. Provided,
+35 however, if a city performs its own planning and zoning functions with-
+36 out a commission, the two (2) public hearings required by this paragraph
+37 may be combined into one (1) public hearing, but in such case, the no-
+38 tice to landowners required by paragraph (c) of this subsection must be
+39 mailed at least forty-five (45) days prior to the public hearing; and
+40 (f) Landowners representing sixty percent (60%) of the parcels and at
+41 least fifty percent (50%) of the area proposed for annexation give vol-
+42 untary consent as defined in subsection (2) of this section and record
+43 such consent with the county recorder's office for the county in which
+44 the property is located.
+45 (4) Written annexation plan. The written annexation plan required by
+46 subsection (3) of this section shall describe:
+47 (a) The manner of providing tax-supported municipal services to the
+48 subject land;
+49 (b) The changes in taxation and other costs that would result if the
+50 subject land were to be annexed;
+
+3
+1 (c) The means of providing fee-supported municipal services, if any, to
+2 the subject land;
+3 (d) An analysis of the potential effects of annexation on other units of
+4 local government that currently provide tax-supported or fee-supported
+5 services to the subject land;
+6 (e) The proposed future land use plan and zoning designation or desig-
+7 nations, subject to public hearing, for the subject land; and
+8 (f) A statement of the public purposes that would benefit from annexa-
+9 tion.
+10 (5) Landowners whose property is annexed by a city but who do not give
+11 voluntary consent for such annexation pursuant to the provisions of subsec-
+12 tion (3)(f) of this section shall not be required to use wastewater and water
+13 tax-supported municipal services and shall be allowed to maintain existing
+14 wastewater and water systems that are compliant with applicable rules and
+15 regulations. Any other costs incurred by such landowners that are directly
+16 related to the city's annexation of the landowners' property shall be paid by
+17 the city.
+18 (5) (6) Exceptions.
+19 (a) Annexation with consent. In the case of a prospective annexation
+20 where all landowners of the subject property have requested annexation
+21 or where consent has been given by the landowner or landowners of a con-
+22 tiguous parcel or parcels or where implied consent has been given, the
+23 provisions of subsections (3) and (4) of this section shall not apply.
+24 In such a case, the subject land may extend beyond the city area of im-
+25 pact if the land is contiguous to the city and the comprehensive plan in-
+26 cludes the area of annexation. Lands need not be contiguous to the city
+27 limits at the time a landowner consents to annexation for the property
+28 to be subject to a valid consent to annex, but no annexation of lands may
+29 occur, regardless of consent, until such land becomes contiguous to the
+30 city. Upon determining that a proposed annexation meets the require-
+31 ments of this subsection, a city may initiate the planning and zoning
+32 procedures set forth in chapter 65, title 67, Idaho Code, to establish
+33 the comprehensive planning policies, where necessary, and zoning clas-
+34 sification of the lands to be annexed.
+35 (b) Enclaves. The provisions of subsections (3) and (4) of this section
+36 shall not apply to the annexation of any residential enclaved lands of
+37 thirty (30) or fewer privately owned parcels that are surrounded on all
+38 sides by lands within a city or lands that cannot legally or physically
+39 be annexed.
+40 (6) (7) Ordinance. If all requirements provided in subsection (3) or
+41 (5) (6) of this section are satisfied and the city agrees to the annexation,
+42 then the city council shall enact an annexation ordinance.
+43 (7) (8) Highways. In any annexation proceeding, all portions of high-
+44 ways lying wholly or partly in the subject area shall be included in the area
+45 annexed unless there is an express agreement otherwise between the city and
+46 the governing board of the highway agency providing road maintenance at the
+47 time of annexation. Provided, however, no city council may annex property
+48 if the property will be connected to the city only by a shoestring connection
+49 or strip of land comprising the highway's right-of-way in order to establish
+50 contiguity.
+
+4
+1 (8) (9) Fairgrounds. Property that is used as a fairground pursuant to
+2 the provisions of chapter 8, title 31, Idaho Code, or chapter 2, title 22,
+3 Idaho Code, shall not be annexed unless the annexation is approved by a ma-
+4 jority of the board of county commissioners of the county in which the prop-
+5 erty lies.
+6 (9) (10) Airports. A city may annex land that is not contiguous to the
+7 city itself if such land is occupied by a municipally owned or operated air-
+8 port or landing field. A city may not annex any land contiguous to the air-
+9 port or landing field unless the land may otherwise be annexed pursuant to
+10 this section.
+11 (10) (11) Recreational areas. Property owned by a nongovernmental en-
+12 tity that is used to provide outdoor recreational activities to the public
+13 and that has been designated as a planned unit development of fifty (50)
+14 acres or more and does not require or utilize any city services must have the
+15 express written permission of the nongovernmental entity owner to be annexed
+16 by a city.
+17 (11) (12) Railroad rights-of-way. A railroad right-of-way property
+18 may be annexed pursuant to this section only when property within the city
+19 adjoins or will adjoin both sides of the right-of-way. Provided, however,
+20 no city council may annex property if the property will be connected to the
+21 city only by a shoestring connection or strip of land comprising the railroad
+22 right-of-way.
+23 (12) (13) Agricultural or forest lands. In addition to the requirements
+24 set forth in this section, the following lands may not be annexed without the
+25 express written permission of the landowner:
+26 (a) Land, if five (5) acres or greater, actively devoted to agriculture
+27 as defined in section 63-604(1), Idaho Code, regardless of whether such
+28 land is surrounded or bounded on all sides by lands within the city; and
+29 (b) Land, if five (5) acres or greater, actively devoted to forest land
+30 as defined in section 63-1701, Idaho Code, regardless of whether such
+31 land is surrounded or bounded on all sides by lands within the city.
+32 (13) (14) Judicial review. In the case of a city-initiated annexation,
+33 the decision of a city council to annex and zone land shall be subject to
+34 judicial review in accordance with the procedures provided in chapter 52,
+35 title 67, Idaho Code, and pursuant to the standards set forth in section
+36 67-5279, Idaho Code. An appeal shall be filed by an affected person in the
+37 appropriate district court no later than twenty-eight (28) days after the
+38 date of publication of the annexation ordinance and shall be heard by the
+39 district court at the earliest practicable time. All cases in which there
+40 may arise a question of the validity of any city-initiated annexation under
+41 this section shall be advanced as a matter of immediate public interest and
+42 concern and shall be heard by the district court at the earliest practicable
+43 time.
+44 (14) (15) This section applies to annexations occurring on and after
+45 July 1, 2024. It does not invalidate or affect consent, including implied
+46 consent, obtained or annexations undertaken lawfully according to the laws
+47 in effect at the time of such consent or annexations.
+48 SECTION 2. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after
+50 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YENAGTOANBYC;AGSN5,IOC,TEPSRGANBYC;ADDGAYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.ANBYC.()Lei.Itisteitofteletohrtertofpelstoheeintrong,tomectbncsadm,topeammfrteoydtofI,igteetadeyvepnoftdadfdmls,toeeteoydtofpelsttbtfmceayolssinuga,adtoeyaetecfpcssinmgdtonteunf)D.Frpsoftss)""msawndtedbytelroelsadateyagtoancttoaxlsmtberdintecyretobebgunstp,h,orasosadintec)""mssgacnb.Frtepeoft,ldisntcsifteoycnbrisaggc)"dc"msttvdcttoaxisidfeaaofallscdtoawrorwrcnsmodadodiniseybytecyiftecnwdinwgbyteororteosadatpoJy1,2,oriftecnwscdbeJy1,2)""msapnogrlpyinteaapdfra)"gadzgc"msteeypgpgadzgdsfrtec,whmybetecycli,apgc,azgc,orapgadzgc)"tl"msanaapdfranbyacypttotss)R.Etaspdinsn()()oftss,nocyoftsseslaxldusadultefsaem]
+[DELETED: )Testldiscstoorsdbytec,espdinss(,(,or()(,(,or()oft)Tecynsehlradtebdofcycsofisittoaxtestl.Shn)Ieasyofteanp)Aelsoftrrttogeorwdc)Ieadnofhwctcnbem,weidbef,adtedefrshf,whslbolrtnfe()dsartedeofn)Ieinatweteeerdoftepdanmyber;a)Iealldnoftestldadaspdgtelnoftestl)Tecypsneofisittoaxtestlnpgn,tecyslcywhteneadhsggazgdtbyceasstfhir6,te6,IoC,usoepdintss,onteqnofwrtestldsdbeadafa,tezgdntobeadtotestleilneofpchgcgteqnofanadzgslbepdinteolnroftecdmdbyftcsmltoeylrofpyinteanplatlttt()dsprtotlpch.Alpchgnssleheadpebywhcscgtepdayberdinwgadh)Tecyclasawnanp)Sttopgneofitadawnanp,tecycladtepgadzgcnesapchgontepda,pttos,IoC,atwhlsadcyrsaeadanoytotyfrorata.P,ifacypsisonpgadzgfswtac,teto()pchsrdbytspybecdiooe()pch,btinshc,tenetolsrdbyph()oftssnmtbdatltfe()dsprtotepch;a)Lsrgsypt()oftepsadatfypt()ofteaapdfrangevyctasddinsn()oftssnadrhctwhtecyrsoefrtecyinwepyisl)Wnanp.Tewnanpnrdbn()oftssnsld)Temrofpgtdmlsstottl)Tecsintnadorcsttwdrtifttldwetobea]
+[DELETED: )Temsofpgfdmls,ifa,testl)Anasofteplesofanonorusolgtttcypetdorfstotestl)Tepdfelduepnadzgdnord,sttopch,frtestl;a)Astoftepcpsttwdbtfma)Lswepyisadbyacybtwodontgyctfrshanpttotepsofsn()oftssnslntberdtouewradwdmlssadslbeadtomneradwrssttaectwhaersa.Ayorcsidbyshlsttaeddtotecsanoftel'pyslbepdbec)()E)Anwhc.Inteceofapeaeallsoftestpyherdarwecthsbngnbytelrorlsofacsplorpsorweidcthsbng,tsofss()ad()oftssnslntanshac,testldmyedbdtecyaaofitifteldiscstotecyadtecepnisteaaofa.Lsndntbecstotecsattetealrcstoanfrtepobesttoavdcttoa,btnoanoflsm,rsofc,ulshldbscstot.Undgttapdanmstersoftss,acymyietepgadzsstfhincr6,te6,IoC,toeecepgp,wen,adzgcnoftelstobea)E.Tepsofss()ad()oftsslntaytoteanofayrledlsoy()orfrpyodpsttaesdonasbylswnacyorlsttctlyorpea)()O.Ifalrspdinsn()o)()oftssnaesdadtecyastoteantecyclsletanano)()H.Inayanp,alpsofhslgwyorpyintestaaslbeidinteadusteisanesatoebntecyaeggbdoftehyaypgrdmeatteofa.P,h,nocyclmyaxpftepywlbecdtotecyoybyasgcrspofldcgtehsryinortoe]
+[DELETED: )()F.Pyttisudasafdpttepsofcr8,te3,IoC,orcr2,te2oC,slntbeadusteanisadbyamyoftebdofcycsoftecyinwhtepyl)()A.Acymyaxldttisntcstotyififshldisodbyamyodorodatorlgf.Acymyntaxayldcstoteatorlgfdusteldmyoebeadpttss)()Rla.Pyodbyanleyttisudtopeorrlastotepdtthsbnddasapdutdtoffy(sormeaddsntreorueaycyssmthetswnpnoftenleyortobeayac)()Rdr.Ardrypybeadpttotssnoywnpywntecsorwlanbhssofter.P,hocyclmyaxpyiftepywlbecdtotyoybyasgcnorspofldcgter)()Alorftl.Inantotertfhintss,tefglsmyntbeadwttswnpnoftel)L,iffe()asorg,ayddtoasddinsn6,IoC,rsofwrsdissdorbdonalssbylswntec;a)L,iffe()asorg,ayddtoftlsddinsn6,IoC,rsofwrsdissdorbdonalssbylswntec)()Jlr.Inteceofacdaednofacycltoaxadzeldslbesttlrwinaewhtepspdincr5e6,IoC,adpttotessstfhins,IoC.Analslbefdbyanadpnintedtctnolrtntt()dsarteofpnofteanoeadslbehdbyttctatteetpet.Alcsinwhtyaeaqnoftevyofaycdanussnslbeadasamrofiepcitanadslbehdbytedtctatteetp)Tssnastoasogonaday1,2.Itdsntieoratc,igi,odorasunlyagtotelnetatteteofshctoraN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,49 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Den Hartog
+Seconded by Semmelroth
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1092
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 10, delete "ADMINISTRATIVE" and
+3 insert: "ADMINISTRATOR"; in line 28, delete "shall" and insert: "may";
+4 in line 30, delete "administrative" and insert: "administrator"; in line
+5 31, delete "certified" and insert: "certificated"; in line 32, delete
+6 "administrative" and insert: "administration"; in line 37, following
+7 "teacher" insert: "or administrator"; in line 39, following "teacher" in-
+8 sert: "or administrator"; in line 40, following "teacher's" insert: "or
+9 administrator's"; and in line 41, following "teacher" insert: "or adminis-
+10 trator".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyDnHdbySNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,de""a:";inle2,de""adi:"nle3,de""adi:";inl,de""adi:";inle3,d"adi:";inle3,f"i:"ra;inle3,fg""i:"ra;inle4,fg""i:";adinle4,fg""i:"ra]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Den Hartog
+Seconded by Semmelroth
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1092
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 10, delete "ADMINISTRATIVE" and
+3 insert: "ADMINISTRATOR"; in line 28, delete "shall" and insert: "may";
+4 in line 30, delete "administrative" and insert: "administrator"; in line
+5 31, delete "certified" and insert: "certificated"; in line 32, delete
+6 "administrative" and insert: "administration"; in line 37, following
+7 "teacher" insert: "or administrator"; in line 39, following "teacher" in-
+8 sert: "or administrator"; in line 40, following "teacher's" insert: "or
+9 administrator's"; and in line 41, following "teacher" insert: "or adminis-
+10 trator".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyDnHdbySNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,de""a:";inle2,de""adi:"nle3,de""adi:";inl,de""adi:";inle3,d"adi:";inle3,f"i:"ra;inle3,fg""i:"ra;inle4,fg""i:";adinle4,fg""i:"ra]

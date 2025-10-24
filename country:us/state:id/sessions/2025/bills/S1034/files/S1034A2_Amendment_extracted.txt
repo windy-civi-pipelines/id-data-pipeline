@@ -1,0 +1,81 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Shippy
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1034
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 13, following "section" insert: ",
+3 except as provided by section 39-1211A, Idaho Code".
+4 AMENDMENT TO THE BILL
+5 On page 2, following line 32, insert:
+6 "SECTION 2. That Chapter 12, Title 39, Idaho Code, be, and the same is
+7 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+8 ignated as Section 39-1211C, and to read as follows:
+9 39-1211C. FOSTER PARENT TRAINING. (1) Each caregiver, unless exempted,
+10 shall complete training on knowledge and skills relating to the reasonable
+11 and prudent parent standard as set forth in chapter 16, title 16, Idaho Code.
+12 (2) The department shall make training available on an ongoing basis on
+13 the following topics: rights, roles, and responsibilities of foster par-
+14 ents; laws and regulations; the impact of childhood trauma; managing child
+15 behaviors; first aid and medication administration; gun safety in foster
+16 homes; and the importance of maintaining meaningful connections between the
+17 child and parents, including regular visitation."
+18 ; and renumber succeeding sections accordingly.
+19 AMENDMENT TO SECTION 2
+20 On page 2, in line 34, delete "Section 230., Section 232.," and insert:
+21 "Section 010., Subsections 12. and 13.; Section 102., Subsection 03.; Sec-
+22 tion 206.; Section 230.; Section 232.;".
+23 CORRECTION TO TITLE
+24 On page 1, in line 4, following "REQUIREMENTS;" insert: "AMENDING CHAP-
+25 TER 12, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-1211C, IDAHO
+26 CODE, TO ESTABLISH PROVISIONS REGARDING FOSTER PARENT TRAINING;".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbySdbyHNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,fg""i:"taspdbysn3,IoCTTOTEBnpe2,fgle3,iN2.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,adtordasf.FRPTT.()Ehc,uselcetgonkeadssrgtoterdptptsdasstfhincr1,te1,IoC)Tedtslmetgaeonanogbsoefgt:r,r,adrsoffrp;lsadr;teitofcdt;mgc;ftadadmna;gnsyinf;adteieofmgmlcsbntdadp,igrrvadrrsgssaTTOSNnpe2,inle3,de"n2,Sn2"adin0,Ss1.ad1;Sn1,Sn0;Sn2;Sn2;Sn2NTOTnpe1,inle4,fg""i:"GCR1,TE3,IOC,BYTEANOFANWSN3,I,TOEHPSRGFRPTT]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Shippy
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1034
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 13, following "section" insert: ",
+3 except as provided by section 39-1211A, Idaho Code".
+4 AMENDMENT TO THE BILL
+5 On page 2, following line 32, insert:
+6 "SECTION 2. That Chapter 12, Title 39, Idaho Code, be, and the same is
+7 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+8 ignated as Section 39-1211C, and to read as follows:
+9 39-1211C. FOSTER PARENT TRAINING. (1) Each caregiver, unless exempted,
+10 shall complete training on knowledge and skills relating to the reasonable
+11 and prudent parent standard as set forth in chapter 16, title 16, Idaho Code.
+12 (2) The department shall make training available on an ongoing basis on
+13 the following topics: rights, roles, and responsibilities of foster par-
+14 ents; laws and regulations; the impact of childhood trauma; managing child
+15 behaviors; first aid and medication administration; gun safety in foster
+16 homes; and the importance of maintaining meaningful connections between the
+17 child and parents, including regular visitation."
+18 ; and renumber succeeding sections accordingly.
+19 AMENDMENT TO SECTION 2
+20 On page 2, in line 34, delete "Section 230., Section 232.," and insert:
+21 "Section 010., Subsections 12. and 13.; Section 102., Subsection 03.; Sec-
+22 tion 206.; Section 230.; Section 232.;".
+23 CORRECTION TO TITLE
+24 On page 1, in line 4, following "REQUIREMENTS;" insert: "AMENDING CHAP-
+25 TER 12, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-1211C, IDAHO
+26 CODE, TO ESTABLISH PROVISIONS REGARDING FOSTER PARENT TRAINING;".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbySdbyHNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,fg""i:"taspdbysn3,IoCTTOTEBnpe2,fgle3,iN2.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,adtordasf.FRPTT.()Ehc,uselcetgonkeadssrgtoterdptptsdasstfhincr1,te1,IoC)Tedtslmetgaeonanogbsoefgt:r,r,adrsoffrp;lsadr;teitofcdt;mgc;ftadadmna;gnsyinf;adteieofmgmlcsbntdadp,igrrvadrrsgssaTTOSNnpe2,inle3,de"n2,Sn2"adin0,Ss1.ad1;Sn1,Sn0;Sn2;Sn2;Sn2NTOTnpe1,inle4,fg""i:"GCR1,TE3,IOC,BYTEANOFANWSN3,I,TOEHPSRGFRPTT]

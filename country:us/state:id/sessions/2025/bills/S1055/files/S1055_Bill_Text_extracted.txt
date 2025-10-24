@@ -1,0 +1,285 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1055
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTRONIC PAYMENT TRANSACTIONS; AMENDING CHAPTER 36, TITLE 63,
+3 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 63-3643, IDAHO CODE, TO ES-
+4 TABLISH PROVISIONS PROHIBITING THE IMPOSITION OF AN ELECTRONIC PAYMENT
+5 TRANSACTION INTERCHANGE FEE ON ANY PORTION OF THE TRANSACTION AMOUNT
+6 THAT REPRESENTS A TAX OR GRATUITY UNDER CERTAIN CONDITIONS, TO DEFINE
+7 TERMS, AND TO PROVIDE A PENALTY; AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 36, Title 63, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 63-3643, Idaho Code, and to read as follows:
+12 63-3643. ELECTRONIC PAYMENT TRANSACTION INTERCHANGE FEES. (1) The
+13 amount of a state or local tax and the amount of a gratuity that is calculated
+14 as a percentage of an electronic payment transaction amount, if identified
+15 or listed separately by the merchant on the payment invoice or other demand
+16 for payment, must be excluded from the amount on which an interchange fee is
+17 charged for that electronic payment transaction. Such taxes include but are
+18 not limited to:
+19 (a) Sales and use taxes under this chapter;
+20 (b) Hotel and motel room sales taxes pursuant to sections 67-4917A
+21 through 67-4917C, Idaho Code;
+22 (c) Fuels taxes pursuant to chapter 24, title 63, Idaho Code; and
+23 (d) Cigarette and tobacco products taxes pursuant to chapter 25, title
+24 63, Idaho Code.
+25 (2)(a) A payment card network shall either:
+26 (i) Deduct the amount of any tax and gratuity imposed from the
+27 calculation of interchange fees specific to each form or type of
+28 electronic payment transaction at the time of settlement; or
+29 (ii) Rebate an amount of interchange fee proportionate to the
+30 amount attributable to the tax and gratuity.
+31 (b) A deduction or rebate must occur at the time of settlement when the
+32 merchant captures and transmits the tax and gratuity amounts relevant
+33 to the sale at the time of sale as part of the transaction finalization.
+34 If a merchant is unable to capture and transmit tax and gratuity amounts
+35 relevant to the sale at the time of sale, the merchant may submit tax
+36 and gratuity documentation to the payment card network no later than
+37 one hundred eighty (180) days after the date of the electronic payment
+38 transaction. Within thirty (30) days after the merchant submits the
+39 necessary tax and gratuity documentation, the issuer must credit to the
+40 merchant the amount of interchange fees charged on the tax and gratuity
+41 amount of the electronic payment transaction.
+2
+1 (3) This section creates no liability for a payment card network re-
+2 garding the accuracy of the tax or gratuity amount reported by the merchant.
+3 If a merchant chooses not to identify the tax or gratuity amounts, or both
+4 tax and gratuity amounts, calculated as a percentage of an electronic pay-
+5 ment transaction, the interchange fee may be charged on the full unsegre-
+6 gated amount of the electronic payment transaction.
+7 (4) It shall be unlawful for any person to alter or manipulate the com-
+8 putation and imposition of interchange fees by increasing the rate or amount
+9 of the fees applicable to or imposed upon the portion of a credit or debit
+10 card transaction not attributable to taxes and gratuities charged to the re-
+11 tailer in order to circumvent the effect of this section.
+12 (5) For the purposes of this section:
+13 (a) "Acquirer bank" means a member of a payment card network that con-
+14 tracts with a merchant for the settlement of electronic payment trans-
+15 actions. An acquirer bank may contract directly with merchants or indi-
+16 rectly through a processor to process electronic payment transactions.
+17 (b) "Authorization" means the process through which a merchant re-
+18 quests approval for an electronic payment transaction from the issuer.
+19 (c) "Clearance" means the process of transmitting final transaction
+20 data from a merchant to an issuer for posting to the cardholder's ac-
+21 count and the calculation of fees and charges, including interchange
+22 fees, that apply to the issuer and the merchant.
+23 (d) "Credit card" means a card or device, whether known as a credit card
+24 or by any other name, issued under an arrangement pursuant to which a
+25 card issuer gives to a cardholder the privilege of obtaining credit from
+26 the card issuer or other person in purchasing or leasing property or
+27 services, obtaining loans, or otherwise.
+28 (e) "Debit card":
+29 (i) Means any instrument or device, whether known as a debit card
+30 or by any other name, issued with or without a fee by an issuer for
+31 the use of the cardholder in depositing, obtaining, or transfer-
+32 ring funds;
+33 (ii) Includes a general-use prepaid card, as defined in 15 U.S.C.
+34 1693l-1; and
+35 (iii) Does not include paper checks.
+36 (f) "Electronic payment transaction" means a transaction in which a
+37 person uses a debit card, credit card, or other payment code or device
+38 issued or approved through a payment card network to debit a deposit
+39 account or use a line of credit, whether authorization is based on a
+40 signature, personal identification number, or other means.
+41 (g) "Gratuity" means a monetary contribution to an employee from a
+42 guest, patron, or customer in connection with services rendered.
+43 (h) "Interchange fee" means a fee established, charged, or received by
+44 a payment card network for the purpose of compensating the issuer for
+45 its involvement in an electronic payment transaction.
+46 (i) "Issuer" means a person issuing a debit card or credit card, or the
+47 issuer's agent.
+48 (j) "Payment card network" means an entity that:
+49 (i) Directly, or through licensed members, processors, or
+50 agents, provides the proprietary services, infrastructure, and
+3
+1 software that routes information and data to conduct electronic
+2 payment transaction authorization, clearance, and settlement;
+3 and
+4 (ii) A merchant or seller uses in order to accept as a form of pay-
+5 ment a brand of debit card, credit card, or other device that may be
+6 used to carry out electronic payment transactions.
+7 (k) "Processor" means an entity that facilitates, services, processes,
+8 or manages the debit or credit authorization, billing, transfer, pay-
+9 ment procedures, or settlement with respect to any electronic payment
+10 transaction.
+11 (l) "Settlement" means the process of transmitting sales information
+12 to the issuing bank for collection and reimbursement of funds to the
+13 merchant and calculating and reporting the net transaction amount to
+14 the issuer and merchant for an electronic payment transaction that is
+15 cleared.
+16 (m) "Tax and gratuity documentation" means documentation sufficient
+17 for the payment card network to determine the total amount of the elec-
+18 tronic payment transaction and the tax or gratuity amount, or both tax
+19 and gratuity amounts, of the transaction. Tax and gratuity documenta-
+20 tion may be related to a single electronic payment transaction or mul-
+21 tiple electronic payment transactions aggregated over a period of time.
+22 Examples of tax and gratuity documentation include but are not limited
+23 to invoices, receipts, journals, ledgers, and tax returns filed with
+24 the Idaho state tax commission or local taxing authorities.
+25 (6) An issuer, payment card network, acquirer bank, processor, or other
+26 designated entity that has received the tax and gratuity documentation pur-
+27 suant to this section and violates the provisions of this section is sub-
+28 ject to a civil penalty of one thousand dollars ($1,000) per electronic pay-
+29 ment transaction, and the issuer must refund the merchant the interchange
+30 fee calculated on any tax and gratuity amounts relative to the electronic
+31 payment transaction.
+32 SECTION 2. This act shall be in full force and effect on and after Jan-
+33 uary 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YCEADHNRSCNAGTOECPTT;AGCR3,TE6OC,BYTEANOFANWSN6,IOC,TOEHPSPGTEINOFANECPNIEFEONAYPNOFTETNATRSATXORGYURCNC,TOD,ADTOPEAP;ADPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ECPTTNIEF.()Ttofaseorlltxadteatofagyttiscsapeofanecpttna,ifirldsybytemtonteptieorordrp,mtbeedfmteatonwhaniefeidfrttecptt.Shtsiebtatldt)Ssaduetsurtsc)Hladmlrmsstspttoss6h6,IoC)Fstspttocr2,te6,IoC;a)Ceadtopstspttocr2,t,IoC)Aptcdnksle)Dtteatofaytxadgyidfmtnofiefssctoehfmorteocpttnatteteofs;o)Reanatofiefepetottaetotetxadg)Adnorremtoratteteofstwnttcsadtstetxadgyasroteseatteteofseasptoftetnffamtisuetoceadtttxadgyattoteseatteteofs,temtmysttdgydntoteptcdnknolrtehdey()dsartedeofteecp.Wnty()dsartemtsstytxadgyd,teirmtcttottteatofiefscdontetxadgtofteecptt]
+[DELETED: )Tssncsnolyfraptcdnkrgteayoftetxorgyatrdbytemfamtcsnttoiytetxorgya,orbxadgya,cdasapeofanecptt,teiefemybecdontefludatofteecptt)Itslbeulfraypntoarormetecnadinofiefsbyigtereoraftefsaetooriduntepnofactorddtnntaetotsadgscdtoterrinortoctteetoftss)Frtepsoftss)"rb"msamrofaptcdnkttcswhamtfrtestofecptt.Anarbkmyctdywhmsoriythaprtopsecptt)""mstepsthwhamtrsalfranecpttnfmtei)""mstepsoftgfltafmamttoanirfrpgtotecsatadtecnoffsadc,igi,ttaytoteiradtem)"tc"msacdord,wrknasactcrbyayorn,iduranatpttowhdirgstoacrtepeofogctfecdirororpninpgorlgpyo,ogl,oro)"tc)Msayitord,wrknasadtcrbyayorn,idwhorwtafebyanirfeueoftecrind,o,ortgf)Isagepdc,asddin15U;a)Dsntieprc)"cptt"msatninwhnusadtc,ctc,ororptceorddoradthaptcdnktodtadtoruealeofc,wranisbdon,plinn,ororm)""msamycntoaneefm,p,orcrincnwhssr)"ef"msafee,c,orrdbptcdnkfrtepeofcgteirfsitinanecptt)""msapnigadtcdorctc,ortsa)"tcdn"msaneyt)D,orthldm,p,o,pstepys,i,a]
+[DELETED: ettrsinaddatoctettna,c,ads)Amtorsrusinortoatasafmofptabdofdtc,ctc,orordettmybdtocyotecptt)""msaneyttf,s,prmstedtorcta,b,t,ptp,orstwhrttoayecp)""mstepsoftgssioteigbkfrcnadrtoffstottadcgadrgtenttnatteiradmtfranecpttntti)"xadgyd"msdnsrteptcdnktodetetlatofteecpttnadtetxorgya,orbhtdgya,oftet.Txadgydnmyberdtoaseecpttnormeecpttsadorapdoftsoftxadgydniebtaentloi,r,j,l,adtxrsfdweIosetxcnorlltga)Ani,ptcdn,arb,p,orodeytthsrdtetxadgydnpttotssnadvstepsoftssnissttoaclpyofoetdds()precptt,adteirmtrdtemtteiecdonaytxadgyasretoteettN2.TsatslbeinflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1055
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTRONIC PAYMENT TRANSACTIONS; AMENDING CHAPTER 36, TITLE 63,
+3 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 63-3643, IDAHO CODE, TO ES-
+4 TABLISH PROVISIONS PROHIBITING THE IMPOSITION OF AN ELECTRONIC PAYMENT
+5 TRANSACTION INTERCHANGE FEE ON ANY PORTION OF THE TRANSACTION AMOUNT
+6 THAT REPRESENTS A TAX OR GRATUITY UNDER CERTAIN CONDITIONS, TO DEFINE
+7 TERMS, AND TO PROVIDE A PENALTY; AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 36, Title 63, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 63-3643, Idaho Code, and to read as follows:
+12 63-3643. ELECTRONIC PAYMENT TRANSACTION INTERCHANGE FEES. (1) The
+13 amount of a state or local tax and the amount of a gratuity that is calculated
+14 as a percentage of an electronic payment transaction amount, if identified
+15 or listed separately by the merchant on the payment invoice or other demand
+16 for payment, must be excluded from the amount on which an interchange fee is
+17 charged for that electronic payment transaction. Such taxes include but are
+18 not limited to:
+19 (a) Sales and use taxes under this chapter;
+20 (b) Hotel and motel room sales taxes pursuant to sections 67-4917A
+21 through 67-4917C, Idaho Code;
+22 (c) Fuels taxes pursuant to chapter 24, title 63, Idaho Code; and
+23 (d) Cigarette and tobacco products taxes pursuant to chapter 25, title
+24 63, Idaho Code.
+25 (2)(a) A payment card network shall either:
+26 (i) Deduct the amount of any tax and gratuity imposed from the
+27 calculation of interchange fees specific to each form or type of
+28 electronic payment transaction at the time of settlement; or
+29 (ii) Rebate an amount of interchange fee proportionate to the
+30 amount attributable to the tax and gratuity.
+31 (b) A deduction or rebate must occur at the time of settlement when the
+32 merchant captures and transmits the tax and gratuity amounts relevant
+33 to the sale at the time of sale as part of the transaction finalization.
+34 If a merchant is unable to capture and transmit tax and gratuity amounts
+35 relevant to the sale at the time of sale, the merchant may submit tax
+36 and gratuity documentation to the payment card network no later than
+37 one hundred eighty (180) days after the date of the electronic payment
+38 transaction. Within thirty (30) days after the merchant submits the
+39 necessary tax and gratuity documentation, the issuer must credit to the
+40 merchant the amount of interchange fees charged on the tax and gratuity
+41 amount of the electronic payment transaction.
+
+2
+1 (3) This section creates no liability for a payment card network re-
+2 garding the accuracy of the tax or gratuity amount reported by the merchant.
+3 If a merchant chooses not to identify the tax or gratuity amounts, or both
+4 tax and gratuity amounts, calculated as a percentage of an electronic pay-
+5 ment transaction, the interchange fee may be charged on the full unsegre-
+6 gated amount of the electronic payment transaction.
+7 (4) It shall be unlawful for any person to alter or manipulate the com-
+8 putation and imposition of interchange fees by increasing the rate or amount
+9 of the fees applicable to or imposed upon the portion of a credit or debit
+10 card transaction not attributable to taxes and gratuities charged to the re-
+11 tailer in order to circumvent the effect of this section.
+12 (5) For the purposes of this section:
+13 (a) "Acquirer bank" means a member of a payment card network that con-
+14 tracts with a merchant for the settlement of electronic payment trans-
+15 actions. An acquirer bank may contract directly with merchants or indi-
+16 rectly through a processor to process electronic payment transactions.
+17 (b) "Authorization" means the process through which a merchant re-
+18 quests approval for an electronic payment transaction from the issuer.
+19 (c) "Clearance" means the process of transmitting final transaction
+20 data from a merchant to an issuer for posting to the cardholder's ac-
+21 count and the calculation of fees and charges, including interchange
+22 fees, that apply to the issuer and the merchant.
+23 (d) "Credit card" means a card or device, whether known as a credit card
+24 or by any other name, issued under an arrangement pursuant to which a
+25 card issuer gives to a cardholder the privilege of obtaining credit from
+26 the card issuer or other person in purchasing or leasing property or
+27 services, obtaining loans, or otherwise.
+28 (e) "Debit card":
+29 (i) Means any instrument or device, whether known as a debit card
+30 or by any other name, issued with or without a fee by an issuer for
+31 the use of the cardholder in depositing, obtaining, or transfer-
+32 ring funds;
+33 (ii) Includes a general-use prepaid card, as defined in 15 U.S.C.
+34 1693l-1; and
+35 (iii) Does not include paper checks.
+36 (f) "Electronic payment transaction" means a transaction in which a
+37 person uses a debit card, credit card, or other payment code or device
+38 issued or approved through a payment card network to debit a deposit
+39 account or use a line of credit, whether authorization is based on a
+40 signature, personal identification number, or other means.
+41 (g) "Gratuity" means a monetary contribution to an employee from a
+42 guest, patron, or customer in connection with services rendered.
+43 (h) "Interchange fee" means a fee established, charged, or received by
+44 a payment card network for the purpose of compensating the issuer for
+45 its involvement in an electronic payment transaction.
+46 (i) "Issuer" means a person issuing a debit card or credit card, or the
+47 issuer's agent.
+48 (j) "Payment card network" means an entity that:
+49 (i) Directly, or through licensed members, processors, or
+50 agents, provides the proprietary services, infrastructure, and
+
+3
+1 software that routes information and data to conduct electronic
+2 payment transaction authorization, clearance, and settlement;
+3 and
+4 (ii) A merchant or seller uses in order to accept as a form of pay-
+5 ment a brand of debit card, credit card, or other device that may be
+6 used to carry out electronic payment transactions.
+7 (k) "Processor" means an entity that facilitates, services, processes,
+8 or manages the debit or credit authorization, billing, transfer, pay-
+9 ment procedures, or settlement with respect to any electronic payment
+10 transaction.
+11 (l) "Settlement" means the process of transmitting sales information
+12 to the issuing bank for collection and reimbursement of funds to the
+13 merchant and calculating and reporting the net transaction amount to
+14 the issuer and merchant for an electronic payment transaction that is
+15 cleared.
+16 (m) "Tax and gratuity documentation" means documentation sufficient
+17 for the payment card network to determine the total amount of the elec-
+18 tronic payment transaction and the tax or gratuity amount, or both tax
+19 and gratuity amounts, of the transaction. Tax and gratuity documenta-
+20 tion may be related to a single electronic payment transaction or mul-
+21 tiple electronic payment transactions aggregated over a period of time.
+22 Examples of tax and gratuity documentation include but are not limited
+23 to invoices, receipts, journals, ledgers, and tax returns filed with
+24 the Idaho state tax commission or local taxing authorities.
+25 (6) An issuer, payment card network, acquirer bank, processor, or other
+26 designated entity that has received the tax and gratuity documentation pur-
+27 suant to this section and violates the provisions of this section is sub-
+28 ject to a civil penalty of one thousand dollars ($1,000) per electronic pay-
+29 ment transaction, and the issuer must refund the merchant the interchange
+30 fee calculated on any tax and gratuity amounts relative to the electronic
+31 payment transaction.
+32 SECTION 2. This act shall be in full force and effect on and after Jan-
+33 uary 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YCEADHNRSCNAGTOECPTT;AGCR3,TE6OC,BYTEANOFANWSN6,IOC,TOEHPSPGTEINOFANECPNIEFEONAYPNOFTETNATRSATXORGYURCNC,TOD,ADTOPEAP;ADPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ECPTTNIEF.()Ttofaseorlltxadteatofagyttiscsapeofanecpttna,ifirldsybytemtonteptieorordrp,mtbeedfmteatonwhaniefeidfrttecptt.Shtsiebtatldt)Ssaduetsurtsc)Hladmlrmsstspttoss6h6,IoC)Fstspttocr2,te6,IoC;a)Ceadtopstspttocr2,t,IoC)Aptcdnksle)Dtteatofaytxadgyidfmtnofiefssctoehfmorteocpttnatteteofs;o)Reanatofiefepetottaetotetxadg)Adnorremtoratteteofstwnttcsadtstetxadgyasroteseatteteofseasptoftetnffamtisuetoceadtttxadgyattoteseatteteofs,temtmysttdgydntoteptcdnknolrtehdey()dsartedeofteecp.Wnty()dsartemtsstytxadgyd,teirmtcttottteatofiefscdontetxadgtofteecptt]
+[DELETED: )Tssncsnolyfraptcdnkrgteayoftetxorgyatrdbytemfamtcsnttoiytetxorgya,orbxadgya,cdasapeofanecptt,teiefemybecdontefludatofteecptt)Itslbeulfraypntoarormetecnadinofiefsbyigtereoraftefsaetooriduntepnofactorddtnntaetotsadgscdtoterrinortoctteetoftss)Frtepsoftss)"rb"msamrofaptcdnkttcswhamtfrtestofecptt.Anarbkmyctdywhmsoriythaprtopsecptt)""mstepsthwhamtrsalfranecpttnfmtei)""mstepsoftgfltafmamttoanirfrpgtotecsatadtecnoffsadc,igi,ttaytoteiradtem)"tc"msacdord,wrknasactcrbyayorn,iduranatpttowhdirgstoacrtepeofogctfecdirororpninpgorlgpyo,ogl,oro)"tc)Msayitord,wrknasadtcrbyayorn,idwhorwtafebyanirfeueoftecrind,o,ortgf)Isagepdc,asddin15U;a)Dsntieprc)"cptt"msatninwhnusadtc,ctc,ororptceorddoradthaptcdnktodtadtoruealeofc,wranisbdon,plinn,ororm)""msamycntoaneefm,p,orcrincnwhssr)"ef"msafee,c,orrdbptcdnkfrtepeofcgteirfsitinanecptt)""msapnigadtcdorctc,ortsa)"tcdn"msaneyt)D,orthldm,p,o,pstepys,i,a]
+[DELETED: ettrsinaddatoctettna,c,ads)Amtorsrusinortoatasafmofptabdofdtc,ctc,orordettmybdtocyotecptt)""msaneyttf,s,prmstedtorcta,b,t,ptp,orstwhrttoayecp)""mstepsoftgssioteigbkfrcnadrtoffstottadcgadrgtenttnatteiradmtfranecpttntti)"xadgyd"msdnsrteptcdnktodetetlatofteecpttnadtetxorgya,orbhtdgya,oftet.Txadgydnmyberdtoaseecpttnormeecpttsadorapdoftsoftxadgydniebtaentloi,r,j,l,adtxrsfdweIosetxcnorlltga)Ani,ptcdn,arb,p,orodeytthsrdtetxadgydnpttotssnadvstepsoftssnissttoaclpyofoetdds()precptt,adteirmtrdtemtteiecdonaytxadgyasretoteettN2.TsatslbeinflfeadetonadarJy1,2]

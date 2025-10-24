@@ -1,0 +1,130 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 299
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO BROADBAND ADVISORY BOARD; AMENDING SECTION 67-4761,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE COMPOSITION OF THE IDAHO
+4 BROADBAND ADVISORY BOARD AND TO PROVIDE THAT GRANT AWARD GRADING AND
+5 SCORING SHALL BE CONDUCTED BY AN INDEPENDENT THIRD PARTY AT THE DISCRE-
+6 TION OF THE ADVISORY BOARD; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 67-4761, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 67-4761. IDAHO BROADBAND ADVISORY BOARD. (1) There is hereby created
+12 within the department of commerce the Idaho broadband advisory board. The
+13 advisory board shall consist of three (3) members of the house of represen-
+14 tatives appointed by the speaker of the house of representatives, three (3)
+15 members of the senate appointed by the president pro tempore of the senate,
+16 one (1) nonvoting member with experience and knowledge of the broadband in-
+17 dustry appointed by the speaker of the house of representatives, one (1) non-
+18 voting member with experience and knowledge of the broadband industry ap-
+19 pointed by the president pro tempore of the senate, and three (3) members of
+20 the public appointed by the governor.
+21 (2) The advisory board shall be responsible for creating a statewide
+22 broadband plan that will determine the manner of structuring, prioritizing,
+23 and dispersing grants from the Idaho broadband fund to areas of the state
+24 that are most in need and shall have the authority to determine which broad-
+25 band projects are undertaken pursuant to this section. At the discretion of
+26 the advisory board, grant award grading and scoring shall be conducted by an
+27 independent third party, and the independent third party shall provide rec-
+28 ommendations to the advisory board. In the preparation, adoption, and im-
+29 plementation of the statewide broadband plan, the advisory board shall so-
+30 licit the participation and assistance of state agencies with pertinent ex-
+31 pertise. All agencies of the state of Idaho shall cooperate with the advi-
+32 sory board by providing requested research, information, and studies per-
+33 taining in any manner to the statewide broadband plan.
+34 (3) Once the statewide broadband plan has been adopted by a majority
+35 vote of the broadband advisory board, copies of the plan shall be filed in the
+36 office of the governor, posted on the website of the advisory board or the de-
+37 partment of commerce, and published and distributed in any other manner de-
+38 termined appropriate by the advisory board.
+39 (4) Following adoption of the statewide broadband plan, the board shall
+40 administer the implementation of the plan and shall maintain and revise the
+41 plan as necessary.
+2
+1 (5) Any state agency may petition the board to revise the statewide
+2 broadband plan. The board shall review any petition filed pursuant to this
+3 section within three (3) months after it is filed and shall either take ac-
+4 tion to revise the broadband plan or set forth its reasons for denying the
+5 request in writing.
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOTEIOBDAYB;AGSN6OC,TOREPSRGTECNOFTEIDAYBDADTOPETTGTADGGAGSLBECDBYANITTDPYATTEDNOFTEAYB;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.IOBDAYB.()TeishycntedtofceteIobdayb.Tybdslctofte()msofteheofrsadbytesrofteheofr,te(softeseadbyteptpoteoftese()ngmrwheeadkeoftebdiyadbytesrofteheofr,oe()ngmrwheeadkeoftebdiyadbyteptpoteoftes,adte()msoepcadbyteg)Teaybdslberefrcgasdpnttwldetemrofs,pddggsfmteIobdfdtoasoftestaemtinndadslheteaytodewhbdpsaeunpttotss.Attednoeayb,gtadggadsgslbecdbyattdp,adteittdpyslperstoteayb.Intep,a,adinoftesebdp,teaybdslsttepnadaeofseaswhpte.AlasofteseofIoslcewhteaybdbypgrdr,i,adsspginaymrtotesebdp)Oetesebdpnhsbnadbyameoftebdayb,csoftepnslbefdinteofteg,pdonteweofteaybdortedtofc,adpdadddinayormrddaebyteayb)Fganoftesebdp,tebdsrteinoftepnadslmnadretnasn]
+[DELETED: )Ayseaymypntebdtoretesdp.Tebdslrwaypnfdpttotnwnte()msaritisfdadslerteantoretebdpnorstfhisrsfrdgttinwN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 299
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO BROADBAND ADVISORY BOARD; AMENDING SECTION 67-4761,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE COMPOSITION OF THE IDAHO
+4 BROADBAND ADVISORY BOARD AND TO PROVIDE THAT GRANT AWARD GRADING AND
+5 SCORING SHALL BE CONDUCTED BY AN INDEPENDENT THIRD PARTY AT THE DISCRE-
+6 TION OF THE ADVISORY BOARD; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 67-4761, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 67-4761. IDAHO BROADBAND ADVISORY BOARD. (1) There is hereby created
+12 within the department of commerce the Idaho broadband advisory board. The
+13 advisory board shall consist of three (3) members of the house of represen-
+14 tatives appointed by the speaker of the house of representatives, three (3)
+15 members of the senate appointed by the president pro tempore of the senate,
+16 one (1) nonvoting member with experience and knowledge of the broadband in-
+17 dustry appointed by the speaker of the house of representatives, one (1) non-
+18 voting member with experience and knowledge of the broadband industry ap-
+19 pointed by the president pro tempore of the senate, and three (3) members of
+20 the public appointed by the governor.
+21 (2) The advisory board shall be responsible for creating a statewide
+22 broadband plan that will determine the manner of structuring, prioritizing,
+23 and dispersing grants from the Idaho broadband fund to areas of the state
+24 that are most in need and shall have the authority to determine which broad-
+25 band projects are undertaken pursuant to this section. At the discretion of
+26 the advisory board, grant award grading and scoring shall be conducted by an
+27 independent third party, and the independent third party shall provide rec-
+28 ommendations to the advisory board. In the preparation, adoption, and im-
+29 plementation of the statewide broadband plan, the advisory board shall so-
+30 licit the participation and assistance of state agencies with pertinent ex-
+31 pertise. All agencies of the state of Idaho shall cooperate with the advi-
+32 sory board by providing requested research, information, and studies per-
+33 taining in any manner to the statewide broadband plan.
+34 (3) Once the statewide broadband plan has been adopted by a majority
+35 vote of the broadband advisory board, copies of the plan shall be filed in the
+36 office of the governor, posted on the website of the advisory board or the de-
+37 partment of commerce, and published and distributed in any other manner de-
+38 termined appropriate by the advisory board.
+39 (4) Following adoption of the statewide broadband plan, the board shall
+40 administer the implementation of the plan and shall maintain and revise the
+41 plan as necessary.
+
+2
+1 (5) Any state agency may petition the board to revise the statewide
+2 broadband plan. The board shall review any petition filed pursuant to this
+3 section within three (3) months after it is filed and shall either take ac-
+4 tion to revise the broadband plan or set forth its reasons for denying the
+5 request in writing.
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOTEIOBDAYB;AGSN6OC,TOREPSRGTECNOFTEIDAYBDADTOPETTGTADGGAGSLBECDBYANITTDPYATTEDNOFTEAYB;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.IOBDAYB.()TeishycntedtofceteIobdayb.Tybdslctofte()msofteheofrsadbytesrofteheofr,te(softeseadbyteptpoteoftese()ngmrwheeadkeoftebdiyadbytesrofteheofr,oe()ngmrwheeadkeoftebdiyadbyteptpoteoftes,adte()msoepcadbyteg)Teaybdslberefrcgasdpnttwldetemrofs,pddggsfmteIobdfdtoasoftestaemtinndadslheteaytodewhbdpsaeunpttotss.Attednoeayb,gtadggadsgslbecdbyattdp,adteittdpyslperstoteayb.Intep,a,adinoftesebdp,teaybdslsttepnadaeofseaswhpte.AlasofteseofIoslcewhteaybdbypgrdr,i,adsspginaymrtotesebdp)Oetesebdpnhsbnadbyameoftebdayb,csoftepnslbefdinteofteg,pdonteweofteaybdortedtofc,adpdadddinayormrddaebyteayb)Fganoftesebdp,tebdsrteinoftepnadslmnadretnasn]
+[DELETED: )Ayseaymypntebdtoretesdp.Tebdslrwaypnfdpttotnwnte()msaritisfdadslerteantoretebdpnorstfhisrsfrdgttinwN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

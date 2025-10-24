@@ -1,0 +1,118 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 111
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC ASSISTANCE LAW; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 56-211A, IDAHO CODE, TO ESTABLISH PRO-
+4 VISIONS REGARDING PHOTOGRAPHIC VERIFICATION FOR ELECTRONIC BENEFIT
+5 TRANSFER CARDS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 56-211A, Idaho Code, and to read as follows:
+11 56-211A. PHOTOGRAPHIC VERIFICATION FOR FEDERAL FOOD STAMP PRO-
+12 GRAM. (1) No later than January 1, 2026, the department of health and welfare
+13 shall:
+14 (a) Add photographic identification to all new electronic benefit
+15 transfer cards issued to recipients. Such photographic identification
+16 electronic benefit transfer cards shall be in a form approved by the de-
+17 partment of health and welfare and may not prevent any authorized users
+18 in the household from accessing benefits;
+19 (b) Develop a strategy to replace all electronic benefit transfer cards
+20 without photographs in circulation within eighteen (18) months for
+21 households that continue to participate in the program; and
+22 (c) Coordinate with the Idaho transportation department and, to the
+23 extent permissible under federal and state law, minimize costs of
+24 implementation by using an individual's photograph or digital image
+25 maintained by the Idaho transportation department for purposes of this
+26 section.
+27 (2) The requirements of subsection (1) of this section shall not apply,
+28 without the consent of the authorized users, to an electronic benefit trans-
+29 fer card issued for a household that:
+30 (a) Does not include any adult members;
+31 (b) In which all of the adult members of the household are sixty (60)
+32 years of age or older;
+33 (c) In which all of the adult members of the household are blind, dis-
+34 abled, or a victim of domestic violence; or
+35 (d) In which all of the adult members of the household have religious
+36 objections to being photographed.
+37 (3) If, within twelve (12) months of a household requesting a replace-
+38 ment electronic benefit transfer card, any member of the household requests
+39 two (2) additional replacement cards, the department shall refer the house-
+40 hold for investigation.
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOPCAEL;AGCR2,TE5,IOCYTEANOFANWSN5,IOC,TOEHPSRGPCVNFRECBRC;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtCr2,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.PCVNFRFLFDSPP.()NolrtnJy1,2,tedtofhhadw)Adpcintoalnwecbrcsidtor.Shpcicbttrcsslbeinafmadbytedtofhhadweadmyntptayaduntehdfmagb)Dpasytorealecbttrctpsincnwnen()msfsttcetopeintep;a)CewhteIotndta,tottpeurfladsel,mecsonbyuganisphordlidbyteIotndtfrpsoft)Tersofsn()oftssnslntattectofteadu,toanecbttrcdidfrahdt)Dsntieayatm)Inwhalofteatmsoftehdaesy(sofaeoro)Inwhalofteatmsoftehdaeb,d,oravmofdcv;o)Inwhalofteatmsoftehdherstobgp)I,wnte()msofahdrgartecbttrc,aymroftehdro()alrtc,tedtslrrtehdfri]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 111
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC ASSISTANCE LAW; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 56-211A, IDAHO CODE, TO ESTABLISH PRO-
+4 VISIONS REGARDING PHOTOGRAPHIC VERIFICATION FOR ELECTRONIC BENEFIT
+5 TRANSFER CARDS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 56-211A, Idaho Code, and to read as follows:
+11 56-211A. PHOTOGRAPHIC VERIFICATION FOR FEDERAL FOOD STAMP PRO-
+12 GRAM. (1) No later than January 1, 2026, the department of health and welfare
+13 shall:
+14 (a) Add photographic identification to all new electronic benefit
+15 transfer cards issued to recipients. Such photographic identification
+16 electronic benefit transfer cards shall be in a form approved by the de-
+17 partment of health and welfare and may not prevent any authorized users
+18 in the household from accessing benefits;
+19 (b) Develop a strategy to replace all electronic benefit transfer cards
+20 without photographs in circulation within eighteen (18) months for
+21 households that continue to participate in the program; and
+22 (c) Coordinate with the Idaho transportation department and, to the
+23 extent permissible under federal and state law, minimize costs of
+24 implementation by using an individual's photograph or digital image
+25 maintained by the Idaho transportation department for purposes of this
+26 section.
+27 (2) The requirements of subsection (1) of this section shall not apply,
+28 without the consent of the authorized users, to an electronic benefit trans-
+29 fer card issued for a household that:
+30 (a) Does not include any adult members;
+31 (b) In which all of the adult members of the household are sixty (60)
+32 years of age or older;
+33 (c) In which all of the adult members of the household are blind, dis-
+34 abled, or a victim of domestic violence; or
+35 (d) In which all of the adult members of the household have religious
+36 objections to being photographed.
+37 (3) If, within twelve (12) months of a household requesting a replace-
+38 ment electronic benefit transfer card, any member of the household requests
+39 two (2) additional replacement cards, the department shall refer the house-
+40 hold for investigation.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOPCAEL;AGCR2,TE5,IOCYTEANOFANWSN5,IOC,TOEHPSRGPCVNFRECBRC;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtCr2,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.PCVNFRFLFDSPP.()NolrtnJy1,2,tedtofhhadw)Adpcintoalnwecbrcsidtor.Shpcicbttrcsslbeinafmadbytedtofhhadweadmyntptayaduntehdfmagb)Dpasytorealecbttrctpsincnwnen()msfsttcetopeintep;a)CewhteIotndta,tottpeurfladsel,mecsonbyuganisphordlidbyteIotndtfrpsoft)Tersofsn()oftssnslntattectofteadu,toanecbttrcdidfrahdt)Dsntieayatm)Inwhalofteatmsoftehdaesy(sofaeoro)Inwhalofteatmsoftehdaeb,d,oravmofdcv;o)Inwhalofteatmsoftehdherstobgp)I,wnte()msofahdrgartecbttrc,aymroftehdro()alrtc,tedtslrrtehdfri]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

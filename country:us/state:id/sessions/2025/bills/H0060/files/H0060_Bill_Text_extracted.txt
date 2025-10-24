@@ -1,0 +1,572 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 60
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 16, TITLE 33, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 33-1637, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING SUDDEN CARDIAC ARREST PREVENTION; AMENDING SECTION 33-512,
+5 IDAHO CODE, TO REQUIRE SCHOOL DISTRICTS TO ESTABLISH CERTAIN POLICIES
+6 RELATED TO THE DISCIPLINE OF COACHES; AND DECLARING AN EMERGENCY AND
+7 PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 16, Title 33, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 33-1637, Idaho Code, and to read as follows:
+12 33-1637. SUDDEN CARDIAC ARREST PREVENTION. (1) For the purposes of
+13 this section:
+14 (a) "Athletic activity" means an athletic contest, competition, or
+15 practice that is sponsored by or associated with a school, including
+16 cheerleading, club sponsored sports activities, or sports activities
+17 sponsored by any organization affiliated with the school.
+18 (b) "Coach" means any employee, contractor, or volunteer responsible
+19 for overseeing students participating in any athletic activity.
+20 (c) "School" means all public school districts and public charter
+21 schools in the state of Idaho.
+22 (d) "Sudden cardiac arrest symptoms" means symptoms that include but
+23 are not limited to:
+24 (i) Fainting;
+25 (ii) Seizures during exercise;
+26 (iii) Dizziness;
+27 (iv) Chest pain;
+28 (v) Shortness of breath;
+29 (vi) Racing heart rate; or
+30 (vii) Unexplained fatigue during exercise or physical activity.
+31 (2)(a) The state department of education shall develop and post on
+32 its publicly accessible internet-based website guidelines and other
+33 relevant materials to inform and educate students participating in,
+34 or desiring to participate in, an athletic activity, as well as their
+35 parents, guardians, and coaches, about sudden cardiac arrest symptoms,
+36 including the risks associated with continuing to play or practice af-
+37 ter experiencing sudden cardiac arrest symptoms. Such materials shall
+38 include a sudden cardiac arrest symptom information sheet that shall
+39 include a list of the sudden cardiac arrest symptoms and an acknowl-
+40 edgement to be signed by both a student and such student's parent or
+41 guardian. In developing the guidelines and materials, the state de-
+42 partment of education may use, at no cost to the state, an educational
+2
+1 video created by Simon's Heart for the purpose of educating coaches
+2 about sudden cardiac arrest.
+3 (b) A student participating in, or desiring to participate in, an ath-
+4 letic activity and the student's parent or guardian shall, each school
+5 year and prior to participation by the student in an athletic activity,
+6 sign and return to the student's school an acknowledgment of receipt and
+7 review of the sudden cardiac arrest symptoms information sheet provided
+8 in paragraph (a) of this subsection.
+9 (c) Schools may hold an informational meeting prior to the start of each
+10 athletic season for all ages of competitors regarding sudden cardiac
+11 arrest symptoms. In addition to students, parents, coaches and other
+12 school officials, informational meetings may include physicians, pedi-
+13 atric cardiologists, and athletic trainers.
+14 (3)(a) A student who passes out or faints while participating in, or
+15 immediately following, an athletic activity, or who is known to have
+16 passed out or fainted while participating in or immediately following
+17 an athletic activity, shall be removed from participation at that time
+18 by the coach overseeing the athletic activity.
+19 (b) A student who exhibits any of the symptoms provided in subsection
+20 (1)(d)(ii) through (vii) of this section during an athletic activity
+21 may be removed from participation by a coach if the coach reasonably
+22 believes that such symptoms are cardiac related. Coaches who observe
+23 such symptoms may notify the student's parent or legal guardian so that
+24 such parent or legal guardian can determine what treatment, if any, the
+25 student should seek.
+26 (c) A student who is removed from play under the provisions of paragraph
+27 (a) or (b) of this subsection shall not be permitted to return to par-
+28 ticipation in an athletic activity until the student is evaluated and
+29 cleared for return to participation in writing by an appropriate medi-
+30 cal professional.
+31 (4) Every coach shall complete the sudden cardiac arrest training
+32 course produced by Simon's Heart and made available through the national
+33 federation of state high school associations, or a comparable course pro-
+34 duced by another provider and approved by the state department of education,
+35 at least once each school year. A coach shall not be eligible to coach an ath-
+36 letic activity until the coach completes the training course required under
+37 this subsection.
+38 (5) Every school shall no later than July 1, 2027, establish school
+39 policies that provide the following minimum penalties for a coach found to be
+40 in violation of the provisions of subsection (3)(a) or (4) of this section:
+41 (a) For a first violation, suspension from coaching any athletic activ-
+42 ity for the remainder of the season;
+43 (b) For a second violation, suspension from coaching any athletic ac-
+44 tivity for the remainder of the season and for the next season; and
+45 (c) For a third violation, permanent suspension from coaching any ath-
+46 letic activity.
+47 (6) No coach shall be subject to civil liability for such coach's ac-
+48 tions or inactions under the provisions of this section unless such coach is
+49 found to have acted in a grossly negligent or reckless manner.
+3
+1 (7) The sponsors of youth athletic activities may follow the guidance
+2 provided in this section.
+3 SECTION 2. That Section 33-512, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 33-512. GOVERNANCE OF SCHOOLS. The board of trustees of each school
+6 district shall have the following powers and duties:
+7 (1) To fix the days of the year and the hours of the day when schools
+8 shall be in session. However:
+9 (a) Each school district shall annually adopt and implement a school
+10 calendar that provides its students at each grade level with the follow-
+11 ing minimum number of instructional hours:
+12 Grades Hours
+13 9-12 990
+14 4-8 900
+15 1-3 810
+16 K 450
+17 Alternative schools
+18 (any grades) 900
+19 (b) School assemblies, testing and other instructionally related ac-
+20 tivities involving students directly may be included in the required
+21 instructional hours.
+22 (c) When approved by a local school board, annual instructional hour
+23 requirements stated in paragraph (a) of this subsection may be reduced
+24 as follows:
+25 (i) Up to a total of twenty-two (22) hours to accommodate staff
+26 development activities conducted on such days as the local school
+27 board deems appropriate.
+28 (ii) Up to a total of eleven (11) hours of emergency school clo-
+29 sures due to adverse weather conditions and facility failures.
+30 However, transportation to and from school, passing times between
+31 classes, recess and lunch periods shall not be included.
+32 (d) Student and staff activities related to the opening and closing of
+33 the school year, grade reporting, program planning, staff meetings, and
+34 other classroom and building management activities shall not be counted
+35 as instructional time or in the reductions provided in paragraph (c)(i)
+36 of this subsection.
+37 (e) For multiple shift programs, this rule applies to each shift (i.e.,
+38 each student must have access to the minimum annual required hours of
+39 instruction).
+40 (f) The instructional time requirement for grade 12 students may be re-
+41 duced by action of a local school board for an amount of time not to ex-
+42 ceed eleven (11) hours of instructional time.
+43 (g) The state superintendent of public instruction may grant an ex-
+44 emption from the provisions of this section for an individual building
+45 within a district, when the closure of that building, for unforeseen
+4
+1 circumstances, does not affect the attendance of other buildings within
+2 the district.
+3 (h) The state board of education may grant a waiver of the minimum
+4 number of instructional hours for a school district when districtwide
+5 school closures are necessary as a result of natural occurrences cre-
+6 ating unsafe conditions for students. A county or state disaster
+7 declaration must have been issued for one (1) or more of the counties
+8 in which the school district is located. A waiver request to the state
+9 board of education must describe the efforts by the school district to
+10 make up lost instructional hours, the range of grades impacted, and the
+11 number of hours the school district is requesting be waived.
+12 (i) The reduction of instructional hours allowed in paragraphs (f)
+13 through (h) of this subsection may not be combined in a single school
+14 year.
+15 (2) To adopt and carry on and to provide for the financing of a total ed-
+16 ucational program for the district. Such programs in other than elementary
+17 school districts may include education programs for out-of-school youth and
+18 adults, and such districts may provide classes in kindergarten;
+19 (3) To provide, or require pupils to be provided with, suitable text-
+20 books and supplies and, for advice on textbook selections, may appoint a cur-
+21 ricular materials adoption committee as provided in section 33-512A, Idaho
+22 Code;
+23 (4) To protect the morals and health of the pupils;
+24 (5) To exclude from school children not of school age;
+25 (6) To prescribe rules for the disciplining of unruly or insubordinate
+26 pupils, including rules on student harassment, intimidation and bullying,
+27 such rules to be included in a district discipline code adopted by the board
+28 of trustees and a summarized version thereof to be provided in writing at the
+29 beginning of each school year to the teachers and students in the district
+30 in a manner consistent with the student's age, grade and level of academic
+31 achievement;
+32 (7) To exclude from school pupils with contagious or infectious dis-
+33 eases who are diagnosed or suspected as having a contagious or infectious
+34 disease or those who are not immune and have been exposed to a contagious or
+35 infectious disease; and to close school if the board determines that condi-
+36 tions warrant such closure, based on consultation with the district health
+37 department of the public health district in which the school district is lo-
+38 cated;
+39 (8) To equip and maintain a suitable library or libraries in the school
+40 or schools and to exclude therefrom, and from the schools, all books, tracts,
+41 papers, and catechisms of sectarian nature;
+42 (9) To determine school holidays. Any listing of school holidays shall
+43 include not less than the following: New Year's Day, Memorial Day, Indepen-
+44 dence Day, Thanksgiving Day, and Christmas Day. Other days listed in section
+45 73-108, Idaho Code, if the same shall fall on a school day, shall be observed
+46 with appropriate ceremonies; and any days the state board of education may
+47 designate, following the proclamation by the governor, shall be school holi-
+48 days;
+49 (10) To erect and maintain on each schoolhouse or school grounds a suit-
+50 able flagstaff or flagpole and display thereon the flag of the United States
+5
+1 of America on all days, except during inclement weather, when the school is
+2 in session; and for each Veterans Day, each school in session shall conduct
+3 and observe an appropriate program of at least one (1) class period remember-
+4 ing and honoring American veterans;
+5 (11) To prohibit entrance to each schoolhouse or school grounds, to pro-
+6 hibit loitering in schoolhouses or on school grounds and to provide for the
+7 removal from each schoolhouse or school grounds of any individual or indi-
+8 viduals who disrupt the educational processes or whose presence is detrimen-
+9 tal to the morals, health, safety, academic learning or discipline of the
+10 pupils. A person who disrupts the educational process or whose presence is
+11 detrimental to the morals, health, safety, academic learning or discipline
+12 of the pupils, or who loiters in schoolhouses or on school grounds, is guilty
+13 of a misdemeanor;
+14 (12) To supervise and regulate, including by contract with established
+15 entities, those extracurricular activities that are by definition outside
+16 of or in addition to the regular academic courses or curriculum of a public
+17 school, and which extracurricular activities shall not be considered to be a
+18 property, liberty or contract right of any student, and such extracurricular
+19 activities shall not be deemed a necessary element of a public school educa-
+20 tion but shall be considered to be a privilege. For the purposes of extracur-
+21 ricular activities, any secondary school located in this state that is ac-
+22 credited by an organization approved through a process defined by the state
+23 department of education shall be able to fully participate in all extracur-
+24 ricular activities described in and governed by the provisions of this sub-
+25 section;
+26 (13) To govern the school district in compliance with state law and
+27 rules of the state board of education;
+28 (14) To submit to the superintendent of public instruction not later
+29 than July 1 of each year documentation that meets the reporting requirements
+30 of the federal gun-free schools act of 1994 as contained within the federal
+31 improving America's schools act of 1994;
+32 (15) To require that all certificated and noncertificated employees
+33 hired on or after July 1, 2008, and other individuals who are required by
+34 the provisions of section 33-130, Idaho Code, to undergo a criminal history
+35 check shall submit a completed ten (10) finger fingerprint card or scan to
+36 the department of education no later than five (5) days following the first
+37 day of employment or unsupervised contact with students in a K-12 setting,
+38 whichever is sooner. Such employees and other individuals shall pay the cost
+39 of the criminal history check. If the criminal history check shows that the
+40 employee has been convicted of a felony crime enumerated in section 33-1208,
+41 Idaho Code, it shall be grounds for immediate termination, dismissal or
+42 other personnel action of the district, except that it shall be the right
+43 of the school district to evaluate whether an individual convicted of one
+44 of these crimes and having been incarcerated for that crime shall be hired.
+45 Provided however, that any individual convicted of any felony offense listed
+46 in section 33-1208(2), Idaho Code, shall not be hired. For the purposes of
+47 criminal history checks, a substitute teacher is any individual who tem-
+48 porarily replaces a certificated classroom educator and is paid a substitute
+49 teacher wage for one (1) day or more during a school year. A substitute
+50 teacher who has undergone a criminal history check at the request of one (1)
+6
+1 district in which he has been employed as a substitute shall not be required
+2 to undergo an additional criminal history check at the request of any other
+3 district in which he is employed as a substitute if the teacher has obtained
+4 a criminal history check within the previous five (5) years. If the district
+5 next employing the substitute still elects to require another criminal his-
+6 tory check within the five (5) year period, that district shall pay the cost
+7 of the criminal history check or reimburse the substitute teacher for such
+8 cost. To remain on the statewide substitute teacher list maintained by the
+9 state department of education, the substitute teacher shall undergo a crimi-
+10 nal history check every five (5) years;
+11 (16) To maintain a safe environment for students by developing a system
+12 that cross-checks all contractors or other persons who have irregular con-
+13 tact with students against the statewide sex offender registry by developing
+14 a school safety plan for each school and by meeting annually with emergency
+15 first responders to update the plans and discuss emergency exercises and op-
+16 erations;
+17 (17) To provide support for teachers in their first two (2) years in the
+18 profession in the areas of: administrative and supervisory support, mentor-
+19 ing, peer assistance and professional development.
+20 (18) To establish policies governing the discipline of coaches pursuant
+21 to section 33-1637, Idaho Code.
+22 SECTION 3. An emergency existing therefor, which emergency is hereby
+23 declared to exist, this act shall be in full force and effect on and after
+24 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.6YHHADWECNAGTOE;AGCR1,TE3,IOC,BYTNOFANWSN3,IOC,TOEHPGSNCCATP;AGSN3OC,TORESLDSTOEHCNPDTOTEDEOFC;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.SNCCATP.()Frtepsoss)"ca"msanacc,c,oettissdbyoradwhas,i,cbsdssa,orssadbyayonadwhtes)""msaye,c,orvrrrogsspginayaca)""msalpcsldsadpccsinteseofI)"nccats"msssttiebentldt)F)Ssdge)D)Ctp)Ssofb)Rghtr;o)Udfedgeeorpla)Tesedtofensldpadptospyaeidwegsadotmstoimadeesspgirdgtopei,anaca,aswlast,g,adc,atsnccatsgtersadwhcgtopyorpearegsnccats.Shmsseasnccatsminstttsealtoftesnccatssadanattobesdbybhastadshsspto.Indgtegsadm,tesedtofenmyu,atnocttotes,ane]
+[DELETED: ocdbySsHtfrtepeofegctsncca)Astpgi,ordgtopei,anacayadtessptorgns,ehsradprtopnbytestinanacanadrntotessslanatofrtawoftesnccatssinstpnph()oftss)Ssmyhdanilmgprtotestofecsnfralasofcsrgsncts.Inantos,p,csadolo,ilmsmyiep,pcc,adact)Astwopsotorfswepgi,oyf,anaca,orwoiskntohdotorfdwepginoriyfnaca,slberdfmpnattttytechogteaca)Astwoesayoftesspdins)th()oftssndganacayberdfmpnbyachiftechrsttshssaeccr.Cswoohssmynytessptorllgnsothptorllgncndewtt,ifa,ttsds)Astwoisrdfmpyurtepsofp)or()oftssnslntbepdtorntopninanacayultestisedadfrrntopninwgbyanaemlp)EychslcetesnccattepdbySsHtadmeaethtennofsehhsla,oracecepdbyarpradadbytesedtofetltoeehsly.Achslntbeeetochanacayultechcstetgcerduss)EyslslnolrtnJy1,2,ehssttpetefgmmpsfrachfdtobnvnoftepsofsn()or()oftss)Fraftv,snfmcgayacayfrterroftes)Frasdv,snfmcgayacayfrterroftesnadfrtents;a)Fratdv,ptsnfmcgayaca)Nochslbesttocllyfrshcsasorisurtepsoftssnusshchidtoheadinagyntorrsm]
+[DELETED: )TessofyhacasmyfwtegdintssN2.TtSn3,IoC,b,adteseishdtordasf.GEOFS.Tebdoftsofehstslhetefgpsadd)Tofxtedsofteyradtehsoftedywnslbeins.H)Ehsldtslayataditasrttpsisssatehgellwhtefgmmnrofilhesyg)Sla,tgadoriyrdasigssdymybeidinterlh)Wnadbyallslb,alilhssdinph()oftssnmybersf)Uptoatlofto()hstoaestascdonshdsastellsddsa)Uptoatlofen()hsofeyslcsdetoaewrcsadfyf,tntoadfms,pgtsb,rsadlhpsslntbei)Stadsfasrdtoteogadcgoesly,ger,pmp,sfm,arcmadbgmtasslntbecsilteorinterspdinph(ftss)Frmestp,tsreastoehst(hstmtheastotemmalrdhso)Teiltertfrge12ssmyberdbyanofallslbdfranatoftenttoeden()hsofilt)Tesestofpcinmygtanenfmtepsoftssnfranilbnad,wnteceofttb,fru]
+[DELETED: ,dsntatteaeoforbswed)Tesebdofenmygtawroftemrofilhsfrasldtwndlcsaenyasartofnloscguecsfrs.Acyorsednmthebnidfroe()ormeoftecnwhtesldtisl.Awrrttotesdofenmtdeteesbytesldtteupltilh,tereofgsi,adtrofhstesldtisrgbew)Ternofilhsadinps(h()oftssnmyntbecdinases)Toatadcyonadtopefrtefgofatlelpmfrted.Shpsinortneldsmyieenpsfrolyha,adshdsmypecsink)Top,orrepstobepdw,setsadssa,fraeontks,myatacrmsanceaspdinsn3,I)Topttemsadhhoftep)Toeefmslcnntofsla)Topersfrtedgofuyori,igrsonsth,inadbhrstobeidinadtdeceadbytebftsadasdvntftobepdinwgattgofehslyrtotetsadssintednamrctwhtessa,geadllofa)Toeefmslpswhcsorisdswoaeddorsdashgacsorieortewoaentieadhebnedtoacsosd;adtocesliftebddsttcswtshc,bdoncnwhtedthtoftepchhdtinwhtesldtisl)Toepadmnaselyorlsintesrssadtoeet,adfmtes,alb,t,adcsofsnn)Todeslh.Aylgofslhssentlstntef:NwYsD,MlD,IeD,TgD,adCsD.Ordsldins,IoC,ifteseslflonasld,slbeohaec;adaydstesebdofenm,fgtepnbyteg,slbeslh)ToetadmnonehseorslgsasefforfeaddytntefgofteUdS]
+[DELETED: fAaonald,etdgitw,wnteslins;adfrehVsD,ehslinsnslcdoeanaepmofatltoe()cspdrgadhgAnv)Topteetoehseorslg,toptlginssoronslgsadtopefrtlfmehseorslgsofayiloriswodtteelpsorwepeisdltotem,h,s,aclgordeoft.Apnwodsteelpsorwepeiltotem,h,s,aclgordftep,orwolsinssoronslg,isgfam)Toseadr,igbyctwhe,teerasttaebydnoforinantoterraccsorcmofap,adwherasslntbecdtobe,lyorctrtofays,adshesslntbeddanyetofapcslenbtslbecdtobeap.Frtepsofera,aysyslldintssettisadbyanonadthapsddbytestofenslbeaetofypeinalerasddinadgdbytepsoftss)Togntesldtincewhselwasoftesebdofe)TosttotestofpcinntlnJy1ofehyrdnttmstergrfteflgessatof14ascdwntefgAsssatof1)TorettalcdadndedonorarJy1,2,adoriswoaerdbepsofsn3,IoC,touoaclhkslstacdtn()frftcdorsntedtofennolrtnfe()dsfgtefyofetorudctwhssinaK2sriss.Shesadorisslpytecfteclhyc.Ifteclhycksstttehsbncdofafyceedinsn3oC,itslbegsfriet,dlorplanofted,etttitslbeterftesldttoeewranilcdofoftecsadhgbnidfrttceslbehdh,ttayilcdofayfyoelnsn3,IoC,slntbeh.Frtepsolhyc,asetrisayilwotyrsacdcmeradispdasrwefroe()dyormedgasly.Asrwohsueaclhyckattertofoe(]
+[DELETED: tinwhhehsbnedasaseslntberouoanalclhyckattertofayotinwhheisedasaseiftetrhsoclhyckwntepsfe()y.Iftedtegteseslestorearclhyckwntefe()yrp,ttdtslpytecfteclhyckorretesetrfrs.Tornontesesetrltmdbytedtofe,tesetrsluoaclhyckeyfe()y)Tomnaseetfrssbydgastcsalcsororpswoheirctwhssattesesxorrybydslsypnfrehsladbymgaywhetrstouetepsaddseyesado)Topestfrtsintrftto()ysintninteaso:aeadsys,m,praeadpld)Toehpsggtedeofcsposn3,IoCN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 60
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 16, TITLE 33, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 33-1637, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING SUDDEN CARDIAC ARREST PREVENTION; AMENDING SECTION 33-512,
+5 IDAHO CODE, TO REQUIRE SCHOOL DISTRICTS TO ESTABLISH CERTAIN POLICIES
+6 RELATED TO THE DISCIPLINE OF COACHES; AND DECLARING AN EMERGENCY AND
+7 PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 16, Title 33, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 33-1637, Idaho Code, and to read as follows:
+12 33-1637. SUDDEN CARDIAC ARREST PREVENTION. (1) For the purposes of
+13 this section:
+14 (a) "Athletic activity" means an athletic contest, competition, or
+15 practice that is sponsored by or associated with a school, including
+16 cheerleading, club sponsored sports activities, or sports activities
+17 sponsored by any organization affiliated with the school.
+18 (b) "Coach" means any employee, contractor, or volunteer responsible
+19 for overseeing students participating in any athletic activity.
+20 (c) "School" means all public school districts and public charter
+21 schools in the state of Idaho.
+22 (d) "Sudden cardiac arrest symptoms" means symptoms that include but
+23 are not limited to:
+24 (i) Fainting;
+25 (ii) Seizures during exercise;
+26 (iii) Dizziness;
+27 (iv) Chest pain;
+28 (v) Shortness of breath;
+29 (vi) Racing heart rate; or
+30 (vii) Unexplained fatigue during exercise or physical activity.
+31 (2)(a) The state department of education shall develop and post on
+32 its publicly accessible internet-based website guidelines and other
+33 relevant materials to inform and educate students participating in,
+34 or desiring to participate in, an athletic activity, as well as their
+35 parents, guardians, and coaches, about sudden cardiac arrest symptoms,
+36 including the risks associated with continuing to play or practice af-
+37 ter experiencing sudden cardiac arrest symptoms. Such materials shall
+38 include a sudden cardiac arrest symptom information sheet that shall
+39 include a list of the sudden cardiac arrest symptoms and an acknowl-
+40 edgement to be signed by both a student and such student's parent or
+41 guardian. In developing the guidelines and materials, the state de-
+42 partment of education may use, at no cost to the state, an educational
+
+2
+1 video created by Simon's Heart for the purpose of educating coaches
+2 about sudden cardiac arrest.
+3 (b) A student participating in, or desiring to participate in, an ath-
+4 letic activity and the student's parent or guardian shall, each school
+5 year and prior to participation by the student in an athletic activity,
+6 sign and return to the student's school an acknowledgment of receipt and
+7 review of the sudden cardiac arrest symptoms information sheet provided
+8 in paragraph (a) of this subsection.
+9 (c) Schools may hold an informational meeting prior to the start of each
+10 athletic season for all ages of competitors regarding sudden cardiac
+11 arrest symptoms. In addition to students, parents, coaches and other
+12 school officials, informational meetings may include physicians, pedi-
+13 atric cardiologists, and athletic trainers.
+14 (3)(a) A student who passes out or faints while participating in, or
+15 immediately following, an athletic activity, or who is known to have
+16 passed out or fainted while participating in or immediately following
+17 an athletic activity, shall be removed from participation at that time
+18 by the coach overseeing the athletic activity.
+19 (b) A student who exhibits any of the symptoms provided in subsection
+20 (1)(d)(ii) through (vii) of this section during an athletic activity
+21 may be removed from participation by a coach if the coach reasonably
+22 believes that such symptoms are cardiac related. Coaches who observe
+23 such symptoms may notify the student's parent or legal guardian so that
+24 such parent or legal guardian can determine what treatment, if any, the
+25 student should seek.
+26 (c) A student who is removed from play under the provisions of paragraph
+27 (a) or (b) of this subsection shall not be permitted to return to par-
+28 ticipation in an athletic activity until the student is evaluated and
+29 cleared for return to participation in writing by an appropriate medi-
+30 cal professional.
+31 (4) Every coach shall complete the sudden cardiac arrest training
+32 course produced by Simon's Heart and made available through the national
+33 federation of state high school associations, or a comparable course pro-
+34 duced by another provider and approved by the state department of education,
+35 at least once each school year. A coach shall not be eligible to coach an ath-
+36 letic activity until the coach completes the training course required under
+37 this subsection.
+38 (5) Every school shall no later than July 1, 2027, establish school
+39 policies that provide the following minimum penalties for a coach found to be
+40 in violation of the provisions of subsection (3)(a) or (4) of this section:
+41 (a) For a first violation, suspension from coaching any athletic activ-
+42 ity for the remainder of the season;
+43 (b) For a second violation, suspension from coaching any athletic ac-
+44 tivity for the remainder of the season and for the next season; and
+45 (c) For a third violation, permanent suspension from coaching any ath-
+46 letic activity.
+47 (6) No coach shall be subject to civil liability for such coach's ac-
+48 tions or inactions under the provisions of this section unless such coach is
+49 found to have acted in a grossly negligent or reckless manner.
+
+3
+1 (7) The sponsors of youth athletic activities may follow the guidance
+2 provided in this section.
+3 SECTION 2. That Section 33-512, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 33-512. GOVERNANCE OF SCHOOLS. The board of trustees of each school
+6 district shall have the following powers and duties:
+7 (1) To fix the days of the year and the hours of the day when schools
+8 shall be in session. However:
+9 (a) Each school district shall annually adopt and implement a school
+10 calendar that provides its students at each grade level with the follow-
+11 ing minimum number of instructional hours:
+12 Grades Hours
+13 9-12 990
+14 4-8 900
+15 1-3 810
+16 K 450
+17 Alternative schools
+18 (any grades) 900
+19 (b) School assemblies, testing and other instructionally related ac-
+20 tivities involving students directly may be included in the required
+21 instructional hours.
+22 (c) When approved by a local school board, annual instructional hour
+23 requirements stated in paragraph (a) of this subsection may be reduced
+24 as follows:
+25 (i) Up to a total of twenty-two (22) hours to accommodate staff
+26 development activities conducted on such days as the local school
+27 board deems appropriate.
+28 (ii) Up to a total of eleven (11) hours of emergency school clo-
+29 sures due to adverse weather conditions and facility failures.
+30 However, transportation to and from school, passing times between
+31 classes, recess and lunch periods shall not be included.
+32 (d) Student and staff activities related to the opening and closing of
+33 the school year, grade reporting, program planning, staff meetings, and
+34 other classroom and building management activities shall not be counted
+35 as instructional time or in the reductions provided in paragraph (c)(i)
+36 of this subsection.
+37 (e) For multiple shift programs, this rule applies to each shift (i.e.,
+38 each student must have access to the minimum annual required hours of
+39 instruction).
+40 (f) The instructional time requirement for grade 12 students may be re-
+41 duced by action of a local school board for an amount of time not to ex-
+42 ceed eleven (11) hours of instructional time.
+43 (g) The state superintendent of public instruction may grant an ex-
+44 emption from the provisions of this section for an individual building
+45 within a district, when the closure of that building, for unforeseen
+
+4
+1 circumstances, does not affect the attendance of other buildings within
+2 the district.
+3 (h) The state board of education may grant a waiver of the minimum
+4 number of instructional hours for a school district when districtwide
+5 school closures are necessary as a result of natural occurrences cre-
+6 ating unsafe conditions for students. A county or state disaster
+7 declaration must have been issued for one (1) or more of the counties
+8 in which the school district is located. A waiver request to the state
+9 board of education must describe the efforts by the school district to
+10 make up lost instructional hours, the range of grades impacted, and the
+11 number of hours the school district is requesting be waived.
+12 (i) The reduction of instructional hours allowed in paragraphs (f)
+13 through (h) of this subsection may not be combined in a single school
+14 year.
+15 (2) To adopt and carry on and to provide for the financing of a total ed-
+16 ucational program for the district. Such programs in other than elementary
+17 school districts may include education programs for out-of-school youth and
+18 adults, and such districts may provide classes in kindergarten;
+19 (3) To provide, or require pupils to be provided with, suitable text-
+20 books and supplies and, for advice on textbook selections, may appoint a cur-
+21 ricular materials adoption committee as provided in section 33-512A, Idaho
+22 Code;
+23 (4) To protect the morals and health of the pupils;
+24 (5) To exclude from school children not of school age;
+25 (6) To prescribe rules for the disciplining of unruly or insubordinate
+26 pupils, including rules on student harassment, intimidation and bullying,
+27 such rules to be included in a district discipline code adopted by the board
+28 of trustees and a summarized version thereof to be provided in writing at the
+29 beginning of each school year to the teachers and students in the district
+30 in a manner consistent with the student's age, grade and level of academic
+31 achievement;
+32 (7) To exclude from school pupils with contagious or infectious dis-
+33 eases who are diagnosed or suspected as having a contagious or infectious
+34 disease or those who are not immune and have been exposed to a contagious or
+35 infectious disease; and to close school if the board determines that condi-
+36 tions warrant such closure, based on consultation with the district health
+37 department of the public health district in which the school district is lo-
+38 cated;
+39 (8) To equip and maintain a suitable library or libraries in the school
+40 or schools and to exclude therefrom, and from the schools, all books, tracts,
+41 papers, and catechisms of sectarian nature;
+42 (9) To determine school holidays. Any listing of school holidays shall
+43 include not less than the following: New Year's Day, Memorial Day, Indepen-
+44 dence Day, Thanksgiving Day, and Christmas Day. Other days listed in section
+45 73-108, Idaho Code, if the same shall fall on a school day, shall be observed
+46 with appropriate ceremonies; and any days the state board of education may
+47 designate, following the proclamation by the governor, shall be school holi-
+48 days;
+49 (10) To erect and maintain on each schoolhouse or school grounds a suit-
+50 able flagstaff or flagpole and display thereon the flag of the United States
+
+5
+1 of America on all days, except during inclement weather, when the school is
+2 in session; and for each Veterans Day, each school in session shall conduct
+3 and observe an appropriate program of at least one (1) class period remember-
+4 ing and honoring American veterans;
+5 (11) To prohibit entrance to each schoolhouse or school grounds, to pro-
+6 hibit loitering in schoolhouses or on school grounds and to provide for the
+7 removal from each schoolhouse or school grounds of any individual or indi-
+8 viduals who disrupt the educational processes or whose presence is detrimen-
+9 tal to the morals, health, safety, academic learning or discipline of the
+10 pupils. A person who disrupts the educational process or whose presence is
+11 detrimental to the morals, health, safety, academic learning or discipline
+12 of the pupils, or who loiters in schoolhouses or on school grounds, is guilty
+13 of a misdemeanor;
+14 (12) To supervise and regulate, including by contract with established
+15 entities, those extracurricular activities that are by definition outside
+16 of or in addition to the regular academic courses or curriculum of a public
+17 school, and which extracurricular activities shall not be considered to be a
+18 property, liberty or contract right of any student, and such extracurricular
+19 activities shall not be deemed a necessary element of a public school educa-
+20 tion but shall be considered to be a privilege. For the purposes of extracur-
+21 ricular activities, any secondary school located in this state that is ac-
+22 credited by an organization approved through a process defined by the state
+23 department of education shall be able to fully participate in all extracur-
+24 ricular activities described in and governed by the provisions of this sub-
+25 section;
+26 (13) To govern the school district in compliance with state law and
+27 rules of the state board of education;
+28 (14) To submit to the superintendent of public instruction not later
+29 than July 1 of each year documentation that meets the reporting requirements
+30 of the federal gun-free schools act of 1994 as contained within the federal
+31 improving America's schools act of 1994;
+32 (15) To require that all certificated and noncertificated employees
+33 hired on or after July 1, 2008, and other individuals who are required by
+34 the provisions of section 33-130, Idaho Code, to undergo a criminal history
+35 check shall submit a completed ten (10) finger fingerprint card or scan to
+36 the department of education no later than five (5) days following the first
+37 day of employment or unsupervised contact with students in a K-12 setting,
+38 whichever is sooner. Such employees and other individuals shall pay the cost
+39 of the criminal history check. If the criminal history check shows that the
+40 employee has been convicted of a felony crime enumerated in section 33-1208,
+41 Idaho Code, it shall be grounds for immediate termination, dismissal or
+42 other personnel action of the district, except that it shall be the right
+43 of the school district to evaluate whether an individual convicted of one
+44 of these crimes and having been incarcerated for that crime shall be hired.
+45 Provided however, that any individual convicted of any felony offense listed
+46 in section 33-1208(2), Idaho Code, shall not be hired. For the purposes of
+47 criminal history checks, a substitute teacher is any individual who tem-
+48 porarily replaces a certificated classroom educator and is paid a substitute
+49 teacher wage for one (1) day or more during a school year. A substitute
+50 teacher who has undergone a criminal history check at the request of one (1)
+
+6
+1 district in which he has been employed as a substitute shall not be required
+2 to undergo an additional criminal history check at the request of any other
+3 district in which he is employed as a substitute if the teacher has obtained
+4 a criminal history check within the previous five (5) years. If the district
+5 next employing the substitute still elects to require another criminal his-
+6 tory check within the five (5) year period, that district shall pay the cost
+7 of the criminal history check or reimburse the substitute teacher for such
+8 cost. To remain on the statewide substitute teacher list maintained by the
+9 state department of education, the substitute teacher shall undergo a crimi-
+10 nal history check every five (5) years;
+11 (16) To maintain a safe environment for students by developing a system
+12 that cross-checks all contractors or other persons who have irregular con-
+13 tact with students against the statewide sex offender registry by developing
+14 a school safety plan for each school and by meeting annually with emergency
+15 first responders to update the plans and discuss emergency exercises and op-
+16 erations;
+17 (17) To provide support for teachers in their first two (2) years in the
+18 profession in the areas of: administrative and supervisory support, mentor-
+19 ing, peer assistance and professional development.
+20 (18) To establish policies governing the discipline of coaches pursuant
+21 to section 33-1637, Idaho Code.
+22 SECTION 3. An emergency existing therefor, which emergency is hereby
+23 declared to exist, this act shall be in full force and effect on and after
+24 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.6YHHADWECNAGTOE;AGCR1,TE3,IOC,BYTNOFANWSN3,IOC,TOEHPGSNCCATP;AGSN3OC,TORESLDSTOEHCNPDTOTEDEOFC;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.SNCCATP.()Frtepsoss)"ca"msanacc,c,oettissdbyoradwhas,i,cbsdssa,orssadbyayonadwhtes)""msaye,c,orvrrrogsspginayaca)""msalpcsldsadpccsinteseofI)"nccats"msssttiebentldt)F)Ssdge)D)Ctp)Ssofb)Rghtr;o)Udfedgeeorpla)Tesedtofensldpadptospyaeidwegsadotmstoimadeesspgirdgtopei,anaca,aswlast,g,adc,atsnccatsgtersadwhcgtopyorpearegsnccats.Shmsseasnccatsminstttsealtoftesnccatssadanattobesdbybhastadshsspto.Indgtegsadm,tesedtofenmyu,atnocttotes,ane]
+[DELETED: ocdbySsHtfrtepeofegctsncca)Astpgi,ordgtopei,anacayadtessptorgns,ehsradprtopnbytestinanacanadrntotessslanatofrtawoftesnccatssinstpnph()oftss)Ssmyhdanilmgprtotestofecsnfralasofcsrgsncts.Inantos,p,csadolo,ilmsmyiep,pcc,adact)Astwopsotorfswepgi,oyf,anaca,orwoiskntohdotorfdwepginoriyfnaca,slberdfmpnattttytechogteaca)Astwoesayoftesspdins)th()oftssndganacayberdfmpnbyachiftechrsttshssaeccr.Cswoohssmynytessptorllgnsothptorllgncndewtt,ifa,ttsds)Astwoisrdfmpyurtepsofp)or()oftssnslntbepdtorntopninanacayultestisedadfrrntopninwgbyanaemlp)EychslcetesnccattepdbySsHtadmeaethtennofsehhsla,oracecepdbyarpradadbytesedtofetltoeehsly.Achslntbeeetochanacayultechcstetgcerduss)EyslslnolrtnJy1,2,ehssttpetefgmmpsfrachfdtobnvnoftepsofsn()or()oftss)Fraftv,snfmcgayacayfrterroftes)Frasdv,snfmcgayacayfrterroftesnadfrtents;a)Fratdv,ptsnfmcgayaca)Nochslbesttocllyfrshcsasorisurtepsoftssnusshchidtoheadinagyntorrsm]
+[DELETED: )TessofyhacasmyfwtegdintssN2.TtSn3,IoC,b,adteseishdtordasf.GEOFS.Tebdoftsofehstslhetefgpsadd)Tofxtedsofteyradtehsoftedywnslbeins.H)Ehsldtslayataditasrttpsisssatehgellwhtefgmmnrofilhesyg)Sla,tgadoriyrdasigssdymybeidinterlh)Wnadbyallslb,alilhssdinph()oftssnmybersf)Uptoatlofto()hstoaestascdonshdsastellsddsa)Uptoatlofen()hsofeyslcsdetoaewrcsadfyf,tntoadfms,pgtsb,rsadlhpsslntbei)Stadsfasrdtoteogadcgoesly,ger,pmp,sfm,arcmadbgmtasslntbecsilteorinterspdinph(ftss)Frmestp,tsreastoehst(hstmtheastotemmalrdhso)Teiltertfrge12ssmyberdbyanofallslbdfranatoftenttoeden()hsofilt)Tesestofpcinmygtanenfmtepsoftssnfranilbnad,wnteceofttb,fru]
+[DELETED: ,dsntatteaeoforbswed)Tesebdofenmygtawroftemrofilhsfrasldtwndlcsaenyasartofnloscguecsfrs.Acyorsednmthebnidfroe()ormeoftecnwhtesldtisl.Awrrttotesdofenmtdeteesbytesldtteupltilh,tereofgsi,adtrofhstesldtisrgbew)Ternofilhsadinps(h()oftssnmyntbecdinases)Toatadcyonadtopefrtefgofatlelpmfrted.Shpsinortneldsmyieenpsfrolyha,adshdsmypecsink)Top,orrepstobepdw,setsadssa,fraeontks,myatacrmsanceaspdinsn3,I)Topttemsadhhoftep)Toeefmslcnntofsla)Topersfrtedgofuyori,igrsonsth,inadbhrstobeidinadtdeceadbytebftsadasdvntftobepdinwgattgofehslyrtotetsadssintednamrctwhtessa,geadllofa)Toeefmslpswhcsorisdswoaeddorsdashgacsorieortewoaentieadhebnedtoacsosd;adtocesliftebddsttcswtshc,bdoncnwhtedthtoftepchhdtinwhtesldtisl)Toepadmnaselyorlsintesrssadtoeet,adfmtes,alb,t,adcsofsnn)Todeslh.Aylgofslhssentlstntef:NwYsD,MlD,IeD,TgD,adCsD.Ordsldins,IoC,ifteseslflonasld,slbeohaec;adaydstesebdofenm,fgtepnbyteg,slbeslh)ToetadmnonehseorslgsasefforfeaddytntefgofteUdS]
+[DELETED: fAaonald,etdgitw,wnteslins;adfrehVsD,ehslinsnslcdoeanaepmofatltoe()cspdrgadhgAnv)Topteetoehseorslg,toptlginssoronslgsadtopefrtlfmehseorslgsofayiloriswodtteelpsorwepeisdltotem,h,s,aclgordeoft.Apnwodsteelpsorwepeiltotem,h,s,aclgordftep,orwolsinssoronslg,isgfam)Toseadr,igbyctwhe,teerasttaebydnoforinantoterraccsorcmofap,adwherasslntbecdtobe,lyorctrtofays,adshesslntbeddanyetofapcslenbtslbecdtobeap.Frtepsofera,aysyslldintssettisadbyanonadthapsddbytestofenslbeaetofypeinalerasddinadgdbytepsoftss)Togntesldtincewhselwasoftesebdofe)TosttotestofpcinntlnJy1ofehyrdnttmstergrfteflgessatof14ascdwntefgAsssatof1)TorettalcdadndedonorarJy1,2,adoriswoaerdbepsofsn3,IoC,touoaclhkslstacdtn()frftcdorsntedtofennolrtnfe()dsfgtefyofetorudctwhssinaK2sriss.Shesadorisslpytecfteclhyc.Ifteclhycksstttehsbncdofafyceedinsn3oC,itslbegsfriet,dlorplanofted,etttitslbeterftesldttoeewranilcdofoftecsadhgbnidfrttceslbehdh,ttayilcdofayfyoelnsn3,IoC,slntbeh.Frtepsolhyc,asetrisayilwotyrsacdcmeradispdasrwefroe()dyormedgasly.Asrwohsueaclhyckattertofoe(]
+[DELETED: tinwhhehsbnedasaseslntberouoanalclhyckattertofayotinwhheisedasaseiftetrhsoclhyckwntepsfe()y.Iftedtegteseslestorearclhyckwntefe()yrp,ttdtslpytecfteclhyckorretesetrfrs.Tornontesesetrltmdbytedtofe,tesetrsluoaclhyckeyfe()y)Tomnaseetfrssbydgastcsalcsororpswoheirctwhssattesesxorrybydslsypnfrehsladbymgaywhetrstouetepsaddseyesado)Topestfrtsintrftto()ysintninteaso:aeadsys,m,praeadpld)Toehpsggtedeofcsposn3,IoCN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

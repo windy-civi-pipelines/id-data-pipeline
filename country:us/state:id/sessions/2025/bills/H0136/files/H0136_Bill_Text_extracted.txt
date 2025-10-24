@@ -1,0 +1,138 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 136
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO 340B DRUG PRICING PROGRAM REPORTING; AMENDING CHAPTER 3, TITLE
+3 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-351, IDAHO CODE, TO
+4 ESTABLISH PROVISIONS REGARDING 340B DRUG PRICING PROGRAM REPORTING;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 3, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-351, Idaho Code, and to read as follows:
+10 41-351. 340B DRUG PRICING PROGRAM REPORTING. (1) As used in this sec-
+11 tion, "340B covered entity" means an entity authorized to participate in the
+12 federal 340B drug pricing program under section 340B(a)(4) of the federal
+13 public health service act and includes any pharmacy under contract with the
+14 entity to dispense drugs on behalf of the entity.
+15 (2) Before April 1 of each year, a 340B covered entity shall report the
+16 following information to the state department of health and welfare, the
+17 state controller's office, and the attorney general concerning the 340B cov-
+18 ered entity's participation in the federal 340B drug pricing program for the
+19 previous calendar year:
+20 (a) The name of the covered 340B entity;
+21 (b) The aggregate acquisition cost for prescription drugs obtained un-
+22 der the 340B program;
+23 (c) The aggregate payment amount received for drugs obtained under the
+24 340B program and dispensed to patients;
+25 (d) The aggregate payment made to pharmacies under contract to dispense
+26 drugs obtained under the 340B program;
+27 (e) The number of claims for prescription drugs described in paragraph
+28 (c) of this subsection; and
+29 (f) How the 340B covered entity uses any savings from participating in
+30 the 340B program, including the amount of savings used for the provision
+31 of charity care, community benefits, or a similar program of providing
+32 unreimbursed health care to the indigent.
+33 (3) The information required to be reported pursuant to subsection (2)
+34 of this section shall be reported by payer type, including the following:
+35 (a) Commercial;
+36 (b) Medicaid; and
+37 (c) Medicare.
+38 (4) The data submitted in the reports required pursuant to subsection
+39 (2) of this section is confidential and shall not be made available for pub-
+40 lic inspection.
+2
+1 (5) Before November 15 of each year, the state controller's office
+2 shall prepare a report that aggregates the data submitted pursuant to sub-
+3 section (2) of this section and:
+4 (a) Submit the report to the legislative council in an electronic for-
+5 mat; and
+6 (b) Make such report available on the transparent Idaho website.
+7 (6) The attorney general may use the information in the reports re-
+8 quired pursuant to subsection (2) of this section for the purposes of
+9 investigating medicaid fraud and ensuring compliance with health resources
+10 and service administration requirements.
+11 SECTION 2. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTO3BDGPGPMR;AGCR3,T,IOC,BYTEANOFANWSN4,IOC,THPSRG3BDGPGPMRDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.3BDGPGPMR.()Asudintss,"Bcde"msaneyadtopeintl3Bdgpgpmursn3)oftefchhseatadisaypyurctwhtytodedsonbfoftee)BeAl1ofehy,a3Bcdeyslrttgintotesedtofhhadw,tecso,adteayglcgte3Bcdespnintefl3Bdgpgpmfrtscry)Teneoftecd3Be)Teaeanctfrpndsodurte3Bp)TeaeptatrdfrdsodurtBpmadddtop)Teaeptmetopsurcttodsodurte3Bp)Tenrofcsfrpndsddinp)oftss;a)Hwte3Bcdeyusayssfmpgie3Bp,igteatofssudfrtepfcyc,cyb,orasrpmofpdhhcetotei)Teinrdtoberdpttosn(ftssnslberdbyprt,igtef)C)M;a)M)Tedasdintersrdpttos)oftssniscladslntbemeaefrpci]
+[DELETED: )BeNr15ofehy,tesecsolpeartttastedasdpttosn()oftssna)Stterttoteleclinanecf;a)MeshrtaeontettIow)Teayglmyueteinintersrdpttosn()oftssnfrtepsogmdfdadegcewhhhrdseanrN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 136
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO 340B DRUG PRICING PROGRAM REPORTING; AMENDING CHAPTER 3, TITLE
+3 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-351, IDAHO CODE, TO
+4 ESTABLISH PROVISIONS REGARDING 340B DRUG PRICING PROGRAM REPORTING;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 3, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-351, Idaho Code, and to read as follows:
+10 41-351. 340B DRUG PRICING PROGRAM REPORTING. (1) As used in this sec-
+11 tion, "340B covered entity" means an entity authorized to participate in the
+12 federal 340B drug pricing program under section 340B(a)(4) of the federal
+13 public health service act and includes any pharmacy under contract with the
+14 entity to dispense drugs on behalf of the entity.
+15 (2) Before April 1 of each year, a 340B covered entity shall report the
+16 following information to the state department of health and welfare, the
+17 state controller's office, and the attorney general concerning the 340B cov-
+18 ered entity's participation in the federal 340B drug pricing program for the
+19 previous calendar year:
+20 (a) The name of the covered 340B entity;
+21 (b) The aggregate acquisition cost for prescription drugs obtained un-
+22 der the 340B program;
+23 (c) The aggregate payment amount received for drugs obtained under the
+24 340B program and dispensed to patients;
+25 (d) The aggregate payment made to pharmacies under contract to dispense
+26 drugs obtained under the 340B program;
+27 (e) The number of claims for prescription drugs described in paragraph
+28 (c) of this subsection; and
+29 (f) How the 340B covered entity uses any savings from participating in
+30 the 340B program, including the amount of savings used for the provision
+31 of charity care, community benefits, or a similar program of providing
+32 unreimbursed health care to the indigent.
+33 (3) The information required to be reported pursuant to subsection (2)
+34 of this section shall be reported by payer type, including the following:
+35 (a) Commercial;
+36 (b) Medicaid; and
+37 (c) Medicare.
+38 (4) The data submitted in the reports required pursuant to subsection
+39 (2) of this section is confidential and shall not be made available for pub-
+40 lic inspection.
+
+2
+1 (5) Before November 15 of each year, the state controller's office
+2 shall prepare a report that aggregates the data submitted pursuant to sub-
+3 section (2) of this section and:
+4 (a) Submit the report to the legislative council in an electronic for-
+5 mat; and
+6 (b) Make such report available on the transparent Idaho website.
+7 (6) The attorney general may use the information in the reports re-
+8 quired pursuant to subsection (2) of this section for the purposes of
+9 investigating medicaid fraud and ensuring compliance with health resources
+10 and service administration requirements.
+11 SECTION 2. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTO3BDGPGPMR;AGCR3,T,IOC,BYTEANOFANWSN4,IOC,THPSRG3BDGPGPMRDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.3BDGPGPMR.()Asudintss,"Bcde"msaneyadtopeintl3Bdgpgpmursn3)oftefchhseatadisaypyurctwhtytodedsonbfoftee)BeAl1ofehy,a3Bcdeyslrttgintotesedtofhhadw,tecso,adteayglcgte3Bcdespnintefl3Bdgpgpmfrtscry)Teneoftecd3Be)Teaeanctfrpndsodurte3Bp)TeaeptatrdfrdsodurtBpmadddtop)Teaeptmetopsurcttodsodurte3Bp)Tenrofcsfrpndsddinp)oftss;a)Hwte3Bcdeyusayssfmpgie3Bp,igteatofssudfrtepfcyc,cyb,orasrpmofpdhhcetotei)Teinrdtoberdpttosn(ftssnslberdbyprt,igtef)C)M;a)M)Tedasdintersrdpttos)oftssniscladslntbemeaefrpci]
+[DELETED: )BeNr15ofehy,tesecsolpeartttastedasdpttosn()oftssna)Stterttoteleclinanecf;a)MeshrtaeontettIow)Teayglmyueteinintersrdpttosn()oftssnfrtepsogmdfdadegcewhhhrdseanrN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

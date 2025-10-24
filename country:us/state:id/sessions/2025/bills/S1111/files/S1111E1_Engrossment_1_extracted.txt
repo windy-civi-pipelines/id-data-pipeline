@@ -1,0 +1,186 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1111, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE CONSUMER PROTECTION ACT; AMENDING CHAPTER 6, TITLE 48, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 48-603H, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING TRUTH IN DIGITAL ADVERTISING SALES; AND DECLARING
+5 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 6, Title 48, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 48-603H, Idaho Code, and to read as follows:
+10 48-603H. TRUTH IN DIGITAL ADVERTISING SALES. (1) For purposes of this
+11 section:
+12 (a) "Ad reach" means the number of unique individuals who see a digital
+13 advertisement.
+14 (b) "Click" means the interaction between a web user and an advertise-
+15 ment on a website that occurs when a user selects an advertisement in or-
+16 der to be taken to a different web page, different portion of a web page,
+17 or a different application.
+18 (c) "Click-through rate" means the ratio of verified and legitimate
+19 clicks to impressions.
+20 (d) "Digital advertisement" means an advertisement on the internet,
+21 including but not limited to websites, mobile applications, connected
+22 television devices, and social media.
+23 (e) "Engagement rate" means the percentage of people who interact with
+24 a digital advertisement.
+25 (f) "Geo-targeted" or "geo-targeting" means a digital advertisement
+26 that is specifically shown to and viewable by users located within a
+27 designated geographic region, including but not limited to a state,
+28 county, zip code, direct marketing area, or latitude and longitude,
+29 allowing the ad to reach people only in such geographical area.
+30 (g) "Impression" means a count of every time an advertisement, post, or
+31 web page is displayed to a user.
+32 (h) "Key performance indicator" means measurable indicators of a digi-
+33 tal advertisement's success, including click-through rate, engagement
+34 rate, length of impressions, and number of impressions.
+35 (i) "Publisher" means an organization that prepares, issues, and dis-
+36 tributes content through online media, such as websites and applica-
+37 tions, and that provides advertising space in exchange for monetary or
+38 valuable consideration.
+39 (j) "Purchaser" means a person or entity who buys opportunities to dis-
+40 play digital advertisements or works with a third party to buy opportu-
+41 nities to display digital advertisements.
+2
+1 (k) "Verify" means a data analysis process through which a nationally
+2 recognized third-party auditor confirms reported key performance indi-
+3 cators. In no event shall the verification process require the disclo-
+4 sure of personal information or proprietary intellectual property to a
+5 purchaser.
+6 (2) Within thirty (30) days after the term of a digital advertisement
+7 expires, the purchaser of such digital advertisement may request verifica-
+8 tion of any representation made by the publisher to the purchaser relating
+9 to:
+10 (a) Geo-targeting and date; and
+11 (b) Key performance indicators, as long as such key performance indi-
+12 cators requested by the purchaser were agreed to and specified in the
+13 original contract between the purchaser and the publisher.
+14 (3) Within thirty (30) days after the receipt of a request for verifica-
+15 tion pursuant to subsection (2) of this section, a publisher shall reply to
+16 the purchaser with verification of geo-targeted impressions by date or other
+17 key performance indicators, as long as the other key performance indicators
+18 were agreed to and specified in an agreement between the purchaser and the
+19 publisher.
+20 (4) A publisher that receives a timely request for verification pur-
+21 suant to subsection (2) of this section and that does not timely provide the
+22 verification required pursuant to subsection (3) of this section commits a
+23 violation of this chapter. Pursuant to section 48-608, Idaho Code, a pur-
+24 chaser of a digital advertisement from a publisher who violates the provi-
+25 sions of this section may bring an action to recover actual damages. Alter-
+26 natively, the purchaser, in lieu of actual damages, may elect to recover a
+27 refund of fees paid for a digital advertisement.
+28 (5) For a period of no more than three (3) months from the date a digital
+29 advertisement was scheduled to end, a publisher who does business in Idaho
+30 shall make available and shall maintain a method for a purchaser of a digi-
+31 tal advertisement to request verification pursuant to subsection (2) of this
+32 section and for such purchaser to receive verification information from a
+33 publisher pursuant to the provisions of subsection (3) of this section.
+34 SECTION 2. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1,AsAYSEASCNAGTOTECRPNA;AGCR6,TE4,I,BYTEANOFANWSN4,IOC,TOESRGTHINDLAGS;ADDNEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr6,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.THINDLAGS.()Frpsoft)"dr"mstenrofueiswosead)""msteinbnawburadanatonawettoswnaurssanatinortobetntoadtwbp,dtpnofawbpradta)"hr"msteroofvdadlstoi)"la"msanatonteigbtntldtow,mea,cnd,adslm)"tr"mstepeofpewoitwdla)""or""msadlatissysntoadvebyusldwndgcr,igbtntldtoas,zpc,dtmga,orleadlgteadtorhpeoyinshgla)""msactofeyteana,p,obpeisddtoau)"ypei"msmeisofadlass,igchr,e,lhofi,adnrofi)""msanonttp,i,addsctthoem,shaswsada,adttpsagseineefrmyoec)""msapnoreywobsostodydlasorwswhatdpytobyostodydla]
+[DELETED: )""msadaaspsthwhandtyarcsrdkypei.Innoetsltevnpsretedeofplinorpyilpyto)Wnty()dsartetmofadla,teprofshdlatmyrtvnofayrnmebyteprtoteprr)Ggadd;a)Kypei,aslgasshkypeisrdbyteprweadtoadsdintlctbntepradtep)Wnty()dsartertofartfrvnpttosn()oftss,aprslryteprwhvnofgdisbydeoroypei,aslgasteorkypeieadtoadsdinanatbntepradt)Aprttrsatyrtfrvnpttosn()oftssnadttdsnttypetnrdpttosn()oftssncsnoftsc.Pttosn4,IoC,aprofadlatfmaprwovstepsoftssnmybganantorrald.A,tep,inluofald,myettorrdoffspdfradla)Frapdofnometnte()msfmtedeadtwssdtoe,aprwodsbsinIlmeaeadslmnamdfraprofadlattortvnpttosn()oftnadfrshprtorevninfmrpttotepsofsn()oftssN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1111, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE CONSUMER PROTECTION ACT; AMENDING CHAPTER 6, TITLE 48, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 48-603H, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING TRUTH IN DIGITAL ADVERTISING SALES; AND DECLARING
+5 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 6, Title 48, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 48-603H, Idaho Code, and to read as follows:
+10 48-603H. TRUTH IN DIGITAL ADVERTISING SALES. (1) For purposes of this
+11 section:
+12 (a) "Ad reach" means the number of unique individuals who see a digital
+13 advertisement.
+14 (b) "Click" means the interaction between a web user and an advertise-
+15 ment on a website that occurs when a user selects an advertisement in or-
+16 der to be taken to a different web page, different portion of a web page,
+17 or a different application.
+18 (c) "Click-through rate" means the ratio of verified and legitimate
+19 clicks to impressions.
+20 (d) "Digital advertisement" means an advertisement on the internet,
+21 including but not limited to websites, mobile applications, connected
+22 television devices, and social media.
+23 (e) "Engagement rate" means the percentage of people who interact with
+24 a digital advertisement.
+25 (f) "Geo-targeted" or "geo-targeting" means a digital advertisement
+26 that is specifically shown to and viewable by users located within a
+27 designated geographic region, including but not limited to a state,
+28 county, zip code, direct marketing area, or latitude and longitude,
+29 allowing the ad to reach people only in such geographical area.
+30 (g) "Impression" means a count of every time an advertisement, post, or
+31 web page is displayed to a user.
+32 (h) "Key performance indicator" means measurable indicators of a digi-
+33 tal advertisement's success, including click-through rate, engagement
+34 rate, length of impressions, and number of impressions.
+35 (i) "Publisher" means an organization that prepares, issues, and dis-
+36 tributes content through online media, such as websites and applica-
+37 tions, and that provides advertising space in exchange for monetary or
+38 valuable consideration.
+39 (j) "Purchaser" means a person or entity who buys opportunities to dis-
+40 play digital advertisements or works with a third party to buy opportu-
+41 nities to display digital advertisements.
+
+2
+1 (k) "Verify" means a data analysis process through which a nationally
+2 recognized third-party auditor confirms reported key performance indi-
+3 cators. In no event shall the verification process require the disclo-
+4 sure of personal information or proprietary intellectual property to a
+5 purchaser.
+6 (2) Within thirty (30) days after the term of a digital advertisement
+7 expires, the purchaser of such digital advertisement may request verifica-
+8 tion of any representation made by the publisher to the purchaser relating
+9 to:
+10 (a) Geo-targeting and date; and
+11 (b) Key performance indicators, as long as such key performance indi-
+12 cators requested by the purchaser were agreed to and specified in the
+13 original contract between the purchaser and the publisher.
+14 (3) Within thirty (30) days after the receipt of a request for verifica-
+15 tion pursuant to subsection (2) of this section, a publisher shall reply to
+16 the purchaser with verification of geo-targeted impressions by date or other
+17 key performance indicators, as long as the other key performance indicators
+18 were agreed to and specified in an agreement between the purchaser and the
+19 publisher.
+20 (4) A publisher that receives a timely request for verification pur-
+21 suant to subsection (2) of this section and that does not timely provide the
+22 verification required pursuant to subsection (3) of this section commits a
+23 violation of this chapter. Pursuant to section 48-608, Idaho Code, a pur-
+24 chaser of a digital advertisement from a publisher who violates the provi-
+25 sions of this section may bring an action to recover actual damages. Alter-
+26 natively, the purchaser, in lieu of actual damages, may elect to recover a
+27 refund of fees paid for a digital advertisement.
+28 (5) For a period of no more than three (3) months from the date a digital
+29 advertisement was scheduled to end, a publisher who does business in Idaho
+30 shall make available and shall maintain a method for a purchaser of a digi-
+31 tal advertisement to request verification pursuant to subsection (2) of this
+32 section and for such purchaser to receive verification information from a
+33 publisher pursuant to the provisions of subsection (3) of this section.
+34 SECTION 2. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1,AsAYSEASCNAGTOTECRPNA;AGCR6,TE4,I,BYTEANOFANWSN4,IOC,TOESRGTHINDLAGS;ADDNEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr6,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.THINDLAGS.()Frpsoft)"dr"mstenrofueiswosead)""msteinbnawburadanatonawettoswnaurssanatinortobetntoadtwbp,dtpnofawbpradta)"hr"msteroofvdadlstoi)"la"msanatonteigbtntldtow,mea,cnd,adslm)"tr"mstepeofpewoitwdla)""or""msadlatissysntoadvebyusldwndgcr,igbtntldtoas,zpc,dtmga,orleadlgteadtorhpeoyinshgla)""msactofeyteana,p,obpeisddtoau)"ypei"msmeisofadlass,igchr,e,lhofi,adnrofi)""msanonttp,i,addsctthoem,shaswsada,adttpsagseineefrmyoec)""msapnoreywobsostodydlasorwswhatdpytobyostodydla]
+[DELETED: )""msadaaspsthwhandtyarcsrdkypei.Innoetsltevnpsretedeofplinorpyilpyto)Wnty()dsartetmofadla,teprofshdlatmyrtvnofayrnmebyteprtoteprr)Ggadd;a)Kypei,aslgasshkypeisrdbyteprweadtoadsdintlctbntepradtep)Wnty()dsartertofartfrvnpttosn()oftss,aprslryteprwhvnofgdisbydeoroypei,aslgasteorkypeieadtoadsdinanatbntepradt)Aprttrsatyrtfrvnpttosn()oftssnadttdsnttypetnrdpttosn()oftssncsnoftsc.Pttosn4,IoC,aprofadlatfmaprwovstepsoftssnmybganantorrald.A,tep,inluofald,myettorrdoffspdfradla)Frapdofnometnte()msfmtedeadtwssdtoe,aprwodsbsinIlmeaeadslmnamdfraprofadlattortvnpttosn()oftnadfrshprtorevninfmrpttotepsofsn()oftssN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

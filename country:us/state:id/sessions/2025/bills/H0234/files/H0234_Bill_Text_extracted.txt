@@ -1,0 +1,501 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 234
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-123, IDAHO CODE, TO REVISE A
+3 DEFINITION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+4 Be It Enacted by the Legislature of the State of Idaho:
+5 SECTION 1. That Section 49-123, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 49-123. DEFINITIONS -- V. (1) "Variable load suspension axle" means an
+8 axle or axles designed to support a part of the vehicle and load and which
+9 can be regulated to vary the amount of load supported by such an axle or axles
+10 and which can be deployed or lifted by the operator of the vehicle. (See also
+11 section 49-117, Idaho Code)
+12 (a) "Fully raised" means that the variable load suspension axle is in
+13 an elevated position preventing the tires on such axle from having any
+14 contact with the roadway.
+15 (b) "Fully deployed" means that the variable load suspension axle is
+16 supporting a portion of the weight of the loaded vehicle as controlled
+17 by the preset pressure regulator valve.
+18 (2) "Vehicle" means:
+19 (a) General. Every device in, upon, or by which any person or property
+20 is or may be transported or drawn upon a highway, excepting devices used
+21 exclusively upon stationary rails or tracks.
+22 (b) Assembled vehicle or vessel. A vehicle or vessel, not including a
+23 salvage vehicle or vessel, that has been constructed using major compo-
+24 nent parts from two (2) or more vehicles or vessels or that has been re-
+25 paired using new factory major component parts so that the resulting ve-
+26 hicle or vessel has the same appearance as a vehicle or vessel that was
+27 manufactured under a specific make and model by a manufacturer. A vehi-
+28 cle or vessel utilizing a kit for the entire body or a glider kit vehicle
+29 is not an assembled vehicle.
+30 (c) Authorized emergency vehicle. Vehicles operated by any fire
+31 department or law enforcement agency of the state of Idaho or any polit-
+32 ical subdivision of the state, ambulances, vehicles belonging to per-
+33 sonnel of voluntary fire departments while in performance of official
+34 duties only, vehicles belonging to or operated by a wildland fire agency
+35 or association while responding to a wildland urban interface fire, ve-
+36 hicles belonging to or operated by EMS personnel certified or otherwise
+37 recognized by the EMS bureau of the Idaho department of health and wel-
+38 fare while in the performance of emergency medical services, sheriff's
+39 search and rescue vehicles that are under the immediate supervision of
+40 the county sheriff, wreckers that are engaged in motor vehicle recov-
+41 ery operations and are blocking part or all of one (1) or more lanes of
+42 traffic, other emergency vehicles designated by the director of the
+2
+1 Idaho state police or vehicles authorized by the Idaho transportation
+2 board and used in the enforcement of laws specified in section 40-510,
+3 Idaho Code, pertaining to vehicles of ten thousand (10,000) pounds or
+4 greater.
+5 (d) Commercial vehicle or commercial motor vehicle. For the purposes
+6 of chapters 3 and 9 of this title, driver's licenses and vehicle equip-
+7 ment, a motor vehicle or combination of motor vehicles designed or used
+8 to transport passengers or property if the motor vehicle:
+9 (i) Has a manufacturer's gross combination weight rating (GCWR)
+10 in excess of twenty-six thousand (26,000) pounds inclusive of
+11 a towed unit with a manufacturer's gross vehicle weight rating
+12 (GVWR) of more than ten thousand (10,000) pounds; or
+13 (ii) Has a manufacturer's gross vehicle weight rating (GVWR) in
+14 excess of twenty-six thousand (26,000) pounds; or
+15 (iii) Is designed to transport sixteen (16) or more people, in-
+16 cluding the driver; or
+17 (iv) Is of any size and is used in the transportation of materials
+18 found to be hazardous for the purposes of the hazardous material
+19 transportation act and which require the motor vehicle to be plac-
+20 arded under the hazardous materials regulations (49 CFR part 172,
+21 subpart F).
+22 For the purposes of chapter 4, title 49, Idaho Code, motor vehicle
+23 registration, a vehicle or combination of vehicles of a type used or
+24 maintained for the transportation of persons for hire, compensation or
+25 profit, or the transportation of property for the owner of the vehicle,
+26 or for hire, compensation, or profit, and shall include fixed load spe-
+27 cially constructed vehicles exceeding the limits imposed by chapter
+28 10, title 49, Idaho Code, and including drilling rigs, construction,
+29 drilling and wrecker cranes, log jammers, log loaders, and similar
+30 vehicles which are normally operated in an overweight or oversize
+31 condition or both, but shall not include those vehicles registered pur-
+32 suant to sections 49-402 and 49-402A, Idaho Code, or exempted by section
+33 49-426, Idaho Code. A motor vehicle used in a ridesharing arrangement
+34 that has a seating capacity for not more than fifteen (15) persons,
+35 including the driver, shall not be a "commercial vehicle" under the pro-
+36 visions of this title relating to equipment requirements, rules of the
+37 road, or registration.
+38 (e) Farm vehicle. A vehicle or combination of vehicles owned by a
+39 farmer or rancher, or by his designated agent, which are operated over
+40 public highways, and used exclusively to transport unprocessed agri-
+41 cultural products raised, owned or grown by the owner of the vehicle to
+42 market or place of storage; and shall include the transportation by the
+43 farmer or rancher of any equipment, supplies or products purchased by
+44 that farmer or rancher for his own use, and used in the farming or ranch-
+45 ing operation or used by a farmer partly in transporting agricultural
+46 products or livestock from the farm of another farmer that were origi-
+47 nally grown or raised on the farm, or when used partly in transporting
+48 agricultural supplies, equipment, materials or livestock to the farm
+49 of another farmer for use or consumption on the farm but not transported
+3
+1 for hire, and shall not include vehicles of husbandry or vehicles regis-
+2 tered pursuant to sections 49-402 and 49-402A, Idaho Code.
+3 (f) Foreign vehicle. Every vehicle of a type required to be registered
+4 under the provisions of this title brought into this state from another
+5 state, territory or country other than in the ordinary course of busi-
+6 ness by or through a manufacturer or dealer and not registered in this
+7 state.
+8 (g) Glider kit vehicle. Every large truck manufactured from a kit man-
+9 ufactured by a manufacturer of large trucks which consists of a frame,
+10 cab complete with wiring, instruments, fenders and hood and front axles
+11 and wheels. The "glider kit" is made into a complete assembly by the ad-
+12 dition of the engine, transmission, rear axles, wheels and tires.
+13 (h) Motor vehicle. Every vehicle that is self-propelled, and for the
+14 purpose of titling and registration meets federal motor vehicle safety
+15 standards as defined in section 49-107, Idaho Code. Motor vehicle does
+16 not include vehicles moved solely by human power, electric personal
+17 assistive mobility devices, personal delivery devices, electric-as-
+18 sisted bicycles, and motorized wheelchairs or other such vehicles that
+19 are specifically exempt from titling or registration requirements un-
+20 der title 49, Idaho Code.
+21 (i) Multipurpose passenger vehicle (MPV). For the purposes of section
+22 49-966, Idaho Code, a motor vehicle designed to carry ten (10) or fewer
+23 persons which is constructed either on a truck chassis or with special
+24 features for occasional off-road operation.
+25 (j) Neighborhood electric vehicle (NEV). A self-propelled, electri-
+26 cally powered, four-wheeled motor vehicle which is emission free and
+27 conforms to the definition and requirements for low-speed vehicles as
+28 adopted in the federal motor vehicle safety standards for low-speed ve-
+29 hicles under federal regulations at 49 CFR part 571. An NEV shall be ti-
+30 tled, registered and insured according to law as provided respectively
+31 in chapters 4, 5 and 12, title 49, Idaho Code, and shall only be operated
+32 by a licensed driver. Operation of an NEV on a highway shall be allowed
+33 as provided in section 49-663, Idaho Code.
+34 (k) Noncommercial vehicle. For the purposes of chapter 4, title 49,
+35 Idaho Code, motor vehicle registration, a noncommercial vehicle shall
+36 not include those vehicles required to be registered under sections
+37 49-402 and 49-402A, Idaho Code, and means all other vehicles or combi-
+38 nations of vehicles which are not commercial vehicles or farm vehicles,
+39 but shall include motor homes. A noncommercial vehicle shall include
+40 those vehicles having a combined gross weight not in excess of sixty
+41 thousand (60,000) pounds and not held out for hire, used for purposes
+42 related to private use and not used in the furtherance of a business or
+43 occupation for compensation or profit or for transporting goods for
+44 other than the owner.
+45 (l) Passenger car. For the purposes of section 49-966, Idaho Code, a
+46 motor vehicle, except a multipurpose passenger vehicle, motorcycle or
+47 trailer, designed to carry ten (10) or fewer persons.
+48 (m) Rebuilt salvage vehicle or vessel. Every vehicle or vessel previ-
+49 ously determined or declared to be a salvage vehicle that has been re-
+50 built or repaired using like make and model parts and visually appears
+4
+1 as a vehicle or vessel that was originally constructed under a distinc-
+2 tive manufacturer. This includes a salvage vehicle or vessel which is
+3 damaged to the extent that a "rebuilt salvage" brand is required to be
+4 added to the title.
+5 (n) Replica vehicle or vessel. A vehicle or vessel made to replicate
+6 any vehicle or vessel previously manufactured, using metal, fiberglass
+7 or other composite materials. Replica vehicles must look like the orig-
+8 inal vehicle being replicated but may use a more modern drive train. At
+9 a minimum, replica vehicles shall meet the same federal motor vehicle
+10 safety and emission standards in effect for the year and type of vehicle
+11 being replicated.
+12 (o) Salvage vehicle or vessel. Any vehicle or vessel for which a sal-
+13 vage certificate of title, salvage bill of sale or other documentation
+14 has been issued showing evidence that the vehicle or vessel has been de-
+15 clared salvage or which has been damaged to the extent that the owner,
+16 or an insurer, or other person acting on behalf of the owner, determines
+17 that the cost of parts and labor minus the salvage value makes it uneco-
+18 nomical to repair or rebuild. When an insurance company has paid money
+19 or has made other monetary settlement as compensation for a total loss
+20 of any vehicle or vessel, such vehicle shall be considered to be a sal-
+21 vage vehicle or vessel.
+22 (p) Specially constructed vehicle or vessel. Every vehicle or vessel
+23 of a type required to be registered not originally constructed under a
+24 distinctive name, make, model or type by a generally recognized man-
+25 ufacturer of vehicles or vessels and not materially altered from its
+26 original construction and cannot be visually identified as a vehicle or
+27 vessel produced by a particular manufacturer. This includes:
+28 (i) A vehicle or vessel that has been structurally modified so
+29 that it does not have the same appearance as a similar vehicle or
+30 vessel from the same manufacturer; or
+31 (ii) A vehicle or vessel that has been constructed entirely from
+32 homemade parts and materials not obtained from other vehicles or
+33 vessels; or
+34 (iii) A vehicle or vessel that has been constructed by using major
+35 component parts from one (1) or more manufactured vehicles or ves-
+36 sels and cannot be identified as a specific make or model; or
+37 (iv) A vehicle or vessel constructed by the use of a custom kit
+38 that cannot be visually identified as a specific make or model.
+39 All specially constructed vehicles of a type required to be reg-
+40 istered shall be certified by the owner to meet all applicable
+41 federal motor vehicle safety standards in effect at the time con-
+42 struction is completed, and all requirements of chapter 9, title
+43 49, Idaho Code.
+44 (q) Specialty off-highway vehicle. A specialty off-highway vehicle as
+45 defined in section 67-7101, Idaho Code.
+46 (r) Tank vehicle.
+47 (i) Any commercial motor vehicle transporting, or designed to
+48 transport, any liquid or gaseous materials within:
+5
+1 1. A tank that is either permanently or temporarily attached
+2 or secured to the vehicle or chassis and has a rated capacity
+3 of one thousand (1,000) gallons or more; or
+4 2. Multiple tanks either permanently or temporarily at-
+5 tached or secured, when the aggregate rated capacity of
+6 those tanks is one thousand (1,000) gallons or more, as de-
+7 termined by adding the capacity of each individual tank with
+8 a capacity of more than one hundred nineteen (119) gallons.
+9 (ii) If a commercial motor vehicle transports one (1) or more
+10 tanks that are manifested either as empty or as residue and that
+11 are actually empty or contain only residue, those tanks shall not
+12 be considered in determining whether the vehicle is a tank vehi-
+13 cle.
+14 (s) Total loss vehicle. Every vehicle that is deemed to be uneconomi-
+15 cal to repair. A total loss shall occur when an insurance company or any
+16 other person pays or makes other monetary settlement to the owner when
+17 it is deemed to be uneconomical to repair the damaged vehicle. The com-
+18 pensation for total loss as defined herein shall not include payments
+19 by an insurer or other person for medical care, bodily injury, vehicle
+20 rental or for anything other than the amount paid for the actual damage
+21 to the vehicle.
+22 (3) "Vehicle identification number." (See "identifying number," sec-
+23 tion 49-110, Idaho Code)
+24 (4) "Vehicle salesman" means any person who, for a salary, commission
+25 or compensation of any kind, is employed either directly or indirectly, or
+26 regularly or occasionally by any dealer to sell, purchase or exchange, or to
+27 negotiate for the sale, purchase or exchange of vehicles. (See also "full-
+28 time salesman," section 49-107, Idaho Code, and "part-time salesman," sec-
+29 tion 49-117, Idaho Code)
+30 (5) "Vessel." (See section 67-7003, Idaho Code)
+31 (6) "Veteran." (See section 65-203, Idaho Code)
+32 (7) "Violation" means a conviction of a misdemeanor charge involving a
+33 moving traffic violation, or an admission or judicial determination of the
+34 commission of an infraction involving a moving traffic infraction, except
+35 bicycle infractions.
+36 SECTION 2. An emergency existing therefor, which emergency is hereby
+37 declared to exist, this act shall be in full force and effect on and after
+38 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOMRV;AGSN4,IOC,TORE;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DS--V.()"eldsna"msaeorasddtostaptofteveadldadwnberdtovyteatofldsdbyshanaeoradwhcnbeddorldbyteoroftev.(ean4,IoC)"yr"msttteveldsnaeisinedpnpgtetsonshaefmhgatwhter)"yd"msttteveldsnaeigapnoftewtofteldveascyteptperrv)""m)G.Eydei,u,orbywhaypnorpsormybetdordnunah,egdsuyunsyrsort)Adveorv.Aveorv,ntigeveorv,tthsbncdugmrctpsfmto()ormevsorvsortthsbnrdugnwfymrctpssotttergveorvlhsteseaeasaveorvlttwdurascmeadmlbyam.Aveorvlugaktfrteeebyoragrktvsntanadv)Adeyv.VsodbyayftorlwetayofteseofIoorayplsnoftes,a,vsbgtoplofvyfedsweinpeofoso,vsbgtoorodbyawdfearanwergtoawdunief,vsbgtoorodbyESplcdorodbyteESbuofteIodtofhhadweweintepeofeymls,shadrevsttaeurteiesnoecys,wsttaeedinmrveryosadaebgptoralofoe()ormelso,oreyvsddbytedroft]
+[DELETED: osepeorvsadbyteIotdadudinteetoflssdinsn4oC,pgtovsoftntd()pso)Clveorclmrv.Frtepfcs3ad9oftst,dslsadvee,amrveorcnofmrvsddoruottpsorpyiftemrv)Hsamsgscnwtrg(nesoftxtd()psieotdutwhamsgsvewtr)ofmetntntd()p;o)Hsamsgsvewtrg()isoftxtd()p;o)Isddtottsn()ormep,igted;o)Isofayseadisudintetnofmdtobehsfrtepsoftehsmnatadwhretemrvetobepdurtehsmsrs(9CRpt1tFrtepsofcr4,te4,IoC,mrv,aveorcnofvsofateudodfrtetnofpsfrh,cno,ortetnofpyfrteoroftevrfrh,c,orp,adsliefdldsycdvsegtelsidbyc,te4,IoC,adigdgr,cgadwrc,lgj,lgl,adsswhaenyodinanotoronorb,btslntietevsrdpttoss42ad4,IoC,oredbys,IoC.Amrveudinargathsasgcyfrntmetnfn()pgted,slntbea"lv"urtepsoftstergtoetr,rsoft,orr)Fmv.Aveorcnofvsodbyrorr,orbyhsdda,whaeodoch,adudeytottudalpsr,odorgnbyteoroftevettorpeofs;adslietetnbytrorrrofaye,ssorpspdbtfrorrrfrhsonu,adudintefgorrgonorudbyafrpyintgasorlkfmtefmofarfrttweoygnorrdontef,orwnudpyintls,e,msorlktoteffarfrfrueorcnontefmbtntt]
+[DELETED: rh,adslntievsofhyorvsrdpttoss42ad4,IoC)Fnv.Eyveofaterdtoberrtepsoftstebtiotssefma,tyorcyortninteoyceofbsbyorthamrordradntrdint)Grktv.Eyletkmdfmaktmdbyamrofletswhcsofafbcewhw,i,fsadhdadftadw.Te"rk"ismeioaceaybyteanoftee,t,rra,wsadt)Mrv.Eyvettiss,adfrteoftgadrnmsflmrvessasddinsn4,IoC.Mrvedtievsmdsybyhnp,ecpemyd,pldyd,edb,admdwsororshvstesyetfmtgorrnrsurte4,IoC)Meprve(.Frtepsofs,IoC,amrveddtocytn()orfswhiscderonatkcsorwhssfrolodo)Ndecve(.As,eyp,fdmrvewhisenfeastotednadrsfrldvsadinteflmrvesyssfrldvsurflrsat49CRpt5.AnNVslbet,rdadidagtolwaspdrncs4,5ad1,te4,IoC,adsloybeoyaldd.OnofanNVonahyslbeaspdinsn4,IoC)Nlv.Frtepsofcr4,te4oC,mrver,anlvestietevsrdtoberdurs2ad4,IoC,admsalorvsorcsofvswhaentclvsorfmvtsliemrh.Anlveslievshgacdgswtntinesofsd()psadnthdotfrh,udfrpdtopeueadntudintefeofabsonfrcnorptorfrtggsfrtnteo)Prc.Frtepsofsn4,IoC,rv,etameprv,meo,ddtocytn()orfrp)Rtseveorv.Eyveorvlpyddorddtobeasevetthsbnrtorrduglemeadmlpsadvya]
+[DELETED: saveorvlttwsoycduradem.Tsisaseveorvlwhidtoteettta"ts"bdisrdtobdtotet)Raveorv.Aveorvlmetoryveorvlpym,ugm,frorcem.Ravsmtlkleteolvebgrdbtmyueamemndet.Am,ravsslmtteseflmrvyadenssinetfrteyradteofvgr)Seveorv.Ayveorvlfrwhaseceoft,seblofseorordsbnidsgeettteveorvlhsbnddseorwhhsbnddtoteetttteorani,ororpnagonbfofteo,dttectofpsadlrmstesevemsitultorrorr.Wnaniecyhspdmrhsmeormystascnfratllfayveorv,shveslbecdtobeaseveorv)Sycdveorv.Eyveorvfaterdtoberdntoycduren,m,mlortebyagyrdmrofvsorvsadntmyadfmilcnadctbevyidasaveolpdbyaprm.Tsi)Aveorvltthsbnsymdstitdsntheteseaeasasrveolfmtesem;o)Aveorvltthsbncdeyfepsadmsntodfmorvso;o)Aveorvltthsbncdbyugmtpsfmoe()ormemdvsorvsadctbeidasascmeorm;o)Aveorvlcdbyteueofacmktctbevyidasascmeormlsycdvsofaterdtoberdslbecdbyteortomtalalmrvesyssinetattetecnisc,adalrsofcr9,t,IoC)Syoyv.Asyoyveadinsn6,IoC)Tkv)Ayclmrvet,orddt,ayldorgsmsw]
+[DELETED: .Atkttiserpyortyarsdtoteveorcsadhsardcfoetd()gsorm;o.Metserpyortyadors,wnteaerdcyoetsisoetd()gsorm,asddbyagtecyofehiltkwcyofmetnoehdnn()g)Ifaclmrvetsoe()ormsttaemderaseyorasreadteayeyorcnoyr,tetsslnecdindgwrteveisatkv)Tllsv.Eyvettisddtobeultor.Atllsslorwnaniecyorarpnpsormsormysttoteorwtisddtobeultorrteddv.Tecnfrtllsasddhnslntiepyanirororpnfrmlc,byi,vlorfragortnteatpdfrtealdotev)"einn"(e"gn"sn4,IoC)"es"msaypnw,fras,crcnofayk,isederdyori,oyoroybyaydrtos,peore,ortefrtes,peoreeofv.(eao"es"sn4,IoC,ad"es"sn4,IoC)""(esn6,IoC)""(esn6,IoC)""msacnofamrceiggtcv,orananorjldnoftnofaninigamgtci,eeiN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 234
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-123, IDAHO CODE, TO REVISE A
+3 DEFINITION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+4 Be It Enacted by the Legislature of the State of Idaho:
+5 SECTION 1. That Section 49-123, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 49-123. DEFINITIONS -- V. (1) "Variable load suspension axle" means an
+8 axle or axles designed to support a part of the vehicle and load and which
+9 can be regulated to vary the amount of load supported by such an axle or axles
+10 and which can be deployed or lifted by the operator of the vehicle. (See also
+11 section 49-117, Idaho Code)
+12 (a) "Fully raised" means that the variable load suspension axle is in
+13 an elevated position preventing the tires on such axle from having any
+14 contact with the roadway.
+15 (b) "Fully deployed" means that the variable load suspension axle is
+16 supporting a portion of the weight of the loaded vehicle as controlled
+17 by the preset pressure regulator valve.
+18 (2) "Vehicle" means:
+19 (a) General. Every device in, upon, or by which any person or property
+20 is or may be transported or drawn upon a highway, excepting devices used
+21 exclusively upon stationary rails or tracks.
+22 (b) Assembled vehicle or vessel. A vehicle or vessel, not including a
+23 salvage vehicle or vessel, that has been constructed using major compo-
+24 nent parts from two (2) or more vehicles or vessels or that has been re-
+25 paired using new factory major component parts so that the resulting ve-
+26 hicle or vessel has the same appearance as a vehicle or vessel that was
+27 manufactured under a specific make and model by a manufacturer. A vehi-
+28 cle or vessel utilizing a kit for the entire body or a glider kit vehicle
+29 is not an assembled vehicle.
+30 (c) Authorized emergency vehicle. Vehicles operated by any fire
+31 department or law enforcement agency of the state of Idaho or any polit-
+32 ical subdivision of the state, ambulances, vehicles belonging to per-
+33 sonnel of voluntary fire departments while in performance of official
+34 duties only, vehicles belonging to or operated by a wildland fire agency
+35 or association while responding to a wildland urban interface fire, ve-
+36 hicles belonging to or operated by EMS personnel certified or otherwise
+37 recognized by the EMS bureau of the Idaho department of health and wel-
+38 fare while in the performance of emergency medical services, sheriff's
+39 search and rescue vehicles that are under the immediate supervision of
+40 the county sheriff, wreckers that are engaged in motor vehicle recov-
+41 ery operations and are blocking part or all of one (1) or more lanes of
+42 traffic, other emergency vehicles designated by the director of the
+
+2
+1 Idaho state police or vehicles authorized by the Idaho transportation
+2 board and used in the enforcement of laws specified in section 40-510,
+3 Idaho Code, pertaining to vehicles of ten thousand (10,000) pounds or
+4 greater.
+5 (d) Commercial vehicle or commercial motor vehicle. For the purposes
+6 of chapters 3 and 9 of this title, driver's licenses and vehicle equip-
+7 ment, a motor vehicle or combination of motor vehicles designed or used
+8 to transport passengers or property if the motor vehicle:
+9 (i) Has a manufacturer's gross combination weight rating (GCWR)
+10 in excess of twenty-six thousand (26,000) pounds inclusive of
+11 a towed unit with a manufacturer's gross vehicle weight rating
+12 (GVWR) of more than ten thousand (10,000) pounds; or
+13 (ii) Has a manufacturer's gross vehicle weight rating (GVWR) in
+14 excess of twenty-six thousand (26,000) pounds; or
+15 (iii) Is designed to transport sixteen (16) or more people, in-
+16 cluding the driver; or
+17 (iv) Is of any size and is used in the transportation of materials
+18 found to be hazardous for the purposes of the hazardous material
+19 transportation act and which require the motor vehicle to be plac-
+20 arded under the hazardous materials regulations (49 CFR part 172,
+21 subpart F).
+22 For the purposes of chapter 4, title 49, Idaho Code, motor vehicle
+23 registration, a vehicle or combination of vehicles of a type used or
+24 maintained for the transportation of persons for hire, compensation or
+25 profit, or the transportation of property for the owner of the vehicle,
+26 or for hire, compensation, or profit, and shall include fixed load spe-
+27 cially constructed vehicles exceeding the limits imposed by chapter
+28 10, title 49, Idaho Code, and including drilling rigs, construction,
+29 drilling and wrecker cranes, log jammers, log loaders, and similar
+30 vehicles which are normally operated in an overweight or oversize
+31 condition or both, but shall not include those vehicles registered pur-
+32 suant to sections 49-402 and 49-402A, Idaho Code, or exempted by section
+33 49-426, Idaho Code. A motor vehicle used in a ridesharing arrangement
+34 that has a seating capacity for not more than fifteen (15) persons,
+35 including the driver, shall not be a "commercial vehicle" under the pro-
+36 visions of this title relating to equipment requirements, rules of the
+37 road, or registration.
+38 (e) Farm vehicle. A vehicle or combination of vehicles owned by a
+39 farmer or rancher, or by his designated agent, which are operated over
+40 public highways, and used exclusively to transport unprocessed agri-
+41 cultural products raised, owned or grown by the owner of the vehicle to
+42 market or place of storage; and shall include the transportation by the
+43 farmer or rancher of any equipment, supplies or products purchased by
+44 that farmer or rancher for his own use, and used in the farming or ranch-
+45 ing operation or used by a farmer partly in transporting agricultural
+46 products or livestock from the farm of another farmer that were origi-
+47 nally grown or raised on the farm, or when used partly in transporting
+48 agricultural supplies, equipment, materials or livestock to the farm
+49 of another farmer for use or consumption on the farm but not transported
+
+3
+1 for hire, and shall not include vehicles of husbandry or vehicles regis-
+2 tered pursuant to sections 49-402 and 49-402A, Idaho Code.
+3 (f) Foreign vehicle. Every vehicle of a type required to be registered
+4 under the provisions of this title brought into this state from another
+5 state, territory or country other than in the ordinary course of busi-
+6 ness by or through a manufacturer or dealer and not registered in this
+7 state.
+8 (g) Glider kit vehicle. Every large truck manufactured from a kit man-
+9 ufactured by a manufacturer of large trucks which consists of a frame,
+10 cab complete with wiring, instruments, fenders and hood and front axles
+11 and wheels. The "glider kit" is made into a complete assembly by the ad-
+12 dition of the engine, transmission, rear axles, wheels and tires.
+13 (h) Motor vehicle. Every vehicle that is self-propelled, and for the
+14 purpose of titling and registration meets federal motor vehicle safety
+15 standards as defined in section 49-107, Idaho Code. Motor vehicle does
+16 not include vehicles moved solely by human power, electric personal
+17 assistive mobility devices, personal delivery devices, electric-as-
+18 sisted bicycles, and motorized wheelchairs or other such vehicles that
+19 are specifically exempt from titling or registration requirements un-
+20 der title 49, Idaho Code.
+21 (i) Multipurpose passenger vehicle (MPV). For the purposes of section
+22 49-966, Idaho Code, a motor vehicle designed to carry ten (10) or fewer
+23 persons which is constructed either on a truck chassis or with special
+24 features for occasional off-road operation.
+25 (j) Neighborhood electric vehicle (NEV). A self-propelled, electri-
+26 cally powered, four-wheeled motor vehicle which is emission free and
+27 conforms to the definition and requirements for low-speed vehicles as
+28 adopted in the federal motor vehicle safety standards for low-speed ve-
+29 hicles under federal regulations at 49 CFR part 571. An NEV shall be ti-
+30 tled, registered and insured according to law as provided respectively
+31 in chapters 4, 5 and 12, title 49, Idaho Code, and shall only be operated
+32 by a licensed driver. Operation of an NEV on a highway shall be allowed
+33 as provided in section 49-663, Idaho Code.
+34 (k) Noncommercial vehicle. For the purposes of chapter 4, title 49,
+35 Idaho Code, motor vehicle registration, a noncommercial vehicle shall
+36 not include those vehicles required to be registered under sections
+37 49-402 and 49-402A, Idaho Code, and means all other vehicles or combi-
+38 nations of vehicles which are not commercial vehicles or farm vehicles,
+39 but shall include motor homes. A noncommercial vehicle shall include
+40 those vehicles having a combined gross weight not in excess of sixty
+41 thousand (60,000) pounds and not held out for hire, used for purposes
+42 related to private use and not used in the furtherance of a business or
+43 occupation for compensation or profit or for transporting goods for
+44 other than the owner.
+45 (l) Passenger car. For the purposes of section 49-966, Idaho Code, a
+46 motor vehicle, except a multipurpose passenger vehicle, motorcycle or
+47 trailer, designed to carry ten (10) or fewer persons.
+48 (m) Rebuilt salvage vehicle or vessel. Every vehicle or vessel previ-
+49 ously determined or declared to be a salvage vehicle that has been re-
+50 built or repaired using like make and model parts and visually appears
+
+4
+1 as a vehicle or vessel that was originally constructed under a distinc-
+2 tive manufacturer. This includes a salvage vehicle or vessel which is
+3 damaged to the extent that a "rebuilt salvage" brand is required to be
+4 added to the title.
+5 (n) Replica vehicle or vessel. A vehicle or vessel made to replicate
+6 any vehicle or vessel previously manufactured, using metal, fiberglass
+7 or other composite materials. Replica vehicles must look like the orig-
+8 inal vehicle being replicated but may use a more modern drive train. At
+9 a minimum, replica vehicles shall meet the same federal motor vehicle
+10 safety and emission standards in effect for the year and type of vehicle
+11 being replicated.
+12 (o) Salvage vehicle or vessel. Any vehicle or vessel for which a sal-
+13 vage certificate of title, salvage bill of sale or other documentation
+14 has been issued showing evidence that the vehicle or vessel has been de-
+15 clared salvage or which has been damaged to the extent that the owner,
+16 or an insurer, or other person acting on behalf of the owner, determines
+17 that the cost of parts and labor minus the salvage value makes it uneco-
+18 nomical to repair or rebuild. When an insurance company has paid money
+19 or has made other monetary settlement as compensation for a total loss
+20 of any vehicle or vessel, such vehicle shall be considered to be a sal-
+21 vage vehicle or vessel.
+22 (p) Specially constructed vehicle or vessel. Every vehicle or vessel
+23 of a type required to be registered not originally constructed under a
+24 distinctive name, make, model or type by a generally recognized man-
+25 ufacturer of vehicles or vessels and not materially altered from its
+26 original construction and cannot be visually identified as a vehicle or
+27 vessel produced by a particular manufacturer. This includes:
+28 (i) A vehicle or vessel that has been structurally modified so
+29 that it does not have the same appearance as a similar vehicle or
+30 vessel from the same manufacturer; or
+31 (ii) A vehicle or vessel that has been constructed entirely from
+32 homemade parts and materials not obtained from other vehicles or
+33 vessels; or
+34 (iii) A vehicle or vessel that has been constructed by using major
+35 component parts from one (1) or more manufactured vehicles or ves-
+36 sels and cannot be identified as a specific make or model; or
+37 (iv) A vehicle or vessel constructed by the use of a custom kit
+38 that cannot be visually identified as a specific make or model.
+39 All specially constructed vehicles of a type required to be reg-
+40 istered shall be certified by the owner to meet all applicable
+41 federal motor vehicle safety standards in effect at the time con-
+42 struction is completed, and all requirements of chapter 9, title
+43 49, Idaho Code.
+44 (q) Specialty off-highway vehicle. A specialty off-highway vehicle as
+45 defined in section 67-7101, Idaho Code.
+46 (r) Tank vehicle.
+47 (i) Any commercial motor vehicle transporting, or designed to
+48 transport, any liquid or gaseous materials within:
+
+5
+1 1. A tank that is either permanently or temporarily attached
+2 or secured to the vehicle or chassis and has a rated capacity
+3 of one thousand (1,000) gallons or more; or
+4 2. Multiple tanks either permanently or temporarily at-
+5 tached or secured, when the aggregate rated capacity of
+6 those tanks is one thousand (1,000) gallons or more, as de-
+7 termined by adding the capacity of each individual tank with
+8 a capacity of more than one hundred nineteen (119) gallons.
+9 (ii) If a commercial motor vehicle transports one (1) or more
+10 tanks that are manifested either as empty or as residue and that
+11 are actually empty or contain only residue, those tanks shall not
+12 be considered in determining whether the vehicle is a tank vehi-
+13 cle.
+14 (s) Total loss vehicle. Every vehicle that is deemed to be uneconomi-
+15 cal to repair. A total loss shall occur when an insurance company or any
+16 other person pays or makes other monetary settlement to the owner when
+17 it is deemed to be uneconomical to repair the damaged vehicle. The com-
+18 pensation for total loss as defined herein shall not include payments
+19 by an insurer or other person for medical care, bodily injury, vehicle
+20 rental or for anything other than the amount paid for the actual damage
+21 to the vehicle.
+22 (3) "Vehicle identification number." (See "identifying number," sec-
+23 tion 49-110, Idaho Code)
+24 (4) "Vehicle salesman" means any person who, for a salary, commission
+25 or compensation of any kind, is employed either directly or indirectly, or
+26 regularly or occasionally by any dealer to sell, purchase or exchange, or to
+27 negotiate for the sale, purchase or exchange of vehicles. (See also "full-
+28 time salesman," section 49-107, Idaho Code, and "part-time salesman," sec-
+29 tion 49-117, Idaho Code)
+30 (5) "Vessel." (See section 67-7003, Idaho Code)
+31 (6) "Veteran." (See section 65-203, Idaho Code)
+32 (7) "Violation" means a conviction of a misdemeanor charge involving a
+33 moving traffic violation, or an admission or judicial determination of the
+34 commission of an infraction involving a moving traffic infraction, except
+35 bicycle infractions.
+36 SECTION 2. An emergency existing therefor, which emergency is hereby
+37 declared to exist, this act shall be in full force and effect on and after
+38 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOMRV;AGSN4,IOC,TORE;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DS--V.()"eldsna"msaeorasddtostaptofteveadldadwnberdtovyteatofldsdbyshanaeoradwhcnbeddorldbyteoroftev.(ean4,IoC)"yr"msttteveldsnaeisinedpnpgtetsonshaefmhgatwhter)"yd"msttteveldsnaeigapnoftewtofteldveascyteptperrv)""m)G.Eydei,u,orbywhaypnorpsormybetdordnunah,egdsuyunsyrsort)Adveorv.Aveorv,ntigeveorv,tthsbncdugmrctpsfmto()ormevsorvsortthsbnrdugnwfymrctpssotttergveorvlhsteseaeasaveorvlttwdurascmeadmlbyam.Aveorvlugaktfrteeebyoragrktvsntanadv)Adeyv.VsodbyayftorlwetayofteseofIoorayplsnoftes,a,vsbgtoplofvyfedsweinpeofoso,vsbgtoorodbyawdfearanwergtoawdunief,vsbgtoorodbyESplcdorodbyteESbuofteIodtofhhadweweintepeofeymls,shadrevsttaeurteiesnoecys,wsttaeedinmrveryosadaebgptoralofoe()ormelso,oreyvsddbytedroft]
+[DELETED: osepeorvsadbyteIotdadudinteetoflssdinsn4oC,pgtovsoftntd()pso)Clveorclmrv.Frtepfcs3ad9oftst,dslsadvee,amrveorcnofmrvsddoruottpsorpyiftemrv)Hsamsgscnwtrg(nesoftxtd()psieotdutwhamsgsvewtr)ofmetntntd()p;o)Hsamsgsvewtrg()isoftxtd()p;o)Isddtottsn()ormep,igted;o)Isofayseadisudintetnofmdtobehsfrtepsoftehsmnatadwhretemrvetobepdurtehsmsrs(9CRpt1tFrtepsofcr4,te4,IoC,mrv,aveorcnofvsofateudodfrtetnofpsfrh,cno,ortetnofpyfrteoroftevrfrh,c,orp,adsliefdldsycdvsegtelsidbyc,te4,IoC,adigdgr,cgadwrc,lgj,lgl,adsswhaenyodinanotoronorb,btslntietevsrdpttoss42ad4,IoC,oredbys,IoC.Amrveudinargathsasgcyfrntmetnfn()pgted,slntbea"lv"urtepsoftstergtoetr,rsoft,orr)Fmv.Aveorcnofvsodbyrorr,orbyhsdda,whaeodoch,adudeytottudalpsr,odorgnbyteoroftevettorpeofs;adslietetnbytrorrrofaye,ssorpspdbtfrorrrfrhsonu,adudintefgorrgonorudbyafrpyintgasorlkfmtefmofarfrttweoygnorrdontef,orwnudpyintls,e,msorlktoteffarfrfrueorcnontefmbtntt]
+[DELETED: rh,adslntievsofhyorvsrdpttoss42ad4,IoC)Fnv.Eyveofaterdtoberrtepsoftstebtiotssefma,tyorcyortninteoyceofbsbyorthamrordradntrdint)Grktv.Eyletkmdfmaktmdbyamrofletswhcsofafbcewhw,i,fsadhdadftadw.Te"rk"ismeioaceaybyteanoftee,t,rra,wsadt)Mrv.Eyvettiss,adfrteoftgadrnmsflmrvessasddinsn4,IoC.Mrvedtievsmdsybyhnp,ecpemyd,pldyd,edb,admdwsororshvstesyetfmtgorrnrsurte4,IoC)Meprve(.Frtepsofs,IoC,amrveddtocytn()orfswhiscderonatkcsorwhssfrolodo)Ndecve(.As,eyp,fdmrvewhisenfeastotednadrsfrldvsadinteflmrvesyssfrldvsurflrsat49CRpt5.AnNVslbet,rdadidagtolwaspdrncs4,5ad1,te4,IoC,adsloybeoyaldd.OnofanNVonahyslbeaspdinsn4,IoC)Nlv.Frtepsofcr4,te4oC,mrver,anlvestietevsrdtoberdurs2ad4,IoC,admsalorvsorcsofvswhaentclvsorfmvtsliemrh.Anlveslievshgacdgswtntinesofsd()psadnthdotfrh,udfrpdtopeueadntudintefeofabsonfrcnorptorfrtggsfrtnteo)Prc.Frtepsofsn4,IoC,rv,etameprv,meo,ddtocytn()orfrp)Rtseveorv.Eyveorvlpyddorddtobeasevetthsbnrtorrduglemeadmlpsadvya]
+[DELETED: saveorvlttwsoycduradem.Tsisaseveorvlwhidtoteettta"ts"bdisrdtobdtotet)Raveorv.Aveorvlmetoryveorvlpym,ugm,frorcem.Ravsmtlkleteolvebgrdbtmyueamemndet.Am,ravsslmtteseflmrvyadenssinetfrteyradteofvgr)Seveorv.Ayveorvlfrwhaseceoft,seblofseorordsbnidsgeettteveorvlhsbnddseorwhhsbnddtoteetttteorani,ororpnagonbfofteo,dttectofpsadlrmstesevemsitultorrorr.Wnaniecyhspdmrhsmeormystascnfratllfayveorv,shveslbecdtobeaseveorv)Sycdveorv.Eyveorvfaterdtoberdntoycduren,m,mlortebyagyrdmrofvsorvsadntmyadfmilcnadctbevyidasaveolpdbyaprm.Tsi)Aveorvltthsbnsymdstitdsntheteseaeasasrveolfmtesem;o)Aveorvltthsbncdeyfepsadmsntodfmorvso;o)Aveorvltthsbncdbyugmtpsfmoe()ormemdvsorvsadctbeidasascmeorm;o)Aveorvlcdbyteueofacmktctbevyidasascmeormlsycdvsofaterdtoberdslbecdbyteortomtalalmrvesyssinetattetecnisc,adalrsofcr9,t,IoC)Syoyv.Asyoyveadinsn6,IoC)Tkv)Ayclmrvet,orddt,ayldorgsmsw]
+[DELETED: .Atkttiserpyortyarsdtoteveorcsadhsardcfoetd()gsorm;o.Metserpyortyadors,wnteaerdcyoetsisoetd()gsorm,asddbyagtecyofehiltkwcyofmetnoehdnn()g)Ifaclmrvetsoe()ormsttaemderaseyorasreadteayeyorcnoyr,tetsslnecdindgwrteveisatkv)Tllsv.Eyvettisddtobeultor.Atllsslorwnaniecyorarpnpsormsormysttoteorwtisddtobeultorrteddv.Tecnfrtllsasddhnslntiepyanirororpnfrmlc,byi,vlorfragortnteatpdfrtealdotev)"einn"(e"gn"sn4,IoC)"es"msaypnw,fras,crcnofayk,isederdyori,oyoroybyaydrtos,peore,ortefrtes,peoreeofv.(eao"es"sn4,IoC,ad"es"sn4,IoC)""(esn6,IoC)""(esn6,IoC)""msacnofamrceiggtcv,orananorjldnoftnofaninigamgtci,eeiN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

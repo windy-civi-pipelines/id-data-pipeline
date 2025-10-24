@@ -1,0 +1,487 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 257
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-5206, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING REQUIREMENTS FOR OPERATING A PUBLIC CHARTER SCHOOL;
+4 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-5206, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-5206. REQUIREMENTS FOR OPERATING A PUBLIC CHARTER SCHOOL. (1) A
+9 public charter school shall be nonsectarian in its programs, affiliations,
+10 admission policies, employment practices, and all other operations, shall
+11 not charge tuition, levy taxes, or issue bonds, and shall not discriminate
+12 against any student on any basis prohibited by the federal or state consti-
+13 tution or any federal, state, or local law. Public charter schools shall
+14 comply with the federal individuals with disabilities education act. Ad-
+15 mission to a public charter school shall not be determined according to the
+16 place of residence of the student or of the student's parent or guardian
+17 within the district.
+18 (2) No board of trustees of a public school district may require:
+19 (a) Any employee of the school district to be involuntarily assigned to
+20 work in a public charter school; or
+21 (b) Any student enrolled in the school district to attend a public char-
+22 ter school.
+23 (3) Employment of charter school teachers and administrators shall be
+24 on written contract.
+25 (4) Administrators may be certified pursuant to the requirements set
+26 forth in chapter 12, title 33, Idaho Code, pertaining to traditional public
+27 schools or may hold a charter school administrator certificate, which re-
+28 quires that the administrator:
+29 (a) Holds a bachelor's degree from an accredited four (4) year institu-
+30 tion;
+31 (b) Submits to a criminal history check as described in section 33-130,
+32 Idaho Code;
+33 (c) Completes a course consisting of a minimum of three (3) semester
+34 credits in the statewide framework for teacher evaluations, which shall
+35 include a laboratory component;
+36 (d) Submits a letter of support from a charter holder; and
+37 (e) Has one (1) or more of the following:
+38 (i) Four (4) or more years of experience administering a public
+39 charter school;
+40 (ii) A postbaccalaureate degree and a minimum of five (5) years
+41 of experience in school administration, public administration,
+42 business administration, or military administration;
+2
+1 (iii) Successful completion of a nationally recognized charter
+2 school leaders fellowship; or
+3 (iv) Four (4) or more years of teaching experience and a commit-
+4 ment from an administrator at a charter school in academic, op-
+5 erational, and financial good standing, according to its autho-
+6 rizer's most recent review, to mentor the applicant for a minimum
+7 of one (1) year.
+8 (5) A charter school administrator certificate is valid for five (5)
+9 years and renewable thereafter. Administrators shall be subject to over-
+10 sight by the professional standards commission. Certificates may be revoked
+11 pursuant to the provisions of section 33-1208, Idaho Code. Issuance of a
+12 certificate to any applicant may be refused for such reason as would have
+13 constituted grounds for revocation.
+14 (6) Certified teachers in a public charter school shall be considered
+15 public school teachers. Educational experience shall accrue for service in
+16 a public charter school and be counted by any school district for any teacher
+17 who has been employed in a public charter school. The staff of the public
+18 charter school shall be considered a separate unit for the purposes of col-
+19 lective bargaining.
+20 (7) Charter school teachers may be certified pursuant to the require-
+21 ments set forth in chapter 12, title 33, Idaho Code, pertaining to tradi-
+22 tional public school districts or may hold a charter school-specific teach-
+23 ing certificate.
+24 (a) Criteria for a charter school-specific teaching certificate shall
+25 be in writing and require that teachers satisfy the provisions set forth
+26 in section 33-1202 1., 3., and 4., Idaho Code, and meet the following
+27 minimum educational or professional qualifications:
+28 (i) Hold a bachelor's degree from an accredited institution; or
+29 (ii) If instructing students in the fields of career technical
+30 education, satisfy the provisions of section 33-2205(6)(a), Idaho
+31 Code. Career technical education programs taught by teachers
+32 with a charter school-specific teaching certificate shall receive
+33 added-cost funding set forth in section 33-2215, Idaho Code, in an
+34 amount equal to programs taught by teachers with an occupational
+35 specialist teaching certificate.
+36 (b) Teachers with a charter school-specific teaching certificate shall
+37 receive mentoring and professional development as approved by the char-
+38 ter holder.
+39 (c) The state board of education shall issue charter school-specific
+40 teaching certificates to teachers upon recommendation of the individ-
+41 ual charter school, unless denied on the grounds set forth in section
+42 33-1208, Idaho Code.
+43 (d) For teachers holding a charter school-specific teaching certifi-
+44 cate, a charter school may substitute its own ongoing education and pro-
+45 fessional development requirements in place of those set forth in rule
+46 by the state board of education if the same number of credit hours is
+47 required as that of teachers holding a standard instructional certifi-
+48 cate.
+49 (8) Public charter schools may contract with educational services
+50 providers subject to the following provisions:
+3
+1 (a) Educational services providers shall be third-party entities sepa-
+2 rate from the public charter schools with which they contract and shall
+3 not be considered governmental entities, provided that such contracts
+4 may be evaluated by the authorizer;
+5 (b) No more than one-third (1/3) of the public charter school's board
+6 membership may be comprised of nonprofit educational services provider
+7 representatives. Nonprofit educational services provider repre-
+8 sentatives may not be employees of the public charter school or the
+9 educational services provider and may not hold office as president or
+10 treasurer on the public charter school's board. For-profit educational
+11 services providers may not have representatives on the public charter
+12 school's board of directors;
+13 (c) Charter holders shall annually disclose any existing and potential
+14 conflicts of interest, pecuniary or otherwise, with affiliated educa-
+15 tional services providers;
+16 (d) Charter holders shall retain accountability for academic, fiscal,
+17 and organizational operations and outcomes of the school and may not re-
+18 linquish this responsibility to any other entity;
+19 (e) Contracts must ensure that school boards retain the right to termi-
+20 nate the contract for failure to meet defined performance standards af-
+21 ter notice and a reasonable cure period has expired and if material de-
+22 ficiencies have not been cured prior to that time period expiring;
+23 (f) Contracts must ensure that assets purchased by educational ser-
+24 vices providers on behalf of the school, using public funds, shall
+25 remain assets of the school. The provisions of this paragraph shall
+26 not prevent educational services providers from acquiring assets using
+27 revenue acquired through management fees;
+28 (g) Charter holders shall consult legal counsel independent of the
+29 party with whom they are contracting for purposes of reviewing the
+30 school's management contract and facility lease or purchase agreements
+31 to ensure compliance with applicable state and federal law, including
+32 requirements that state entities not enter into contracts that obligate
+33 them beyond the terms of any appropriation of funds by the state legis-
+34 lature;
+35 (h) Charter holders must ensure that their facility contracts are sepa-
+36 rate from management contracts; and
+37 (i) A virtual school shall be deemed financially sufficient if there is
+38 an agreement that requires an educational services provider to assume
+39 the virtual school's financial risk when it does not have sufficient
+40 residual funds to pay the educational services provider. Where this
+41 paragraph is applicable, the educational services provider shall make
+42 its audited financial statements available, unless the educational
+43 services provider already makes such audited financial statements pub-
+44 licly available for compliance with other federal or state laws.
+45 (9) Admission procedures, including provision for over-enrollment,
+46 shall provide that the initial admission procedures for a public charter
+47 school will be determined by lottery or other random method, except as oth-
+48 erwise provided in this section. A charter holder shall strive to ensure
+49 that citizens in the primary attendance area are made aware of the enrollment
+50 opportunities and deadline. The public notice must include the enrollment
+4
+1 deadline, the public charter school's total enrollment capacity for the next
+2 school year, and an advisory that all prospective students will be given
+3 the opportunity to enroll in the public charter school regardless of race,
+4 color, national origin, ethnicity, religion, gender, socioeconomic status,
+5 or special needs.
+6 (a) If initial capacity is insufficient to enroll all pupils who submit
+7 a timely application, then the admission procedures may provide that
+8 preference shall be given in the following order: first, to children
+9 of founders, provided that this admission preference shall be limited
+10 to not more than ten percent (10%) of the capacity of the public charter
+11 school; second, to siblings of pupils already selected by the lottery
+12 or other random method; third, to children of families with at least one
+13 (1) parent or legal guardian who is on active duty or on active guard and
+14 reserve duty, as those terms are defined in 10 U.S.C. 101; fourth, to
+15 pupils seeking to transfer from another Idaho public charter school or
+16 authorizer at which they have been enrolled for at least one (1) year,
+17 provided that this admission preference shall be subject to an exist-
+18 ing written agreement for such preference between the subject charter
+19 schools or authorizer; fourth fifth, to students residing within the
+20 primary attendance area of the public charter school; and fifth sixth,
+21 by an equitable selection process such as a lottery or other random
+22 method. A public charter school may weight the school's lottery to
+23 preference admission for the following educationally disadvantaged
+24 students: students living at or below one hundred eighty-five percent
+25 (185%) of the federal poverty level, students who are homeless or in
+26 foster care, children with disabilities as defined in section 33-2001,
+27 Idaho Code, students with limited English proficiency, and students who
+28 are at-risk as defined in section 33-1001, Idaho Code. A public charter
+29 school may include the children of full-time employees of the public
+30 charter school within the first priority group, subject to the limita-
+31 tions therein.
+32 (b) If capacity is insufficient to enroll all pupils who submit a timely
+33 application for subsequent school terms, then the admission procedures
+34 may provide that preference shall be given in the following order:
+35 first, to pupils returning to the public charter school in the second
+36 or any subsequent year of its operation; and then as provided in para-
+37 graph (a) of this subsection. The sibling preference in subsequent
+38 school years applies to siblings of a returning pupil and of a pupil
+39 selected by the lottery or other random method. A new lottery shall be
+40 conducted each year to fill vacancies that become available. A public
+41 charter school may weight the school's lottery to preference admission
+42 as provided in this paragraph and paragraph (a) of this subsection and
+43 for children who attended the public charter school within the previous
+44 three (3) school years but withdrew as a result of the relocation of a
+45 parent or guardian due to an academic sabbatical or an employer or mili-
+46 tary transfer or reassignment.
+47 (c) Each public charter school shall establish a process under which a
+48 child may apply for enrollment or register for courses, regardless of
+49 where such child resides at the time of application or registration, if
+50 the child is a dependent of a member of the United States armed forces
+5
+1 who has received transfer orders to a location in Idaho and will, upon
+2 such transfer, reside in an area served by the public charter school.
+3 If capacity is insufficient as described in paragraph (a) or (b) of this
+4 subsection, a child described in this paragraph shall be treated as a
+5 student residing within the primary attendance area of the public char-
+6 ter school for purposes of preference. Otherwise, such children shall
+7 be included in the highest priority group for which they would otherwise
+8 be eligible.
+9 (d) Admission to a public charter school shall be determined by a selec-
+10 tion process held within seven (7) days of the enrollment deadlines es-
+11 tablished by the charter holder. The selection process must take place
+12 in a public setting, the date and time of which must be noticed to the
+13 public at least forty-eight (48) hours in advance.
+14 (e) Within seven (7) days after conducting the selection process, the
+15 charter holder shall send an offer to the legal guardian who submitted a
+16 written request for admission on behalf of a student notifying such per-
+17 son that the student has been selected for admission to the public char-
+18 ter school. An offer must be signed by such student's parent or guardian
+19 and returned to the public charter school by the date designated in such
+20 offer letter. Remaining students shall be notified that they may be el-
+21 igible for admission at a later date if a seat becomes available.
+22 (f) If a school exceeds its projected student count in a lottery and
+23 a sufficient wait list exists, the school may increase enrollment by
+24 adding additional students per grade, not to exceed the total amount of
+25 students authorized by the charter.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YENCNAGTOE;AGSN3,IOC,TOREPSRGRSFROGAPCCRSDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.RSFROGAPCCRS.()ccrslslbenninisp,anp,etp,adaloro,stcet,lyt,orieb,adslntdtaystonaybspdbyteflorsecnorayf,s,orlll.Pccrsssywhtefliswhdsena.Antoapccrslslntbeddagtoteofreoftestoroftessptorgnted)Nobdoftsofapcsldtmyr)Ayeeoftesldttobeiyadtkinapccrs;o)Aystedintesldttoadapccrs)Etofcrsltsadasslbnwnc)Asmybecdpttotersshincr1,te3,IoC,pgtotlpsormyhdacrslarc,whrstttea)Hsabsdefmanadfr()yri)Sstoaclhyckasddinsn3oC)Csacecgofammofte()ssintesefkfrtre,whsealyc)Ssalrofstfmacrh;a)Hsoe()ormeoftef)Fr()ormeysofeeagaprs)Apedeadammoffe()yfeeinsla,pcasa,ormya]
+[DELETED: )Slcnofanyrdcllsf;o)Fr()ormeysoftgeeadactfmanaratacrslina,o,adflgds,agtoisasmtrtr,tomrteatframfoe()y)Acrslarceisvdfrfe(sadret.Asslbesttootbyteplssc.Csmyberttotepsofsn3,IoC.Ieofetoayatmyberdfrshrnaswdhdgsfrr)Cdtsinapccrslslbeccslt.Eleeslaefrseipccrsladbecdbyaysldtfraytohsbnedinapccrs.Tesfofteprslslbecdaseutfrtepsofceb)Crsltsmybecdpttotersstfhincr1,te3,IoC,pgtotlpcsldsormyhdacrsctgc)Cafracrsctgceseinwgadretttssytepsstfnsn321,3,ad4,IoC,admttefmelorplq)Hdabsdefmanadi;o)Ifigssintefsofcrt,sytepsofsn3,I.Crtlenpsttbythacrsctgceslrtfgstfhinsn3,IoC,inateltopsttbytswhanottgc)Tswhacrsctgcesemgadpldtasadbytecrh)Tesebdofensliecrsgcstotsunrnofteilcrs,usddontegsstfhins,IoC)Frtshgacrsctgc,acrslmyseisonogenadpldtrsinpeoftestfhinrytesebdofeniftesenrofcthsidasttoftshgasdilc)Pccrssmyctwhelsssttotefgp]
+[DELETED: )Elsspsslbetyessefmtepccrsswhwhtyctadstbecdgle,pdttshcybeedbytea)Nometnod()oftepccrssbpmybecdofntelssp.Ntelssprrsmyntbeesoftepccrslortlsspradmynthdoeasptorontepccrssb.Ftespsmynthersontepccsbdofd)Crhsslaydeayegadpsofi,pyoro,whadelssp)Crhsslrnayfra,fdolosadosoftesladmyntrhtsrytoayore)Csmteettslbsrnterttotetectfrfetomtddpessarneadarecepdhsedadifmldshentbncdprtotttepde)Csmteettaspdbyelsspsonbfoftes,ugpcf,snasoftes.Tepsoftsphstptelsspsfmagasueadthmtf)Crhsslctllclitoftywhwmtyaecgfrpsofrgtsmtctadfyleorpeaoeecewhaeseadfll,isttseesnteriocsttombdtetsofayanoffsbytesel)Crhsmteetttrfycsaesefmmtc;a)Avlslslbeddfystifteinatttrsanelssprtoaevlssflrkwnitdsntheslfstopyteelssp.Wethisa,teelssprslmsadflssa,usteespraymsshadflsspyaefrcewhorflorsel)Anp,igpnfrolpettteilanpsfrapcclwlbeddbylyororrmm,etasoepdintss.Acrhrslsetoetcsintepyaeaaaemeaeofteesadd.Tepcnemtietee]
+[DELETED: ,tepccrsstletcyfrtenly,adanayttalpesswlbegeoytoelintepccrslrsofr,nlo,e,r,g,scsrsln)Ifilcyisittoelalpswostya,tnteanpsmypeteslbegnintefgo:f,tocff,pdtttsanpeslbelontmetntnpt()oftecyoftepcc;s,tossofpsaysdbytelrorrmm;t,tocnoffswhatlto)ptorllgnwoisonaedyoronaegdaed,astetsaeddin10U.1;f,tssgtotrfmarIopccrsloratwhtyhebnedfratltoe()ydtttsanpeslbesttoanegwnatfrshpebntestcsora;fhf,tossrgwntyaeaaoftepccrs;adfhsyaneesnpsshasalyororr.Apccrslmywttesslyteanfrtefgeyd:sslgatorbwoehdeep)ofteflpyl,sswoaehsorirc,cnwhdsasddinsn3oC,sswhldEhp,adssweakasddinsn3,IoC.Apcclmyietecnoffeesofteprslwnteftpyg,sttotelst)Ifcyisittoelalpswostatnfrstslt,tnteanpypettpeslbegnintefgo,topsrgtotepccrslintesraystyrofiso;adtnaspdinph()oftss.Tesgpeinslysastossofargpladofapdbytelyororrmm.Anwlyslbdehyrtoflvsttbea.Aprslmywttesslytopeaspdintsphadph()oftssnarcnwoadtepccrslwntepe()slysbtwwasartofternoftorgndetoanacsloranerormytrorr)Ehpccrslslehapsurwhdmyayfretorrrfrc,rsoeshcdrsatteteofanorr,iecdisadtofamrofteUdSsadf]
+[DELETED: ohsrdtrostoalninIoadw,uht,reinanaasdbytepccrsfcyisitasddinph()or()oft,acdddintsphslbetdastrgwntepyaeaaoftepccrslfrpsofp.O,shcnseidintehtpygpfrwhtywdoee)Antoapccrslslbeddbyasnpshdwnsn()dsofteetdsedbytecrh.Tesnpsmttepnapcs,tedeadteofwhmtbendtotcatltft()hsina)Wnsn()dsarcgtesnp,trhrslsdanortotellgnwosdnrtfranonbfofastngshpntttesthsbnsdfrantotepccrs.Anormtbesdbyshssptorgdrdtotepccrslbytededdinsrl.Rgssslbendtttymybeeefranatalrdeifastbsa)Ifaslesispdstctinalyastwtlte,teslmyieetbgalssprg,nttoedtetlatosadbytecN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 257
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-5206, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING REQUIREMENTS FOR OPERATING A PUBLIC CHARTER SCHOOL;
+4 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-5206, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-5206. REQUIREMENTS FOR OPERATING A PUBLIC CHARTER SCHOOL. (1) A
+9 public charter school shall be nonsectarian in its programs, affiliations,
+10 admission policies, employment practices, and all other operations, shall
+11 not charge tuition, levy taxes, or issue bonds, and shall not discriminate
+12 against any student on any basis prohibited by the federal or state consti-
+13 tution or any federal, state, or local law. Public charter schools shall
+14 comply with the federal individuals with disabilities education act. Ad-
+15 mission to a public charter school shall not be determined according to the
+16 place of residence of the student or of the student's parent or guardian
+17 within the district.
+18 (2) No board of trustees of a public school district may require:
+19 (a) Any employee of the school district to be involuntarily assigned to
+20 work in a public charter school; or
+21 (b) Any student enrolled in the school district to attend a public char-
+22 ter school.
+23 (3) Employment of charter school teachers and administrators shall be
+24 on written contract.
+25 (4) Administrators may be certified pursuant to the requirements set
+26 forth in chapter 12, title 33, Idaho Code, pertaining to traditional public
+27 schools or may hold a charter school administrator certificate, which re-
+28 quires that the administrator:
+29 (a) Holds a bachelor's degree from an accredited four (4) year institu-
+30 tion;
+31 (b) Submits to a criminal history check as described in section 33-130,
+32 Idaho Code;
+33 (c) Completes a course consisting of a minimum of three (3) semester
+34 credits in the statewide framework for teacher evaluations, which shall
+35 include a laboratory component;
+36 (d) Submits a letter of support from a charter holder; and
+37 (e) Has one (1) or more of the following:
+38 (i) Four (4) or more years of experience administering a public
+39 charter school;
+40 (ii) A postbaccalaureate degree and a minimum of five (5) years
+41 of experience in school administration, public administration,
+42 business administration, or military administration;
+
+2
+1 (iii) Successful completion of a nationally recognized charter
+2 school leaders fellowship; or
+3 (iv) Four (4) or more years of teaching experience and a commit-
+4 ment from an administrator at a charter school in academic, op-
+5 erational, and financial good standing, according to its autho-
+6 rizer's most recent review, to mentor the applicant for a minimum
+7 of one (1) year.
+8 (5) A charter school administrator certificate is valid for five (5)
+9 years and renewable thereafter. Administrators shall be subject to over-
+10 sight by the professional standards commission. Certificates may be revoked
+11 pursuant to the provisions of section 33-1208, Idaho Code. Issuance of a
+12 certificate to any applicant may be refused for such reason as would have
+13 constituted grounds for revocation.
+14 (6) Certified teachers in a public charter school shall be considered
+15 public school teachers. Educational experience shall accrue for service in
+16 a public charter school and be counted by any school district for any teacher
+17 who has been employed in a public charter school. The staff of the public
+18 charter school shall be considered a separate unit for the purposes of col-
+19 lective bargaining.
+20 (7) Charter school teachers may be certified pursuant to the require-
+21 ments set forth in chapter 12, title 33, Idaho Code, pertaining to tradi-
+22 tional public school districts or may hold a charter school-specific teach-
+23 ing certificate.
+24 (a) Criteria for a charter school-specific teaching certificate shall
+25 be in writing and require that teachers satisfy the provisions set forth
+26 in section 33-1202 1., 3., and 4., Idaho Code, and meet the following
+27 minimum educational or professional qualifications:
+28 (i) Hold a bachelor's degree from an accredited institution; or
+29 (ii) If instructing students in the fields of career technical
+30 education, satisfy the provisions of section 33-2205(6)(a), Idaho
+31 Code. Career technical education programs taught by teachers
+32 with a charter school-specific teaching certificate shall receive
+33 added-cost funding set forth in section 33-2215, Idaho Code, in an
+34 amount equal to programs taught by teachers with an occupational
+35 specialist teaching certificate.
+36 (b) Teachers with a charter school-specific teaching certificate shall
+37 receive mentoring and professional development as approved by the char-
+38 ter holder.
+39 (c) The state board of education shall issue charter school-specific
+40 teaching certificates to teachers upon recommendation of the individ-
+41 ual charter school, unless denied on the grounds set forth in section
+42 33-1208, Idaho Code.
+43 (d) For teachers holding a charter school-specific teaching certifi-
+44 cate, a charter school may substitute its own ongoing education and pro-
+45 fessional development requirements in place of those set forth in rule
+46 by the state board of education if the same number of credit hours is
+47 required as that of teachers holding a standard instructional certifi-
+48 cate.
+49 (8) Public charter schools may contract with educational services
+50 providers subject to the following provisions:
+
+3
+1 (a) Educational services providers shall be third-party entities sepa-
+2 rate from the public charter schools with which they contract and shall
+3 not be considered governmental entities, provided that such contracts
+4 may be evaluated by the authorizer;
+5 (b) No more than one-third (1/3) of the public charter school's board
+6 membership may be comprised of nonprofit educational services provider
+7 representatives. Nonprofit educational services provider repre-
+8 sentatives may not be employees of the public charter school or the
+9 educational services provider and may not hold office as president or
+10 treasurer on the public charter school's board. For-profit educational
+11 services providers may not have representatives on the public charter
+12 school's board of directors;
+13 (c) Charter holders shall annually disclose any existing and potential
+14 conflicts of interest, pecuniary or otherwise, with affiliated educa-
+15 tional services providers;
+16 (d) Charter holders shall retain accountability for academic, fiscal,
+17 and organizational operations and outcomes of the school and may not re-
+18 linquish this responsibility to any other entity;
+19 (e) Contracts must ensure that school boards retain the right to termi-
+20 nate the contract for failure to meet defined performance standards af-
+21 ter notice and a reasonable cure period has expired and if material de-
+22 ficiencies have not been cured prior to that time period expiring;
+23 (f) Contracts must ensure that assets purchased by educational ser-
+24 vices providers on behalf of the school, using public funds, shall
+25 remain assets of the school. The provisions of this paragraph shall
+26 not prevent educational services providers from acquiring assets using
+27 revenue acquired through management fees;
+28 (g) Charter holders shall consult legal counsel independent of the
+29 party with whom they are contracting for purposes of reviewing the
+30 school's management contract and facility lease or purchase agreements
+31 to ensure compliance with applicable state and federal law, including
+32 requirements that state entities not enter into contracts that obligate
+33 them beyond the terms of any appropriation of funds by the state legis-
+34 lature;
+35 (h) Charter holders must ensure that their facility contracts are sepa-
+36 rate from management contracts; and
+37 (i) A virtual school shall be deemed financially sufficient if there is
+38 an agreement that requires an educational services provider to assume
+39 the virtual school's financial risk when it does not have sufficient
+40 residual funds to pay the educational services provider. Where this
+41 paragraph is applicable, the educational services provider shall make
+42 its audited financial statements available, unless the educational
+43 services provider already makes such audited financial statements pub-
+44 licly available for compliance with other federal or state laws.
+45 (9) Admission procedures, including provision for over-enrollment,
+46 shall provide that the initial admission procedures for a public charter
+47 school will be determined by lottery or other random method, except as oth-
+48 erwise provided in this section. A charter holder shall strive to ensure
+49 that citizens in the primary attendance area are made aware of the enrollment
+50 opportunities and deadline. The public notice must include the enrollment
+
+4
+1 deadline, the public charter school's total enrollment capacity for the next
+2 school year, and an advisory that all prospective students will be given
+3 the opportunity to enroll in the public charter school regardless of race,
+4 color, national origin, ethnicity, religion, gender, socioeconomic status,
+5 or special needs.
+6 (a) If initial capacity is insufficient to enroll all pupils who submit
+7 a timely application, then the admission procedures may provide that
+8 preference shall be given in the following order: first, to children
+9 of founders, provided that this admission preference shall be limited
+10 to not more than ten percent (10%) of the capacity of the public charter
+11 school; second, to siblings of pupils already selected by the lottery
+12 or other random method; third, to children of families with at least one
+13 (1) parent or legal guardian who is on active duty or on active guard and
+14 reserve duty, as those terms are defined in 10 U.S.C. 101; fourth, to
+15 pupils seeking to transfer from another Idaho public charter school or
+16 authorizer at which they have been enrolled for at least one (1) year,
+17 provided that this admission preference shall be subject to an exist-
+18 ing written agreement for such preference between the subject charter
+19 schools or authorizer; fourth fifth, to students residing within the
+20 primary attendance area of the public charter school; and fifth sixth,
+21 by an equitable selection process such as a lottery or other random
+22 method. A public charter school may weight the school's lottery to
+23 preference admission for the following educationally disadvantaged
+24 students: students living at or below one hundred eighty-five percent
+25 (185%) of the federal poverty level, students who are homeless or in
+26 foster care, children with disabilities as defined in section 33-2001,
+27 Idaho Code, students with limited English proficiency, and students who
+28 are at-risk as defined in section 33-1001, Idaho Code. A public charter
+29 school may include the children of full-time employees of the public
+30 charter school within the first priority group, subject to the limita-
+31 tions therein.
+32 (b) If capacity is insufficient to enroll all pupils who submit a timely
+33 application for subsequent school terms, then the admission procedures
+34 may provide that preference shall be given in the following order:
+35 first, to pupils returning to the public charter school in the second
+36 or any subsequent year of its operation; and then as provided in para-
+37 graph (a) of this subsection. The sibling preference in subsequent
+38 school years applies to siblings of a returning pupil and of a pupil
+39 selected by the lottery or other random method. A new lottery shall be
+40 conducted each year to fill vacancies that become available. A public
+41 charter school may weight the school's lottery to preference admission
+42 as provided in this paragraph and paragraph (a) of this subsection and
+43 for children who attended the public charter school within the previous
+44 three (3) school years but withdrew as a result of the relocation of a
+45 parent or guardian due to an academic sabbatical or an employer or mili-
+46 tary transfer or reassignment.
+47 (c) Each public charter school shall establish a process under which a
+48 child may apply for enrollment or register for courses, regardless of
+49 where such child resides at the time of application or registration, if
+50 the child is a dependent of a member of the United States armed forces
+
+5
+1 who has received transfer orders to a location in Idaho and will, upon
+2 such transfer, reside in an area served by the public charter school.
+3 If capacity is insufficient as described in paragraph (a) or (b) of this
+4 subsection, a child described in this paragraph shall be treated as a
+5 student residing within the primary attendance area of the public char-
+6 ter school for purposes of preference. Otherwise, such children shall
+7 be included in the highest priority group for which they would otherwise
+8 be eligible.
+9 (d) Admission to a public charter school shall be determined by a selec-
+10 tion process held within seven (7) days of the enrollment deadlines es-
+11 tablished by the charter holder. The selection process must take place
+12 in a public setting, the date and time of which must be noticed to the
+13 public at least forty-eight (48) hours in advance.
+14 (e) Within seven (7) days after conducting the selection process, the
+15 charter holder shall send an offer to the legal guardian who submitted a
+16 written request for admission on behalf of a student notifying such per-
+17 son that the student has been selected for admission to the public char-
+18 ter school. An offer must be signed by such student's parent or guardian
+19 and returned to the public charter school by the date designated in such
+20 offer letter. Remaining students shall be notified that they may be el-
+21 igible for admission at a later date if a seat becomes available.
+22 (f) If a school exceeds its projected student count in a lottery and
+23 a sufficient wait list exists, the school may increase enrollment by
+24 adding additional students per grade, not to exceed the total amount of
+25 students authorized by the charter.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YENCNAGTOE;AGSN3,IOC,TOREPSRGRSFROGAPCCRSDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.RSFROGAPCCRS.()ccrslslbenninisp,anp,etp,adaloro,stcet,lyt,orieb,adslntdtaystonaybspdbyteflorsecnorayf,s,orlll.Pccrsssywhtefliswhdsena.Antoapccrslslntbeddagtoteofreoftestoroftessptorgnted)Nobdoftsofapcsldtmyr)Ayeeoftesldttobeiyadtkinapccrs;o)Aystedintesldttoadapccrs)Etofcrsltsadasslbnwnc)Asmybecdpttotersshincr1,te3,IoC,pgtotlpsormyhdacrslarc,whrstttea)Hsabsdefmanadfr()yri)Sstoaclhyckasddinsn3oC)Csacecgofammofte()ssintesefkfrtre,whsealyc)Ssalrofstfmacrh;a)Hsoe()ormeoftef)Fr()ormeysofeeagaprs)Apedeadammoffe()yfeeinsla,pcasa,ormya]
+[DELETED: )Slcnofanyrdcllsf;o)Fr()ormeysoftgeeadactfmanaratacrslina,o,adflgds,agtoisasmtrtr,tomrteatframfoe()y)Acrslarceisvdfrfe(sadret.Asslbesttootbyteplssc.Csmyberttotepsofsn3,IoC.Ieofetoayatmyberdfrshrnaswdhdgsfrr)Cdtsinapccrslslbeccslt.Eleeslaefrseipccrsladbecdbyaysldtfraytohsbnedinapccrs.Tesfofteprslslbecdaseutfrtepsofceb)Crsltsmybecdpttotersstfhincr1,te3,IoC,pgtotlpcsldsormyhdacrsctgc)Cafracrsctgceseinwgadretttssytepsstfnsn321,3,ad4,IoC,admttefmelorplq)Hdabsdefmanadi;o)Ifigssintefsofcrt,sytepsofsn3,I.Crtlenpsttbythacrsctgceslrtfgstfhinsn3,IoC,inateltopsttbytswhanottgc)Tswhacrsctgcesemgadpldtasadbytecrh)Tesebdofensliecrsgcstotsunrnofteilcrs,usddontegsstfhins,IoC)Frtshgacrsctgc,acrslmyseisonogenadpldtrsinpeoftestfhinrytesebdofeniftesenrofcthsidasttoftshgasdilc)Pccrssmyctwhelsssttotefgp]
+[DELETED: )Elsspsslbetyessefmtepccrsswhwhtyctadstbecdgle,pdttshcybeedbytea)Nometnod()oftepccrssbpmybecdofntelssp.Ntelssprrsmyntbeesoftepccrslortlsspradmynthdoeasptorontepccrssb.Ftespsmynthersontepccsbdofd)Crhsslaydeayegadpsofi,pyoro,whadelssp)Crhsslrnayfra,fdolosadosoftesladmyntrhtsrytoayore)Csmteettslbsrnterttotetectfrfetomtddpessarneadarecepdhsedadifmldshentbncdprtotttepde)Csmteettaspdbyelsspsonbfoftes,ugpcf,snasoftes.Tepsoftsphstptelsspsfmagasueadthmtf)Crhsslctllclitoftywhwmtyaecgfrpsofrgtsmtctadfyleorpeaoeecewhaeseadfll,isttseesnteriocsttombdtetsofayanoffsbytesel)Crhsmteetttrfycsaesefmmtc;a)Avlslslbeddfystifteinatttrsanelssprtoaevlssflrkwnitdsntheslfstopyteelssp.Wethisa,teelssprslmsadflssa,usteespraymsshadflsspyaefrcewhorflorsel)Anp,igpnfrolpettteilanpsfrapcclwlbeddbylyororrmm,etasoepdintss.Acrhrslsetoetcsintepyaeaaaemeaeofteesadd.Tepcnemtietee]
+[DELETED: ,tepccrsstletcyfrtenly,adanayttalpesswlbegeoytoelintepccrslrsofr,nlo,e,r,g,scsrsln)Ifilcyisittoelalpswostya,tnteanpsmypeteslbegnintefgo:f,tocff,pdtttsanpeslbelontmetntnpt()oftecyoftepcc;s,tossofpsaysdbytelrorrmm;t,tocnoffswhatlto)ptorllgnwoisonaedyoronaegdaed,astetsaeddin10U.1;f,tssgtotrfmarIopccrsloratwhtyhebnedfratltoe()ydtttsanpeslbesttoanegwnatfrshpebntestcsora;fhf,tossrgwntyaeaaoftepccrs;adfhsyaneesnpsshasalyororr.Apccrslmywttesslyteanfrtefgeyd:sslgatorbwoehdeep)ofteflpyl,sswoaehsorirc,cnwhdsasddinsn3oC,sswhldEhp,adssweakasddinsn3,IoC.Apcclmyietecnoffeesofteprslwnteftpyg,sttotelst)Ifcyisittoelalpswostatnfrstslt,tnteanpypettpeslbegnintefgo,topsrgtotepccrslintesraystyrofiso;adtnaspdinph()oftss.Tesgpeinslysastossofargpladofapdbytelyororrmm.Anwlyslbdehyrtoflvsttbea.Aprslmywttesslytopeaspdintsphadph()oftssnarcnwoadtepccrslwntepe()slysbtwwasartofternoftorgndetoanacsloranerormytrorr)Ehpccrslslehapsurwhdmyayfretorrrfrc,rsoeshcdrsatteteofanorr,iecdisadtofamrofteUdSsadf]
+[DELETED: ohsrdtrostoalninIoadw,uht,reinanaasdbytepccrsfcyisitasddinph()or()oft,acdddintsphslbetdastrgwntepyaeaaoftepccrslfrpsofp.O,shcnseidintehtpygpfrwhtywdoee)Antoapccrslslbeddbyasnpshdwnsn()dsofteetdsedbytecrh.Tesnpsmttepnapcs,tedeadteofwhmtbendtotcatltft()hsina)Wnsn()dsarcgtesnp,trhrslsdanortotellgnwosdnrtfranonbfofastngshpntttesthsbnsdfrantotepccrs.Anormtbesdbyshssptorgdrdtotepccrslbytededdinsrl.Rgssslbendtttymybeeefranatalrdeifastbsa)Ifaslesispdstctinalyastwtlte,teslmyieetbgalssprg,nttoedtetlatosadbytecN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

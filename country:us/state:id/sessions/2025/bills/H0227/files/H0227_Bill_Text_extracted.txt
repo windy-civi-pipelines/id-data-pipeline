@@ -1,0 +1,93 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 227
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO SECURED TRANSACTIONS; AMENDING SECTION 28-9-521, IDAHO CODE, TO
+3 PROVIDE THAT THE SECRETARY OF STATE MAY PRESCRIBE THE FORM AND FORMAT
+4 OF CERTAIN FILING STATEMENTS AND TO REMOVE PROVISIONS REGARDING CERTAIN
+5 FORMS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 28-9-521, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 28-9-521. UNIFORM FORM OF WRITTEN FINANCING STATEMENT AND AMEND-
+10 MENT. (a) A filing office that accepts written records may not refuse to
+11 accept a written initial financing statement in the following form and for-
+12 mat as prescribed by the secretary of state that is in compliance with the
+13 standards of the uniform commercial code, except for a reason set forth in
+14 section 28-9-516(b), Idaho Code:.
+2
+3
+4
+1 (b) A filing office that accepts written records may not refuse to ac-
+2 cept a written record in the following form and format as prescribed by the
+3 secretary of state that is in compliance with the standards of the uniform
+4 commercial code, except for a reason set forth in section 28-9-516(b), Idaho
+5 Code:.
+5
+6
+7
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOSDT;AGSN2,IOC,TETTTESYOFSEMYPETEFMADFFCNFGSSADTOREPSRGC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn2,IoC,b,adteseishdtordasf.UMFMOFWNFGSTADA.()Afgoettaswnrsmyntrettawnilfgstintefgfmadftaspdbytesyofsettisincewhtsofteumclc,etfrarnstfhin2,IoC]
+[DELETED: )Afgoettaswnrsmyntretoatawnrdintefgfmadftaspdbytyofsettisincewhtessofteulc,etfrarnstfhinsn2,I]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 227
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO SECURED TRANSACTIONS; AMENDING SECTION 28-9-521, IDAHO CODE, TO
+3 PROVIDE THAT THE SECRETARY OF STATE MAY PRESCRIBE THE FORM AND FORMAT
+4 OF CERTAIN FILING STATEMENTS AND TO REMOVE PROVISIONS REGARDING CERTAIN
+5 FORMS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 28-9-521, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 28-9-521. UNIFORM FORM OF WRITTEN FINANCING STATEMENT AND AMEND-
+10 MENT. (a) A filing office that accepts written records may not refuse to
+11 accept a written initial financing statement in the following form and for-
+12 mat as prescribed by the secretary of state that is in compliance with the
+13 standards of the uniform commercial code, except for a reason set forth in
+14 section 28-9-516(b), Idaho Code:.
+
+2
+
+3
+
+4
+1 (b) A filing office that accepts written records may not refuse to ac-
+2 cept a written record in the following form and format as prescribed by the
+3 secretary of state that is in compliance with the standards of the uniform
+4 commercial code, except for a reason set forth in section 28-9-516(b), Idaho
+5 Code:.
+
+5
+
+6
+
+7
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOSDT;AGSN2,IOC,TETTTESYOFSEMYPETEFMADFFCNFGSSADTOREPSRGC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn2,IoC,b,adteseishdtordasf.UMFMOFWNFGSTADA.()Afgoettaswnrsmyntrettawnilfgstintefgfmadftaspdbytesyofsettisincewhtsofteumclc,etfrarnstfhin2,IoC]
+[DELETED: )Afgoettaswnrsmyntretoatawnrdintefgfmadftaspdbytyofsettisincewhtessofteulc,etfrarnstfhinsn2,I]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

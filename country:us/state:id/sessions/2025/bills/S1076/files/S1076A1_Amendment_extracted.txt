@@ -1,0 +1,65 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Guthrie
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1076
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 10, following "not" insert:
+3 "always"; in line 12, following "emergency" insert: "or other limited";
+4 in line 23, delete "or"; in line 24, following "rights;" insert: "or"; and
+5 following line 24, insert:
+6 "(e) A natural disaster;".
+7 On page 2, in line 14, delete ". If the agency chooses to adopt an ex-
+8 pired" and insert: ", unless:"; and delete lines 15 through 20, and insert:
+9 "(a) The governor finds it is necessary due to an imminent threat to the
+10 public health, safety, or welfare, as described in subsection (2)(a) of
+11 this section, and publishes a statement explaining the changed or emer-
+12 gency circumstances;
+13 (b) Ninety (90) days have elapsed since the expiration of the previous
+14 temporary rule and a basis for a new temporary rule is present; or
+15 (c) The governor declares a disaster emergency pursuant to state law.
+16 (8) A person aggrieved by a promulgating agency's adoption of a tempo-
+17 rary rule may challenge such agency action as a final agency action in accor-
+18 dance with the provisions of section 67-5270, Idaho Code.".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyGdbyHNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,fg""i;inle1,fg""i:"rorlnle2,de";inle2,fg""i:";agle2,inldnpe2,inle1,de".Ifteaycstoatane"adi:",u;addels15th2,adi)Tegrfsitisnydetoanittttotch,s,orw,asddinsn()oss,adpsastegtecdoreyc)Ny()dsheedseteenoftepyreadabsfranwtyreisp;o)Tegrdsadreypttosel)Apnadbyapgasanofatyremyceshayanasaflayaninaewhtepsofsn6,IoC]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Guthrie
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1076
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 10, following "not" insert:
+3 "always"; in line 12, following "emergency" insert: "or other limited";
+4 in line 23, delete "or"; in line 24, following "rights;" insert: "or"; and
+5 following line 24, insert:
+6 "(e) A natural disaster;".
+7 On page 2, in line 14, delete ". If the agency chooses to adopt an ex-
+8 pired" and insert: ", unless:"; and delete lines 15 through 20, and insert:
+9 "(a) The governor finds it is necessary due to an imminent threat to the
+10 public health, safety, or welfare, as described in subsection (2)(a) of
+11 this section, and publishes a statement explaining the changed or emer-
+12 gency circumstances;
+13 (b) Ninety (90) days have elapsed since the expiration of the previous
+14 temporary rule and a basis for a new temporary rule is present; or
+15 (c) The governor declares a disaster emergency pursuant to state law.
+16 (8) A person aggrieved by a promulgating agency's adoption of a tempo-
+17 rary rule may challenge such agency action as a final agency action in accor-
+18 dance with the provisions of section 67-5270, Idaho Code.".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyGdbyHNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,fg""i;inle1,fg""i:"rorlnle2,de";inle2,fg""i:";agle2,inldnpe2,inle1,de".Ifteaycstoatane"adi:",u;addels15th2,adi)Tegrfsitisnydetoanittttotch,s,orw,asddinsn()oss,adpsastegtecdoreyc)Ny()dsheedseteenoftepyreadabsfranwtyreisp;o)Tegrdsadreypttosel)Apnadbyapgasanofatyremyceshayanasaflayaninaewhtepsofsn6,IoC]

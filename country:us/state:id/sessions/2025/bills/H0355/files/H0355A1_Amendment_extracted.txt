@@ -1,0 +1,53 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Wisniewski
+Seconded by Mendive(5)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 355
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 28, following "(3)" insert: "(a)";
+3 following line 33, insert:
+4 "(b) Applications that include property tax delinquencies for more
+5 than two (2) property tax years shall be submitted by the September
+6 deadline.
+7 (4) For a qualified claimant who owes property taxes for one (1) or more
+8 tax years, the deferral of property taxes provided in this section shall
+9 include in the deferral any outstanding balance owed in property taxes on
+10 the property, including delinquencies, interest, late charges, costs, and
+11 fees.";
+12 and in line 34, delete "(4)" and insert: "(5)".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyWdbyMNTEHEOFREATTOH.N.3TTOSNnpe1oftepdb,inle2,fg""i:"gle3,i)Asttiepytxdsfrmnto()pytxysslbesdbyteS)Fraqdctwoospytsfroe()ormxy,tedlofpytspdintssnseintedlayogbeodinpytsoep,igd,i,lec,c,adinle3,de""adi:"]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Wisniewski
+Seconded by Mendive(5)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 355
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 28, following "(3)" insert: "(a)";
+3 following line 33, insert:
+4 "(b) Applications that include property tax delinquencies for more
+5 than two (2) property tax years shall be submitted by the September
+6 deadline.
+7 (4) For a qualified claimant who owes property taxes for one (1) or more
+8 tax years, the deferral of property taxes provided in this section shall
+9 include in the deferral any outstanding balance owed in property taxes on
+10 the property, including delinquencies, interest, late charges, costs, and
+11 fees.";
+12 and in line 34, delete "(4)" and insert: "(5)".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyWdbyMNTEHEOFREATTOH.N.3TTOSNnpe1oftepdb,inle2,fg""i:"gle3,i)Asttiepytxdsfrmnto()pytxysslbesdbyteS)Fraqdctwoospytsfroe()ormxy,tedlofpytspdintssnseintedlayogbeodinpytsoep,igd,i,lec,c,adinle3,de""adi:"]
