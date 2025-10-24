@@ -1,0 +1,57 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Keyser
+Seconded by Adams
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 356
+1 AMENDMENT TO SECTION 2
+2 On page 2 of the printed bill, in line 2, following "land," insert:
+3 "water rights,"; in line 7, following "agricultural land" insert: ", wa-
+4 ter rights,"; in line 12, following "agricultural land" insert: ", water
+5 rights,"; in line 34, following "land," insert: "water rights,"; delete
+6 lines 41 through 43; in line 44, delete "10" and insert: "9"; in line 47,
+7 delete "11" and insert: "10".
+8 On page 3, in line 4, delete "12" and insert: "11"; in line 9, delete
+9 "13" and insert: "12"; in line 12, delete "14" and insert: "13"; in line 15,
+10 delete "15" and insert: "14"; in line 17, delete "16" and insert: "15"; in
+11 line 32, delete "17" and insert: "16"; in line 34, delete "18" and insert:
+12 "17"; and delete lines 49 and 50, and insert: "determined under 15 CFR 791.4,
+13 as it existed on January 1, 2025.".
+14 On page 4, delete lines 1 through 5.
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyKdbyANTESEATTOH.N.3TTOSNnpe2oftepdb,inle2,fg""irr;inle7,fg"ll"i:",wrr;inle1,fg"ll"i:",w;inle3,fg""i:"rr;ds41th4;inle4,de""adi:";inle4e""adi:"npe3,inle4,de""adi:";inle9,d"adi:";inle1,de""adi:";inle1e"adi:";inle1,de""adi:";ie3,de""adi:";inle3,de""adi;addels49ad5,adi:"dur15CR7sitedonJy1,2npe4,dels1th5]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Keyser
+Seconded by Adams
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 356
+1 AMENDMENT TO SECTION 2
+2 On page 2 of the printed bill, in line 2, following "land," insert:
+3 "water rights,"; in line 7, following "agricultural land" insert: ", wa-
+4 ter rights,"; in line 12, following "agricultural land" insert: ", water
+5 rights,"; in line 34, following "land," insert: "water rights,"; delete
+6 lines 41 through 43; in line 44, delete "10" and insert: "9"; in line 47,
+7 delete "11" and insert: "10".
+8 On page 3, in line 4, delete "12" and insert: "11"; in line 9, delete
+9 "13" and insert: "12"; in line 12, delete "14" and insert: "13"; in line 15,
+10 delete "15" and insert: "14"; in line 17, delete "16" and insert: "15"; in
+11 line 32, delete "17" and insert: "16"; in line 34, delete "18" and insert:
+12 "17"; and delete lines 49 and 50, and insert: "determined under 15 CFR 791.4,
+13 as it existed on January 1, 2025.".
+14 On page 4, delete lines 1 through 5.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyKdbyANTESEATTOH.N.3TTOSNnpe2oftepdb,inle2,fg""irr;inle7,fg"ll"i:",wrr;inle1,fg"ll"i:",w;inle3,fg""i:"rr;ds41th4;inle4,de""adi:";inle4e""adi:"npe3,inle4,de""adi:";inle9,d"adi:";inle1,de""adi:";inle1e"adi:";inle1,de""adi:";ie3,de""adi:";inle3,de""adi;addels49ad5,adi:"dur15CR7sitedonJy1,2npe4,dels1th5]

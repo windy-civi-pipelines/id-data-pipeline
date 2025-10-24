@@ -1,0 +1,295 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1140
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO HIGHWAYS AND BRIDGES; AMENDING SECTION 40-103, IDAHO CODE,
+3 TO DEFINE A TERM AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+4 40-117, IDAHO CODE, TO DEFINE A TERM AND TO MAKE TECHNICAL CORRECTIONS;
+5 AMENDING SECTION 40-207, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+6 VIOLATIONS AND TO PROVIDE FOR PUBLIC EMPLOYEE PROTECTION; AND DECLARING
+7 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 40-103, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 40-103. DEFINITIONS -- B. (1) "Base technical concept" means the
+12 project specific concepts and technical information provided in the request
+13 for proposals upon on which design-build firms will develop their technical
+14 and price proposals.
+15 (2) "Benefit primarily motor vehicles" and "primary benefit of motor
+16 vehicles" means highway projects that are designed and constructed to reduce
+17 traffic congestion, travel delays, engine idle time, and unproductive fuel
+18 consumption.
+19 (2) (3) "Best value selection" means any selection process in which
+20 proposals contain both price and qualitative components and award is based
+21 upon on a combination of price and qualitative considerations.
+22 (3) (4) "Board" means the Idaho transportation board.
+23 (4) (5) "Business" means any lawful activity, excepting a farm opera-
+24 tion, conducted primarily for the purchase, resale, lease and rental of per-
+25 sonal and real property, and for the manufacture, processing or marketing
+26 of products, commodities, or other personal property; for the sale of ser-
+27 vices to the public; or solely for the purpose of section 40-2004(1), Idaho
+28 Code, for assisting in the purchase, sale, resale, manufacture, process-
+29 ing, or marketing of products, commodities, personal property, or services
+30 by the erection and maintenance of an outdoor advertising display or dis-
+31 plays, whether or not displays are located on the premises on which any of the
+32 activities are conducted.
+33 (5) (6) "Business entity" means a corporation, professional corpora-
+34 tion, limited liability company, professional limited liability company,
+35 general partnership, limited partnership, limited liability partnership,
+36 professional limited liability partnership or any other form of business ex-
+37 cept a sole proprietorship.
+38 SECTION 2. That Section 40-117, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+2
+1 40-117. DEFINITIONS -- P. (1) "Person" includes every natural per-
+2 son, firm, fiduciary, copartnership, association, corporation, trustee,
+3 receiver or assignee for the benefit of creditors.
+4 (2) "Place." (See "Maintain," section 40-114, Idaho Code)
+5 (3) "Preliminary design," as used in section 40-904, Idaho Code, means
+6 the general project location and design concepts. It includes, but is not
+7 limited to, preliminary engineering and other activities and analyses,
+8 such as environmental assessments, topographic surveys, metes and bounds
+9 surveys, geotechnical investigations, hydrologic analyses, hydraulic
+10 analyses, utility engineering, traffic studies, financial plans, revenue
+11 estimates, hazardous materials assessments, general estimates of the types
+12 and quantities of materials and other work needed to establish parameters
+13 for the final design.
+14 (4) "Price proposal" means the price submitted by a design-build
+15 firm to provide the required design and construction services described
+16 in the request for proposals or the price submitted by a construction
+17 manager/general manager or general contractor firm to provide the required
+18 construction services described in the request for proposal.
+19 (5) "Primary benefit of motor vehicles" and "benefit primarily motor
+20 vehicles" means highway projects that are designed and constructed to re-
+21 duce traffic congestion, travel delays, engine idle time, and unproductive
+22 fuel consumption. "Primary benefit of motor vehicles" also includes and is
+23 limited to improving vehicle traffic flow and travel times through expand-
+24 ing vehicle travel lanes, improving intersection efficiency, adding turn-
+25 ing lanes, improving transportation management systems, or a combination of
+26 such methods. Highway improvements to existing or new bicycle and pedes-
+27 trian facilities may only be included in a project for the primary benefit of
+28 motor vehicles if such facilities:
+29 (a) Provide a collateral or secondary benefit to the project; or
+30 (b) Are highway design improvements that are necessary to comply with
+31 existing federal law.
+32 (5) (6) "Primary system" or "primary highway" means any portion of the
+33 highways of the state, as officially designated, or as may hereafter be so
+34 designated, by the Idaho transportation board, and approved by the secretary
+35 of transportation, pursuant to the provisions of title 23, U.S. Code, "High-
+36 ways."
+37 (6) (7) "Public highway agency" means the state transportation depart-
+38 ment, any city, county, highway district or other political subdivision of
+39 the state with jurisdiction over public highway systems and public rights-
+40 of-way.
+41 (7) (8) "Public highways" means all highways open to public use in the
+42 state, whether maintained by the state or by any county, highway district,
+43 city, or other political subdivision. (Also see "Highways," section 40-109,
+44 Idaho Code)
+45 (8) (9) "Public land survey corner" means any point actually estab-
+46 lished and monumented in an original survey or resurvey that determines the
+47 boundaries of remaining public lands, or public lands patented, represented
+48 on an official plat and in the field notes thereof, accepted and approved un-
+49 der authority delegated by congress to the United States general land office
+50 and the United States department of interior, bureau of land management.
+3
+1 (9) (10) "Public right-of-way" means a right-of-way open to the public
+2 and under the jurisdiction of a public highway agency, where the public high-
+3 way agency has no obligation to construct or maintain, but may expend funds
+4 for the maintenance of, said public right-of-way or post traffic signs for
+5 vehicular traffic on said public right-of-way. In addition, a public right-
+6 of-way includes a right-of-way which was originally intended for develop-
+7 ment as a highway and was accepted on behalf of the public by deed of pur-
+8 chase, fee simple title, authorized easement, eminent domain, by plat, pre-
+9 scriptive use, or abandonment of a highway pursuant to section 40-203, Idaho
+10 Code, but shall not include federal land rights-of-way, as provided in sec-
+11 tion 40-204A, Idaho Code, that resulted from the creation of a facility for
+12 the transmission of water. Public rights-of-way shall not be considered im-
+13 proved highways for the apportionment of funds from the highway distribution
+14 account.
+15 (10) (11) "Public street" means a road, thoroughfare, alley, highway or
+16 bridge under the jurisdiction of a public highway agency.
+17 (11) (12) "Public transportation services" means, but is not limited
+18 to, fixed transit routes, scheduled or unscheduled transit services pro-
+19 vided by motor vehicle, bus, rail, van, aerial tramway and other modes of
+20 public conveyance; paratransit service for the elderly and disabled; shut-
+21 tle and commuter service between cities, counties, health care facilities,
+22 employment centers, educational institutions or park-and-ride locations;
+23 subscription van and car pooling services; transportation services unique
+24 to social service programs; and the management and administration thereof.
+25 SECTION 3. That Section 40-207, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 40-207. VIOLATIONS -- PENALTIES. Any elected official, officer, or
+28 person who shall violate or aid in the violation of any of the provisions
+29 of this title, unless a different penalty is prescribed by law, shall be
+30 guilty of a misdemeanor, and upon conviction thereof be punished by a fine
+31 of not more than five hundred dollars ($500) one thousand dollars ($1,000),
+32 or imprisonment for a period not to exceed ninety (90) days, or by both such
+33 fine and imprisonment. The reporting of violations under this title shall be
+34 afforded protection pursuant to the provisions of chapter 21, title 6, Idaho
+35 Code. All fines collected for violations of the provisions of this title
+36 shall be paid into the highway distribution account established in section
+37 40-701, Idaho Code.
+38 SECTION 4. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOHSADB;AGSN4,IOCODEATMADTOMETLC;AGS,IOC,TODEATMADTOMETLCGSN4,IOC,TOREPSRSADTOPEFRPCEEP;ADDNEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DS--B.()"etlc"msttsccsadtlinpdinterrpsunonwhddfswldptrtdpep)"tpymrv"ad"ybtofm"mshypsttaeddadcdtorcc,tld,eeiet,aduef)()"tves"msaysnpsinwscnbhpeadqecsadadisbnonacnofpeadqec)()""msteIotnb)()""msaylla,egafmo,cdpyfrtep,r,leadrlofpladrlp,adfrtem,pgormfp,c,ororplp;frteseofsstotep;orsyfrtepeofsn4,I,fragintep,s,r,m,p,ormgofp,c,plp,orsyteenadmeofanoragdyord,wrorntdsaeldontepsonwhayoftsaec)()"se"msac,plc,ldlyc,plldlyclp,ldp,ldlyplldlypporayorfmofbsetasepN2.TtSn4,IoC,b,adteseishdtordasf]
+[DELETED: .DS--P.()""iseynlp,f,f,c,a,c,troraefrtebtofc)""(e""sn4,IoC)"yd"asudinsn4,IoC,meglptlnaddnc.Iti,btisndt,pyegadorasadahasela,tcs,msadb,gli,hca,h,uye,tcs,flp,r,hsmsa,glesoftetdqsofmsadorwkndtoehprtefld)"ep"mstepesdbyadmtopeterddnadcnssdntertfrpsortepesdbyaclmrorglcrfmtopeternssddintertfrpybtofmrv"ad"tpym"mshypsttaeddadcdtoretcc,tld,eeiet,adulc."ybtofmrv"aoisadidtoigvetcfwadtltsthegvetll,igine,agtgl,igtnmts,oracnohm.Hyistoegornwbeadpnfsmyoybeidinaptfrtepybtorvsifshf)Peaclorsybttotep;o)Aehydnisttaenytocywgfll)()"ys"or"yh"msaypnoftsoftes,asoyd,orasmyhrbes,byteIotnb,adadbytesft,pttotepsofte2,U.C,")()"chya"mstesetnd,ayc,c,hydtororplsnoesewhjnorpchyssadpcr)()"ch"msalhsontopcueint,wrmdbyteseorbyayc,hyd,ororpls.(ose""sn4oC)()"cldsyc"msayptayedadmdinanolsyorryttdstsofrgpcl,orpclsp,rnanolptadintefdnst,adadadurayddbycstoteUdSsglldodteUdSsdtofi,buofldm]
+[DELETED: )()"cr"msaryontotepdurtejnofapchya,wetepchyayhsnoontoctorm,btmyedfrtemeo,sdpcryorpttcssfrtconsdpcr.Ina,apcryisarywhwsoyidfrdtasahyadwsadonbfoftepcbyddofp,feset,ade,etd,byp,peu,oratofahypttosn4,I,btslntieflldr,aspdinsn4,IoC,ttrdfmtecnofafyfetnofw.Pcryslntbecdidhsfrteatoffsfmtehyd)()"cs"msar,t,a,hyoeurtejnofapchya)()"ctns"m,btisntl,fdttr,sdorudttsspdbymrv,b,r,v,altyadormsocc;ptsefrteeyadd;seadcrsebnc,c,hhceftc,elisorpelnvnadcrpgs;tnssuoslsep;adtemtadantN3.TtSn4,IoC,b,adteseishdtordasf.VS--P.Ayedo,o,onwoslveoradintevnofayoftepftst,usadtpyispdbyl,slbyofam,aduncntfbepdbyaffntmetnfehdds()oetdds(ritfrapdnttoedny()d,orbybhseadi.Tergofvsurtsteslbdpnpttotepsofcr2,te6,I.Alfscdfrvsoftepsoftstlbepdiotehydnatedins,IoCN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1140
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO HIGHWAYS AND BRIDGES; AMENDING SECTION 40-103, IDAHO CODE,
+3 TO DEFINE A TERM AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+4 40-117, IDAHO CODE, TO DEFINE A TERM AND TO MAKE TECHNICAL CORRECTIONS;
+5 AMENDING SECTION 40-207, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+6 VIOLATIONS AND TO PROVIDE FOR PUBLIC EMPLOYEE PROTECTION; AND DECLARING
+7 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 40-103, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 40-103. DEFINITIONS -- B. (1) "Base technical concept" means the
+12 project specific concepts and technical information provided in the request
+13 for proposals upon on which design-build firms will develop their technical
+14 and price proposals.
+15 (2) "Benefit primarily motor vehicles" and "primary benefit of motor
+16 vehicles" means highway projects that are designed and constructed to reduce
+17 traffic congestion, travel delays, engine idle time, and unproductive fuel
+18 consumption.
+19 (2) (3) "Best value selection" means any selection process in which
+20 proposals contain both price and qualitative components and award is based
+21 upon on a combination of price and qualitative considerations.
+22 (3) (4) "Board" means the Idaho transportation board.
+23 (4) (5) "Business" means any lawful activity, excepting a farm opera-
+24 tion, conducted primarily for the purchase, resale, lease and rental of per-
+25 sonal and real property, and for the manufacture, processing or marketing
+26 of products, commodities, or other personal property; for the sale of ser-
+27 vices to the public; or solely for the purpose of section 40-2004(1), Idaho
+28 Code, for assisting in the purchase, sale, resale, manufacture, process-
+29 ing, or marketing of products, commodities, personal property, or services
+30 by the erection and maintenance of an outdoor advertising display or dis-
+31 plays, whether or not displays are located on the premises on which any of the
+32 activities are conducted.
+33 (5) (6) "Business entity" means a corporation, professional corpora-
+34 tion, limited liability company, professional limited liability company,
+35 general partnership, limited partnership, limited liability partnership,
+36 professional limited liability partnership or any other form of business ex-
+37 cept a sole proprietorship.
+38 SECTION 2. That Section 40-117, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+
+2
+1 40-117. DEFINITIONS -- P. (1) "Person" includes every natural per-
+2 son, firm, fiduciary, copartnership, association, corporation, trustee,
+3 receiver or assignee for the benefit of creditors.
+4 (2) "Place." (See "Maintain," section 40-114, Idaho Code)
+5 (3) "Preliminary design," as used in section 40-904, Idaho Code, means
+6 the general project location and design concepts. It includes, but is not
+7 limited to, preliminary engineering and other activities and analyses,
+8 such as environmental assessments, topographic surveys, metes and bounds
+9 surveys, geotechnical investigations, hydrologic analyses, hydraulic
+10 analyses, utility engineering, traffic studies, financial plans, revenue
+11 estimates, hazardous materials assessments, general estimates of the types
+12 and quantities of materials and other work needed to establish parameters
+13 for the final design.
+14 (4) "Price proposal" means the price submitted by a design-build
+15 firm to provide the required design and construction services described
+16 in the request for proposals or the price submitted by a construction
+17 manager/general manager or general contractor firm to provide the required
+18 construction services described in the request for proposal.
+19 (5) "Primary benefit of motor vehicles" and "benefit primarily motor
+20 vehicles" means highway projects that are designed and constructed to re-
+21 duce traffic congestion, travel delays, engine idle time, and unproductive
+22 fuel consumption. "Primary benefit of motor vehicles" also includes and is
+23 limited to improving vehicle traffic flow and travel times through expand-
+24 ing vehicle travel lanes, improving intersection efficiency, adding turn-
+25 ing lanes, improving transportation management systems, or a combination of
+26 such methods. Highway improvements to existing or new bicycle and pedes-
+27 trian facilities may only be included in a project for the primary benefit of
+28 motor vehicles if such facilities:
+29 (a) Provide a collateral or secondary benefit to the project; or
+30 (b) Are highway design improvements that are necessary to comply with
+31 existing federal law.
+32 (5) (6) "Primary system" or "primary highway" means any portion of the
+33 highways of the state, as officially designated, or as may hereafter be so
+34 designated, by the Idaho transportation board, and approved by the secretary
+35 of transportation, pursuant to the provisions of title 23, U.S. Code, "High-
+36 ways."
+37 (6) (7) "Public highway agency" means the state transportation depart-
+38 ment, any city, county, highway district or other political subdivision of
+39 the state with jurisdiction over public highway systems and public rights-
+40 of-way.
+41 (7) (8) "Public highways" means all highways open to public use in the
+42 state, whether maintained by the state or by any county, highway district,
+43 city, or other political subdivision. (Also see "Highways," section 40-109,
+44 Idaho Code)
+45 (8) (9) "Public land survey corner" means any point actually estab-
+46 lished and monumented in an original survey or resurvey that determines the
+47 boundaries of remaining public lands, or public lands patented, represented
+48 on an official plat and in the field notes thereof, accepted and approved un-
+49 der authority delegated by congress to the United States general land office
+50 and the United States department of interior, bureau of land management.
+
+3
+1 (9) (10) "Public right-of-way" means a right-of-way open to the public
+2 and under the jurisdiction of a public highway agency, where the public high-
+3 way agency has no obligation to construct or maintain, but may expend funds
+4 for the maintenance of, said public right-of-way or post traffic signs for
+5 vehicular traffic on said public right-of-way. In addition, a public right-
+6 of-way includes a right-of-way which was originally intended for develop-
+7 ment as a highway and was accepted on behalf of the public by deed of pur-
+8 chase, fee simple title, authorized easement, eminent domain, by plat, pre-
+9 scriptive use, or abandonment of a highway pursuant to section 40-203, Idaho
+10 Code, but shall not include federal land rights-of-way, as provided in sec-
+11 tion 40-204A, Idaho Code, that resulted from the creation of a facility for
+12 the transmission of water. Public rights-of-way shall not be considered im-
+13 proved highways for the apportionment of funds from the highway distribution
+14 account.
+15 (10) (11) "Public street" means a road, thoroughfare, alley, highway or
+16 bridge under the jurisdiction of a public highway agency.
+17 (11) (12) "Public transportation services" means, but is not limited
+18 to, fixed transit routes, scheduled or unscheduled transit services pro-
+19 vided by motor vehicle, bus, rail, van, aerial tramway and other modes of
+20 public conveyance; paratransit service for the elderly and disabled; shut-
+21 tle and commuter service between cities, counties, health care facilities,
+22 employment centers, educational institutions or park-and-ride locations;
+23 subscription van and car pooling services; transportation services unique
+24 to social service programs; and the management and administration thereof.
+25 SECTION 3. That Section 40-207, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 40-207. VIOLATIONS -- PENALTIES. Any elected official, officer, or
+28 person who shall violate or aid in the violation of any of the provisions
+29 of this title, unless a different penalty is prescribed by law, shall be
+30 guilty of a misdemeanor, and upon conviction thereof be punished by a fine
+31 of not more than five hundred dollars ($500) one thousand dollars ($1,000),
+32 or imprisonment for a period not to exceed ninety (90) days, or by both such
+33 fine and imprisonment. The reporting of violations under this title shall be
+34 afforded protection pursuant to the provisions of chapter 21, title 6, Idaho
+35 Code. All fines collected for violations of the provisions of this title
+36 shall be paid into the highway distribution account established in section
+37 40-701, Idaho Code.
+38 SECTION 4. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOHSADB;AGSN4,IOCODEATMADTOMETLC;AGS,IOC,TODEATMADTOMETLCGSN4,IOC,TOREPSRSADTOPEFRPCEEP;ADDNEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DS--B.()"etlc"msttsccsadtlinpdinterrpsunonwhddfswldptrtdpep)"tpymrv"ad"ybtofm"mshypsttaeddadcdtorcc,tld,eeiet,aduef)()"tves"msaysnpsinwscnbhpeadqecsadadisbnonacnofpeadqec)()""msteIotnb)()""msaylla,egafmo,cdpyfrtep,r,leadrlofpladrlp,adfrtem,pgormfp,c,ororplp;frteseofsstotep;orsyfrtepeofsn4,I,fragintep,s,r,m,p,ormgofp,c,plp,orsyteenadmeofanoragdyord,wrorntdsaeldontepsonwhayoftsaec)()"se"msac,plc,ldlyc,plldlyclp,ldp,ldlyplldlypporayorfmofbsetasepN2.TtSn4,IoC,b,adteseishdtordasf]
+[DELETED: .DS--P.()""iseynlp,f,f,c,a,c,troraefrtebtofc)""(e""sn4,IoC)"yd"asudinsn4,IoC,meglptlnaddnc.Iti,btisndt,pyegadorasadahasela,tcs,msadb,gli,hca,h,uye,tcs,flp,r,hsmsa,glesoftetdqsofmsadorwkndtoehprtefld)"ep"mstepesdbyadmtopeterddnadcnssdntertfrpsortepesdbyaclmrorglcrfmtopeternssddintertfrpybtofmrv"ad"tpym"mshypsttaeddadcdtoretcc,tld,eeiet,adulc."ybtofmrv"aoisadidtoigvetcfwadtltsthegvetll,igine,agtgl,igtnmts,oracnohm.Hyistoegornwbeadpnfsmyoybeidinaptfrtepybtorvsifshf)Peaclorsybttotep;o)Aehydnisttaenytocywgfll)()"ys"or"yh"msaypnoftsoftes,asoyd,orasmyhrbes,byteIotnb,adadbytesft,pttotepsofte2,U.C,")()"chya"mstesetnd,ayc,c,hydtororplsnoesewhjnorpchyssadpcr)()"ch"msalhsontopcueint,wrmdbyteseorbyayc,hyd,ororpls.(ose""sn4oC)()"cldsyc"msayptayedadmdinanolsyorryttdstsofrgpcl,orpclsp,rnanolptadintefdnst,adadadurayddbycstoteUdSsglldodteUdSsdtofi,buofldm]
+[DELETED: )()"cr"msaryontotepdurtejnofapchya,wetepchyayhsnoontoctorm,btmyedfrtemeo,sdpcryorpttcssfrtconsdpcr.Ina,apcryisarywhwsoyidfrdtasahyadwsadonbfoftepcbyddofp,feset,ade,etd,byp,peu,oratofahypttosn4,I,btslntieflldr,aspdinsn4,IoC,ttrdfmtecnofafyfetnofw.Pcryslntbecdidhsfrteatoffsfmtehyd)()"cs"msar,t,a,hyoeurtejnofapchya)()"ctns"m,btisntl,fdttr,sdorudttsspdbymrv,b,r,v,altyadormsocc;ptsefrteeyadd;seadcrsebnc,c,hhceftc,elisorpelnvnadcrpgs;tnssuoslsep;adtemtadantN3.TtSn4,IoC,b,adteseishdtordasf.VS--P.Ayedo,o,onwoslveoradintevnofayoftepftst,usadtpyispdbyl,slbyofam,aduncntfbepdbyaffntmetnfehdds()oetdds(ritfrapdnttoedny()d,orbybhseadi.Tergofvsurtsteslbdpnpttotepsofcr2,te6,I.Alfscdfrvsoftepsoftstlbepdiotehydnatedins,IoCN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

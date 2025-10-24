@@ -1,0 +1,265 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1158
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CHILDREN'S DEVICE PROTECTION; AMENDING TITLE 48, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 21, TITLE 48, IDAHO CODE, TO PROVIDE
+4 A SHORT TITLE, TO PROVIDE A DECLARATION OF POLICY, TO DEFINE TERMS, TO
+5 REQUIRE INTERNET FILTERING ON CERTAIN DEVICES, TO ESTABLISH PROVISIONS
+6 REGARDING MANUFACTURER LIABILITY, AND TO PROVIDE FOR ATTORNEY GENERAL
+7 PROCEEDINGS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+8 DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 48, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 21, Title 48, Idaho Code, and to read as follows:
+13 CHAPTER 21
+14 CHILDREN'S DEVICE PROTECTION ACT
+15 48-2101. SHORT TITLE. This chapter shall be known and may be cited as
+16 the "Children's Device Protection Act."
+17 48-2102. DECLARATION OF POLICY. The Idaho legislature, recognizing
+18 the importance of mental health in the growth and education of minors and a
+19 need to protect minors from accessing or downloading pornographic content
+20 that is harmful, declares it to be the policy of the state to promote the
+21 mental health of minors and adopt a comprehensive and proactive approach to
+22 reducing minors' access to such harmful content.
+23 48-2103. DEFINITIONS. As used in this chapter:
+24 (1) "Activate" means the process of powering on a device and associat-
+25 ing it with a user account.
+26 (2) "Device" means a tablet or a smartphone manufactured on or after
+27 January 1, 2026.
+28 (3) "Filter" means software installed on a device that is capable of
+29 preventing the device from accessing or displaying obscene material as
+30 defined by state law through internet browsers or search engines owned or
+31 controlled by the manufacturer through mobile data networks, wired internet
+32 networks, and wireless internet networks.
+33 (4) "Internet" means the global information system that is logically
+34 linked together by a globally unique address space based on the internet pro-
+35 tocol (IP), or its subsequent extensions, that is able to support communi-
+36 cations using the transmission control protocol/internet protocol(TCP/IP)
+37 suite, or its subsequent extensions, or other IP-compatible protocols, and
+38 that provides, uses, or makes accessible, either publicly or privately,
+39 high-level services layered on communications and related infrastructure.
+2
+1 (5) "Manufacturer" means a person or company that:
+2 (a) Is engaged in the business of manufacturing a device;
+3 (b) Holds either:
+4 (i) The patents for the device it manufactures; or
+5 (ii) The patents for an operating system on a device; and
+6 (c) Has a commercial designated registered agent as required by section
+7 30-21-402, Idaho Code.
+8 (6) "Minor" means an individual under eighteen (18) years of age who
+9 is not emancipated, married, or a member of the armed forces of the United
+10 States.
+11 (7) "Obscene material" has the same meaning as defined in section
+12 18-4101, Idaho Code.
+13 (8) "Operating system" means software that manages all of the applica-
+14 tion programs on a device.
+15 (9) "Password" means a string of characters or numbers or another se-
+16 cure method used to enable, deactivate, modify, or uninstall a filter on a
+17 device.
+18 (10) "Smartphone" means an electronic device that combines a cellular
+19 phone with a handheld computer, typically offering internet access through a
+20 browser or search engine, data storage, text messaging, and email capabili-
+21 ties.
+22 (11) "Tablet" means an internet-ready device equipped with an operating
+23 system, a touchscreen display, a rechargeable battery, and the ability to
+24 support access to a cellular network.
+25 48-2104. FILTER REQUIRED. Beginning on January 1, 2026, all devices
+26 activated in the state shall:
+27 (1) Contain a filter;
+28 (2) Determine the age of the user during activation and account setup;
+29 (3) Enable the filter for minor users;
+30 (4) Allow a password to be established for the filter;
+31 (5) Notify the user of the device when the filter blocks the device from
+32 accessing a website; and
+33 (6) Provide the password-holding user with the opportunity to deacti-
+34 vate and reactivate the filter.
+35 48-2105. MANUFACTURER LIABILITY. (1) Beginning on January 1, 2026, a
+36 manufacturer of a device shall be subject to civil liability if:
+37 (a) The device is activated in this state;
+38 (b) The device does not, upon activation, enable a filter that complies
+39 with the requirements described in section 48-2104, Idaho Code; and
+40 (c) A minor accesses obscene material on the device.
+41 (2) The provisions of this section shall not apply to a manufacturer
+42 that makes a good faith effort to provide a device that, upon activation of
+43 the device in this state, automatically enables a generally accepted and
+44 commercially reasonable filter that blocks obscene material on all internet
+45 browsers and search engines accessed on the device in accordance with the
+46 provisions of this chapter.
+47 (3) Nothing in this chapter shall be construed to create a cause of ac-
+48 tion against the retailer of a device.
+3
+1 48-2106. PROCEEDINGS BY THE ATTORNEY GENERAL. (1) Whenever the attor-
+2 ney general has reason to believe that a manufacturer violated or is violat-
+3 ing the provisions of this chapter, the attorney general, acting in the pub-
+4 lic interest, may bring an action in the name of the state against such per-
+5 son:
+6 (a) To enjoin any action that constitutes a violation of this chapter by
+7 the issuance of a temporary restraining order or preliminary or perma-
+8 nent injunction;
+9 (b) To recover from the alleged violator a civil penalty not to exceed
+10 five thousand dollars ($5,000) per violation and not to exceed a total
+11 of fifty thousand dollars ($50,000) in aggregate in any specific case,
+12 as determined by the court;
+13 (c) To recover from the alleged violator the attorney general's reason-
+14 able expenses, investigative costs, and attorney's fees; and
+15 (d) To obtain other appropriate relief as provided for pursuant to this
+16 chapter.
+17 (2) The attorney general may seek the revocation of any license or cer-
+18 tificate authorizing a manufacturer to engage in business in this state if
+19 such manufacturer is found to be in violation of the provisions of this chap-
+20 ter.
+21 (3) For purposes of assessing a penalty pursuant to this section, a man-
+22 ufacturer is considered to have committed a separate violation for each de-
+23 vice manufactured on or after January 1, 2026, that violates the provisions
+24 of section 48-2104, Idaho Code.
+25 SECTION 2. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after
+27 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOCSDEP;AGTE4,IOCYTEANOFANWCR2,TE4,IOC,TOPSTT,TOPEADNOFP,TODET,TEITFGONCND,TOEHPGMRL,ADTOPEFRAYG;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te4,IoC,adtordasfR2SDEPNA.STT.Tscrslbeknadmybecdae"sDePnA.DNOFP.TeIol,reieofmlhhinteghadenofmsaddtoptmsfmagordgpcctish,dsittobetepyoftesetopetlhhofmsadataceadpeahtgm'astoshhlc.D.Asudintsc)""mstepsofpgonadeadagitwhaura)""msattorasemdonoray1,2)""msseidonadettisceogtedefmagordgoemladbyselwthitbsorshesododbytemrthmedan,wdi,adwsitn)""msteglinsmttisldtrbyagyueassebdonteitpl(,orisste,ttisaetostcsugtetnclptp,orisste,ororIep,atp,u,ormsa,erpyorplssldoncsadrdi]
+[DELETED: )""msapnorcyt)Isedintebsofmgad)Hse)Tepsfrtedeitm;o)Tepsfranogsmonad;a)Hsaclddrdatasrdbys,IoC)""msaniluren()ysofaewsnte,m,oramrofteadfsofteU)"em"hstesemgasddins,IoC)"gs"mssettmsalofteanpsonad)""msasgofcsornsorarsemdudtoe,d,m,orulafron)""msanecdettcsacewhahdc,tyogitasthrorshe,das,ttm,adelc)""msaniydeedwhano,atnd,areb,adteayttastoacrn.FRR.BgonJy1,2,alddinteses)Cnaf)Deteaeofteurdganadats)Eetefrfrmru)Awapdtobeedfrtef)Nyteuroftedewntefrbstedefgaw;a)Petepgurwhteoytodeadretef.MRL.()BgonJy1,2,rofadeslbesttocllyi)Tedeisadintss)Tededsn,una,eeafrttchtersddinsn4,IoC;a)Amrasoemlonted)Tepsoftssnslntaytoamtmsagdfhettopeadet,unanoedeintss,ayesagyadayrefrttbsoemlonalisadshesadontedeinaewhtsoftsc)Ngintscrslbecdtoceaceofanatterrofad]
+[DELETED: .PSBYTEAYG.()Wrteayglhsrntobettamrvdorisvgtepsoftsc,teayg,agintepci,mybgananinteneofteseatshp)Toenayanttcsavnoftscrbeieofatyrgororpyorpti)Torrfmteadvraclpynttoeetdds()prvnadnttoedatffytdds()inaeinaysccsddbytec)Torrfmteadvrteaygsree,iec,adasf;a)Toonoraerfaspdfrpttot)Teayglmyskternofayleorceagamrtoeeinbsintsseihmrisfdtobeinvnoftepsoftsc)Frpsofagapypttotss,amriscdtohecdasevnfrehdemdonorarJy1,2,ttvstepfsn4,IoCN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1158
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CHILDREN'S DEVICE PROTECTION; AMENDING TITLE 48, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 21, TITLE 48, IDAHO CODE, TO PROVIDE
+4 A SHORT TITLE, TO PROVIDE A DECLARATION OF POLICY, TO DEFINE TERMS, TO
+5 REQUIRE INTERNET FILTERING ON CERTAIN DEVICES, TO ESTABLISH PROVISIONS
+6 REGARDING MANUFACTURER LIABILITY, AND TO PROVIDE FOR ATTORNEY GENERAL
+7 PROCEEDINGS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+8 DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 48, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 21, Title 48, Idaho Code, and to read as follows:
+13 CHAPTER 21
+14 CHILDREN'S DEVICE PROTECTION ACT
+15 48-2101. SHORT TITLE. This chapter shall be known and may be cited as
+16 the "Children's Device Protection Act."
+17 48-2102. DECLARATION OF POLICY. The Idaho legislature, recognizing
+18 the importance of mental health in the growth and education of minors and a
+19 need to protect minors from accessing or downloading pornographic content
+20 that is harmful, declares it to be the policy of the state to promote the
+21 mental health of minors and adopt a comprehensive and proactive approach to
+22 reducing minors' access to such harmful content.
+23 48-2103. DEFINITIONS. As used in this chapter:
+24 (1) "Activate" means the process of powering on a device and associat-
+25 ing it with a user account.
+26 (2) "Device" means a tablet or a smartphone manufactured on or after
+27 January 1, 2026.
+28 (3) "Filter" means software installed on a device that is capable of
+29 preventing the device from accessing or displaying obscene material as
+30 defined by state law through internet browsers or search engines owned or
+31 controlled by the manufacturer through mobile data networks, wired internet
+32 networks, and wireless internet networks.
+33 (4) "Internet" means the global information system that is logically
+34 linked together by a globally unique address space based on the internet pro-
+35 tocol (IP), or its subsequent extensions, that is able to support communi-
+36 cations using the transmission control protocol/internet protocol(TCP/IP)
+37 suite, or its subsequent extensions, or other IP-compatible protocols, and
+38 that provides, uses, or makes accessible, either publicly or privately,
+39 high-level services layered on communications and related infrastructure.
+
+2
+1 (5) "Manufacturer" means a person or company that:
+2 (a) Is engaged in the business of manufacturing a device;
+3 (b) Holds either:
+4 (i) The patents for the device it manufactures; or
+5 (ii) The patents for an operating system on a device; and
+6 (c) Has a commercial designated registered agent as required by section
+7 30-21-402, Idaho Code.
+8 (6) "Minor" means an individual under eighteen (18) years of age who
+9 is not emancipated, married, or a member of the armed forces of the United
+10 States.
+11 (7) "Obscene material" has the same meaning as defined in section
+12 18-4101, Idaho Code.
+13 (8) "Operating system" means software that manages all of the applica-
+14 tion programs on a device.
+15 (9) "Password" means a string of characters or numbers or another se-
+16 cure method used to enable, deactivate, modify, or uninstall a filter on a
+17 device.
+18 (10) "Smartphone" means an electronic device that combines a cellular
+19 phone with a handheld computer, typically offering internet access through a
+20 browser or search engine, data storage, text messaging, and email capabili-
+21 ties.
+22 (11) "Tablet" means an internet-ready device equipped with an operating
+23 system, a touchscreen display, a rechargeable battery, and the ability to
+24 support access to a cellular network.
+25 48-2104. FILTER REQUIRED. Beginning on January 1, 2026, all devices
+26 activated in the state shall:
+27 (1) Contain a filter;
+28 (2) Determine the age of the user during activation and account setup;
+29 (3) Enable the filter for minor users;
+30 (4) Allow a password to be established for the filter;
+31 (5) Notify the user of the device when the filter blocks the device from
+32 accessing a website; and
+33 (6) Provide the password-holding user with the opportunity to deacti-
+34 vate and reactivate the filter.
+35 48-2105. MANUFACTURER LIABILITY. (1) Beginning on January 1, 2026, a
+36 manufacturer of a device shall be subject to civil liability if:
+37 (a) The device is activated in this state;
+38 (b) The device does not, upon activation, enable a filter that complies
+39 with the requirements described in section 48-2104, Idaho Code; and
+40 (c) A minor accesses obscene material on the device.
+41 (2) The provisions of this section shall not apply to a manufacturer
+42 that makes a good faith effort to provide a device that, upon activation of
+43 the device in this state, automatically enables a generally accepted and
+44 commercially reasonable filter that blocks obscene material on all internet
+45 browsers and search engines accessed on the device in accordance with the
+46 provisions of this chapter.
+47 (3) Nothing in this chapter shall be construed to create a cause of ac-
+48 tion against the retailer of a device.
+
+3
+1 48-2106. PROCEEDINGS BY THE ATTORNEY GENERAL. (1) Whenever the attor-
+2 ney general has reason to believe that a manufacturer violated or is violat-
+3 ing the provisions of this chapter, the attorney general, acting in the pub-
+4 lic interest, may bring an action in the name of the state against such per-
+5 son:
+6 (a) To enjoin any action that constitutes a violation of this chapter by
+7 the issuance of a temporary restraining order or preliminary or perma-
+8 nent injunction;
+9 (b) To recover from the alleged violator a civil penalty not to exceed
+10 five thousand dollars ($5,000) per violation and not to exceed a total
+11 of fifty thousand dollars ($50,000) in aggregate in any specific case,
+12 as determined by the court;
+13 (c) To recover from the alleged violator the attorney general's reason-
+14 able expenses, investigative costs, and attorney's fees; and
+15 (d) To obtain other appropriate relief as provided for pursuant to this
+16 chapter.
+17 (2) The attorney general may seek the revocation of any license or cer-
+18 tificate authorizing a manufacturer to engage in business in this state if
+19 such manufacturer is found to be in violation of the provisions of this chap-
+20 ter.
+21 (3) For purposes of assessing a penalty pursuant to this section, a man-
+22 ufacturer is considered to have committed a separate violation for each de-
+23 vice manufactured on or after January 1, 2026, that violates the provisions
+24 of section 48-2104, Idaho Code.
+25 SECTION 2. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after
+27 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOCSDEP;AGTE4,IOCYTEANOFANWCR2,TE4,IOC,TOPSTT,TOPEADNOFP,TODET,TEITFGONCND,TOEHPGMRL,ADTOPEFRAYG;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te4,IoC,adtordasfR2SDEPNA.STT.Tscrslbeknadmybecdae"sDePnA.DNOFP.TeIol,reieofmlhhinteghadenofmsaddtoptmsfmagordgpcctish,dsittobetepyoftesetopetlhhofmsadataceadpeahtgm'astoshhlc.D.Asudintsc)""mstepsofpgonadeadagitwhaura)""msattorasemdonoray1,2)""msseidonadettisceogtedefmagordgoemladbyselwthitbsorshesododbytemrthmedan,wdi,adwsitn)""msteglinsmttisldtrbyagyueassebdonteitpl(,orisste,ttisaetostcsugtetnclptp,orisste,ororIep,atp,u,ormsa,erpyorplssldoncsadrdi]
+[DELETED: )""msapnorcyt)Isedintebsofmgad)Hse)Tepsfrtedeitm;o)Tepsfranogsmonad;a)Hsaclddrdatasrdbys,IoC)""msaniluren()ysofaewsnte,m,oramrofteadfsofteU)"em"hstesemgasddins,IoC)"gs"mssettmsalofteanpsonad)""msasgofcsornsorarsemdudtoe,d,m,orulafron)""msanecdettcsacewhahdc,tyogitasthrorshe,das,ttm,adelc)""msaniydeedwhano,atnd,areb,adteayttastoacrn.FRR.BgonJy1,2,alddinteses)Cnaf)Deteaeofteurdganadats)Eetefrfrmru)Awapdtobeedfrtef)Nyteuroftedewntefrbstedefgaw;a)Petepgurwhteoytodeadretef.MRL.()BgonJy1,2,rofadeslbesttocllyi)Tedeisadintss)Tededsn,una,eeafrttchtersddinsn4,IoC;a)Amrasoemlonted)Tepsoftssnslntaytoamtmsagdfhettopeadet,unanoedeintss,ayesagyadayrefrttbsoemlonalisadshesadontedeinaewhtsoftsc)Ngintscrslbecdtoceaceofanatterrofad]
+[DELETED: .PSBYTEAYG.()Wrteayglhsrntobettamrvdorisvgtepsoftsc,teayg,agintepci,mybgananinteneofteseatshp)Toenayanttcsavnoftscrbeieofatyrgororpyorpti)Torrfmteadvraclpynttoeetdds()prvnadnttoedatffytdds()inaeinaysccsddbytec)Torrfmteadvrteaygsree,iec,adasf;a)Toonoraerfaspdfrpttot)Teayglmyskternofayleorceagamrtoeeinbsintsseihmrisfdtobeinvnoftepsoftsc)Frpsofagapypttotss,amriscdtohecdasevnfrehdemdonorarJy1,2,ttvstepfsn4,IoCN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

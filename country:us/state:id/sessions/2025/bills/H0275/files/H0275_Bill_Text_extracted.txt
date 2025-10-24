@@ -1,0 +1,241 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 275
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-132, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING LOCAL SCHOOL BOARDS AND INTERNET POLICIES AND TO MAKE
+4 TECHNICAL CORRECTIONS; REPEALING SECTION 33-137, IDAHO CODE, RELATING
+5 TO DIGITAL AND ONLINE LIBRARY RESOURCES FOR K-12 STUDENTS; REPEALING
+6 SECTION 33-1025, IDAHO CODE, RELATING TO WIRELESS TECHNOLOGY STAN-
+7 DARDS; AMENDING SECTION 33-2508, IDAHO CODE, TO PROVIDE A CORRECT CODE
+8 REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 33-132, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 33-132. LOCAL SCHOOL BOARDS -- INTERNET USE POLICY FILTERING RE-
+13 QUIRED. (1) As a condition for receiving moneys from the state general fund,
+14 each local school district and public charter school shall file an accept-
+15 able internet use policy with the state superintendent of public instruction
+16 no later than August 1, 2011, or within one (1) year after the creation of a
+17 new district, whichever is later, and every five (5) years thereafter. Such
+18 policy shall be approved by the district's board of trustees and shall con-
+19 tain, but not be limited to, provisions that have internet content filters
+20 that shall be included as part of any wireless internet access made available
+21 to children. The content filters shall:
+22 (a) Prohibit and prevent the use of school computers and other school
+23 owned technology-related services from sending, receiving, viewing, or
+24 downloading materials that are deemed to be harmful to minors, as de-
+25 fined by section 18-1514, Idaho Code; and
+26 (b) Provide for the selection of technology for the local district's
+27 computers to filter Filter or block internet access to obscene materi-
+28 als, materials harmful to minors, and materials that depict the sexual
+29 exploitation of a minor, as defined in chapter 15, title 18, Idaho Code;
+30 and.
+31 (2) The filtering solution shall be configurable to school district and
+32 public charter school policies regarding acceptable, age appropriate inter-
+33 net content. The content filtering shall include the ability:
+34 (a) For each school district and public charter school to manage its
+35 own filtering policies, including the decision to block specific cate-
+36 gories of content and to maintain its own whitelist and blacklist over-
+37 rides;
+38 (b) To provide individual school district and public charter school
+39 utilization and filtering reports, including the most frequently
+40 visited websites, the most frequently visited categories, the most fre-
+41 quently blocked websites, the most frequently used search terms, and
+42 the top authenticated users;
+2
+1 (c) To audit all changes to content filtering; and
+2 (d) For all reporting and management of content filtering to be avail-
+3 able through any internet-connected browser and efficiently perform
+4 all content filtering functions.
+5 (3) A school district or public charter school may offer digital or on-
+6 line library resources to students in kindergarten through grade 12 only if
+7 the vendor or other person or entity providing the resources verifies that
+8 all the resources will comply with the provisions of subsection (4) of this
+9 section.
+10 (4) Digital or online library resources offered by school districts or
+11 public charter schools to students in kindergarten through grade 12 shall
+12 have safety policies and technology protection measures that:
+13 (a) Prohibit and prevent a user from sending, receiving, viewing, or
+14 downloading materials that are deemed to be harmful to minors, as de-
+15 fined in section 18-1514, Idaho Code; and
+16 (b) Filter or block access to obscene materials, materials harmful to
+17 minors, and materials that depict the sexual exploitation of a minor, as
+18 defined in chapter 15, title 18, Idaho Code.
+19 (5) Notwithstanding any contract provision to the contrary, if a
+20 provider of digital or online library resources fails to comply with the re-
+21 quirements of subsection (4) of this section, the school district or public
+22 charter school may withhold further payments, if any, to the provider pend-
+23 ing verification of compliance with the provisions of subsection (4) of this
+24 section.
+25 (6) If a provider of digital or online library resources fails to timely
+26 verify that the provider is in compliance with the requirements of subsec-
+27 tion (4) of this section, the school district or public charter school may
+28 consider the provider's act of noncompliance a breach of contract.
+29 (7) School districts and public charter Schools shall have policies
+30 that:
+31 (c) (a) Establish appropriate disciplinary measures to be taken
+32 against persons violating the policy provided for in this section; and
+33 (d) (b) Include a component of internet safety for students that is in-
+34 tegrated into the school district's or public charter school's instruc-
+35 tional program; and
+36 (e) (c) Inform the public that administrative procedures have been
+37 adopted to enforce the policy provided for in this section and to handle
+38 complaints about such enforcement, and that such procedures are avail-
+39 able for review at the school district or public charter school office.
+40 (2) (8) The policy provided for in subsection (1) of this section
+41 may include terms, conditions, and requirements deemed appropriate by the
+42 school district's board of trustees or the public charter school's governing
+43 board, including, but not limited to, requiring written parental authoriza-
+44 tion for internet use by minors or differentiating acceptable uses among
+45 elementary, middle, and high school students.
+46 (3) (9) The district's superintendent is hereby authorized to take rea-
+47 sonable measures to implement and enforce the provisions of this section.
+48 SECTION 2. That Section 33-137, Idaho Code, be, and the same is hereby
+49 repealed.
+3
+1 SECTION 3. That Section 33-1025, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 4. That Section 33-2508, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 33-2508. DIGITAL AND ONLINE LIBRARY RESOURCES FOR K-12 STUDENTS. If
+6 the commission for libraries provides digital or online library resources
+7 for the use of students in kindergarten through grade 12, the commission
+8 shall comply with all provisions of section 33-137 33-132, Idaho Code.
+9 SECTION 5. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YENCNAGTOE;AGSN3,IOC,TOREPSRGLLSLBSADITPSADTOMLC;RGSN3,IOC,RODLADOELYRSFRK2S;RN3,IOC,RGTOWSTYS;AGSN3,IOC,TOPEACTC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.LLSLBS--ITUEPYFGR.()AsacnfrrgmsfmteseglfhllsldtadpccrslslfeanaeituepywhtesestofpciolrtnAt1,2,orwnoe()yrartecnofwd,wrisl,adeyfe()yst.Syslbeadbytedsbdoftsadslc,btntbeldt,psttheitctftslbeidasptofaywsitasmeaoc.Tectfss)Ptadptteueofslcsadorsdtdssfms,r,v,ogmsttaeddtobehltom,asddbysn1,IoC;a)PefrtesnoftyfrtelldstofrFrorbkitastooem,mshltom,admsttdttesnofam,asddincr1,te1,IoC)Tefgsnslbecetosldtaccrslpsrga,aeaeitc.Tectfgslietea)Frehsldtadpccrsltomeinfgp,igtedntobksccsofctadtomnisonwtadbto)Topeilsldtadpccrsnadfgr,igtemtfdw,temtfyvdc,temtfybdw,temtfyudsht,aetpadu]
+[DELETED: )Toatalcstoctf;a)Fralrgadmtofctfgtobeaethayidbradeyplctfgf)Asldtorpccrslmyordloroelyrstossinknthge12oyievrororpnoreypgtersvstlterswlcywhtepsofsn()oft)Dloroelyrsodbysldsoccrsstossinknthge12sesypsadtypnmst)Ptadptaurfms,r,v,ogmsttaeddtobehltom,asddinsn1,IoC;a)Frorbkastooem,mshlt,admsttdtteslenofam,adincr1,te1,IoC)Ngayctpntotec,ifrofdloroelyrsfstocywhtersofsn()oftss,tesldtorprslmywdfrp,ifa,toteprpgvnofcewhtepsofsn()oft)Ifaprofdloroelyrsfstotyttteprisincewhtersofsn()oftss,tesldtorpccrslmrtepsatofneabhofc)SldsadpccrSsslhep)()Ehaedymstobettpsvgtepypdfrintss;a)()Ieactofitsyfrssttisidiotesldsorpccrssilp;a)()Imtepcttaepshebdtoeetepypdfrintssnadtohsatshe,adttshpsaeaefrrwattesldtorpccrslo)()Tepypdfrinsn()oftssyiet,c,adrsddaebytldsbdoftsortepccrssg,i,btntldt,rgwnplanfrituebymsordgaeusa,m,adhhsls)()TedsstishyadtoteremstoitadeetepsoftssN2.TtSn3,IoC,b,adteseish]
+[DELETED: N3.TtSn3,IoC,b,adteseishN4.TtSn3,IoC,b,adteseishdtordasf.DLADOELYRSFRK2S.Iecnfrlspsdloroelyrrteueofssinknthge1,teclcywhalpsofsn373,IoCN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 275
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-132, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING LOCAL SCHOOL BOARDS AND INTERNET POLICIES AND TO MAKE
+4 TECHNICAL CORRECTIONS; REPEALING SECTION 33-137, IDAHO CODE, RELATING
+5 TO DIGITAL AND ONLINE LIBRARY RESOURCES FOR K-12 STUDENTS; REPEALING
+6 SECTION 33-1025, IDAHO CODE, RELATING TO WIRELESS TECHNOLOGY STAN-
+7 DARDS; AMENDING SECTION 33-2508, IDAHO CODE, TO PROVIDE A CORRECT CODE
+8 REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 33-132, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 33-132. LOCAL SCHOOL BOARDS -- INTERNET USE POLICY FILTERING RE-
+13 QUIRED. (1) As a condition for receiving moneys from the state general fund,
+14 each local school district and public charter school shall file an accept-
+15 able internet use policy with the state superintendent of public instruction
+16 no later than August 1, 2011, or within one (1) year after the creation of a
+17 new district, whichever is later, and every five (5) years thereafter. Such
+18 policy shall be approved by the district's board of trustees and shall con-
+19 tain, but not be limited to, provisions that have internet content filters
+20 that shall be included as part of any wireless internet access made available
+21 to children. The content filters shall:
+22 (a) Prohibit and prevent the use of school computers and other school
+23 owned technology-related services from sending, receiving, viewing, or
+24 downloading materials that are deemed to be harmful to minors, as de-
+25 fined by section 18-1514, Idaho Code; and
+26 (b) Provide for the selection of technology for the local district's
+27 computers to filter Filter or block internet access to obscene materi-
+28 als, materials harmful to minors, and materials that depict the sexual
+29 exploitation of a minor, as defined in chapter 15, title 18, Idaho Code;
+30 and.
+31 (2) The filtering solution shall be configurable to school district and
+32 public charter school policies regarding acceptable, age appropriate inter-
+33 net content. The content filtering shall include the ability:
+34 (a) For each school district and public charter school to manage its
+35 own filtering policies, including the decision to block specific cate-
+36 gories of content and to maintain its own whitelist and blacklist over-
+37 rides;
+38 (b) To provide individual school district and public charter school
+39 utilization and filtering reports, including the most frequently
+40 visited websites, the most frequently visited categories, the most fre-
+41 quently blocked websites, the most frequently used search terms, and
+42 the top authenticated users;
+
+2
+1 (c) To audit all changes to content filtering; and
+2 (d) For all reporting and management of content filtering to be avail-
+3 able through any internet-connected browser and efficiently perform
+4 all content filtering functions.
+5 (3) A school district or public charter school may offer digital or on-
+6 line library resources to students in kindergarten through grade 12 only if
+7 the vendor or other person or entity providing the resources verifies that
+8 all the resources will comply with the provisions of subsection (4) of this
+9 section.
+10 (4) Digital or online library resources offered by school districts or
+11 public charter schools to students in kindergarten through grade 12 shall
+12 have safety policies and technology protection measures that:
+13 (a) Prohibit and prevent a user from sending, receiving, viewing, or
+14 downloading materials that are deemed to be harmful to minors, as de-
+15 fined in section 18-1514, Idaho Code; and
+16 (b) Filter or block access to obscene materials, materials harmful to
+17 minors, and materials that depict the sexual exploitation of a minor, as
+18 defined in chapter 15, title 18, Idaho Code.
+19 (5) Notwithstanding any contract provision to the contrary, if a
+20 provider of digital or online library resources fails to comply with the re-
+21 quirements of subsection (4) of this section, the school district or public
+22 charter school may withhold further payments, if any, to the provider pend-
+23 ing verification of compliance with the provisions of subsection (4) of this
+24 section.
+25 (6) If a provider of digital or online library resources fails to timely
+26 verify that the provider is in compliance with the requirements of subsec-
+27 tion (4) of this section, the school district or public charter school may
+28 consider the provider's act of noncompliance a breach of contract.
+29 (7) School districts and public charter Schools shall have policies
+30 that:
+31 (c) (a) Establish appropriate disciplinary measures to be taken
+32 against persons violating the policy provided for in this section; and
+33 (d) (b) Include a component of internet safety for students that is in-
+34 tegrated into the school district's or public charter school's instruc-
+35 tional program; and
+36 (e) (c) Inform the public that administrative procedures have been
+37 adopted to enforce the policy provided for in this section and to handle
+38 complaints about such enforcement, and that such procedures are avail-
+39 able for review at the school district or public charter school office.
+40 (2) (8) The policy provided for in subsection (1) of this section
+41 may include terms, conditions, and requirements deemed appropriate by the
+42 school district's board of trustees or the public charter school's governing
+43 board, including, but not limited to, requiring written parental authoriza-
+44 tion for internet use by minors or differentiating acceptable uses among
+45 elementary, middle, and high school students.
+46 (3) (9) The district's superintendent is hereby authorized to take rea-
+47 sonable measures to implement and enforce the provisions of this section.
+48 SECTION 2. That Section 33-137, Idaho Code, be, and the same is hereby
+49 repealed.
+
+3
+1 SECTION 3. That Section 33-1025, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 4. That Section 33-2508, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 33-2508. DIGITAL AND ONLINE LIBRARY RESOURCES FOR K-12 STUDENTS. If
+6 the commission for libraries provides digital or online library resources
+7 for the use of students in kindergarten through grade 12, the commission
+8 shall comply with all provisions of section 33-137 33-132, Idaho Code.
+9 SECTION 5. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YENCNAGTOE;AGSN3,IOC,TOREPSRGLLSLBSADITPSADTOMLC;RGSN3,IOC,RODLADOELYRSFRK2S;RN3,IOC,RGTOWSTYS;AGSN3,IOC,TOPEACTC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.LLSLBS--ITUEPYFGR.()AsacnfrrgmsfmteseglfhllsldtadpccrslslfeanaeituepywhtesestofpciolrtnAt1,2,orwnoe()yrartecnofwd,wrisl,adeyfe()yst.Syslbeadbytedsbdoftsadslc,btntbeldt,psttheitctftslbeidasptofaywsitasmeaoc.Tectfss)Ptadptteueofslcsadorsdtdssfms,r,v,ogmsttaeddtobehltom,asddbysn1,IoC;a)PefrtesnoftyfrtelldstofrFrorbkitastooem,mshltom,admsttdttesnofam,asddincr1,te1,IoC)Tefgsnslbecetosldtaccrslpsrga,aeaeitc.Tectfgslietea)Frehsldtadpccrsltomeinfgp,igtedntobksccsofctadtomnisonwtadbto)Topeilsldtadpccrsnadfgr,igtemtfdw,temtfyvdc,temtfybdw,temtfyudsht,aetpadu]
+[DELETED: )Toatalcstoctf;a)Fralrgadmtofctfgtobeaethayidbradeyplctfgf)Asldtorpccrslmyordloroelyrstossinknthge12oyievrororpnoreypgtersvstlterswlcywhtepsofsn()oft)Dloroelyrsodbysldsoccrsstossinknthge12sesypsadtypnmst)Ptadptaurfms,r,v,ogmsttaeddtobehltom,asddinsn1,IoC;a)Frorbkastooem,mshlt,admsttdtteslenofam,adincr1,te1,IoC)Ngayctpntotec,ifrofdloroelyrsfstocywhtersofsn()oftss,tesldtorprslmywdfrp,ifa,toteprpgvnofcewhtepsofsn()oft)Ifaprofdloroelyrsfstotyttteprisincewhtersofsn()oftss,tesldtorpccrslmrtepsatofneabhofc)SldsadpccrSsslhep)()Ehaedymstobettpsvgtepypdfrintss;a)()Ieactofitsyfrssttisidiotesldsorpccrssilp;a)()Imtepcttaepshebdtoeetepypdfrintssnadtohsatshe,adttshpsaeaefrrwattesldtorpccrslo)()Tepypdfrinsn()oftssyiet,c,adrsddaebytldsbdoftsortepccrssg,i,btntldt,rgwnplanfrituebymsordgaeusa,m,adhhsls)()TedsstishyadtoteremstoitadeetepsoftssN2.TtSn3,IoC,b,adteseish]
+[DELETED: N3.TtSn3,IoC,b,adteseishN4.TtSn3,IoC,b,adteseishdtordasf.DLADOELYRSFRK2S.Iecnfrlspsdloroelyrrteueofssinknthge1,teclcywhalpsofsn373,IoCN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

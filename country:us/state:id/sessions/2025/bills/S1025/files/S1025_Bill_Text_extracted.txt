@@ -1,0 +1,920 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1025
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; PROVIDING LEGISLATIVE INTENT; AMENDING TITLE 33,
+3 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 68, TITLE 33, IDAHO CODE,
+4 TO PROVIDE A SHORT TITLE AND TO ESTABLISH PROVISIONS REGARDING THE
+5 IDAHO PUBLIC EDUCATION RED TAPE REDUCTION PROGRAM; AMENDING SECTION
+6 33-1030, IDAHO CODE, TO DEFINE TERMS; AMENDING SECTION 33-1031, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING THE EMPOWERING PARENTS GRANT PRO-
+8 GRAM; AMENDING SECTION 33-1032, IDAHO CODE, TO PROVIDE A CORRECT CODE
+9 REFERENCE; AMENDING SECTION 33-1034, IDAHO CODE, TO REVISE PROVISIONS
+10 REGARDING THE EMPOWERING PARENTS GRANT PROGRAM FUND; AMENDING SECTION
+11 33-1401, IDAHO CODE, TO DEFINE A TERM; AMENDING SECTION 33-1402, IDAHO
+12 CODE, TO REVISE PROVISIONS REGARDING ENROLLMENT OPTIONS; AMENDING SEC-
+13 TION 33-1409, IDAHO CODE, TO REVISE PROVISIONS REGARDING MEASURING AND
+14 REPORTING CAPACITY AND TO MAKE TECHNICAL CORRECTIONS; PROVIDING SEVER-
+15 ABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. LEGISLATIVE INTENT. (1) The Legislature finds that Idaho
+18 students and families deserve access to education that meets individual
+19 needs and offers a competitive curriculum with accountability and trans-
+20 parency.
+21 (2) The Legislature further finds that the lower the family's income,
+22 the greater the burden on Idaho students when it comes to accessing resources
+23 to enhance their education opportunities, and that public schools must navi-
+24 gate the challenges of often burdensome regulation and non-competitive sys-
+25 tems that demand educators spend even more time dealing with administrative
+26 requirements, which drives up administrative costs in public schools and re-
+27 duces the available time to focus on students.
+28 (3) The Legislature further finds that special education funding for
+29 Idaho public schools falls at least $66.5 million short of meeting the needs
+30 of the approximately 37,000 students who qualify for services. This bud-
+31 get gap impacts the ability to recruit and retain special education staff and
+32 provide the vital support and resources these students and families need.
+33 (4) Therefore, it is the intent of the Legislature: to provide a uni-
+34 versal education grant that is available to all Idahoans in need of other
+35 education options while prioritizing the neediest families; to eliminate
+36 unnecessary and duplicative reporting that burdens Idaho's public schools;
+37 to streamline public school open enrollment; and to continuously appro-
+38 priate $30,000,000 in additional spending for directed spending on special
+39 education in Idaho public schools distributed under the public school fund-
+40 ing formula approved in Idaho Code.
+2
+1 SECTION 2. That Title 33, Idaho Code, be, and the same is hereby amended
+2 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+3 ter 68, Title 33, Idaho Code, and to read as follows:
+4 CHAPTER 68
+5 IDAHO PUBLIC EDUCATION RED TAPE REDUCTION PROGRAM
+6 33-6801. SHORT TITLE. This chapter shall be known and may be cited as
+7 the "Idaho Public Education Red Tape Reduction Program."
+8 33-6802. IDAHO EDUCATION RED TAPE REDUCTION PROGRAM. (1) The state de-
+9 partment of education shall identify all reporting currently required by the
+10 state of Idaho and the federal government for public schools and public char-
+11 ter schools. The department shall classify reports as required by the state,
+12 required by the federal government, or required by both. The department
+13 shall also identify the primary purpose of each report and if the connected
+14 program or services are still active in the school system.
+15 (2) The state department of education shall provide the legislature
+16 with its findings pursuant to subsection (1) of this section along with
+17 any recommendations to remove any reports from statute or from legislative
+18 intent language that exceed the reporting requirements of the federal gov-
+19 ernment.
+20 (3) The state of Idaho shall no longer require public school or public
+21 charter school reporting that exceeds the reporting requirements of the fed-
+22 eral government.
+23 (4) Reporting requirements that exceed the federal government require-
+24 ments may only be required if:
+25 (a) The legislature approves a new program for public schools or pub-
+26 lic charter schools and district-level metrics are a necessary compo-
+27 nent for assessing outcomes; and
+28 (b) The legislature includes a sunset date of no more than three (3)
+29 years for the report.
+30 SECTION 3. That Section 33-1030, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 33-1030. DEFINITIONS. As used in this section through section
+33 33-1034, Idaho Code:
+34 (1) "Assessment" means an examination or another objective evaluation
+35 of a student's academic performance, academic engagement, or college or ca-
+36 reer readiness.
+37 (2) "Board" means the state board of education.
+38 (3) "Eligible education expenses" means:
+39 (a) Tuition and fees paid to a participating prekindergarten provider
+40 or participating school prior to July 1, 2030, after which such tuition
+41 and fees shall not be considered eligible education expenses pursuant
+42 to this subsection;
+43 (a) (b) Computer hardware, internet access, or other technological de-
+44 vices or services that are primarily used to meet a participant's edu-
+45 cational needs, which costs for devices or services are not to exceed
+46 one thousand dollars ($1,000); however, expenses related to internet
+3
+1 access shall be subject to reimbursement pursuant to the provisions of
+2 section 33-1031(2)(c), Idaho Code, and shall not be eligible for direct
+3 payment through the grant distribution platform;
+4 (b) (c) Textbooks, curriculum, or other instructional materials, in-
+5 cluding educational software and applications;
+6 (c) (d) Fees for national standardized assessments, advanced place-
+7 ment examinations, examinations related to college or university ad-
+8 missions, or industry-recognized certification examinations;
+9 (d) (e) Therapies, including but not limited to occupational, behav-
+10 ioral, physical, speech-language, and audiology therapies, or other
+11 services or therapies specifically approved by the board;
+12 (e) (f) Educational programs offered for a fee or pursuant to contract
+13 by a school district, public charter school, or career technical educa-
+14 tion program to any eligible student; however, the payment of such fees
+15 on behalf of a student through the grant distribution platform shall
+16 not cause such student to be counted for purposes of calculating public
+17 school enrollment; or
+18 (f) (g) Other education expenses and services as approved by the board,
+19 upon recommendation of the parent advisory panel established pursuant
+20 to section 33-1032, Idaho Code.
+21 (4) "Eligible student" means a full-time resident of Idaho as described
+22 in section 63-3013, Idaho Code, who is five (5) three (3) to eighteen (18)
+23 years of age.
+24 (5) "Grant" means an award of one thousand dollars ($1,000) five thou-
+25 sand dollars ($5,000), which must be used for eligible education expenses.
+26 (6) "Grant distribution platform" means a digital platform through
+27 which grant funds are transferred from the board to participant accounts.
+28 (7) "Homeschool student" means a student who receives educational in-
+29 struction outside of either a public school or private school.
+30 (7) (8) "Parent" means the parent or legal guardian of an eligible stu-
+31 dent or a participant.
+32 (8) (9) "Participant" means an eligible student for whom a grant is
+33 awarded under section 33-1031, Idaho Code.
+34 (10) "Participating prekindergarten" means any program as defined in 20
+35 U.S.C. 1161i-1 that is licensed by the Idaho department of health and welfare
+36 pursuant to chapter 11, title 39, Idaho Code, that:
+37 (a) Provides eligible services for more than six (6) individuals, other
+38 than individuals who reside at the facility, who are three (3) to five
+39 (5) years of age;
+40 (b) Receives a fee, payment, or grant for providing services for any of
+41 the individuals; and
+42 (c) Adheres to any applicable federal laws and regulations.
+43 (11) "Participating school" means an Idaho nonpublic school that:
+44 (a) Is accredited by an accrediting body recognized by the state board
+45 of education;
+46 (b) Adheres to special education law, including the individuals with
+47 disabilities education act;
+48 (c) Adheres to the provisions of section 33-138, Idaho Code;
+49 (d) Adheres to the provisions of chapter 60, title 33, Idaho Code;
+4
+1 (e) Maintains and provides enrollment and performance data for eligi-
+2 ble students as required by the state department of education;
+3 (f) Administers nationally normed achievement assessments or state
+4 standardized tests, or both, at progressive grade levels to determine
+5 student progress; and
+6 (g) Requires the following individuals to submit to a criminal back-
+7 ground and history check as described in section 33-130, Idaho Code:
+8 (i) An employee who does not hold a current Idaho educator license
+9 issued by the state department of education; and
+10 (ii) All individuals who have unsupervised contact with students
+11 in a K-12 setting.
+12 (9) (12) "Program" means the empowering parents grant program estab-
+13 lished by section 33-1031, Idaho Code.
+14 (13) "Special needs student" means an eligible student three (3) to
+15 twenty-one (21) years of age who is receiving services under an individual-
+16 ized education program pursuant to section 33-2002, Idaho Code.
+17 SECTION 4. That Section 33-1031, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 33-1031. EMPOWERING PARENTS GRANT PROGRAM. (1) There is hereby estab-
+20 lished the empowering parents grant program, to be administered by the board
+21 according to the provisions of this section. The purpose of the program is to
+22 provide education grants for eligible students.
+23 (2) In order to administer the program, the board:
+24 (a) Shall create and administer, or designate a third party to create
+25 and administer, a grant distribution platform;
+26 (b) Shall establish a grant application process for parents;
+27 (c) Shall establish provisions for the reimbursement of any eligi-
+28 ble education expense for which reimbursement is required and di-
+29 rect payment from the platform is not permitted pursuant to section
+30 33-1030(3)(a) 33-1030(3)(b), Idaho Code;
+31 (d) Shall establish an application process to designate participating
+32 schools and participating prekindergarten providers;
+33 (d) (e) Shall, subject to appropriation, award grants. Grant awards
+34 shall be made in the following order of preference designated as fol-
+35 lows:
+36 (i) First to eligible students whose household has an adjusted
+37 gross income under sixty thousand dollars ($60,000), as verified
+38 by the Idaho state tax commission using the prior year's tax re-
+39 turns. Notification of grant awards for students in this category
+40 shall be made within thirty (30) days of application, and grant
+41 funds shall be made available for participants' use as soon as
+42 practicable, but no later than thirty (30) days after the notifi-
+43 cation of a grant award;
+44 (ii) Starting sixty (60) days after grant awards in a fiscal year
+45 are made under subparagraph (i) of this paragraph, to eligible
+46 students whose household has an adjusted gross income under sev-
+47 enty-five thousand dollars ($75,000), as verified by the Idaho
+48 state tax commission using the prior year's tax returns; and
+5
+1 (iii) Starting sixty (60) days after grant awards in a fiscal year
+2 are made under subparagraph (ii) of this paragraph, to all other
+3 eligible students on a first-come, first-served basis until all
+4 available funds are distributed; and
+5 (i) Seventy-five percent (75%) for eligible students and eligi-
+6 ble children whose household has an adjusted gross income under
+7 sixty thousand dollars ($60,000), as verified by the Idaho state
+8 tax commission using the prior year's tax returns;
+9 (ii) Twenty percent (20%) for eligible students and eligible
+10 children whose household has an adjusted gross income between
+11 sixty thousand dollars ($60,000) and eighty thousand dollars
+12 ($80,000), as verified by the Idaho state tax commission using the
+13 prior year's tax returns; and
+14 (iii) Five percent (5%) for eligible students and eligible chil-
+15 dren whose household has an adjusted gross income over eighty
+16 thousand dollars ($80,000), as verified by the Idaho state tax
+17 commission using the prior year's tax returns; and
+18 (e) (f) May take such other actions as are necessary to implement and
+19 enforce the provisions of this section.
+20 (3) Prior to the award of a grant, the parent of a participant shall
+21 agree to verify program compliance. The parent of a participant shall use
+22 grant funds only for eligible education expenses. If a parent is found to
+23 misuse grant funds, then neither the parent nor another parent of the student
+24 living in the same household may apply for a grant in the future for any stu-
+25 dent, provided that the parent may appeal the finding to the board.
+26 (4) Grant funds shall be expended within three (3) years after they
+27 are awarded. Any unused funds at the end of the three (3) year period shall
+28 revert to the empowering parents grant program fund established in section
+29 33-1034, Idaho Code. At any time before the three (3) year period ends, un-
+30 used funds may be forfeited and transferred from the participant account to
+31 the program fund.
+32 (5) Grant awards per family shall be capped at three thousand dollars
+33 ($3,000) five thousand dollars ($5,000) per student with a cap of fifteen
+34 thousand dollars ($15,000) per household, regardless of the number of eli-
+35 gible students in the family.
+36 SECTION 5. That Section 33-1032, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 33-1032. PARENT ADVISORY PANEL. (1) For purposes of this section:
+39 (a) "Executive director" means the executive director of the office of
+40 the state board of education.
+41 (b) "Program funds" means funds distributed to parents pursuant to sec-
+42 tion 33-1031, Idaho Code.
+43 (2) There is hereby established in the office of the state board of
+44 education a parent advisory panel, which shall make recommendations to the
+45 board:
+46 (a) As described in section 33-1030(3)(f) 33-1030(3)(g), Idaho Code;
+47 and
+48 (b) On how to implement, administer, and improve the program described
+49 in section 33-1031, Idaho Code.
+6
+1 (3) The parent advisory panel shall consist of seven (7) members. Three
+2 (3) members shall be appointed by the governor, two (2) members shall be ap-
+3 pointed by the president pro tempore of the senate, and two (2) members shall
+4 be appointed by the speaker of the house of representatives. The members
+5 must be parents of eligible students, with preference given to parents who
+6 have applied for program funds or who, for the initial appointment of the
+7 panel, have indicated their intent to apply for program funds. Members of
+8 the panel shall represent different regions of the state. Members shall
+9 serve one (1) year terms at the pleasure of their appointing authority and
+10 may be reappointed if they meet the eligibility criteria described in this
+11 subsection. The executive director or the executive director's designee
+12 shall serve as the nonvoting chair of the parent advisory panel.
+13 (4) At the request of the board, the parent advisory panel shall meet,
+14 in person or virtually, to discuss and make recommendations as described in
+15 subsection (2) of this section.
+16 (5) If a parent appeals a finding that program funds were used for a pur-
+17 pose other than eligible education expenses, then the panel shall meet to
+18 consider the appeal and recommend a decision on the appeal to the board.
+19 SECTION 6. That Section 33-1034, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 33-1034. EMPOWERING PARENTS GRANT PROGRAM FUND. There is hereby es-
+22 tablished in the state treasury the empowering parents grant program fund,
+23 to be administered by the board. Moneys in the fund shall:
+24 (1) Consist of the following:
+25 (a) Legislative appropriations;
+26 (b) Donations and contributions made to the fund; and
+27 (c) Interest earned on idle moneys in the fund;
+28 (2) Be continuously appropriated for the purpose described in subsec-
+29 tion (3) of this section; and
+30 (3) Be used to pay grants awarded under the empowering parents grant
+31 program.
+32 (1) Consist of legislative appropriations, donations and contribu-
+33 tions made to the fund, and interest earned on idle moneys in the fund;
+34 (2) Be continuously appropriated to pay grants awarded under the empow-
+35 ering parents grant program; and
+36 (3) Not exceed fifty million dollars ($50,000,000) in a given tax year.
+37 SECTION 7. That Section 33-1401, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 33-1401. DEFINITIONS. For the purposes of tuition charges and pay-
+40 ments, the following words and phrases shall have these meanings:
+41 1. "District" means any public school district including specially
+42 chartered school districts.
+43 2. "Residence" of a pupil means the residence of his parent or guardian.
+44 3. "Home district" means the school district of the pupil's residence.
+45 4. "Creditor district" means a district in which nonresident pupils are
+46 in attendance.
+7
+1 5. "Nonresident pupils" mean pupils attending schools in districts
+2 other than their home districts, or from other states.
+3 6. "Debtor district" means the home district of nonresident pupils.
+4 7. "Pupil" means a pupil in any grade, kindergarten through twelve
+5 (12).
+6 8. "Elementary pupil," in the case of districts not giving instruction
+7 above grade eight (8), means any pupil. In all other districts it means any
+8 pupil in grades kindergarten through six (6).
+9 9. "Secondary pupil" means, in the case of districts which give in-
+10 struction beyond grade eight (8) any pupil in grades seven (7) through twelve
+11 (12).
+12 10. "Guardian" means any person so designated by court order, or any
+13 person with whom the pupil is residing and making his home on a full-time
+14 basis, provided such person has in his possession a properly executed power
+15 of attorney for the care and custody of the pupil for a period of time not less
+16 than the balance of the school term.
+17 11. "Special program" means any class or course of study identified by
+18 the district as having limited capacity due to available equipment, space,
+19 staffing, or funding. Examples include but are not limited to self-con-
+20 tained special education programs, career technical education courses and
+21 schools, and gifted and talented programs.
+22 SECTION 8. That Section 33-1402, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 33-1402. ENROLLMENT OPTIONS. (1) Each school district shall implement
+25 an enrollment options program as provided in this section. School districts
+26 shall adopt policies to govern the process for enrollment options pursuant
+27 to this chapter, including in-district transfers. The policies shall pro-
+28 hibit discrimination against any pupil on the basis of his residential ad-
+29 dress, ability, disability, race, ethnicity, sex, or socioeconomic status.
+30 Such policies shall be posted to the school district's website. Schools of
+31 choice within a district that have lottery enrollment policies are not sub-
+32 ject to the provisions of this chapter.
+33 (2) Whenever the parent or guardian of any Idaho pupil determines that
+34 it is in the best interest of the pupil to attend a school within another dis-
+35 trict, or to attend another school within the home district, such pupil may
+36 be transferred to and attend the selected school, subject to the provisions
+37 of this section and section 33-1404, Idaho Code.
+38 (3) The pupil's parent or guardian must apply for admission to a school
+39 within another district, or to another school within the home district, on
+40 a form provided by the state department of education or a district-provided
+41 form that is substantially similar. The application must be submitted to the
+42 receiving school district by February 1 for enrollment during the following
+43 school year, and notice of such application must be given to the home dis-
+44 trict. At the time of application, the parent or guardian must request that
+45 the home district or school forward the pupil's student record. The home
+46 district or school shall respond by forwarding a certified copy of the trans-
+47 ferred student's record within ten (10) days, unless the provisions of sec-
+48 tion 18-4511, Idaho Code, apply. The receiving school district, or the re-
+49 ceiving school within the home district, shall notify the applicant within
+8
+1 sixty (60) days and, if denied, must include written explanation of the de-
+2 nial.
+3 (4) There may be times during the school year when a parent or guardian
+4 believes it is in the best interest of the pupil to transfer schools. Open
+5 enrollment applications shall be accepted at any time throughout the year.
+6 However, those applications received after the February 1 deadline will be
+7 considered based on capacity stated in policy at the receiving district.
+8 (5) Priority for enrollment under this section shall be given to pupils
+9 applying to attend another school within the home district.
+10 (6) A district may deny a transfer application for the following rea-
+11 sons:
+12 (a) The pupil was expelled by the pupil's previous district;
+13 (b) The pupil has a documented history of significant disciplinary is-
+14 sues;
+15 (c) The pupil has a documented history of chronic absenteeism; or
+16 (d) The receiving district does not have space available pursuant to
+17 section 33-1409, Idaho Code. Where applicable, a denial may include in-
+18 formation about other schools that are below maximum enrollment.
+19 (7) For a pupil accepted by the receiving school or district, the par-
+20 ent or guardian does not need to reapply to regain acceptance the next school
+21 year. However, the parent or guardian must provide notice to the receiving
+22 school or district of intent for the pupil to reenroll. The district may pre-
+23 scribe the form of notice. Once a pupil has been enrolled at the same school
+24 for a second consecutive year, the pupil may complete his education at such
+25 school, unless the pupil's approved transfer has been revoked pursuant to
+26 this section.
+27 (8) Whenever any pupil enrolls in and attends a school outside the dis-
+28 trict within which the parent or guardian resides, the parent or guardian
+29 shall be responsible for transporting the pupil to and from the school or
+30 to an appropriate bus stop within the receiving district. For students at-
+31 tending another school within the home district, the parent or guardian is
+32 responsible for transporting the pupil to and from an appropriate bus stop.
+33 Tuition shall be waived for parents or guardians of any Idaho pupils allowed
+34 under the provisions of this section. Tuition charged to the debtor district
+35 may be waived by the creditor district.
+36 (9) A pupil who applies and is accepted in a nonresident school district
+37 is subject to the policy of the receiving school district and shall be ineli-
+38 gible to again apply for an enrollment option or the transfer approval may be
+39 revoked in that nonresident district if:
+40 (a) The pupil is chronically absent;
+41 (b) The pupil commits repeated, serious disciplinary infractions;
+42 (c) The pupil commits disciplinary infractions that result in expul-
+43 sion; or
+44 (d) The school, grade level, or special program in which the student
+45 is enrolled exceeds maximum enrollment of resident pupils due to growth
+46 pupils pursuant to section 33-1409, Idaho Code. However, pursuant to
+47 subsection (7) of this section, the receiving district may not revoke a
+48 transfer approval to a school after two (2) consecutive years of atten-
+49 dance. If a transfer approval is revoked under this subsection, the re-
+9
+1 ceiving district must offer the pupil information about other schools
+2 within the district that are below maximum enrollment.
+3 (10) A receiving school shall inform the parent or guardian of the cir-
+4 cumstances that jeopardize the student's status at a transfer school.
+5 (11) No district shall take any action to prohibit or prevent applica-
+6 tion by resident pupils to attend school in another school district or to at-
+7 tend another school within the home district.
+8 SECTION 9. That Section 33-1409, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 33-1409. MEASURING AND REPORTING CAPACITY. (1) Every school district
+11 must determine maximum enrollment for each grade-level grade level, school
+12 building, and special program. The district will use the maximum enroll-
+13 ment to determine space available for transfer applications. For secondary
+14 grades, a district may use core classroom size per grade level as the stan-
+15 dard to determine maximum enrollment.
+16 (2) Not less than four (4) times during the school year, every school
+17 district shall publicly post on its website the space available at each
+18 grade-level grade level, special program, and at each school. Space avail-
+19 able shall be determined by comparing the maximum enrollment to the number of
+20 pupils actually enrolled. A school district that does not meet the minimum
+21 sample size necessary to prevent unlawful release of personally identifi-
+22 able student data established pursuant to subsection (5) of this section is
+23 not subject to the publication requirements pursuant to this subsection.
+24 (3) Not less than four (4) times during the school year, every school
+25 district shall report to the state reporting system the space available at
+26 each grade-level grade level, school, and in each program, the number of
+27 transfer applications, the number of accepted transferred pupils, and the
+28 number of denied applications.
+29 (4) By September 1 each year, the state board of education shall col-
+30 lect, analyze, and publish to its website the capacity and transfer data from
+31 each school district from the previous year. The report shall include the
+32 number of participants, the number of denied applications, and other rele-
+33 vant information. The state board of education shall also report this infor-
+34 mation to the legislature no later than February 1 of each year.
+35 (5) The state board of education shall not publish or release data of
+36 a school district if the number of students who applied for a transfer is
+37 less than the minimum sample size necessary for prevention of the unlawful
+38 release of personally identifiable student data. The state board of educa-
+39 tion shall establish the minimum number of students necessary to meet the re-
+40 quirements of this subsection.
+41 SECTION 10. SEVERABILITY. The provisions of this act are hereby de-
+42 clared to be severable and if any provision of this act or the application
+43 of such provision to any person or circumstance is declared invalid for any
+44 reason, such declaration shall not affect the validity of the remaining por-
+45 tions of this act.
+10
+1 SECTION 11. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YENCNAGTOE;PGLEI;AGTE3OC,BYTEANOFANWCR6,TE3,IOCOPEASTTEADTOEHPSRGTOPCENRDTERNP;AGS,IOC,TODET;AGSN3,I,TOREPSRGTEEGPSGTP;AGSN3,IOC,TOPEACTC;AGSN3,IOC,TOREPGTEEGPSGTPMF;AGS,IOC,TODEAT;AGSN3,I,TOREPSRGETO;AGSN3,IOC,TOREPSRGMGAGCYADTOMETLC;PGS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.()TeLefsttIsadfsdeastoenttmsisadosacecmwhayadt)TeLefrfstttelrtefsiegrtebnonIosswnitcstoagroeetreno,adttpcssmtnetecsofonbernadnessttddessdenmetedgwha,whdsupaecsinpcssadrsteaetetofsons)TeLefrfsttslenfgfopcssfsatlt$5mnstofmgtenfteay30sswoqyfrs.Tsbtgpisteaytortadrnslensfaetevlstadrstessadfsn)T,itisteitofteL:topeaulengtttisaetoalIsinndofonoswepgtentf;toeyaddergttbsIspcsosepcslone;adtocyae$0inalsgfrddsgonsninIopcssddurtepcslfgfaadinIoC]
+[DELETED: N2.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6OPCENRDTERNP.STT.Tscrslbeknadmybecdae"oPcEnRdTeRnP.IOENRDTERNP.()TesedtofensliyalrgcyrdbyteofIoadteflgtfrpcssadpccrs.Tedtslcyrsasrdbytesdbyteflg,orrdbyb.Tedlaoiytepypeofehrtadiftecmorssaeslaeintesls)Tesedtofenslpetelhisfspttosn()oftssnagwyrstoreayrsfmseorfmltlettedtergrsofteflg)TeseofIoslnolrrepcslorprslrgttestergrsofteflg)Rgrsttedteflgtrsmyoyberdi)Teleasanwpmfrpcssorpccrssaddlmsaeanyctfrago;a)Teleisastdeofnometnte(sfrterN3.TtSn3,IoC,b,adteseishdtordasf.D.Asudintssnths,IoC)""msanenoraroeefassacp,ace,orceorcrr)""mstesebdofe)"eene"m)TnadfspdtoapgpnprpgslprtoJy1,2,arwhshtdfsslntbecdeeenespotss)()Crh,ita,orortldsorssttaepyudtomtapseln,whcsfrdsorssaenttoeetdds(;h,esrdtoi]
+[DELETED: sslbesttortpttotepson3,IoC,adslntbeeefrdtthtegtdnp)()T,c,ororilm,igelseada)()Fsfrnlsda,adpte,esrdtoceoruya,oridcne)()T,igbtntldtoo,b,p,s,adayt,orosortssyadbyteb)()Elpsodfrafeorpttocyasld,pccrs,orcrtlenpmtoayees;h,teptofshfnbfofastthtegtdnpmstceshsttobecdfrpsofcgple;o)()Orenesadssasadbytebnrnofteptaypledposn3,IoC)"es"msafertofIoasdnsn6,IoC,woisfe()te()toen(sofa)""msanadofoetdds()fetdds(,whmtbeudfreeene)"tdnp"msadlpmthgtfsaetdfmtebdtopta)"ls"msastworselinoeoferapcslorpes)()""msteptorllgnofaneestorap)()""msaneestfrwmagtidursn3,IoC)"gp"msaypmasddin2.11ttisldbyteIodtofhhadwttocr1,te3,IoC,t)Pseessfrmetnsx()i,onisworeattef,woaete()tof)ysofa)Rsaf,p,orgtfrpgssfrayoei;a)Astoayaefllsadr)"gs"msanIoncslt)Isadbyanagbyrdbytesebfe)Astoslenl,igteiswsenastotepsofsn3,IoC)Astotepsofcr6,te3,IoC]
+[DELETED: )Msadpsetadpedafreessasrdbytesedtofe)Asnyndatasorsdt,orb,atpegelstodtp;a)Rstefgistosttoaclbdadhyckasddinsn3,IoC)AneewodsnthdactIoerldbytesedtofe;a)AliswoheudctwhsnaK2s)()""msteegpsgtpmedbysn3,IoC)"lnss"msaneestte()te()ysofaewoisrgssuranidenpmpttosn3,IoCN4.TtSn3,IoC,b,adteseishdtordasf.EGPSGTP.()Teishyedteegpsgtp,tobeadbytebgtotepsoftss.Tepeoftepmisteengsfrees)Inortoartep,teb)Slceada,ordeatdpytocda,agtdnp)Slehagtanpsfrp)Slehpsfrtertofayeeeneefrwhrtisrdaddtptfmtepmisntpdpttos)3,IoC)Slehananpstodepsadpgpnp)()S,sttoa,adg.Gtalbemeintefgorofpeddasfttoeesswehdhsanasieursytdds(,asvyteIosetxcnugteprystxr.Nnofgtasfrssintsclbemewnty()dsofa,adgsslbemeaefrp'ueassna,btnolrtnty()dsartennofagta)Sgsy()dsargtasinaflyemeursh()oftsp,toeswehdhsanadgsieursetdds(,asvdbyteIetxcnugteprystxr;a]
+[DELETED: )Sgsy()dsargtasinaflyemeursh()oftsp,toaloessonaf,fdbsulaefsaed;a)Sept()freessadeecnwehdhsanadgsieuytdds(,asvdbyteIosxcnugteprystxr)Typt()freessadenwehdhsanadgsiebytdds()adeytdd,asvdbyteIosetxcnugtrystxr;a)Fept()freessadeecnwehdhsanadgsieoredds(,asvdbyteIosetnugteprystxr;a)()Myteshorasasaenytoitaetepsoftss)Prtoteadofag,teptofaptsetovypmc.Teptofaptslutfsoyfreeene.Ifaptisfdtegtf,tnnrteptnrarptoftesgintesehdmyayfragtintefefrays,pdttteptmyaltefgtoteb)Gtfsslbeedwnte()ysartea.Ayudfsatteedoftete()yrpdsttoteegpsgtpmfdedins,IoC.Ataytebetete()yrpde,udfsmybefdadtdfmteptattepmf)Gtasprfyslbecdattetdd)fetdds()prstwhacpoffdds()prh,rsoftenrofeessintefN5.TtSn3,IoC,b,adteseishdtordasf.PTAYP.()Frpsoftss)"ed"msteeedrofteoeoesebdofe)"mf"msfsddtopspttosn3,IoC)Teishyedinteoeoftesebdonaptayp,whslmerstot)Asddinsn3)3,IoC)Onhwtoi,a,adietepmdnsn3,IoC]
+[DELETED: )Teptayplslctofsn()m.T)msslbeadbyteg,to()msslbeadbyteptpoteoftes,adto()msseadbytesrofteheofr.Temtbepsofees,whpegntopsweadfrpmfsorw,frteilatoft,heidtrittoayfrpmf.Msoeplslrtdtrsoftes.Msseoe()yrtsattepeoftragayayberdiftymtteeycaddint.Teeedrorteeedsdlseastengcrofteptayp)Attertofteb,teptayplslmnpnorv,todsadmersasddin()oftss)Ifaptasafgttpmfsweudfrapeortneeene,tnteplslmttrtealadrdadnontealtotebN6.TtSn3,IoC,b,adteseishdtordasf.EGPSGTPMF.Teishyedintesetyteegpsgtpmfobeadbyteb.Msintefds)Ctoftef)Lea)Dsadcsmetotef;a)Itedoniemsintef)Becyadfrtepeddinsn()oftss;a)Beudtopygsadurteegpsg)Ctoflea,dsadcsmetotef,aditedoniemsintef)Becyadtopygsadurteegpsgtp;atedfymnds()inagntxyN7.TtSn3,IoC,b,adteseishdtordasf.D.Frtepsoftncsadp,tefgwsadpsslhetem.""msaypcsldtigsdsld.""ofaplmstereofhsptorg."ed"mstesldtoftepsr."rd"msadtinwhntpsana]
+[DELETED: ."tp"mnpsagssindrtntrhed,orfmors."rd"mstehedtofntp.""msaplinayg,kntht."yp"inteceofdsntggiegeet(,msayp.Inalordsitmsalingsknthsx(."yp"m,inteceofdswhgeinbdgeet()ayplingssn()tht.""msaypnsoddbycto,oranwhwmteplisrgadmghsheonaf,pdshpnhsinhspnapyedpfayfrteceadcyofteplfrapdoftentlntebeofteslt."lp"msaycsorceofsyidbedtashgldcydetoaee,s,orf.Esiebtaentldtosdslenp,crtlencsa,adgdadtdpN8.TtSn3,IoC,b,adteseishdtordasf.ETO.()Ehsldtslinetospmaspdintss.Sldlatpstogntepsfretospotsc,igitt.Tepsslptdnatayplontebsofhsrla,a,d,r,e,s,orscshpsslbepdtotesldsw.Ssoewnadttthelyetpsaentsttotepsoftsc)WrteptorgnofayIopldsttisintebtitoftepltoadaslwnard,ortoadarslwntehed,shplmetdtoadadtesds,sttotepftssnadsn3,IoC)Tepsptorgnmtayfrantoasnard,ortoarslwntehed,ofmpdbytesedtofenoradmttissys.TeanmtbesdtotgsldtbyFy1fretdgtefly,adneofshanmtbegntotehed.Atteteofa,teptorgnmtrttehedtorslfdtepsstr.Tehtorslslrdbyfgacdcyoftetdssrdwntn()d,ustepsofsn1,IoC,a.Tergsld,ortergslwntehed,slnyteatw]
+[DELETED: y()dsa,ifd,mtiewnenofted)Temybetsdgteslyrwnaptorgsitisintebtitoftepltotrs.Otasslbeadataytetttey,teasrdarteFy1dewlbdbdoncysdinpyattergd)Pyfreturtssnslbegntopgtoadarslwntehed)Adtmydyatranfrtefgr)Teplwsedbytepspsd)Teplhsaddhyofstdyi)Teplhsaddhyofcca;o)Tergdtdsntheseaepttn3,IoC.Wea,adlmyieinatorssttaebwmme)Frapladbytergslord,teptorgndsntndtorytornaetents.H,teptorgnmtpenetoterlordtofitfrtepltor.Tedtmypetefmofn.Oeaplhsbnedattesesrasdcey,teplmycehsenats,ustepsadtrhsbnrdpttss)Wrayplesinadasasloetedtwnwhteptorgnr,teptorglberefrtgtepltoadfmteslooanaebsspwntergd.Frssagarslwntehed,teptorgniefrtgtepltoadfmanaebssnslbewdfrpsorgsofayIopsartepsoftss.Tncdtotedrdybewdbytecrd)Aplwoasadisadinantsldssttotepyoftergsldtadslbeietoanayfranetonortetralmybdinttntdti)Tepliscya)Teplcsr,ssdyi)Teplcsdyisttrtine;o)Tes,gel,orslpminwhtessedesmmetofrtpsdetogspttosn3,IoC.H,pttn()oftss,tergdtmyntreraltoaslarto()ceysofa.Ifatralisrdurtss,ter]
+[DELETED: gdtmtorteplinatorsntedtttaebwmme)Argslslimteptorgnoftecsttjetessssatatrs)NodtslteayantoptorptanbyrtpstoadslinarsldtortoadarslwntehedN9.TtSn3,IoC,b,adteseishdtordasf.MGADRGC.()Eysldtdemmetfrehglgel,s,adslp.Tedtwluetemmettodeseaefrtra.Frs,adtmyuececmseprgellastesdtodemme)Ntlstnfr()tsdgtesly,eystslpyptonisweteseaeatelgel,slp,adatehs.Seaeslbeddbycgtemmettotenrosaye.Asldtttdsntmttemesenytoptulreofpyiestdaedpttosn()oftssnitsttotepnrspttotss)Ntlstnfr()tsdgtesly,eystslrttotesergsmteseaeahglgel,s,adinehp,tenrora,tenrofadtdp,adtrofdda)BySr1ehy,tesebdofenslc,a,adphtoiswetecyadtrdafhsldtfmtepsy.Tertslietrofp,tenrofdda,adorrti.TesebdofenslaorttsintotelenolrtnFy1ofehy)Tesebdofenslntphorredaosldtiftenrofsswoadfratristntemmsesenyfrpnofteueofpyiestd.TesebdofenslehtemmnrofssnytomttersoftssN1.S.Tepsoftsataehyddtobeseadifaypnoftsatorteafshpntoaypnorceisddidfra,shdnslntattevyoftergpsoftsa]
+[DELETED: N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1025
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; PROVIDING LEGISLATIVE INTENT; AMENDING TITLE 33,
+3 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 68, TITLE 33, IDAHO CODE,
+4 TO PROVIDE A SHORT TITLE AND TO ESTABLISH PROVISIONS REGARDING THE
+5 IDAHO PUBLIC EDUCATION RED TAPE REDUCTION PROGRAM; AMENDING SECTION
+6 33-1030, IDAHO CODE, TO DEFINE TERMS; AMENDING SECTION 33-1031, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING THE EMPOWERING PARENTS GRANT PRO-
+8 GRAM; AMENDING SECTION 33-1032, IDAHO CODE, TO PROVIDE A CORRECT CODE
+9 REFERENCE; AMENDING SECTION 33-1034, IDAHO CODE, TO REVISE PROVISIONS
+10 REGARDING THE EMPOWERING PARENTS GRANT PROGRAM FUND; AMENDING SECTION
+11 33-1401, IDAHO CODE, TO DEFINE A TERM; AMENDING SECTION 33-1402, IDAHO
+12 CODE, TO REVISE PROVISIONS REGARDING ENROLLMENT OPTIONS; AMENDING SEC-
+13 TION 33-1409, IDAHO CODE, TO REVISE PROVISIONS REGARDING MEASURING AND
+14 REPORTING CAPACITY AND TO MAKE TECHNICAL CORRECTIONS; PROVIDING SEVER-
+15 ABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. LEGISLATIVE INTENT. (1) The Legislature finds that Idaho
+18 students and families deserve access to education that meets individual
+19 needs and offers a competitive curriculum with accountability and trans-
+20 parency.
+21 (2) The Legislature further finds that the lower the family's income,
+22 the greater the burden on Idaho students when it comes to accessing resources
+23 to enhance their education opportunities, and that public schools must navi-
+24 gate the challenges of often burdensome regulation and non-competitive sys-
+25 tems that demand educators spend even more time dealing with administrative
+26 requirements, which drives up administrative costs in public schools and re-
+27 duces the available time to focus on students.
+28 (3) The Legislature further finds that special education funding for
+29 Idaho public schools falls at least $66.5 million short of meeting the needs
+30 of the approximately 37,000 students who qualify for services. This bud-
+31 get gap impacts the ability to recruit and retain special education staff and
+32 provide the vital support and resources these students and families need.
+33 (4) Therefore, it is the intent of the Legislature: to provide a uni-
+34 versal education grant that is available to all Idahoans in need of other
+35 education options while prioritizing the neediest families; to eliminate
+36 unnecessary and duplicative reporting that burdens Idaho's public schools;
+37 to streamline public school open enrollment; and to continuously appro-
+38 priate $30,000,000 in additional spending for directed spending on special
+39 education in Idaho public schools distributed under the public school fund-
+40 ing formula approved in Idaho Code.
+
+2
+1 SECTION 2. That Title 33, Idaho Code, be, and the same is hereby amended
+2 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+3 ter 68, Title 33, Idaho Code, and to read as follows:
+4 CHAPTER 68
+5 IDAHO PUBLIC EDUCATION RED TAPE REDUCTION PROGRAM
+6 33-6801. SHORT TITLE. This chapter shall be known and may be cited as
+7 the "Idaho Public Education Red Tape Reduction Program."
+8 33-6802. IDAHO EDUCATION RED TAPE REDUCTION PROGRAM. (1) The state de-
+9 partment of education shall identify all reporting currently required by the
+10 state of Idaho and the federal government for public schools and public char-
+11 ter schools. The department shall classify reports as required by the state,
+12 required by the federal government, or required by both. The department
+13 shall also identify the primary purpose of each report and if the connected
+14 program or services are still active in the school system.
+15 (2) The state department of education shall provide the legislature
+16 with its findings pursuant to subsection (1) of this section along with
+17 any recommendations to remove any reports from statute or from legislative
+18 intent language that exceed the reporting requirements of the federal gov-
+19 ernment.
+20 (3) The state of Idaho shall no longer require public school or public
+21 charter school reporting that exceeds the reporting requirements of the fed-
+22 eral government.
+23 (4) Reporting requirements that exceed the federal government require-
+24 ments may only be required if:
+25 (a) The legislature approves a new program for public schools or pub-
+26 lic charter schools and district-level metrics are a necessary compo-
+27 nent for assessing outcomes; and
+28 (b) The legislature includes a sunset date of no more than three (3)
+29 years for the report.
+30 SECTION 3. That Section 33-1030, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 33-1030. DEFINITIONS. As used in this section through section
+33 33-1034, Idaho Code:
+34 (1) "Assessment" means an examination or another objective evaluation
+35 of a student's academic performance, academic engagement, or college or ca-
+36 reer readiness.
+37 (2) "Board" means the state board of education.
+38 (3) "Eligible education expenses" means:
+39 (a) Tuition and fees paid to a participating prekindergarten provider
+40 or participating school prior to July 1, 2030, after which such tuition
+41 and fees shall not be considered eligible education expenses pursuant
+42 to this subsection;
+43 (a) (b) Computer hardware, internet access, or other technological de-
+44 vices or services that are primarily used to meet a participant's edu-
+45 cational needs, which costs for devices or services are not to exceed
+46 one thousand dollars ($1,000); however, expenses related to internet
+
+3
+1 access shall be subject to reimbursement pursuant to the provisions of
+2 section 33-1031(2)(c), Idaho Code, and shall not be eligible for direct
+3 payment through the grant distribution platform;
+4 (b) (c) Textbooks, curriculum, or other instructional materials, in-
+5 cluding educational software and applications;
+6 (c) (d) Fees for national standardized assessments, advanced place-
+7 ment examinations, examinations related to college or university ad-
+8 missions, or industry-recognized certification examinations;
+9 (d) (e) Therapies, including but not limited to occupational, behav-
+10 ioral, physical, speech-language, and audiology therapies, or other
+11 services or therapies specifically approved by the board;
+12 (e) (f) Educational programs offered for a fee or pursuant to contract
+13 by a school district, public charter school, or career technical educa-
+14 tion program to any eligible student; however, the payment of such fees
+15 on behalf of a student through the grant distribution platform shall
+16 not cause such student to be counted for purposes of calculating public
+17 school enrollment; or
+18 (f) (g) Other education expenses and services as approved by the board,
+19 upon recommendation of the parent advisory panel established pursuant
+20 to section 33-1032, Idaho Code.
+21 (4) "Eligible student" means a full-time resident of Idaho as described
+22 in section 63-3013, Idaho Code, who is five (5) three (3) to eighteen (18)
+23 years of age.
+24 (5) "Grant" means an award of one thousand dollars ($1,000) five thou-
+25 sand dollars ($5,000), which must be used for eligible education expenses.
+26 (6) "Grant distribution platform" means a digital platform through
+27 which grant funds are transferred from the board to participant accounts.
+28 (7) "Homeschool student" means a student who receives educational in-
+29 struction outside of either a public school or private school.
+30 (7) (8) "Parent" means the parent or legal guardian of an eligible stu-
+31 dent or a participant.
+32 (8) (9) "Participant" means an eligible student for whom a grant is
+33 awarded under section 33-1031, Idaho Code.
+34 (10) "Participating prekindergarten" means any program as defined in 20
+35 U.S.C. 1161i-1 that is licensed by the Idaho department of health and welfare
+36 pursuant to chapter 11, title 39, Idaho Code, that:
+37 (a) Provides eligible services for more than six (6) individuals, other
+38 than individuals who reside at the facility, who are three (3) to five
+39 (5) years of age;
+40 (b) Receives a fee, payment, or grant for providing services for any of
+41 the individuals; and
+42 (c) Adheres to any applicable federal laws and regulations.
+43 (11) "Participating school" means an Idaho nonpublic school that:
+44 (a) Is accredited by an accrediting body recognized by the state board
+45 of education;
+46 (b) Adheres to special education law, including the individuals with
+47 disabilities education act;
+48 (c) Adheres to the provisions of section 33-138, Idaho Code;
+49 (d) Adheres to the provisions of chapter 60, title 33, Idaho Code;
+
+4
+1 (e) Maintains and provides enrollment and performance data for eligi-
+2 ble students as required by the state department of education;
+3 (f) Administers nationally normed achievement assessments or state
+4 standardized tests, or both, at progressive grade levels to determine
+5 student progress; and
+6 (g) Requires the following individuals to submit to a criminal back-
+7 ground and history check as described in section 33-130, Idaho Code:
+8 (i) An employee who does not hold a current Idaho educator license
+9 issued by the state department of education; and
+10 (ii) All individuals who have unsupervised contact with students
+11 in a K-12 setting.
+12 (9) (12) "Program" means the empowering parents grant program estab-
+13 lished by section 33-1031, Idaho Code.
+14 (13) "Special needs student" means an eligible student three (3) to
+15 twenty-one (21) years of age who is receiving services under an individual-
+16 ized education program pursuant to section 33-2002, Idaho Code.
+17 SECTION 4. That Section 33-1031, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 33-1031. EMPOWERING PARENTS GRANT PROGRAM. (1) There is hereby estab-
+20 lished the empowering parents grant program, to be administered by the board
+21 according to the provisions of this section. The purpose of the program is to
+22 provide education grants for eligible students.
+23 (2) In order to administer the program, the board:
+24 (a) Shall create and administer, or designate a third party to create
+25 and administer, a grant distribution platform;
+26 (b) Shall establish a grant application process for parents;
+27 (c) Shall establish provisions for the reimbursement of any eligi-
+28 ble education expense for which reimbursement is required and di-
+29 rect payment from the platform is not permitted pursuant to section
+30 33-1030(3)(a) 33-1030(3)(b), Idaho Code;
+31 (d) Shall establish an application process to designate participating
+32 schools and participating prekindergarten providers;
+33 (d) (e) Shall, subject to appropriation, award grants. Grant awards
+34 shall be made in the following order of preference designated as fol-
+35 lows:
+36 (i) First to eligible students whose household has an adjusted
+37 gross income under sixty thousand dollars ($60,000), as verified
+38 by the Idaho state tax commission using the prior year's tax re-
+39 turns. Notification of grant awards for students in this category
+40 shall be made within thirty (30) days of application, and grant
+41 funds shall be made available for participants' use as soon as
+42 practicable, but no later than thirty (30) days after the notifi-
+43 cation of a grant award;
+44 (ii) Starting sixty (60) days after grant awards in a fiscal year
+45 are made under subparagraph (i) of this paragraph, to eligible
+46 students whose household has an adjusted gross income under sev-
+47 enty-five thousand dollars ($75,000), as verified by the Idaho
+48 state tax commission using the prior year's tax returns; and
+
+5
+1 (iii) Starting sixty (60) days after grant awards in a fiscal year
+2 are made under subparagraph (ii) of this paragraph, to all other
+3 eligible students on a first-come, first-served basis until all
+4 available funds are distributed; and
+5 (i) Seventy-five percent (75%) for eligible students and eligi-
+6 ble children whose household has an adjusted gross income under
+7 sixty thousand dollars ($60,000), as verified by the Idaho state
+8 tax commission using the prior year's tax returns;
+9 (ii) Twenty percent (20%) for eligible students and eligible
+10 children whose household has an adjusted gross income between
+11 sixty thousand dollars ($60,000) and eighty thousand dollars
+12 ($80,000), as verified by the Idaho state tax commission using the
+13 prior year's tax returns; and
+14 (iii) Five percent (5%) for eligible students and eligible chil-
+15 dren whose household has an adjusted gross income over eighty
+16 thousand dollars ($80,000), as verified by the Idaho state tax
+17 commission using the prior year's tax returns; and
+18 (e) (f) May take such other actions as are necessary to implement and
+19 enforce the provisions of this section.
+20 (3) Prior to the award of a grant, the parent of a participant shall
+21 agree to verify program compliance. The parent of a participant shall use
+22 grant funds only for eligible education expenses. If a parent is found to
+23 misuse grant funds, then neither the parent nor another parent of the student
+24 living in the same household may apply for a grant in the future for any stu-
+25 dent, provided that the parent may appeal the finding to the board.
+26 (4) Grant funds shall be expended within three (3) years after they
+27 are awarded. Any unused funds at the end of the three (3) year period shall
+28 revert to the empowering parents grant program fund established in section
+29 33-1034, Idaho Code. At any time before the three (3) year period ends, un-
+30 used funds may be forfeited and transferred from the participant account to
+31 the program fund.
+32 (5) Grant awards per family shall be capped at three thousand dollars
+33 ($3,000) five thousand dollars ($5,000) per student with a cap of fifteen
+34 thousand dollars ($15,000) per household, regardless of the number of eli-
+35 gible students in the family.
+36 SECTION 5. That Section 33-1032, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 33-1032. PARENT ADVISORY PANEL. (1) For purposes of this section:
+39 (a) "Executive director" means the executive director of the office of
+40 the state board of education.
+41 (b) "Program funds" means funds distributed to parents pursuant to sec-
+42 tion 33-1031, Idaho Code.
+43 (2) There is hereby established in the office of the state board of
+44 education a parent advisory panel, which shall make recommendations to the
+45 board:
+46 (a) As described in section 33-1030(3)(f) 33-1030(3)(g), Idaho Code;
+47 and
+48 (b) On how to implement, administer, and improve the program described
+49 in section 33-1031, Idaho Code.
+
+6
+1 (3) The parent advisory panel shall consist of seven (7) members. Three
+2 (3) members shall be appointed by the governor, two (2) members shall be ap-
+3 pointed by the president pro tempore of the senate, and two (2) members shall
+4 be appointed by the speaker of the house of representatives. The members
+5 must be parents of eligible students, with preference given to parents who
+6 have applied for program funds or who, for the initial appointment of the
+7 panel, have indicated their intent to apply for program funds. Members of
+8 the panel shall represent different regions of the state. Members shall
+9 serve one (1) year terms at the pleasure of their appointing authority and
+10 may be reappointed if they meet the eligibility criteria described in this
+11 subsection. The executive director or the executive director's designee
+12 shall serve as the nonvoting chair of the parent advisory panel.
+13 (4) At the request of the board, the parent advisory panel shall meet,
+14 in person or virtually, to discuss and make recommendations as described in
+15 subsection (2) of this section.
+16 (5) If a parent appeals a finding that program funds were used for a pur-
+17 pose other than eligible education expenses, then the panel shall meet to
+18 consider the appeal and recommend a decision on the appeal to the board.
+19 SECTION 6. That Section 33-1034, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 33-1034. EMPOWERING PARENTS GRANT PROGRAM FUND. There is hereby es-
+22 tablished in the state treasury the empowering parents grant program fund,
+23 to be administered by the board. Moneys in the fund shall:
+24 (1) Consist of the following:
+25 (a) Legislative appropriations;
+26 (b) Donations and contributions made to the fund; and
+27 (c) Interest earned on idle moneys in the fund;
+28 (2) Be continuously appropriated for the purpose described in subsec-
+29 tion (3) of this section; and
+30 (3) Be used to pay grants awarded under the empowering parents grant
+31 program.
+32 (1) Consist of legislative appropriations, donations and contribu-
+33 tions made to the fund, and interest earned on idle moneys in the fund;
+34 (2) Be continuously appropriated to pay grants awarded under the empow-
+35 ering parents grant program; and
+36 (3) Not exceed fifty million dollars ($50,000,000) in a given tax year.
+37 SECTION 7. That Section 33-1401, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 33-1401. DEFINITIONS. For the purposes of tuition charges and pay-
+40 ments, the following words and phrases shall have these meanings:
+41 1. "District" means any public school district including specially
+42 chartered school districts.
+43 2. "Residence" of a pupil means the residence of his parent or guardian.
+44 3. "Home district" means the school district of the pupil's residence.
+45 4. "Creditor district" means a district in which nonresident pupils are
+46 in attendance.
+
+7
+1 5. "Nonresident pupils" mean pupils attending schools in districts
+2 other than their home districts, or from other states.
+3 6. "Debtor district" means the home district of nonresident pupils.
+4 7. "Pupil" means a pupil in any grade, kindergarten through twelve
+5 (12).
+6 8. "Elementary pupil," in the case of districts not giving instruction
+7 above grade eight (8), means any pupil. In all other districts it means any
+8 pupil in grades kindergarten through six (6).
+9 9. "Secondary pupil" means, in the case of districts which give in-
+10 struction beyond grade eight (8) any pupil in grades seven (7) through twelve
+11 (12).
+12 10. "Guardian" means any person so designated by court order, or any
+13 person with whom the pupil is residing and making his home on a full-time
+14 basis, provided such person has in his possession a properly executed power
+15 of attorney for the care and custody of the pupil for a period of time not less
+16 than the balance of the school term.
+17 11. "Special program" means any class or course of study identified by
+18 the district as having limited capacity due to available equipment, space,
+19 staffing, or funding. Examples include but are not limited to self-con-
+20 tained special education programs, career technical education courses and
+21 schools, and gifted and talented programs.
+22 SECTION 8. That Section 33-1402, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 33-1402. ENROLLMENT OPTIONS. (1) Each school district shall implement
+25 an enrollment options program as provided in this section. School districts
+26 shall adopt policies to govern the process for enrollment options pursuant
+27 to this chapter, including in-district transfers. The policies shall pro-
+28 hibit discrimination against any pupil on the basis of his residential ad-
+29 dress, ability, disability, race, ethnicity, sex, or socioeconomic status.
+30 Such policies shall be posted to the school district's website. Schools of
+31 choice within a district that have lottery enrollment policies are not sub-
+32 ject to the provisions of this chapter.
+33 (2) Whenever the parent or guardian of any Idaho pupil determines that
+34 it is in the best interest of the pupil to attend a school within another dis-
+35 trict, or to attend another school within the home district, such pupil may
+36 be transferred to and attend the selected school, subject to the provisions
+37 of this section and section 33-1404, Idaho Code.
+38 (3) The pupil's parent or guardian must apply for admission to a school
+39 within another district, or to another school within the home district, on
+40 a form provided by the state department of education or a district-provided
+41 form that is substantially similar. The application must be submitted to the
+42 receiving school district by February 1 for enrollment during the following
+43 school year, and notice of such application must be given to the home dis-
+44 trict. At the time of application, the parent or guardian must request that
+45 the home district or school forward the pupil's student record. The home
+46 district or school shall respond by forwarding a certified copy of the trans-
+47 ferred student's record within ten (10) days, unless the provisions of sec-
+48 tion 18-4511, Idaho Code, apply. The receiving school district, or the re-
+49 ceiving school within the home district, shall notify the applicant within
+
+8
+1 sixty (60) days and, if denied, must include written explanation of the de-
+2 nial.
+3 (4) There may be times during the school year when a parent or guardian
+4 believes it is in the best interest of the pupil to transfer schools. Open
+5 enrollment applications shall be accepted at any time throughout the year.
+6 However, those applications received after the February 1 deadline will be
+7 considered based on capacity stated in policy at the receiving district.
+8 (5) Priority for enrollment under this section shall be given to pupils
+9 applying to attend another school within the home district.
+10 (6) A district may deny a transfer application for the following rea-
+11 sons:
+12 (a) The pupil was expelled by the pupil's previous district;
+13 (b) The pupil has a documented history of significant disciplinary is-
+14 sues;
+15 (c) The pupil has a documented history of chronic absenteeism; or
+16 (d) The receiving district does not have space available pursuant to
+17 section 33-1409, Idaho Code. Where applicable, a denial may include in-
+18 formation about other schools that are below maximum enrollment.
+19 (7) For a pupil accepted by the receiving school or district, the par-
+20 ent or guardian does not need to reapply to regain acceptance the next school
+21 year. However, the parent or guardian must provide notice to the receiving
+22 school or district of intent for the pupil to reenroll. The district may pre-
+23 scribe the form of notice. Once a pupil has been enrolled at the same school
+24 for a second consecutive year, the pupil may complete his education at such
+25 school, unless the pupil's approved transfer has been revoked pursuant to
+26 this section.
+27 (8) Whenever any pupil enrolls in and attends a school outside the dis-
+28 trict within which the parent or guardian resides, the parent or guardian
+29 shall be responsible for transporting the pupil to and from the school or
+30 to an appropriate bus stop within the receiving district. For students at-
+31 tending another school within the home district, the parent or guardian is
+32 responsible for transporting the pupil to and from an appropriate bus stop.
+33 Tuition shall be waived for parents or guardians of any Idaho pupils allowed
+34 under the provisions of this section. Tuition charged to the debtor district
+35 may be waived by the creditor district.
+36 (9) A pupil who applies and is accepted in a nonresident school district
+37 is subject to the policy of the receiving school district and shall be ineli-
+38 gible to again apply for an enrollment option or the transfer approval may be
+39 revoked in that nonresident district if:
+40 (a) The pupil is chronically absent;
+41 (b) The pupil commits repeated, serious disciplinary infractions;
+42 (c) The pupil commits disciplinary infractions that result in expul-
+43 sion; or
+44 (d) The school, grade level, or special program in which the student
+45 is enrolled exceeds maximum enrollment of resident pupils due to growth
+46 pupils pursuant to section 33-1409, Idaho Code. However, pursuant to
+47 subsection (7) of this section, the receiving district may not revoke a
+48 transfer approval to a school after two (2) consecutive years of atten-
+49 dance. If a transfer approval is revoked under this subsection, the re-
+
+9
+1 ceiving district must offer the pupil information about other schools
+2 within the district that are below maximum enrollment.
+3 (10) A receiving school shall inform the parent or guardian of the cir-
+4 cumstances that jeopardize the student's status at a transfer school.
+5 (11) No district shall take any action to prohibit or prevent applica-
+6 tion by resident pupils to attend school in another school district or to at-
+7 tend another school within the home district.
+8 SECTION 9. That Section 33-1409, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 33-1409. MEASURING AND REPORTING CAPACITY. (1) Every school district
+11 must determine maximum enrollment for each grade-level grade level, school
+12 building, and special program. The district will use the maximum enroll-
+13 ment to determine space available for transfer applications. For secondary
+14 grades, a district may use core classroom size per grade level as the stan-
+15 dard to determine maximum enrollment.
+16 (2) Not less than four (4) times during the school year, every school
+17 district shall publicly post on its website the space available at each
+18 grade-level grade level, special program, and at each school. Space avail-
+19 able shall be determined by comparing the maximum enrollment to the number of
+20 pupils actually enrolled. A school district that does not meet the minimum
+21 sample size necessary to prevent unlawful release of personally identifi-
+22 able student data established pursuant to subsection (5) of this section is
+23 not subject to the publication requirements pursuant to this subsection.
+24 (3) Not less than four (4) times during the school year, every school
+25 district shall report to the state reporting system the space available at
+26 each grade-level grade level, school, and in each program, the number of
+27 transfer applications, the number of accepted transferred pupils, and the
+28 number of denied applications.
+29 (4) By September 1 each year, the state board of education shall col-
+30 lect, analyze, and publish to its website the capacity and transfer data from
+31 each school district from the previous year. The report shall include the
+32 number of participants, the number of denied applications, and other rele-
+33 vant information. The state board of education shall also report this infor-
+34 mation to the legislature no later than February 1 of each year.
+35 (5) The state board of education shall not publish or release data of
+36 a school district if the number of students who applied for a transfer is
+37 less than the minimum sample size necessary for prevention of the unlawful
+38 release of personally identifiable student data. The state board of educa-
+39 tion shall establish the minimum number of students necessary to meet the re-
+40 quirements of this subsection.
+41 SECTION 10. SEVERABILITY. The provisions of this act are hereby de-
+42 clared to be severable and if any provision of this act or the application
+43 of such provision to any person or circumstance is declared invalid for any
+44 reason, such declaration shall not affect the validity of the remaining por-
+45 tions of this act.
+
+10
+1 SECTION 11. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YENCNAGTOE;PGLEI;AGTE3OC,BYTEANOFANWCR6,TE3,IOCOPEASTTEADTOEHPSRGTOPCENRDTERNP;AGS,IOC,TODET;AGSN3,I,TOREPSRGTEEGPSGTP;AGSN3,IOC,TOPEACTC;AGSN3,IOC,TOREPGTEEGPSGTPMF;AGS,IOC,TODEAT;AGSN3,I,TOREPSRGETO;AGSN3,IOC,TOREPSRGMGAGCYADTOMETLC;PGS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.()TeLefsttIsadfsdeastoenttmsisadosacecmwhayadt)TeLefrfstttelrtefsiegrtebnonIosswnitcstoagroeetreno,adttpcssmtnetecsofonbernadnessttddessdenmetedgwha,whdsupaecsinpcssadrsteaetetofsons)TeLefrfsttslenfgfopcssfsatlt$5mnstofmgtenfteay30sswoqyfrs.Tsbtgpisteaytortadrnslensfaetevlstadrstessadfsn)T,itisteitofteL:topeaulengtttisaetoalIsinndofonoswepgtentf;toeyaddergttbsIspcsosepcslone;adtocyae$0inalsgfrddsgonsninIopcssddurtepcslfgfaadinIoC]
+[DELETED: N2.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6OPCENRDTERNP.STT.Tscrslbeknadmybecdae"oPcEnRdTeRnP.IOENRDTERNP.()TesedtofensliyalrgcyrdbyteofIoadteflgtfrpcssadpccrs.Tedtslcyrsasrdbytesdbyteflg,orrdbyb.Tedlaoiytepypeofehrtadiftecmorssaeslaeintesls)Tesedtofenslpetelhisfspttosn()oftssnagwyrstoreayrsfmseorfmltlettedtergrsofteflg)TeseofIoslnolrrepcslorprslrgttestergrsofteflg)Rgrsttedteflgtrsmyoyberdi)Teleasanwpmfrpcssorpccrssaddlmsaeanyctfrago;a)Teleisastdeofnometnte(sfrterN3.TtSn3,IoC,b,adteseishdtordasf.D.Asudintssnths,IoC)""msanenoraroeefassacp,ace,orceorcrr)""mstesebdofe)"eene"m)TnadfspdtoapgpnprpgslprtoJy1,2,arwhshtdfsslntbecdeeenespotss)()Crh,ita,orortldsorssttaepyudtomtapseln,whcsfrdsorssaenttoeetdds(;h,esrdtoi]
+[DELETED: sslbesttortpttotepson3,IoC,adslntbeeefrdtthtegtdnp)()T,c,ororilm,igelseada)()Fsfrnlsda,adpte,esrdtoceoruya,oridcne)()T,igbtntldtoo,b,p,s,adayt,orosortssyadbyteb)()Elpsodfrafeorpttocyasld,pccrs,orcrtlenpmtoayees;h,teptofshfnbfofastthtegtdnpmstceshsttobecdfrpsofcgple;o)()Orenesadssasadbytebnrnofteptaypledposn3,IoC)"es"msafertofIoasdnsn6,IoC,woisfe()te()toen(sofa)""msanadofoetdds()fetdds(,whmtbeudfreeene)"tdnp"msadlpmthgtfsaetdfmtebdtopta)"ls"msastworselinoeoferapcslorpes)()""msteptorllgnofaneestorap)()""msaneestfrwmagtidursn3,IoC)"gp"msaypmasddin2.11ttisldbyteIodtofhhadwttocr1,te3,IoC,t)Pseessfrmetnsx()i,onisworeattef,woaete()tof)ysofa)Rsaf,p,orgtfrpgssfrayoei;a)Astoayaefllsadr)"gs"msanIoncslt)Isadbyanagbyrdbytesebfe)Astoslenl,igteiswsenastotepsofsn3,IoC)Astotepsofcr6,te3,IoC]
+[DELETED: )Msadpsetadpedafreessasrdbytesedtofe)Asnyndatasorsdt,orb,atpegelstodtp;a)Rstefgistosttoaclbdadhyckasddinsn3,IoC)AneewodsnthdactIoerldbytesedtofe;a)AliswoheudctwhsnaK2s)()""msteegpsgtpmedbysn3,IoC)"lnss"msaneestte()te()ysofaewoisrgssuranidenpmpttosn3,IoCN4.TtSn3,IoC,b,adteseishdtordasf.EGPSGTP.()Teishyedteegpsgtp,tobeadbytebgtotepsoftss.Tepeoftepmisteengsfrees)Inortoartep,teb)Slceada,ordeatdpytocda,agtdnp)Slehagtanpsfrp)Slehpsfrtertofayeeeneefrwhrtisrdaddtptfmtepmisntpdpttos)3,IoC)Slehananpstodepsadpgpnp)()S,sttoa,adg.Gtalbemeintefgorofpeddasfttoeesswehdhsanasieursytdds(,asvyteIosetxcnugteprystxr.Nnofgtasfrssintsclbemewnty()dsofa,adgsslbemeaefrp'ueassna,btnolrtnty()dsartennofagta)Sgsy()dsargtasinaflyemeursh()oftsp,toeswehdhsanadgsieursetdds(,asvdbyteIetxcnugteprystxr;a]
+[DELETED: )Sgsy()dsargtasinaflyemeursh()oftsp,toaloessonaf,fdbsulaefsaed;a)Sept()freessadeecnwehdhsanadgsieuytdds(,asvdbyteIosxcnugteprystxr)Typt()freessadenwehdhsanadgsiebytdds()adeytdd,asvdbyteIosetxcnugtrystxr;a)Fept()freessadeecnwehdhsanadgsieoredds(,asvdbyteIosetnugteprystxr;a)()Myteshorasasaenytoitaetepsoftss)Prtoteadofag,teptofaptsetovypmc.Teptofaptslutfsoyfreeene.Ifaptisfdtegtf,tnnrteptnrarptoftesgintesehdmyayfragtintefefrays,pdttteptmyaltefgtoteb)Gtfsslbeedwnte()ysartea.Ayudfsatteedoftete()yrpdsttoteegpsgtpmfdedins,IoC.Ataytebetete()yrpde,udfsmybefdadtdfmteptattepmf)Gtasprfyslbecdattetdd)fetdds()prstwhacpoffdds()prh,rsoftenrofeessintefN5.TtSn3,IoC,b,adteseishdtordasf.PTAYP.()Frpsoftss)"ed"msteeedrofteoeoesebdofe)"mf"msfsddtopspttosn3,IoC)Teishyedinteoeoftesebdonaptayp,whslmerstot)Asddinsn3)3,IoC)Onhwtoi,a,adietepmdnsn3,IoC]
+[DELETED: )Teptayplslctofsn()m.T)msslbeadbyteg,to()msslbeadbyteptpoteoftes,adto()msseadbytesrofteheofr.Temtbepsofees,whpegntopsweadfrpmfsorw,frteilatoft,heidtrittoayfrpmf.Msoeplslrtdtrsoftes.Msseoe()yrtsattepeoftragayayberdiftymtteeycaddint.Teeedrorteeedsdlseastengcrofteptayp)Attertofteb,teptayplslmnpnorv,todsadmersasddin()oftss)Ifaptasafgttpmfsweudfrapeortneeene,tnteplslmttrtealadrdadnontealtotebN6.TtSn3,IoC,b,adteseishdtordasf.EGPSGTPMF.Teishyedintesetyteegpsgtpmfobeadbyteb.Msintefds)Ctoftef)Lea)Dsadcsmetotef;a)Itedoniemsintef)Becyadfrtepeddinsn()oftss;a)Beudtopygsadurteegpsg)Ctoflea,dsadcsmetotef,aditedoniemsintef)Becyadtopygsadurteegpsgtp;atedfymnds()inagntxyN7.TtSn3,IoC,b,adteseishdtordasf.D.Frtepsoftncsadp,tefgwsadpsslhetem.""msaypcsldtigsdsld.""ofaplmstereofhsptorg."ed"mstesldtoftepsr."rd"msadtinwhntpsana]
+[DELETED: ."tp"mnpsagssindrtntrhed,orfmors."rd"mstehedtofntp.""msaplinayg,kntht."yp"inteceofdsntggiegeet(,msayp.Inalordsitmsalingsknthsx(."yp"m,inteceofdswhgeinbdgeet()ayplingssn()tht.""msaypnsoddbycto,oranwhwmteplisrgadmghsheonaf,pdshpnhsinhspnapyedpfayfrteceadcyofteplfrapdoftentlntebeofteslt."lp"msaycsorceofsyidbedtashgldcydetoaee,s,orf.Esiebtaentldtosdslenp,crtlencsa,adgdadtdpN8.TtSn3,IoC,b,adteseishdtordasf.ETO.()Ehsldtslinetospmaspdintss.Sldlatpstogntepsfretospotsc,igitt.Tepsslptdnatayplontebsofhsrla,a,d,r,e,s,orscshpsslbepdtotesldsw.Ssoewnadttthelyetpsaentsttotepsoftsc)WrteptorgnofayIopldsttisintebtitoftepltoadaslwnard,ortoadarslwntehed,shplmetdtoadadtesds,sttotepftssnadsn3,IoC)Tepsptorgnmtayfrantoasnard,ortoarslwntehed,ofmpdbytesedtofenoradmttissys.TeanmtbesdtotgsldtbyFy1fretdgtefly,adneofshanmtbegntotehed.Atteteofa,teptorgnmtrttehedtorslfdtepsstr.Tehtorslslrdbyfgacdcyoftetdssrdwntn()d,ustepsofsn1,IoC,a.Tergsld,ortergslwntehed,slnyteatw]
+[DELETED: y()dsa,ifd,mtiewnenofted)Temybetsdgteslyrwnaptorgsitisintebtitoftepltotrs.Otasslbeadataytetttey,teasrdarteFy1dewlbdbdoncysdinpyattergd)Pyfreturtssnslbegntopgtoadarslwntehed)Adtmydyatranfrtefgr)Teplwsedbytepspsd)Teplhsaddhyofstdyi)Teplhsaddhyofcca;o)Tergdtdsntheseaepttn3,IoC.Wea,adlmyieinatorssttaebwmme)Frapladbytergslord,teptorgndsntndtorytornaetents.H,teptorgnmtpenetoterlordtofitfrtepltor.Tedtmypetefmofn.Oeaplhsbnedattesesrasdcey,teplmycehsenats,ustepsadtrhsbnrdpttss)Wrayplesinadasasloetedtwnwhteptorgnr,teptorglberefrtgtepltoadfmteslooanaebsspwntergd.Frssagarslwntehed,teptorgniefrtgtepltoadfmanaebssnslbewdfrpsorgsofayIopsartepsoftss.Tncdtotedrdybewdbytecrd)Aplwoasadisadinantsldssttotepyoftergsldtadslbeietoanayfranetonortetralmybdinttntdti)Tepliscya)Teplcsr,ssdyi)Teplcsdyisttrtine;o)Tes,gel,orslpminwhtessedesmmetofrtpsdetogspttosn3,IoC.H,pttn()oftss,tergdtmyntreraltoaslarto()ceysofa.Ifatralisrdurtss,ter]
+[DELETED: gdtmtorteplinatorsntedtttaebwmme)Argslslimteptorgnoftecsttjetessssatatrs)NodtslteayantoptorptanbyrtpstoadslinarsldtortoadarslwntehedN9.TtSn3,IoC,b,adteseishdtordasf.MGADRGC.()Eysldtdemmetfrehglgel,s,adslp.Tedtwluetemmettodeseaefrtra.Frs,adtmyuececmseprgellastesdtodemme)Ntlstnfr()tsdgtesly,eystslpyptonisweteseaeatelgel,slp,adatehs.Seaeslbeddbycgtemmettotenrosaye.Asldtttdsntmttemesenytoptulreofpyiestdaedpttosn()oftssnitsttotepnrspttotss)Ntlstnfr()tsdgtesly,eystslrttotesergsmteseaeahglgel,s,adinehp,tenrora,tenrofadtdp,adtrofdda)BySr1ehy,tesebdofenslc,a,adphtoiswetecyadtrdafhsldtfmtepsy.Tertslietrofp,tenrofdda,adorrti.TesebdofenslaorttsintotelenolrtnFy1ofehy)Tesebdofenslntphorredaosldtiftenrofsswoadfratristntemmsesenyfrpnofteueofpyiestd.TesebdofenslehtemmnrofssnytomttersoftssN1.S.Tepsoftsataehyddtobeseadifaypnoftsatorteafshpntoaypnorceisddidfra,shdnslntattevyoftergpsoftsa]
+[DELETED: N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

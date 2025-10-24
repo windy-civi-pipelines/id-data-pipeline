@@ -1,0 +1,297 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 305
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1004, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING STAFF ALLOWANCE; AND DECLARING AN EMERGENCY AND PRO-
+4 VIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-1004, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-1004. STAFF ALLOWANCE. For each school district, a staff allowance
+9 shall be determined as follows:
+10 (1) Using the daily attendance reports that have been submitted for
+11 computing the February 15 apportionment of state funds as provided in sec-
+12 tion 33-1009, Idaho Code, calculate the total support units for the district
+13 in the manner provided in section 33-1002(6)(a), Idaho Code. If the sup-
+14 port units used to calculate discretionary funding pursuant to sections
+15 33-1009 and 33-1018, Idaho Code, are at least three percent (3%) greater,
+16 seventy-five percent (75%) of the difference shall be added to the support
+17 units used for the February 15 apportionment of state funds;
+18 (2) Determine the instructional staff allowance by multiplying the
+19 support units by 1.021. A district must demonstrate that it actually employs
+20 the number of certificated instructional staff allowed, except as provided
+21 in subsection (6)(f) and (g) of this section. If the district does not employ
+22 the number allowed, the staff allowance shall be reduced to the actual number
+23 employed, except as provided in subsection (6)(f) and (g) of this section;
+24 (3) Determine the pupil service staff allowance by multiplying the sup-
+25 port units by 0.079;
+26 (4) Determine the administrative staff allowance by multiplying the
+27 support units by .075;
+28 (5) Determine the classified staff allowance by multiplying the sup-
+29 port units by .375;
+30 (6) Additional conditions governing staff allowance:
+31 (a) In determining the number of staff in subsections (2), (3), (4) and
+32 (5) of this section, a district may contract separately for services to
+33 be rendered by nondistrict employees and such employees may be counted
+34 in the staff allowance. A "nondistrict employee" means a person for
+35 whom the school district does not pay the employer's obligations for
+36 employee benefits. When a district contracts for the services of a
+37 nondistrict employee, only the salary portion of the contract shall be
+38 allowable for computations.
+39 (b) If there are circumstances preventing eligible use of staff al-
+40 lowance to which a district is entitled as provided in subsections (2),
+41 (3) and (4) of this section, an appeal may be filed with the state de-
+2
+1 partment of education outlining the reasons and proposed alternative
+2 use of these funds, and a waiver may be granted.
+3 (c) For any district with less than forty (40) support units:
+4 (i) The instructional staff allowance shall be calculated
+5 applying the actual number of support units. If the actual in-
+6 structional staff employed in the school year is greater than the
+7 instructional staff allowance, then the instructional staff al-
+8 lowance shall be increased by one-half (1/2) staff allowance; and
+9 (ii) The administrative staff allowance shall be calculated ap-
+10 plying the actual number of support units. If the actual adminis-
+11 trative staff employed in the school year is greater than the ad-
+12 ministrative staff allowance, then the administrative staff al-
+13 lowance shall be increased by one-half (1/2) staff allowance.
+14 (iii) Additionally, for any district with less than twenty (20)
+15 support units, the instructional staff allowance shall be calcu-
+16 lated applying the actual number of support units. If the number
+17 of instructional staff employed in the school year is greater than
+18 the instructional staff allowance, the staff allowance shall be
+19 increased as provided in subparagraphs (i) and (ii) of this para-
+20 graph, and by an additional one-half (1/2) instructional staff al-
+21 lowance.
+22 (d) For any school district with one (1) or more separate secondary
+23 schools serving grades 9 through 12, the instructional staff allowance
+24 shall be increased by two (2) additional instructional staff allowances
+25 for each such separate secondary school.
+26 (e) Only instructional, pupil service and administrative staff and
+27 classified personnel compensated by the school district from the gen-
+28 eral maintenance and operation fund of the district shall be included in
+29 the calculation of staff allowance or in any other calculations based
+30 upon staff, including determination of the experience and education
+31 multiplier, the reporting requirements, or the district's salary-based
+32 apportionment calculation. No food service staff or transportation
+33 staff shall be included in the staff allowance.
+34 (f) A district may utilize up to fifteen percent (15%) of the moneys
+35 associated with positions funded pursuant to subsection (2) of this
+36 section to pay another school district or public charter school for
+37 instructional services or to defray the cost of providing virtual edu-
+38 cation coursework, including virtual dual credit coursework, without a
+39 reduction in the number of funded positions being imposed.
+40 (g) A district may employ nine and one-half percent (9.5%) fewer posi-
+41 tions than funded pursuant to subsections (2) and (3) of this section,
+42 without a reduction in the number of funded positions being imposed.
+43 Beginning in fiscal year 2016, this figure shall be reduced by one per-
+44 cent (1%) each year for each school district in which the average class
+45 size, as determined from prior fiscal year data reported to the state
+46 department of education, was at least one (1) student greater than the
+47 statewide average class size. The state department of education shall
+48 report to the legislature every February, beginning in 2015, on the re-
+49 ductions scheduled to take place in this figure, by school district, in
+50 the ensuing fiscal year.
+3
+1 (i) In the determination of statewide average class size, the
+2 state department of education shall not use a single figure de-
+3 veloped through the averaging of all districts of varying size,
+4 geographical location and pupil populations throughout the state.
+5 The statewide average class size shall be comprised of multiple
+6 figures determined through analysis of like and similarly sit-
+7 uated districts and use of the divisor breakdown established in
+8 section 33-1002, Idaho Code.
+9 (ii) The state board of education may promulgate rules outlining
+10 the method of calculation of the statewide average class size fig-
+11 ures.
+12 (iii) The one percent (1%) reduction required in paragraph (g) of
+13 this subsection shall not be applicable for any school year subse-
+14 quent to a year when the school district's boundaries have changed
+15 because of division, consolidation, excision or annexation of
+16 territory.
+17 (7) In the event that the staff allowance in any category is insuffi-
+18 cient to meet accreditation standards, a district may appeal to the state
+19 board of education, demonstrating the insufficiency, and the state board may
+20 grant a waiver authorizing sufficient additional staff to be included within
+21 the staff allowance to meet accreditation standards. Such a waiver shall be
+22 limited to one (1) year, but may be renewed upon showing of continuing justi-
+23 fication.
+24 (8) A district may utilize a portion of the instructional staff al-
+25 lowance provided for in this section for kindergarten teachers to visit the
+26 parents or guardians of students during the first week of the kindergarten
+27 school year. Such visits may take place at school, at the student's home
+28 or at another location agreed to by the teacher and parents or guardians.
+29 The purpose of such visits is to help strengthen the working relationship
+30 between the teacher, the parents or guardians, and the student. The visits
+31 should be used as an opportunity to help establish the teacher's expecta-
+32 tions of the student. The visit should also provide an opportunity for the
+33 parents or guardians to explain their expectations. The amount of moneys to
+34 be expended for such visits by the district may not exceed the amount equal
+35 to one (1) week of instructional staff allowance computed for kindergarten
+36 instructors in the district.
+37 SECTION 2. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YENCNAGTOE;AGSN3,IOC,TOREPSRGSFA;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.SFA.Frehsld,asfalbeddasf)UgtedyaerstthebnsdfgteFy15atofsefsaspdinsn3,IoC,cetetlstusfrtedntemrpdinsn3,IoC.Iftestusudtocedyfgpttos9ad3,IoC,aeatlttept()gept()oftedeslbeadtotessudfrteFy15atofsef)Deteilsfaebymgttusby1.Adtmtdettitayeenrofcdilsfa,etaspnsn()ad()oftss.Iftedtdsnteenra,tesfaeslberdtotealn,etaspdinsn()ad()oftss)Deteplsesfaebymgtestusby0)Deteaesfaebymgttusby.)Detecdsfaebymgtestusby.)Alcsggsfa)Indgtenrofsfinss(,(,()a)oftss,adtmyctsyfrssterdbyntesadshesmybecntesfa.A"te"msapnfmtesldtdsntpyteesosfeb.Wnadtcsfrtessofte,oytesypnoftectslbefrc)Ifteaecspgeeueofsfaetowhadtisedaspdinss()ad()oftss,analmybefdwhtesed]
+[DELETED: tofenogtersadpdaeoftef,adawrmybeg)Fraydtwhlstnfy()stu)Teilsfaeslbecgtealnrofstu.Iftealilsfedinteslyrisgrtntlsfa,tnteilsfaeslbeidbyof()sfa;a)Teaesfaeslbecdagtealnrofstu.Iftealaesfedinteslyrisgrtnteaesfa,tnteaesfaeslbeidbyof()sfa)A,fraydtwhlstnty(tu,teilsfaeslbecdagtealnrofstu.Iftenfilsfedinteslyrisgrteilsfa,tesfaeslbdaspdinss()ad()oftsp,adbyanalof()ilsfa)Fraysldtwhoe()ormesesssggs9th1,teilsfalbeidbyto()alilsfarehshsesys)Oyi,plseadaesfadplcdbytesldtfmteglmeadonfdoftedtslbeidiecnofsfaeorinayorcsbns,igdnofteeeade,tergr,ortedsstc.Nofdsesfortfslbeidintesfa)Adtmyueuptofnpt()oftemdwhpsfdpttosn()oftntopyarsldtorpccrslflssortodytectofpgvlenc,igvldlctc,wtnintenroffdpsbgi)Adtmyeyneadofpt()frpstnfdpttoss()ad()oftsstarnintenroffdpsbgiginflyr2,tsfeslberdbyoept()ehyrfrehsldtinwhteaec,asddfmprflyrdardtotestofe,wsatltoe()stgrtnteaecss.TesedtofensttoteleeyF,bgin2,onterssdtotepeintsf,bysld,ieegfly]
+[DELETED: )Intednofseaecss,tedtofenslntueasefeddthteagofaldsofvgsllnadplpsttteseseaecsseslbecdofmsddthasofleadsysddsadueoftedrbnedin3,IoC)Tesebdofenmypersoemdofcnofteseaecssef)Teoept()rnrdinph()ossnslntbeaefrayslyrsttoayrwntesldsbsheceofd,c,enorano)Inteettttesfaeinaycyisittomtans,adtmyaltotesdofe,dgtei,adtesebdmtawragstalsftobeidwesfaetomtans.Shawrslbdtooe()y,btmyberdunsgofcgj)Adtmyueapnofteilsfaepdfrintssnfrkntstovttsorgsofssdgteftwkoftekly.Shvsmytepeats,attesshratarlnadtobytetradpsorgepeofshvsistohpsntewgrntet,tepsorg,adtes.Tevdbeudasanoytohpehtetsesoftes.Tevtsdaopeanoyfrtsorgstoentre.Teatofmsteedfrshvsbytedtmyntedteateooe()wkofilsfaecdfrksintedN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 305
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1004, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING STAFF ALLOWANCE; AND DECLARING AN EMERGENCY AND PRO-
+4 VIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-1004, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-1004. STAFF ALLOWANCE. For each school district, a staff allowance
+9 shall be determined as follows:
+10 (1) Using the daily attendance reports that have been submitted for
+11 computing the February 15 apportionment of state funds as provided in sec-
+12 tion 33-1009, Idaho Code, calculate the total support units for the district
+13 in the manner provided in section 33-1002(6)(a), Idaho Code. If the sup-
+14 port units used to calculate discretionary funding pursuant to sections
+15 33-1009 and 33-1018, Idaho Code, are at least three percent (3%) greater,
+16 seventy-five percent (75%) of the difference shall be added to the support
+17 units used for the February 15 apportionment of state funds;
+18 (2) Determine the instructional staff allowance by multiplying the
+19 support units by 1.021. A district must demonstrate that it actually employs
+20 the number of certificated instructional staff allowed, except as provided
+21 in subsection (6)(f) and (g) of this section. If the district does not employ
+22 the number allowed, the staff allowance shall be reduced to the actual number
+23 employed, except as provided in subsection (6)(f) and (g) of this section;
+24 (3) Determine the pupil service staff allowance by multiplying the sup-
+25 port units by 0.079;
+26 (4) Determine the administrative staff allowance by multiplying the
+27 support units by .075;
+28 (5) Determine the classified staff allowance by multiplying the sup-
+29 port units by .375;
+30 (6) Additional conditions governing staff allowance:
+31 (a) In determining the number of staff in subsections (2), (3), (4) and
+32 (5) of this section, a district may contract separately for services to
+33 be rendered by nondistrict employees and such employees may be counted
+34 in the staff allowance. A "nondistrict employee" means a person for
+35 whom the school district does not pay the employer's obligations for
+36 employee benefits. When a district contracts for the services of a
+37 nondistrict employee, only the salary portion of the contract shall be
+38 allowable for computations.
+39 (b) If there are circumstances preventing eligible use of staff al-
+40 lowance to which a district is entitled as provided in subsections (2),
+41 (3) and (4) of this section, an appeal may be filed with the state de-
+
+2
+1 partment of education outlining the reasons and proposed alternative
+2 use of these funds, and a waiver may be granted.
+3 (c) For any district with less than forty (40) support units:
+4 (i) The instructional staff allowance shall be calculated
+5 applying the actual number of support units. If the actual in-
+6 structional staff employed in the school year is greater than the
+7 instructional staff allowance, then the instructional staff al-
+8 lowance shall be increased by one-half (1/2) staff allowance; and
+9 (ii) The administrative staff allowance shall be calculated ap-
+10 plying the actual number of support units. If the actual adminis-
+11 trative staff employed in the school year is greater than the ad-
+12 ministrative staff allowance, then the administrative staff al-
+13 lowance shall be increased by one-half (1/2) staff allowance.
+14 (iii) Additionally, for any district with less than twenty (20)
+15 support units, the instructional staff allowance shall be calcu-
+16 lated applying the actual number of support units. If the number
+17 of instructional staff employed in the school year is greater than
+18 the instructional staff allowance, the staff allowance shall be
+19 increased as provided in subparagraphs (i) and (ii) of this para-
+20 graph, and by an additional one-half (1/2) instructional staff al-
+21 lowance.
+22 (d) For any school district with one (1) or more separate secondary
+23 schools serving grades 9 through 12, the instructional staff allowance
+24 shall be increased by two (2) additional instructional staff allowances
+25 for each such separate secondary school.
+26 (e) Only instructional, pupil service and administrative staff and
+27 classified personnel compensated by the school district from the gen-
+28 eral maintenance and operation fund of the district shall be included in
+29 the calculation of staff allowance or in any other calculations based
+30 upon staff, including determination of the experience and education
+31 multiplier, the reporting requirements, or the district's salary-based
+32 apportionment calculation. No food service staff or transportation
+33 staff shall be included in the staff allowance.
+34 (f) A district may utilize up to fifteen percent (15%) of the moneys
+35 associated with positions funded pursuant to subsection (2) of this
+36 section to pay another school district or public charter school for
+37 instructional services or to defray the cost of providing virtual edu-
+38 cation coursework, including virtual dual credit coursework, without a
+39 reduction in the number of funded positions being imposed.
+40 (g) A district may employ nine and one-half percent (9.5%) fewer posi-
+41 tions than funded pursuant to subsections (2) and (3) of this section,
+42 without a reduction in the number of funded positions being imposed.
+43 Beginning in fiscal year 2016, this figure shall be reduced by one per-
+44 cent (1%) each year for each school district in which the average class
+45 size, as determined from prior fiscal year data reported to the state
+46 department of education, was at least one (1) student greater than the
+47 statewide average class size. The state department of education shall
+48 report to the legislature every February, beginning in 2015, on the re-
+49 ductions scheduled to take place in this figure, by school district, in
+50 the ensuing fiscal year.
+
+3
+1 (i) In the determination of statewide average class size, the
+2 state department of education shall not use a single figure de-
+3 veloped through the averaging of all districts of varying size,
+4 geographical location and pupil populations throughout the state.
+5 The statewide average class size shall be comprised of multiple
+6 figures determined through analysis of like and similarly sit-
+7 uated districts and use of the divisor breakdown established in
+8 section 33-1002, Idaho Code.
+9 (ii) The state board of education may promulgate rules outlining
+10 the method of calculation of the statewide average class size fig-
+11 ures.
+12 (iii) The one percent (1%) reduction required in paragraph (g) of
+13 this subsection shall not be applicable for any school year subse-
+14 quent to a year when the school district's boundaries have changed
+15 because of division, consolidation, excision or annexation of
+16 territory.
+17 (7) In the event that the staff allowance in any category is insuffi-
+18 cient to meet accreditation standards, a district may appeal to the state
+19 board of education, demonstrating the insufficiency, and the state board may
+20 grant a waiver authorizing sufficient additional staff to be included within
+21 the staff allowance to meet accreditation standards. Such a waiver shall be
+22 limited to one (1) year, but may be renewed upon showing of continuing justi-
+23 fication.
+24 (8) A district may utilize a portion of the instructional staff al-
+25 lowance provided for in this section for kindergarten teachers to visit the
+26 parents or guardians of students during the first week of the kindergarten
+27 school year. Such visits may take place at school, at the student's home
+28 or at another location agreed to by the teacher and parents or guardians.
+29 The purpose of such visits is to help strengthen the working relationship
+30 between the teacher, the parents or guardians, and the student. The visits
+31 should be used as an opportunity to help establish the teacher's expecta-
+32 tions of the student. The visit should also provide an opportunity for the
+33 parents or guardians to explain their expectations. The amount of moneys to
+34 be expended for such visits by the district may not exceed the amount equal
+35 to one (1) week of instructional staff allowance computed for kindergarten
+36 instructors in the district.
+37 SECTION 2. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YENCNAGTOE;AGSN3,IOC,TOREPSRGSFA;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.SFA.Frehsld,asfalbeddasf)UgtedyaerstthebnsdfgteFy15atofsefsaspdinsn3,IoC,cetetlstusfrtedntemrpdinsn3,IoC.Iftestusudtocedyfgpttos9ad3,IoC,aeatlttept()gept()oftedeslbeadtotessudfrteFy15atofsef)Deteilsfaebymgttusby1.Adtmtdettitayeenrofcdilsfa,etaspnsn()ad()oftss.Iftedtdsnteenra,tesfaeslberdtotealn,etaspdinsn()ad()oftss)Deteplsesfaebymgtestusby0)Deteaesfaebymgttusby.)Detecdsfaebymgtestusby.)Alcsggsfa)Indgtenrofsfinss(,(,()a)oftss,adtmyctsyfrssterdbyntesadshesmybecntesfa.A"te"msapnfmtesldtdsntpyteesosfeb.Wnadtcsfrtessofte,oytesypnoftectslbefrc)Ifteaecspgeeueofsfaetowhadtisedaspdinss()ad()oftss,analmybefdwhtesed]
+[DELETED: tofenogtersadpdaeoftef,adawrmybeg)Fraydtwhlstnfy()stu)Teilsfaeslbecgtealnrofstu.Iftealilsfedinteslyrisgrtntlsfa,tnteilsfaeslbeidbyof()sfa;a)Teaesfaeslbecdagtealnrofstu.Iftealaesfedinteslyrisgrtnteaesfa,tnteaesfaeslbeidbyof()sfa)A,fraydtwhlstnty(tu,teilsfaeslbecdagtealnrofstu.Iftenfilsfedinteslyrisgrteilsfa,tesfaeslbdaspdinss()ad()oftsp,adbyanalof()ilsfa)Fraysldtwhoe()ormesesssggs9th1,teilsfalbeidbyto()alilsfarehshsesys)Oyi,plseadaesfadplcdbytesldtfmteglmeadonfdoftedtslbeidiecnofsfaeorinayorcsbns,igdnofteeeade,tergr,ortedsstc.Nofdsesfortfslbeidintesfa)Adtmyueuptofnpt()oftemdwhpsfdpttosn()oftntopyarsldtorpccrslflssortodytectofpgvlenc,igvldlctc,wtnintenroffdpsbgi)Adtmyeyneadofpt()frpstnfdpttoss()ad()oftsstarnintenroffdpsbgiginflyr2,tsfeslberdbyoept()ehyrfrehsldtinwhteaec,asddfmprflyrdardtotestofe,wsatltoe()stgrtnteaecss.TesedtofensttoteleeyF,bgin2,onterssdtotepeintsf,bysld,ieegfly]
+[DELETED: )Intednofseaecss,tedtofenslntueasefeddthteagofaldsofvgsllnadplpsttteseseaecsseslbecdofmsddthasofleadsysddsadueoftedrbnedin3,IoC)Tesebdofenmypersoemdofcnofteseaecssef)Teoept()rnrdinph()ossnslntbeaefrayslyrsttoayrwntesldsbsheceofd,c,enorano)Inteettttesfaeinaycyisittomtans,adtmyaltotesdofe,dgtei,adtesebdmtawragstalsftobeidwesfaetomtans.Shawrslbdtooe()y,btmyberdunsgofcgj)Adtmyueapnofteilsfaepdfrintssnfrkntstovttsorgsofssdgteftwkoftekly.Shvsmytepeats,attesshratarlnadtobytetradpsorgepeofshvsistohpsntewgrntet,tepsorg,adtes.Tevdbeudasanoytohpehtetsesoftes.Tevtsdaopeanoyfrtsorgstoentre.Teatofmsteedfrshvsbytedtmyntedteateooe()wkofilsfaecdfrksintedN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

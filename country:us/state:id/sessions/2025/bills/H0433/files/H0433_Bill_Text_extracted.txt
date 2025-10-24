@@ -1,0 +1,917 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 433
+BY SCOTT
+1 AN ACT
+2 RELATING TO GESTATIONAL CARRIER AGREEMENTS; AMENDING SECTION 7-1603,
+3 IDAHO CODE, TO REVISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SEC-
+4 TION 7-1604, IDAHO CODE, TO REVISE PROVISIONS REGARDING GESTATIONAL
+5 AGREEMENTS; AMENDING CHAPTER 16, TITLE 7, IDAHO CODE, BY THE ADDITION
+6 OF A NEW SECTION 7-1604A, IDAHO CODE, TO PROHIBIT COMPENSATION AND TO
+7 ESTABLISH PROVISIONS REGARDING ALLOWABLE EXPENSES; AMENDING SECTION
+8 7-1605, IDAHO CODE, TO REVISE PROVISIONS REGARDING COURT ORDERS VALI-
+9 DATING GESTATIONAL AGREEMENTS; AMENDING SECTION 7-1606, IDAHO CODE, TO
+10 REVISE PROVISIONS REGARDING TERMINATION OF GESTATIONAL AGREEMENTS AND
+11 TO ESTABLISH PROVISIONS REGARDING THE EFFECTS OF DIVORCE, ANNULMENT,
+12 AND MARRIAGE; AMENDING SECTION 7-1607, IDAHO CODE, TO REVISE PROVISIONS
+13 REGARDING THE DETERMINATION OF PARENTAGE UNDER A VALIDATED GESTATIONAL
+14 AGREEMENT; AMENDING CHAPTER 16, TITLE 7, IDAHO CODE, BY THE ADDITION
+15 OF A NEW SECTION 7-1613, IDAHO CODE, TO ESTABLISH PROVISIONS REGARD-
+16 ING GESTATIONAL CARRIER DATA COLLECTION; AMENDING SECTION 39-255A,
+17 IDAHO CODE, TO REVISE PROVISIONS REGARDING REGISTRATION OF BIRTHS TO
+18 GESTATIONAL CARRIERS; AMENDING SECTION 39-260A, IDAHO CODE, TO REVISE
+19 PROVISIONS REGARDING REGISTRATION OF STILLBIRTHS TO GESTATIONAL CARRI-
+20 ERS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+21 Be It Enacted by the Legislature of the State of Idaho:
+22 SECTION 1. That Section 7-1603, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 7-1603. DEFINITIONS. As used in this chapter:
+25 (1) "Assisted reproduction" means the laboratory and medical proce-
+26 dures used by a medical professional in which human gametes are used outside
+27 the body for reproductive purposes.
+28 (2) "Compensation" means a payment of money, objects, services, or any-
+29 thing else having monetary value. Compensation shall not include reimburse-
+30 ment for actual expenses, as provided for in section 18-1511, Idaho Code, to
+31 the gestational carrier or payment for goods or services incurred by the in-
+32 tended parents as a result of the pregnancy and that would not have been in-
+33 curred but for the pregnancy.
+34 (2) (3) "Gamete" means a mature male or female germ cell usually pos-
+35 sessing a haploid chromosome set and capable of initiating formation of a new
+36 diploid individual by fusion with a gamete of the opposite sex.
+37 (3) (4) "Genetic testing" means an analysis of genetic markers to ex-
+38 clude or identify a person as the parent of a child, including an analysis of
+39 one (1) or a combination of the following:
+40 (a) Deoxyribonucleic acid; and
+41 (b) Blood group antigens, red cell antigens, human leukocyte antigens,
+42 serum enzymes, serum proteins, or red cell enzymes.
+2
+1 (4) (5) "Gestational agreement" means a contract under which a gesta-
+2 tional carrier agrees to become pregnant by means of assisted reproduction
+3 in order to give birth to a child who will be parented by an intended parent.
+4 (5) (6) "Gestational carrier" means an adult woman who:
+5 (a) Becomes pregnant or intends to become pregnant under the terms of a
+6 gestational agreement; or
+7 (b) Gives birth or intends to give birth to a child under the terms of a
+8 gestational agreement.
+9 (6) "Intended parent" means an individual who intends to be the parent
+10 of a child born under the terms of a gestational agreement.
+11 (a) There may be one (1) intended parent or two (2) intended parents un-
+12 der a gestational agreement.
+13 (b) Except where context otherwise requires, any provision of this
+14 chapter relating to an intended parent shall relate to both intended
+15 parents if there are two (2).
+16 (7) "Intended parents" means two (2) individuals who are married to
+17 each other in accordance with Idaho law who each contribute gametes and who
+18 enter into an enforceable gestational agreement with a gestational carrier
+19 pursuant to which they will be the legal parents of the child resulting from
+20 that assisted reproduction.
+21 (7) (8) "Order of parentage" means an order issued by a court or ad-
+22 ministrative body with authority to issue the order, which order identifies
+23 the legal parent or parents of a child born under the terms of a gestational
+24 agreement.
+25 SECTION 2. That Section 7-1604, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 7-1604. GESTATIONAL AGREEMENT. (1) Prior to assisted reproduction, a
+28 gestational carrier and an intended parent the intended parents shall en-
+29 ter into a written gestational agreement. If the gestational carrier is mar-
+30 ried, her spouse shall also be a party to the agreement. Neither the gesta-
+31 tional carrier nor her spouse may contribute gametes for use in assisted re-
+32 production under the gestational agreement.
+33 (2) The gestational agreement shall provide that the intended parents
+34 will be the parents of any child conceived through assisted reproduction and
+35 born under the terms of the agreement.
+36 (3) The gestational agreement shall include the following:
+37 (a) Acceptance by the intended parent of all rights and duties of a par-
+38 ent for any child conceived through assisted reproduction and born un-
+39 der the terms of the gestational agreement; An agreement between the in-
+40 tended parents and the gestational carrier that:
+41 (i) The gestational carrier has sole authority with respect to
+42 medical decision-making during the term of the pregnancy consis-
+43 tent with the rights of a pregnant woman carrying her own biologi-
+44 cal child;
+45 (ii) The intended parents agree to accept custody of and assume
+46 full parental rights and responsibilities for the child immedi-
+47 ately upon the child's birth, regardless of any impairment of the
+48 child; and
+3
+1 (iii) The intended parents will be recognized as the legal parents
+2 of the child;
+3 (b) Verification that:
+4 (i) All parties to the agreement are at least twenty-one (21)
+5 years of age;
+6 (ii) The gestational carrier is at least twenty-five (25) years of
+7 age but no more than thirty-five (35) years of age;
+8 (iii) The gestational carrier has undergone a physical and mental
+9 health evaluation to ensure that she does not have underlying risk
+10 factors that would increase the danger of pregnancy to herself or
+11 the child;
+12 (ii) (iv) The gestational carrier has given birth to a live child
+13 at least once before; and
+14 (v) The gestational carrier has, prior to executing the gesta-
+15 tional agreement, undergone at least two (2) counseling sessions,
+16 separated by at least thirty (30) days, with a licensed clinical
+17 social worker, licensed psychologist, licensed psychiatrist, or
+18 licensed counselor to discuss the proposed gestational agreement;
+19 (iii) (vi) The gestational carrier agrees to become pregnant by
+20 means of assisted reproduction, using the gametes of the intended
+21 parents, and to give birth to the resulting child; and
+22 (vii) The gestational carrier agrees to reasonable medical eval-
+23 uation and treatment during the term of the pregnancy, to adhere
+24 to reasonable medical instructions about prenatal health, and to
+25 execute medical records releases pertaining to the planned preg-
+26 nancy in favor of the intended parents; and
+27 (c) Relinquishment by the prospective gestational carrier, the
+28 prospective gestational carrier's spouse if she is married, and the
+29 prospective donor of a gamete for use in assisted reproduction, if such
+30 prospective donor is not an intended parent, of all rights and duties of
+31 a parent for any child conceived through assisted reproduction and born
+32 under the terms of the agreement.
+33 (4) A prospective gestational carrier may not be receiving public as-
+34 sistance as defined by section 56-201, Idaho Code.
+35 (5) A gestational agreement may not provide for payment of considera-
+36 tion but may provide for payment of expenses as set forth in section 7-1604A,
+37 Idaho Code.
+38 (6) A gestational agreement shall not limit the right of the gesta-
+39 tional carrier to make decisions to safeguard her health or that of an embryo
+40 or a fetus that she is carrying.
+41 (7) In matters relating to the gestational agreement, the gestational
+42 carrier and the intended parents shall have independent legal representa-
+43 tion.
+44 SECTION 3. That Chapter 16, Title 7, Idaho Code, be, and the same is
+45 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+46 ignated as Section 7-1604A, Idaho Code, and to read as follows:
+47 7-1604A. PAYMENT OF COMPENSATION PROHIBITED -- EXPENSES ALLOWED. The
+48 gestational carrier will receive no compensation other than:
+4
+1 (1) Actual medical expenses, including hospital, testing, nursing,
+2 midwifery, pharmaceutical, or other similar expenses incurred by the ges-
+3 tational carrier for prenatal care and those medical and hospital expenses
+4 incurred incident to the birth;
+5 (2) Actual expenses incurred for mental health counseling services
+6 provided to the gestational carrier prior to the birth and up to six (6)
+7 months after birth;
+8 (3) Actual lost wages of the gestational carrier not covered under a
+9 disability insurance policy when bed rest has been prescribed for the ges-
+10 tational carrier for some maternal or fetal complication of pregnancy and
+11 the gestational carrier, who is employed, is unable to work during the pre-
+12 scribed period of bed rest;
+13 (4) Actual court costs and attorney's fees incurred by the gestational
+14 carrier; and
+15 (5) Payment of any judicially sanctioned settlement or judgment ren-
+16 dered in favor of the gestational carrier or her heirs as a result of her
+17 death, loss of reproductive organs or capability, or any other health com-
+18 plication caused by the in utero embryo transfer, pregnancy, or resulting
+19 childbirth, miscarriage, or termination of pregnancy.
+20 SECTION 4. That Section 7-1605, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 7-1605. VALIDATION OF AGREEMENT. (1) A gestational agreement entered
+23 into under this chapter is enforceable only if it is validated pursuant to
+24 this section.
+25 (2) For a gestational agreement to be validated pursuant to this sec-
+26 tion, at least one (1) each party to the agreement must reside in Idaho and
+27 have so resided for at least six (6) months prior to entering into the gesta-
+28 tional agreement or have contacts with the state of Idaho sufficient to jus-
+29 tify jurisdiction in the opinion of an Idaho district court.
+30 (3) The parties seeking validation of a gestational agreement shall
+31 file a petition in an Idaho district court.
+32 (a) The petition shall be filed after entry of the agreement but no
+33 later than seven (7) days after the birth of a child under the terms of
+34 the agreement.
+35 (b) The gestational agreement shall be attached to the petition.
+36 (c) An independent board-certified physician in obstetrics and gyne-
+37 cology or in reproductive endocrinology who has medically treated the
+38 intended mother over a period of time such that the physician is compe-
+39 tent to reach medical conclusions about the intended mother's medical
+40 condition and shall submit a signed affidavit certifying that in utero
+41 embryo transfer with a gestational carrier is medically necessary to
+42 assist in reproduction. For purposes of this paragraph, "medically
+43 necessary" means that the intended mother has been diagnosed to be in-
+44 fertile or to have a physical condition such that a pregnancy would
+45 create serious risk of death or substantial and irreversible impairment
+46 of a major bodily function beyond the risk customary to pregnancy and
+47 child birth. The affidavit shall be filed with the petition.
+48 (4) Upon the filing of the petition and associated documents required
+49 pursuant to subsection (3) of this section, the court shall:
+5
+1 (a) Order and be entitled to the criminal history record and identifi-
+2 cation files of the Idaho state police bureau of criminal identifica-
+3 tion on each of the intended parents and the gestational carrier and her
+4 spouse, if she is married, as a means of performing background checks
+5 on those individuals. The bureau shall, upon request and after receipt
+6 of fingerprint cards and other identifying information from the court,
+7 make available to the court information contained in the bureau's crim-
+8 inal history record and identification files that pertains to each of
+9 the intended parents and the gestational carrier and her spouse, if she
+10 is married. In addition, in order to determine an applicant's suitabil-
+11 ity, the fingerprint cards shall be forwarded by the Idaho state police
+12 to the federal bureau of investigation for a national criminal history
+13 record check. The required fees for the criminal history record checks
+14 shall be borne by the parties to the agreement;
+15 (b) Order that the department of health and welfare conduct a records
+16 check for validated complaints of child abuse or neglect in this or any
+17 other state in which either of the intended parents and the gestational
+18 carrier and her spouse, if she is married, has been domiciled since
+19 adulthood; and
+20 (c) Order that the court administrator's office of the supreme court
+21 conduct a records check for protective orders issued by any Idaho court
+22 involving each of the intended parents and the gestational carrier and
+23 her spouse, if she is married.
+24 (5) Each order required pursuant to subsection (4) of this section
+25 shall state the full name, date of birth, social security number, and former
+26 and current state of domicile since adulthood for each subject of the check.
+27 The sheriff or the Idaho state police bureau of criminal identification, the
+28 department of health and welfare, and the court administrator's office of
+29 the supreme court shall accord priority to these orders and shall provide a
+30 certificate to the district court indicating all information discovered or
+31 that no information has been found.
+32 (4) (6) The district court may hold a hearing to determine the valid-
+33 ity of the agreement. The district court shall issue an order validating the
+34 agreement and declaring that the intended parent is parents are or will be
+35 the parents of any child born under the terms of the agreement upon finding
+36 that:
+37 (a) The gestational agreement satisfies the provisions of this chap-
+38 ter;
+39 (b) The requirements of this section have been satisfied and the re-
+40 ports of criminal records, validated complaints of child abuse or ne-
+41 glect, and protective order records show that there is no risk of harm to
+42 the child or the gestational carrier;
+43 (b) (c) The parties have voluntarily entered into the agreement and un-
+44 derstand its terms; and
+45 (c) (d) Adequate provision has been made for all reasonable health
+46 care applicable expenses associated with the gestational agreement
+47 set forth in section 7-1604A, Idaho Code, including responsibility for
+48 those expenses if the agreement is terminated; and.
+49 (d) The consideration provided for in the agreement, if any, is reason-
+50 able.
+6
+1 SECTION 5. That Section 7-1606, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 7-1606. TERMINATION OF AGREEMENT -- EFFECTS OF DIVORCE, ANNULMENT,
+4 AND MARRIAGE. (1) A party to a gestational agreement may terminate the agree-
+5 ment at any time prior to the gestational carrier becoming pregnant by means
+6 of assisted reproduction under the terms of the agreement. The terminating
+7 party must give written notice of termination to the other parties.
+8 (a) If the agreement has been validated pursuant to section 7-1605,
+9 Idaho Code, the terminating party shall file notice of termination with
+10 the district court, and the court shall vacate the order of validation.
+11 (b) Failure to provide the notice required by paragraph (a) of this sub-
+12 section shall be considered contempt of the authority of the court pur-
+13 suant to chapter 6, title 7, Idaho Code.
+14 (2) The district court for good cause shown may terminate a gestational
+15 agreement.
+16 (3) Neither a gestational carrier nor a gestational carrier's spouse
+17 shall be liable to any intended parent for terminating a gestational agree-
+18 ment.
+19 (4) A court order granting the divorce or annulment of a marriage be-
+20 tween the intended parents, if entered before the in utero embryo transfer,
+21 terminates the gestational agreement. Upon the filing of a motion notifying
+22 the court of the court order granting divorce or annulment, the court shall
+23 issue an order vacating the order of validation.
+24 (5) After the issuance of an order validating the gestational agree-
+25 ment, any subsequent marriage of the gestational carrier does not affect the
+26 validity of a gestational agreement. The consent of the spouse is not re-
+27 quired, and he is not a presumed father of the resulting child, notwithstand-
+28 ing any legal presumption to the contrary.
+29 SECTION 6. That Section 7-1607, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 7-1607. PARENTAGE UNDER A VALIDATED GESTATIONAL AGREEMENT. (1) This
+32 section shall apply in determining the parentage of a child born under the
+33 terms of a gestational agreement that has been validated pursuant to section
+34 7-1605, Idaho Code.
+35 (2) No later than fourteen (14) days after the birth of the child, the
+36 intended parents shall file notice of the birth with the district court that
+37 issued the validation order. The court shall then issue an order of parent-
+38 age confirming that the intended parent is the parent parents are the parents
+39 of the child and directing the state registrar of vital statistics to file a
+40 birth certificate naming the intended parents as the parents of the child.
+41 If necessary, the court shall further order that the child be surrendered to
+42 the intended parents. The order of parentage shall contain the following in-
+43 formation:
+44 (a) The child's full name;
+45 (b) The child's date of birth;
+46 (c) The child's place of birth;
+47 (d) The gestational carrier's full name;
+7
+1 (e) The full name of the gestational carrier's spouse, if the gesta-
+2 tional carrier is married; and
+3 (f) The full name of each intended parent.
+4 (3) If the intended parent fails parents fail to file notice as required
+5 under pursuant to subsection (2) of this section, the gestational carrier
+6 or the department of health and welfare may file such notice, and the court
+7 shall order that the intended parent is the parent parents are the parents of
+8 the child and financially responsible for the child.
+9 (4) Failure to file notice required by this section shall be considered
+10 contempt of the authority of the court pursuant to chapter 6, title 7, Idaho
+11 Code.
+12 SECTION 7. That Chapter 16, Title 7, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 7-1613, Idaho Code, and to read as follows:
+15 7-1613. GESTATIONAL CARRIER DATA COLLECTION. (1) The purpose of this
+16 section shall be the compilation of relevant maternal life and health fac-
+17 tors and data concerning gestational carriers to the extent that it is autho-
+18 rized by law.
+19 (2) The state registrar of vital statistics shall prescribe forms for
+20 the collection of information and statistics with respect to enforceable
+21 gestational agreements. Such forms shall include but not be limited to the
+22 following information:
+23 (a) The age, marital status, and state and county of domicile of the
+24 gestational carrier;
+25 (b) The county in which the in utero embryo transfer took place;
+26 (c) The full name and address of the physician or physicians performing
+27 or attending to the following phases of the gestational carrier:
+28 (i) In utero embryo transfer;
+29 (ii) Prenatal and postnatal care;
+30 (iii) Birth;
+31 (iv) Miscarriage; and
+32 (v) Induced abortion;
+33 (d) The length and weight of the child born to the gestational carrier;
+34 (e) The age, marital status, and state and county of domicile of the in-
+35 tended parents;
+36 (f) The medical reason necessitating the gestational carrier;
+37 (g) The medical procedures employed in the birth, miscarriage, or ter-
+38 mination of pregnancy for medical emergency;
+39 (h) The length and weight of an unborn child miscarried by the gesta-
+40 tional carrier;
+41 (i) Other significant conditions or health complications of the unborn
+42 child and gestational carrier; and
+43 (j) The results of pathological examinations of any unborn child who
+44 died as a result of pregnancy complications or pregnancy termination of
+45 a gestational carrier.
+46 (3) The physician performing the in utero embryo transfer or termina-
+47 tion of the pregnancy by birth, miscarriage, or abortion shall provide the
+48 information required by the provisions of this section.
+8
+1 (4) Such completed forms shall be transmitted by the physician to the
+2 vital records registry within fifteen (15) days of the performance of the
+3 medical procedures.
+4 (5) The department of health and welfare shall promulgate by rule, sub-
+5 ject to legislative approval, the penalty for the failure to complete the
+6 forms required pursuant to subsection (2) of this section.
+7 (6) The vital statistics records required by this section and the
+8 identities of the parties to a gestational agreement shall be confidential
+9 and shall not be subject to disclosure, release, or inspection except upon
+10 application to a competent court and in conformity with the applicable re-
+11 quirements of confidentiality applicable to adoptions. The reporting of the
+12 data for public health purposes shall redact any identifying information as
+13 provided in section 74-106, Idaho Code.
+14 SECTION 8. That Section 39-255A, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 39-255A. REGISTRATION OF BIRTHS TO GESTATIONAL CARRIERS. (1) Subject
+17 to the requirements set forth in section 39-255, Idaho Code, a certificate
+18 of live birth shall be filed with the bureau of vital records and health sta-
+19 tistics by the certifier with parentage as determined by the final court or-
+20 der of parentage issued pursuant to the provisions of chapter 16, title 7,
+21 Idaho Code. The birth record shall include all the facts of birth, includ-
+22 ing the gestational carrier's demographic, medical, and health information.
+23 No certificate shall be deemed complete until every item of information re-
+24 quired has been provided or its omission satisfactorily accounted for.
+25 (2) Upon receipt by the bureau of the complete certificate of live birth
+26 from the certifier and the certified copy of the order of parentage, the bu-
+27 reau of vital records and health statistics shall accept the record for per-
+28 manent filing. The birth certificate shall make no reference to the ges-
+29 tational carrier. The facts of birth as relating to the gestational car-
+30 rier set forth in section 7-1613, Idaho Code, shall be filed with and remain
+31 part of the records of the bureau of vital records and health statistics in a
+32 sealed file with a certified copy of the order of parentage.
+33 (3) In the absence of an order of parentage, the birth certificate shall
+34 be filed listing the gestational carrier as the mother of the child. The ges-
+35 tational carrier's information may not be removed, and an intended parent's
+36 information may not be listed on the birth certificate except:
+37 (a) According to the provisions of section 39-255(e), Idaho Code, to
+38 add a biological father; or
+39 (b) Upon receipt of a certified copy of an order of parentage and a cer-
+40 tified report of gestational birth. The report form will be prescribed
+41 and furnished by the state registrar. Copies of birth certificates
+42 showing the gestational carrier as the mother of the child shall not be
+43 issued except upon order of an Idaho court.
+44 (4) Information necessary to prepare the report of gestational birth
+45 shall be furnished by the attending physician and the intended parent or
+46 parents or the attorney for the intended parent or parents. The order of
+47 parentage and the report of gestational birth shall contain all known facts
+48 of birth and the identity of the intended parent or parents.
+9
+1 (5) Upon receipt by the bureau of the certified report of gestational
+2 birth and the certified order of parentage, a new certificate of birth shall
+3 be established bearing the full name of the child born and the identity of
+4 the intended parent or parents. The new birth certificate shall make no ref-
+5 erence to the gestational carrier and shall not be marked as amended. The
+6 new birth certificate shall supplant and constitute replacement of any birth
+7 certificate for the child previously filed with the bureau of vital records
+8 and health statistics and shall be the only birth certificate subject to is-
+9 suance. The certified report of gestational birth and certified order of
+10 parentage shall be filed with and remain part of the records of the bureau of
+11 vital records and health statistics in a sealed file with the original cer-
+12 tificate.
+13 (6) In respect to form and nature of contents, the new birth certificate
+14 shall be identical to the birth certificate originally filed with the bureau
+15 of vital records and health statistics, except that the intended parent or
+16 parents shall be entered on the certificate as shown in the report of gesta-
+17 tional birth. The child's name shall remain as shown on the original birth
+18 certificate unless the order of parentage specifically states how the bureau
+19 of vital records and health statistics should list the child's name on the
+20 birth certificate.
+21 (7) An order of parentage may be amended only to correct a clerical er-
+22 ror.
+23 (8) All records and information specified in this section, other than a
+24 birth certificate issued pursuant to this section, and all records, files,
+25 and information of any court in this state relating to gestational birth and
+26 parentage proceedings shall not be open to inspection except on order of a
+27 court of record of this state; provided, however, that any Idaho magistrate
+28 judge may furnish a certified copy of an order of parentage to any duly autho-
+29 rized agency of the United States or the state of Idaho without procuring any
+30 prior court order.
+31 SECTION 9. That Section 39-260A, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 39-260A. REGISTRATION OF STILLBIRTHS TO A GESTATIONAL CARRIER. If a
+34 stillbirth occurs and the stillborn child was delivered under the terms of a
+35 gestational agreement entered and validated pursuant to chapter 16, title 7,
+36 Idaho Code, then a certificate of stillbirth shall be filed with the bureau
+37 of vital records and health statistics according to the provisions of sec-
+38 tion 39-260(4) and (5), Idaho Code. The certificate shall show the name of
+39 the gestational carrier and shall note her status as a gestational carrier.
+40 No certificate shall be deemed completed until every item of information re-
+41 quired pursuant to section 7-1613, Idaho Code, has been provided or its omis-
+42 sion satisfactorily accounted for.
+43 SECTION 10. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after
+45 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YSNAGTOGLCRA;AGSN7OC,TOREDSADTODET;AGSN7,IOC,TOREPSRGG;AGCR1,TE7,IOC,BYTEAFANWSN7,IOC,TOPTCNADTHPSRGAEE;AGS,IOC,TOREPSRGCTOSVGGLA;AGSN7,IOC,TEPSRGTNOFGLASAOEHPSRGTEESOFD,ADM;AGSN7,IOC,TOREPGTEDNOFPEURAVDG;AGCR1,TE7,IOC,BYTEAFANWSN7,IOC,TOEHPSRGGLCRDAC;AGSN3OC,TOREPSRGRNOFBSTLC;AGSN3,IOC,TORSRGRNOFSSTOGLC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.D.Asudintsc)"dr"mstelyadmlpsudbyamlplinwhhngsaeudoebyfrrep)""msaptofm,o,s,orageehgmyv.Cnslntiertfrale,aspdfrinsn1,IoC,teglcrorptfrgsorssidbyteidpsasartoftepyadttwdnthebnidbtfrtep)()""msamemeorfegmcluypgahdcestadceofigfnofandilbyfnwhageofteoes)()"ct"msanasofgcmstoeeoriyapnasteptofac,iganasoe()oracnoftef)Dca;a)Bdgpa,rdcla,hnleame,smp,orrdcle]
+[DELETED: )()"la"msacturwhaglcrastobeptbymsofadrnortogebhtoacdwowlbepdbyanidp)()"lc"msanatwnw)Bsptoristobepturtetsofla;o)Gsbhoristogebhtoacdurtetsofla)"dp"msanilwoistobetepfacdbnurtetsofagla)Temybeoe()idptorto()idpsuragla)Etwectoer,aypnoftrrgtoanidptslretobhisifteaeto()"dp"msto()iswoaemdthorinaewhIolwwoehcegsadwrioaneeglatwhaglcttowhtywlbetellpsoftecdrgftadr)()"rofp"msanoridbyactoraebywhaytoieteo,whoriellptorpsofacdbnurtetsofagN2.TtSn7,IoC,b,adteseishdtordasf.GLA.()Prtoadr,lcradanidptteidpsslerioawngla.Ifteglcrism,hrseslaobeapytotea.Nrteglcrnrhrsemycegsfrueinadrnurtegla)Teglatslpettteidplbetepsofaycdcdthadrnanurtetsoftea)Teglatslietef)Aebyteidptofalrsaddsofaptfraycdcdthadrnadbnurtetsoftegla;Anatbnteidpsadteglcrt)Teglcrhsseaywhrttldgdgtetmoftepyctwhtersofaptwncghronblc)Teidpsaetoatcyofadalplrsadrsfrtecdiyuntecsb,rsofayitoft;a]
+[DELETED: )Teidpswlberdastellpftec)Vnt)Alpstoteataeatltte(sofa)Teglcrisatltte()ysoebtnometnte()ysofa)Teglcrhsueapladmhentoeettsedsntheugrsttwdietedrofpytohfoec)()Teglcrhsgnbhtoalectltoeb;a)Teglcrh,prtoegtegla,ueatltto()cgsdbyatltty()d,whaldclw,ldp,ldp,odcrtodstepdgla)()Teglcrastobeptbsofadr,ugtegsoftei,adtogebhtotergc;a)Teglcrastoremlenadttdgtetmoftep,toaoremlisatplh,adtemlrsrspgtotepdpyinfrofteidp;a)Rtbytepeglc,teglcsseifseism,adtedrofagefrueinadr,ifsedrisntanidp,ofalrsaddsoptfraycdcdthadrnadbrtetsoftea)Apeglcrmyntbergpcaeasddbysn5,IoC)Aglatmyntpefrptofcnbtmypefrptofesasstfhinsn7oC)Aglatslntlttertofteglcrtomedstosdhrhhorttofanerafsttseisc)Inmsrgtotegla,tegradteidpsslheitllrN3.TtCr1,Te7,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn7,IoC,adtordasf.PTOFCNPD--ESA.Tlcrwlrenocnort]
+[DELETED: )Almle,igh,t,n,p,ororsresidbyteglcrfrplceadtemladhledittoteb)Alesidfrmlhhcgsdtoteglcrprtotebhaduptosx(sarb)Alltwsofteglcrntcduryiepywnbdrthsbnpdfrteglcrfrsemlorflcnofpyaeglc,woise,isuetowkdgtepdpdofbdr)Alctcsadasfsidbyteg;a)Ptofayjysdstorjtrdinfrofteglcrorhrhsasartofh,lsofreosorc,orayorhhcncdbyteinuoeot,p,orr,m,ortnofpN4.TtSn7,IoC,b,adteseishdtordasf.VNOFA.()Aglateourtscriseeoyifitisvdpttss)Fraglattobevdpttotss,atltoe()ehpytoteatmtreinIoaesordfratltsx()msprtoegioteglatorhecswhteseofIosttojyjninteonofanIodtc)TepssgvnofaglatseapninanIodtc)Tepnslbefdareyofteatbtnrtnsn()dsartebhofacdurtetsoea)Teglatslbeadtotep)Anitbdpninosadgyorinreeywohsmytdtdmrorapdofteshtttepniscttorhmlcsatteidmsmnadslstasdatcgttinuotrwhaglcrismynyttinr.Frpsoftsp,""msttteidmrhsbnddtobeieortoheaplcnshttapywessrkofdhorsladieifamrbyfnbdterkcytopyadb.Teatslbefdwhtep)Untefgoftepnadaddsrttosn()oftss,tects]
+[DELETED: )OradbeedtoteclhyrdadinfsofteIosepebuofclinonehofteidpsadteglcradh,ifseism,asamsofpgbdcntei.Tebus,unrtadarrfftcsadoriginfmteceaetotectincdintebsclhyrdadinfsttpstoehoeidpsadteglcradhrs,ifssm.Ina,inortodeanass,teftcsslbefdbyteIosepoteflbuofinfranlclhdc.Terdfsfrteclhyrdclbebebytepstotea)Ortttedtofhhadwectarkfrvdcsofcdaeorntintsorarseinwherofteidpsadtegradhrs,ifseism,hsbndds;a)OrtttectasoeoftesectarsckfrpeosidbyayIocgehofteidpsadteglcrars,ifseism)Ehorrdpttosn()oftsslsetefln,deofb,slsyn,adfdctseofdeseadfrehstoftecesforteIosepebuofcli,ttofhhadw,adtectasoeoesectsladpytoteosadslpeetotedtctigalinddotnoinhsbnf)()Tedtctmyhdahgtodetevyoftea.Tedtctslieanorvgttaddgttteidptispsaeorwlbepsofaycdbnurtetsofteatunf)Teglatsstepsoftsc)Tersoftssnhebnsdadtersofclr,vdcsofcdaeorn,adpeorrsswttteisnorkofhmtecdorteglc)()Tepshevyedioteatadudist;a)()Aepnhsbnmefralreheaeesadwhteglatfhinsn7,IoC,igryfeesifteatist;a)Tecnpdfrintea,ifa,isr]
+[DELETED: N5.TtSn7,IoC,b,adteseishdtordasf.TNOFAT--ESOFD,ADM.()Apytoaglatmyteteatatayteprtoteglcrbgptbymfadrnurtetsoftea.Tetymtgewnneoftntoteorp)Ifteathsbnvdpttosn7oC,tetgpyslfeneoftnwedtc,adtectslveteorofv)Fetopetenerdbyph()oftssnslbecdctofteayoftectpttocr6,te7,IoC)Tedtctfrgdcesnmyteag)Nraglcrnraglcsslbeletoayidptfrtgagla)Actorggtedeoratofamebnteidp,ifedbeteinuoeotstegla.Untefgofamnnectoftectorggdeora,tectseanorvgteorofv)Arteieofanorvgtegla,aystmeofteglcrdsntattyofagla.Tectofteseisntr,adheisntapdfroftergc,ngayllpntotecN6.TtSn7,IoC,b,adteseishdtordasf.PEURAVDGLA.()Tnslayindgtepeofacdbnurtsofaglattthsbnvdpttos,IoC)Nolrtnfn()dsartebhoftec,tdpsslfeneoftebhwhtedtcttdtevno.Tectsltnieanorofpecgttteidptisteptpsaetepftecdaddgteserrofvlsstofehcengteidpsastepsoftecfn,tectslfrortttecdbesdteidp.Teorofpeslcntefgi)Tecsfln)Tecsdeofb)Tecspeofb)Teglcsfln]
+[DELETED: )Teflneofteglcss,ifteglcrism;a)Teflneofehidp)Ifteidptfspsfltofeneasrrpttosn()oftss,teglcrtedtofhhadwemyfeshn,adteclorttteidptisteptpsaetepsoecdadfyrefrtec)Fetofenerdbytssnslbectofteayoftectpttocr6,te7,IN7.TtCr1,Te7,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn7,IoC,adtordasf.GLCRDAC.()Tepeoftnslbetecnofrtmlleadhhfsaddacgglcstoteetttitisadbyl)Teserrofvlssslpefsfecnofinadsswhrttoela.Shfssliebtntbeldtotgi)Tea,mls,adseadcyofdeoftlc)Tecyinwhteinuoeotrtkp)Teflneadasoftepnorpspragtotefgpsofteglc)Inuoeot)Pladplc)B)M;a)Ida)Telhadwtoftecdbntoteglc)Tea,mls,adseadcyofdeofteidp)Temlrnngteglc)Temlpsedinteb,m,ortnofpyfrmle)Telhadwtofanuncdmdbyteglc)Orstcsorhhcsofteudadglc;a)Tersofplesofayuncdwdasartofpycsorpytnoglc)Tepnpgteinuoeotrortnoftepybyb,m,oranslpetnrdbytepsoftss]
+[DELETED: )Shcdfsslbetdbytepntotlrsrywnfn()dsoftepeoftlp)Tedtofhhadweslpebyr,sttolea,tepyfrtefetocetsrdpttosn()oftss)Tevlssrsrdbytssnadtsoftepstoaglatslbecdslntbesttod,r,orinetuntoactctadincywhteaersofcyaetoa.Tergoftafrpchhpsslrtayiginadinsn7,IoCN8.TtSn3,IoC,b,adteseishdtordasf.RNOFBSTOGLC.()Sotersstfhinsn3,IoC,acflebhslbefdwhtebuofvlrsadhhssbytecrwhpeasddbyteflctorofpeidpttotepsofcr1,te7oC.Tebhrdsliealtefsofb,igteglcsd,m,adhhioceslbeddceuleyimofinrdhsbnpdorisonsyadf)Unrtbytebuoftececeoflebmtecradtecdcyofteorofp,tebuofvlrsadhhssslatterdfrptf.Tebhceslmenoretoteglc.Tefsofbhasrgtoteglcrstfhinsn7,IoC,slbefdwhadrtoftersoftebuofvlrsadhhssindfewhacdcyofteorofp)Inteaeofanorofp,tebhcesefdlgteglcrastemroftec.Teglcsinmyntber,adanidpnmyntbeldontebhcee)Agtotepsofsn3,IoC,tdablf;o)Unrtofacdcyofanorofpeadacdrtofglb.Tertfmwlbepdfdbyteser.CsofbhcgteglcrastemroftecdslntbdetunorofanIoc)Innytopetertofglblbefdbyteagpnadteidptosorteayfrteidptorp.Teoroeadtertofglbhslcnalknffbhadteiyofteidptorp]
+[DELETED: )Unrtbytebuoftecdrtofghadtecdorofp,anwceofbhseedbgteflneoftecdbnadteiyoeidptorp.Tenwbhceslmenoretoteglcradslntbemdasa.Twbhceslstadcertofaybefrtecdpyfdwhtebuofvlrdhhssadslbeteoybhcesttoi.Tecdrtofglbhadcdoroeslbefdwhadrnptoftersoftebuolrsadhhssinasdfewhteolc)Inrttofmadneofc,tenwbhclbeiltotebhceoyfdwhtebfvlrsadhhs,etttteidptosslbeedonteceassnintertofglb.Tecsneslrnassnonteolbeusteorofpesysshwtebfvlrsadhhsssdlttecsneonthc)Anorofpemybeadoytoctacle)Alrsadinsdintss,ortnhceidpttotss,adalr,fdinofayctintssergtoglbhaepsslntbeontoinetonoroftofrdoftss;p,h,ttayIomemyfhacdcyofanorofpetoaydyadayofteUdSsorteseofIowtpgarctoN9.TtSn3,IoC,b,adteseishdtordasf.RNOFSSTOAGLC.Ifhosadtesncdwsddurtetsoflatedadvdpttocr1,te7oC,tnaceofshslbefdwhtebfvlrsadhhssagtotepsofsn3)ad(,IoC.Teceslswteneoeglcradslnehrssasaglcoceslbeddcduleyimofinrdpttosn7,IoC,hsbnpdorisonsyadfN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 433
+BY SCOTT
+1 AN ACT
+2 RELATING TO GESTATIONAL CARRIER AGREEMENTS; AMENDING SECTION 7-1603,
+3 IDAHO CODE, TO REVISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SEC-
+4 TION 7-1604, IDAHO CODE, TO REVISE PROVISIONS REGARDING GESTATIONAL
+5 AGREEMENTS; AMENDING CHAPTER 16, TITLE 7, IDAHO CODE, BY THE ADDITION
+6 OF A NEW SECTION 7-1604A, IDAHO CODE, TO PROHIBIT COMPENSATION AND TO
+7 ESTABLISH PROVISIONS REGARDING ALLOWABLE EXPENSES; AMENDING SECTION
+8 7-1605, IDAHO CODE, TO REVISE PROVISIONS REGARDING COURT ORDERS VALI-
+9 DATING GESTATIONAL AGREEMENTS; AMENDING SECTION 7-1606, IDAHO CODE, TO
+10 REVISE PROVISIONS REGARDING TERMINATION OF GESTATIONAL AGREEMENTS AND
+11 TO ESTABLISH PROVISIONS REGARDING THE EFFECTS OF DIVORCE, ANNULMENT,
+12 AND MARRIAGE; AMENDING SECTION 7-1607, IDAHO CODE, TO REVISE PROVISIONS
+13 REGARDING THE DETERMINATION OF PARENTAGE UNDER A VALIDATED GESTATIONAL
+14 AGREEMENT; AMENDING CHAPTER 16, TITLE 7, IDAHO CODE, BY THE ADDITION
+15 OF A NEW SECTION 7-1613, IDAHO CODE, TO ESTABLISH PROVISIONS REGARD-
+16 ING GESTATIONAL CARRIER DATA COLLECTION; AMENDING SECTION 39-255A,
+17 IDAHO CODE, TO REVISE PROVISIONS REGARDING REGISTRATION OF BIRTHS TO
+18 GESTATIONAL CARRIERS; AMENDING SECTION 39-260A, IDAHO CODE, TO REVISE
+19 PROVISIONS REGARDING REGISTRATION OF STILLBIRTHS TO GESTATIONAL CARRI-
+20 ERS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+21 Be It Enacted by the Legislature of the State of Idaho:
+22 SECTION 1. That Section 7-1603, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 7-1603. DEFINITIONS. As used in this chapter:
+25 (1) "Assisted reproduction" means the laboratory and medical proce-
+26 dures used by a medical professional in which human gametes are used outside
+27 the body for reproductive purposes.
+28 (2) "Compensation" means a payment of money, objects, services, or any-
+29 thing else having monetary value. Compensation shall not include reimburse-
+30 ment for actual expenses, as provided for in section 18-1511, Idaho Code, to
+31 the gestational carrier or payment for goods or services incurred by the in-
+32 tended parents as a result of the pregnancy and that would not have been in-
+33 curred but for the pregnancy.
+34 (2) (3) "Gamete" means a mature male or female germ cell usually pos-
+35 sessing a haploid chromosome set and capable of initiating formation of a new
+36 diploid individual by fusion with a gamete of the opposite sex.
+37 (3) (4) "Genetic testing" means an analysis of genetic markers to ex-
+38 clude or identify a person as the parent of a child, including an analysis of
+39 one (1) or a combination of the following:
+40 (a) Deoxyribonucleic acid; and
+41 (b) Blood group antigens, red cell antigens, human leukocyte antigens,
+42 serum enzymes, serum proteins, or red cell enzymes.
+
+2
+1 (4) (5) "Gestational agreement" means a contract under which a gesta-
+2 tional carrier agrees to become pregnant by means of assisted reproduction
+3 in order to give birth to a child who will be parented by an intended parent.
+4 (5) (6) "Gestational carrier" means an adult woman who:
+5 (a) Becomes pregnant or intends to become pregnant under the terms of a
+6 gestational agreement; or
+7 (b) Gives birth or intends to give birth to a child under the terms of a
+8 gestational agreement.
+9 (6) "Intended parent" means an individual who intends to be the parent
+10 of a child born under the terms of a gestational agreement.
+11 (a) There may be one (1) intended parent or two (2) intended parents un-
+12 der a gestational agreement.
+13 (b) Except where context otherwise requires, any provision of this
+14 chapter relating to an intended parent shall relate to both intended
+15 parents if there are two (2).
+16 (7) "Intended parents" means two (2) individuals who are married to
+17 each other in accordance with Idaho law who each contribute gametes and who
+18 enter into an enforceable gestational agreement with a gestational carrier
+19 pursuant to which they will be the legal parents of the child resulting from
+20 that assisted reproduction.
+21 (7) (8) "Order of parentage" means an order issued by a court or ad-
+22 ministrative body with authority to issue the order, which order identifies
+23 the legal parent or parents of a child born under the terms of a gestational
+24 agreement.
+25 SECTION 2. That Section 7-1604, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 7-1604. GESTATIONAL AGREEMENT. (1) Prior to assisted reproduction, a
+28 gestational carrier and an intended parent the intended parents shall en-
+29 ter into a written gestational agreement. If the gestational carrier is mar-
+30 ried, her spouse shall also be a party to the agreement. Neither the gesta-
+31 tional carrier nor her spouse may contribute gametes for use in assisted re-
+32 production under the gestational agreement.
+33 (2) The gestational agreement shall provide that the intended parents
+34 will be the parents of any child conceived through assisted reproduction and
+35 born under the terms of the agreement.
+36 (3) The gestational agreement shall include the following:
+37 (a) Acceptance by the intended parent of all rights and duties of a par-
+38 ent for any child conceived through assisted reproduction and born un-
+39 der the terms of the gestational agreement; An agreement between the in-
+40 tended parents and the gestational carrier that:
+41 (i) The gestational carrier has sole authority with respect to
+42 medical decision-making during the term of the pregnancy consis-
+43 tent with the rights of a pregnant woman carrying her own biologi-
+44 cal child;
+45 (ii) The intended parents agree to accept custody of and assume
+46 full parental rights and responsibilities for the child immedi-
+47 ately upon the child's birth, regardless of any impairment of the
+48 child; and
+
+3
+1 (iii) The intended parents will be recognized as the legal parents
+2 of the child;
+3 (b) Verification that:
+4 (i) All parties to the agreement are at least twenty-one (21)
+5 years of age;
+6 (ii) The gestational carrier is at least twenty-five (25) years of
+7 age but no more than thirty-five (35) years of age;
+8 (iii) The gestational carrier has undergone a physical and mental
+9 health evaluation to ensure that she does not have underlying risk
+10 factors that would increase the danger of pregnancy to herself or
+11 the child;
+12 (ii) (iv) The gestational carrier has given birth to a live child
+13 at least once before; and
+14 (v) The gestational carrier has, prior to executing the gesta-
+15 tional agreement, undergone at least two (2) counseling sessions,
+16 separated by at least thirty (30) days, with a licensed clinical
+17 social worker, licensed psychologist, licensed psychiatrist, or
+18 licensed counselor to discuss the proposed gestational agreement;
+19 (iii) (vi) The gestational carrier agrees to become pregnant by
+20 means of assisted reproduction, using the gametes of the intended
+21 parents, and to give birth to the resulting child; and
+22 (vii) The gestational carrier agrees to reasonable medical eval-
+23 uation and treatment during the term of the pregnancy, to adhere
+24 to reasonable medical instructions about prenatal health, and to
+25 execute medical records releases pertaining to the planned preg-
+26 nancy in favor of the intended parents; and
+27 (c) Relinquishment by the prospective gestational carrier, the
+28 prospective gestational carrier's spouse if she is married, and the
+29 prospective donor of a gamete for use in assisted reproduction, if such
+30 prospective donor is not an intended parent, of all rights and duties of
+31 a parent for any child conceived through assisted reproduction and born
+32 under the terms of the agreement.
+33 (4) A prospective gestational carrier may not be receiving public as-
+34 sistance as defined by section 56-201, Idaho Code.
+35 (5) A gestational agreement may not provide for payment of considera-
+36 tion but may provide for payment of expenses as set forth in section 7-1604A,
+37 Idaho Code.
+38 (6) A gestational agreement shall not limit the right of the gesta-
+39 tional carrier to make decisions to safeguard her health or that of an embryo
+40 or a fetus that she is carrying.
+41 (7) In matters relating to the gestational agreement, the gestational
+42 carrier and the intended parents shall have independent legal representa-
+43 tion.
+44 SECTION 3. That Chapter 16, Title 7, Idaho Code, be, and the same is
+45 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+46 ignated as Section 7-1604A, Idaho Code, and to read as follows:
+47 7-1604A. PAYMENT OF COMPENSATION PROHIBITED -- EXPENSES ALLOWED. The
+48 gestational carrier will receive no compensation other than:
+
+4
+1 (1) Actual medical expenses, including hospital, testing, nursing,
+2 midwifery, pharmaceutical, or other similar expenses incurred by the ges-
+3 tational carrier for prenatal care and those medical and hospital expenses
+4 incurred incident to the birth;
+5 (2) Actual expenses incurred for mental health counseling services
+6 provided to the gestational carrier prior to the birth and up to six (6)
+7 months after birth;
+8 (3) Actual lost wages of the gestational carrier not covered under a
+9 disability insurance policy when bed rest has been prescribed for the ges-
+10 tational carrier for some maternal or fetal complication of pregnancy and
+11 the gestational carrier, who is employed, is unable to work during the pre-
+12 scribed period of bed rest;
+13 (4) Actual court costs and attorney's fees incurred by the gestational
+14 carrier; and
+15 (5) Payment of any judicially sanctioned settlement or judgment ren-
+16 dered in favor of the gestational carrier or her heirs as a result of her
+17 death, loss of reproductive organs or capability, or any other health com-
+18 plication caused by the in utero embryo transfer, pregnancy, or resulting
+19 childbirth, miscarriage, or termination of pregnancy.
+20 SECTION 4. That Section 7-1605, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 7-1605. VALIDATION OF AGREEMENT. (1) A gestational agreement entered
+23 into under this chapter is enforceable only if it is validated pursuant to
+24 this section.
+25 (2) For a gestational agreement to be validated pursuant to this sec-
+26 tion, at least one (1) each party to the agreement must reside in Idaho and
+27 have so resided for at least six (6) months prior to entering into the gesta-
+28 tional agreement or have contacts with the state of Idaho sufficient to jus-
+29 tify jurisdiction in the opinion of an Idaho district court.
+30 (3) The parties seeking validation of a gestational agreement shall
+31 file a petition in an Idaho district court.
+32 (a) The petition shall be filed after entry of the agreement but no
+33 later than seven (7) days after the birth of a child under the terms of
+34 the agreement.
+35 (b) The gestational agreement shall be attached to the petition.
+36 (c) An independent board-certified physician in obstetrics and gyne-
+37 cology or in reproductive endocrinology who has medically treated the
+38 intended mother over a period of time such that the physician is compe-
+39 tent to reach medical conclusions about the intended mother's medical
+40 condition and shall submit a signed affidavit certifying that in utero
+41 embryo transfer with a gestational carrier is medically necessary to
+42 assist in reproduction. For purposes of this paragraph, "medically
+43 necessary" means that the intended mother has been diagnosed to be in-
+44 fertile or to have a physical condition such that a pregnancy would
+45 create serious risk of death or substantial and irreversible impairment
+46 of a major bodily function beyond the risk customary to pregnancy and
+47 child birth. The affidavit shall be filed with the petition.
+48 (4) Upon the filing of the petition and associated documents required
+49 pursuant to subsection (3) of this section, the court shall:
+
+5
+1 (a) Order and be entitled to the criminal history record and identifi-
+2 cation files of the Idaho state police bureau of criminal identifica-
+3 tion on each of the intended parents and the gestational carrier and her
+4 spouse, if she is married, as a means of performing background checks
+5 on those individuals. The bureau shall, upon request and after receipt
+6 of fingerprint cards and other identifying information from the court,
+7 make available to the court information contained in the bureau's crim-
+8 inal history record and identification files that pertains to each of
+9 the intended parents and the gestational carrier and her spouse, if she
+10 is married. In addition, in order to determine an applicant's suitabil-
+11 ity, the fingerprint cards shall be forwarded by the Idaho state police
+12 to the federal bureau of investigation for a national criminal history
+13 record check. The required fees for the criminal history record checks
+14 shall be borne by the parties to the agreement;
+15 (b) Order that the department of health and welfare conduct a records
+16 check for validated complaints of child abuse or neglect in this or any
+17 other state in which either of the intended parents and the gestational
+18 carrier and her spouse, if she is married, has been domiciled since
+19 adulthood; and
+20 (c) Order that the court administrator's office of the supreme court
+21 conduct a records check for protective orders issued by any Idaho court
+22 involving each of the intended parents and the gestational carrier and
+23 her spouse, if she is married.
+24 (5) Each order required pursuant to subsection (4) of this section
+25 shall state the full name, date of birth, social security number, and former
+26 and current state of domicile since adulthood for each subject of the check.
+27 The sheriff or the Idaho state police bureau of criminal identification, the
+28 department of health and welfare, and the court administrator's office of
+29 the supreme court shall accord priority to these orders and shall provide a
+30 certificate to the district court indicating all information discovered or
+31 that no information has been found.
+32 (4) (6) The district court may hold a hearing to determine the valid-
+33 ity of the agreement. The district court shall issue an order validating the
+34 agreement and declaring that the intended parent is parents are or will be
+35 the parents of any child born under the terms of the agreement upon finding
+36 that:
+37 (a) The gestational agreement satisfies the provisions of this chap-
+38 ter;
+39 (b) The requirements of this section have been satisfied and the re-
+40 ports of criminal records, validated complaints of child abuse or ne-
+41 glect, and protective order records show that there is no risk of harm to
+42 the child or the gestational carrier;
+43 (b) (c) The parties have voluntarily entered into the agreement and un-
+44 derstand its terms; and
+45 (c) (d) Adequate provision has been made for all reasonable health
+46 care applicable expenses associated with the gestational agreement
+47 set forth in section 7-1604A, Idaho Code, including responsibility for
+48 those expenses if the agreement is terminated; and.
+49 (d) The consideration provided for in the agreement, if any, is reason-
+50 able.
+
+6
+1 SECTION 5. That Section 7-1606, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 7-1606. TERMINATION OF AGREEMENT -- EFFECTS OF DIVORCE, ANNULMENT,
+4 AND MARRIAGE. (1) A party to a gestational agreement may terminate the agree-
+5 ment at any time prior to the gestational carrier becoming pregnant by means
+6 of assisted reproduction under the terms of the agreement. The terminating
+7 party must give written notice of termination to the other parties.
+8 (a) If the agreement has been validated pursuant to section 7-1605,
+9 Idaho Code, the terminating party shall file notice of termination with
+10 the district court, and the court shall vacate the order of validation.
+11 (b) Failure to provide the notice required by paragraph (a) of this sub-
+12 section shall be considered contempt of the authority of the court pur-
+13 suant to chapter 6, title 7, Idaho Code.
+14 (2) The district court for good cause shown may terminate a gestational
+15 agreement.
+16 (3) Neither a gestational carrier nor a gestational carrier's spouse
+17 shall be liable to any intended parent for terminating a gestational agree-
+18 ment.
+19 (4) A court order granting the divorce or annulment of a marriage be-
+20 tween the intended parents, if entered before the in utero embryo transfer,
+21 terminates the gestational agreement. Upon the filing of a motion notifying
+22 the court of the court order granting divorce or annulment, the court shall
+23 issue an order vacating the order of validation.
+24 (5) After the issuance of an order validating the gestational agree-
+25 ment, any subsequent marriage of the gestational carrier does not affect the
+26 validity of a gestational agreement. The consent of the spouse is not re-
+27 quired, and he is not a presumed father of the resulting child, notwithstand-
+28 ing any legal presumption to the contrary.
+29 SECTION 6. That Section 7-1607, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 7-1607. PARENTAGE UNDER A VALIDATED GESTATIONAL AGREEMENT. (1) This
+32 section shall apply in determining the parentage of a child born under the
+33 terms of a gestational agreement that has been validated pursuant to section
+34 7-1605, Idaho Code.
+35 (2) No later than fourteen (14) days after the birth of the child, the
+36 intended parents shall file notice of the birth with the district court that
+37 issued the validation order. The court shall then issue an order of parent-
+38 age confirming that the intended parent is the parent parents are the parents
+39 of the child and directing the state registrar of vital statistics to file a
+40 birth certificate naming the intended parents as the parents of the child.
+41 If necessary, the court shall further order that the child be surrendered to
+42 the intended parents. The order of parentage shall contain the following in-
+43 formation:
+44 (a) The child's full name;
+45 (b) The child's date of birth;
+46 (c) The child's place of birth;
+47 (d) The gestational carrier's full name;
+
+7
+1 (e) The full name of the gestational carrier's spouse, if the gesta-
+2 tional carrier is married; and
+3 (f) The full name of each intended parent.
+4 (3) If the intended parent fails parents fail to file notice as required
+5 under pursuant to subsection (2) of this section, the gestational carrier
+6 or the department of health and welfare may file such notice, and the court
+7 shall order that the intended parent is the parent parents are the parents of
+8 the child and financially responsible for the child.
+9 (4) Failure to file notice required by this section shall be considered
+10 contempt of the authority of the court pursuant to chapter 6, title 7, Idaho
+11 Code.
+12 SECTION 7. That Chapter 16, Title 7, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 7-1613, Idaho Code, and to read as follows:
+15 7-1613. GESTATIONAL CARRIER DATA COLLECTION. (1) The purpose of this
+16 section shall be the compilation of relevant maternal life and health fac-
+17 tors and data concerning gestational carriers to the extent that it is autho-
+18 rized by law.
+19 (2) The state registrar of vital statistics shall prescribe forms for
+20 the collection of information and statistics with respect to enforceable
+21 gestational agreements. Such forms shall include but not be limited to the
+22 following information:
+23 (a) The age, marital status, and state and county of domicile of the
+24 gestational carrier;
+25 (b) The county in which the in utero embryo transfer took place;
+26 (c) The full name and address of the physician or physicians performing
+27 or attending to the following phases of the gestational carrier:
+28 (i) In utero embryo transfer;
+29 (ii) Prenatal and postnatal care;
+30 (iii) Birth;
+31 (iv) Miscarriage; and
+32 (v) Induced abortion;
+33 (d) The length and weight of the child born to the gestational carrier;
+34 (e) The age, marital status, and state and county of domicile of the in-
+35 tended parents;
+36 (f) The medical reason necessitating the gestational carrier;
+37 (g) The medical procedures employed in the birth, miscarriage, or ter-
+38 mination of pregnancy for medical emergency;
+39 (h) The length and weight of an unborn child miscarried by the gesta-
+40 tional carrier;
+41 (i) Other significant conditions or health complications of the unborn
+42 child and gestational carrier; and
+43 (j) The results of pathological examinations of any unborn child who
+44 died as a result of pregnancy complications or pregnancy termination of
+45 a gestational carrier.
+46 (3) The physician performing the in utero embryo transfer or termina-
+47 tion of the pregnancy by birth, miscarriage, or abortion shall provide the
+48 information required by the provisions of this section.
+
+8
+1 (4) Such completed forms shall be transmitted by the physician to the
+2 vital records registry within fifteen (15) days of the performance of the
+3 medical procedures.
+4 (5) The department of health and welfare shall promulgate by rule, sub-
+5 ject to legislative approval, the penalty for the failure to complete the
+6 forms required pursuant to subsection (2) of this section.
+7 (6) The vital statistics records required by this section and the
+8 identities of the parties to a gestational agreement shall be confidential
+9 and shall not be subject to disclosure, release, or inspection except upon
+10 application to a competent court and in conformity with the applicable re-
+11 quirements of confidentiality applicable to adoptions. The reporting of the
+12 data for public health purposes shall redact any identifying information as
+13 provided in section 74-106, Idaho Code.
+14 SECTION 8. That Section 39-255A, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 39-255A. REGISTRATION OF BIRTHS TO GESTATIONAL CARRIERS. (1) Subject
+17 to the requirements set forth in section 39-255, Idaho Code, a certificate
+18 of live birth shall be filed with the bureau of vital records and health sta-
+19 tistics by the certifier with parentage as determined by the final court or-
+20 der of parentage issued pursuant to the provisions of chapter 16, title 7,
+21 Idaho Code. The birth record shall include all the facts of birth, includ-
+22 ing the gestational carrier's demographic, medical, and health information.
+23 No certificate shall be deemed complete until every item of information re-
+24 quired has been provided or its omission satisfactorily accounted for.
+25 (2) Upon receipt by the bureau of the complete certificate of live birth
+26 from the certifier and the certified copy of the order of parentage, the bu-
+27 reau of vital records and health statistics shall accept the record for per-
+28 manent filing. The birth certificate shall make no reference to the ges-
+29 tational carrier. The facts of birth as relating to the gestational car-
+30 rier set forth in section 7-1613, Idaho Code, shall be filed with and remain
+31 part of the records of the bureau of vital records and health statistics in a
+32 sealed file with a certified copy of the order of parentage.
+33 (3) In the absence of an order of parentage, the birth certificate shall
+34 be filed listing the gestational carrier as the mother of the child. The ges-
+35 tational carrier's information may not be removed, and an intended parent's
+36 information may not be listed on the birth certificate except:
+37 (a) According to the provisions of section 39-255(e), Idaho Code, to
+38 add a biological father; or
+39 (b) Upon receipt of a certified copy of an order of parentage and a cer-
+40 tified report of gestational birth. The report form will be prescribed
+41 and furnished by the state registrar. Copies of birth certificates
+42 showing the gestational carrier as the mother of the child shall not be
+43 issued except upon order of an Idaho court.
+44 (4) Information necessary to prepare the report of gestational birth
+45 shall be furnished by the attending physician and the intended parent or
+46 parents or the attorney for the intended parent or parents. The order of
+47 parentage and the report of gestational birth shall contain all known facts
+48 of birth and the identity of the intended parent or parents.
+
+9
+1 (5) Upon receipt by the bureau of the certified report of gestational
+2 birth and the certified order of parentage, a new certificate of birth shall
+3 be established bearing the full name of the child born and the identity of
+4 the intended parent or parents. The new birth certificate shall make no ref-
+5 erence to the gestational carrier and shall not be marked as amended. The
+6 new birth certificate shall supplant and constitute replacement of any birth
+7 certificate for the child previously filed with the bureau of vital records
+8 and health statistics and shall be the only birth certificate subject to is-
+9 suance. The certified report of gestational birth and certified order of
+10 parentage shall be filed with and remain part of the records of the bureau of
+11 vital records and health statistics in a sealed file with the original cer-
+12 tificate.
+13 (6) In respect to form and nature of contents, the new birth certificate
+14 shall be identical to the birth certificate originally filed with the bureau
+15 of vital records and health statistics, except that the intended parent or
+16 parents shall be entered on the certificate as shown in the report of gesta-
+17 tional birth. The child's name shall remain as shown on the original birth
+18 certificate unless the order of parentage specifically states how the bureau
+19 of vital records and health statistics should list the child's name on the
+20 birth certificate.
+21 (7) An order of parentage may be amended only to correct a clerical er-
+22 ror.
+23 (8) All records and information specified in this section, other than a
+24 birth certificate issued pursuant to this section, and all records, files,
+25 and information of any court in this state relating to gestational birth and
+26 parentage proceedings shall not be open to inspection except on order of a
+27 court of record of this state; provided, however, that any Idaho magistrate
+28 judge may furnish a certified copy of an order of parentage to any duly autho-
+29 rized agency of the United States or the state of Idaho without procuring any
+30 prior court order.
+31 SECTION 9. That Section 39-260A, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 39-260A. REGISTRATION OF STILLBIRTHS TO A GESTATIONAL CARRIER. If a
+34 stillbirth occurs and the stillborn child was delivered under the terms of a
+35 gestational agreement entered and validated pursuant to chapter 16, title 7,
+36 Idaho Code, then a certificate of stillbirth shall be filed with the bureau
+37 of vital records and health statistics according to the provisions of sec-
+38 tion 39-260(4) and (5), Idaho Code. The certificate shall show the name of
+39 the gestational carrier and shall note her status as a gestational carrier.
+40 No certificate shall be deemed completed until every item of information re-
+41 quired pursuant to section 7-1613, Idaho Code, has been provided or its omis-
+42 sion satisfactorily accounted for.
+43 SECTION 10. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after
+45 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YSNAGTOGLCRA;AGSN7OC,TOREDSADTODET;AGSN7,IOC,TOREPSRGG;AGCR1,TE7,IOC,BYTEAFANWSN7,IOC,TOPTCNADTHPSRGAEE;AGS,IOC,TOREPSRGCTOSVGGLA;AGSN7,IOC,TEPSRGTNOFGLASAOEHPSRGTEESOFD,ADM;AGSN7,IOC,TOREPGTEDNOFPEURAVDG;AGCR1,TE7,IOC,BYTEAFANWSN7,IOC,TOEHPSRGGLCRDAC;AGSN3OC,TOREPSRGRNOFBSTLC;AGSN3,IOC,TORSRGRNOFSSTOGLC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.D.Asudintsc)"dr"mstelyadmlpsudbyamlplinwhhngsaeudoebyfrrep)""msaptofm,o,s,orageehgmyv.Cnslntiertfrale,aspdfrinsn1,IoC,teglcrorptfrgsorssidbyteidpsasartoftepyadttwdnthebnidbtfrtep)()""msamemeorfegmcluypgahdcestadceofigfnofandilbyfnwhageofteoes)()"ct"msanasofgcmstoeeoriyapnasteptofac,iganasoe()oracnoftef)Dca;a)Bdgpa,rdcla,hnleame,smp,orrdcle]
+[DELETED: )()"la"msacturwhaglcrastobeptbymsofadrnortogebhtoacdwowlbepdbyanidp)()"lc"msanatwnw)Bsptoristobepturtetsofla;o)Gsbhoristogebhtoacdurtetsofla)"dp"msanilwoistobetepfacdbnurtetsofagla)Temybeoe()idptorto()idpsuragla)Etwectoer,aypnoftrrgtoanidptslretobhisifteaeto()"dp"msto()iswoaemdthorinaewhIolwwoehcegsadwrioaneeglatwhaglcttowhtywlbetellpsoftecdrgftadr)()"rofp"msanoridbyactoraebywhaytoieteo,whoriellptorpsofacdbnurtetsofagN2.TtSn7,IoC,b,adteseishdtordasf.GLA.()Prtoadr,lcradanidptteidpsslerioawngla.Ifteglcrism,hrseslaobeapytotea.Nrteglcrnrhrsemycegsfrueinadrnurtegla)Teglatslpettteidplbetepsofaycdcdthadrnanurtetsoftea)Teglatslietef)Aebyteidptofalrsaddsofaptfraycdcdthadrnadbnurtetsoftegla;Anatbnteidpsadteglcrt)Teglcrhsseaywhrttldgdgtetmoftepyctwhtersofaptwncghronblc)Teidpsaetoatcyofadalplrsadrsfrtecdiyuntecsb,rsofayitoft;a]
+[DELETED: )Teidpswlberdastellpftec)Vnt)Alpstoteataeatltte(sofa)Teglcrisatltte()ysoebtnometnte()ysofa)Teglcrhsueapladmhentoeettsedsntheugrsttwdietedrofpytohfoec)()Teglcrhsgnbhtoalectltoeb;a)Teglcrh,prtoegtegla,ueatltto()cgsdbyatltty()d,whaldclw,ldp,ldp,odcrtodstepdgla)()Teglcrastobeptbsofadr,ugtegsoftei,adtogebhtotergc;a)Teglcrastoremlenadttdgtetmoftep,toaoremlisatplh,adtemlrsrspgtotepdpyinfrofteidp;a)Rtbytepeglc,teglcsseifseism,adtedrofagefrueinadr,ifsedrisntanidp,ofalrsaddsoptfraycdcdthadrnadbrtetsoftea)Apeglcrmyntbergpcaeasddbysn5,IoC)Aglatmyntpefrptofcnbtmypefrptofesasstfhinsn7oC)Aglatslntlttertofteglcrtomedstosdhrhhorttofanerafsttseisc)Inmsrgtotegla,tegradteidpsslheitllrN3.TtCr1,Te7,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn7,IoC,adtordasf.PTOFCNPD--ESA.Tlcrwlrenocnort]
+[DELETED: )Almle,igh,t,n,p,ororsresidbyteglcrfrplceadtemladhledittoteb)Alesidfrmlhhcgsdtoteglcrprtotebhaduptosx(sarb)Alltwsofteglcrntcduryiepywnbdrthsbnpdfrteglcrfrsemlorflcnofpyaeglc,woise,isuetowkdgtepdpdofbdr)Alctcsadasfsidbyteg;a)Ptofayjysdstorjtrdinfrofteglcrorhrhsasartofh,lsofreosorc,orayorhhcncdbyteinuoeot,p,orr,m,ortnofpN4.TtSn7,IoC,b,adteseishdtordasf.VNOFA.()Aglateourtscriseeoyifitisvdpttss)Fraglattobevdpttotss,atltoe()ehpytoteatmtreinIoaesordfratltsx()msprtoegioteglatorhecswhteseofIosttojyjninteonofanIodtc)TepssgvnofaglatseapninanIodtc)Tepnslbefdareyofteatbtnrtnsn()dsartebhofacdurtetsoea)Teglatslbeadtotep)Anitbdpninosadgyorinreeywohsmytdtdmrorapdofteshtttepniscttorhmlcsatteidmsmnadslstasdatcgttinuotrwhaglcrismynyttinr.Frpsoftsp,""msttteidmrhsbnddtobeieortoheaplcnshttapywessrkofdhorsladieifamrbyfnbdterkcytopyadb.Teatslbefdwhtep)Untefgoftepnadaddsrttosn()oftss,tects]
+[DELETED: )OradbeedtoteclhyrdadinfsofteIosepebuofclinonehofteidpsadteglcradh,ifseism,asamsofpgbdcntei.Tebus,unrtadarrfftcsadoriginfmteceaetotectincdintebsclhyrdadinfsttpstoehoeidpsadteglcradhrs,ifssm.Ina,inortodeanass,teftcsslbefdbyteIosepoteflbuofinfranlclhdc.Terdfsfrteclhyrdclbebebytepstotea)Ortttedtofhhadwectarkfrvdcsofcdaeorntintsorarseinwherofteidpsadtegradhrs,ifseism,hsbndds;a)OrtttectasoeoftesectarsckfrpeosidbyayIocgehofteidpsadteglcrars,ifseism)Ehorrdpttosn()oftsslsetefln,deofb,slsyn,adfdctseofdeseadfrehstoftecesforteIosepebuofcli,ttofhhadw,adtectasoeoesectsladpytoteosadslpeetotedtctigalinddotnoinhsbnf)()Tedtctmyhdahgtodetevyoftea.Tedtctslieanorvgttaddgttteidptispsaeorwlbepsofaycdbnurtetsofteatunf)Teglatsstepsoftsc)Tersoftssnhebnsdadtersofclr,vdcsofcdaeorn,adpeorrsswttteisnorkofhmtecdorteglc)()Tepshevyedioteatadudist;a)()Aepnhsbnmefralreheaeesadwhteglatfhinsn7,IoC,igryfeesifteatist;a)Tecnpdfrintea,ifa,isr]
+[DELETED: N5.TtSn7,IoC,b,adteseishdtordasf.TNOFAT--ESOFD,ADM.()Apytoaglatmyteteatatayteprtoteglcrbgptbymfadrnurtetsoftea.Tetymtgewnneoftntoteorp)Ifteathsbnvdpttosn7oC,tetgpyslfeneoftnwedtc,adtectslveteorofv)Fetopetenerdbyph()oftssnslbecdctofteayoftectpttocr6,te7,IoC)Tedtctfrgdcesnmyteag)Nraglcrnraglcsslbeletoayidptfrtgagla)Actorggtedeoratofamebnteidp,ifedbeteinuoeotstegla.Untefgofamnnectoftectorggdeora,tectseanorvgteorofv)Arteieofanorvgtegla,aystmeofteglcrdsntattyofagla.Tectofteseisntr,adheisntapdfroftergc,ngayllpntotecN6.TtSn7,IoC,b,adteseishdtordasf.PEURAVDGLA.()Tnslayindgtepeofacdbnurtsofaglattthsbnvdpttos,IoC)Nolrtnfn()dsartebhoftec,tdpsslfeneoftebhwhtedtcttdtevno.Tectsltnieanorofpecgttteidptisteptpsaetepftecdaddgteserrofvlsstofehcengteidpsastepsoftecfn,tectslfrortttecdbesdteidp.Teorofpeslcntefgi)Tecsfln)Tecsdeofb)Tecspeofb)Teglcsfln]
+[DELETED: )Teflneofteglcss,ifteglcrism;a)Teflneofehidp)Ifteidptfspsfltofeneasrrpttosn()oftss,teglcrtedtofhhadwemyfeshn,adteclorttteidptisteptpsaetepsoecdadfyrefrtec)Fetofenerdbytssnslbectofteayoftectpttocr6,te7,IN7.TtCr1,Te7,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn7,IoC,adtordasf.GLCRDAC.()Tepeoftnslbetecnofrtmlleadhhfsaddacgglcstoteetttitisadbyl)Teserrofvlssslpefsfecnofinadsswhrttoela.Shfssliebtntbeldtotgi)Tea,mls,adseadcyofdeoftlc)Tecyinwhteinuoeotrtkp)Teflneadasoftepnorpspragtotefgpsofteglc)Inuoeot)Pladplc)B)M;a)Ida)Telhadwtoftecdbntoteglc)Tea,mls,adseadcyofdeofteidp)Temlrnngteglc)Temlpsedinteb,m,ortnofpyfrmle)Telhadwtofanuncdmdbyteglc)Orstcsorhhcsofteudadglc;a)Tersofplesofayuncdwdasartofpycsorpytnoglc)Tepnpgteinuoeotrortnoftepybyb,m,oranslpetnrdbytepsoftss]
+[DELETED: )Shcdfsslbetdbytepntotlrsrywnfn()dsoftepeoftlp)Tedtofhhadweslpebyr,sttolea,tepyfrtefetocetsrdpttosn()oftss)Tevlssrsrdbytssnadtsoftepstoaglatslbecdslntbesttod,r,orinetuntoactctadincywhteaersofcyaetoa.Tergoftafrpchhpsslrtayiginadinsn7,IoCN8.TtSn3,IoC,b,adteseishdtordasf.RNOFBSTOGLC.()Sotersstfhinsn3,IoC,acflebhslbefdwhtebuofvlrsadhhssbytecrwhpeasddbyteflctorofpeidpttotepsofcr1,te7oC.Tebhrdsliealtefsofb,igteglcsd,m,adhhioceslbeddceuleyimofinrdhsbnpdorisonsyadf)Unrtbytebuoftececeoflebmtecradtecdcyofteorofp,tebuofvlrsadhhssslatterdfrptf.Tebhceslmenoretoteglc.Tefsofbhasrgtoteglcrstfhinsn7,IoC,slbefdwhadrtoftersoftebuofvlrsadhhssindfewhacdcyofteorofp)Inteaeofanorofp,tebhcesefdlgteglcrastemroftec.Teglcsinmyntber,adanidpnmyntbeldontebhcee)Agtotepsofsn3,IoC,tdablf;o)Unrtofacdcyofanorofpeadacdrtofglb.Tertfmwlbepdfdbyteser.CsofbhcgteglcrastemroftecdslntbdetunorofanIoc)Innytopetertofglblbefdbyteagpnadteidptosorteayfrteidptorp.Teoroeadtertofglbhslcnalknffbhadteiyofteidptorp]
+[DELETED: )Unrtbytebuoftecdrtofghadtecdorofp,anwceofbhseedbgteflneoftecdbnadteiyoeidptorp.Tenwbhceslmenoretoteglcradslntbemdasa.Twbhceslstadcertofaybefrtecdpyfdwhtebuofvlrdhhssadslbeteoybhcesttoi.Tecdrtofglbhadcdoroeslbefdwhadrnptoftersoftebuolrsadhhssinasdfewhteolc)Inrttofmadneofc,tenwbhclbeiltotebhceoyfdwhtebfvlrsadhhs,etttteidptosslbeedonteceassnintertofglb.Tecsneslrnassnonteolbeusteorofpesysshwtebfvlrsadhhsssdlttecsneonthc)Anorofpemybeadoytoctacle)Alrsadinsdintss,ortnhceidpttotss,adalr,fdinofayctintssergtoglbhaepsslntbeontoinetonoroftofrdoftss;p,h,ttayIomemyfhacdcyofanorofpetoaydyadayofteUdSsorteseofIowtpgarctoN9.TtSn3,IoC,b,adteseishdtordasf.RNOFSSTOAGLC.Ifhosadtesncdwsddurtetsoflatedadvdpttocr1,te7oC,tnaceofshslbefdwhtebfvlrsadhhssagtotepsofsn3)ad(,IoC.Teceslswteneoeglcradslnehrssasaglcoceslbeddcduleyimofinrdpttosn7,IoC,hsbnpdorisonsyadfN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

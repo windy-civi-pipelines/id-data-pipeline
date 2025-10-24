@@ -1,0 +1,269 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1049
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO VOTERS; REPEALING SECTION 34-1114, IDAHO CODE, RELATING TO A
+3 VOTER'S AFFIDAVIT IN LIEU OF PERSONAL IDENTIFICATION; AMENDING SECTION
+4 34-409, IDAHO CODE, TO REMOVE A CODE REFERENCE AND TO MAKE TECHNICAL
+5 CORRECTIONS; AMENDING SECTION 34-1012, IDAHO CODE, TO REMOVE A CODE
+6 REFERENCE AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION 34-1106,
+7 IDAHO CODE, TO REMOVE A PROVISION REGARDING PERSONAL IDENTIFICATION AF-
+8 FIDAVITS AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN EMERGENCY
+9 AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 34-1114, Idaho Code, be, and the same is hereby
+12 repealed.
+13 SECTION 2. That Section 34-409, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 34-409. ELECTRONIC REGISTRATION. (1) The office of the secretary of
+16 state may create and maintain an electronic system for voter registration
+17 that is publicly available on its official website. Any qualified elector
+18 who has a current valid driver's license or identification card issued pur-
+19 suant to title 49, Idaho Code, that reflects the person's current princi-
+20 pal place of residence, may register to vote by submitting a completed voter
+21 registration application electronically through such website. Electronic
+22 voter registration applications shall be submitted before the close of reg-
+23 istration as provided in section 34-408, Idaho Code.
+24 (2) The electronic voter registration application shall be in a form
+25 prescribed by the secretary of state and shall:
+26 (a) Require the information under oath or affirmation set forth in sec-
+27 tion 34-411, Idaho Code;
+28 (b) Include notice of the requirement to provide personal identifica-
+29 tion before voting at the polls as set forth in sections section 34-1113
+30 and 34-1114, Idaho Code; and
+31 (c) Require an electronic signature of the applicant.
+32 (3) The office of the secretary of state shall obtain a digital copy
+33 of the applicant's driver's license or identification card signature from
+34 the Idaho transportation department. The Idaho transportation department
+35 shall, upon request of the office of the secretary of state, provide a dig-
+36 ital copy of the applicant's driver's license or identification card signa-
+37 ture.
+38 (4) Upon receipt of a completed voter registration application and a
+39 digital copy of the applicant's driver's license or identification card sig-
+40 nature from the Idaho transportation department, the office of the secre-
+41 tary of state shall send the information to the county clerk for the county
+2
+1 in which the applicant resides. The county clerk shall prepare and issue to
+2 each elector registering electronically a verification of registration con-
+3 taining the name and residence of the elector and the name or number of the
+4 precinct in which the elector resides. Such verification of registration
+5 may be sent by nonforwardable first-class first class mail or by electronic
+6 mail at the elector's option. If a verification is returned undeliverable,
+7 then the county clerk shall remove the elector from the register of electors.
+8 (5) An applicant using the electronic system for voter registration
+9 pursuant to this section shall not be required to complete a printed regis-
+10 tration card.
+11 (6) The office of the secretary of state shall use such security mea-
+12 sures necessary to ensure the accuracy and integrity of an electronically
+13 submitted voter registration application.
+14 SECTION 3. That Section 34-1012, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 34-1012. ALTERNATIVE PROCEDURES FOR ABSENTEE VOTING -- EARLY VOT-
+17 ING. (1) Those counties that utilize absentee voting facilities that have
+18 access to the Idaho statewide voter registration system and count ballots at
+19 a central location or utilize a polling location-based tabulation system may
+20 elect to conduct "early voting" according to the provisions of this section.
+21 For those counties that elect to do "early voting," early voting shall begin
+22 on or before the third Monday before the election and end at 5:00 p.m. on
+23 the Friday before the election. Primary election ballots shall be issued
+24 pursuant to section 34-1002(2), Idaho Code.
+25 (2) A voter who appears at an "early voting" station to vote shall state
+26 his or her name and address to the election official and present the voter's
+27 identification as required by sections section 34-1113 and 34-1114, Idaho
+28 Code.
+29 (3) The election official shall examine the records to ascertain
+30 whether or not such applicant is registered and lawfully entitled to vote
+31 as requested. The provisions of section 34-408A, Idaho Code, authorizing
+32 election day registration shall also apply in determining the applicant's
+33 qualifications to vote.
+34 (4) Before receiving a ballot, each elector shall sign his or her name
+35 in the election register and poll book provided for early voting.
+36 (5) The elector shall then be given the appropriate ballots contain-
+37 ing the official election ballot identification pursuant to section 34-901,
+38 Idaho Code, and shall be given folding instructions for such ballots, if ap-
+39 propriate.
+40 (6) Upon receipt of the ballots, the elector shall retire to a vacant
+41 voting booth and mark the ballots according to the instructions provided.
+42 (7) After marking the ballot, the elector shall present himself or her-
+43 self to the election official at the ballot box and state his or her name and
+44 address. The elector shall then deposit the ballot in the ballot box or hand
+45 it to the election official, who shall deposit it. The election official
+46 shall then record that the elector has voted and proclaim the same in an audi-
+47 ble voice.
+48 (8) Voters requiring assistance shall be provided with such assistance
+49 in accordance with section 34-1108, Idaho Code.
+3
+1 (9) Electioneering is prohibited at an early voting polling place as
+2 provided in section 18-2318, Idaho Code.
+3 SECTION 4. That Section 34-1106, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 34-1106. SIGNING COMBINATION ELECTION RECORD AND POLL BOOK -- DELIV-
+6 ERY OF BALLOT TO ELECTOR. (1) An elector desiring to vote shall state his
+7 name and address to the judge or clerk in charge of the combination election
+8 record and poll book.
+9 (2) Before receiving his ballot, each elector shall sign his name in
+10 the combination election record and poll book following his name therein
+11 and show a valid photo identification as provided for in section 34-1113,
+12 Idaho Code, or personal identification affidavit as provided for in section
+13 34-1114, Idaho Code.
+14 (3) No person shall knowingly sign his name in the combination election
+15 record and poll book if his residence address is not within that precinct at
+16 the time of signing.
+17 (4) If the residence address of a person contained in the combination
+18 election record and poll book is incorrectly given due to an error in prepa-
+19 ration of the combination election record and poll book, the judge shall as-
+20 certain the correct address and make the necessary correction.
+21 (5) The elector shall then be given the appropriate ballots which that
+22 have been marked with the official election ballot identification and shall
+23 be given folding instructions for such ballots.
+24 SECTION 5. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 January 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOV;RGSN3,IOC,RGTOSATINLUOFPLI;AGS,IOC,TOREACEREADTOMET;AGSN3,IOC,TOREACEADTOMEATLC;AGSN3OC,TOREAPNRGPLINASADTOMEATLC;ADDGANEDPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishN2.TtSn3,IoC,b,adteseishdtordasf.ECR.()Teoeoftesyoemyceadmnanecsmfrvrrtispyaeonisolw.Ayqdeohsactvddsleorincdidpttote4,IoC,ttrstepsctplpeofr,myrrtovebysgacdvnaneythshw.Errnasslbesdbeteceofrnaspdinsn3,IoC)Teecvrrnanslbeinafdbytesyofseads)Reteinurohoranstfhinsn3,IoC)Ieneofterttopeplinbevgattepsasstfhinsssn3d3,IoC;a)Reanecseoftea)TeoeoftesyofseslonadlcfteasdsleorincdsefeIotnd.TeIotnd,unrtofteoeoftesyofs,peadlcyofteasdsleorincds)UnrtofacdvrrnanadlcyofteasdsleorincdsefmteIotnd,teoeoftesyofseslsdteintotecyckfrtec]
+[DELETED: nwhteatr.Tecyckslpeadietherrgeyavnofrncgteneadreofteeradteneornrofttinwhteerr.Shvnofrybestbynefsftcsmlorbyelatteeso.Ifavnisrduntecyckslreteerfmterrofe)Anatugteecsmfrvrrttotssnslntberdtoceapdrnc)TeoeoftesyofseslueshsymsnytoeeteayadiyofanedvrrnaN3.TtSn3,IoC,b,adteseishdtordasf.AEPSFRAEVG--EYV.()TecsttueaevgfstthstoteIosevrrnsmadctbsacllnorueapgldtnsmmttoct"yv"agtotepsoftssrtecsttettodo"yv"eyvgslbnorbetetdMybeteenadedat50p.oeFybetee.Pyenbsslbeittosn3,IoC)Avrwoasatan"yv"sntoveslssorhrneadastoteenoladpttevnasrdbysssn33ad3,I)Teenolsleeterstoarorntshatisrdadlyedtovsr.Tepsofsn3,IoC,andyrnslaoayindgteastov)Bergab,eherslsnhsorhrnnteenrradplbkpdfreyv)Teersltnbegnteaebscgteolenbtinpttosn3oC,adslbegnfgisfrshb,ifa)Unrtofteb,teerslretoavgbhadmktebsagtoteisp)Armgteb,teerslpthforhftoteenolattebtbxadsehsorhrnea.Teersltndttebtintebtbxorhttoteeno,wosldti.Teenoltnrdttteerhsvdadpmteseinanaev)Vsrgaeslbepdwhshanaewhsn3,IoC]
+[DELETED: )Egispdataneyvgpgpeadinsn1,IoCN4.TtSn3,IoC,b,adteseishdtordasf.SGCNENRDADPLBK--DYOFBTTOE.()Anerdgtoveslseheadastotejeorckinceoftecnedadplb)Berghsb,eherslsnhsneiecnenrdadplbkfghsnetdswavdpoinaspdfrinsn3oC,orplinataspdfrins,IoC)Nopnslkysnhsneintecnedadplbkifhsreasisntwnttptaeteofs)Iftereasofapncdintecnrdadplbkisiygndetoanerinpnoftecnenrdadplb,tejeslantectasadmetenyc)TeersltnbegnteaebswhtebnmdwhteolenbtinadsegnfgisfrshbN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1049
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO VOTERS; REPEALING SECTION 34-1114, IDAHO CODE, RELATING TO A
+3 VOTER'S AFFIDAVIT IN LIEU OF PERSONAL IDENTIFICATION; AMENDING SECTION
+4 34-409, IDAHO CODE, TO REMOVE A CODE REFERENCE AND TO MAKE TECHNICAL
+5 CORRECTIONS; AMENDING SECTION 34-1012, IDAHO CODE, TO REMOVE A CODE
+6 REFERENCE AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION 34-1106,
+7 IDAHO CODE, TO REMOVE A PROVISION REGARDING PERSONAL IDENTIFICATION AF-
+8 FIDAVITS AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN EMERGENCY
+9 AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 34-1114, Idaho Code, be, and the same is hereby
+12 repealed.
+13 SECTION 2. That Section 34-409, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 34-409. ELECTRONIC REGISTRATION. (1) The office of the secretary of
+16 state may create and maintain an electronic system for voter registration
+17 that is publicly available on its official website. Any qualified elector
+18 who has a current valid driver's license or identification card issued pur-
+19 suant to title 49, Idaho Code, that reflects the person's current princi-
+20 pal place of residence, may register to vote by submitting a completed voter
+21 registration application electronically through such website. Electronic
+22 voter registration applications shall be submitted before the close of reg-
+23 istration as provided in section 34-408, Idaho Code.
+24 (2) The electronic voter registration application shall be in a form
+25 prescribed by the secretary of state and shall:
+26 (a) Require the information under oath or affirmation set forth in sec-
+27 tion 34-411, Idaho Code;
+28 (b) Include notice of the requirement to provide personal identifica-
+29 tion before voting at the polls as set forth in sections section 34-1113
+30 and 34-1114, Idaho Code; and
+31 (c) Require an electronic signature of the applicant.
+32 (3) The office of the secretary of state shall obtain a digital copy
+33 of the applicant's driver's license or identification card signature from
+34 the Idaho transportation department. The Idaho transportation department
+35 shall, upon request of the office of the secretary of state, provide a dig-
+36 ital copy of the applicant's driver's license or identification card signa-
+37 ture.
+38 (4) Upon receipt of a completed voter registration application and a
+39 digital copy of the applicant's driver's license or identification card sig-
+40 nature from the Idaho transportation department, the office of the secre-
+41 tary of state shall send the information to the county clerk for the county
+
+2
+1 in which the applicant resides. The county clerk shall prepare and issue to
+2 each elector registering electronically a verification of registration con-
+3 taining the name and residence of the elector and the name or number of the
+4 precinct in which the elector resides. Such verification of registration
+5 may be sent by nonforwardable first-class first class mail or by electronic
+6 mail at the elector's option. If a verification is returned undeliverable,
+7 then the county clerk shall remove the elector from the register of electors.
+8 (5) An applicant using the electronic system for voter registration
+9 pursuant to this section shall not be required to complete a printed regis-
+10 tration card.
+11 (6) The office of the secretary of state shall use such security mea-
+12 sures necessary to ensure the accuracy and integrity of an electronically
+13 submitted voter registration application.
+14 SECTION 3. That Section 34-1012, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 34-1012. ALTERNATIVE PROCEDURES FOR ABSENTEE VOTING -- EARLY VOT-
+17 ING. (1) Those counties that utilize absentee voting facilities that have
+18 access to the Idaho statewide voter registration system and count ballots at
+19 a central location or utilize a polling location-based tabulation system may
+20 elect to conduct "early voting" according to the provisions of this section.
+21 For those counties that elect to do "early voting," early voting shall begin
+22 on or before the third Monday before the election and end at 5:00 p.m. on
+23 the Friday before the election. Primary election ballots shall be issued
+24 pursuant to section 34-1002(2), Idaho Code.
+25 (2) A voter who appears at an "early voting" station to vote shall state
+26 his or her name and address to the election official and present the voter's
+27 identification as required by sections section 34-1113 and 34-1114, Idaho
+28 Code.
+29 (3) The election official shall examine the records to ascertain
+30 whether or not such applicant is registered and lawfully entitled to vote
+31 as requested. The provisions of section 34-408A, Idaho Code, authorizing
+32 election day registration shall also apply in determining the applicant's
+33 qualifications to vote.
+34 (4) Before receiving a ballot, each elector shall sign his or her name
+35 in the election register and poll book provided for early voting.
+36 (5) The elector shall then be given the appropriate ballots contain-
+37 ing the official election ballot identification pursuant to section 34-901,
+38 Idaho Code, and shall be given folding instructions for such ballots, if ap-
+39 propriate.
+40 (6) Upon receipt of the ballots, the elector shall retire to a vacant
+41 voting booth and mark the ballots according to the instructions provided.
+42 (7) After marking the ballot, the elector shall present himself or her-
+43 self to the election official at the ballot box and state his or her name and
+44 address. The elector shall then deposit the ballot in the ballot box or hand
+45 it to the election official, who shall deposit it. The election official
+46 shall then record that the elector has voted and proclaim the same in an audi-
+47 ble voice.
+48 (8) Voters requiring assistance shall be provided with such assistance
+49 in accordance with section 34-1108, Idaho Code.
+
+3
+1 (9) Electioneering is prohibited at an early voting polling place as
+2 provided in section 18-2318, Idaho Code.
+3 SECTION 4. That Section 34-1106, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 34-1106. SIGNING COMBINATION ELECTION RECORD AND POLL BOOK -- DELIV-
+6 ERY OF BALLOT TO ELECTOR. (1) An elector desiring to vote shall state his
+7 name and address to the judge or clerk in charge of the combination election
+8 record and poll book.
+9 (2) Before receiving his ballot, each elector shall sign his name in
+10 the combination election record and poll book following his name therein
+11 and show a valid photo identification as provided for in section 34-1113,
+12 Idaho Code, or personal identification affidavit as provided for in section
+13 34-1114, Idaho Code.
+14 (3) No person shall knowingly sign his name in the combination election
+15 record and poll book if his residence address is not within that precinct at
+16 the time of signing.
+17 (4) If the residence address of a person contained in the combination
+18 election record and poll book is incorrectly given due to an error in prepa-
+19 ration of the combination election record and poll book, the judge shall as-
+20 certain the correct address and make the necessary correction.
+21 (5) The elector shall then be given the appropriate ballots which that
+22 have been marked with the official election ballot identification and shall
+23 be given folding instructions for such ballots.
+24 SECTION 5. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 January 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOV;RGSN3,IOC,RGTOSATINLUOFPLI;AGS,IOC,TOREACEREADTOMET;AGSN3,IOC,TOREACEADTOMEATLC;AGSN3OC,TOREAPNRGPLINASADTOMEATLC;ADDGANEDPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishN2.TtSn3,IoC,b,adteseishdtordasf.ECR.()Teoeoftesyoemyceadmnanecsmfrvrrtispyaeonisolw.Ayqdeohsactvddsleorincdidpttote4,IoC,ttrstepsctplpeofr,myrrtovebysgacdvnaneythshw.Errnasslbesdbeteceofrnaspdinsn3,IoC)Teecvrrnanslbeinafdbytesyofseads)Reteinurohoranstfhinsn3,IoC)Ieneofterttopeplinbevgattepsasstfhinsssn3d3,IoC;a)Reanecseoftea)TeoeoftesyofseslonadlcfteasdsleorincdsefeIotnd.TeIotnd,unrtofteoeoftesyofs,peadlcyofteasdsleorincds)UnrtofacdvrrnanadlcyofteasdsleorincdsefmteIotnd,teoeoftesyofseslsdteintotecyckfrtec]
+[DELETED: nwhteatr.Tecyckslpeadietherrgeyavnofrncgteneadreofteeradteneornrofttinwhteerr.Shvnofrybestbynefsftcsmlorbyelatteeso.Ifavnisrduntecyckslreteerfmterrofe)Anatugteecsmfrvrrttotssnslntberdtoceapdrnc)TeoeoftesyofseslueshsymsnytoeeteayadiyofanedvrrnaN3.TtSn3,IoC,b,adteseishdtordasf.AEPSFRAEVG--EYV.()TecsttueaevgfstthstoteIosevrrnsmadctbsacllnorueapgldtnsmmttoct"yv"agtotepsoftssrtecsttettodo"yv"eyvgslbnorbetetdMybeteenadedat50p.oeFybetee.Pyenbsslbeittosn3,IoC)Avrwoasatan"yv"sntoveslssorhrneadastoteenoladpttevnasrdbysssn33ad3,I)Teenolsleeterstoarorntshatisrdadlyedtovsr.Tepsofsn3,IoC,andyrnslaoayindgteastov)Bergab,eherslsnhsorhrnnteenrradplbkpdfreyv)Teersltnbegnteaebscgteolenbtinpttosn3oC,adslbegnfgisfrshb,ifa)Unrtofteb,teerslretoavgbhadmktebsagtoteisp)Armgteb,teerslpthforhftoteenolattebtbxadsehsorhrnea.Teersltndttebtintebtbxorhttoteeno,wosldti.Teenoltnrdttteerhsvdadpmteseinanaev)Vsrgaeslbepdwhshanaewhsn3,IoC]
+[DELETED: )Egispdataneyvgpgpeadinsn1,IoCN4.TtSn3,IoC,b,adteseishdtordasf.SGCNENRDADPLBK--DYOFBTTOE.()Anerdgtoveslseheadastotejeorckinceoftecnedadplb)Berghsb,eherslsnhsneiecnenrdadplbkfghsnetdswavdpoinaspdfrinsn3oC,orplinataspdfrins,IoC)Nopnslkysnhsneintecnedadplbkifhsreasisntwnttptaeteofs)Iftereasofapncdintecnrdadplbkisiygndetoanerinpnoftecnenrdadplb,tejeslantectasadmetenyc)TeersltnbegnteaebswhtebnmdwhteolenbtinadsegnfgisfrshbN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

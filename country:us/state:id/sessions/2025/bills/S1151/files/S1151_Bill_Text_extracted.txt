@@ -1,0 +1,1081 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1151
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO TRAVEL INSURANCE ACT; AMENDING TITLE 41, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 45, TITLE 41, IDAHO CODE, TO PROVIDE
+4 FOR A SHORT TITLE, TO PROVIDE FOR THE PURPOSE OF THE CHAPTER, TO DEFINE
+5 TERMS, TO ESTABLISH PROVISIONS REGARDING A PREMIUM TAX, TO ESTABLISH
+6 PROVISIONS REGARDING TRAVEL PROTECTION PLANS, TO ESTABLISH PROVISIONS
+7 REGARDING SALES PRACTICES, TO ESTABLISH PROVISIONS REGARDING TRAVEL
+8 ADMINISTRATORS, TO ESTABLISH PROVISIONS REGARDING TRAVEL INSURANCE
+9 POLICY CLASSIFICATION AND STANDARDS, AND TO ESTABLISH RULEMAKING PRO-
+10 VISIONS; AMENDING SECTION 41-1090, IDAHO CODE, TO REVISE A PROVISION
+11 REGARDING THE SHORT TITLE; AMENDING SECTION 41-1091, IDAHO CODE, TO
+12 REVISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SECTION 41-1092, IDAHO
+13 CODE, TO REVISE PROVISIONS REGARDING REQUIREMENTS FOR LIMITED LINES
+14 TRAVEL INSURANCE PRODUCERS; REPEALING SECTION 41-1093, IDAHO CODE,
+15 RELATING TO REGISTRATION; REPEALING SECTION 41-1094, IDAHO CODE, RE-
+16 LATING TO POLICY TYPES; REPEALING SECTION 41-1095, IDAHO CODE, RELATING
+17 TO THE RESPONSIBILITY OF LIMITED LINES TRAVEL INSURANCE PRODUCERS; RE-
+18 PEALING SECTION 41-1096, IDAHO CODE, RELATING TO NEGATIVE OPTIONS AND
+19 OPT OUTS; REPEALING SECTION 41-1097, IDAHO CODE, RELATING TO ENFORCE-
+20 MENT; AMENDING SECTION 41-1003, IDAHO CODE, TO REVISE A DEFINITION; AND
+21 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That Title 41, Idaho Code, be, and the same is hereby amended
+24 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+25 ter 45, Title 41, Idaho Code, and to read as follows:
+26 CHAPTER 45
+27 IDAHO TRAVEL INSURANCE ACT
+28 41-4501. SHORT TITLE. This chapter shall be known and may be cited as
+29 the "Idaho Travel Insurance Act."
+30 41-4502. PURPOSE. (1) The purpose of this chapter is to promote the
+31 public welfare by creating a comprehensive legal framework within which
+32 travel insurance may be sold in this state.
+33 (2) The requirements of this chapter apply to travel insurance that
+34 covers any resident of this state and that is sold, solicited, negotiated,
+35 or offered in this state and to certificates that are delivered or issued
+36 for delivery in this state. The provisions of this chapter do not apply to
+37 cancellation fee waivers or travel assistance services, except as expressly
+38 provided in this chapter.
+39 (3) All other applicable provisions of the insurance laws in this state
+40 shall continue to apply to travel insurance, except that the specific pro-
+2
+1 visions of this chapter shall supersede any general provisions of law that
+2 would otherwise be applicable to travel insurance.
+3 41-4503. DEFINITIONS. As used in this chapter:
+4 (1) "Aggregator site" means a website that provides access to informa-
+5 tion regarding insurance products from more than one (1) insurer, including
+6 product and insurer information, for use in comparison shopping.
+7 (2) "Blanket travel insurance" means a policy of travel insurance is-
+8 sued to any eligible group providing coverage for specific classes of per-
+9 sons defined in the policy with coverage provided to all members of the eli-
+10 gible group without a separate charge to individual members of the eligible
+11 group.
+12 (3) "Cancellation fee waiver" means a contractual agreement between a
+13 supplier of travel services and its customer to waive some or all of the non-
+14 refundable cancellation fee provisions of the supplier's underlying travel
+15 contract with or without regard to the reason for the cancellation or form of
+16 reimbursement. A cancellation fee waiver is not insurance.
+17 (4) "Director" means the director of the department of insurance.
+18 (5) "Eligible group" means, solely for the purposes of travel insur-
+19 ance, two (2) or more persons who are engaged in a common enterprise or have
+20 an economic, educational, or social affinity or relationship, including but
+21 not limited to:
+22 (a) Any entity engaged in the business of providing travel or travel
+23 services, wherein with regard to any particular travel or type of travel
+24 or travelers, all members or customers of the group have a common expo-
+25 sure to risk attendant to such travel. Such entities include but are not
+26 limited to tour operators, lodging providers, vacation property own-
+27 ers, hotels and resorts, travel clubs, travel agencies, property man-
+28 agers, cultural exchange programs, and common carriers or the opera-
+29 tor, owner, or lessor of a means of transportation of passengers, such
+30 as airlines, cruise lines, railroads, steamship companies, and public
+31 bus carriers;
+32 (b) Any college, school, or other institution of learning covering any
+33 group of students, teachers, employees, or volunteers;
+34 (c) Any employer covering any group of employees, volunteers, contrac-
+35 tors, board of directors, dependents, or guests;
+36 (d) Any sports team, camp, or sponsor thereof, covering any group of
+37 participants, members, campers, employees, officials, supervisors, or
+38 volunteers;
+39 (e) Any religious, charitable, recreational, educational, or civic or-
+40 ganization, or branch thereof, covering any group of members, partici-
+41 pants, or volunteers;
+42 (f) Any financial institution or financial institution vendor, or any
+43 parent holding company, trustee, or agent or designee of one (1) or more
+44 financial institutions or financial institution vendors, including
+45 account holders, credit card holders, debtors, guarantors, or pur-
+46 chasers;
+47 (g) Any incorporated or unincorporated association, including labor
+48 unions, having a common interest, constitution, and bylaws, and orga-
+49 nized and maintained in good faith for purposes other than obtaining
+3
+1 insurance for members or participants of such association covering its
+2 members;
+3 (h) Any trust or the trustees of a fund established, created, or main-
+4 tained for the benefit of and covering a group of members, employees, or
+5 customers, subject to the director's permitting the use of a trust and
+6 the state's premium tax provisions set forth in section 41-4504, Idaho
+7 Code, of one (1) or more associations meeting the requirements of para-
+8 graph (g) of this subsection;
+9 (i) Any entertainment production company covering any group of partic-
+10 ipants, volunteers, audience members, contestants, or workers;
+11 (j) Any volunteer fire department, or volunteer ambulance, rescue, po-
+12 lice, court, first aid, civil defense, or other such volunteer group;
+13 (k) Any preschool, daycare institution for children or adults, or se-
+14 nior citizen club;
+15 (l) Any automobile or truck rental or leasing company covering a group
+16 of individuals who may become renters, lessees, or passengers defined
+17 by their travel status on the rented or leased vehicles. The common car-
+18 rier, the operator, owner, or lessor of a means of transportation, or
+19 the automobile or truck rental or leasing company, is the policyholder
+20 under a policy to which this section applies; or
+21 (m) Any other group where the director has determined that the members
+22 are engaged in a common enterprise, or have an economic, educational, or
+23 social affinity or relationship, and that issuance of the policy would
+24 not be contrary to the public interest.
+25 (6) "Fulfillment materials" means documentation sent to the purchaser
+26 of a travel protection plan confirming the purchase and providing the travel
+27 protection plan's coverage and assistance details.
+28 (7) "Group travel insurance" means travel insurance issued to any eli-
+29 gible group.
+30 (8) "Limited lines travel insurance producer" has the meaning provided
+31 in section 41-1091, Idaho Code.
+32 (9) "Primary certificate holder" means an individual who elects and
+33 purchases travel insurance under a group policy.
+34 (10) "Primary policyholder" means an individual who elects and pur-
+35 chases individual travel insurance.
+36 (11) "Travel administrator" means a person who directly or indirectly
+37 underwrites, collects charges, collateral, or premiums from, or adjusts or
+38 settles claims on residents of this state, in connection with travel insur-
+39 ance, except that a person shall not be considered a travel administrator if
+40 that person's actions that would otherwise cause the person to be considered
+41 a travel administrator are limited to:
+42 (a) A person working for a travel administrator to the extent that the
+43 person's activities are subject to the supervision and control of the
+44 travel administrator;
+45 (b) An insurance producer selling insurance or engaged in administra-
+46 tive and claims-related activities within the scope of the producer's
+47 license;
+48 (c) A travel retailer offering and disseminating travel insurance and
+49 registered under the license of a limited lines travel insurance pro-
+50 ducer in accordance with this chapter;
+4
+1 (d) An individual adjusting or settling claims in the normal course of
+2 that individual's practice or employment as an attorney at law and who
+3 does not collect charges or premiums in connection with insurance cov-
+4 erage; or
+5 (e) A business entity that is affiliated with a licensed insurer while
+6 acting as a travel administrator for the direct and assumed insurance
+7 business of an affiliated insurer.
+8 (12) "Travel assistance services" means non-insurance services for
+9 which the consumer is not indemnified based on a fortuitous event and where
+10 providing the service does not result in transfer or shifting of risk that
+11 would constitute the business of insurance. Travel assistance services in-
+12 clude but are not limited to security advisories, destination information,
+13 vaccination and immunization information services, travel reservation ser-
+14 vices, entertainment, activity and event planning, translation assistance,
+15 emergency messaging, international legal and medical referrals, medical
+16 case monitoring, coordination of transportation arrangements, emergency
+17 cash transfer assistance, medical prescription replacement assistance,
+18 passport and travel document replacement assistance, lost luggage as-
+19 sistance, concierge services, and any other service that is furnished in
+20 connection with planned travel. Travel assistance services are not insur-
+21 ance and not related to insurance.
+22 (13) "Travel insurance" has the meaning provided in section 41-1091,
+23 Idaho Code.
+24 (14) "Travel protection plans" means plans that provide travel insur-
+25 ance, travel assistance services, or cancellation fee waivers.
+26 (15) "Travel retailer" has the meaning provided in section 41-1091,
+27 Idaho Code.
+28 41-4504. PREMIUM TAX. (1) A travel insurer shall pay a premium tax, as
+29 provided in section 41-402, Idaho Code, on travel insurance premiums paid
+30 by:
+31 (a) An individual primary policyholder who is a resident of this state;
+32 (b) A primary certificate holder who is a resident of this state and who
+33 elects coverage under a group travel insurance policy; or
+34 (c) A blanket travel insurance policyholder that is a resident of this
+35 state or that has its principal place of business in this state or whose
+36 affiliate or subsidiary has its principal place of business in this
+37 state, which policyholder has purchased blanket travel insurance in
+38 this state for eligible blanket group members.
+39 (2) A travel insurer shall:
+40 (a) Document the state of residence or principal place of business of
+41 the policyholder or certificate holder, as required in subsection (1)
+42 of this section; and
+43 (b) Report as premiums only the amount allocable to travel insurance
+44 and not any amounts received for travel assistance services or cancel-
+45 lation fee waivers.
+46 41-4505. TRAVEL PROTECTION PLANS. Travel protection plans may be of-
+47 fered for one (1) price for the combined features that the travel protection
+48 plan offers in this state if:
+5
+1 (1) The travel protection plan clearly discloses to the consumer, at
+2 or prior to the time of purchase, that it includes travel insurance, travel
+3 assistance services, and cancellation fee waivers, as applicable, and pro-
+4 vides information and an opportunity, at or prior to the time of purchase,
+5 for the consumer to obtain additional information regarding the features and
+6 pricing of each; and
+7 (2) The fulfillment materials:
+8 (a) Describe and delineate the travel insurance, travel assistance
+9 services, and cancellation fee waivers in the travel protection plan;
+10 and
+11 (b) Include the travel insurance disclosures and the contact informa-
+12 tion for persons providing travel assistance services and cancellation
+13 fee waivers, as applicable.
+14 41-4506. SALES PRACTICES. (1) All persons offering travel insurance
+15 to residents of this state are subject to the provisions of chapter 13, title
+16 41, Idaho Code, except as otherwise provided in this chapter. In the event of
+17 a conflict between the provisions of this chapter and other provisions of ti-
+18 tle 41, Idaho Code, regarding the sale and marketing of travel insurance and
+19 travel protection plans, the provisions of this chapter shall control.
+20 (2) Offering or selling a travel insurance policy that could never re-
+21 sult in payment of any claims for any insured under the policy is consid-
+22 ered illusory travel insurance and constitutes an unfair or deceptive act
+23 or practice prohibited pursuant to the provisions of chapter 13, title 41,
+24 Idaho Code.
+25 (3) With regard to marketing practices:
+26 (a) All documents provided to consumers prior to the purchase of travel
+27 insurance, including but not limited to sales materials, advertising
+28 materials, and marketing materials, shall be consistent with the travel
+29 insurance policy itself, including but not limited to forms, endorse-
+30 ments, policies, rate filings, and certificates of insurance.
+31 (b) For travel insurance policies or certificates that contain preex-
+32 isting condition exclusions, information and an opportunity to learn
+33 more about the preexisting condition exclusions shall be provided any
+34 time prior to the time of purchase and in the coverage's fulfillment ma-
+35 terials.
+36 (c) The fulfillment materials and the information described in sec-
+37 tion 41-1092(2)(a), Idaho Code, shall be provided to a policyholder
+38 or certificate holder as soon as practicable following the purchase
+39 of a travel protection plan. Unless the insured has either started a
+40 covered trip or filed a claim under the travel insurance coverage, a
+41 policyholder or certificate holder may cancel a policy or certificate
+42 for a full refund of the travel protection plan price from the date of
+43 purchase of a travel protection plan until at least:
+44 (i) Fifteen (15) days following the date the fulfillment mate-
+45 rials are sent by postal mail to the policyholder or certificate
+46 holder; or
+47 (ii) Ten (10) days following the date the fulfillment materials
+48 are sent by electronic means or personally handed to the policy
+49 holder or certificate holder.
+6
+1 (d) The company shall disclose in the policy documentation and fulfill-
+2 ment materials whether the travel insurance is primary or secondary to
+3 other applicable coverage.
+4 (e) Where travel insurance is marketed directly to a consumer through
+5 an insurer's website or by others through an aggregator site, it shall
+6 not be an unfair or deceptive act or practice or other violation of law
+7 for the website to provide an accurate summary or short description of
+8 coverage, as long as the consumer has access to the full provisions of
+9 the policy through electronic means.
+10 (4) No person offering, soliciting, or negotiating travel insurance or
+11 travel protection plans on an individual or group basis may do so by using
+12 negative option or opt out, which would require a consumer to take an affir-
+13 mative action to deselect coverage, such as unchecking a box on an electronic
+14 form, at the time the consumer purchases a trip.
+15 (5) It shall be an unfair or deceptive act or practice to market blanket
+16 travel insurance coverage as free.
+17 (6) Where a consumer's destination jurisdiction requires insurance
+18 coverage, it shall not be an unfair or deceptive act or practice to require
+19 that the consumer choose between the following options as a condition of
+20 purchasing a trip or travel package:
+21 (a) Purchasing the coverage required by the destination jurisdiction
+22 through the travel retailer or limited lines travel insurance producer
+23 supplying the trip or travel package; or
+24 (b) Agreeing to obtain and provide proof of coverage that meets the des-
+25 tination jurisdiction's requirements prior to departure.
+26 41-4507. TRAVEL ADMINISTRATORS. (1) Notwithstanding any other provi-
+27 sions of this title, no person shall act or represent itself as a travel ad-
+28 ministrator for travel insurance in this state unless that person:
+29 (a) Is a licensed property and casualty insurance producer in this
+30 state for activities permitted under that producer license; or
+31 (b) Holds a valid managing general agent license in this state.
+32 (2) A travel administrator and its employees are exempt from the li-
+33 censing requirement set forth in section 41-1103, Idaho Code, for travel in-
+34 surance it administers.
+35 (3) An insurer is responsible for the acts of a travel administrator ad-
+36 ministering travel insurance underwritten by the insurer and is responsible
+37 for ensuring that the travel administrator maintains all books and records
+38 relevant to the insurer, which shall be made available by the travel adminis-
+39 trator to the director upon request.
+40 41-4508. POLICY. (1) Notwithstanding any other provision of this ti-
+41 tle, and except as provided in subsection (2) of this section, travel insur-
+42 ance shall be classified and filed for purposes of rates and forms under an
+43 inland marine line of insurance.
+44 (2) Travel insurance may be filed under either an accident and health
+45 line of insurance or an inland marine line of insurance if it provides cov-
+46 erage for sickness, accident, disability, or death occurring during travel,
+47 whether exclusively or in conjunction with related coverages of emergency
+48 evacuation or repatriation of remains.
+7
+1 (3) Travel insurance may be in the form of an individual, group, or
+2 blanket policy.
+3 (4) Eligibility and underwriting standards for travel insurance may be
+4 developed and provided based on travel protection plans designed for indi-
+5 vidual or identified marketing or distribution channels, if those standards
+6 also meet the state's underwriting standards for inland marine lines of in-
+7 surance.
+8 41-4509. RULES. In accordance with this chapter and section 41-211,
+9 Idaho Code, the director may promulgate rules, subject to legislative ap-
+10 proval, as are necessary or proper to carry out the provisions of this chap-
+11 ter.
+12 SECTION 2. That Section 41-1090, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 41-1090. SHORT TITLE. Sections 41-1090 through 41-1096 41-1092, Idaho
+15 Code, shall be known and may be cited as the "Limited Lines Travel Insurance
+16 Act."
+17 SECTION 3. That Section 41-1091, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 41-1091. DEFINITIONS. As used in this chapter:
+20 (1) "Designated responsible producer" means the individual licensed
+21 producer responsible for ensuring compliance by the limited lines travel in-
+22 surance producer with travel insurance laws and rules of the state, as set
+23 forth in section 41-1092(2)(c), Idaho Code.
+24 (2) "Limited lines travel insurance producer" means a person who is a
+25 limited lines producer as defined in section 41-1003, Idaho Code.:
+26 (a) Licensed managing general agent; or
+27 (b) Licensed insurance producer, including a limited lines producer as
+28 defined in section 41-1003, Idaho Code.
+29 (3) "Offer and disseminate" means providing general information, in-
+30 cluding a description of the coverage and price, as well as processing the
+31 application, collecting premiums, and performing other activities permit-
+32 ted by the state.
+33 (4)(a) "Travel insurance" means insurance coverage for personal risks
+34 incident to planned travel including, but not limited to:
+35 (a) (i) Interruption or cancellation of a trip or event;
+36 (b) (ii) Loss of baggage or personal effects;
+37 (c) (iii) Damages to accommodations or rental vehicles; and
+38 (d) (iv) Sickness, accident, disability or death occurring during
+39 travel.;
+40 (v) Emergency evacuation;
+41 (vi) Repatriation of remains; or
+42 (vii) Any other contractual obligations to indemnify or pay a
+43 specified amount to the traveler upon determinable contingencies
+44 related to travel as approved by the director.
+45 (b) "Travel insurance" does not include major medical plans that pro-
+46 vide comprehensive medical protection for travelers with trips lasting
+8
+1 six (6) months or longer, including those working overseas as an expa-
+2 triate or military personnel being deployed, or any other product that
+3 requires a specific insurance producer license.
+4 (5) "Travel retailer" means a business entity that makes, arranges or
+5 offers travel services and may offer and disseminate travel insurance as a
+6 service to its customers on behalf of and under the direction of a limited
+7 lines travel insurance producer.
+8 SECTION 4. That Section 41-1092, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 41-1092. REQUIREMENTS FOR LIMITED LINES TRAVEL INSURANCE PRODUC-
+11 ERS. Notwithstanding any other provision of law:
+12 (1) The director may issue to an individual or business entity that has
+13 filed with the director an application, in a form and manner prescribed by
+14 the director, a limited lines travel insurance producer license that autho-
+15 rizes the limited lines travel insurance producer to sell, solicit or nego-
+16 tiate travel insurance on behalf of a licensed insurer. No person may act as
+17 a limited lines travel insurance producer or travel retailer unless properly
+18 licensed or registered, respectively.
+19 (2) A travel retailer may offer and disseminate travel insurance under
+20 a limited lines travel insurance producer's business entity license only if
+21 the following conditions are met:
+22 (a) The limited lines travel insurance producer or travel retailer pro-
+23 vides to policyholders purchasers of travel insurance:
+24 (i) A description of the material terms or the actual material
+25 terms of the insurance coverage;
+26 (ii) A description of the process for filing a claim;
+27 (iii) A description of the review or cancellation process for the
+28 travel insurance policy, including any forfeiture fees; and
+29 (iv) The identity and contact information of the insurer and lim-
+30 ited lines travel insurance producer.
+31 (b) At the time of licensure, the limited lines travel insurance pro-
+32 ducer shall establish and maintain a register on a form prescribed by
+33 the director of each travel retailer that offers travel insurance on
+34 the limited lines travel insurance producer's behalf. The register
+35 shall be maintained and updated annually, at a minimum, by the limited
+36 lines travel insurance producer and shall include the name, address,
+37 and contact information of the travel retailer and an officer or person
+38 who directs or controls the travel retailer's operations, as well as the
+39 travel retailer's federal tax identification number. The limited lines
+40 travel insurance producer shall submit such register from the previous
+41 year to the department on March 1 of each year. The limited lines travel
+42 insurance producer shall also certify that the registered travel re-
+43 tailer complies with 18 U.S.C. 1033. The limited lines travel insurance
+44 producer shall report its Idaho annual written premium to the direc-
+45 tor on an annual basis. The grounds for suspension and revocation and
+46 the penalties applicable to insurance producers set forth in sections
+47 41-1016 and 41-1026, Idaho Code, shall apply to the limited lines travel
+48 insurance producers and travel retailers.
+9
+1 (c) The limited lines travel insurance producer has designated one (1)
+2 of its employees, who is a licensed individual producer, as a designated
+3 responsible producer who shall be responsible for the limited lines
+4 travel insurance producer's compliance with the travel insurance laws,
+5 rules and regulations of the state.
+6 (d) The designated responsible producer, president, secretary, trea-
+7 surer and any other officer or person who directs or controls the lim-
+8 ited lines travel insurance producer's insurance operations shall com-
+9 ply with the fingerprinting requirements applicable to insurance pro-
+10 ducers in the resident state of the limited lines travel insurance pro-
+11 ducer.
+12 (e) The limited lines travel insurance producer has paid all applicable
+13 insurance producer licensing fees as set forth in applicable state law.
+14 (f) The limited lines travel insurance producer requires each employee
+15 and authorized representative of the travel retailer whose duties in-
+16 clude offering and disseminating travel insurance to receive a program
+17 of instruction or training that shall be subject to review by the direc-
+18 tor. The training material shall, at a minimum, contain instructions
+19 on the types of insurance offered, ethical sales practices and required
+20 disclosures to prospective customers.
+21 (3) Any travel retailer offering or disseminating travel insurance
+22 shall make available to prospective purchasers brochures or other written
+23 materials that have been approved by the travel insurer. Such materials
+24 shall include information that, at a minimum:
+25 (a) Provides the identity and contact information of the insurer and
+26 the limited lines travel insurance producer;
+27 (b) Explains that the purchase of travel insurance is not required in
+28 order to purchase any other product or service from the travel retailer;
+29 and
+30 (c) Explains that an unlicensed travel retailer is permitted to provide
+31 general information about the insurance offered by the travel retailer,
+32 including a description of the coverage and price, but is not qualified
+33 or authorized to answer technical questions about the terms and condi-
+34 tions of the insurance offered by the travel retailer or to evaluate the
+35 adequacy of the customer's existing insurance coverage.
+36 (4) A travel retailer's employees or authorized representatives who
+37 are not licensed as insurance producers may not:
+38 (a) Evaluate or interpret the technical terms, benefits and conditions
+39 of the offered travel insurance coverage;
+40 (b) Evaluate or provide advice concerning a prospective purchaser's
+41 existing insurance coverage; or
+42 (c) Hold himself or itself out as a licensed insurer, licensed producer
+43 or insurance expert.
+44 (5) A travel retailer and its employees and authorized representatives
+45 whose insurance-related activities are limited to offering and disseminat-
+46 ing travel insurance on behalf of and under the direction of a limited lines
+47 travel insurance producer meeting the conditions set forth in chapter 45,
+48 title 41, Idaho Code, is authorized to perform such activities and to receive
+49 related compensation upon registration by the limited lines travel insur-
+10
+1 ance producer in accordance with the provisions of subsection (2)(b) of this
+2 section.
+3 (6) As the insurer's designee, the limited lines travel insurance pro-
+4 ducer is responsible for the acts of the travel retailer and shall use rea-
+5 sonable means to ensure compliance with this chapter by the travel retailer.
+6 (7) Any person licensed in a major line of authority as an insurance
+7 producer is authorized to sell, solicit, and negotiate travel insurance. A
+8 property and casualty insurance producer is not required to become appointed
+9 by an insurer in order to sell, solicit, or negotiate travel insurance.
+10 SECTION 5. That Section 41-1093, Idaho Code, be, and the same is hereby
+11 repealed.
+12 SECTION 6. That Section 41-1094, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 7. That Section 41-1095, Idaho Code, be, and the same is hereby
+15 repealed.
+16 SECTION 8. That Section 41-1096, Idaho Code, be, and the same is hereby
+17 repealed.
+18 SECTION 9. That Section 41-1097, Idaho Code, be, and the same is hereby
+19 repealed.
+20 SECTION 10. That Section 41-1003, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 41-1003. DEFINITIONS. (1) "Business entity" means a corporation, as-
+23 sociation, partnership, limited liability company, limited liability part-
+24 nership or other legal entity.
+25 (2) "Home state" means the District of Columbia and any state or terri-
+26 tory of the United States or any province of Canada in which an insurance pro-
+27 ducer maintains his or her principal place of residence or principal place of
+28 business and is licensed to act as an insurance producer.
+29 (3) "License" means a document issued by the director authorizing a
+30 person to act as an insurance producer for the lines of authority specified
+31 in the document. The license itself does not create any authority, actual,
+32 apparent or inherent, in the holder to represent or commit an insurance car-
+33 rier.
+34 (4) "Limited lines insurance" is insurance which restricts the author-
+35 ity of the license to less than the total authority prescribed in the as-
+36 sociated major lines pursuant to section 41-1008(1)(a) through (g), Idaho
+37 Code, and shall include, but not be limited to: credit life, credit disabil-
+38 ity, credit property, credit unemployment, involuntary unemployment, mort-
+39 gage life, mortgage guaranty, mortgage disability, guaranteed automobile
+40 protection (GAP) insurance, transportation baggage insurance, transporta-
+41 tion ticket policies covering personal accident insurance, pet insurance,
+42 portable electronics insurance, travel insurance or any other line of insur-
+43 ance that the director deems necessary to recognize for the purposes of com-
+44 plying with section 41-1009(5), Idaho Code.
+11
+1 (5) "Limited lines producer" means a producer authorized by the direc-
+2 tor to sell, solicit or negotiate limited lines insurance. "Limited lines
+3 producer" includes a "limited lines travel insurance producer" as used in
+4 sections 41-1090 through 41-1096, Idaho Code.
+5 (6) "Negotiate" means the act of conferring directly with or offering
+6 advice directly to a purchaser or prospective purchaser of a particular con-
+7 tract of insurance concerning any of the substantive benefits, terms or con-
+8 ditions of the contract, provided that the person engaged in the act either
+9 sells insurance or obtains insurance from insurers for purchasers.
+10 (7) "Person" means an individual or a business entity.
+11 (8) "Producer" means a person required to be licensed under the laws of
+12 this state to sell, solicit or negotiate insurance.
+13 (9) "Resident" means a person whose home state is Idaho or any other
+14 particular state identified in conjunction with the use of the term.
+15 (10) "Sell" means to exchange a contract of insurance by any means, for
+16 money or its equivalent, on behalf of an insurance company.
+17 (11) "Solicit" means attempting to sell insurance or asking or urging a
+18 person to apply for a particular kind of insurance from a particular company
+19 or companies.
+20 (12) "Terminate" means the cancellation of the relationship between an
+21 insurance producer and the insurer or the termination of a producer's au-
+22 thority to transact insurance for or on behalf of an insurer.
+23 (13) "Uniform application" means the current version of the national
+24 association of insurance commissioners (NAIC) uniform application for resi-
+25 dent and nonresident producer licensing.
+26 (14) "Uniform business entity application" means the current version of
+27 the NAIC uniform business entity application for resident and nonresident
+28 business entities.
+29 SECTION 11. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOTEIOTLIEA;AGTE4,IOCYTEANOFANWCR4,TE4,IOC,TOPRASTT,TOPEFRTEPEOFTEC,TOD,TOEHPSRGAPMT,TOESRGTLPNP,TOEHPGSSP,TOEHPSRGT,TOEHPSRGTLIYCNADS,ADTOEHRGP;AGSN4,IOC,TOREAPGTESTT;AGSN4,IOC,TEDSADTODET;AGSN4,I,TOREPSRGRSFRLDLLIEP;RGSN4,IOCGTOR;RGSN4,IOC,RGTOPYT;RGSN4,IOC,ROTERYOFLDLSTLIEP;RGSN4,IOC,RGTONEOSATO;RGSN4,IOC,RGTOE;AGSN4,IOC,TOREAD;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr4,Te4,IoC,adtordasfR4OTLIEA.STT.Tscrslbeknadmybecdae"oTlIeA.P.()Tepeoftscristopetcwebycgacellfkwnwliemybesdintss)Tersoftscraytotlietsayrtoftsseadttiss,s,nrodintsseadtocsttaeddorirdyintss.Tepsoftscrdontaytnfewsortlaes,etasedintsc)Aloraepsofteielsintsslcetoaytotli,ettttescp]
+[DELETED: softscrslseayglpsoflwtdoebeaetotli.D.Asudintsc)"rs"msawettpsastoinrgiepsfmmetnoe()i,itadiri,frueincns)"ttli"msapyoftlieidtoayeegppgcefrsccsofpsddintepywhcepdtoalmsofteeegpwtasecetoilmsoftee)"nfew"msaclatbnroftlssadiscrtoweseoraloftenecnfepsoftessugttwhorwtrdtoternfrtecnorfmo.Acnfewrisnti)""mstedroftedtofi)"eg"m,syfrtepsoftli,to()ormepswoaeedinacneeorhne,e,orslayorr,igbtldt)Ayeyedintebsofpgtlort,wnwhrdtoayprtlorteoftrt,almsorcsoftegpheacneetorkattosht.Shesiebtaendtotro,lgp,vnpyo,hsadr,tlc,tla,pym,cleep,adcncsorteo,o,orlrofamsoftnofp,ssa,cel,r,spc,adpsc)Ayc,s,ororinoflgcgapofs,t,e,orv)Ayercgaygpofe,v,c,bdofd,d,org)Aysst,c,orsrt,cgaygpo,m,c,e,o,s,o)Ayr,c,r,e,orcco,orbht,cgaygpofm,p,orv)Ayflinorflinv,orathgc,t,oratordeofoe()ormlisorflinv,ith,ctcdh,d,g,orp)Ayidoruda,igl,hgacni,c,adb,adodadmdingdfhfrpsortno]
+[DELETED: efrmsorpsofshancgi)Ayttortetsofafde,c,ormdfrtebtofadcgagpofm,e,o,sttotedspgteueofattaesspmtxpsstfhinsn4,I,ofoe()ormeasmgtersofph()oftss)Ayetpncycgaygpofp,v,aem,c,orw)Ayvrfed,orvra,r,p,c,fta,cld,ororshvrg)Ayp,deinfrcnora,orsrcnc)Ayaeortkrlorlgcycgagfiswomyber,l,orpsdytrtlssonterdorldv.Tecnc,teo,o,orlrofamsoft,oeaeortkrlorlgc,isteprapytowhtssna;o)Ayorgpwetedrhsddtttemeedinacne,orheane,e,olayorr,adttieoftepywtbecytotepci)"tm"msdnsttotepfatlpnpncgtepeadpgtetnpsceadaed)"ptli"mstlieidtoayeeg)"dlstliep"hstemgpnsn4,IoC)"yceh"msanilwoesastlieuragpp)"yp"msanilwoesadpsiltli)"la"msapnwodyori,csc,c,orpsf,orasoscsonrsoftss,incnwhtli,etttapnslntbecdatlaritpsasttwdoecetepntobectlaraeldt)Apnwgfratlartoteettttsasaesttotesnadcloftla)Anieprsgieoredinaeadcdaswnteseoftep)Atlrrogaddgtlieadurteleofaldlstlieprinaewhtsc]
+[DELETED: )Anilagorsgcsintenlceotispeoretasanayatlwadwsntctcsorpsincnwhiec;o)Abseyttisadwhaldirwgasatlarfrtedtadadisofanadi)"laes"msnessfhtecrisntidbdonafsetadwgtesedsntrtintrorsgofrktdcetebsofi.Tlaessiebtaentldtosya,dninadinins,tlrns,e,ayadetp,tnaym,illladmlr,mem,cnoftna,ehtra,mlpnrtatadtldtrta,ltlea,ces,adayorsettisfdinwhpdt.Tlaessaentieadntrdtoi)"li"hstemgpdinsn4oC)"lpnp"mspsttpetli,tlaes,orcnfew)"lr"hstemgpdinsn4oC.PMT.()Atlirslpyapmt,adinsn4,IoC,ontliepsp)Anilpyprwoisartoftss)Apycehrwoisartoftsseadwsceuragptliep;o)Abttlieprttisartofteortthsisplpeofbsintsseorweorsyhsisplpeofbsint,whprhspdbttlieissefreebtgpm)Atlirs)Dtteseofreorplpeofbsoeprorceh,asrdinsn(ftss;a)Rtaspsoyteataetotlidntayasrdfrtlaessorcnfew.TLPNP.Tlpnpsmybeodfroe()pefrtecdfstttetlpnosintssei]
+[DELETED: )Tetlpnpncydstotec,arprtoteteofp,ttitistli,tes,adcnfew,asa,adpsinadano,atorprtoteteofprtecrtoonalinrgtefsagofe;a)Teftm)Deaddetetli,tla,adcnfewsintetlpnp)Ietetliedsadtectinfrpspgtlaessadcew,asa.SSP.()Alpsogtliorsoftsseaesttotepsofcr1,t,IoC,etasoepdintsc.Inteetoctbntepsoftscradorpsofte4,IoC,rgteseadmgoftliealpnp,tepsoftscrslc)Ogorsgatliepyttcdnrrtinptofaycsfrayidurtepyiscdiytlieadcsanurordearpepdpttotepsofcr1,te4oC)Whrdtomgp)Aldspdtocsprtotepeoft,igbtntldtossm,a,admgm,slbectwhtetepyi,igbtntldtof,e,p,ref,adcsofi)Frtliepsorcsttcnpgcne,inadanoytoleattepgcnesslbepdaeprtoteteofpeadintecsftm)Teftmsadteinddinsn4,IoC,slbepdtoaprcehrassnaspefgtepfatlpnp.Usteidhsersddtporfdacmurtetliec,rorcehrmyclapyorcraflrdoftetlpnpnpefmtedeoeofatlpnpnulatl)Fn()dsfgtedeteftmsaestbyplmltoteprorc;o)Tn()dsfgtedeteftmestbyecmsorpyhdtoteprorceh]
+[DELETED: )Tecysldeintepydnadftmswrtetlieispyorsytraec)Wetlieismddytoacrtnisweorbyosthanars,itstbeanurordeatorpeororvnoflrtewetopeanaesyorstdno,aslgastecrhsastoteflpsoepythecm)Nopno,s,orngtlieolpnpsonanilorgpbsmydosobyueonoroto,whwdreacrtoteanaeantodtc,shasugabxonane,attetetecrpsat)Itslbeanurordeatorpetomtblieceasf)Weacsdnjnrsi,itslntbeanurordeatorpetorttecrcebntefgosasacnogatportlp)Pgtecerdbytednjhtetlrrorldlstliepgtetportlp;o)Agtoonadpepfofcettmstednjsrsprtod.TLA.()Ngayorpsoftst,nopnslatorrtifasatlarfrtlieintsseusttp)Isaldpyadcyieprintefraspdurttprl;o)Hsavdmgglatleintss)Atlaradisesaeetfmtelgrtstfhinsn4,IoC,frtlieita)Anirisrefrteasofatlaragtlieunbyteiradisrregtttetlarmsalbsadrttotei,whslbemeaebytetlartotedrunr.P.()Ngayorpnoftst,adetaspdinsn()oftss,tlieslbecdadfdfrpsofrsadfsuradmeleofi)Tliemybefdureranatadheofieoranidmeleofieifitpscefrs,a,d,ordhogdgtreyorincnwhrdcsofenorrnofr]
+[DELETED: )Tliemybeintefmofani,g,otp)Eyadugssfrtliemybdadpdbdontlpnpsddfriloridmgordnc,iftesomttessugssfridmelsofi.R.Inaewhtscradsn4oC,tedrmyper,sttolea,asaenyorprtocyottepsoftscN2.TtSn4,IoC,b,adteseishdtordasf.STT.Ss40th464,I,slbeknadmybecdaste"dLsTlIN3.TtSn4,IoC,b,adteseishdtordasf.D.Asudintsc)"drep"msteillrrefregcebyteldlstlieprwhtlielsadrsoftes,asshinsn4,IoC)"dlstliep"msapnwoisdlsprasddinsn4,IoC)Ldmggla;o)Ldiep,igaldlspradinsn4,IoC)"radd"mspggli,igadnofteceadp,aswlaspgt,cgp,adpgoraspdbytes)"li"msiecefrplrttopdtli,btntldt)()Inorcnofatpore)()Lsofbeorple)()Dstoasorrlv;a)()S,a,dyordhogd)Eye)Rnofr;o)Ayorclostoiyorpydattotetrundecdtotlasadbyted)"li"dsntiemrmlpsttpecemlpnfrtswhtsl]
+[DELETED: x()msorl,igtewgosasaneeormyplbgd,orayorpttsascieprl)"lr"msabseyttm,asostlssadmyoraddetlieasetoiscsonbfofadurtednofalstliepN4.TtSn4,IoC,b,adteseishdtordasf.RSFRLDLSTLIEP.Ngayorpnofl)Tedrmyietoanilorbseytthdwhtedrana,inafmadmrpdbed,aldlstlieprlettasteldlstlieprtos,stornetlieonbfofaldi.Nopnmyataldlstlieprortlrruspdorr,r)Atlrrmyoraddetlieuldlstliepsbseyleoyiefgcsaem)Teldlstlieprortlrrpstopspsoftli)Adnoftemltsortealmsofteiec)Adnoftepsfrfgac)Adnofterworcnpsfrtliep,igayfef;a)Teiyadctinofteiradldlstliep)Atteteofl,teldlstlieprslehadmnarronafmpdbedrofehtlrrttostlieoeldlstliepsb.Terlbemdaduda,atam,bytelstliepradslieten,adctinoftetlrradanororpodsorcstetlrso,aswlastlrsfltxinn.TeldllieprslstshrrfmteprtotedtonMh1ofehy.Teldlsteprslaocyttterdtlrrcswh18U.1.TeldlstlirslrtisIoalwnpmtotedronanalb.Tegsfrsnadrnaepsaetoiepsstfhins6ad4,IoC,slaytoteldlstepsadtlr]
+[DELETED: )Teldlstlieprhsddoe(fise,woisaldilp,asadeprwoslberefrteldlliepscewhtetlielsadrsoftes)Teddrep,p,s,tradayorororpnwodsorcsteldlstliepsieosslcywhtefgrsaetoiepsintertseofteldlstliep)Teldlstlieprhspdalaeprlgfsasstfhinaesel)Teldlstlieprrsehedadreoftetlrrwedsieogaddgtlietoreapfinortgttslbesttorwbyted.Tetgmls,atam,cnintetsofieo,elsspsadrstopec)Aytlrrogordgtlilmeaetopepsbsororwstthebnadbytetli.Shmlieint,atam)Psteiyadctinofteiraeldlstliep)Estttepeoftlieisntrdirtopeayorptorsefmtetlr)Esttanudtlrrispdtoplinatteieodbytetlrgadnofteceadp,btisntqradtoartlqsattetsadcsofteieodbytetlrrortoeetyoftecsegiec)Atlrsesoradrswentldasiepsmyn)Eeorittetlt,bsadcfteodtliec)Eeorpeaecgapepgiec;o)Hdhforifotasaldi,ldpriee)Atlrradisesadadreidasaeldtoogaddgtlieonbfofadurtednofaldllieprmgtecsstfhincr4e4,IoC,isadtopmshasadtordcnunrnbyteldlstli]
+[DELETED: eprinaewhtepsofsn()oft)Asteisd,teldlstlieprisrefrteasoftetlrradslueremstoeecewhtscrbytetlr)Aypnldinamrleofayasanirisadtos,s,adnetli.yadcyieprisntrdtobeayanirinortos,s,ornetliN5.TtSn4IoC,b,adteseishN6.TtSn4,IoC,b,adteseishN7.TtSn4,IoC,b,adteseishN8.TtSn4,IoC,b,adteseishN9.TtSn4,IoC,b,adteseishN1.TtSn4,IoC,b,adteseishdtordasf.D.()"se"msac,a,p,ldlyc,ldlyppororlle)"es"msteDtofCaadayseortyofteUdSsoraypeofCainwhanieprmshsorhrplpeofreorplpeosadisldtoatasaniep)""msadtidbytedragntoatasanieprfrtelsofaysnted.Teleifdsntceaya,atori,intehrtortorctaniec)"dlsi"isiewhrsteayofteletolstntetlaypdinteadmrlspttosn4)th(,I,adsli,btntbeldt:ctl,ctd,ctp,ctu,iyu,mel,meg,med,gdan()i,tnbei,tnttpscgplati,ptieesi,tlieorayorleofietttedrdsnytorefrtepsofcgwhsn4,IoC]
+[DELETED: )"dlsp"msapradbytedrtos,storneldlsi."dl"isa"dlstliep"asudis40th4,IoC)""msteatofcgdywhoroedytoaprorpeprofaprctofiecgayofteseb,tsorcsoftec,pdtttepnedinteatesieorosiefmisfrp)""msanilorabse)""msapnrdtobeldurtelsossetos,stornei)""msapnweheseisIoorayorseidincnwhteueoftet)""mstoeeactofiebyaym,fyorise,onbfofaniec)""msagtoslieoragorugntoayfraprkdofiefmaprcrc)""mstecnofterpbnaepradteirortetnofapsaytottiefroronbfofani)"ma"mstectvnoftennofiecs()umanfrrtadntprl)"mbseya"mstectvnoeNCumbseyanfrrtadnseN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1151
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO TRAVEL INSURANCE ACT; AMENDING TITLE 41, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 45, TITLE 41, IDAHO CODE, TO PROVIDE
+4 FOR A SHORT TITLE, TO PROVIDE FOR THE PURPOSE OF THE CHAPTER, TO DEFINE
+5 TERMS, TO ESTABLISH PROVISIONS REGARDING A PREMIUM TAX, TO ESTABLISH
+6 PROVISIONS REGARDING TRAVEL PROTECTION PLANS, TO ESTABLISH PROVISIONS
+7 REGARDING SALES PRACTICES, TO ESTABLISH PROVISIONS REGARDING TRAVEL
+8 ADMINISTRATORS, TO ESTABLISH PROVISIONS REGARDING TRAVEL INSURANCE
+9 POLICY CLASSIFICATION AND STANDARDS, AND TO ESTABLISH RULEMAKING PRO-
+10 VISIONS; AMENDING SECTION 41-1090, IDAHO CODE, TO REVISE A PROVISION
+11 REGARDING THE SHORT TITLE; AMENDING SECTION 41-1091, IDAHO CODE, TO
+12 REVISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SECTION 41-1092, IDAHO
+13 CODE, TO REVISE PROVISIONS REGARDING REQUIREMENTS FOR LIMITED LINES
+14 TRAVEL INSURANCE PRODUCERS; REPEALING SECTION 41-1093, IDAHO CODE,
+15 RELATING TO REGISTRATION; REPEALING SECTION 41-1094, IDAHO CODE, RE-
+16 LATING TO POLICY TYPES; REPEALING SECTION 41-1095, IDAHO CODE, RELATING
+17 TO THE RESPONSIBILITY OF LIMITED LINES TRAVEL INSURANCE PRODUCERS; RE-
+18 PEALING SECTION 41-1096, IDAHO CODE, RELATING TO NEGATIVE OPTIONS AND
+19 OPT OUTS; REPEALING SECTION 41-1097, IDAHO CODE, RELATING TO ENFORCE-
+20 MENT; AMENDING SECTION 41-1003, IDAHO CODE, TO REVISE A DEFINITION; AND
+21 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That Title 41, Idaho Code, be, and the same is hereby amended
+24 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+25 ter 45, Title 41, Idaho Code, and to read as follows:
+26 CHAPTER 45
+27 IDAHO TRAVEL INSURANCE ACT
+28 41-4501. SHORT TITLE. This chapter shall be known and may be cited as
+29 the "Idaho Travel Insurance Act."
+30 41-4502. PURPOSE. (1) The purpose of this chapter is to promote the
+31 public welfare by creating a comprehensive legal framework within which
+32 travel insurance may be sold in this state.
+33 (2) The requirements of this chapter apply to travel insurance that
+34 covers any resident of this state and that is sold, solicited, negotiated,
+35 or offered in this state and to certificates that are delivered or issued
+36 for delivery in this state. The provisions of this chapter do not apply to
+37 cancellation fee waivers or travel assistance services, except as expressly
+38 provided in this chapter.
+39 (3) All other applicable provisions of the insurance laws in this state
+40 shall continue to apply to travel insurance, except that the specific pro-
+
+2
+1 visions of this chapter shall supersede any general provisions of law that
+2 would otherwise be applicable to travel insurance.
+3 41-4503. DEFINITIONS. As used in this chapter:
+4 (1) "Aggregator site" means a website that provides access to informa-
+5 tion regarding insurance products from more than one (1) insurer, including
+6 product and insurer information, for use in comparison shopping.
+7 (2) "Blanket travel insurance" means a policy of travel insurance is-
+8 sued to any eligible group providing coverage for specific classes of per-
+9 sons defined in the policy with coverage provided to all members of the eli-
+10 gible group without a separate charge to individual members of the eligible
+11 group.
+12 (3) "Cancellation fee waiver" means a contractual agreement between a
+13 supplier of travel services and its customer to waive some or all of the non-
+14 refundable cancellation fee provisions of the supplier's underlying travel
+15 contract with or without regard to the reason for the cancellation or form of
+16 reimbursement. A cancellation fee waiver is not insurance.
+17 (4) "Director" means the director of the department of insurance.
+18 (5) "Eligible group" means, solely for the purposes of travel insur-
+19 ance, two (2) or more persons who are engaged in a common enterprise or have
+20 an economic, educational, or social affinity or relationship, including but
+21 not limited to:
+22 (a) Any entity engaged in the business of providing travel or travel
+23 services, wherein with regard to any particular travel or type of travel
+24 or travelers, all members or customers of the group have a common expo-
+25 sure to risk attendant to such travel. Such entities include but are not
+26 limited to tour operators, lodging providers, vacation property own-
+27 ers, hotels and resorts, travel clubs, travel agencies, property man-
+28 agers, cultural exchange programs, and common carriers or the opera-
+29 tor, owner, or lessor of a means of transportation of passengers, such
+30 as airlines, cruise lines, railroads, steamship companies, and public
+31 bus carriers;
+32 (b) Any college, school, or other institution of learning covering any
+33 group of students, teachers, employees, or volunteers;
+34 (c) Any employer covering any group of employees, volunteers, contrac-
+35 tors, board of directors, dependents, or guests;
+36 (d) Any sports team, camp, or sponsor thereof, covering any group of
+37 participants, members, campers, employees, officials, supervisors, or
+38 volunteers;
+39 (e) Any religious, charitable, recreational, educational, or civic or-
+40 ganization, or branch thereof, covering any group of members, partici-
+41 pants, or volunteers;
+42 (f) Any financial institution or financial institution vendor, or any
+43 parent holding company, trustee, or agent or designee of one (1) or more
+44 financial institutions or financial institution vendors, including
+45 account holders, credit card holders, debtors, guarantors, or pur-
+46 chasers;
+47 (g) Any incorporated or unincorporated association, including labor
+48 unions, having a common interest, constitution, and bylaws, and orga-
+49 nized and maintained in good faith for purposes other than obtaining
+
+3
+1 insurance for members or participants of such association covering its
+2 members;
+3 (h) Any trust or the trustees of a fund established, created, or main-
+4 tained for the benefit of and covering a group of members, employees, or
+5 customers, subject to the director's permitting the use of a trust and
+6 the state's premium tax provisions set forth in section 41-4504, Idaho
+7 Code, of one (1) or more associations meeting the requirements of para-
+8 graph (g) of this subsection;
+9 (i) Any entertainment production company covering any group of partic-
+10 ipants, volunteers, audience members, contestants, or workers;
+11 (j) Any volunteer fire department, or volunteer ambulance, rescue, po-
+12 lice, court, first aid, civil defense, or other such volunteer group;
+13 (k) Any preschool, daycare institution for children or adults, or se-
+14 nior citizen club;
+15 (l) Any automobile or truck rental or leasing company covering a group
+16 of individuals who may become renters, lessees, or passengers defined
+17 by their travel status on the rented or leased vehicles. The common car-
+18 rier, the operator, owner, or lessor of a means of transportation, or
+19 the automobile or truck rental or leasing company, is the policyholder
+20 under a policy to which this section applies; or
+21 (m) Any other group where the director has determined that the members
+22 are engaged in a common enterprise, or have an economic, educational, or
+23 social affinity or relationship, and that issuance of the policy would
+24 not be contrary to the public interest.
+25 (6) "Fulfillment materials" means documentation sent to the purchaser
+26 of a travel protection plan confirming the purchase and providing the travel
+27 protection plan's coverage and assistance details.
+28 (7) "Group travel insurance" means travel insurance issued to any eli-
+29 gible group.
+30 (8) "Limited lines travel insurance producer" has the meaning provided
+31 in section 41-1091, Idaho Code.
+32 (9) "Primary certificate holder" means an individual who elects and
+33 purchases travel insurance under a group policy.
+34 (10) "Primary policyholder" means an individual who elects and pur-
+35 chases individual travel insurance.
+36 (11) "Travel administrator" means a person who directly or indirectly
+37 underwrites, collects charges, collateral, or premiums from, or adjusts or
+38 settles claims on residents of this state, in connection with travel insur-
+39 ance, except that a person shall not be considered a travel administrator if
+40 that person's actions that would otherwise cause the person to be considered
+41 a travel administrator are limited to:
+42 (a) A person working for a travel administrator to the extent that the
+43 person's activities are subject to the supervision and control of the
+44 travel administrator;
+45 (b) An insurance producer selling insurance or engaged in administra-
+46 tive and claims-related activities within the scope of the producer's
+47 license;
+48 (c) A travel retailer offering and disseminating travel insurance and
+49 registered under the license of a limited lines travel insurance pro-
+50 ducer in accordance with this chapter;
+
+4
+1 (d) An individual adjusting or settling claims in the normal course of
+2 that individual's practice or employment as an attorney at law and who
+3 does not collect charges or premiums in connection with insurance cov-
+4 erage; or
+5 (e) A business entity that is affiliated with a licensed insurer while
+6 acting as a travel administrator for the direct and assumed insurance
+7 business of an affiliated insurer.
+8 (12) "Travel assistance services" means non-insurance services for
+9 which the consumer is not indemnified based on a fortuitous event and where
+10 providing the service does not result in transfer or shifting of risk that
+11 would constitute the business of insurance. Travel assistance services in-
+12 clude but are not limited to security advisories, destination information,
+13 vaccination and immunization information services, travel reservation ser-
+14 vices, entertainment, activity and event planning, translation assistance,
+15 emergency messaging, international legal and medical referrals, medical
+16 case monitoring, coordination of transportation arrangements, emergency
+17 cash transfer assistance, medical prescription replacement assistance,
+18 passport and travel document replacement assistance, lost luggage as-
+19 sistance, concierge services, and any other service that is furnished in
+20 connection with planned travel. Travel assistance services are not insur-
+21 ance and not related to insurance.
+22 (13) "Travel insurance" has the meaning provided in section 41-1091,
+23 Idaho Code.
+24 (14) "Travel protection plans" means plans that provide travel insur-
+25 ance, travel assistance services, or cancellation fee waivers.
+26 (15) "Travel retailer" has the meaning provided in section 41-1091,
+27 Idaho Code.
+28 41-4504. PREMIUM TAX. (1) A travel insurer shall pay a premium tax, as
+29 provided in section 41-402, Idaho Code, on travel insurance premiums paid
+30 by:
+31 (a) An individual primary policyholder who is a resident of this state;
+32 (b) A primary certificate holder who is a resident of this state and who
+33 elects coverage under a group travel insurance policy; or
+34 (c) A blanket travel insurance policyholder that is a resident of this
+35 state or that has its principal place of business in this state or whose
+36 affiliate or subsidiary has its principal place of business in this
+37 state, which policyholder has purchased blanket travel insurance in
+38 this state for eligible blanket group members.
+39 (2) A travel insurer shall:
+40 (a) Document the state of residence or principal place of business of
+41 the policyholder or certificate holder, as required in subsection (1)
+42 of this section; and
+43 (b) Report as premiums only the amount allocable to travel insurance
+44 and not any amounts received for travel assistance services or cancel-
+45 lation fee waivers.
+46 41-4505. TRAVEL PROTECTION PLANS. Travel protection plans may be of-
+47 fered for one (1) price for the combined features that the travel protection
+48 plan offers in this state if:
+
+5
+1 (1) The travel protection plan clearly discloses to the consumer, at
+2 or prior to the time of purchase, that it includes travel insurance, travel
+3 assistance services, and cancellation fee waivers, as applicable, and pro-
+4 vides information and an opportunity, at or prior to the time of purchase,
+5 for the consumer to obtain additional information regarding the features and
+6 pricing of each; and
+7 (2) The fulfillment materials:
+8 (a) Describe and delineate the travel insurance, travel assistance
+9 services, and cancellation fee waivers in the travel protection plan;
+10 and
+11 (b) Include the travel insurance disclosures and the contact informa-
+12 tion for persons providing travel assistance services and cancellation
+13 fee waivers, as applicable.
+14 41-4506. SALES PRACTICES. (1) All persons offering travel insurance
+15 to residents of this state are subject to the provisions of chapter 13, title
+16 41, Idaho Code, except as otherwise provided in this chapter. In the event of
+17 a conflict between the provisions of this chapter and other provisions of ti-
+18 tle 41, Idaho Code, regarding the sale and marketing of travel insurance and
+19 travel protection plans, the provisions of this chapter shall control.
+20 (2) Offering or selling a travel insurance policy that could never re-
+21 sult in payment of any claims for any insured under the policy is consid-
+22 ered illusory travel insurance and constitutes an unfair or deceptive act
+23 or practice prohibited pursuant to the provisions of chapter 13, title 41,
+24 Idaho Code.
+25 (3) With regard to marketing practices:
+26 (a) All documents provided to consumers prior to the purchase of travel
+27 insurance, including but not limited to sales materials, advertising
+28 materials, and marketing materials, shall be consistent with the travel
+29 insurance policy itself, including but not limited to forms, endorse-
+30 ments, policies, rate filings, and certificates of insurance.
+31 (b) For travel insurance policies or certificates that contain preex-
+32 isting condition exclusions, information and an opportunity to learn
+33 more about the preexisting condition exclusions shall be provided any
+34 time prior to the time of purchase and in the coverage's fulfillment ma-
+35 terials.
+36 (c) The fulfillment materials and the information described in sec-
+37 tion 41-1092(2)(a), Idaho Code, shall be provided to a policyholder
+38 or certificate holder as soon as practicable following the purchase
+39 of a travel protection plan. Unless the insured has either started a
+40 covered trip or filed a claim under the travel insurance coverage, a
+41 policyholder or certificate holder may cancel a policy or certificate
+42 for a full refund of the travel protection plan price from the date of
+43 purchase of a travel protection plan until at least:
+44 (i) Fifteen (15) days following the date the fulfillment mate-
+45 rials are sent by postal mail to the policyholder or certificate
+46 holder; or
+47 (ii) Ten (10) days following the date the fulfillment materials
+48 are sent by electronic means or personally handed to the policy
+49 holder or certificate holder.
+
+6
+1 (d) The company shall disclose in the policy documentation and fulfill-
+2 ment materials whether the travel insurance is primary or secondary to
+3 other applicable coverage.
+4 (e) Where travel insurance is marketed directly to a consumer through
+5 an insurer's website or by others through an aggregator site, it shall
+6 not be an unfair or deceptive act or practice or other violation of law
+7 for the website to provide an accurate summary or short description of
+8 coverage, as long as the consumer has access to the full provisions of
+9 the policy through electronic means.
+10 (4) No person offering, soliciting, or negotiating travel insurance or
+11 travel protection plans on an individual or group basis may do so by using
+12 negative option or opt out, which would require a consumer to take an affir-
+13 mative action to deselect coverage, such as unchecking a box on an electronic
+14 form, at the time the consumer purchases a trip.
+15 (5) It shall be an unfair or deceptive act or practice to market blanket
+16 travel insurance coverage as free.
+17 (6) Where a consumer's destination jurisdiction requires insurance
+18 coverage, it shall not be an unfair or deceptive act or practice to require
+19 that the consumer choose between the following options as a condition of
+20 purchasing a trip or travel package:
+21 (a) Purchasing the coverage required by the destination jurisdiction
+22 through the travel retailer or limited lines travel insurance producer
+23 supplying the trip or travel package; or
+24 (b) Agreeing to obtain and provide proof of coverage that meets the des-
+25 tination jurisdiction's requirements prior to departure.
+26 41-4507. TRAVEL ADMINISTRATORS. (1) Notwithstanding any other provi-
+27 sions of this title, no person shall act or represent itself as a travel ad-
+28 ministrator for travel insurance in this state unless that person:
+29 (a) Is a licensed property and casualty insurance producer in this
+30 state for activities permitted under that producer license; or
+31 (b) Holds a valid managing general agent license in this state.
+32 (2) A travel administrator and its employees are exempt from the li-
+33 censing requirement set forth in section 41-1103, Idaho Code, for travel in-
+34 surance it administers.
+35 (3) An insurer is responsible for the acts of a travel administrator ad-
+36 ministering travel insurance underwritten by the insurer and is responsible
+37 for ensuring that the travel administrator maintains all books and records
+38 relevant to the insurer, which shall be made available by the travel adminis-
+39 trator to the director upon request.
+40 41-4508. POLICY. (1) Notwithstanding any other provision of this ti-
+41 tle, and except as provided in subsection (2) of this section, travel insur-
+42 ance shall be classified and filed for purposes of rates and forms under an
+43 inland marine line of insurance.
+44 (2) Travel insurance may be filed under either an accident and health
+45 line of insurance or an inland marine line of insurance if it provides cov-
+46 erage for sickness, accident, disability, or death occurring during travel,
+47 whether exclusively or in conjunction with related coverages of emergency
+48 evacuation or repatriation of remains.
+
+7
+1 (3) Travel insurance may be in the form of an individual, group, or
+2 blanket policy.
+3 (4) Eligibility and underwriting standards for travel insurance may be
+4 developed and provided based on travel protection plans designed for indi-
+5 vidual or identified marketing or distribution channels, if those standards
+6 also meet the state's underwriting standards for inland marine lines of in-
+7 surance.
+8 41-4509. RULES. In accordance with this chapter and section 41-211,
+9 Idaho Code, the director may promulgate rules, subject to legislative ap-
+10 proval, as are necessary or proper to carry out the provisions of this chap-
+11 ter.
+12 SECTION 2. That Section 41-1090, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 41-1090. SHORT TITLE. Sections 41-1090 through 41-1096 41-1092, Idaho
+15 Code, shall be known and may be cited as the "Limited Lines Travel Insurance
+16 Act."
+17 SECTION 3. That Section 41-1091, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 41-1091. DEFINITIONS. As used in this chapter:
+20 (1) "Designated responsible producer" means the individual licensed
+21 producer responsible for ensuring compliance by the limited lines travel in-
+22 surance producer with travel insurance laws and rules of the state, as set
+23 forth in section 41-1092(2)(c), Idaho Code.
+24 (2) "Limited lines travel insurance producer" means a person who is a
+25 limited lines producer as defined in section 41-1003, Idaho Code.:
+26 (a) Licensed managing general agent; or
+27 (b) Licensed insurance producer, including a limited lines producer as
+28 defined in section 41-1003, Idaho Code.
+29 (3) "Offer and disseminate" means providing general information, in-
+30 cluding a description of the coverage and price, as well as processing the
+31 application, collecting premiums, and performing other activities permit-
+32 ted by the state.
+33 (4)(a) "Travel insurance" means insurance coverage for personal risks
+34 incident to planned travel including, but not limited to:
+35 (a) (i) Interruption or cancellation of a trip or event;
+36 (b) (ii) Loss of baggage or personal effects;
+37 (c) (iii) Damages to accommodations or rental vehicles; and
+38 (d) (iv) Sickness, accident, disability or death occurring during
+39 travel.;
+40 (v) Emergency evacuation;
+41 (vi) Repatriation of remains; or
+42 (vii) Any other contractual obligations to indemnify or pay a
+43 specified amount to the traveler upon determinable contingencies
+44 related to travel as approved by the director.
+45 (b) "Travel insurance" does not include major medical plans that pro-
+46 vide comprehensive medical protection for travelers with trips lasting
+
+8
+1 six (6) months or longer, including those working overseas as an expa-
+2 triate or military personnel being deployed, or any other product that
+3 requires a specific insurance producer license.
+4 (5) "Travel retailer" means a business entity that makes, arranges or
+5 offers travel services and may offer and disseminate travel insurance as a
+6 service to its customers on behalf of and under the direction of a limited
+7 lines travel insurance producer.
+8 SECTION 4. That Section 41-1092, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 41-1092. REQUIREMENTS FOR LIMITED LINES TRAVEL INSURANCE PRODUC-
+11 ERS. Notwithstanding any other provision of law:
+12 (1) The director may issue to an individual or business entity that has
+13 filed with the director an application, in a form and manner prescribed by
+14 the director, a limited lines travel insurance producer license that autho-
+15 rizes the limited lines travel insurance producer to sell, solicit or nego-
+16 tiate travel insurance on behalf of a licensed insurer. No person may act as
+17 a limited lines travel insurance producer or travel retailer unless properly
+18 licensed or registered, respectively.
+19 (2) A travel retailer may offer and disseminate travel insurance under
+20 a limited lines travel insurance producer's business entity license only if
+21 the following conditions are met:
+22 (a) The limited lines travel insurance producer or travel retailer pro-
+23 vides to policyholders purchasers of travel insurance:
+24 (i) A description of the material terms or the actual material
+25 terms of the insurance coverage;
+26 (ii) A description of the process for filing a claim;
+27 (iii) A description of the review or cancellation process for the
+28 travel insurance policy, including any forfeiture fees; and
+29 (iv) The identity and contact information of the insurer and lim-
+30 ited lines travel insurance producer.
+31 (b) At the time of licensure, the limited lines travel insurance pro-
+32 ducer shall establish and maintain a register on a form prescribed by
+33 the director of each travel retailer that offers travel insurance on
+34 the limited lines travel insurance producer's behalf. The register
+35 shall be maintained and updated annually, at a minimum, by the limited
+36 lines travel insurance producer and shall include the name, address,
+37 and contact information of the travel retailer and an officer or person
+38 who directs or controls the travel retailer's operations, as well as the
+39 travel retailer's federal tax identification number. The limited lines
+40 travel insurance producer shall submit such register from the previous
+41 year to the department on March 1 of each year. The limited lines travel
+42 insurance producer shall also certify that the registered travel re-
+43 tailer complies with 18 U.S.C. 1033. The limited lines travel insurance
+44 producer shall report its Idaho annual written premium to the direc-
+45 tor on an annual basis. The grounds for suspension and revocation and
+46 the penalties applicable to insurance producers set forth in sections
+47 41-1016 and 41-1026, Idaho Code, shall apply to the limited lines travel
+48 insurance producers and travel retailers.
+
+9
+1 (c) The limited lines travel insurance producer has designated one (1)
+2 of its employees, who is a licensed individual producer, as a designated
+3 responsible producer who shall be responsible for the limited lines
+4 travel insurance producer's compliance with the travel insurance laws,
+5 rules and regulations of the state.
+6 (d) The designated responsible producer, president, secretary, trea-
+7 surer and any other officer or person who directs or controls the lim-
+8 ited lines travel insurance producer's insurance operations shall com-
+9 ply with the fingerprinting requirements applicable to insurance pro-
+10 ducers in the resident state of the limited lines travel insurance pro-
+11 ducer.
+12 (e) The limited lines travel insurance producer has paid all applicable
+13 insurance producer licensing fees as set forth in applicable state law.
+14 (f) The limited lines travel insurance producer requires each employee
+15 and authorized representative of the travel retailer whose duties in-
+16 clude offering and disseminating travel insurance to receive a program
+17 of instruction or training that shall be subject to review by the direc-
+18 tor. The training material shall, at a minimum, contain instructions
+19 on the types of insurance offered, ethical sales practices and required
+20 disclosures to prospective customers.
+21 (3) Any travel retailer offering or disseminating travel insurance
+22 shall make available to prospective purchasers brochures or other written
+23 materials that have been approved by the travel insurer. Such materials
+24 shall include information that, at a minimum:
+25 (a) Provides the identity and contact information of the insurer and
+26 the limited lines travel insurance producer;
+27 (b) Explains that the purchase of travel insurance is not required in
+28 order to purchase any other product or service from the travel retailer;
+29 and
+30 (c) Explains that an unlicensed travel retailer is permitted to provide
+31 general information about the insurance offered by the travel retailer,
+32 including a description of the coverage and price, but is not qualified
+33 or authorized to answer technical questions about the terms and condi-
+34 tions of the insurance offered by the travel retailer or to evaluate the
+35 adequacy of the customer's existing insurance coverage.
+36 (4) A travel retailer's employees or authorized representatives who
+37 are not licensed as insurance producers may not:
+38 (a) Evaluate or interpret the technical terms, benefits and conditions
+39 of the offered travel insurance coverage;
+40 (b) Evaluate or provide advice concerning a prospective purchaser's
+41 existing insurance coverage; or
+42 (c) Hold himself or itself out as a licensed insurer, licensed producer
+43 or insurance expert.
+44 (5) A travel retailer and its employees and authorized representatives
+45 whose insurance-related activities are limited to offering and disseminat-
+46 ing travel insurance on behalf of and under the direction of a limited lines
+47 travel insurance producer meeting the conditions set forth in chapter 45,
+48 title 41, Idaho Code, is authorized to perform such activities and to receive
+49 related compensation upon registration by the limited lines travel insur-
+
+10
+1 ance producer in accordance with the provisions of subsection (2)(b) of this
+2 section.
+3 (6) As the insurer's designee, the limited lines travel insurance pro-
+4 ducer is responsible for the acts of the travel retailer and shall use rea-
+5 sonable means to ensure compliance with this chapter by the travel retailer.
+6 (7) Any person licensed in a major line of authority as an insurance
+7 producer is authorized to sell, solicit, and negotiate travel insurance. A
+8 property and casualty insurance producer is not required to become appointed
+9 by an insurer in order to sell, solicit, or negotiate travel insurance.
+10 SECTION 5. That Section 41-1093, Idaho Code, be, and the same is hereby
+11 repealed.
+12 SECTION 6. That Section 41-1094, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 7. That Section 41-1095, Idaho Code, be, and the same is hereby
+15 repealed.
+16 SECTION 8. That Section 41-1096, Idaho Code, be, and the same is hereby
+17 repealed.
+18 SECTION 9. That Section 41-1097, Idaho Code, be, and the same is hereby
+19 repealed.
+20 SECTION 10. That Section 41-1003, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 41-1003. DEFINITIONS. (1) "Business entity" means a corporation, as-
+23 sociation, partnership, limited liability company, limited liability part-
+24 nership or other legal entity.
+25 (2) "Home state" means the District of Columbia and any state or terri-
+26 tory of the United States or any province of Canada in which an insurance pro-
+27 ducer maintains his or her principal place of residence or principal place of
+28 business and is licensed to act as an insurance producer.
+29 (3) "License" means a document issued by the director authorizing a
+30 person to act as an insurance producer for the lines of authority specified
+31 in the document. The license itself does not create any authority, actual,
+32 apparent or inherent, in the holder to represent or commit an insurance car-
+33 rier.
+34 (4) "Limited lines insurance" is insurance which restricts the author-
+35 ity of the license to less than the total authority prescribed in the as-
+36 sociated major lines pursuant to section 41-1008(1)(a) through (g), Idaho
+37 Code, and shall include, but not be limited to: credit life, credit disabil-
+38 ity, credit property, credit unemployment, involuntary unemployment, mort-
+39 gage life, mortgage guaranty, mortgage disability, guaranteed automobile
+40 protection (GAP) insurance, transportation baggage insurance, transporta-
+41 tion ticket policies covering personal accident insurance, pet insurance,
+42 portable electronics insurance, travel insurance or any other line of insur-
+43 ance that the director deems necessary to recognize for the purposes of com-
+44 plying with section 41-1009(5), Idaho Code.
+
+11
+1 (5) "Limited lines producer" means a producer authorized by the direc-
+2 tor to sell, solicit or negotiate limited lines insurance. "Limited lines
+3 producer" includes a "limited lines travel insurance producer" as used in
+4 sections 41-1090 through 41-1096, Idaho Code.
+5 (6) "Negotiate" means the act of conferring directly with or offering
+6 advice directly to a purchaser or prospective purchaser of a particular con-
+7 tract of insurance concerning any of the substantive benefits, terms or con-
+8 ditions of the contract, provided that the person engaged in the act either
+9 sells insurance or obtains insurance from insurers for purchasers.
+10 (7) "Person" means an individual or a business entity.
+11 (8) "Producer" means a person required to be licensed under the laws of
+12 this state to sell, solicit or negotiate insurance.
+13 (9) "Resident" means a person whose home state is Idaho or any other
+14 particular state identified in conjunction with the use of the term.
+15 (10) "Sell" means to exchange a contract of insurance by any means, for
+16 money or its equivalent, on behalf of an insurance company.
+17 (11) "Solicit" means attempting to sell insurance or asking or urging a
+18 person to apply for a particular kind of insurance from a particular company
+19 or companies.
+20 (12) "Terminate" means the cancellation of the relationship between an
+21 insurance producer and the insurer or the termination of a producer's au-
+22 thority to transact insurance for or on behalf of an insurer.
+23 (13) "Uniform application" means the current version of the national
+24 association of insurance commissioners (NAIC) uniform application for resi-
+25 dent and nonresident producer licensing.
+26 (14) "Uniform business entity application" means the current version of
+27 the NAIC uniform business entity application for resident and nonresident
+28 business entities.
+29 SECTION 11. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOTEIOTLIEA;AGTE4,IOCYTEANOFANWCR4,TE4,IOC,TOPRASTT,TOPEFRTEPEOFTEC,TOD,TOEHPSRGAPMT,TOESRGTLPNP,TOEHPGSSP,TOEHPSRGT,TOEHPSRGTLIYCNADS,ADTOEHRGP;AGSN4,IOC,TOREAPGTESTT;AGSN4,IOC,TEDSADTODET;AGSN4,I,TOREPSRGRSFRLDLLIEP;RGSN4,IOCGTOR;RGSN4,IOC,RGTOPYT;RGSN4,IOC,ROTERYOFLDLSTLIEP;RGSN4,IOC,RGTONEOSATO;RGSN4,IOC,RGTOE;AGSN4,IOC,TOREAD;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr4,Te4,IoC,adtordasfR4OTLIEA.STT.Tscrslbeknadmybecdae"oTlIeA.P.()Tepeoftscristopetcwebycgacellfkwnwliemybesdintss)Tersoftscraytotlietsayrtoftsseadttiss,s,nrodintsseadtocsttaeddorirdyintss.Tepsoftscrdontaytnfewsortlaes,etasedintsc)Aloraepsofteielsintsslcetoaytotli,ettttescp]
+[DELETED: softscrslseayglpsoflwtdoebeaetotli.D.Asudintsc)"rs"msawettpsastoinrgiepsfmmetnoe()i,itadiri,frueincns)"ttli"msapyoftlieidtoayeegppgcefrsccsofpsddintepywhcepdtoalmsofteeegpwtasecetoilmsoftee)"nfew"msaclatbnroftlssadiscrtoweseoraloftenecnfepsoftessugttwhorwtrdtoternfrtecnorfmo.Acnfewrisnti)""mstedroftedtofi)"eg"m,syfrtepsoftli,to()ormepswoaeedinacneeorhne,e,orslayorr,igbtldt)Ayeyedintebsofpgtlort,wnwhrdtoayprtlorteoftrt,almsorcsoftegpheacneetorkattosht.Shesiebtaendtotro,lgp,vnpyo,hsadr,tlc,tla,pym,cleep,adcncsorteo,o,orlrofamsoftnofp,ssa,cel,r,spc,adpsc)Ayc,s,ororinoflgcgapofs,t,e,orv)Ayercgaygpofe,v,c,bdofd,d,org)Aysst,c,orsrt,cgaygpo,m,c,e,o,s,o)Ayr,c,r,e,orcco,orbht,cgaygpofm,p,orv)Ayflinorflinv,orathgc,t,oratordeofoe()ormlisorflinv,ith,ctcdh,d,g,orp)Ayidoruda,igl,hgacni,c,adb,adodadmdingdfhfrpsortno]
+[DELETED: efrmsorpsofshancgi)Ayttortetsofafde,c,ormdfrtebtofadcgagpofm,e,o,sttotedspgteueofattaesspmtxpsstfhinsn4,I,ofoe()ormeasmgtersofph()oftss)Ayetpncycgaygpofp,v,aem,c,orw)Ayvrfed,orvra,r,p,c,fta,cld,ororshvrg)Ayp,deinfrcnora,orsrcnc)Ayaeortkrlorlgcycgagfiswomyber,l,orpsdytrtlssonterdorldv.Tecnc,teo,o,orlrofamsoft,oeaeortkrlorlgc,isteprapytowhtssna;o)Ayorgpwetedrhsddtttemeedinacne,orheane,e,olayorr,adttieoftepywtbecytotepci)"tm"msdnsttotepfatlpnpncgtepeadpgtetnpsceadaed)"ptli"mstlieidtoayeeg)"dlstliep"hstemgpnsn4,IoC)"yceh"msanilwoesastlieuragpp)"yp"msanilwoesadpsiltli)"la"msapnwodyori,csc,c,orpsf,orasoscsonrsoftss,incnwhtli,etttapnslntbecdatlaritpsasttwdoecetepntobectlaraeldt)Apnwgfratlartoteettttsasaesttotesnadcloftla)Anieprsgieoredinaeadcdaswnteseoftep)Atlrrogaddgtlieadurteleofaldlstlieprinaewhtsc]
+[DELETED: )Anilagorsgcsintenlceotispeoretasanayatlwadwsntctcsorpsincnwhiec;o)Abseyttisadwhaldirwgasatlarfrtedtadadisofanadi)"laes"msnessfhtecrisntidbdonafsetadwgtesedsntrtintrorsgofrktdcetebsofi.Tlaessiebtaentldtosya,dninadinins,tlrns,e,ayadetp,tnaym,illladmlr,mem,cnoftna,ehtra,mlpnrtatadtldtrta,ltlea,ces,adayorsettisfdinwhpdt.Tlaessaentieadntrdtoi)"li"hstemgpdinsn4oC)"lpnp"mspsttpetli,tlaes,orcnfew)"lr"hstemgpdinsn4oC.PMT.()Atlirslpyapmt,adinsn4,IoC,ontliepsp)Anilpyprwoisartoftss)Apycehrwoisartoftsseadwsceuragptliep;o)Abttlieprttisartofteortthsisplpeofbsintsseorweorsyhsisplpeofbsint,whprhspdbttlieissefreebtgpm)Atlirs)Dtteseofreorplpeofbsoeprorceh,asrdinsn(ftss;a)Rtaspsoyteataetotlidntayasrdfrtlaessorcnfew.TLPNP.Tlpnpsmybeodfroe()pefrtecdfstttetlpnosintssei]
+[DELETED: )Tetlpnpncydstotec,arprtoteteofp,ttitistli,tes,adcnfew,asa,adpsinadano,atorprtoteteofprtecrtoonalinrgtefsagofe;a)Teftm)Deaddetetli,tla,adcnfewsintetlpnp)Ietetliedsadtectinfrpspgtlaessadcew,asa.SSP.()Alpsogtliorsoftsseaesttotepsofcr1,t,IoC,etasoepdintsc.Inteetoctbntepsoftscradorpsofte4,IoC,rgteseadmgoftliealpnp,tepsoftscrslc)Ogorsgatliepyttcdnrrtinptofaycsfrayidurtepyiscdiytlieadcsanurordearpepdpttotepsofcr1,te4oC)Whrdtomgp)Aldspdtocsprtotepeoft,igbtntldtossm,a,admgm,slbectwhtetepyi,igbtntldtof,e,p,ref,adcsofi)Frtliepsorcsttcnpgcne,inadanoytoleattepgcnesslbepdaeprtoteteofpeadintecsftm)Teftmsadteinddinsn4,IoC,slbepdtoaprcehrassnaspefgtepfatlpnp.Usteidhsersddtporfdacmurtetliec,rorcehrmyclapyorcraflrdoftetlpnpnpefmtedeoeofatlpnpnulatl)Fn()dsfgtedeteftmsaestbyplmltoteprorc;o)Tn()dsfgtedeteftmestbyecmsorpyhdtoteprorceh]
+[DELETED: )Tecysldeintepydnadftmswrtetlieispyorsytraec)Wetlieismddytoacrtnisweorbyosthanars,itstbeanurordeatorpeororvnoflrtewetopeanaesyorstdno,aslgastecrhsastoteflpsoepythecm)Nopno,s,orngtlieolpnpsonanilorgpbsmydosobyueonoroto,whwdreacrtoteanaeantodtc,shasugabxonane,attetetecrpsat)Itslbeanurordeatorpetomtblieceasf)Weacsdnjnrsi,itslntbeanurordeatorpetorttecrcebntefgosasacnogatportlp)Pgtecerdbytednjhtetlrrorldlstliepgtetportlp;o)Agtoonadpepfofcettmstednjsrsprtod.TLA.()Ngayorpsoftst,nopnslatorrtifasatlarfrtlieintsseusttp)Isaldpyadcyieprintefraspdurttprl;o)Hsavdmgglatleintss)Atlaradisesaeetfmtelgrtstfhinsn4,IoC,frtlieita)Anirisrefrteasofatlaragtlieunbyteiradisrregtttetlarmsalbsadrttotei,whslbemeaebytetlartotedrunr.P.()Ngayorpnoftst,adetaspdinsn()oftss,tlieslbecdadfdfrpsofrsadfsuradmeleofi)Tliemybefdureranatadheofieoranidmeleofieifitpscefrs,a,d,ordhogdgtreyorincnwhrdcsofenorrnofr]
+[DELETED: )Tliemybeintefmofani,g,otp)Eyadugssfrtliemybdadpdbdontlpnpsddfriloridmgordnc,iftesomttessugssfridmelsofi.R.Inaewhtscradsn4oC,tedrmyper,sttolea,asaenyorprtocyottepsoftscN2.TtSn4,IoC,b,adteseishdtordasf.STT.Ss40th464,I,slbeknadmybecdaste"dLsTlIN3.TtSn4,IoC,b,adteseishdtordasf.D.Asudintsc)"drep"msteillrrefregcebyteldlstlieprwhtlielsadrsoftes,asshinsn4,IoC)"dlstliep"msapnwoisdlsprasddinsn4,IoC)Ldmggla;o)Ldiep,igaldlspradinsn4,IoC)"radd"mspggli,igadnofteceadp,aswlaspgt,cgp,adpgoraspdbytes)"li"msiecefrplrttopdtli,btntldt)()Inorcnofatpore)()Lsofbeorple)()Dstoasorrlv;a)()S,a,dyordhogd)Eye)Rnofr;o)Ayorclostoiyorpydattotetrundecdtotlasadbyted)"li"dsntiemrmlpsttpecemlpnfrtswhtsl]
+[DELETED: x()msorl,igtewgosasaneeormyplbgd,orayorpttsascieprl)"lr"msabseyttm,asostlssadmyoraddetlieasetoiscsonbfofadurtednofalstliepN4.TtSn4,IoC,b,adteseishdtordasf.RSFRLDLSTLIEP.Ngayorpnofl)Tedrmyietoanilorbseytthdwhtedrana,inafmadmrpdbed,aldlstlieprlettasteldlstlieprtos,stornetlieonbfofaldi.Nopnmyataldlstlieprortlrruspdorr,r)Atlrrmyoraddetlieuldlstliepsbseyleoyiefgcsaem)Teldlstlieprortlrrpstopspsoftli)Adnoftemltsortealmsofteiec)Adnoftepsfrfgac)Adnofterworcnpsfrtliep,igayfef;a)Teiyadctinofteiradldlstliep)Atteteofl,teldlstlieprslehadmnarronafmpdbedrofehtlrrttostlieoeldlstliepsb.Terlbemdaduda,atam,bytelstliepradslieten,adctinoftetlrradanororpodsorcstetlrso,aswlastlrsfltxinn.TeldllieprslstshrrfmteprtotedtonMh1ofehy.Teldlsteprslaocyttterdtlrrcswh18U.1.TeldlstlirslrtisIoalwnpmtotedronanalb.Tegsfrsnadrnaepsaetoiepsstfhins6ad4,IoC,slaytoteldlstepsadtlr]
+[DELETED: )Teldlstlieprhsddoe(fise,woisaldilp,asadeprwoslberefrteldlliepscewhtetlielsadrsoftes)Teddrep,p,s,tradayorororpnwodsorcsteldlstliepsieosslcywhtefgrsaetoiepsintertseofteldlstliep)Teldlstlieprhspdalaeprlgfsasstfhinaesel)Teldlstlieprrsehedadreoftetlrrwedsieogaddgtlietoreapfinortgttslbesttorwbyted.Tetgmls,atam,cnintetsofieo,elsspsadrstopec)Aytlrrogordgtlilmeaetopepsbsororwstthebnadbytetli.Shmlieint,atam)Psteiyadctinofteiraeldlstliep)Estttepeoftlieisntrdirtopeayorptorsefmtetlr)Esttanudtlrrispdtoplinatteieodbytetlrgadnofteceadp,btisntqradtoartlqsattetsadcsofteieodbytetlrrortoeetyoftecsegiec)Atlrsesoradrswentldasiepsmyn)Eeorittetlt,bsadcfteodtliec)Eeorpeaecgapepgiec;o)Hdhforifotasaldi,ldpriee)Atlrradisesadadreidasaeldtoogaddgtlieonbfofadurtednofaldllieprmgtecsstfhincr4e4,IoC,isadtopmshasadtordcnunrnbyteldlstli]
+[DELETED: eprinaewhtepsofsn()oft)Asteisd,teldlstlieprisrefrteasoftetlrradslueremstoeecewhtscrbytetlr)Aypnldinamrleofayasanirisadtos,s,adnetli.yadcyieprisntrdtobeayanirinortos,s,ornetliN5.TtSn4IoC,b,adteseishN6.TtSn4,IoC,b,adteseishN7.TtSn4,IoC,b,adteseishN8.TtSn4,IoC,b,adteseishN9.TtSn4,IoC,b,adteseishN1.TtSn4,IoC,b,adteseishdtordasf.D.()"se"msac,a,p,ldlyc,ldlyppororlle)"es"msteDtofCaadayseortyofteUdSsoraypeofCainwhanieprmshsorhrplpeofreorplpeosadisldtoatasaniep)""msadtidbytedragntoatasanieprfrtelsofaysnted.Teleifdsntceaya,atori,intehrtortorctaniec)"dlsi"isiewhrsteayofteletolstntetlaypdinteadmrlspttosn4)th(,I,adsli,btntbeldt:ctl,ctd,ctp,ctu,iyu,mel,meg,med,gdan()i,tnbei,tnttpscgplati,ptieesi,tlieorayorleofietttedrdsnytorefrtepsofcgwhsn4,IoC]
+[DELETED: )"dlsp"msapradbytedrtos,storneldlsi."dl"isa"dlstliep"asudis40th4,IoC)""msteatofcgdywhoroedytoaprorpeprofaprctofiecgayofteseb,tsorcsoftec,pdtttepnedinteatesieorosiefmisfrp)""msanilorabse)""msapnrdtobeldurtelsossetos,stornei)""msapnweheseisIoorayorseidincnwhteueoftet)""mstoeeactofiebyaym,fyorise,onbfofaniec)""msagtoslieoragorugntoayfraprkdofiefmaprcrc)""mstecnofterpbnaepradteirortetnofapsaytottiefroronbfofani)"ma"mstectvnoftennofiecs()umanfrrtadntprl)"mbseya"mstectvnoeNCumbseyanfrrtadnseN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

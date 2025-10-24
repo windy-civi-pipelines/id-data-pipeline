@@ -1,0 +1,132 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 437
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO COMMUNITY INFRASTRUCTURE DISTRICTS; AMENDING SECTION 50-3101,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING THE FORMATION OF A COMMUNITY
+4 INFRASTRUCTURE DISTRICT AND TO MAKE TECHNICAL CORRECTIONS; AND DECLAR-
+5 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 50-3101, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 50-3101. PURPOSE, RELATIONSHIP WITH OTHER LAWS AND SHORT TITLE. (1)
+10 The purpose of this chapter is:
+11 (a) To encourage the funding and construction of regional community in-
+12 frastructure in advance of actual developmental growth that creates the
+13 need for such additional infrastructure;
+14 (b) To provide a means for the advance payment of development impact
+15 fees established in chapter 82, title 67, Idaho Code, and the community
+16 infrastructure that may be financed thereby; and
+17 (c) To create additional financial tools and financing mechanisms that
+18 allow new growth to more expediently pay for itself.
+19 (2) Only community infrastructure to be publicly owned by this state or
+20 a political subdivision thereof may be financed pursuant to this chapter.
+21 (3) A community infrastructure district may only be formed pursuant to
+22 this chapter only by a city in the city's incorporated area, or by a county
+23 in an area contained within a city's comprehensive plan with the city's con-
+24 sent, or by a county when the district is outside of a city's comprehensive
+25 plan.
+26 (4) A community infrastructure district may be formed only after (i)
+27 prior review and approval by the governing body of each county or city in
+28 which the district is proposed to be located of a petition requesting the
+29 formation of the district, and (ii) the necessary approvals for site de-
+30 velopment under the local land use planning act, sections 67-6501 et seq.,
+31 Idaho Code, and the planning and zoning ordinances of each county and city
+32 in which the district is proposed to be located have been obtained; provided
+33 however, that where there will be phased development, approvals obtained
+34 for the first phase of site development shall be sufficient for the initial
+35 creation and organization of the district. The formation of a district
+36 pursuant to this chapter shall not prevent the exercise by a county, city
+37 or other political subdivision of any of its powers on the same basis as on
+38 all other land within its jurisdiction. Notwithstanding the formation of a
+39 district, the development of real property located within the district shall
+40 remain subject to the provisions of chapter 65, title 67, Idaho Code, and
+41 the applicable planning and zoning ordinances of the counties and cities in
+42 which the district is located. The formation of a district pursuant to this
+2
+1 chapter shall not prevent the subsequent establishment of other districts or
+2 the improvement or assessment of land within the district by a county, city
+3 or other political subdivision.
+4 (5) This chapter shall be known and may be cited as the "Community In-
+5 frastructure District Act."
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YREADTNCNAGTOCYIED;AGSN5OC,TOREAPNRGTEFNOFACEDTADTOMETLC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.P,RPWHORLSADSTT.(epeoftscri)Toeetefgadcnofrlcyieinaeofaldlghttcstdfrshali)Topeamsfrteaeptofdtisedincr8,te6,IoC,adtecettmybefdt;a)Tocealfltsadfgmstwnwghtomeeypyfri)Oycyietobepyodbytsseoplsntfmybefdpttotsc)Acyiedtmyoybefdpttscroybyacyintecsida,orbyacnanaacdwnacscepnwhtecsc,orbyacywntedtisoeofacsc)Acyiedtmybefdoyar(rrwadalbyteggbyofehcyorcyihtedtispdtobeldofapnrgtnofted,ad()tenyasfrsedturtelllduepga,ss61etsoC,adtepgadzgosofehcyadcnwhtedtispdtobeldhebno;p,ttwetewlbepdd,asorteftpeofsedtslbestfrteinadonofted.Tefnofadttotscrslntptteeebyac,crorplsnofayofispsontesebsasolorldwnisj.Ngtefnof,tedtofrlpyldwntedtsnsttotepsofcr6,te6,IoC,aeaepgadzgosoftecsadcsihtedtisl.Tefnofadtpttot]
+[DELETED: rslntpttestetofordsoeitoratofldwntedtbyac,crorpls)Tscrslbeknadmybecdaste"yIeDtAN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 437
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO COMMUNITY INFRASTRUCTURE DISTRICTS; AMENDING SECTION 50-3101,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING THE FORMATION OF A COMMUNITY
+4 INFRASTRUCTURE DISTRICT AND TO MAKE TECHNICAL CORRECTIONS; AND DECLAR-
+5 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 50-3101, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 50-3101. PURPOSE, RELATIONSHIP WITH OTHER LAWS AND SHORT TITLE. (1)
+10 The purpose of this chapter is:
+11 (a) To encourage the funding and construction of regional community in-
+12 frastructure in advance of actual developmental growth that creates the
+13 need for such additional infrastructure;
+14 (b) To provide a means for the advance payment of development impact
+15 fees established in chapter 82, title 67, Idaho Code, and the community
+16 infrastructure that may be financed thereby; and
+17 (c) To create additional financial tools and financing mechanisms that
+18 allow new growth to more expediently pay for itself.
+19 (2) Only community infrastructure to be publicly owned by this state or
+20 a political subdivision thereof may be financed pursuant to this chapter.
+21 (3) A community infrastructure district may only be formed pursuant to
+22 this chapter only by a city in the city's incorporated area, or by a county
+23 in an area contained within a city's comprehensive plan with the city's con-
+24 sent, or by a county when the district is outside of a city's comprehensive
+25 plan.
+26 (4) A community infrastructure district may be formed only after (i)
+27 prior review and approval by the governing body of each county or city in
+28 which the district is proposed to be located of a petition requesting the
+29 formation of the district, and (ii) the necessary approvals for site de-
+30 velopment under the local land use planning act, sections 67-6501 et seq.,
+31 Idaho Code, and the planning and zoning ordinances of each county and city
+32 in which the district is proposed to be located have been obtained; provided
+33 however, that where there will be phased development, approvals obtained
+34 for the first phase of site development shall be sufficient for the initial
+35 creation and organization of the district. The formation of a district
+36 pursuant to this chapter shall not prevent the exercise by a county, city
+37 or other political subdivision of any of its powers on the same basis as on
+38 all other land within its jurisdiction. Notwithstanding the formation of a
+39 district, the development of real property located within the district shall
+40 remain subject to the provisions of chapter 65, title 67, Idaho Code, and
+41 the applicable planning and zoning ordinances of the counties and cities in
+42 which the district is located. The formation of a district pursuant to this
+
+2
+1 chapter shall not prevent the subsequent establishment of other districts or
+2 the improvement or assessment of land within the district by a county, city
+3 or other political subdivision.
+4 (5) This chapter shall be known and may be cited as the "Community In-
+5 frastructure District Act."
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YREADTNCNAGTOCYIED;AGSN5OC,TOREAPNRGTEFNOFACEDTADTOMETLC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.P,RPWHORLSADSTT.(epeoftscri)Toeetefgadcnofrlcyieinaeofaldlghttcstdfrshali)Topeamsfrteaeptofdtisedincr8,te6,IoC,adtecettmybefdt;a)Tocealfltsadfgmstwnwghtomeeypyfri)Oycyietobepyodbytsseoplsntfmybefdpttotsc)Acyiedtmyoybefdpttscroybyacyintecsida,orbyacnanaacdwnacscepnwhtecsc,orbyacywntedtisoeofacsc)Acyiedtmybefdoyar(rrwadalbyteggbyofehcyorcyihtedtispdtobeldofapnrgtnofted,ad()tenyasfrsedturtelllduepga,ss61etsoC,adtepgadzgosofehcyadcnwhtedtispdtobeldhebno;p,ttwetewlbepdd,asorteftpeofsedtslbestfrteinadonofted.Tefnofadttotscrslntptteeebyac,crorplsnofayofispsontesebsasolorldwnisj.Ngtefnof,tedtofrlpyldwntedtsnsttotepsofcr6,te6,IoC,aeaepgadzgosoftecsadcsihtedtisl.Tefnofadtpttot]
+[DELETED: rslntpttestetofordsoeitoratofldwntedtbyac,crorpls)Tscrslbeknadmybecdaste"yIeDtAN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

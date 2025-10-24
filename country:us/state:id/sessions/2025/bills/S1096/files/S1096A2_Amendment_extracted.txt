@@ -1,0 +1,51 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Woodward
+Seconded by Lent
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1096
+1 AMENDMENT TO SECTION 1
+2 On page 6 of the printed bill, in line 15, delete "full-time equivalent
+3 enroll-"; in line 16, delete "ment"; in line 23, delete "one-half (1.5)" and
+4 insert: "three quarters (1.75)"; and delete lines 24 through 26, and insert:
+5 "(iv) For students attending a school district or public char-
+6 ter school with less than one thousand two hundred (1,200) aver-
+7 age daily attendance, except for students in a virtual program,
+8 one (1) minus the result of the average daily attendance for that
+9 school district or public charter school multiplied by the result
+10 of one (1) divided by one thousand two hundred (1,200), the result
+11 of which shall be multiplied by the base amount per student;".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyWdbyLNTESEATTOS.N.1TTOSNnpe6oftepdb,inle1,de"ee;inle1,de";inle2,de"f("a:"eqs(;addels24th2,adi)Frssagasldtorpccrslwhlstnoetdtohd()aedya,etfrssinavlpe()mstertofteaedyaefrtldtorpccrslmdbyterfoe()ddbyoetdtohd(,terfwhslbemdbytebeatprs]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Woodward
+Seconded by Lent
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1096
+1 AMENDMENT TO SECTION 1
+2 On page 6 of the printed bill, in line 15, delete "full-time equivalent
+3 enroll-"; in line 16, delete "ment"; in line 23, delete "one-half (1.5)" and
+4 insert: "three quarters (1.75)"; and delete lines 24 through 26, and insert:
+5 "(iv) For students attending a school district or public char-
+6 ter school with less than one thousand two hundred (1,200) aver-
+7 age daily attendance, except for students in a virtual program,
+8 one (1) minus the result of the average daily attendance for that
+9 school district or public charter school multiplied by the result
+10 of one (1) divided by one thousand two hundred (1,200), the result
+11 of which shall be multiplied by the base amount per student;".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyWdbyLNTESEATTOS.N.1TTOSNnpe6oftepdb,inle1,de"ee;inle1,de";inle2,de"f("a:"eqs(;addels24th2,adi)Frssagasldtorpccrslwhlstnoetdtohd()aedya,etfrssinavlpe()mstertofteaedyaefrtldtorpccrslmdbyterfoe()ddbyoetdtohd(,terfwhslbemdbytebeatprs]

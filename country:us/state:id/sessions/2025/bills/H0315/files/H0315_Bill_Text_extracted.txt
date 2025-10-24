@@ -1,0 +1,271 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 315
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3622VV, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE IDAHO INFORMATION TECHNOLOGY EQUIPMENT SALES TAX
+4 EXEMPTION; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-3622VV, Idaho Code, be, and the same is
+7 hereby amended to read as follows:
+8 63-3622VV. IDAHO INFORMATION TECHNOLOGY EQUIPMENT. (1) On and after
+9 July 1, 2020, and before March 1, 2025, there is exempted from the taxes im-
+10 posed by this chapter the purchase or use of eligible server equipment and
+11 new data center facilities, as defined in this section. The exemption pro-
+12 vided in this section shall be available only to qualifying business enti-
+13 ties and contractors installing eligible server equipment or building new
+14 data center facilities for qualifying business entities. On and after March
+15 1, 2025, the exemption provided in this section shall only be available for
+16 the time period provided in subsection (2)(k) of this section and shall be
+17 subject to the provisions of subsection (3) of this section. The exemption
+18 provided in this section shall not be available for property that has been
+19 the subject of business incentives granted to a taxpayer or its affiliates,
+20 pursuant to the Idaho reimbursement incentive act, sections 67-4737 through
+21 67-4744, Idaho Code.
+22 (2) As used in this section:
+23 (a) "Business entity" means a separate legal entity or separately oper-
+24 ated segment of business that exists for the primary purpose of engaging
+25 in a commercial activity for profit and whose sole purpose is the oper-
+26 ation of a data center. For the purposes of this section, a separately
+27 operated segment of business is a segment of a business for which sep-
+28 arate records are maintained and that is operated by an employee or em-
+29 ployees whose primary employment responsibility is to operate the busi-
+30 ness segment.
+31 (b) "Cabling" means a fiber or copper cable used in data centers to con-
+32 nect information sources to a server or storage device.
+33 (c) "Capital investment" means real or tangible personal property that
+34 is purchased for use in Idaho and is used by a business entity for the
+35 purpose of operating a data center.
+36 (d) "Chiller" means a cooling system used in data centers to remove heat
+37 from an element and deposit it into another element.
+38 (e) "Commencement of operations" means the date on which a certificate
+39 of occupancy is issued for a data center.
+40 (f) "Data center" means a facility comprised of one (1) or more build-
+41 ings in Idaho that is used to house eligible server equipment for the
+2
+1 transmission and storage of data where the facility has the following
+2 characteristics:
+3 (i) Uninterruptible power supplies, generator power, or both;
+4 (ii) Sophisticated fire suppression and prevention systems; and
+5 (iii) Enhanced physical security and restricted access.
+6 (g) "Eligible server equipment" means new server equipment acquired
+7 by a qualifying business entity as described in this subsection that is
+8 maintained and operated in a data center located in Idaho for the sole
+9 purpose of data transmission and storage services, providing data and
+10 transaction processing services, information technology services, or
+11 computer collocation services. "Eligible server equipment" includes
+12 servers, rack servers, chillers, storage devices, generators, cabling,
+13 and enabling software integral to or installed on such equipment.
+14 (h) "Generator" means an engine used in data centers to convert mechan-
+15 ical energy into electricity.
+16 (i) "New data center facilities" means buildings or structural com-
+17 ponents of buildings, including equipment, materials, and fixtures
+18 thereof, that are used in or intended for use primarily as a data center
+19 in Idaho.
+20 (j) "New jobs" means new jobs created in Idaho that are nonseasonal,
+21 full-time jobs that collectively pay an average weekly wage that equals
+22 or exceeds the average weekly wage for the county where the data center
+23 is located, as determined by the most recent report of the United States
+24 bureau of labor statistics. A job that merely changes locations within
+25 the state of Idaho shall not be considered a new job under this section.
+26 New jobs must exceed the business entity's highest number of full-time
+27 employees in Idaho during the twenty-four (24) months immediately pre-
+28 ceding the commencement of operations of the data center.
+29 (k) "Qualifying business entity" means a business entity that certi-
+30 fies to the state tax commission that it will make capital investments
+31 in one (1) or more data centers after July 1, 2020, in amounts of at
+32 least two hundred fifty million dollars ($250,000,000) in the aggre-
+33 gate within the first five (5) years after commencement of construction
+34 and that it will create and maintain at least thirty (30) new jobs at
+35 the data center within two (2) calendar years after the commencement of
+36 operations. Such business entities shall be entitled to a provisional
+37 exemption pursuant to this section during the period in which they make
+38 capital investments in data center property. If a business entity fails
+39 to meet the investment and job creation requirements provided within
+40 the time periods required in this section, it shall pay sales or use
+41 taxes that would have been due if not for the granting of the provi-
+42 sional exemption. If a business entity meets the investment and job
+43 creation requirements provided within the time periods required in this
+44 section, its provisional exemption shall become final without further
+45 action, and thereafter the exemption shall also apply to all additional
+46 purchases of eligible server equipment and purchases associated with
+47 constructing new data center facilities. For any qualifying business
+48 entity receiving the exemption provided in this section on and after
+49 March 1, 2025, the exemption shall expire seven (7) years from the date
+50 that the provisional exemption becomes final.
+3
+1 (l) "Rack server" means a computer in a data center dedicated to use as a
+2 server and designed to be installed in a framework called a rack.
+3 (m) "Server" means a computer or computer program used in data centers
+4 that manages access to a centralized resource or service in a network.
+5 (n) "Storage device" means a piece of computer equipment on which in-
+6 formation can be stored and that is used in data centers.
+7 (3) A qualifying business entity that receives an exemption pursuant to
+8 this section on and after March 1, 2025, shall, for each year after the exemp-
+9 tion expires after the time period provided in subsection (2)(k) of this sec-
+10 tion, remit to the state tax commission sales tax on any item that would oth-
+11 erwise be exempt if the qualifying business entity was continuing to claim
+12 the exemption provided in this section. The state tax commission shall, on a
+13 quarterly basis, transfer all such remitted funds to the tax relief fund es-
+14 tablished pursuant to section 57-811, Idaho Code.
+15 (3) (4) The state tax commission may promulgate rules to administer
+16 and enforce the provisions of this section, including the promulgation of
+17 rules relating to the provision of information necessary to certify that the
+18 taxpayer satisfies the criteria for a qualifying business entity and to fa-
+19 cilitate the remittance of taxes pursuant to subsection (3) of this section.
+20 For the purpose of carrying out its duties to administer and enforce the
+21 provisions of this section, the state tax commission shall have the powers
+22 and duties provided by sections 63-217, 63-3038, 63-3039, 63-3042 through
+23 63-3067, 63-3068, 63-3071, and 63-3074 through 63-3078, Idaho Code.
+24 SECTION 2. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after its
+26 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YREADTNCNAGTOT;AGSN6,IOC,TOREPSRGTEIOINTYETSST;ADDGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseiyadtordasf.IOINTYE.()Onaday1,2,adbeMh1,2,teisedfmtetsidbytscrtepeorueofeesretawdacrf,asddintss.Teenpdintssnslbeaeoytoqgbsesadcsigeesretorbgnacrfsfrqgbse.OnadarM,2,teenpdintssnsloybeaefetepdpdinsn()oftssnadslbttotepsofsn()oftss.TeedintssnslntbeaefrpytthsbestofbsisgdtoatrorisattoteIortiea,ss67t,IoC)Asudintss)"se"msaselleyorsyodstofbsttesfrtepypeofenaclayfrptadwesepeisteonofadac.Frtepsoftss,asdstofbsisastofabsfrwhsersaemdadttisodbyaneeoreswepyetryistooetebss)""msafrorcrceudindacstoctinsstoasrorsed)"li"msrlorteplpytspdfrueinIoadisudbyabseyfrteofogadac)""msacgsmudindacstorehmanetaddtitioare)"tofo"mstedeonwhacfoyisidfradac)"ac"msafycdofoe()ormebsinIottisudtoheeesretfrt]
+[DELETED: nadseofdawetefyhstef)Ueprs,grp,orb)Sdfesnadpns;a)Edplsyadrda)"esre"msnwsretayaqgbseyasddintssnttidadodinadacrldinIofrteseofdatnadses,pgdaanpgs,intys,orcns."esre"i,rks,c,sed,g,cdegseiltooridonshe)""msaneeudindacstoctmleyioe)"wdacrf"msbsorslcsofb,ige,m,adf,ttaeudinoridfruepyasadacnI)"wj"msnwjscdinIottaenejsttcypyanaewywetteresteaewywefrtecywetedacsl,asddbytemtrtrtofteUdSuoflrs.AjbttmycslsweseofIoslntbecdanwjburtsswjsmtedtebseshtnroffsinIodgtetr()msiypgtectofosoftedac)"gbse"msabseyttcstotesetxcnttitwlmeclinoe()ormedacsarJy1,2,inasofattohdfymnds()inteaewnteftfe()ysarctofcdttitwlceadmnatltty()nwjsaedacrwnto()crysartecto.Shbsesslbeedtoapnpttotssndgtepdinwhtymlisindacrp.Ifabseyfomtteitadjbcnrspdwetepsrdintss,itslpyssorusttwdhebndeifntfrteggofteple.Ifabseymsteitadjnrspdwntetepsrdint,isplenslbeflwtf,adtrteenslaoaytoalasofeesretadpsadwgnwdacrf.Frayqgbyrgteenpdintssnonadah1,2,teensleesn()ysfmtedtteplenbsf]
+[DELETED: )"ks"msacrinadacrddtoueasradddtobeidinafkcdar)""msacrorcrpmudindactmsastoacdreorseinan)"ed"msapeofcretonwhincnbesdadttisudindac)AqgbseyttrsanenpttssnonadarMh1,2,s,frehyrarteenesartetepdpdinsn()oftss,rttotesetxcnsstxonayimttwdoebeetifteqgbseywscgtoceenpdintss.Tesetxcns,onyb,tralshrdfstotetxrffdedpttosn5,IoC)()Tesetxcnmyperstoadeetepsoftss,igtepnosrgtotepnofinnytocytttrsstecafraqgbseyadtofetereoftspttosn()oftssrtepeofcgotisdstoaradeetsoftss,tesetxcnslhetepddspdbyss6,6,6,62t,6,6,ad64th6,IoCN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 315
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3622VV, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE IDAHO INFORMATION TECHNOLOGY EQUIPMENT SALES TAX
+4 EXEMPTION; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-3622VV, Idaho Code, be, and the same is
+7 hereby amended to read as follows:
+8 63-3622VV. IDAHO INFORMATION TECHNOLOGY EQUIPMENT. (1) On and after
+9 July 1, 2020, and before March 1, 2025, there is exempted from the taxes im-
+10 posed by this chapter the purchase or use of eligible server equipment and
+11 new data center facilities, as defined in this section. The exemption pro-
+12 vided in this section shall be available only to qualifying business enti-
+13 ties and contractors installing eligible server equipment or building new
+14 data center facilities for qualifying business entities. On and after March
+15 1, 2025, the exemption provided in this section shall only be available for
+16 the time period provided in subsection (2)(k) of this section and shall be
+17 subject to the provisions of subsection (3) of this section. The exemption
+18 provided in this section shall not be available for property that has been
+19 the subject of business incentives granted to a taxpayer or its affiliates,
+20 pursuant to the Idaho reimbursement incentive act, sections 67-4737 through
+21 67-4744, Idaho Code.
+22 (2) As used in this section:
+23 (a) "Business entity" means a separate legal entity or separately oper-
+24 ated segment of business that exists for the primary purpose of engaging
+25 in a commercial activity for profit and whose sole purpose is the oper-
+26 ation of a data center. For the purposes of this section, a separately
+27 operated segment of business is a segment of a business for which sep-
+28 arate records are maintained and that is operated by an employee or em-
+29 ployees whose primary employment responsibility is to operate the busi-
+30 ness segment.
+31 (b) "Cabling" means a fiber or copper cable used in data centers to con-
+32 nect information sources to a server or storage device.
+33 (c) "Capital investment" means real or tangible personal property that
+34 is purchased for use in Idaho and is used by a business entity for the
+35 purpose of operating a data center.
+36 (d) "Chiller" means a cooling system used in data centers to remove heat
+37 from an element and deposit it into another element.
+38 (e) "Commencement of operations" means the date on which a certificate
+39 of occupancy is issued for a data center.
+40 (f) "Data center" means a facility comprised of one (1) or more build-
+41 ings in Idaho that is used to house eligible server equipment for the
+
+2
+1 transmission and storage of data where the facility has the following
+2 characteristics:
+3 (i) Uninterruptible power supplies, generator power, or both;
+4 (ii) Sophisticated fire suppression and prevention systems; and
+5 (iii) Enhanced physical security and restricted access.
+6 (g) "Eligible server equipment" means new server equipment acquired
+7 by a qualifying business entity as described in this subsection that is
+8 maintained and operated in a data center located in Idaho for the sole
+9 purpose of data transmission and storage services, providing data and
+10 transaction processing services, information technology services, or
+11 computer collocation services. "Eligible server equipment" includes
+12 servers, rack servers, chillers, storage devices, generators, cabling,
+13 and enabling software integral to or installed on such equipment.
+14 (h) "Generator" means an engine used in data centers to convert mechan-
+15 ical energy into electricity.
+16 (i) "New data center facilities" means buildings or structural com-
+17 ponents of buildings, including equipment, materials, and fixtures
+18 thereof, that are used in or intended for use primarily as a data center
+19 in Idaho.
+20 (j) "New jobs" means new jobs created in Idaho that are nonseasonal,
+21 full-time jobs that collectively pay an average weekly wage that equals
+22 or exceeds the average weekly wage for the county where the data center
+23 is located, as determined by the most recent report of the United States
+24 bureau of labor statistics. A job that merely changes locations within
+25 the state of Idaho shall not be considered a new job under this section.
+26 New jobs must exceed the business entity's highest number of full-time
+27 employees in Idaho during the twenty-four (24) months immediately pre-
+28 ceding the commencement of operations of the data center.
+29 (k) "Qualifying business entity" means a business entity that certi-
+30 fies to the state tax commission that it will make capital investments
+31 in one (1) or more data centers after July 1, 2020, in amounts of at
+32 least two hundred fifty million dollars ($250,000,000) in the aggre-
+33 gate within the first five (5) years after commencement of construction
+34 and that it will create and maintain at least thirty (30) new jobs at
+35 the data center within two (2) calendar years after the commencement of
+36 operations. Such business entities shall be entitled to a provisional
+37 exemption pursuant to this section during the period in which they make
+38 capital investments in data center property. If a business entity fails
+39 to meet the investment and job creation requirements provided within
+40 the time periods required in this section, it shall pay sales or use
+41 taxes that would have been due if not for the granting of the provi-
+42 sional exemption. If a business entity meets the investment and job
+43 creation requirements provided within the time periods required in this
+44 section, its provisional exemption shall become final without further
+45 action, and thereafter the exemption shall also apply to all additional
+46 purchases of eligible server equipment and purchases associated with
+47 constructing new data center facilities. For any qualifying business
+48 entity receiving the exemption provided in this section on and after
+49 March 1, 2025, the exemption shall expire seven (7) years from the date
+50 that the provisional exemption becomes final.
+
+3
+1 (l) "Rack server" means a computer in a data center dedicated to use as a
+2 server and designed to be installed in a framework called a rack.
+3 (m) "Server" means a computer or computer program used in data centers
+4 that manages access to a centralized resource or service in a network.
+5 (n) "Storage device" means a piece of computer equipment on which in-
+6 formation can be stored and that is used in data centers.
+7 (3) A qualifying business entity that receives an exemption pursuant to
+8 this section on and after March 1, 2025, shall, for each year after the exemp-
+9 tion expires after the time period provided in subsection (2)(k) of this sec-
+10 tion, remit to the state tax commission sales tax on any item that would oth-
+11 erwise be exempt if the qualifying business entity was continuing to claim
+12 the exemption provided in this section. The state tax commission shall, on a
+13 quarterly basis, transfer all such remitted funds to the tax relief fund es-
+14 tablished pursuant to section 57-811, Idaho Code.
+15 (3) (4) The state tax commission may promulgate rules to administer
+16 and enforce the provisions of this section, including the promulgation of
+17 rules relating to the provision of information necessary to certify that the
+18 taxpayer satisfies the criteria for a qualifying business entity and to fa-
+19 cilitate the remittance of taxes pursuant to subsection (3) of this section.
+20 For the purpose of carrying out its duties to administer and enforce the
+21 provisions of this section, the state tax commission shall have the powers
+22 and duties provided by sections 63-217, 63-3038, 63-3039, 63-3042 through
+23 63-3067, 63-3068, 63-3071, and 63-3074 through 63-3078, Idaho Code.
+24 SECTION 2. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after its
+26 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YREADTNCNAGTOT;AGSN6,IOC,TOREPSRGTEIOINTYETSST;ADDGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseiyadtordasf.IOINTYE.()Onaday1,2,adbeMh1,2,teisedfmtetsidbytscrtepeorueofeesretawdacrf,asddintss.Teenpdintssnslbeaeoytoqgbsesadcsigeesretorbgnacrfsfrqgbse.OnadarM,2,teenpdintssnsloybeaefetepdpdinsn()oftssnadslbttotepsofsn()oftss.TeedintssnslntbeaefrpytthsbestofbsisgdtoatrorisattoteIortiea,ss67t,IoC)Asudintss)"se"msaselleyorsyodstofbsttesfrtepypeofenaclayfrptadwesepeisteonofadac.Frtepsoftss,asdstofbsisastofabsfrwhsersaemdadttisodbyaneeoreswepyetryistooetebss)""msafrorcrceudindacstoctinsstoasrorsed)"li"msrlorteplpytspdfrueinIoadisudbyabseyfrteofogadac)""msacgsmudindacstorehmanetaddtitioare)"tofo"mstedeonwhacfoyisidfradac)"ac"msafycdofoe()ormebsinIottisudtoheeesretfrt]
+[DELETED: nadseofdawetefyhstef)Ueprs,grp,orb)Sdfesnadpns;a)Edplsyadrda)"esre"msnwsretayaqgbseyasddintssnttidadodinadacrldinIofrteseofdatnadses,pgdaanpgs,intys,orcns."esre"i,rks,c,sed,g,cdegseiltooridonshe)""msaneeudindacstoctmleyioe)"wdacrf"msbsorslcsofb,ige,m,adf,ttaeudinoridfruepyasadacnI)"wj"msnwjscdinIottaenejsttcypyanaewywetteresteaewywefrtecywetedacsl,asddbytemtrtrtofteUdSuoflrs.AjbttmycslsweseofIoslntbecdanwjburtsswjsmtedtebseshtnroffsinIodgtetr()msiypgtectofosoftedac)"gbse"msabseyttcstotesetxcnttitwlmeclinoe()ormedacsarJy1,2,inasofattohdfymnds()inteaewnteftfe()ysarctofcdttitwlceadmnatltty()nwjsaedacrwnto()crysartecto.Shbsesslbeedtoapnpttotssndgtepdinwhtymlisindacrp.Ifabseyfomtteitadjbcnrspdwetepsrdintss,itslpyssorusttwdhebndeifntfrteggofteple.Ifabseymsteitadjnrspdwntetepsrdint,isplenslbeflwtf,adtrteenslaoaytoalasofeesretadpsadwgnwdacrf.Frayqgbyrgteenpdintssnonadah1,2,teensleesn()ysfmtedtteplenbsf]
+[DELETED: )"ks"msacrinadacrddtoueasradddtobeidinafkcdar)""msacrorcrpmudindactmsastoacdreorseinan)"ed"msapeofcretonwhincnbesdadttisudindac)AqgbseyttrsanenpttssnonadarMh1,2,s,frehyrarteenesartetepdpdinsn()oftss,rttotesetxcnsstxonayimttwdoebeetifteqgbseywscgtoceenpdintss.Tesetxcns,onyb,tralshrdfstotetxrffdedpttosn5,IoC)()Tesetxcnmyperstoadeetepsoftss,igtepnosrgtotepnofinnytocytttrsstecafraqgbseyadtofetereoftspttosn()oftssrtepeofcgotisdstoaradeetsoftss,tesetxcnslhetepddspdbyss6,6,6,62t,6,6,ad64th6,IoCN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

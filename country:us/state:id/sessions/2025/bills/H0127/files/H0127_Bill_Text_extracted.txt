@@ -1,0 +1,130 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 127
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CONSUMER PROTECTION; AMENDING CHAPTER 6, TITLE 48, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 48-603H, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING DISCLOSURE OF ARTIFICIAL INTELLIGENCE COMMUNICA-
+5 TIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 6, Title 48, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 48-603H, Idaho Code, and to read as follows:
+10 48-603H. DISCLOSURE OF ARTIFICIAL INTELLIGENCE COMMUNICATIONS. (1)
+11 It is an unfair and deceptive trade practice for any person to engage in trade
+12 or commerce with a consumer in which the person is communicating or otherwise
+13 interacting with a consumer using a chatbot, artificial intelligence agent,
+14 avatar, or other computer technology that engages in a textual or aural con-
+15 versation and which may mislead or deceive a reasonable consumer to believe
+16 the consumer is engaging with an actual human, and:
+17 (a) The consumer is not notified in a clear and conspicuous fashion that
+18 the consumer is not communicating with a human being;
+19 (b) The consumer may reasonably believe the consumer is engaging with a
+20 human because the communication is not clear and conspicuous; and
+21 (c) The chatbot, artificial intelligence agent, avatar, or other com-
+22 puter technology that engages in a textual or aural conversation is do-
+23 ing more than stating the person's basic operations information, such
+24 as employee directories, locations, hours of operation, the basic me-
+25 chanics of purchasing items, and similar information.
+26 (2) A consumer may initiate a private right of action against any person
+27 who fails to comply with subsection (1) of this section, and such person is
+28 liable:
+29 (a) To such consumer in an amount equal to the actual damage, including
+30 the value of the consumer's time in resolving any issues caused by the
+31 violation of this section, and other damages sustained by such consumer
+32 as a result of such violation, or a statutory damage of one thousand dol-
+33 lars ($1,000), whichever is greater; or
+34 (b) In the case of a class action, for such amount as the court may al-
+35 low for the class, not to exceed actual damages or ten thousand dollars
+36 ($10,000).
+37 (3) The attorney general may seek injunctive relief against any person
+38 who fails to comply with subsection (1) of this section with respect to any
+39 consumer, and any person found in a court of law to be out of compliance with
+40 subsection (1) of this section shall be liable for a minimum civil penalty of
+41 ten thousand dollars ($10,000) and one thousand dollars ($1,000) per viola-
+42 tion to be determined by the court.
+2
+1 (4) In any action brought pursuant to this section, the prevailing
+2 party shall be entitled to an award of the reasonable investigative costs,
+3 all other costs as allowed by statute and rule, and reasonable attorney's
+4 fees incurred in pursuing or defending the litigation.
+5 SECTION 2. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YJ,RSADANCNAGTOCRP;AGCR6,TE4,IOCYTEANOFANWSN4,IOC,TOESRGDEOFALIEC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr6,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.DEOFALIEC.(tisanuraddetepefraypntoeeintrcewhacrinwhtepniscgorogwhacrugac,aliea,ororcrtyttesinatloralcnadwhmymdordearecrtobecrisegwhanalh,a)Tecrisntndinacradcsfntecrisntcgwhahnb)Tecrmyrybetecrisegwhnbetecnisntcradc;a)Tec,aliea,a,ororcrtyttesinatloralcnisdgmetnsgtepsbcosi,sseed,l,hsofo,tebcmsofpgi,adsri)Acrmyieapertofanataypofstocywhsn()oftss,adshpni)Toshcrinanateltoteald,ieveoftecsteinrgayiscdbytnoftss,adordssdbyshcsartofshv,orasydeofoetdds(,wrisg;o)Inteceofacsa,frshatastectmyawfrtec,nttoedaldsortntdd)Teayglmyskierfataypofstocywhsn()oftssnwhrttoa,adaypnfdinactoflwtobeotofcewn()oftssnslbeleframmclpyontdds()adoetdds()prvntobeddbytec]
+[DELETED: )Inayanbtpttotss,tepyslbeedtoanadoftereieclorcsasadbyseadr,adreasidinpgordgtelN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 127
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CONSUMER PROTECTION; AMENDING CHAPTER 6, TITLE 48, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 48-603H, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING DISCLOSURE OF ARTIFICIAL INTELLIGENCE COMMUNICA-
+5 TIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 6, Title 48, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 48-603H, Idaho Code, and to read as follows:
+10 48-603H. DISCLOSURE OF ARTIFICIAL INTELLIGENCE COMMUNICATIONS. (1)
+11 It is an unfair and deceptive trade practice for any person to engage in trade
+12 or commerce with a consumer in which the person is communicating or otherwise
+13 interacting with a consumer using a chatbot, artificial intelligence agent,
+14 avatar, or other computer technology that engages in a textual or aural con-
+15 versation and which may mislead or deceive a reasonable consumer to believe
+16 the consumer is engaging with an actual human, and:
+17 (a) The consumer is not notified in a clear and conspicuous fashion that
+18 the consumer is not communicating with a human being;
+19 (b) The consumer may reasonably believe the consumer is engaging with a
+20 human because the communication is not clear and conspicuous; and
+21 (c) The chatbot, artificial intelligence agent, avatar, or other com-
+22 puter technology that engages in a textual or aural conversation is do-
+23 ing more than stating the person's basic operations information, such
+24 as employee directories, locations, hours of operation, the basic me-
+25 chanics of purchasing items, and similar information.
+26 (2) A consumer may initiate a private right of action against any person
+27 who fails to comply with subsection (1) of this section, and such person is
+28 liable:
+29 (a) To such consumer in an amount equal to the actual damage, including
+30 the value of the consumer's time in resolving any issues caused by the
+31 violation of this section, and other damages sustained by such consumer
+32 as a result of such violation, or a statutory damage of one thousand dol-
+33 lars ($1,000), whichever is greater; or
+34 (b) In the case of a class action, for such amount as the court may al-
+35 low for the class, not to exceed actual damages or ten thousand dollars
+36 ($10,000).
+37 (3) The attorney general may seek injunctive relief against any person
+38 who fails to comply with subsection (1) of this section with respect to any
+39 consumer, and any person found in a court of law to be out of compliance with
+40 subsection (1) of this section shall be liable for a minimum civil penalty of
+41 ten thousand dollars ($10,000) and one thousand dollars ($1,000) per viola-
+42 tion to be determined by the court.
+
+2
+1 (4) In any action brought pursuant to this section, the prevailing
+2 party shall be entitled to an award of the reasonable investigative costs,
+3 all other costs as allowed by statute and rule, and reasonable attorney's
+4 fees incurred in pursuing or defending the litigation.
+5 SECTION 2. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YJ,RSADANCNAGTOCRP;AGCR6,TE4,IOCYTEANOFANWSN4,IOC,TOESRGDEOFALIEC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr6,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.DEOFALIEC.(tisanuraddetepefraypntoeeintrcewhacrinwhtepniscgorogwhacrugac,aliea,ororcrtyttesinatloralcnadwhmymdordearecrtobecrisegwhanalh,a)Tecrisntndinacradcsfntecrisntcgwhahnb)Tecrmyrybetecrisegwhnbetecnisntcradc;a)Tec,aliea,a,ororcrtyttesinatloralcnisdgmetnsgtepsbcosi,sseed,l,hsofo,tebcmsofpgi,adsri)Acrmyieapertofanataypofstocywhsn()oftss,adshpni)Toshcrinanateltoteald,ieveoftecsteinrgayiscdbytnoftss,adordssdbyshcsartofshv,orasydeofoetdds(,wrisg;o)Inteceofacsa,frshatastectmyawfrtec,nttoedaldsortntdd)Teayglmyskierfataypofstocywhsn()oftssnwhrttoa,adaypnfdinactoflwtobeotofcewn()oftssnslbeleframmclpyontdds()adoetdds()prvntobeddbytec]
+[DELETED: )Inayanbtpttotss,tepyslbeedtoanadoftereieclorcsasadbyseadr,adreasidinpgordgtelN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

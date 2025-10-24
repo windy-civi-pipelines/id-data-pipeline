@@ -1,0 +1,776 @@
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 71
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO ACQUISITIONS OF CONTROL AND INSURANCE HOLDING COMPANY SYSTEMS;
+3 AMENDING SECTION 41-3802, IDAHO CODE, TO DEFINE TERMS AND TO REVISE A
+4 DEFINITION; AMENDING SECTION 41-3809, IDAHO CODE, TO ESTABLISH PROVI-
+5 SIONS REGARDING GROUP CAPITAL CALCULATION, TO PROVIDE FOR A LIQUIDITY
+6 STRESS TEST, AND TO MAKE TECHNICAL CORRECTIONS; AMENDING CHAPTER 38,
+7 TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-3809A, IDAHO
+8 CODE, TO ESTABLISH PROVISIONS REGARDING GROUP CAPITAL CALCULATION RE-
+9 PORTING; AMENDING SECTION 41-3810, IDAHO CODE, TO REVISE A PROVISION
+10 REGARDING STANDARDS OF AN INSURER WITHIN AN INSURANCE HOLDING COMPANY
+11 SYSTEM, TO PROVIDE FOR CERTAIN STANDARDS OF AN INSURER WITHIN AN INSUR-
+12 ANCE HOLDING COMPANY SYSTEM, TO PROVIDE FOR CERTAIN AFFILIATE AGREE-
+13 MENTS, AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 41-3816,
+14 IDAHO CODE, TO REVISE PROVISIONS REGARDING CONFIDENTIAL TREATMENT, TO
+15 ESTABLISH PROVISIONS REGARDING CONFIDENTIAL TREATMENT, AND TO MAKE
+16 TECHNICAL CORRECTIONS; AND PROVIDING AN EFFECTIVE DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Section 41-3802, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 41-3802. DEFINITIONS. As used in this chapter, the following terms
+21 shall have the following meanings:
+22 (1) "Affiliate" of, or a person "affiliated" with, a specific person,
+23 means a person who directly or indirectly through one (1) or more intermedi-
+24 aries controls or is controlled by, or is under common control with, the per-
+25 son specified.
+26 (2) "Control," including "controlling," "controlled by" and "under
+27 common control with," means the possession, direct or indirect, of the power
+28 to direct or cause the direction of the management and policies of a person,
+29 whether through the ownership of voting securities, by contract other than
+30 a commercial contract for goods or nonmanagement services, or otherwise,
+31 unless the power is the result of an official position with or a corporate
+32 office held by the person. Control shall be presumed to exist if any person,
+33 directly or indirectly, owns, controls, holds with the power to vote or holds
+34 proxies representing ten percent (10%) or more of the voting securities of
+35 any other person. This presumption may be rebutted by a showing made in the
+36 manner provided in section 41-3809(11), Idaho Code, that control does not
+37 exist in fact. The director may determine, after furnishing all persons in
+38 interest notice and opportunity to be heard and making specific findings of
+39 fact to support the determination, that control exists in fact, notwith-
+40 standing the absence of a presumption to that effect.
+41 (3) "Enterprise risk" means any activity, circumstance, event or se-
+42 ries of events involving one (1) or more affiliates of an insurer that, if
+
+2
+1 not remedied promptly, is likely to have a material adverse effect upon on
+2 the financial condition or liquidity of the insurer or its insurance holding
+3 company system as a whole, including, but not limited to, anything that would
+4 cause the insurer's risk-based capital to fall into company action level as
+5 set forth in section 41-5403, Idaho Code, or would cause the insurer to be in
+6 hazardous financial condition as set forth by rule in IDAPA 18.01.66.
+7 (4) "Group capital calculation instructions" means the group capital
+8 calculation instructions as adopted and amended by the national association
+9 of insurance commissioners (NAIC) effective January 1, 2024, or any subse-
+10 quent version adopted for use by the director by rule, administrative order,
+11 or bulletin, provided that no such instructions shall contradict any section
+12 of this chapter.
+13 (4) (5) "Group-wide supervisor" means the regulatory official au-
+14 thorized to engage in conducting and coordinating group-wide supervision
+15 activities who is determined or acknowledged by the director under section
+16 41-3815A, Idaho Code, to have sufficient significant contacts with the in-
+17 ternationally active insurance group.
+18 (5) (6) "Insurance holding company system" means two (2) or more affil-
+19 iated persons, one (1) or more of whom is an insurer.
+20 (6) (7) "Insurer" has the same meaning as that set forth in section
+21 41-103, Idaho Code, except that it shall not include agencies, authorities
+22 or instrumentalities of the United States, its possessions and territories,
+23 the Commonwealth of Puerto Rico, the District of Columbia or a state or po-
+24 litical subdivision of a state.
+25 (7) (8) "Internationally active insurance group" means an insurance
+26 holding company system that:
+27 (a) Includes an insurer registered under section 41-3809, Idaho Code;
+28 and
+29 (b) Meets the following criteria:
+30 (i) Premiums written in at least three (3) countries;
+31 (ii) The percentage of gross premiums written outside the United
+32 States is at least ten percent (10%) of the insurance holding com-
+33 pany system's total gross written premiums; and
+34 (iii) Based on a three (3) year rolling average, the total assets
+35 of the insurance holding company system are at least fifty billion
+36 dollars ($50,000,000,000) or the total gross written premiums of
+37 the insurance holding company system are at least ten billion dol-
+38 lars ($10,000,000,000).
+39 (9) "NAIC liquidity stress test framework" means the NAIC publication
+40 as adopted and amended by the NAIC effective December 13, 2022, or any subse-
+41 quent version adopted for use by the director by rule, administrative order,
+42 or bulletin. The term includes a history of the development of regulatory
+43 liquidity stress testing, the scope criteria applicable for a specific data
+44 year, and the liquidity stress test instructions and reporting templates for
+45 a specific data year.
+46 (8) (10) "Person" means an individual, a corporation, a limited li-
+47 ability company, a partnership, an association, a joint stock company, a
+48 business trust, an unincorporated organization, or any similar entity or any
+49 combination of the foregoing acting in concert, but shall not include any
+
+3
+1 joint venture partnership exclusively engaged in owning, managing, leasing
+2 or developing real or tangible personal property.
+3 (11) "Scope criteria" means the designated exposure bases along with
+4 minimum magnitudes thereof for the specified data year used to establish a
+5 preliminary list of insurers that are considered scoped into the NAIC liq-
+6 uidity stress test framework for that data year.
+7 (9) (12) "Security holder" means a person who owns any security of a
+8 specified person, including common stock, preferred stock, debt obligations
+9 and any other security convertible into or evidencing the right to acquire
+10 any of the foregoing.
+11 (10) (13) "Subsidiary" means a specified person who is an affiliate con-
+12 trolled by such person directly or indirectly through one (1) or more inter-
+13 mediaries.
+14 (11) (14) "Voting security" means any security convertible into or evi-
+15 dencing a right to acquire a voting security.
+16 SECTION 2. That Section 41-3809, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 41-3809. REGISTRATION OF HOLDING COMPANY SYSTEM INSURERS.
+19 (1)(a) Every insurer authorized to do business in this state and that
+20 is a member of an insurance holding company system shall register
+21 with the director, except a foreign insurer subject to registration
+22 requirements and standards adopted by statute or regulation in the ju-
+23 risdiction of its domicile, which are substantially similar to those
+24 contained in this section and in:
+25 (a) (i) Sections 41-3810(1), 41-3811 and 41-3812, Idaho Code; and
+26 (b) (ii) The provisions of section 41-3810(2), Idaho Code, or a
+27 provision such as the following: Each each registered insurer
+28 shall keep current the information required to be disclosed in its
+29 registration statement by reporting all material changes or addi-
+30 tions within fifteen (15) days after the end of the month in which
+31 it learns of each change or addition.
+32 (b) Any insurer that is subject to registration under this section
+33 shall register within fifteen (15) days after it becomes subject to
+34 registration, and annually thereafter for the year ending December 31
+35 immediately preceding, on the due date provided for filing of audited
+36 financial reports, or, if the insurer is not subject to filing of au-
+37 dited financial reports, on June 1, unless the director, for good cause
+38 shown, extends the time for registration, and then within the extended
+39 time. The director may require any insurer authorized to do business in
+40 the state that is a member of an insurance holding company system, and
+41 which that is not subject to registration under this section, to furnish
+42 a copy of the registration statement, the summary specified in subsec-
+43 tion (3) of this section or other information filed by the insurance
+44 company with the insurance regulatory authority of its domiciliary ju-
+45 risdiction. Upon request of the insurer or of the insurance regulatory
+46 authority of another jurisdiction in which the insurer is authorized to
+47 transact insurance, the director at the insurer's expense shall furnish
+48 a copy of the registration statement or other information filed by a
+49 domestic insurer with the director pursuant to this chapter.
+
+4
+1 (2) Every insurer subject to registration under this chapter shall file
+2 the registration statement with the director on a form and in a manner pre-
+3 scribed by the director. The registration statement shall contain the fol-
+4 lowing current information:
+5 (a) The capital structure, general financial condition, ownership and
+6 management of the insurer and any person controlling the insurer;
+7 (b) The identity and relationship of every member of the insurance
+8 holding company system;
+9 (c) The following agreements in force and transactions currently out-
+10 standing or that have occurred during the last calendar year between the
+11 insurer and its affiliates:
+12 (i) Loans, other investments or purchases, sales or exchanges of
+13 securities of the affiliates by the insurer or of the insurer by
+14 its affiliates;
+15 (ii) Purchases, sales or exchange of assets;
+16 (iii) Transactions not in the ordinary course of business;
+17 (iv) Guarantees or undertakings for the benefit of an affiliate
+18 that result in an actual contingent exposure of the insurer's as-
+19 sets to liability, other than insurance contracts entered into in
+20 the ordinary course of the insurer's business;
+21 (v) All management agreements, service contracts and all cost-
+22 sharing arrangements;
+23 (vi) Reinsurance agreements;
+24 (vii) Dividends and other distributions to shareholders; and
+25 (viii) Consolidated tax allocation agreements.
+26 (d) Any pledge of the insurer's stock, including stock of any sub-
+27 sidiary or controlling affiliate, for a loan made to any member of the
+28 insurance holding company system;
+29 (e) If requested by the director, the insurer shall provide to the di-
+30 rector financial statements of or within an insurance holding company
+31 system, including all affiliates. Financial statements may include,
+32 but are not limited to, annual audited financial statements filed
+33 with the U.S. United States securities and exchange commission (SEC)
+34 pursuant to the securities act of 1933, as amended, or the securities
+35 exchange act of 1934, as amended. An insurer required to file finan-
+36 cial statements pursuant to this section may satisfy the request by
+37 providing the director with the most recently filed parent corporation
+38 financial statements that have been filed with the SEC;
+39 (f) Other matters concerning transactions between registered insurers
+40 and any affiliates as may be included from time to time in any registra-
+41 tion forms adopted or approved by the director;
+42 (g) Certification that the insurer's board of directors is responsible
+43 for and oversees corporate governance and internal controls and that
+44 the insurer's officers or senior management have approved, implemented
+45 and continue to maintain and monitor corporate governance and internal
+46 control procedures; and
+47 (h) Any other information required by the director by statute or rule.
+48 (3) All registration statements shall contain a summary outlining all
+49 items constituting changes from the prior registration statement.
+
+5
+1 (4) No information need be disclosed on the registration statement
+2 filed pursuant to subsection (2) of this section if the information is not
+3 material for the purposes of this section. Unless the director by rule or or-
+4 der provides otherwise, sales, purchases, exchanges, loans or extensions of
+5 credit, investments or guarantees involving one-half of one percent (.5%) or
+6 less of an insurer's admitted assets as of the December 31 of the year immedi-
+7 ately preceding shall not be deemed material for purposes of this chapter.
+8 (5) Subject to section 41-3810, Idaho Code, each registered insurer
+9 shall report to the director all dividends and other distributions to
+10 shareholders within fifteen (15) business days following the declaration
+11 thereof.
+12 (6) Any person within an insurance holding company system subject to
+13 registration shall be required to provide complete and accurate information
+14 to an insurer, where the information is reasonably necessary to enable the
+15 insurer to comply with the provisions of this chapter.
+16 (7) The director shall terminate the registration of any insurer that
+17 demonstrates that it no longer is a member of an insurance holding company
+18 system.
+19 (8) The director may require or allow two (2) or more affiliated insur-
+20 ers subject to registration to file a consolidated registration statement.
+21 (9) The director may allow any insurer that is authorized to do business
+22 in this state and that is part of an insurance holding company system, to reg-
+23 ister on behalf of any affiliated insurer that is required to register under
+24 subsection (1) of this section and to comply with all filing requirements un-
+25 der this chapter.
+26 (10) The provisions of this section shall not apply to any insurer, in-
+27 formation or transaction if and to the extent that the director by rule or or-
+28 der shall exempt the same from the provisions of this section. In consider-
+29 ing whether to issue an exemption, the director may consider the following:
+30 (a) The size of the insurer and all affiliates;
+31 (b) The structure of ownership within the insurance holding company
+32 system;
+33 (c) The nature and amounts of transactions within the insurance holding
+34 company system;
+35 (d) The nature and complexity of the business of the insurer and affili-
+36 ates; and
+37 (e) Any other factors the director deems appropriate.
+38 Prior to issuing an exemption, the director shall notify all other insurance
+39 regulators where the insurer or its affiliates hold a certificate of author-
+40 ity.
+41 (11) Any person may file with the director a disclaimer of affiliation
+42 with any authorized insurer, or such a disclaimer may be filed by the insurer
+43 or any member of an insurance holding company system. The disclaimer shall
+44 fully disclose all material relationships and bases for affiliation between
+45 the person and the insurer as well as the basis for disclaiming the affil-
+46 iation. A disclaimer of affiliation shall be deemed to have been granted
+47 unless the director, within thirty (30) days following receipt of a complete
+48 disclaimer, notifies the filing party that the disclaimer is disallowed.
+49 In the event of disallowance, the disclaiming party may request an admin-
+50 istrative hearing pursuant to chapter 2, title 41, Idaho Code, which shall
+
+6
+1 be granted. The disclaiming party shall be relieved of its duty to register
+2 under this section if approval of the disclaimer has been granted by the di-
+3 rector, or if the disclaimer is deemed to have been approved.
+4 (12) The ultimate controlling person of every insurer subject to regis-
+5 tration shall also file an annual enterprise risk report. The report shall,
+6 to the best of the ultimate controlling person's knowledge and belief, iden-
+7 tify the material risks within the insurance holding company system that
+8 could pose enterprise risk to the insurer. The report shall be filed with the
+9 lead state director of the insurance holding company system as determined
+10 by the procedures within the financial analysis handbook adopted by the na-
+11 tional association of insurance commissioners (NAIC).
+12 (13)(a) Except as provided in this subsection, the ultimate control-
+13 ling person of every insurer subject to registration shall concurrently
+14 file with the registration an annual group capital calculation in ac-
+15 cordance with the NAIC group capital calculation instructions. The
+16 lead state director may allow a controlling person that is not the ul-
+17 timate controlling person to file the group capital calculation. The
+18 following insurance holding company systems shall be exempt from filing
+19 the group capital calculation:
+20 (i) An insurance holding company system that has only one (1) in-
+21 surer within its holding company structure, that only writes busi-
+22 ness in its domestic state, and that assumes no business from any
+23 other insurer;
+24 (ii) An insurance holding company system that is required to per-
+25 form a group capital calculation specified by the United States
+26 federal reserve board. If the calculation from the federal re-
+27 serve board under the terms of information sharing agreements can-
+28 not be shared with the lead state director, the insurance holding
+29 company system is not exempt from the group capital calculation
+30 filing;
+31 (iii) An insurance holding company system whose non-United States
+32 group-wide supervisor is located within a reciprocal jurisdiction
+33 as described in section 41-515(2)(f)(i)1., Idaho Code, that rec-
+34 ognizes the United States state regulatory approach to group su-
+35 pervision and group capital; and
+36 (iv) An insurance holding company system:
+37 1. That provides information to the lead state that meets
+38 the requirements for accreditation under the NAIC financial
+39 standards and accreditation program, either directly or
+40 indirectly through the group-wide supervisor, who has de-
+41 termined such information is satisfactory to allow the lead
+42 state to comply with the provisions of section 41-3815A,
+43 Idaho Code; and
+44 2. Whose non-United States group-wide supervisor that is
+45 not in a reciprocal jurisdiction recognizes and accepts, as
+46 specified by the director in regulation, the group capital
+47 calculation as the worldwide group capital assessment for
+48 United States insurance groups who operate in that jurisdic-
+49 tion.
+
+7
+1 (b) The exemptions described in paragraphs (a)(iii) and (iv) of this
+2 subsection shall not prevent the lead state director from requiring
+3 the group capital calculation for United States operations of any
+4 non-United States-based insurance holding company system when it is
+5 deemed appropriate for prudential oversight and solvency monitoring
+6 purposes or for ensuring the competitiveness of the insurance market-
+7 place.
+8 (c) The lead state director may exempt the ultimate controlling per-
+9 son from filing the annual group capital calculation or accept a limited
+10 group capital filing as specified by the lead state director.
+11 (d) If an insurance holding company system no longer meets the require-
+12 ments for an exemption, the insurance holding company system shall file
+13 the group capital calculation at the next annual filing date unless the
+14 lead state director grants an extension.
+15 (14) The ultimate controlling person of every insurer subject to reg-
+16 istration who is also scoped into the NAIC liquidity stress test framework
+17 shall file the results of a specific year's liquidity stress test. The fil-
+18 ing shall be made to the lead state director of the insurance holding company
+19 system.
+20 (a) The NAIC liquidity stress test framework shall include scope cri-
+21 teria applicable to a specific data year. Insurers meeting at least one
+22 (1) threshold of the scope criteria shall be considered scoped into the
+23 NAIC liquidity stress test framework for the specified data year unless
+24 the lead state director determines the insurer should not be scoped into
+25 the framework for that data year.
+26 (b) The performance of, and filing of the results from, a specific
+27 year's liquidity stress test shall comply with the instructions and
+28 templates of the NAIC liquidity stress test framework.
+29 (13) (15) The failure to file a registration statement or any summary of
+30 the registration statement or enterprise risk filing required in this sec-
+31 tion within the time specified for filing shall be a violation of the provi-
+32 sions of this section.
+33 SECTION 3. That Chapter 38, Title 41, Idaho Code, be, and the same is
+34 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+35 ignated as Section 41-3809A, Idaho Code, and to read as follows:
+36 41-3809A. GROUP CAPITAL CALCULATION REPORTING. (1) If an insurance
+37 holding company system under section 41-3809(13), Idaho Code, has previ-
+38 ously filed the annual group capital calculation at least once, the lead
+39 state director may exempt the ultimate controlling person from filing the
+40 annual group capital calculation if:
+41 (a) Annual direct written and unaffiliated assumed premiums, includ-
+42 ing international direct and assumed premiums but excluding premiums
+43 reinsured with the federal crop insurance corporation and federal flood
+44 program, are less than one billion dollars ($1,000,000,000);
+45 (b) No insurers within the holding company structure are domiciled out-
+46 side of the United States or one (1) of its territories;
+47 (c) No banking, depository, or other financial entity that is subject
+48 to an identified regulatory capital framework is within the holding
+49 company structure;
+
+8
+1 (d) The holding company system attests that there are no material
+2 changes in the transactions between insurers and non-insurers in the
+3 group that have occurred since the last filing of the annual group capi-
+4 tal calculation; and
+5 (e) The non-insurers within the holding company system do not pose a
+6 material financial risk to the insurer's ability to honor policyholder
+7 obligations.
+8 (2) If an insurance holding company system has previously filed the
+9 annual group capital calculation, the lead state director may accept, in
+10 lieu of the group capital calculation, a limited group capital filing if the
+11 insurance holding company system has annual direct written and unaffiliated
+12 assumed premiums, including international direct and assumed premiums but
+13 excluding premiums reinsured with the federal crop insurance corporation
+14 and federal flood program, of less than one billion dollars ($1,000,000,000)
+15 and:
+16 (a) No insurers within the holding company structure are domiciled out-
+17 side of the United States or one (1) of its territories;
+18 (b) No banking, depository, or other financial entity that is subject
+19 to an identified regulatory capital framework is included; and
+20 (c) The holding company system attests that there are no material
+21 changes in transactions between insurers and non-insurers in the group
+22 that have occurred since the last filing of the report and the non-in-
+23 surers within the holding company system do not pose a material finan-
+24 cial risk to the insurer's ability to honor policyholder obligations.
+25 (3) No exemption under this section may prevent the lead state director
+26 from requiring the ultimate controlling person to file an annual group capi-
+27 tal calculation, at any time, if:
+28 (a) Any insurer within the insurance holding company system is in a
+29 risk-based capital action level event as set forth in chapter 54, title
+30 41, Idaho Code, or a similar standard for a non-United States insurer;
+31 (b) Any insurer within the insurance holding company system meets one
+32 (1) or more of the standards of an insurer deemed to be in hazardous fi-
+33 nancial condition as set forth in rule; or
+34 (c) Any insurer within the insurance holding company system otherwise
+35 exhibits qualities deemed hazardous to the insurance buying public
+36 based on unique circumstances, including but not limited to the type and
+37 volume of business written, ownership and organizational structure,
+38 federal agency requests, and international supervisor requests.
+39 (4) A non-United States jurisdiction is considered to recognize and ac-
+40 cept the group capital calculation when:
+41 (a) With respect to section 41-3809(13), Idaho Code:
+42 (i) The non-United States jurisdiction recognizes the United
+43 States state regulatory approach to group supervision and group
+44 capital by providing confirmation that insurers and insurance
+45 groups whose lead state is accredited by the NAIC under the NAIC
+46 accreditation program shall be subject only to worldwide pru-
+47 dential insurance group supervision, including worldwide group
+48 governance, solvency and capital, and reporting, as applicable,
+49 by the lead state; or
+
+9
+1 (ii) There are no United States insurance groups operating in a
+2 non-United States jurisdiction and such non-United States juris-
+3 diction indicates formally in writing to the lead state, with a
+4 copy forwarded to the international association of insurance su-
+5 pervisors, that the group capital calculation is an acceptable in-
+6 ternational capital standard; and
+7 (b) The non-United States jurisdiction provides confirmation that
+8 information regarding insurers and their parents, subsidiaries, or af-
+9 filiated entities, if applicable, shall be provided to the lead state
+10 in accordance with a memorandum of understanding or similar document
+11 between the director and such jurisdiction, including but not limited
+12 to the international association of insurance supervisors multilateral
+13 memorandum of understanding or other multilateral memoranda of under-
+14 standing.
+15 (5)(a) The list of jurisdictions that recognize and accept the group
+16 capital calculation, an NAIC publication adopted and amended by the
+17 NAIC effective August 13, 2022, or any subsequent version adopted for
+18 use by the director by rule, administrative order, or bulletin, shall be
+19 the list of non-United States jurisdictions that recognize and accept
+20 the group capital calculation.
+21 (b) The list shall assist the lead state director in determining which
+22 insurers shall file an annual group capital calculation. The list
+23 shall clarify those situations in which a jurisdiction is exempted from
+24 filing pursuant to section 41-3809(13)(a)(iv), Idaho Code. To assist
+25 with a determination under section 41-3809(13)(b), Idaho Code, the list
+26 shall also identify whether a jurisdiction that is exempted pursuant to
+27 section 41-3809(13)(a)(iii) or (iv), Idaho Code, requires a group capi-
+28 tal filing for any United States-based insurance group's operations in
+29 such non-United States jurisdiction.
+30 (c) If a non-United States jurisdiction no longer meets the require-
+31 ments to recognize and accept the group capital calculation, the direc-
+32 tor may exclude the jurisdiction from the list of jurisdictions that
+33 recognize and accept the group capital calculation.
+34 SECTION 4. That Section 41-3810, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 41-3810. STANDARDS AND MANAGEMENT OF AN INSURER WITHIN AN INSURANCE
+37 HOLDING COMPANY SYSTEM. (1) Transactions within an insurance holding com-
+38 pany system to which an insurer subject to registration is a party shall be
+39 subject to the following standards:
+40 (a) The terms shall be fair and reasonable;
+41 (b) Agreements for cost-sharing services and management shall include
+42 such provisions as required by this chapter or rule promulgated by the
+43 director;
+44 (c) Charges or fees for services performed shall be reasonable;
+45 (d) Expenses incurred and payment received shall be allocated to the
+46 insurer in conformity with customary insurance accounting practices
+47 consistently applied;
+48 (e) The books, accounts and records of each party to all such transac-
+49 tions shall be so maintained as to clearly and accurately disclose the
+
+10
+1 precise nature and details of the transactions, including such account-
+2 ing information as is necessary to support the reasonableness of the
+3 charges or fees to the respective parties; and
+4 (f) The insurer's surplus regarding policyholders following any divi-
+5 dends or distributions to shareholder affiliates shall be reasonable in
+6 relation to the insurer's outstanding liabilities and adequate to meet
+7 its financial needs.;
+8 (g) All records and data of the insurer held by an affiliate shall be
+9 and shall remain the property of the insurer, shall be subject to con-
+10 trol of the insurer, shall be identifiable, and shall be segregated or
+11 readily capable of segregation, at no additional cost to the insurer,
+12 from all other persons' records and data. This includes all records
+13 and data that are otherwise the property of the insurer, in whatever
+14 form maintained, including but not limited to claims and claim files,
+15 policyholder lists, application files, litigation files, premium
+16 records, rate books, underwriting manuals, personnel records, finan-
+17 cial records, or similar records within the possession, custody, or
+18 control of the affiliate. At the request of the insurer, the affiliate
+19 shall provide access to such records and data such that the director
+20 can: obtain a complete set of all records of any type that pertain to the
+21 insurer's business; obtain access to the operating systems on which the
+22 data is maintained; obtain the software that runs those systems either
+23 through assumption of licensing agreements or otherwise; and restrict
+24 the use of the data by the affiliate if it is not operating the insurer's
+25 business. The affiliate shall provide a waiver of any landlord lien or
+26 other encumbrance to give the insurer access to all records and data in
+27 the event of the affiliate's default under a lease or other agreement;
+28 and
+29 (h) Premiums or other funds belonging to the insurer that are collected
+30 by or held by an affiliate shall be the exclusive property of the insurer
+31 and shall be subject to the control of the insurer. Any right of offset
+32 in the event an insurer is placed into receivership shall be subject to
+33 the provisions of chapter 33, title 41, Idaho Code.
+34 (2) The following transactions involving a domestic insurer and any
+35 person in its insurance holding company system, including amendments or
+36 modifications of affiliate agreements previously filed pursuant to this
+37 section, that are subject to any materiality standards contained in para-
+38 graphs (a) through (g) of this subsection, may not be entered into unless
+39 the insurer has notified the director in writing of its intention to enter
+40 into the transaction at least thirty (30) days prior thereto, or such shorter
+41 period as the director may permit, and the director has not disapproved it
+42 within that period. The notice for amendments or modifications shall in-
+43 clude the reasons for the change and the financial impact on the domestic
+44 insurer. Informal notice shall be reported to the director within thirty
+45 (30) days after the termination of a previously filed agreement, for deter-
+46 mination of the type of filing required, if any.
+47 (a) Sales, purchases, exchanges, loans, extensions of credit, guaran-
+48 tees or investments, provided the transactions are equal to or exceed:
+49 (i) With respect to non-life insurers, the lesser of three per-
+50 cent (3%) of the insurer's admitted assets or twenty-five percent
+
+11
+1 (25%) of surplus regarding policyholders as of December 31 of the
+2 year immediately preceding;
+3 (ii) With respect to life insurers, three percent (3%) of the in-
+4 surer's admitted assets as of December 31 of the year immediately
+5 preceding;
+6 (b) Loans or extensions of credit to any person who is not an affiliate,
+7 where the insurer makes loans or extensions of credit with the agree-
+8 ment or understanding that the proceeds of the transactions, in whole
+9 or in substantial part, are to be used to make loans or extensions of
+10 credit to, to purchase assets of, or to make investments in, any affil-
+11 iate of the insurer making the loans or extensions of credit, provided
+12 the transactions are equal to or exceed:
+13 (i) With respect to non-life insurers, the lesser of three per-
+14 cent (3%) of the insurer's admitted assets or twenty-five percent
+15 (25%) of surplus regarding policyholders as of December 31 of the
+16 year immediately preceding;
+17 (ii) With respect to life insurers, three percent (3%) of the in-
+18 surer's admitted assets as of December 31 of the year immediately
+19 preceding;
+20 (c) Reinsurance agreements or modifications thereto, including:
+21 (i) All reinsurance pooling agreements;
+22 (ii) Agreements in which the reinsurance premium or a change in
+23 the insurer's liabilities, or the projected reinsurance premium
+24 or a change in the insurer's liabilities, in any of the next three
+25 (3) years, equals or exceeds five percent (5%) of the insurer's
+26 surplus regarding policyholders, as of December 31 of the year
+27 immediately preceding, including those agreements which that may
+28 require as consideration the transfer of assets from an insurer to
+29 a nonaffiliate, if an agreement or understanding exists between
+30 the insurer and the nonaffiliate that any portion of the assets
+31 will be transferred to one (1) or more affiliates of the insurer;
+32 (d) All management agreements, service contracts, tax allocation
+33 agreements, guarantees and all cost-sharing arrangements;
+34 (e) Guarantees when made by a domestic insurer, provided however, that
+35 a guarantee that is quantifiable as to amount is not subject to the
+36 notice requirement of this section, unless it exceeds the lesser of
+37 one-half of one percent (.5%) of the insurer's admitted assets or ten
+38 percent (10%) of surplus regarding policyholders as of December 31 of
+39 the year immediately preceding. Further, all guarantees that are not
+40 quantifiable as to amount are subject to the notice requirements of this
+41 section;
+42 (f) Direct or indirect acquisitions or investments in a person that
+43 controls the insurer or in an affiliate of the insurer in an amount
+44 that, together with the insurer's present holdings in such invest-
+45 ments, exceeds two and one-half percent (2.5%) of the insurer's surplus
+46 to policyholders. Direct or indirect acquisitions or investments in
+47 subsidiaries acquired pursuant to section 41-3803, Idaho Code, or au-
+48 thorized under any other section of this chapter, or in nonsubsidiary
+49 insurance affiliates that are subject to the provisions of this chap-
+50 ter, are exempt from this requirement; and
+
+12
+1 (g) Any material transactions, specified by statute or rule, that the
+2 director determines may adversely affect the interests of the insurer's
+3 policyholders.
+4 (3) Nothing in this section shall be deemed to authorize or permit any
+5 transactions that, in the case of an insurer not a member of the same insur-
+6 ance holding company system, would be otherwise contrary to law.
+7 (3) (4) A domestic insurer may not enter into transactions that are part
+8 of a plan or series of like transactions with persons within the insurance
+9 holding company system if the purpose of those separate transactions is to
+10 avoid the statutory threshold amount and thus avoid the review that would oc-
+11 cur otherwise. If the director determines that separate transactions were
+12 entered into over any twelve (12) month period for that purpose, the director
+13 may exercise his authority pursuant to section 41-3819, Idaho Code.
+14 (4) (5) The director, in reviewing transactions pursuant to subsection
+15 (2) of this section, shall consider whether the transactions comply with the
+16 standards set forth in subsection (1) of this section and whether they may
+17 adversely affect the interests of policyholders.
+18 (5) (6) The director shall be notified within thirty (30) days of any
+19 investment of the domestic insurer in any one (1) corporation, if the total
+20 investment in the corporation by the insurance holding company system ex-
+21 ceeds ten percent (10%) of the corporation's voting securities.
+22 (7)(a) Any affiliate to an agreement or contract with a domestic in-
+23 surer that is subject to the provisions of subsection (2)(d) of this
+24 section shall be subject to the jurisdiction of any supervision,
+25 seizure, conservatorship, or receivership proceedings against the
+26 insurer and to the authority of any supervisor, conservator, rehabili-
+27 tator, or liquidator for the insurer appointed pursuant to chapter 33,
+28 title 41, Idaho Code, for the purpose of interpreting, enforcing, and
+29 overseeing the affiliate's obligations under the agreement or contract
+30 to perform services for the insurer that:
+31 (i) Are an integral part of the insurer's operations, including
+32 but not limited to management, administration, accounting, data
+33 processing, marketing, underwriting, claims handling, invest-
+34 ment, or any other similar functions; or
+35 (ii) Are essential to the insurer's ability to fulfill its obliga-
+36 tions under insurance policies.
+37 (b) The director may require that an agreement or contract pursuant
+38 to subsection (2)(d) of this section for the provision of services de-
+39 scribed in paragraph (a) of this subsection specify that the affiliate
+40 consents to the jurisdiction as set forth in this section.
+41 SECTION 5. That Section 41-3816, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 41-3816. CONFIDENTIAL TREATMENT. (1) Documents, materials or other
+44 information in the possession or control of the department that are obtained
+45 by or disclosed to the director or any other person in the course of an exam-
+46 ination or investigation made pursuant to section 41-3814, Idaho Code, and
+47 all information reported or provided to the department pursuant to sections
+48 41-3804(2), 41-3809, 41-3810, and 41-3815A, Idaho Code, shall be confiden-
+49 tial by law and privileged, shall be exempt from public disclosure, shall not
+
+13
+1 be subject to subpoena and shall not be subject to discovery or admissible in
+2 evidence in any private civil action. However, the director is authorized
+3 to use such documents, materials or other information in the furtherance of
+4 any regulatory or legal action brought as a part of the director's official
+5 duties. The director shall not otherwise make the documents, materials or
+6 other information public without the prior written consent of the insurer
+7 to which it pertains, unless the director, after giving the insurer and its
+8 affiliates who would be affected notice and opportunity to be heard, deter-
+9 mines that the interest of policyholders, shareholders or the public will be
+10 served by the publication, in which event the director may publish all or any
+11 part in such manner as may be deemed appropriate.
+12 (a) For purposes of the information reported and provided to the de-
+13 partment pursuant to section 41-3809(13), Idaho Code, the director
+14 shall maintain the confidentiality of the group capital calculation and
+15 group capital ratio produced within the calculation and any group capi-
+16 tal information received from an insurance holding company supervised
+17 by the federal reserve board or any United States group-wide supervi-
+18 sor.
+19 (b) For purposes of the information reported and provided to the de-
+20 partment pursuant to section 41-3809(14), Idaho Code, the director
+21 shall maintain the confidentiality of the liquidity stress test results
+22 and supporting disclosures and any liquidity stress test information
+23 received from an insurance holding company supervised by the federal
+24 reserve board or non-United States group-wide supervisors.
+25 (2) Neither the director nor any person who receives documents, materi-
+26 als or other information while acting under the authority of the director or
+27 with whom such documents, materials or other information is shared pursuant
+28 to this chapter, shall be permitted or required to testify in any private
+29 civil action concerning any confidential documents, materials or informa-
+30 tion subject to subsection (1) of this section.
+31 (3) In order to assist in the performance of the director's duties under
+32 title 41, Idaho Code, the director:
+33 (a) May share documents, materials or other information, including
+34 the confidential and privileged documents, materials or information
+35 subject to subsection (1) of this section, with other state, federal
+36 and international regulatory agencies, with the national association
+37 of insurance commissioners (NAIC) and its affiliates and subsidiaries,
+38 and with state, federal and international law enforcement authori-
+39 ties, including members of any supervisory college described in section
+40 41-3815, Idaho Code, provided that the recipient agrees in writing to
+41 maintain the confidentiality and privileged status of the document,
+42 material or other information and has verified in writing the legal au-
+43 thority to maintain confidentiality;
+44 (b) Notwithstanding the provisions of subsection (3) paragraph (a) of
+45 this subsection, the director may only share confidential and privi-
+46 leged documents, materials or information reported pursuant to section
+47 41-3809(12), Idaho Code, with commissioners of states having statutes
+48 or regulations substantially similar to subsection (1) of this section
+49 and who have agreed in writing not to disclose such information;
+
+14
+1 (c) May receive documents, materials or information, including other-
+2 wise confidential and privileged documents, materials or information,
+3 from the national association of insurance commissioners NAIC and its
+4 affiliates and subsidiaries and from regulatory and law enforcement of-
+5 ficials of other foreign or domestic jurisdictions and shall maintain
+6 as confidential or privileged any document, material or information re-
+7 ceived with notice or the understanding that it is confidential or priv-
+8 ileged under the laws of the jurisdiction that is the source of the docu-
+9 ment, material or information; and
+10 (d) Shall enter into written agreements with the national association
+11 of insurance commissioners NAIC governing sharing and use of informa-
+12 tion provided pursuant to the provisions of this chapter consistent
+13 with this subsection, which agreements shall:
+14 (i) Specify procedures and protocols regarding the confiden-
+15 tiality and security of information shared with the national
+16 association of insurance commissioners and its affiliates and
+17 subsidiaries NAIC or third-party consultants designated by the
+18 director pursuant to this chapter, including procedures and pro-
+19 tocols for sharing by the national association of insurance com-
+20 missioners NAIC with other state, federal or international regu-
+21 lators. Such agreement shall provide that the recipient agrees in
+22 writing to maintain the confidentiality and privileged status of
+23 the documents, materials, or other information and has verified in
+24 writing the legal authority to maintain such confidentiality;
+25 (ii) Specify that ownership of information shared with the
+26 national association of insurance commissioners and its affili-
+27 ates and subsidiaries NAIC or a third-party consultant designated
+28 by the director pursuant to this chapter remains with the direc-
+29 tor, and the national association of insurance commissioners'
+30 NAIC's or third-party consultant's use of the information is sub-
+31 ject to the direction of the director;
+32 (iii) Excluding documents, materials, or information reported
+33 pursuant to section 41-3809(14), Idaho Code, prohibit the NAIC or
+34 third-party consultant designated by the director from storing
+35 the information shared pursuant to this chapter;
+36 (iii) (iv) Require prompt notice to be given to an insurer whose
+37 confidential information is in the possession of the national as-
+38 sociation of insurance commissioners NAIC or a third-party con-
+39 sultant designated by the director pursuant to this chapter that
+40 disclosure of such confidential information has been requested or
+41 subpoenaed or otherwise sought; and
+42 (iv) (v) Require the national association of insurance commis-
+43 sioners and its affiliates and subsidiaries NAIC or a third-party
+44 consultant designated by the director to consent to intervention
+45 by an insurer in any judicial, administrative, or similar action
+46 in which the national association of insurance commissioners and
+47 its affiliates and subsidiaries NAIC or a third-party consultant
+48 designated by the director may be required to disclose confiden-
+49 tial information about the insurer shared with the national asso-
+50 ciation of insurance commissioners and the insurer's affiliates
+
+15
+1 and subsidiaries NAIC or a third-party consultant designated by
+2 the director pursuant to this chapter.; and
+3 (vi) For documents, materials, or information reported pursuant
+4 to section 41-3809(14), Idaho Code, in the case of an agreement in-
+5 volving a third-party consultant, provide for notification of the
+6 identity of the consultant to the applicable insurers.
+7 (4) The sharing of information by the director pursuant to this chapter
+8 shall not constitute a delegation of regulatory authority or rulemaking, and
+9 the director is solely responsible for the administration, execution and en-
+10 forcement of the provisions of this chapter.
+11 (5) No waiver of any applicable privilege or claim of confidentiality
+12 in the documents, materials or information shall occur as a result of disclo-
+13 sure to the director under the provisions of this section or as a result of
+14 sharing as authorized in subsection (3) of this section.
+15 (6) Documents, materials, or other information in the possession or
+16 control of the national association of insurance commissioners NAIC or a
+17 third-party consultant designated by the director pursuant to this chapter
+18 shall be confidential and privileged, shall not be a public record, shall not
+19 be subject to public disclosure, shall not be subject to subpoena and shall
+20 not be subject to discovery or admissible in evidence in any private civil
+21 action.
+22 (7) The group capital calculation and resulting group capital ratio
+23 required pursuant to section 41-3809(13), Idaho Code, and the liquidity
+24 stress test along with its results and supporting disclosures required pur-
+25 suant to section 41-3809(14), Idaho Code, shall be considered regulatory
+26 tools and are not intended as a means to rank insurers or insurance holding
+27 company systems generally. Except as otherwise may be required under the
+28 provisions of this chapter, the making, publishing, disseminating, circu-
+29 lating, or placing before the public, directly or indirectly, by any written
+30 or electronic means of communication available to the public, or in any other
+31 way, with regard to the group capital calculation, group capital ratio, the
+32 liquidity stress test results, or supporting disclosures for the liquidity
+33 stress test of any insurer or any insurer group, or of any component derived
+34 in the calculation by any person engaged in any manner in the insurance busi-
+35 ness is hereby prohibited.
+36 (8) If any materially false statement or an inappropriate comparison of
+37 any amount regarding an insurer's or insurance group's filings made pursuant
+38 to section 41-3809(13) or (14), Idaho Code, is published in any written pub-
+39 lication and the insurer is able to demonstrate to the director with substan-
+40 tial proof the falsity or inappropriateness of such statement, then the in-
+41 surer may publish announcements in a written publication solely to rebut the
+42 materially false statement or inappropriate comparison.
+43 SECTION 6. This act shall be in full force and effect on and after Jan-
+44 uary 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.7YBSCNAGTOASOFCLADIEHGCYSGSN4,IOC,TODETSADTORE;AGSN4,IOC,TOEHPSRGGPCLC,TOPEFRALST,ADTOMETLC;AGCR3E4,IOC,BYTEANOFANWSN4,I,TOEHPSRGGPCLCNR;AGSN4,IOC,TOREAPGSSOFANIRWNANIEHGC,TOPEFRCNSSOFANIRWNANIEHGCYS,TOPEFRCNAEA,ADTOMETLC;AGSN4OC,TOREPSRGCLT,THPSRGCLT,ADTOMLC;ADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.D.Asudintsc,tefgtlhetefgm)""o,orapn""w,ascpsapnwodyoriythoe()ormeiscsoriscdb,orisurcnclw,tepns)""ig"""db"ad"nclw"mstep,dtori,oftepodtorcetednoftemtadpsofaprthteopofvgs,byctortclctfrgsornts,orostepristertofanolpnwhoracehdbytep.Clslbepdtoetifaypyori,o,c,hswhteprtoveorhsrgtnpt()ormeoftevgssoyorp.Tspnmyberdbyasgmeintrpdinsn4,IoC,ttcldsntinf.Tedrmyd,arfgalpsitneadoytobehdadmgscfsottostted,ttclesinf,ngteaeofapntotte)"er"msaya,c,etorssofesigoe()ormeasofanirt,i]
+[DELETED: trdp,islytoheamlaeetunoeflcnorlyofteirorisiehysmasaw,i,btntldt,agttweteisrdcltofliocyanllatfhinsn4,IoC,orwdceteirtobeisflcnasstfhbyreinIA1)"pclcni"mstegpcnisasadadadbytenlafiecs()eeJy1,2,oraystvnadfruebytedrbyr,aeorb,pdttnoshisslctaysftsc)()"es"msteryoladtoeeincgadcggesswoisddoradbytedrurs,IoC,toheststcswhteiyaeieg)()"ehgcys"msto()ormeadp,oe()ormeofwmisani)()""hstesemgasttstfhins,IoC,etttitslntiea,arisofteUdS,ispsadteChofPoR,teDtofCaoraseorplsnofas)()"yaeieg"msanigcysmt)Isanirrdursn4,IoC)Mstefgc)Pswninatltte()c)TepeofgspswnoeteUsisatlttnpt()ofteiehgcysstlgswnp;a)Bdonate()yrrga,tetlafteiehgcysmaeatltfybs()ortetlgswnpsoeiehgcysmaeatlttnbnds()"Clyssttf"msteNCpsadadadbyteNCeeDr1,2,oraystvnadfruebytedrbyr,aeorb.Tetmisahyoftedtofrysst,tesecaaefrascd,adtelyssttisadrgtsfscday)()""msani,ac,aldlyc,ap,ana,ajtskc,st,anudo,oraysreyoranoftefgaginc,btslntiea]
+[DELETED: tveppeyedino,m,lrdgrlorteplp)"ec"msteddeebsagwmmstffrtesddayrudtoehyltofisttaecdsdioteNClyssttfkfrttday)()"yh"msapnwoosaysyofdp,igcns,pds,dtodayorsyceiooregterttoayoftef)()""msasdpnwoisanaecdbyshpndyoriythoe()ormei)()"gs"msaysyceiooregarttoaeavgsN2.TtSn4,IoC,b,adteseishdtordasf.RNOFHGCYSMI)Eyiradtodobsintsseadtsamrofaniehgcysmslrhted,etafnirsttorsadssadbyseorrnintejnofisd,whaesysrtotdintssnadi)()Ss4,41ad4,IoC;a)()Tepsofsn4,IoC,ornshastef:Ehehrdilkpctteinrdtobeddininstbyrgalmlcsoraswnfn()dsarteedoftemhinwtlsofehceora)Ayirttissttornurtsslrrwnfn()dsaritbsstt,adaytrfrteyregDr3yp,ontededepdfrfgofalr,o,ifteirisntsttofgofadflr,onJe1,usted,frgdc,estetefrr,adtnwntee.Tedrmyreayiradtodobsiesettisamrofaniehgcys,ahttisntsttornurtss,tofcyofterns,tesysdinsn()oftssnororinfdbyteiywhteieryayofisdyj.Unrtofteirorofteieryofarjninwhteirisadtti,tedratteiseeslfcyofternstororinfdbycirwhtedrpttotsc]
+[DELETED: )Eyirsttornurtscrslfernstwhtedronafmadinamrpdbyted.Ternstslcntefgcti)Tecls,glflc,opatofteiradaypncgtei)Teiyadrpofeymrofteigcys)Tefgasinfeadtscyogorttheoddgteltcryrbntradisa)L,orisorp,ssoresosofteasbyteirorofteirbsa)P,ssoreeofa)Tsntinteoyceofb)Gsorusfrtebtofanatrtinanalcteeofteisastol,ortniecsedioieoyceofteisb)Almta,secsadalcga)Rea)Dsadordstos;a)Cdtxana)Aypeofteiss,igskofaysyorcga,fralnmetoaymroftehgcys)Ifrdbyted,teirslpetotedrflssoforwnaniehgc,igala.Flssmyitaentldt,aladflssfhteU.UdSsssadeecn(ttotessatof1,asa,orteseatof1,asa.AnirrdtofeflsspttotssnmysytertbgtedrwhtemtryfdptclsstthebnfdwhteS)Ormscgtsbnrdidayasasmybeidfmtetoteinayrnfsadoradbyted)Cnttteisbdofdsisrradoscegeadilcsadteisosorsrmthea,idcetomnadmrcegeadilp;a)Ayorinrdbytedrbyseorr)Alrnssslcnasyogascgcsfmteprrns]
+[DELETED: )Noinndbeddonternsdpttosn()oftssnifteinisnlfrtepsoftss.Ustedrbyreororpso,s,p,e,lsoreso,isorgsigofofoept()osofanisadasasofteDr31ofteyriypgslntbeddmlfrpsoftsc)Sttosn4,IoC,ehrdilrttotedraldsadordstswnfn()bsdsfgted)Aypnwnaniehgcysmsttnslberdtopeceadaeioani,weteinisrynytoeetrtocywhtepsoftsc)Tedrslteternofayirtsttitnolrisamrofaniehgc)Tedrmyreorawto()ormeadissttorntofeacdrns)Tedrmyawayirttisadtodobntsseadttisptofaniehgcys,torronbfofayadirttisrdtorrun()oftssnadtocywhalfgrsurtsc)Tepsoftssnslntaytoayi,inortnifadtoteettttedrbyreororslettesefmtepsoftss.Incgwrtoieane,tedrmycrtef)Teseofteiradala)Teseofopwnteiehgc)Teneadasoftswnteiehys)Teneadcyoftebsofteirada;a)Ayorfstedrdsartoigane,tedrslnyalorisweteirorisashdaceofa)Aypnmyfewhtedradrofahayadi,orshadrmybefdbyteiraymrofaniehgcys.Tedrsydealmlrsadbsfranbepnadteiraswlastebsfrdgtea.Adrofanslbeddtohebngsted,wnty()dsfgrtofac,nstefgpytttedrisdnteetofd,tedgpymyrtanaehgpttocr2,te4,IoC,whs]
+[DELETED: eg.Tedgpyslberdofisdytorrtssnifaloftedrhsbngdbyted,oriftedrisddtohebna)Teuecgpnofeyirsttornslaofeanaleerkr.Tertsotebtofteuecgpskeadb,iytemlrswnteiehgcysmtdpeeerktotei.Tertslbefdwhtdsedrofteiehgcysmasdytepswnteflashkadbytenlanofiecs()Etaspdintss,teuecgpnofeyirsttornslcewhternanalgpclcninaewhteNCgpclcni.Tdsedrmyawacgpnttisntteuecgpntofetegpclc.Tgiehgcyssslbeetfmfegpclc)Aniehgcysmtthsoyoe()irwnishgcys,ttoywsbsinisdcs,adttasnobsfmari)AniehgcysmttisrdtopmagpclcnsdbyteUdSlreb.Iftecnfmteflrebdurtetsofinsgasctbesdwhteldsed,teiehysmisntetfmtegpclc)AniehgcysmwendSesrisldwnarljsddinsn4,IoC,ttrsteUdSsseryahtogpsnadgpc;a)Aniehgcys.TtpsintoteldsettmersfranurteNCfsadanp,erdyoythteges,wohsddshinissytoawteletocywhtepsofsn4oC;a.WendSsgesrttitinarljnrsada,adbytedrinr,tegpcnastewegpclatfdSsiegswooeinttj]
+[DELETED: )Teesddinps()ad()oftnslntptteldsedrfmregpclcnfrUdSsosofadSdiehgcysmwnitidaefrplotadsymsorfregtecsofteiem)Teldsedrmyetteuecgpnfmfgtealgpclcnoratalpclfgassdbyteldsed)Ifaniehgcysmnolrmstersfrane,teiehgcysmslfegpclcnattentalfgdeustdsedrgsane)TeuecgpnofeyirsttornwoisaosdioteNClyssttflfetersofascyslysst.Tefgslbemetoteldsedrofteiehgc)TeNClyssttfksliesecaaetoascday.Ismgatlto)tdoftesecaslbecdsdiotClyssttfkfrtesddayrueldsedrdsteirsdntbesdiefkfrttday)Tepeo,adfgoftersf,asslyssttslcywhteisasofteNClyssttf)()TefetofearnstoraysyoernstoreerkfgrdintssnwntetesdfrfgslbeavnoftepsoftssN3.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.GPCLCNR.()Ifanigcysmursn4,IoC,hspyfdtealgpclcnatlto,teledrmyetteuecgpnfmfgtlgpclcni)Aldtwnadudadp,igildtadadpsbtegpdwhteflcpiecnadflf,aelstnoebnds()NoiswntehgcyseaeddoeofteUdSsoroe()ofist)Nob,d,ororfleyttissoanidryclfkiswntehys]
+[DELETED: )Tehgcysmasttteaenomsintetsbnisadnsintpttheodseteltfgoftealgpclc;a)Tenswntehgcysmdontpelflrktoteisaytohrp)Ifaniehgcysmhspyfdtlgpclc,teldsedrmya,iuoftegpclc,aldgpclfgiftehgcysmhsaldtwnadudp,igildtadadpsbgpsrdwhteflcpiecdflfdp,oflstnoebnds()NoiswntehgcyseaeddoeofteUdSsoroe()ofist)Nob,d,ororfleyttissoanidryclfkisi;a)Tehgcysmasttteaenomsintsbnisadnsintegtheodseteltfgoftertadtenswntehgcysmdontpeamlflrktoteisaytohrpro)Noenurtssnmyptteldsedmrgteuecgpntofeanalgpclc,atayt,i)Ayirwnteiehgcysmisindclanlletasstfhincr5,t,IoC,orasrsdfrandSsi)Ayirwnteiehgcysmmso)ormeoftessofanirddtobeinhsflcnasstfhinr;o)Ayirwnteiehgcysmosqsddhstoteiebgpdonuec,igbtntldtoteteaeofbsw,opadolslayr,adilsrr)AndSsjniscdtoreadattegpclcnw)Whrttosn4,IoC)TendSsjnrsteUsseryahtogpsnadglbypgcnttisadisweldseisadbyteNCurteNnpmslbestoytowepliegps,igweg,syadc,adr,asaytelds;o]
+[DELETED: )TeaenoUdSsiegsogindSsjnadshndSsjnisfyinwgtotelds,whyfdtoteilanofies,tttegpclcnisanaeilcls;a)TendSsjnpscntnrgisadtrp,s,orade,ifa,slbepdtoteldsnaewhammofugorsrdntedradshj,igbtntloteilanofiessmmofugorormlmaofu)Teltofjsttreadatteglc,anNCpnadadadbytCeeAt1,2,oraystvnadfebytedrbyr,aeo,orb,slbeltofndSsjsttreadaegpclc)Teltslatteldsedrindgwsslfeanalgpclc.Tellcytessinwhajnisedfgpttosn4,IoC.Toahadnursn4,IoC,tellaoiywrajnttisedpttn4)or(,IoC,rsagpclfgfrayUdSdiegsosihndSsj)IfandSsjnnolrmsterstoreadattegpclc,tedrmyeetejnfmteltofjsteadattegpclcN4.TtSn4,IoC,b,adteseishdtordasf.SSADMTOFANIRWNANIGCYS.()Tswnaniehgcysmtowhanirsttornisapyslbttotefgs)Tetsslbefradr)Asfrcgssadmtslihpsasrdbytscrorrepdbyt)Csorfsfrsspdslber)Esidadptrdslbeadtotrincywhcyieagpya)Teb,asadrsofehpytoalshtsslbesomdastocyadaydet]
+[DELETED: eneaddsoftet,igshaginasisnytosttersoftsorfstoterep;a)Teisssrgpsfgaydsordstosrasslbereintoteisoglsadaetomsfln)Alrsaddaofteirhdbyanaeslbdslrntepyoftei,slbesttocloftei,slbei,adslbesdoyceofs,atnoalcttoteimalorp'rsadd.Tsisalrddattaeoetepyoftei,inwmm,igbtntldtocsadcmfrl,anf,lnf,p,reb,ugm,plr,flr,orsrrswntep,c,oloftea.Attertoftei,tealpeastoshrsaddashttted:onacestofalrsofaytettpntotsb;onastoteogssonwhtaism;ontesettrstessehanoflgasoro;adreueoftedabyteaeifitisntogtei.Teaeslpeawrofayldlnoreetogeteirastoalrsaddaieetofteasdturaleorora)Psororfsbgtoteirttaecyorhdbyanaeslbeteeepyofteidslbesttotecloftei.Ayrtofonteetanirispdiorpslbesttepsofcr3,te4,IoC)Tefgtsigadciradaninisiehgcys,igasosofaeaspyfdpttot,ttaesttoaymysscdinps()th()oftss,myntbeedioueirhsndtedrinwgofisintoeotetnatltty()dsprt,orshsdastedrmyp,adtedrhsntddinttp.Tenefrasormsslietersfrteceadteflitonted.Ilneslberdtotedrwnt)dsartetnofapyfda,frdnofteteoffgr,ifa)S,p,e,l,esofc,gsori,pdtetsaeeltoore)Whrttonei,telroftept()ofteisadasortep]
+[DELETED: )ofssrgpsasofDr31oftriyp)Whrttolei,tept()ofteisadasasofDr31ofteyri)Lsoresofcttoaypnwoisntanaeteirmslsoresofctwhteatorugtttepsoftet,inwrinslp,aetobeudtomelsoresott,topeaso,ortomeisi,ayaeofteirmgtelsoresofc,petsaeeltoore)Whrttonei,telroftept()ofteisadasortep)ofssrgpsasofDr31oftriyp)Whrttolei,tept()ofteisadasasofDr31ofteyri)Reasormst,i)Alrepga)Asinwhterepmoraceieisl,ortepdrepraceinteisl,inayoftentt)y,esoresfept()ofteisrgp,asofDr31ofteyyp,igteaswhttmeascntetrofasfmanirtn,ifanatorugesbeiradtenettaypnoftealbetdtooe()ormeasoftei)Almta,sec,txa,gsadalcga)Gswnmebyadci,pdh,tgettisqeastoatisntsttotertoftss,usitestelrofofoept()ofteisadasortt()ofssrgpsasofDr31oeyriyp.F,algsttaeneastoataesttotenersoft)Dtoritasorisinapntsteirorinanaeofteirinana,trwhteispthsinshi,estoadofpt()ofteissop.Dtoritasorisisadpttosn4,IoC,oradurayorsnoftsc,orinneasttaesttotepsoftsc,aeetfmtsr;a]
+[DELETED: )Aymlt,sdbyseorr,tttrdsmyayatteisoftei)Ngintssnslbeddtoaeorptast,inteceofanirntamrofteseiehgcys,wdbeoecytol)()Adcirmynteriotsttaepfapnorssofletswhpswnteigcysmiftepeoftesetsistdtesytdatadtsadterwttwdoro.Iftedrdsttsetswdioorayte()mhpdfrttp,tedyeehsaypttosn4,IoC)()Ted,inrgtspttos)oftss,slcrwrtetscywhtsstfhinsn()oftssnadwrtymyatteisofp)()Tedrslbendwnty()dsofatoftedcirinayoe()c,iftettintecnbyteiehgcysmestnpt()oftecsvgs)Ayaetoanatorctwhadcirttissttotepsofsn()oftnslbesttotejnofays,c,orrppsattradtoteayofays,c,r,orlrfrteiradpttocr3e4,IoC,frtepeofi,e,agteasosurteatorcopmssfrteirt)Aeanilptofteiso,itntldtom,a,a,d,m,u,csh,i,orayorsrf;o)Aeeltoteisaytoflisosuriep)Tedrmyrettanatorctposn()oftssnfrtepnofssddinph()oftssnsyttteastotejnasstfhintssN5.TtSn4,IoC,b,adteseishdtordasf.CLT.()D,msoronintepnorcloftedtttaeoyorddtotedrorayorpninteceofanenorinmepttosn4,IoC,alinrdorpdtotedtpttos,4,4,ad4,IoC,slbeclbylwadp,slbeetfmpcd,sln]
+[DELETED: esttosaadslntbesttodyoraeieinaypecla.H,tedrisaoueshd,msororinintefeoyryorllanbtasaptoftedso.Tedrslntoemeted,msorinpcwtteprwnctofteiowhitp,usted,arggteiradiswowdbeadneadoytobeh,dsttteitofp,ssortepcwlbdbytep,inwhettedrmyphaloratinshmrasmybedda)Frpsofteinrdadpdtotedtpttosn4,IoC,tedlmntecyoftegpclcnapclropdwntecnadaygpclinrdfmaniehgcysyteflrebdorayUdSsges)Frpsofteinrdadpdtotedtpttosn4,IoC,tedlmntecyoftelyssttrdsgdsadaylyssttidfmaniehgcysdbytefebdorndSsges)Nrtedrnraypnworsd,msororinweagurteayoftedrohwmshd,msororinissdpotsc,slbepdorrdtotyinayplancgaycld,msorinsttosn()oftss)Inortoatintepeoftedsdsue4,IoC,ted)Mysed,msorori,iecladpdd,msorittosn()oftss,whors,fdilrya,whtenlafiecs()adisasadsdwhs,fladillweta,igmsofaysyceddins,IoC,pdtttertasinwgtntecyadpdssoftedlororinadhsvdinwgtellaytomnc)Ngtepsofsn(h()oss,tedrmyoysecladpdd,msorinrdpttos,IoC,whcsofsshgsrrssysrtosn()oftssdwoheadinwgnttodeshi]
+[DELETED: )Myred,msori,igoecladpdd,msorimtenlanofiecsNCadisadssadfmryadlwetosoforfnordcjsadslmsclorpdayd,mlorinrdwhneorteugttitisclorpdurtelsoftejnttisteseofted,mlori;a)SleriownaswhtenlafiecsNCggsgadueofinpdpttotepsoftscrchtss,whass)SypsadpsrgtecyadsyofinsdwhtennofiecsadisasasNCortycsddbytrpttotsc,igpsadpsfrsgbytenlanofiecsNCwhors,florilr.Shatslpetttertasigtomntecyadpdssoed,m,ororinadhsvdigtellaytomnshc)SyttopofinsdwhtlanofiecsadisasadssNCoratyctdytedrpttotscrrswhted,adtenlanofiecsortycsueofteinissttotednofted)Egd,m,orinrttosn4,IoC,ptteNCoyctddbytedrfmseinsdpttotsc)()ReptnetobegntoanirwlinisintepnoftenlanofiecsNCoratyctddbytedrpttotscrteofshclinhsbnrdodoroes;a)()RetenlanofiecsadisasadssNCorattddbytedrtocttoiyanirinayj,a,orsranwhtenlanofiecsasasadssNCoratycdbytedyberdtodeclinatteirsdwhtenlanofiecsadteisa]
+[DELETED: dssNCoratyctddbedrpttotsc;a)Frd,m,orinrdposn4,IoC,inteceofanatigatyc,pefrnnoftyoftecttoteaei)Tesgofinbytedrpttotsclntceadnofryayorr,aedrissyrefrtea,enadetoftepsoftsc)Nowrofayaepeorcmofcnted,msorinslorasartofdetotedrurtepsoftssnorasartogasadinsn()oftss)D,m,ororinintepnoloftenlanofiecsNCoryctddbytedrpttotsclbecladp,slntbeapcr,slnesttopcd,slntbesttosaadstbesttodyoraeineeinaypec)Tegpclcnadrggpclrdpttosn4,IoC,adtelsttagwhisrsadsgdsrdpttosn4,IoC,slbecdrsadaentidasamstorkisoriehyssg.Etasoemyberdurtsoftsc,tem,p,d,c,orpgbetep,dyori,byaywrecmsofcnaetotep,orinayo,whrdtotegpclc,gpclr,tyssttr,orsgdsfrtelsttofayirorayirg,orofayctdntecnbyaypnedinaymrinteiebsishyp)Ifaymyfestoraniecnoyatrganisoriegsfsmeposn4)or(,IoC,ispdinaywnpnadteirisaetodetotedrwhslpftefyorisofshs,tnteirmyphasinawnpnsytorttyfestoriecN6.TsatslbeinflfeadetonadarJy1,2]

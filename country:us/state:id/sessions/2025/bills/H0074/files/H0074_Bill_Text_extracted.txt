@@ -1,0 +1,342 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 74
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY TAX RELIEF; AMENDING SECTION 33-911, IDAHO CODE, TO RE-
+3 VISE A PROVISION REGARDING THE SCHOOL DISTRICT FACILITIES FUND; AMEND-
+4 ING SECTION 57-810, IDAHO CODE, TO PROVIDE FOR A CERTAIN CASH TRANSFER;
+5 AMENDING SECTION 57-811, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+6 TAX RELIEF FUND; AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 33-911, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 33-911. SCHOOL DISTRICT FACILITIES FUND. (1) There is hereby cre-
+11 ated in the state treasury the school district facilities fund. The fund
+12 shall consist of moneys provided pursuant to sections 57-811, 63-3638, and
+13 67-7434, Idaho Code, and any legislative transfers or appropriations. In-
+14 terest earned from the investment of moneys in the fund shall be returned to
+15 the fund. Moneys in the fund are hereby continuously appropriated for the
+16 purposes stated in this section.
+17 (2) The moneys in the fund shall be distributed by the state controller
+18 to the state department of education by August 1 each year for the purpose of
+19 construction or renovation of school facilities. The moneys shall be dis-
+20 tributed by the state department of education to each school district, as
+21 defined in section 33-1001(21), Idaho Code, first as provided in subsection
+22 (7) of this section and then on a per-pupil basis using the average daily at-
+23 tendance calculation provided in section 33-1003A, Idaho Code, for each stu-
+24 dent in kindergarten through grade 12 at physical facilities that are part
+25 of and on school grounds of the school district in which the student is en-
+26 rolled with verification, as needed, by the office of the state board of edu-
+27 cation. Upon formal approval by the state board of education, a school dis-
+28 trict may receive an exemption to the physical facility requirement pursuant
+29 to this subsection if the student would have attended a physical facility in
+30 the school district if not for a stated emergency. The state department of
+31 education shall transfer the moneys by no later than August 31 each year to
+32 each school district. Such moneys shall be used in place of property tax levy
+33 moneys and shall be expended by a school district for one (1) or more of the
+34 purposes set forth in paragraphs (a) through (d) of this subsection. Moneys
+35 in the fund must be used by a school district in the following order of prior-
+36 ity:
+37 (a) Payment of existing school bonds authorized pursuant to chapter 11,
+38 title 33, Idaho Code;
+39 (b) Payment of supplemental school levies authorized pursuant to sec-
+40 tion 33-802, Idaho Code, excluding indefinite term supplemental levies
+41 described in section 33-802(5), Idaho Code;
+2
+1 (c) Payment of school plant facility levies authorized pursuant to sec-
+2 tions 33-804 and 33-804A, Idaho Code; and
+3 (d) Any moneys that remain following the payments provided in para-
+4 graphs (a) through (c) of this subsection may be: used for construction
+5 of a new school facility, renovation, or maintenance needs; used to
+6 secure and make payments on a new school facilities bond; or saved in
+7 a reserve account by the school district for future school facility
+8 needs. Uses of funds shall include regular and routine facilities
+9 maintenance, including preventive maintenance, building repairs, and
+10 building security, and periodic major facilities projects that involve
+11 planning, design, construction, renovation, retrofitting, and replac-
+12 ing of buildings and building systems, components, and features, as
+13 well as site acquisition, site improvements, and new construction.
+14 (3) The amount of moneys received by a school district pursuant to this
+15 section must be deducted from a school levy that would otherwise have been
+16 paid by property taxpayers. Such moneys may not be duplicated by the collec-
+17 tion of property tax, and no property taxes may be collected in order to make
+18 extra payments on expenses described in subsection (2) of this section in ex-
+19 cess of required amounts.
+20 (4) Each school district shall identify the amount received in the cur-
+21 rent year pursuant to this section in the certification of its budget in ac-
+22 cordance with section 63-803, Idaho Code. Said amount must be subtracted
+23 from the amount to be levied. The amount of moneys thereby saved from being
+24 collected by a property tax levy shall be reported on each property tax no-
+25 tice pursuant to section 63-902, Idaho Code.
+26 (5) Each school district shall report annually to the state department
+27 of education, in a manner prescribed by it, on the expenditure of moneys it
+28 has received pursuant to this section. The state department of education
+29 shall present the reports to the legislature each January.
+30 (6) For the purposes of this section, the Idaho school for the deaf and
+31 the blind shall be considered a school district and shall receive a distribu-
+32 tion based on the average daily attendance of the school.
+33 (7)(a) For state fiscal year 2025 only, any school district that would
+34 have received support from the bond levy equalization support program
+35 for a qualified bond passed prior to January 1, 2024, and for which prop-
+36 erty taxes were levied in property tax year 2023 pursuant to the amount
+37 intended by the bond shall receive a distribution of funds from the dis-
+38 tribution provided under subsection (2) of this section of at least as
+39 much as would have been provided through bond levy equalization support
+40 on July 1, 2024.
+41 (b) For state fiscal year 2026 only, any school district that would have
+42 received support from the bond levy equalization support program for a
+43 qualified bond passed prior to January 1, 2024, and for which property
+44 taxes were levied in property tax year 2024 pursuant to the amount in-
+45 tended by the bond shall receive a distribution of funds from the dis-
+46 tribution provided under subsection (2) of this section of at least as
+47 much as would have been provided through bond levy equalization support
+48 on July 1, 2025.
+49 (c) The state department of education may adjust distributions for re-
+50 maining districts proportionally as necessary pursuant to this para-
+3
+1 graph. On and after July 1, 2024, school districts may use funds pro-
+2 vided in this section and section 33-913, Idaho Code, to offset the bond
+3 levy equalization support.
+4 SECTION 2. That Section 57-810, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 57-810. CASH TRANSFERS FOR PROPERTY TAX RELIEF. Notwithstanding the
+7 provisions of section 57-814, Idaho Code, after the close of each fiscal year
+8 in 2023, 2024, and 2025, the state controller shall determine any excess cash
+9 balance in the general fund. When calculating any excess cash balance, the
+10 state controller shall first provide for the ending balance, as determined
+11 by the legislative record, to be carried over into the next fiscal year, plus
+12 an amount sufficient to cover encumbrances as approved by the division of fi-
+13 nancial management and an amount sufficient to cover any reappropriation as
+14 authorized by the legislature. On July 1, or as soon thereafter as is practi-
+15 cable, of each such year, there is hereby appropriated one hundred fifty mil-
+16 lion dollars ($150,000,000) or the balance of the general fund excess cash
+17 balance, whichever is less, to be transferred as follows:
+18 (1) The state controller shall transfer the first fifty million dollars
+19 ($50,000,000) to the homeowner property tax relief account established pur-
+20 suant to the provisions of section 63-724, Idaho Code; and
+21 (2) The state tax commission shall transfer the remaining moneys to be
+22 used for the purpose of property tax relief in the following manner. Fifty
+23 percent (50%) of the remaining moneys shall be distributed to the school dis-
+24 trict facilities fund established pursuant to section 33-911, Idaho Code,
+25 and fifty percent (50%) shall be distributed to the homeowner property tax
+26 relief account established pursuant to the provisions of section 63-724,
+27 Idaho Code.
+28 (3) For fiscal year 2025, the state controller shall transfer fifty
+29 million dollars ($50,000,000) from the bond levy equalization fund to the
+30 homeowner property tax relief account established pursuant to the provi-
+31 sions of section 63-724, Idaho Code. The remaining balance in the bond levy
+32 equalization fund shall be transferred to the general fund.
+33 SECTION 3. That Section 57-811, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 57-811. TAX RELIEF FUND. (1) There is hereby created in the state trea-
+36 sury the tax relief fund to which shall be credited all moneys remitted from
+37 sections 63-3620F and 63-3638, Idaho Code, from federal grants, donations,
+38 or any other source. Moneys in the fund are intended to fund future tax re-
+39 lief statutes enacted by the legislature and may be expended pursuant to ap-
+40 propriation. All interest earned on the investment of idle moneys in the
+41 fund shall be returned to the fund.
+42 (2) For fiscal year 2025 and At the end of each fiscal year thereafter,
+43 the state controller shall transfer twenty percent (20%) of the moneys in
+44 annual distributions to the tax relief fund is continuously appropriated
+45 and shall be transferred, plus fifty million dollars ($50,000,000), to the
+46 school district facilities fund established pursuant to section 33-911,
+47 Idaho Code.
+4
+1 (3) For fiscal year 2025 and At the end of each fiscal year thereafter,
+2 the state controller shall transfer thirty-nine million dollars
+3 ($39,000,000) from the tax relief fund to the state public defense fund
+4 established pursuant to section 57-827, Idaho Code.
+5 (4) For fiscal year 2023 and each fiscal year thereafter, After the
+6 state controller makes all transfers in subsections (1), (2), and (3) of this
+7 section, the state controller shall transfer the remaining balance of the
+8 tax relief fund or two hundred thirty-six million dollars ($236,000,000),
+9 whichever is less, from the tax relief fund to the general fund.
+10 SECTION 4. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after its
+12 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.7YREADTNCNAGTOPYTXR;AGSN3,IOC,TOREAPNRGTESLDTFSF;AGSN5,IOC,TOPEFRACNCHTGSN5,IOC,TOREPSRGTXRFF;ADDGANEeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.SLDTFSF.()Teishycdintesetytesldtfsf.Teflctofmspdpttoss5,6,a,IoC,adayletsora.Itedfmteitofmsintefdslberdtef.Msintefdaehycyadfrtssdintss)TemsintefdslbeddbytesecotesedtofenbyAt1ehyrfrtepeonorrnofslf.Temsslbeddbytesedtofentoehsld,adinsn3,IoC,ftaspdins)oftssnadtnonaplbsugteaedyaecnpdinsn3,IoC,frehstinknthge12atplfsttaepfadonslgsoftesldtinwhtestisedwhv,asn,byteoeoftesebdofe.Unflalbytesebdofe,asldtmyreanentoteplfyrtpotssniftestwdheadaplfyiesldtifntfrasde.TesedtonsltrtemsbynolrtnAt31ehyrthsld.Shmsslbeudinpeofpytxlsadslbeedbyasldtfroe()ormeoftsstfhinps()th()oftss.Mntefdmtbeudbyasldtintefgorofp)Ptofegslbsadpttocr1e3,IoC)Ptofslsllsadpttosn3,IoC,egietmslldinsn3,IoC]
+[DELETED: )Ptofslptfylsadpttoss34ad3,IoC;a)Aymsttrnfgtepspdinps()th()oftssnmyb:udfrcfanwslf,r,ormen;udteadmepsonanwslfsb;orsdireatbytesldtfrfeslf.Usoffsslierradref,igpem,bgr,ags,adpcmrfspstti,d,c,r,r,adrgofbsadbgs,c,adf,alassea,sei,adnwc)Teatofmsrdbyasldtpttotnmtbeddfmasllyttwdoehebdbypyt.Shmsmyntbeddbytecnofpyt,adnopytsmybecdinortomapsonesddinsn()oftssninesofrda)Ehsldtsliyteatrdintectyrpttotssnintecnofisbtinaewhsn6,IoC.Sdatmtbesmteattobel.Teatofmstysdfmbdbyapytxlyslberdonehpytxnepttosn6,IoC)Ehsldtslrtaytotesedfe,inamrpdbyi,onteeeofmsisrdpttotss.TesedtofelptterstoteleehJ)Frtepsoftss,teIoslfrtedfaebdslbecdasldtadslreadnbdonteaedyaeoftes)Frseflyr25o,aysldtttwerdstfmtebdlyenstpraqdbdpdprtoJy1,2,adfrwhpytsweldinpytxyr23pttoteadbytebdslreadnoffsfmtednpdursn()oftssnofatltahaswdhebnpdthbdlyensnJy1,2)Frseflyr26o,aysldtttwdhdstfmtebdlyenstpmfrdbdpdprtoJy1,2,adfrwhpsweldinpytxyr24pttoteatidbytebdslreadnoffsfmtednpdursn()oftssnofatltahaswdhebnpdthbdlyensnJy1,2)Tesedtofenmyatdsfrrgdspyasnypttotsp]
+[DELETED: .OnadarJy1,2,sldsmyuefspdintssnadsn3,IoC,toottebyensN2.TtSn5,IoC,b,adteseishdtordasf.CHTSFRPYTXR.Ngtsofsn5,IoC,arteceofehflyn2,2,ad2,tesecrsldeayesceinteglf.Wncgayeschb,tecrslftpefrteegb,asdyteler,tobecdoriotentfly,pnatsttocresasadbytednofflmtadanatsttocrayrnadbytel.OnJy1,orassntrasisp,ofehshy,teishyadoehdfymnds()ortebeofteglfdesc,wrisl,tobetdasf)Tesecrsltrteftfymnd)totehrpytxrfatedpttotepsofsn6,IoC;a)Tesetxcnsltrtergmstobdfrtepeofpytxrfintefgm.Ft()oftergmsslbeddtotesldtfsfdedpttosn3,IoCdfypt()slbeddtotehrpytfatedpttotepsofsn6oC)Frflyr2,tesecrsltrfnds()fmtebdlyenfdtotrpytxrfatedpttotepsofsn6,IoC.TergbeintebdlnfdslbetdtoteglfN3.TtSn5,IoC,b,adteseishdtordasf.TXRFF.()Teishycdintesetytetxrffdtowhslbecdalmsrdfs6Fad6,IoC,fmflg,drayors.Msintefdaeidtofdfetxrfssedbyteleadmybeedpttoa.Alitedonteitofiemsintdslberdtotef)Frflyr25adAtteedofehflyrtesecrsltrtypt()oftemsildstotetxrffdiscyadslbet,psfymnds(,totldtfsfdedpttosn3oC]
+[DELETED: )Frflyr25adAtteedofehflyrtesecrsltrtemnd)fmtetxrffdtotesepcdefdpttosn5,IoC)Frflyr23adehflyrt,Artecrmsaltsinss(,(,ad()oft,tesecrsltrtergbeoftxrffdortohdtxmnds(risl,fmtetxrffdtoteglfN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 74
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY TAX RELIEF; AMENDING SECTION 33-911, IDAHO CODE, TO RE-
+3 VISE A PROVISION REGARDING THE SCHOOL DISTRICT FACILITIES FUND; AMEND-
+4 ING SECTION 57-810, IDAHO CODE, TO PROVIDE FOR A CERTAIN CASH TRANSFER;
+5 AMENDING SECTION 57-811, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+6 TAX RELIEF FUND; AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 33-911, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 33-911. SCHOOL DISTRICT FACILITIES FUND. (1) There is hereby cre-
+11 ated in the state treasury the school district facilities fund. The fund
+12 shall consist of moneys provided pursuant to sections 57-811, 63-3638, and
+13 67-7434, Idaho Code, and any legislative transfers or appropriations. In-
+14 terest earned from the investment of moneys in the fund shall be returned to
+15 the fund. Moneys in the fund are hereby continuously appropriated for the
+16 purposes stated in this section.
+17 (2) The moneys in the fund shall be distributed by the state controller
+18 to the state department of education by August 1 each year for the purpose of
+19 construction or renovation of school facilities. The moneys shall be dis-
+20 tributed by the state department of education to each school district, as
+21 defined in section 33-1001(21), Idaho Code, first as provided in subsection
+22 (7) of this section and then on a per-pupil basis using the average daily at-
+23 tendance calculation provided in section 33-1003A, Idaho Code, for each stu-
+24 dent in kindergarten through grade 12 at physical facilities that are part
+25 of and on school grounds of the school district in which the student is en-
+26 rolled with verification, as needed, by the office of the state board of edu-
+27 cation. Upon formal approval by the state board of education, a school dis-
+28 trict may receive an exemption to the physical facility requirement pursuant
+29 to this subsection if the student would have attended a physical facility in
+30 the school district if not for a stated emergency. The state department of
+31 education shall transfer the moneys by no later than August 31 each year to
+32 each school district. Such moneys shall be used in place of property tax levy
+33 moneys and shall be expended by a school district for one (1) or more of the
+34 purposes set forth in paragraphs (a) through (d) of this subsection. Moneys
+35 in the fund must be used by a school district in the following order of prior-
+36 ity:
+37 (a) Payment of existing school bonds authorized pursuant to chapter 11,
+38 title 33, Idaho Code;
+39 (b) Payment of supplemental school levies authorized pursuant to sec-
+40 tion 33-802, Idaho Code, excluding indefinite term supplemental levies
+41 described in section 33-802(5), Idaho Code;
+
+2
+1 (c) Payment of school plant facility levies authorized pursuant to sec-
+2 tions 33-804 and 33-804A, Idaho Code; and
+3 (d) Any moneys that remain following the payments provided in para-
+4 graphs (a) through (c) of this subsection may be: used for construction
+5 of a new school facility, renovation, or maintenance needs; used to
+6 secure and make payments on a new school facilities bond; or saved in
+7 a reserve account by the school district for future school facility
+8 needs. Uses of funds shall include regular and routine facilities
+9 maintenance, including preventive maintenance, building repairs, and
+10 building security, and periodic major facilities projects that involve
+11 planning, design, construction, renovation, retrofitting, and replac-
+12 ing of buildings and building systems, components, and features, as
+13 well as site acquisition, site improvements, and new construction.
+14 (3) The amount of moneys received by a school district pursuant to this
+15 section must be deducted from a school levy that would otherwise have been
+16 paid by property taxpayers. Such moneys may not be duplicated by the collec-
+17 tion of property tax, and no property taxes may be collected in order to make
+18 extra payments on expenses described in subsection (2) of this section in ex-
+19 cess of required amounts.
+20 (4) Each school district shall identify the amount received in the cur-
+21 rent year pursuant to this section in the certification of its budget in ac-
+22 cordance with section 63-803, Idaho Code. Said amount must be subtracted
+23 from the amount to be levied. The amount of moneys thereby saved from being
+24 collected by a property tax levy shall be reported on each property tax no-
+25 tice pursuant to section 63-902, Idaho Code.
+26 (5) Each school district shall report annually to the state department
+27 of education, in a manner prescribed by it, on the expenditure of moneys it
+28 has received pursuant to this section. The state department of education
+29 shall present the reports to the legislature each January.
+30 (6) For the purposes of this section, the Idaho school for the deaf and
+31 the blind shall be considered a school district and shall receive a distribu-
+32 tion based on the average daily attendance of the school.
+33 (7)(a) For state fiscal year 2025 only, any school district that would
+34 have received support from the bond levy equalization support program
+35 for a qualified bond passed prior to January 1, 2024, and for which prop-
+36 erty taxes were levied in property tax year 2023 pursuant to the amount
+37 intended by the bond shall receive a distribution of funds from the dis-
+38 tribution provided under subsection (2) of this section of at least as
+39 much as would have been provided through bond levy equalization support
+40 on July 1, 2024.
+41 (b) For state fiscal year 2026 only, any school district that would have
+42 received support from the bond levy equalization support program for a
+43 qualified bond passed prior to January 1, 2024, and for which property
+44 taxes were levied in property tax year 2024 pursuant to the amount in-
+45 tended by the bond shall receive a distribution of funds from the dis-
+46 tribution provided under subsection (2) of this section of at least as
+47 much as would have been provided through bond levy equalization support
+48 on July 1, 2025.
+49 (c) The state department of education may adjust distributions for re-
+50 maining districts proportionally as necessary pursuant to this para-
+
+3
+1 graph. On and after July 1, 2024, school districts may use funds pro-
+2 vided in this section and section 33-913, Idaho Code, to offset the bond
+3 levy equalization support.
+4 SECTION 2. That Section 57-810, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 57-810. CASH TRANSFERS FOR PROPERTY TAX RELIEF. Notwithstanding the
+7 provisions of section 57-814, Idaho Code, after the close of each fiscal year
+8 in 2023, 2024, and 2025, the state controller shall determine any excess cash
+9 balance in the general fund. When calculating any excess cash balance, the
+10 state controller shall first provide for the ending balance, as determined
+11 by the legislative record, to be carried over into the next fiscal year, plus
+12 an amount sufficient to cover encumbrances as approved by the division of fi-
+13 nancial management and an amount sufficient to cover any reappropriation as
+14 authorized by the legislature. On July 1, or as soon thereafter as is practi-
+15 cable, of each such year, there is hereby appropriated one hundred fifty mil-
+16 lion dollars ($150,000,000) or the balance of the general fund excess cash
+17 balance, whichever is less, to be transferred as follows:
+18 (1) The state controller shall transfer the first fifty million dollars
+19 ($50,000,000) to the homeowner property tax relief account established pur-
+20 suant to the provisions of section 63-724, Idaho Code; and
+21 (2) The state tax commission shall transfer the remaining moneys to be
+22 used for the purpose of property tax relief in the following manner. Fifty
+23 percent (50%) of the remaining moneys shall be distributed to the school dis-
+24 trict facilities fund established pursuant to section 33-911, Idaho Code,
+25 and fifty percent (50%) shall be distributed to the homeowner property tax
+26 relief account established pursuant to the provisions of section 63-724,
+27 Idaho Code.
+28 (3) For fiscal year 2025, the state controller shall transfer fifty
+29 million dollars ($50,000,000) from the bond levy equalization fund to the
+30 homeowner property tax relief account established pursuant to the provi-
+31 sions of section 63-724, Idaho Code. The remaining balance in the bond levy
+32 equalization fund shall be transferred to the general fund.
+33 SECTION 3. That Section 57-811, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 57-811. TAX RELIEF FUND. (1) There is hereby created in the state trea-
+36 sury the tax relief fund to which shall be credited all moneys remitted from
+37 sections 63-3620F and 63-3638, Idaho Code, from federal grants, donations,
+38 or any other source. Moneys in the fund are intended to fund future tax re-
+39 lief statutes enacted by the legislature and may be expended pursuant to ap-
+40 propriation. All interest earned on the investment of idle moneys in the
+41 fund shall be returned to the fund.
+42 (2) For fiscal year 2025 and At the end of each fiscal year thereafter,
+43 the state controller shall transfer twenty percent (20%) of the moneys in
+44 annual distributions to the tax relief fund is continuously appropriated
+45 and shall be transferred, plus fifty million dollars ($50,000,000), to the
+46 school district facilities fund established pursuant to section 33-911,
+47 Idaho Code.
+
+4
+1 (3) For fiscal year 2025 and At the end of each fiscal year thereafter,
+2 the state controller shall transfer thirty-nine million dollars
+3 ($39,000,000) from the tax relief fund to the state public defense fund
+4 established pursuant to section 57-827, Idaho Code.
+5 (4) For fiscal year 2023 and each fiscal year thereafter, After the
+6 state controller makes all transfers in subsections (1), (2), and (3) of this
+7 section, the state controller shall transfer the remaining balance of the
+8 tax relief fund or two hundred thirty-six million dollars ($236,000,000),
+9 whichever is less, from the tax relief fund to the general fund.
+10 SECTION 4. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after its
+12 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.7YREADTNCNAGTOPYTXR;AGSN3,IOC,TOREAPNRGTESLDTFSF;AGSN5,IOC,TOPEFRACNCHTGSN5,IOC,TOREPSRGTXRFF;ADDGANEeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.SLDTFSF.()Teishycdintesetytesldtfsf.Teflctofmspdpttoss5,6,a,IoC,adayletsora.Itedfmteitofmsintefdslberdtef.Msintefdaehycyadfrtssdintss)TemsintefdslbeddbytesecotesedtofenbyAt1ehyrfrtepeonorrnofslf.Temsslbeddbytesedtofentoehsld,adinsn3,IoC,ftaspdins)oftssnadtnonaplbsugteaedyaecnpdinsn3,IoC,frehstinknthge12atplfsttaepfadonslgsoftesldtinwhtestisedwhv,asn,byteoeoftesebdofe.Unflalbytesebdofe,asldtmyreanentoteplfyrtpotssniftestwdheadaplfyiesldtifntfrasde.TesedtonsltrtemsbynolrtnAt31ehyrthsld.Shmsslbeudinpeofpytxlsadslbeedbyasldtfroe()ormeoftsstfhinps()th()oftss.Mntefdmtbeudbyasldtintefgorofp)Ptofegslbsadpttocr1e3,IoC)Ptofslsllsadpttosn3,IoC,egietmslldinsn3,IoC]
+[DELETED: )Ptofslptfylsadpttoss34ad3,IoC;a)Aymsttrnfgtepspdinps()th()oftssnmyb:udfrcfanwslf,r,ormen;udteadmepsonanwslfsb;orsdireatbytesldtfrfeslf.Usoffsslierradref,igpem,bgr,ags,adpcmrfspstti,d,c,r,r,adrgofbsadbgs,c,adf,alassea,sei,adnwc)Teatofmsrdbyasldtpttotnmtbeddfmasllyttwdoehebdbypyt.Shmsmyntbeddbytecnofpyt,adnopytsmybecdinortomapsonesddinsn()oftssninesofrda)Ehsldtsliyteatrdintectyrpttotssnintecnofisbtinaewhsn6,IoC.Sdatmtbesmteattobel.Teatofmstysdfmbdbyapytxlyslberdonehpytxnepttosn6,IoC)Ehsldtslrtaytotesedfe,inamrpdbyi,onteeeofmsisrdpttotss.TesedtofelptterstoteleehJ)Frtepsoftss,teIoslfrtedfaebdslbecdasldtadslreadnbdonteaedyaeoftes)Frseflyr25o,aysldtttwerdstfmtebdlyenstpraqdbdpdprtoJy1,2,adfrwhpytsweldinpytxyr23pttoteadbytebdslreadnoffsfmtednpdursn()oftssnofatltahaswdhebnpdthbdlyensnJy1,2)Frseflyr26o,aysldtttwdhdstfmtebdlyenstpmfrdbdpdprtoJy1,2,adfrwhpsweldinpytxyr24pttoteatidbytebdslreadnoffsfmtednpdursn()oftssnofatltahaswdhebnpdthbdlyensnJy1,2)Tesedtofenmyatdsfrrgdspyasnypttotsp]
+[DELETED: .OnadarJy1,2,sldsmyuefspdintssnadsn3,IoC,toottebyensN2.TtSn5,IoC,b,adteseishdtordasf.CHTSFRPYTXR.Ngtsofsn5,IoC,arteceofehflyn2,2,ad2,tesecrsldeayesceinteglf.Wncgayeschb,tecrslftpefrteegb,asdyteler,tobecdoriotentfly,pnatsttocresasadbytednofflmtadanatsttocrayrnadbytel.OnJy1,orassntrasisp,ofehshy,teishyadoehdfymnds()ortebeofteglfdesc,wrisl,tobetdasf)Tesecrsltrteftfymnd)totehrpytxrfatedpttotepsofsn6,IoC;a)Tesetxcnsltrtergmstobdfrtepeofpytxrfintefgm.Ft()oftergmsslbeddtotesldtfsfdedpttosn3,IoCdfypt()slbeddtotehrpytfatedpttotepsofsn6oC)Frflyr2,tesecrsltrfnds()fmtebdlyenfdtotrpytxrfatedpttotepsofsn6,IoC.TergbeintebdlnfdslbetdtoteglfN3.TtSn5,IoC,b,adteseishdtordasf.TXRFF.()Teishycdintesetytetxrffdtowhslbecdalmsrdfs6Fad6,IoC,fmflg,drayors.Msintefdaeidtofdfetxrfssedbyteleadmybeedpttoa.Alitedonteitofiemsintdslberdtotef)Frflyr25adAtteedofehflyrtesecrsltrtypt()oftemsildstotetxrffdiscyadslbet,psfymnds(,totldtfsfdedpttosn3oC]
+[DELETED: )Frflyr25adAtteedofehflyrtesecrsltrtemnd)fmtetxrffdtotesepcdefdpttosn5,IoC)Frflyr23adehflyrt,Artecrmsaltsinss(,(,ad()oft,tesecrsltrtergbeoftxrffdortohdtxmnds(risl,fmtetxrffdtoteglfN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

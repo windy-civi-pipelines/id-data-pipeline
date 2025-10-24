@@ -1,0 +1,138 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 69
+BY RUBEL
+1 AN ACT
+2 RELATING TO REGISTRATION OF ELECTORS; PROVIDING A SHORT TITLE; AMENDING SEC-
+3 TION 34-404, IDAHO CODE, TO PROVIDE FOR REGISTRATION OF ELIGIBLE ELEC-
+4 TORS AT DRIVER'S LICENSING OFFICES AND TO PROVIDE THAT THE DIVISION OF
+5 MOTOR VEHICLES SHALL FORWARD REGISTRATION APPLICATIONS TO THE OFFICE OF
+6 THE COUNTY CLERK; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+7 DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. SHORT TITLE. This act shall be known and may be cited as the
+10 "Motor Voter Act."
+11 SECTION 2. That Section 34-404, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 34-404. REGISTRATION OF ELECTORS -- POLITICAL PARTY AFFILIATION --
+14 UNAFFILIATED DESIGNATION. (1) All electors must register before being able
+15 to vote at any primary, general, special, school or any other election gov-
+16 erned by the provisions of title 34, Idaho Code. Registration of a qualified
+17 person occurs when a legible, accurate and complete registration applica-
+18 tion and proof of identity and residence are received in the office of the
+19 county clerk or at the polls pursuant to section 34-408(3), 34-408A, or
+20 34-1012, Idaho Code.
+21 (2) The Idaho transportation department, through the division of motor
+22 vehicles and its driver's licensing offices, shall register to vote each
+23 eligible elector who applies for the issuance, renewal, or correction of any
+24 type of driver's license pursuant to chapter 3, title 49, Idaho Code, or for
+25 an identification card pursuant to sections 49-2442 and 49-2443, Idaho Code,
+26 by completing a registration application provided for in subsection (1) of
+27 this section for the eligible elector. Each driver's licensing office shall
+28 forward completed registration applications to the office of the county
+29 clerk on a weekly basis and on the business day prior to the closing of regis-
+30 tration. Registration applications remitted during closure of registration
+31 shall be held pursuant to section 34-408, Idaho Code. The division of motor
+32 vehicles shall provide for an elector to opt out of registration provided for
+33 in this subsection.
+34 (2) (3) Each elector may select on the registration application an af-
+35 filiation with a political party qualified to participate in elections pur-
+36 suant to section 34-501, Idaho Code, or may select to be designated as unaf-
+37 filiated. The county clerk shall record the party affiliation or unaffili-
+38 ated designation so selected as part of the elector's registration record.
+39 If an elector shall fail or refuse to make such a selection, the county clerk
+40 shall enter on the registration records that such elector is unaffiliated.
+2
+1 (3) (4) In order to provide an elector with the appropriate primary
+2 election ballot, pursuant to section 34-904A, Idaho Code, the poll book for
+3 primary elections shall include the party affiliation or designation as
+4 unaffiliated for each elector so registered. An unaffiliated elector shall
+5 declare to the poll worker which primary election ballot the elector chooses
+6 to vote in, pursuant to section 34-904A, Idaho Code, and the poll worker or
+7 other authorized election personnel shall record such declaration in the
+8 poll book. The poll book shall contain checkoff boxes to allow the poll
+9 worker or other authorized election personnel to record such unaffiliated
+10 elector's selection.
+11 SECTION 3. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.6YRNAGTORNOFE;PGASTT;AGSN3,IOC,TOPEFRRNOFEEESATDSLGOSADTOPETTTEDNORVSSLFDRNASTOTEOEOECYC;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.STT.TsatslbeknadmybecdastrVrAN2.TtSn3,IoC,b,adteseishdtordasf.RNOFES--PLPYAN-DD.()Alesmtrrbebgaoveatayp,g,s,slorayorengdbytepsofte3,IoC.Rnofaqnoswnal,aeadcernanadpfofiyadreaerdinteoeoftyckorattepspttosn3,3,o,IoC)TeIotnd,thtednofmsadisdslgo,slrrtoveeeerwoasfrtei,r,orcnofaeofdslepttocr3,te4,IoC,orfnincdpttoss42ad4,IoCycgarnanpdfrinsn()ossnfrteeee.Ehdslgoesdcdrnastoteoeofteckonawybsadontebsdyprtotecgofr.Rnasrddgceofrlbehdpttosn3,IoC.Tednofmsslpefranertoototofrnpdfntss)()Ehermystonternanananwhaplpyqdtopeinespttosn3,IoC,ormysttobeddasu.Tecyckslrdtepyanoruddnsosdasptofteesrnrfanerslflorretomeshas,tecycleronternrsttsherisu]
+[DELETED: )()Inortopeanerwhteaepnb,pttosn3,IoC,teplbkfyesslietepyanordnadfrehersor.Anudersetoteplwrwhpyenbtteercovei,pttosn3,IoC,adteplwroradenplslrdshdnintlb.TeplbkslcncfbstoawteprororadenpltordshussN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 69
+BY RUBEL
+1 AN ACT
+2 RELATING TO REGISTRATION OF ELECTORS; PROVIDING A SHORT TITLE; AMENDING SEC-
+3 TION 34-404, IDAHO CODE, TO PROVIDE FOR REGISTRATION OF ELIGIBLE ELEC-
+4 TORS AT DRIVER'S LICENSING OFFICES AND TO PROVIDE THAT THE DIVISION OF
+5 MOTOR VEHICLES SHALL FORWARD REGISTRATION APPLICATIONS TO THE OFFICE OF
+6 THE COUNTY CLERK; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+7 DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. SHORT TITLE. This act shall be known and may be cited as the
+10 "Motor Voter Act."
+11 SECTION 2. That Section 34-404, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 34-404. REGISTRATION OF ELECTORS -- POLITICAL PARTY AFFILIATION --
+14 UNAFFILIATED DESIGNATION. (1) All electors must register before being able
+15 to vote at any primary, general, special, school or any other election gov-
+16 erned by the provisions of title 34, Idaho Code. Registration of a qualified
+17 person occurs when a legible, accurate and complete registration applica-
+18 tion and proof of identity and residence are received in the office of the
+19 county clerk or at the polls pursuant to section 34-408(3), 34-408A, or
+20 34-1012, Idaho Code.
+21 (2) The Idaho transportation department, through the division of motor
+22 vehicles and its driver's licensing offices, shall register to vote each
+23 eligible elector who applies for the issuance, renewal, or correction of any
+24 type of driver's license pursuant to chapter 3, title 49, Idaho Code, or for
+25 an identification card pursuant to sections 49-2442 and 49-2443, Idaho Code,
+26 by completing a registration application provided for in subsection (1) of
+27 this section for the eligible elector. Each driver's licensing office shall
+28 forward completed registration applications to the office of the county
+29 clerk on a weekly basis and on the business day prior to the closing of regis-
+30 tration. Registration applications remitted during closure of registration
+31 shall be held pursuant to section 34-408, Idaho Code. The division of motor
+32 vehicles shall provide for an elector to opt out of registration provided for
+33 in this subsection.
+34 (2) (3) Each elector may select on the registration application an af-
+35 filiation with a political party qualified to participate in elections pur-
+36 suant to section 34-501, Idaho Code, or may select to be designated as unaf-
+37 filiated. The county clerk shall record the party affiliation or unaffili-
+38 ated designation so selected as part of the elector's registration record.
+39 If an elector shall fail or refuse to make such a selection, the county clerk
+40 shall enter on the registration records that such elector is unaffiliated.
+
+2
+1 (3) (4) In order to provide an elector with the appropriate primary
+2 election ballot, pursuant to section 34-904A, Idaho Code, the poll book for
+3 primary elections shall include the party affiliation or designation as
+4 unaffiliated for each elector so registered. An unaffiliated elector shall
+5 declare to the poll worker which primary election ballot the elector chooses
+6 to vote in, pursuant to section 34-904A, Idaho Code, and the poll worker or
+7 other authorized election personnel shall record such declaration in the
+8 poll book. The poll book shall contain checkoff boxes to allow the poll
+9 worker or other authorized election personnel to record such unaffiliated
+10 elector's selection.
+11 SECTION 3. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.6YRNAGTORNOFE;PGASTT;AGSN3,IOC,TOPEFRRNOFEEESATDSLGOSADTOPETTTEDNORVSSLFDRNASTOTEOEOECYC;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.STT.TsatslbeknadmybecdastrVrAN2.TtSn3,IoC,b,adteseishdtordasf.RNOFES--PLPYAN-DD.()Alesmtrrbebgaoveatayp,g,s,slorayorengdbytepsofte3,IoC.Rnofaqnoswnal,aeadcernanadpfofiyadreaerdinteoeoftyckorattepspttosn3,3,o,IoC)TeIotnd,thtednofmsadisdslgo,slrrtoveeeerwoasfrtei,r,orcnofaeofdslepttocr3,te4,IoC,orfnincdpttoss42ad4,IoCycgarnanpdfrinsn()ossnfrteeee.Ehdslgoesdcdrnastoteoeofteckonawybsadontebsdyprtotecgofr.Rnasrddgceofrlbehdpttosn3,IoC.Tednofmsslpefranertoototofrnpdfntss)()Ehermystonternanananwhaplpyqdtopeinespttosn3,IoC,ormysttobeddasu.Tecyckslrdtepyanoruddnsosdasptofteesrnrfanerslflorretomeshas,tecycleronternrsttsherisu]
+[DELETED: )()Inortopeanerwhteaepnb,pttosn3,IoC,teplbkfyesslietepyanordnadfrehersor.Anudersetoteplwrwhpyenbtteercovei,pttosn3,IoC,adteplwroradenplslrdshdnintlb.TeplbkslcncfbstoawteprororadenpltordshussN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,564 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 408
+BY REDMAN
+1 AN ACT
+2 RELATING TO INCOME TAXES; AMENDING CHAPTER 30, TITLE 63, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 63-3029N, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING THE MIDDLE INCOME PROPERTY DEVELOPMENT TAX CREDIT; AMEND-
+5 ING CHAPTER 30, TITLE 63, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+6 63-3029O, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE MIDDLE IN-
+7 COME LAND TRUST TAX CREDIT; AND DECLARING AN EMERGENCY AND PROVIDING
+8 RETROACTIVE APPLICATION.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 30, Title 63, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 63-3029N, Idaho Code, and to read as follows:
+13 63-3029N. MIDDLE INCOME PROPERTY DEVELOPMENT TAX CREDIT. (1) There is
+14 hereby created the Idaho middle income property development tax credit. Be-
+15 ginning in tax year 2025, there shall be allowed a credit against the taxes
+16 imposed by this chapter to any taxpayer that develops and sells a deed re-
+17 stricted property as defined in this section. The amount of the credit for
+18 the development and sale of a deed restricted property shall be equal to the
+19 difference between the sale price of the deed restricted property and the ap-
+20 praised value of the deed restricted property at the time of sale as deter-
+21 mined by a third-party appraiser. If the amount of the credit is greater than
+22 the tax liability of the taxpayer, the excess amount may be carried forward
+23 for a period that does not exceed the next ten (10) taxable years.
+24 (2) As used in this section:
+25 (a) "Area median income" means the median income for the metropolitan
+26 statistical area, or county if no metropolitan statistical area exists,
+27 where a property is located, as determined by the United States depart-
+28 ment of housing and urban development.
+29 (b) "Deed restricted property" means a newly constructed residen-
+30 tial structure that previously did not exist, once it is completed and
+31 taxable, on land that is subject to a fee simple deed that is properly
+32 recorded in the county recorder's office for the county in which the
+33 property is located and that contains enforceable covenants running
+34 with the land as recognized by Idaho law that restrict the sale of the
+35 property, at a minimum, as follows:
+36 (i) At the time of purchase, the purchaser of the property shall
+37 belong to a household that had a total income for the most recently
+38 completed income tax year that was at or below one hundred twenty
+39 percent (120%) of the most current available area median income
+40 for the area in which the property is located;
+41 (ii) The property must be used as the purchaser's homestead pur-
+42 suant to section 63-602G, Idaho Code;
+2
+1 (iii) The purchaser is required to enter into a contract with a
+2 deed restriction program manager and such deed restriction pro-
+3 gram manager is obligated to verify that the purchaser meets the
+4 requirements set forth in subparagraphs (i) and (ii) of this para-
+5 graph. The purchaser shall be required to disclose all household
+6 income information to the deed restriction program manager, in-
+7 cluding the purchaser's most recent household tax returns and pay
+8 stubs for the previous six (6) months. The contract shall also re-
+9 quire regular visits to the property by an agent of the deed re-
+10 striction program manager to verify continuing homestead exemp-
+11 tion qualification as long as the purchaser owns the property. If
+12 a purchaser no longer meets the homestead qualification provided
+13 in this section, the purchaser shall be required to notify the deed
+14 restriction program manager;
+15 (iv) The purchaser is restricted from selling the property at a
+16 price greater than one (1) of the following formulas as designated
+17 in the deed of trust:
+18 1. The amount equal to the increase in value of the prop-
+19 erty using the inflation rate from the time of the purchase
+20 of the property, including any fixtures or improvements to
+21 the property made by the purchaser, to the time of sale. The
+22 inflation rate used shall be the unadjusted consumer price
+23 index for all urban consumers as published by the United
+24 States department of labor;
+25 2. Twenty-five percent (25%) of total market appreciation
+26 of the property, including any fixtures or improvements to
+27 the property made by the purchaser, which shall equal the
+28 difference between the appraised value at the time of the
+29 original purchase and the appraised value at the time of sale
+30 as determined by a third-party appraiser; or
+31 3. A fixed annual percentage accretion over the purchase
+32 price of the property, including any fixtures or improve-
+33 ments to the property made by the purchaser, not to exceed
+34 five percent (5%); and
+35 (v) The covenants running with the land in such deed, including
+36 the restrictions provided in this paragraph, shall be binding on
+37 the property for at least sixty (60) years.
+38 (c) "Deed restriction program manager" means a not-for-profit entity
+39 exempt from federal income taxation pursuant to section 501(c)(3) of
+40 the Internal Revenue Code established for the purpose of managing deed
+41 restricted properties. At a minimum, a program manager shall perform
+42 the following contractual duties for a deed restricted property forming
+43 the basis for the tax credit provided by this section:
+44 (i) Verify that the purchaser of a deed restricted property meets
+45 the income requirements set forth in paragraph (b)(i) of this sub-
+46 section, by requesting, receiving, and reviewing the income tax
+47 returns of the purchaser and the purchaser's household for the
+48 most recent tax year and the pay stubs of the purchaser and the
+49 purchaser's household for the previous six (6) months;
+3
+1 (ii) Verify that the purchaser of a deed restricted property is us-
+2 ing the property as the purchaser's homestead pursuant to section
+3 63-602G, Idaho Code, by requesting and receiving a signed certi-
+4 fication from the purchaser that upon the purchase, the property
+5 shall qualify as the purchaser's homestead pursuant to section
+6 63-602G, Idaho Code; and
+7 (iii) Conduct home visits of the deed restricted property at least
+8 two (2) times per year for as long as the purchaser owns the prop-
+9 erty, to verify that the purchaser is using the property as the
+10 purchaser's homestead pursuant to section 63-602G, Idaho Code.
+11 (d) "Fixtures" shall have the same meaning as provided in section
+12 63-201(9), Idaho Code.
+13 (e) "Household" means individuals over eighteen (18) years of age
+14 living together in the same residence, except for children of house-
+15 hold members who are living in the home and are enrolled and attending
+16 postsecondary education institutions, trade schools, or vocational
+17 schools. The term does not include bona fide lessees, tenants, or
+18 roomers and boarders on contract.
+19 (f) "Improvements" shall have the same meaning as provided in section
+20 63-201(11), Idaho Code.
+21 (3) The state tax commission shall prescribe forms for the purpose of
+22 claiming the Idaho middle income property development tax credit.
+23 (4) Taxpayers claiming the credit shall:
+24 (a) Enter into a written contract with a deed restriction program man-
+25 ager whereby such program manager is obligated to verify purchaser eli-
+26 gibility pursuant to subsection (2)(b)(i) and (ii) of this section, and
+27 to provide ongoing compliance with the deed restrictions as provided in
+28 subsection (2) of this section; and
+29 (b) Retain all documents related to the sale of the deed restricted
+30 property, including a copy of the recorded deed and the covenants run-
+31 ning with the land and the contract with the deed restriction program
+32 manager. The taxpayer shall retain such documents for ten (10) years
+33 after the filing of a return claiming the tax credit and shall submit
+34 such documents to the state tax commission upon request.
+35 (5) The state tax commission shall deny or recapture credits claimed by
+36 a taxpayer for claiming credit amounts not authorized by the provisions of
+37 this section.
+38 SECTION 2. That Chapter 30, Title 63, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 63-3029O, Idaho Code, and to read as follows:
+41 63-3029O. MIDDLE INCOME LAND TRUST TAX CREDIT. (1) There is hereby
+42 created the Idaho middle income land trust tax credit. Beginning in tax year
+43 2025, there shall be allowed a credit against the taxes imposed by this chap-
+44 ter to any taxpayer that donates fee simple land to a land trust in accordance
+45 with the provisions of this section.
+46 (2) As used in this section:
+47 (a) "Area median income" means the median income for the metropolitan
+48 statistical area, or county if no metropolitan statistical area exists,
+4
+1 where a housing unit is located, as determined by the United States de-
+2 partment of housing and urban development.
+3 (b) "Fixtures" shall have the same meaning as provided in section
+4 63-201(9), Idaho Code.
+5 (c) "Household" means individuals over eighteen (18) years of age
+6 living together in the same residence, except for children of house-
+7 hold members who are living in the home and are enrolled and attending
+8 postsecondary education institutions, trade schools, or vocational
+9 schools. The term does not include bona fide lessees, tenants, or
+10 roomers and boarders on contract.
+11 (d) "Improvements" shall have the same meaning as provided in section
+12 63-201(11), Idaho Code.
+13 (e) "Land trust" means a not-for-profit entity exempt from federal
+14 income taxation pursuant to section 501(c)(3) of the Internal Revenue
+15 Code that holds real property in trust for the purpose of leasing such
+16 real property to lessees who purchase and own residential housing units
+17 constructed on the leased land. Such housing units shall be subject to a
+18 land lease that is recognized by Idaho law. Such land lease with a land
+19 trust shall have, at a minimum, the following requirements:
+20 (i) The land lease shall be for a term of at least ninety-nine (99)
+21 years;
+22 (ii) The lessee shall belong to a household with a total income at
+23 or below one hundred percent (100%) of the area median income where
+24 the housing unit is located;
+25 (iii) The housing unit being purchased must be the lessee's pri-
+26 mary dwelling place as that term is defined in section 63-701,
+27 Idaho Code;
+28 (iv) The total liquid assets of the lessee's household, includ-
+29 ing cash, bank account funds, stocks, bonds, and any other asset
+30 that can be readily converted to United States currency, and not
+31 including retirement accounts, shall be limited to an amount equal
+32 to twelve (12) months of the household's recurring expenses, and
+33 shall not exceed twenty-five thousand dollars ($25,000) at the
+34 time of entering into the land lease. Households with liquid as-
+35 sets greater than such limit shall qualify if the funds greater
+36 than twenty-five thousand dollars ($25,000) are used to pay for
+37 closing transaction costs for entering into the lease and for
+38 the purchase of the housing unit, and after such costs are sub-
+39 tracted from the purchaser's liquid assets, such assets are below
+40 twenty-five thousand dollars ($25,000); and
+41 (v) The lessee shall not sell any housing unit located on the
+42 property at a price greater than one (1) of the following formulas,
+43 to be designated in the lease:
+44 1. The amount equal to the increase in value of the housing
+45 unit, including any fixtures or improvements to the housing
+46 unit made by the lessee, using the inflation rate from the
+47 time of purchase to the time of sale as determined by a third-
+48 party appraiser. The inflation rate used shall be the unad-
+49 justed consumer price index for all urban consumers as pub-
+50 lished by the United States department of labor;
+5
+1 2. Twenty-five percent (25%) of total market appreciation
+2 as determined by the difference between the purchase price
+3 of the housing unit, including any fixtures or improvements
+4 to the housing unit made by the lessee, and the appraised
+5 value at the time of resale; or
+6 3. A fixed annual percentage accretion over the purchase
+7 price of the housing unit, including any fixtures or im-
+8 provements to the housing unit made by the lessee, not to
+9 exceed five percent (5%).
+10 (f) "Lessee" means the person who leases property from a land trust and
+11 who owns a residential housing unit located on such land that serves as
+12 such lessee's primary dwelling place as that term is defined in section
+13 63-701, Idaho Code.
+14 (3)(a) For the donation of real property to a land trust that, by the
+15 terms of its governing corporate documents, services lessee households
+16 with an income of no more than eighty percent (80%) of the area median
+17 income:
+18 (i) If the taxpayer purchased the property, the taxpayer shall
+19 receive a tax credit in the amount of fifty percent (50%) of the
+20 difference between the purchase price of the property and the ap-
+21 praised value of such property at the time of the donation as de-
+22 termined by a third-party appraiser; or
+23 (ii) If there was no purchase price when the taxpayer acquired the
+24 property, the taxpayer shall receive a tax credit in the amount
+25 of fifty percent (50%) of the difference between the tax basis of
+26 the property at the time the taxpayer acquired the property and
+27 the appraised value at the time of the donation as determined by a
+28 third-party appraiser.
+29 (b) For the donation of real property to a land trust that, by the terms
+30 of its governing corporate documents, services lessee households with
+31 an income greater than eighty percent (80%) but no more than one hundred
+32 percent (100%) of the area median income:
+33 (i) If the taxpayer purchased the property, the taxpayer shall
+34 receive a tax credit in the amount of forty percent (40%) of the
+35 difference between the purchase price of the property at the time
+36 the taxpayer purchased the property and the appraised value at the
+37 time the taxpayer donated the property as determined by a third-
+38 party appraiser; or
+39 (ii) If there was no purchase price when the taxpayer acquired the
+40 property, the taxpayer shall receive a tax credit in the amount of
+41 forty percent (40%) of the difference between the tax basis at the
+42 time the taxpayer acquired the property and the appraised value
+43 at the time the taxpayer donated the property as determined by a
+44 third-party appraiser.
+45 (c) If the amount of any credit under this subsection is greater than
+46 the tax liability of the taxpayer, the excess amount may be carried for-
+47 ward by the taxpayer for a period that does not exceed the next ten (10)
+48 taxable years.
+49 (4) The state tax commission shall prescribe forms for the purpose of
+50 claiming the Idaho middle income land trust tax credit.
+6
+1 (5) Taxpayers claiming the credit shall:
+2 (a) Certify that, before donating the property to a land trust pursuant
+3 to the provisions of this section, the taxpayer requested and received a
+4 certification from a lawful agent of the land trust that the land trust
+5 properly qualifies pursuant to the provisions of this section; and
+6 (b) Retain all documents related to the transfer of the property to the
+7 land trust, including a copy of the deed, the land lease to which the
+8 donated property shall be subject, and the certification pursuant to
+9 paragraph (a) of this subsection, for ten (10) years after the filing of
+10 a return claiming the tax credit and shall submit such documents to the
+11 state tax commission upon request.
+12 (6) The state tax commission shall deny or recapture credits claimed by
+13 a taxpayer for claiming credit amounts not authorized by the provisions of
+14 this section.
+15 SECTION 3. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after its
+17 passage and approval, and retroactively to January 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YRNAGTOIET;AGCR3,TE6,IOC,BYTNOFANWSN6,IOC,TOEHPGTEMEIEPYDTTXC;AGCR3,TE6,IOC,BYTEANOFANWS,IOC,TOEHPSRGTEMEIELDTTTXC;ADDGANEYADPEAeItEdbyteLeofteSeofIN1.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.MEIEPYDTTXC.()TeiycdteIomeiepydttxc.Bgintxyr2,teslbeadactattetdbytscrtoaytrttdsadssaddrdpyasddintss.Teatoftectfedtadseofaddrdpyslbeeltotebntesepeofteddrdpyadteadveofteddrdpyatteteofseasddbyatya.Ifteatoftectisgrtetxlyoftet,teesatmybecdfrapdttdsntedtenttn()tey)Asudintss)"amni"mstemniefrtemla,orcyifnomnslaaeeapyisl,asddbyteUdSsdtofhgadund)"drdp"msanycdrlsettpyddnte,oeitiscda,onldttissttoafeseddttispdintecyrsoefrtecyinwhtyisldadttcseecsrhteldasrdbyIolwttrtteseoft,atam,asf)Atteteofp,teproftepysgtoahdtthdatliefrtemtrdietxyrttwsatorbwoehdtt()oftemtctaeaamnirteaainwhtepyisl)Tepymtbeudastepshdpttosn6,IoC]
+[DELETED: )Teprisrdtoerioactwhdrnpmmradshddrnpmmrisodtovyttteprmstsstfhinss()ad()oftsp.Teprslberdtodealheintoteddrnpmm,igtepsmtrthdtxrsadpsfrtepssx()m.Tectslaorerrvstotepybyanatofteddrnpmmrtovycghdenqnaslgasteprostep.Iprnolrmstehdqnpntss,teprslberdtonytednpmm)Teprisrdfmsgtepyategrtnoe()oftefgfsasdnteddoft.Teateltoteieinveoftepyugteinrefmteteoftepftep,igayfsoristepymebytep,toteteofs.TnreudslbeteudcrpxfraluncsaspdbyteUsdtofl.Tept()oftlmtaftep,igayfsoristepymebytep,whsleltebnteadveatteteoftlpeadteadveatteteofssddbyatya;o.Afdalpeanortepeoftep,igayfsoristotepymebytep,nttoeept(;a)Tecsrgwhteldinshd,ierspdintsp,slbebgoepyfratltsy()y)"drnpmm"msantetfmflietnpttosn5)oeIlReCeedfrtepeofmgddp.Atam,apmmrslpefgcldsfraddrdpyfebsfrtetxctpdbytss)Vyttteprofaddrdpymeiersstfhinph()oftss,byr,r,adrgteietsoftepradtepshdfrttrttxyradtepyssoftepradtshdfrtepssx()m]
+[DELETED: )Vyttteprofaddrdpyisugtepyastepshdpttos,IoC,byrgadrgasdcnfmteprttuntep,teplqyastepshdpttos,IoC;a)Cthevsofteddrdpyatlo()tspryrfraslgasteprostep,tovyttteprisugtepyastshdpttosn6,IoC)""slhetesemgaspdins,IoC)""msisoren()ysofagtrinteser,etfrcnofhdmswoaelginteheadaeedadayeni,tes,orv.Tetmdsntiebafel,t,osadbsonc)""slhetesemgaspdins,IoC)TesetxcnslpefsfrtepeogteIomeiepydttxc)Tscgtects)Erioawnctwhaddrnpmmrwyshpmmrisodtovypreypttosn()ad()oftss,aopeogcewhteddrsaspdin()oftss;a)Rnaldsrdtoteseofteddr,igacyofterdddadtecsrgwhteldadtectwhteddrnp.Tetrslrnshdsfrtn()yrtefgofarncgtetxctadslshdstotesetxcnunr)TesetxcnsldyorrecscdbtrfrcgctasntadbytepsossN2.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.MEIELDTTTXC.()TeishdteIomeieldtttxc.Bgintxy,teslbeadactattetsidbytscrtoaytrttdsfeseldtoaldttinahtepsoftss)Asudintss)"amni"mstemniefrtemla,orcyifnomnslaae]
+[DELETED: eahgutisl,asddbyteUdSsdtofhgadund)""slhetesemgaspdins,IoC)""msisoren()ysofagtrinteser,etfrcnofhdmswoaelginteheadaeedadayeni,tes,orv.Tetmdsntiebafel,t,osadbsonc)""slhetesemgaspdins,IoC)"dt"msanteyetfmfetnpttosn5)ofteIlRetthsrlpyinttfrtepeoflgslpytolswopeadonrlhgudonteldl.ShhgusslbesttodlettisrdbyIol.Shldlewhaltslh,atam,tefgr)Teldleslbefratmofatltne()Teleslbgtoahdwhatliearbwoehdpt()ofteaamniewehgutisl)Tehgutbgpdmtbetelspydgpeastttmisddinsn6oC)Tetlldasoftelsh,igc,bkatf,s,b,adayoratcnberycdtoUdSsc,adngrta,slbeldtoanateote()msoftehsrge,alntedtetdds()atteofegioteldl.Hswhldasgrtnshltslqyiftefsgntetdds()aeudtopyfgtncsfregioteleadfepeoftehgu,adarshcsaesdfmtepslda,shasaebetdds(;a)Teleslntslayhgutldontyatapegrtnoe()oftefgfobeddintel.Teateltoteieinveofteh,igayfsoristotehtmebytel,ugteinrefmteofpetoteteofseasddbyatya.TeinreudslbeteudcrpeixfraluncsaspdbyteUdSsdtofl]
+[DELETED: .Tept()oftlmtasddbytedebntepepftehgu,igayfsoriotehgutmebytel,adteaeatteteofr;o.Afdalpeanortepeoftehgu,igayfsoristotehgutmebytel,nttdfept()""mstepnwolspyfmaldttaoosarlhgutldonshldttssahlspydgpeastttmisddins,IoC)Frtednofrlpytoaldttt,bytsofisggced,sslehhanieofnometneypt()ofteaam)Iftetrpdtep,tetrseatxctinteatoffypt()oftebntepepeoftepyadteadveofshpyatteteoftednasddbyatya;o)Iftewsnopepewntetradt,tetrslreatxctinteaffypt()oftedebntetxbsoepyattetetetradtepyaeadveatteteoftednasddbyya)Frtednofrlpytoaldttt,bytetfisggced,sslehswniegrtneypt()btnometnoeht()ofteaamni)Iftetrpdtep,tetrseatxctinteatoffypt()oftebntepepeoftepyattetetrpdtepyadteadveattetetrddtepyasddbyatya;o)Iftewsnopepewntetradt,tetrslreatxctinteatoypt()oftedebntetxbsattetetradtepyadteadvttetetetrddtepyasddbyya)Ifteatofaycturtssnisgrtetxlyoftet,teesatmybecdfdbytetrfrapdttdsntedtenttn(ey)TesetxcnslpefsfrtepeogteIomeieldtttxc]
+[DELETED: )Tscgtects)Cyt,bedgtepytoaldttpotepsoftss,tetrrdadrdnfmallatofteldttttteldtyqspttotepsoftss;a)Rnaldsrdtotetroftepytotdt,igacyofted,teldletowhtdpyslbes,adtecnptth()oftss,frtn()ysartefgorncgtetxctadslstshdstotetxcnunr)TesetxcnsldyorrecscdbtrfrcgctasntadbytepsossN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada,adrytoJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 408
+BY REDMAN
+1 AN ACT
+2 RELATING TO INCOME TAXES; AMENDING CHAPTER 30, TITLE 63, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 63-3029N, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING THE MIDDLE INCOME PROPERTY DEVELOPMENT TAX CREDIT; AMEND-
+5 ING CHAPTER 30, TITLE 63, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+6 63-3029O, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE MIDDLE IN-
+7 COME LAND TRUST TAX CREDIT; AND DECLARING AN EMERGENCY AND PROVIDING
+8 RETROACTIVE APPLICATION.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 30, Title 63, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 63-3029N, Idaho Code, and to read as follows:
+13 63-3029N. MIDDLE INCOME PROPERTY DEVELOPMENT TAX CREDIT. (1) There is
+14 hereby created the Idaho middle income property development tax credit. Be-
+15 ginning in tax year 2025, there shall be allowed a credit against the taxes
+16 imposed by this chapter to any taxpayer that develops and sells a deed re-
+17 stricted property as defined in this section. The amount of the credit for
+18 the development and sale of a deed restricted property shall be equal to the
+19 difference between the sale price of the deed restricted property and the ap-
+20 praised value of the deed restricted property at the time of sale as deter-
+21 mined by a third-party appraiser. If the amount of the credit is greater than
+22 the tax liability of the taxpayer, the excess amount may be carried forward
+23 for a period that does not exceed the next ten (10) taxable years.
+24 (2) As used in this section:
+25 (a) "Area median income" means the median income for the metropolitan
+26 statistical area, or county if no metropolitan statistical area exists,
+27 where a property is located, as determined by the United States depart-
+28 ment of housing and urban development.
+29 (b) "Deed restricted property" means a newly constructed residen-
+30 tial structure that previously did not exist, once it is completed and
+31 taxable, on land that is subject to a fee simple deed that is properly
+32 recorded in the county recorder's office for the county in which the
+33 property is located and that contains enforceable covenants running
+34 with the land as recognized by Idaho law that restrict the sale of the
+35 property, at a minimum, as follows:
+36 (i) At the time of purchase, the purchaser of the property shall
+37 belong to a household that had a total income for the most recently
+38 completed income tax year that was at or below one hundred twenty
+39 percent (120%) of the most current available area median income
+40 for the area in which the property is located;
+41 (ii) The property must be used as the purchaser's homestead pur-
+42 suant to section 63-602G, Idaho Code;
+
+2
+1 (iii) The purchaser is required to enter into a contract with a
+2 deed restriction program manager and such deed restriction pro-
+3 gram manager is obligated to verify that the purchaser meets the
+4 requirements set forth in subparagraphs (i) and (ii) of this para-
+5 graph. The purchaser shall be required to disclose all household
+6 income information to the deed restriction program manager, in-
+7 cluding the purchaser's most recent household tax returns and pay
+8 stubs for the previous six (6) months. The contract shall also re-
+9 quire regular visits to the property by an agent of the deed re-
+10 striction program manager to verify continuing homestead exemp-
+11 tion qualification as long as the purchaser owns the property. If
+12 a purchaser no longer meets the homestead qualification provided
+13 in this section, the purchaser shall be required to notify the deed
+14 restriction program manager;
+15 (iv) The purchaser is restricted from selling the property at a
+16 price greater than one (1) of the following formulas as designated
+17 in the deed of trust:
+18 1. The amount equal to the increase in value of the prop-
+19 erty using the inflation rate from the time of the purchase
+20 of the property, including any fixtures or improvements to
+21 the property made by the purchaser, to the time of sale. The
+22 inflation rate used shall be the unadjusted consumer price
+23 index for all urban consumers as published by the United
+24 States department of labor;
+25 2. Twenty-five percent (25%) of total market appreciation
+26 of the property, including any fixtures or improvements to
+27 the property made by the purchaser, which shall equal the
+28 difference between the appraised value at the time of the
+29 original purchase and the appraised value at the time of sale
+30 as determined by a third-party appraiser; or
+31 3. A fixed annual percentage accretion over the purchase
+32 price of the property, including any fixtures or improve-
+33 ments to the property made by the purchaser, not to exceed
+34 five percent (5%); and
+35 (v) The covenants running with the land in such deed, including
+36 the restrictions provided in this paragraph, shall be binding on
+37 the property for at least sixty (60) years.
+38 (c) "Deed restriction program manager" means a not-for-profit entity
+39 exempt from federal income taxation pursuant to section 501(c)(3) of
+40 the Internal Revenue Code established for the purpose of managing deed
+41 restricted properties. At a minimum, a program manager shall perform
+42 the following contractual duties for a deed restricted property forming
+43 the basis for the tax credit provided by this section:
+44 (i) Verify that the purchaser of a deed restricted property meets
+45 the income requirements set forth in paragraph (b)(i) of this sub-
+46 section, by requesting, receiving, and reviewing the income tax
+47 returns of the purchaser and the purchaser's household for the
+48 most recent tax year and the pay stubs of the purchaser and the
+49 purchaser's household for the previous six (6) months;
+
+3
+1 (ii) Verify that the purchaser of a deed restricted property is us-
+2 ing the property as the purchaser's homestead pursuant to section
+3 63-602G, Idaho Code, by requesting and receiving a signed certi-
+4 fication from the purchaser that upon the purchase, the property
+5 shall qualify as the purchaser's homestead pursuant to section
+6 63-602G, Idaho Code; and
+7 (iii) Conduct home visits of the deed restricted property at least
+8 two (2) times per year for as long as the purchaser owns the prop-
+9 erty, to verify that the purchaser is using the property as the
+10 purchaser's homestead pursuant to section 63-602G, Idaho Code.
+11 (d) "Fixtures" shall have the same meaning as provided in section
+12 63-201(9), Idaho Code.
+13 (e) "Household" means individuals over eighteen (18) years of age
+14 living together in the same residence, except for children of house-
+15 hold members who are living in the home and are enrolled and attending
+16 postsecondary education institutions, trade schools, or vocational
+17 schools. The term does not include bona fide lessees, tenants, or
+18 roomers and boarders on contract.
+19 (f) "Improvements" shall have the same meaning as provided in section
+20 63-201(11), Idaho Code.
+21 (3) The state tax commission shall prescribe forms for the purpose of
+22 claiming the Idaho middle income property development tax credit.
+23 (4) Taxpayers claiming the credit shall:
+24 (a) Enter into a written contract with a deed restriction program man-
+25 ager whereby such program manager is obligated to verify purchaser eli-
+26 gibility pursuant to subsection (2)(b)(i) and (ii) of this section, and
+27 to provide ongoing compliance with the deed restrictions as provided in
+28 subsection (2) of this section; and
+29 (b) Retain all documents related to the sale of the deed restricted
+30 property, including a copy of the recorded deed and the covenants run-
+31 ning with the land and the contract with the deed restriction program
+32 manager. The taxpayer shall retain such documents for ten (10) years
+33 after the filing of a return claiming the tax credit and shall submit
+34 such documents to the state tax commission upon request.
+35 (5) The state tax commission shall deny or recapture credits claimed by
+36 a taxpayer for claiming credit amounts not authorized by the provisions of
+37 this section.
+38 SECTION 2. That Chapter 30, Title 63, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 63-3029O, Idaho Code, and to read as follows:
+41 63-3029O. MIDDLE INCOME LAND TRUST TAX CREDIT. (1) There is hereby
+42 created the Idaho middle income land trust tax credit. Beginning in tax year
+43 2025, there shall be allowed a credit against the taxes imposed by this chap-
+44 ter to any taxpayer that donates fee simple land to a land trust in accordance
+45 with the provisions of this section.
+46 (2) As used in this section:
+47 (a) "Area median income" means the median income for the metropolitan
+48 statistical area, or county if no metropolitan statistical area exists,
+
+4
+1 where a housing unit is located, as determined by the United States de-
+2 partment of housing and urban development.
+3 (b) "Fixtures" shall have the same meaning as provided in section
+4 63-201(9), Idaho Code.
+5 (c) "Household" means individuals over eighteen (18) years of age
+6 living together in the same residence, except for children of house-
+7 hold members who are living in the home and are enrolled and attending
+8 postsecondary education institutions, trade schools, or vocational
+9 schools. The term does not include bona fide lessees, tenants, or
+10 roomers and boarders on contract.
+11 (d) "Improvements" shall have the same meaning as provided in section
+12 63-201(11), Idaho Code.
+13 (e) "Land trust" means a not-for-profit entity exempt from federal
+14 income taxation pursuant to section 501(c)(3) of the Internal Revenue
+15 Code that holds real property in trust for the purpose of leasing such
+16 real property to lessees who purchase and own residential housing units
+17 constructed on the leased land. Such housing units shall be subject to a
+18 land lease that is recognized by Idaho law. Such land lease with a land
+19 trust shall have, at a minimum, the following requirements:
+20 (i) The land lease shall be for a term of at least ninety-nine (99)
+21 years;
+22 (ii) The lessee shall belong to a household with a total income at
+23 or below one hundred percent (100%) of the area median income where
+24 the housing unit is located;
+25 (iii) The housing unit being purchased must be the lessee's pri-
+26 mary dwelling place as that term is defined in section 63-701,
+27 Idaho Code;
+28 (iv) The total liquid assets of the lessee's household, includ-
+29 ing cash, bank account funds, stocks, bonds, and any other asset
+30 that can be readily converted to United States currency, and not
+31 including retirement accounts, shall be limited to an amount equal
+32 to twelve (12) months of the household's recurring expenses, and
+33 shall not exceed twenty-five thousand dollars ($25,000) at the
+34 time of entering into the land lease. Households with liquid as-
+35 sets greater than such limit shall qualify if the funds greater
+36 than twenty-five thousand dollars ($25,000) are used to pay for
+37 closing transaction costs for entering into the lease and for
+38 the purchase of the housing unit, and after such costs are sub-
+39 tracted from the purchaser's liquid assets, such assets are below
+40 twenty-five thousand dollars ($25,000); and
+41 (v) The lessee shall not sell any housing unit located on the
+42 property at a price greater than one (1) of the following formulas,
+43 to be designated in the lease:
+44 1. The amount equal to the increase in value of the housing
+45 unit, including any fixtures or improvements to the housing
+46 unit made by the lessee, using the inflation rate from the
+47 time of purchase to the time of sale as determined by a third-
+48 party appraiser. The inflation rate used shall be the unad-
+49 justed consumer price index for all urban consumers as pub-
+50 lished by the United States department of labor;
+
+5
+1 2. Twenty-five percent (25%) of total market appreciation
+2 as determined by the difference between the purchase price
+3 of the housing unit, including any fixtures or improvements
+4 to the housing unit made by the lessee, and the appraised
+5 value at the time of resale; or
+6 3. A fixed annual percentage accretion over the purchase
+7 price of the housing unit, including any fixtures or im-
+8 provements to the housing unit made by the lessee, not to
+9 exceed five percent (5%).
+10 (f) "Lessee" means the person who leases property from a land trust and
+11 who owns a residential housing unit located on such land that serves as
+12 such lessee's primary dwelling place as that term is defined in section
+13 63-701, Idaho Code.
+14 (3)(a) For the donation of real property to a land trust that, by the
+15 terms of its governing corporate documents, services lessee households
+16 with an income of no more than eighty percent (80%) of the area median
+17 income:
+18 (i) If the taxpayer purchased the property, the taxpayer shall
+19 receive a tax credit in the amount of fifty percent (50%) of the
+20 difference between the purchase price of the property and the ap-
+21 praised value of such property at the time of the donation as de-
+22 termined by a third-party appraiser; or
+23 (ii) If there was no purchase price when the taxpayer acquired the
+24 property, the taxpayer shall receive a tax credit in the amount
+25 of fifty percent (50%) of the difference between the tax basis of
+26 the property at the time the taxpayer acquired the property and
+27 the appraised value at the time of the donation as determined by a
+28 third-party appraiser.
+29 (b) For the donation of real property to a land trust that, by the terms
+30 of its governing corporate documents, services lessee households with
+31 an income greater than eighty percent (80%) but no more than one hundred
+32 percent (100%) of the area median income:
+33 (i) If the taxpayer purchased the property, the taxpayer shall
+34 receive a tax credit in the amount of forty percent (40%) of the
+35 difference between the purchase price of the property at the time
+36 the taxpayer purchased the property and the appraised value at the
+37 time the taxpayer donated the property as determined by a third-
+38 party appraiser; or
+39 (ii) If there was no purchase price when the taxpayer acquired the
+40 property, the taxpayer shall receive a tax credit in the amount of
+41 forty percent (40%) of the difference between the tax basis at the
+42 time the taxpayer acquired the property and the appraised value
+43 at the time the taxpayer donated the property as determined by a
+44 third-party appraiser.
+45 (c) If the amount of any credit under this subsection is greater than
+46 the tax liability of the taxpayer, the excess amount may be carried for-
+47 ward by the taxpayer for a period that does not exceed the next ten (10)
+48 taxable years.
+49 (4) The state tax commission shall prescribe forms for the purpose of
+50 claiming the Idaho middle income land trust tax credit.
+
+6
+1 (5) Taxpayers claiming the credit shall:
+2 (a) Certify that, before donating the property to a land trust pursuant
+3 to the provisions of this section, the taxpayer requested and received a
+4 certification from a lawful agent of the land trust that the land trust
+5 properly qualifies pursuant to the provisions of this section; and
+6 (b) Retain all documents related to the transfer of the property to the
+7 land trust, including a copy of the deed, the land lease to which the
+8 donated property shall be subject, and the certification pursuant to
+9 paragraph (a) of this subsection, for ten (10) years after the filing of
+10 a return claiming the tax credit and shall submit such documents to the
+11 state tax commission upon request.
+12 (6) The state tax commission shall deny or recapture credits claimed by
+13 a taxpayer for claiming credit amounts not authorized by the provisions of
+14 this section.
+15 SECTION 3. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after its
+17 passage and approval, and retroactively to January 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YRNAGTOIET;AGCR3,TE6,IOC,BYTNOFANWSN6,IOC,TOEHPGTEMEIEPYDTTXC;AGCR3,TE6,IOC,BYTEANOFANWS,IOC,TOEHPSRGTEMEIELDTTTXC;ADDGANEYADPEAeItEdbyteLeofteSeofIN1.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.MEIEPYDTTXC.()TeiycdteIomeiepydttxc.Bgintxyr2,teslbeadactattetdbytscrtoaytrttdsadssaddrdpyasddintss.Teatoftectfedtadseofaddrdpyslbeeltotebntesepeofteddrdpyadteadveofteddrdpyatteteofseasddbyatya.Ifteatoftectisgrtetxlyoftet,teesatmybecdfrapdttdsntedtenttn()tey)Asudintss)"amni"mstemniefrtemla,orcyifnomnslaaeeapyisl,asddbyteUdSsdtofhgadund)"drdp"msanycdrlsettpyddnte,oeitiscda,onldttissttoafeseddttispdintecyrsoefrtecyinwhtyisldadttcseecsrhteldasrdbyIolwttrtteseoft,atam,asf)Atteteofp,teproftepysgtoahdtthdatliefrtemtrdietxyrttwsatorbwoehdtt()oftemtctaeaamnirteaainwhtepyisl)Tepymtbeudastepshdpttosn6,IoC]
+[DELETED: )Teprisrdtoerioactwhdrnpmmradshddrnpmmrisodtovyttteprmstsstfhinss()ad()oftsp.Teprslberdtodealheintoteddrnpmm,igtepsmtrthdtxrsadpsfrtepssx()m.Tectslaorerrvstotepybyanatofteddrnpmmrtovycghdenqnaslgasteprostep.Iprnolrmstehdqnpntss,teprslberdtonytednpmm)Teprisrdfmsgtepyategrtnoe()oftefgfsasdnteddoft.Teateltoteieinveoftepyugteinrefmteteoftepftep,igayfsoristepymebytep,toteteofs.TnreudslbeteudcrpxfraluncsaspdbyteUsdtofl.Tept()oftlmtaftep,igayfsoristepymebytep,whsleltebnteadveatteteoftlpeadteadveatteteofssddbyatya;o.Afdalpeanortepeoftep,igayfsoristotepymebytep,nttoeept(;a)Tecsrgwhteldinshd,ierspdintsp,slbebgoepyfratltsy()y)"drnpmm"msantetfmflietnpttosn5)oeIlReCeedfrtepeofmgddp.Atam,apmmrslpefgcldsfraddrdpyfebsfrtetxctpdbytss)Vyttteprofaddrdpymeiersstfhinph()oftss,byr,r,adrgteietsoftepradtepshdfrttrttxyradtepyssoftepradtshdfrtepssx()m]
+[DELETED: )Vyttteprofaddrdpyisugtepyastepshdpttos,IoC,byrgadrgasdcnfmteprttuntep,teplqyastepshdpttos,IoC;a)Cthevsofteddrdpyatlo()tspryrfraslgasteprostep,tovyttteprisugtepyastshdpttosn6,IoC)""slhetesemgaspdins,IoC)""msisoren()ysofagtrinteser,etfrcnofhdmswoaelginteheadaeedadayeni,tes,orv.Tetmdsntiebafel,t,osadbsonc)""slhetesemgaspdins,IoC)TesetxcnslpefsfrtepeogteIomeiepydttxc)Tscgtects)Erioawnctwhaddrnpmmrwyshpmmrisodtovypreypttosn()ad()oftss,aopeogcewhteddrsaspdin()oftss;a)Rnaldsrdtoteseofteddr,igacyofterdddadtecsrgwhteldadtectwhteddrnp.Tetrslrnshdsfrtn()yrtefgofarncgtetxctadslshdstotesetxcnunr)TesetxcnsldyorrecscdbtrfrcgctasntadbytepsossN2.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.MEIELDTTTXC.()TeishdteIomeieldtttxc.Bgintxy,teslbeadactattetsidbytscrtoaytrttdsfeseldtoaldttinahtepsoftss)Asudintss)"amni"mstemniefrtemla,orcyifnomnslaae]
+[DELETED: eahgutisl,asddbyteUdSsdtofhgadund)""slhetesemgaspdins,IoC)""msisoren()ysofagtrinteser,etfrcnofhdmswoaelginteheadaeedadayeni,tes,orv.Tetmdsntiebafel,t,osadbsonc)""slhetesemgaspdins,IoC)"dt"msanteyetfmfetnpttosn5)ofteIlRetthsrlpyinttfrtepeoflgslpytolswopeadonrlhgudonteldl.ShhgusslbesttodlettisrdbyIol.Shldlewhaltslh,atam,tefgr)Teldleslbefratmofatltne()Teleslbgtoahdwhatliearbwoehdpt()ofteaamniewehgutisl)Tehgutbgpdmtbetelspydgpeastttmisddinsn6oC)Tetlldasoftelsh,igc,bkatf,s,b,adayoratcnberycdtoUdSsc,adngrta,slbeldtoanateote()msoftehsrge,alntedtetdds()atteofegioteldl.Hswhldasgrtnshltslqyiftefsgntetdds()aeudtopyfgtncsfregioteleadfepeoftehgu,adarshcsaesdfmtepslda,shasaebetdds(;a)Teleslntslayhgutldontyatapegrtnoe()oftefgfobeddintel.Teateltoteieinveofteh,igayfsoristotehtmebytel,ugteinrefmteofpetoteteofseasddbyatya.TeinreudslbeteudcrpeixfraluncsaspdbyteUdSsdtofl]
+[DELETED: .Tept()oftlmtasddbytedebntepepftehgu,igayfsoriotehgutmebytel,adteaeatteteofr;o.Afdalpeanortepeoftehgu,igayfsoristotehgutmebytel,nttdfept()""mstepnwolspyfmaldttaoosarlhgutldonshldttssahlspydgpeastttmisddins,IoC)Frtednofrlpytoaldttt,bytsofisggced,sslehhanieofnometneypt()ofteaam)Iftetrpdtep,tetrseatxctinteatoffypt()oftebntepepeoftepyadteadveofshpyatteteoftednasddbyatya;o)Iftewsnopepewntetradt,tetrslreatxctinteaffypt()oftedebntetxbsoepyattetetetradtepyaeadveatteteoftednasddbyya)Frtednofrlpytoaldttt,bytetfisggced,sslehswniegrtneypt()btnometnoeht()ofteaamni)Iftetrpdtep,tetrseatxctinteatoffypt()oftebntepepeoftepyattetetrpdtepyadteadveattetetrddtepyasddbyatya;o)Iftewsnopepewntetradt,tetrslreatxctinteatoypt()oftedebntetxbsattetetradtepyadteadvttetetetrddtepyasddbyya)Ifteatofaycturtssnisgrtetxlyoftet,teesatmybecdfdbytetrfrapdttdsntedtenttn(ey)TesetxcnslpefsfrtepeogteIomeieldtttxc]
+[DELETED: )Tscgtects)Cyt,bedgtepytoaldttpotepsoftss,tetrrdadrdnfmallatofteldttttteldtyqspttotepsoftss;a)Rnaldsrdtotetroftepytotdt,igacyofted,teldletowhtdpyslbes,adtecnptth()oftss,frtn()ysartefgorncgtetxctadslstshdstotetxcnunr)TesetxcnsldyorrecscdbtrfrcgctasntadbytepsossN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada,adrytoJy1,2]

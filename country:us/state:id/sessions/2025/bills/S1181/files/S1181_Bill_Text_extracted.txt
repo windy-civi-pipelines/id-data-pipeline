@@ -1,0 +1,830 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1181
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC DEFENSE; PROVIDING LEGISLATIVE FINDINGS AND INTENT;
+3 AMENDING SECTION 1-1105, IDAHO CODE, TO REVISE A PROVISION REGARDING
+4 A CHARGE FOR A TRANSCRIPT AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+5 SECTION 16-2009, IDAHO CODE, TO REVISE A PROVISION REGARDING COUNSEL
+6 BEING PROVIDED AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+7 19-6005, IDAHO CODE, TO PROVIDE FOR CERTAIN POWERS AND DUTIES OF THE
+8 STATE PUBLIC DEFENDER, TO REVISE A DUTY OF THE STATE PUBLIC DEFENDER,
+9 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 19-6006, IDAHO
+10 CODE, TO REVISE A PROVISION REGARDING DISTRICT PUBLIC DEFENDERS; AMEND-
+11 ING SECTION 19-6008, IDAHO CODE, TO REVISE PROVISIONS REGARDING INDI-
+12 GENT PUBLIC DEFENSE AND THE ROLE OF COUNTIES AND TO REMOVE PROVISIONS
+13 REGARDING PUBLIC DEFENSE COMMISSION RULES AND THE TRANSITION OF PUB-
+14 LIC DEFENSE SERVICES; AMENDING SECTION 19-6009, IDAHO CODE, TO REVISE
+15 A PROVISION REGARDING REPRESENTATION BY AN ATTORNEY, TO PROVIDE THAT
+16 THE OFFICE OF THE STATE PUBLIC DEFENDER SHALL BE REQUIRED TO PROVIDE
+17 INDIGENT DEFENSE SERVICES ONLY IN CERTAIN CASES, AND TO MAKE A TECHNICAL
+18 CORRECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+19 Be It Enacted by the Legislature of the State of Idaho:
+20 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. Public defense is an es-
+21 sential government service, and the Legislature is committed to fulfilling
+22 the state's responsibility to provide a legal defense for certain indigent
+23 defendants. In fulfilling this responsibility, the Legislature is equally
+24 committed to the responsible and conscientious use of taxpayer resources.
+25 To assist in ensuring that funds appropriated to the Office of the State Pub-
+26 lic Defender are used efficiently and effectively, the Legislature hereby
+27 directs that the Office of the State Public Defender include the following in
+28 its fiscal year 2027 budget request:
+29 (1) A proposed statewide facilities transition plan that shall include
+30 a phased-in schedule for transitioning from county-provided facilities to
+31 state-owned or state-leased facilities during the period of July 1, 2027,
+32 through July 1, 2029. Such plan shall prioritize first transitioning to
+33 state-owned or state-leased facilities in those counties determined by the
+34 State Public Defender, in consultation with the respective district public
+35 defenders and county commissioners, to provide for the most efficient and
+36 effective operation of the Office of the State Public Defender; and
+37 (2) A report on the current number of contracts for public defense at-
+38 torneys and an analysis of the efficiency and cost-effectiveness of transi-
+39 tioning a portion or all of those contracted services to be performed by em-
+40 ployees of the state public defender's office. Such analysis shall be de-
+41 veloped in consultation with the respective district public defenders and
+42 county commissioners.
+2
+1 SECTION 2. That Section 1-1105, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 1-1105. COPY OF RECORD -- EFFECT -- CHARGE FOR FURNISHING. 1. (1) It
+4 shall be the duty of each reporter to furnish, upon order of the court entered
+5 upon written application being made therefor by any attorney of record in a
+6 suit, or any party to a suit, in which a stenographic record has been made,
+7 a typewritten copy, or copies, of the record, or any part thereof, upon the
+8 payment by such attorney, or party, of the cost thereof, as provided in sub-
+9 section 2. (2) of this section, to such reporter, which payment shall be re-
+10 tained by the reporter as a part of his compensation and in addition to his
+11 salary allowed by section 1-1102, Idaho Code. Said copy, or copies, shall,
+12 when properly certified by said reporter, constitute prima facie the minutes
+13 of the court, and may be used on all motions for new trials, review or appeal,
+14 when the minutes of the court may be used; and the cost of which may, when the
+15 same is used on review or appeal, be charged as costs in a civil case against
+16 the party finally defeated in the action.
+17 2. (2) That in all actions such reporter shall charge and receive, and
+18 retain as provided in subsection 1. (1) of this section, three dollars and
+19 twenty-five cents ($3.25) per page for the transcript to be prepared in the
+20 style and with the number of copies as directed by rule of the supreme court;
+21 provided, however, that when such transcript is requested by a defendant
+22 or his attorney on an appeal in a criminal action where after conviction,
+23 it appears to the satisfaction of the district court that the accused is
+24 poor and unable to procure such transcript, the court must direct payment to
+25 such court reporter of the page charge in this subsection provided, from the
+26 county treasury by the state public defender.
+27 SECTION 3. That Section 16-2009, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 16-2009. HEARING. (1) Cases under this act shall be heard by the court
+30 without a jury. The hearing may be conducted in an informal manner and may be
+31 adjourned from time to time. Stenographic notes or mechanical recording of
+32 the hearing shall be required. The general public shall be excluded and only
+33 such persons admitted whose presence is requested by any person entitled to
+34 notice under the provisions of section 16-2007, Idaho Code, or as the judge
+35 shall find to have a direct interest in the case or in the work of the court;
+36 provided that persons so admitted shall not disclose any information secured
+37 at the hearing which would identify an individual child or parent. The court
+38 may require the presence of witnesses deemed necessary to the disposition of
+39 the petition, except that a parent who has executed a waiver pursuant to sec-
+40 tion 16-2007, Idaho Code, shall not be required to appear at the hearing.
+41 (2) The parent or guardian ad litem shall be notified as soon as prac-
+42 ticable after the filing of a petition and prior to the start of a hearing
+43 of his right to have counsel, and, if counsel is requested and the parent
+44 or guardian is financially unable to employ counsel, counsel shall be pro-
+45 vided only if such representation is constitutionally required. The pros-
+46 ecuting attorneys of the several counties shall represent the department at
+47 all stages of the hearing.
+3
+1 (3) The court's finding with respect to grounds for termination shall
+2 be based upon clear and convincing evidence under rules applicable to the
+3 trial of civil causes, provided that relevant and material information of
+4 any nature, including that contained in reports, studies or examinations,
+5 may be admitted and relied upon to the extent of its probative value. When
+6 information contained in a report, study or examination is admitted in evi-
+7 dence, the person making such report, study or examination shall be subject
+8 to both direct and cross-examination.
+9 SECTION 4. That Section 19-6005, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 19-6005. POWERS AND DUTIES OF THE STATE PUBLIC DEFENDER. Consistent
+12 with the state of Idaho's obligation to provide indigent public defense pur-
+13 suant to the sixth amendment to the United States constitution; section 13,
+14 article I of the constitution of the state of Idaho; and this chapter, the
+15 state public defender shall have the power to:
+16 (1) Ensure that qualified defending attorneys, experts, investiga-
+17 tors, mitigation specialists, stenographers, paralegals, or other support
+18 staff and assistants are employed or contracted as necessary to carry out the
+19 purposes of this chapter, that the same deliver indigent defense services in
+20 compliance with applicable indigent defense standards, and that any persons
+21 hired or contracted to provided provide indigent individuals charged with an
+22 offense or offenses punishable by a sentence of death be qualified to pro-
+23 vide team representation. Provided, however, the terms of any contract with
+24 a defending attorney shall not include any pricing structure that charges
+25 or pays a single fixed fee for the services of the defending attorney and
+26 client-related expenses;
+27 (2) Provide appropriate facilities, including office space, furni-
+28 ture, equipment, books and other legal research tools, postage, supplies,
+29 and secure information and communication technology equipment that is rea-
+30 sonably necessary for the proper performance of the state public defender;
+31 (3) Implement procedures for the oversight, implementation, enforce-
+32 ment, and improvement of indigent defense standards so that the right to
+33 counsel of indigent persons is constitutionally delivered to all indigent
+34 persons in this state;
+35 (4) Implement the most current American bar association standards for
+36 defending attorneys delivering indigent defense pursuant to this chapter,
+37 including caseload standards; Collaborate with district public defenders to
+38 establish Idaho standards for defending attorneys that, to the extent rea-
+39 sonably practical and considering factors such as case complexity, support
+40 services, and travel, utilize the following principles:
+41 (a) The delivery of indigent defense services should be independent of
+42 political and judicial influence, though the judiciary is encouraged to
+43 contribute information and advice concerning the delivery of indigent
+44 defense services;
+45 (b) Defending attorneys should have sufficient time and private phys-
+46 ical space so that attorney-client confidentiality is safeguarded dur-
+47 ing meetings with clients;
+48 (c) Defending attorneys' workloads should permit effective represen-
+49 tation;
+4
+1 (d) Economic disincentives or incentives that impair defending attor-
+2 neys' ability to provide effective representation should be avoided;
+3 (e) Defending attorneys' abilities, training, and experience should
+4 match the nature and complexity of the cases in which they provide ser-
+5 vices, including but not limited to cases involving complex felonies,
+6 juveniles, and child protection;
+7 (f) The defending attorney assigned to a particular case should, to the
+8 extent reasonably practicable, continuously oversee the representa-
+9 tion of that case and appear at every substantive court hearing;
+10 (g) There should be reasonable parity between defending attorneys and
+11 prosecuting attorneys with respect to resources, staff, and facili-
+12 ties;
+13 (h) Defending attorneys shall be regularly reviewed and supervised for
+14 compliance with indigent defense standards and, if applicable, compli-
+15 ance with indigent defense standards as set forth in contractual provi-
+16 sions; and
+17 (i) Defending attorneys shall identify and resolve conflicts of in-
+18 terest in conformance with the Idaho rules of professional conduct and
+19 other applicable constitutional standards;
+20 (5) Collaborate with district public defenders to establish and im-
+21 plement Idaho-based workload standards for defending attorneys taking into
+22 consideration the following factors:
+23 (a) The education, training, abilities, and experience of the defend-
+24 ing attorney;
+25 (b) The number of cases assigned to the defending attorney; and
+26 (c) Case complexity;
+27 (5) (6) Provide training and continuing legal education approved by the
+28 Idaho state bar for defending attorneys and employees that promotes compe-
+29 tency and consistency in case types defended by the state public defender;
+30 (6) (7) Require defending attorneys, contractors, and employees to
+31 keep appropriate records, consistent with uniform data-reporting require-
+32 ments, respecting each person to whom the state public defender is responsi-
+33 ble for providing defense, including but not limited to caseload, workload,
+34 and expenditures;
+35 (7) (8) Establish uniform contracts both for contract defending attor-
+36 neys, where utilized throughout the state or when caseload volumes require
+37 their use, and for conflict defending attorneys, when carrying out the pur-
+38 poses of this chapter. Contract pay rates shall be informed by the prevail-
+39 ing statewide market rate, local market conditions, and case complexity;
+40 (8) (9) Establish a uniform system for contracting with qualified at-
+41 torneys to carry out the purposes of this chapter, including a system for ap-
+42 plication, payment for services, and reimbursement; and
+43 (9) (10) Collaborate with district public defenders on the policies of
+44 the office and in the formation of a budget request sufficient to meet the
+45 state's constitutional obligation to provide indigent services, which the
+46 state public defender shall submit to the division of financial management
+47 as required by law.; and
+48 (10) (11) Seek reimbursement from any applicable federal funds at the
+49 department of health and welfare for any allowable costs of representation
+50 or administrative costs for any representation authorized by this chapter,
+5
+1 whether provided by employees of the office of the state public defender or
+2 by contract.
+3 SECTION 5. That Section 19-6006, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 19-6006. DISTRICT PUBLIC DEFENDER. (1) In each judicial district de-
+6 scribed in chapter 8, title 1, Idaho Code, the state public defender shall
+7 employ a district public defender. The district public defender must be an
+8 employee of the office of the state public defender, meet and maintain the
+9 qualifications set forth in section 19-6004(2), Idaho Code, and not engage
+10 in any conduct prohibited by section 19-6004(3), Idaho Code, while employed
+11 as district public defender. The district public defender may be removed by
+12 the state public defender for failing to maintain the qualifications of the
+13 position established in this section, for engaging in conduct prohibited by
+14 this section, or for good cause shown. The duty station of each district pub-
+15 lic defender must be within the judicial district that the district public
+16 defender oversees.
+17 (2) Under the direction and supervision of the state public defender,
+18 each district public defender shall carry out the purposes of this chapter
+19 in the judicial district, including supervising the defending attorneys,
+20 investigators, administrative staff, and other personnel in that judicial
+21 district, whether hired or contracted to work in that judicial district,
+22 coordinating litigation within that judicial district, assuring compliance
+23 with the provisions of section 19-6005, Idaho Code, as well as other duties
+24 assigned by the state public defender.
+25 (3) The district public defender shall be the principal liaison with
+26 the administrative district judge, the trial court administrator, the
+27 boards of county commissioners, county clerks, and county prosecutors on
+28 administrative matters concerning the provision of public defense in the ju-
+29 dicial district. Upon invitation, but not less than annually, the district
+30 public defender shall report to each board of county commissioners within
+31 the judicial district concerning public defense in the respective county.
+32 SECTION 6. That Section 19-6008, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 19-6008. INDIGENT PUBLIC DEFENSE -- ROLE OF COUNTIES -- PUBLIC DEFENSE
+35 COMMISSION RULES -- TRANSITION. (1) Notwithstanding any provision of law to
+36 the contrary, on and after October 1, 2024:
+37 (a) All counties are released from any further financial or legal obli-
+38 gation to provide indigent public defense. On and after such date, the
+39 state assumes the full financial and legal obligation to provide indi-
+40 gent public defense pursuant to required by the sixth amendment to the
+41 United States constitution and section 13, article I of the constitu-
+42 tion of the state of Idaho.
+43 (b) (2) This release of financial and legal obligation to provide in-
+44 digent public defense includes the release of any requirement for counties:
+45 to employ or contract with defending attorneys, investigators, social work-
+46 ers, legal assistants, or other personnel necessary to provide indigent pub-
+47 lic defense; to provide office furnishings, equipment, office materials,
+6
+1 or office supplies; to provide information technology equipment, informa-
+2 tion technology software, communication equipment, communication software,
+3 equipment, or software licenses or subscriptions; to provide general office
+4 technology or equipment; or to assume any other expense necessary for indi-
+5 gent defense services on and after October 1, 2024.
+6 (c) (3) Notwithstanding the provisions of this section, any county pro-
+7 viding office space to a county office of public defense or a joint county
+8 office of public defense as of January 1, 2023, shall continue to make avail-
+9 able the same or substantially similar office space for the use of the office
+10 of the state public defender until July 1, 2029, provided that:
+11 (i) (a) Not later than January 1, 2027, the state public defender must
+12 provide to the board of county commissioners of any county providing
+13 office space to the office of the state public defender a facility
+14 transition plan outlining the state public defender's intent to either
+15 procure other office space to house defending attorneys or enter into a
+16 contract with the board of county commissioners to lease office space
+17 from the board of county commissioners necessary to house defending
+18 attorneys;
+19 (ii) (b) Nothing in this section shall be construed to obligate a board
+20 of county commissioners to provide office space to the office of the
+21 state public defender on and after July 1, 2029;
+22 (iii) (c) Nothing in this section shall prohibit the state public de-
+23 fender from notifying a board of county commissioners that provides
+24 office space to the office of the state public defender that the state
+25 public defender no longer needs part or all of the space obligated by
+26 this section prior to July 1, 2029. Such notice shall relieve the county
+27 board of commissioners of the obligation to provide office space to the
+28 office of the state public defender; and
+29 (iv) (d) Notwithstanding the provisions of this section, each county
+30 must continue providing interviewing facilities in the county jail nec-
+31 essary for carrying out the state public defender's responsibilities in
+32 law.
+33 (d) (4) The state public defender shall reimburse a board of county com-
+34 missioners for any expenses incurred in providing such office space, includ-
+35 ing but not limited to office furnishings, equipment, office materials, or
+36 office supplies; information technology equipment, information technology
+37 software, communication equipment, communication software, equipment, or
+38 software licenses or subscriptions; or general office technology or equip-
+39 ment or related expenses. Provided however, that counties providing such
+40 office space shall be responsible for costs related to office utilities, of-
+41 fice cleaning, building maintenance, snow removal, and repair and replace-
+42 ment costs due to reasonable use of the office space. The board of county
+43 commissioners and the state public defender shall annually enter into a mem-
+44 orandum of understanding regarding the use of such office space.
+45 (e) All administrative rules promulgated by the state public defense
+46 commission shall be repealed in accordance with the provisions of chap-
+47 ter 52, title 67, Idaho Code.
+48 (2) To effectuate an orderly transition to the office of the state pub-
+49 lic defender without unnecessary disruption of indigent defense services,
+50 counties and defending attorneys shall not prohibit access by the state
+7
+1 public defender, or his designee, to information and data, including case
+2 files, that are necessary to establish a statewide case management system or
+3 for other administrative purposes in establishing the office of the state
+4 public defender. The state public defender and any designee shall have the
+5 ethical duty and legal obligation to maintain confidentiality and privacy
+6 of any information learned or obtained during the course of transition to
+7 the office of the state public defender while counties continue to provide
+8 indigent defense services. The state public defender at his discretion may
+9 require defending attorneys to use a case management system procured by the
+10 state public defender at no expense to counties or defending attorneys.
+11 (3) Upon termination of the public defense commission on July 1, 2024,
+12 all property and full-time positions at the commission shall transfer to the
+13 office of the state public defender.
+14 (4) All administrative rules promulgated by the public defense commis-
+15 sion shall remain in effect while counties continue to provide indigent de-
+16 fense until October 1, 2024, when that obligation ends pursuant to this sec-
+17 tion.
+18 (5) To the greatest extent possible, the state public defender and dis-
+19 trict public defenders shall provide the option to defending attorneys em-
+20 ployed by a county office of public defender or joint office of public de-
+21 fender on September 30, 2024, who meet the requirements and standards for de-
+22 fending attorneys, as well as support staff, the opportunity to continue em-
+23 ployment with the office of the state public defender working in the county
+24 that previously employed them.
+25 (6) District magistrates commissions shall coordinate with the state
+26 public defender and begin the process of recruiting applicants, reviewing
+27 candidates, and selecting each district public defender as soon as practica-
+28 ble after July 1, 2024.
+29 (7) In order to advise the state public defender and provide input from
+30 counties and defending attorneys during the transition, the state public de-
+31 fender shall appoint a volunteer transition advisory board to advise on mat-
+32 ters related to the transition of public defense through October 1, 2024.
+33 Board members shall be compensated as provided in section 59-509(a), Idaho
+34 Code. The board shall be composed of:
+35 (a) Two (2) representatives from the Idaho association of counties; and
+36 (b) Seven (7) attorneys, with one (1) attorney from each judicial
+37 district, whose practice, as certified by them at the time of their ap-
+38 pointment, is predominately criminal defense, among whom not less than
+39 three (3) must be defending attorneys who are employed by a county or
+40 joint office of public defense, and not less than two (2) must be de-
+41 fending attorneys who contract with counties to provide public defense
+42 services.
+43 SECTION 7. That Section 19-6009, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 19-6009. RIGHT TO COUNSEL OF INDIGENT PERSON -- REPRESENTATION AT ALL
+46 STAGES OF CRIMINAL AND COMMITMENT PROCEEDINGS -- PAYMENT. (1) An indigent
+47 person who is being detained by a law enforcement officer, who is confined
+48 or is the subject of hospitalization proceedings pursuant to section 18-212,
+49 66-322, 66-326, 66-329, 66-404 or 66-406, Idaho Code, or who is under formal
+8
+1 charge of having committed, or is being detained under a conviction of, a se-
+2 rious crime is entitled:
+3 (a) To be represented by an attorney to the same extent as a person hav-
+4 ing his own counsel is so entitled; and
+5 (b) To be provided with the necessary services and facilities of repre-
+6 sentation, including investigation and other preparation. The attor-
+7 ney, services and facilities, and the court costs shall be provided at
+8 public expense to the extent that the person is, at the time the court
+9 determines indigency pursuant to section 19-6011, Idaho Code, unable to
+10 provide for their payment.
+11 (2) An indigent person who is entitled to be represented by an attorney
+12 under subsection (1) of this section is entitled:
+13 (a) To be counseled and defended at all stages of the matter beginning
+14 with the earliest time when a person providing his own counsel would be
+15 entitled to be represented by an attorney and including revocation of
+16 probation;
+17 (b) To be represented in any appeal; and
+18 (c) To be represented in any other post-conviction or post-commitment
+19 proceeding that the attorney or the indigent person considers appro-
+20 priate, unless the court in which the proceeding is brought determines
+21 that it is not a proceeding that a reasonable person with adequate means
+22 would be willing to bring at his own expense and is therefore a frivolous
+23 proceeding.
+24 (3) Upon a finding of indigency, representation by an attorney under
+25 subsection (1) of this section shall include the following cases, excluding
+26 those cases where the state appellate public defender has jurisdiction pur-
+27 suant to section 19-5905, Idaho Code, and excluding those cases of guardian
+28 ad litem representation pursuant to section 16-1614(4), Idaho Code:
+29 (a) Felony and misdemeanor cases;
+30 (b) Actions arising under the Idaho juvenile corrections act, chapter
+31 5, title 20, Idaho Code;
+32 (c) Proceedings under the uniform post-conviction procedure act, chap-
+33 ter 49, title 19, Idaho Code;
+34 (d) Civil contempt proceedings where incarceration is sought;
+35 (e) Actions arising under the child protective act, chapter 16, title
+36 16, Idaho Code, but excluding actions brought exclusively under chapter
+37 20, title 16, Idaho Code; and
+38 (f) Appeals from adjudicatory decrees or orders under section 16-1625,
+39 Idaho Code.
+40 (4) The office of the state public defender shall be required to provide
+41 indigent defense services only in cases listed in subsection (3) of this sec-
+42 tion, provided that such limitations shall not obligate a county to finance
+43 or oversee indigent defense service for any action not provided for in this
+44 chapter.
+45 (4) (5) An indigent person's right to a benefit under subsection (1) or
+46 (2) of this section is unaffected by his having provided a similar benefit at
+47 his own expense, or by his having waived it, at an earlier stage.
+48 SECTION 8. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after
+50 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YJYADRSCNAGTOPCD;PGLEFSADIGSN1,IOC,TOREAPNRCEFRATTADTOMETLC;AN1,IOC,TOREAPNRGCGPDADTOMETLC;AGS,IOC,TOPEFRCNPSADDSOFTEPCD,TOREADYOFTESEPCDDTOMETLC;AGSN1,I,TOREAPNRGDTPCD;AGSN1,IOC,TOREPSRGITPCDEADTEREOFCSADTOREPGPCDECNRSADTETNOFPCDES;AGSN1,IOC,TORPNRGRNBYANA,TOPETEOEOFTESEPCDRSLBERDTOPTDESSOYINCNC,ADTOMEAT;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEFSADI.Pcdeisanelgts,adteLeiscdtofessrytopealldefrcni.Infgtsr,teLeisedtotereadcsueoftrroatinegttfsadtoteOeofteSePcDraeudeyade,teLehsttteOeofteSePcDrietefgisflyr27btr)ApdsefstnpnttslipnsefrtgfmcdfstdorsdfsdgtepdofJy1,2hJy1,2.ShpnslpefttgtdorsdfsintecsddbytePcD,incnwhteredtpsadcyc,topefrtemtetaeonofteOeofteSePcD;a)Artontectnrofcsfrpcdeasadanasofteeyadcsoftgapnoraloftecdsstobepdbyesoftesepcdso.Shasslbeddincnwhteredtpcdsayc]
+[DELETED: N2.TtSn1,IoC,b,adteseishdtordasf.CYOFRD--ET--CEFRF.1.()Ilbetedyofehrrtof,unoroftectenwnanbgmetrbyayayofrdin,oraypytoas,inwhascrdhsbnmtnc,orc,ofter,orayptt,unttbysha,orp,oftectt,aspdinsn2.()oftss,toshr,whptslberdbyterrasaptofhscnadinantohyadbysn1,IoC.Sdc,orc,snpycdbysdr,cepafetemftec,admybeudonalmsfrnwt,rworantemsoftectmybeu;adtectofwhm,wnteisudonrwora,becdascsinaclceaepyfyddintea.()Ttinalasshrrslceadr,anaspdinsn1.()oftss,tedsaecs()prpefrtetttobepdinteadwhtenrofcsasddbyreoftesec,h,ttwnshttisrdbyadrhsayonanalinaclanwearctastotesnoftedtctttteadiraduetopesht,tectmtdtptthctrroftepeceintssnp,fmtytybytesepcdN3.TtSn1,IoC,b,adteseishdtordasf.H.()Csurtsatslbehdbytectaj.Tehgmybecdinanilmradmybdfmtetot.Scnsormlrgoehgslber.Teglpcslbeedadohpsadwepeisrdbyaypnedteurtepsofsn1,IoC,orastejlfdtoheadtitinteceorintewkoftecdttpssoadslntdeayinsttehgwhwdiyanilcdorp.Tecyretepeofwsddnytotednoep,etttaptwohsedawrpttosn1,IoC,slntberdtoaratteh)Teptorgnadlmslbendassnaspeartefgofapnadprtotestofahfhsrttohec,a,ifclisrdadteprgnisfyuetoeyc,clslbepdoyifshrniscyr.Tepgasofteslcsslrttedtalssofteh]
+[DELETED: )Tecsfgwhrttogsfrtnsebduncradcgeeurrsaetotlofclc,pdttrtadmlinoyn,igttcdinr,ssoreybeadadrduntoteetofispev.Wncdinar,syorenisadine,tepnmgshr,syorenslbesobhdtadcN4.TtSn1,IoC,b,adteseishdtordasf.PSADDSOFTESEPCD.ChteseofIsontopeitpcdepttoteshattoteUdSsc;sn1eIoftecnofteseofI;adtsc,tepcdrslheteprt)Eettqddga,e,i,mns,s,p,ororsfadasaeedorcdasnytocyottsoftsc,tttesedritdessiewhaeitdes,adttaypdorcdtopdpeitiscdwhaeorospebyaseofdhbeqdtopetmr.P,h,tetsofayctwdgayslntieaypgsettcrpsasefdfefrtessoftedgayade)Peaef,igoes,f,e,bsadorllrht,p,sdseinadcntyetttisrynyfrteprpeoftesepcd)Itpsfrteo,i,e,aditofitdesssottterttlofitpsiscyddtoalisintss)IttemtctAnbranssfgasdgitdepttotscgcds;CewhdtpcdsthIossfrdgast,toteetrypladcgfsshascec,s,adt,uetefgp)Tedyofitdesssdbeitoladjli,thtejyisedteinadaecgtedyofies)Dgassdhestteadpeplsesottatcyissddgmswhc)Dga'wssdpteer]
+[DELETED: )Ecdsoristtirdga'aytopeeernsdbea)Dga'a,t,adeeshteneadcyoftecsinwhtypes,igbtntldtocsigcxf,adcdp)Tedgayadtoaprces,tottryp,cyoeternofttceadarateysecth)Tesdberepybndgasagaswhrttor,s,adf)Dgasslberyrdadsdfewhitdessa,ifa,cewhitdessasstfhinclp;a)DgassliyadrecsofitincewhteIorsofplctaraecls)CewhdtpcdstoehaditIdwdssfrdgastgintefgf)Tee,t,a,adeeoftedga)Tenrofcsadtotedga;a)Cec)()Petgadcgllenadbytosebrfrdgasadesttpscyadcyincetsddbytesepcd)()Redga,c,adestpaer,ctwhumdgr,rgehpntowmtesepcdrisrefrpgd,igbtntldtoc,wde)()Ehumcsbhfrctdga,weudttteseorwncdvsrru,adfrctdga,wncgottepsoftsc.Ctpyrsslbeidbytepgsemtr,llmtc,adcec)()Ehaumsmfrcgwhqdastocyottepsoftsc,igasmfra,ptfrs,adr;a)()Cewhdtpcdsontepsoeoeadintefnofabtrtsttomttsclontopeits,whtepcdrslsttotednofflmsrdbyl;a)Skrtfmayaeflfsatttofhhadwefrayaecsofrraecsfrayrnadbytsc]
+[DELETED: rpdbyesofteoeoftesepcdroycN5.TtSn1,IoC,b,adteseishdtordasf.DTPCD.()Inehjldtddincr8,te1,IoC,tesepcdrsyadtpcd.Tedtpcdrmtbeaeofteoeoftesepcd,mtadmntsstfhinsn1,IoC,adntenayctpdbysn1,IoC,weesdtpcd.Tedtpcdrmyberdbesepcdrfrfgtomnteqsoftnedintss,freginctpdbss,orfrgdces.Tedysnofehdtpcdrmtbewntejldttttedtpro)Urtednadsnoftesepcdhdtpcdrslcyottepsoftscntejld,igsgtedga,aes,adorplinttj,wrhdorcdtowkinttjldglnwnttjld,agchtepsofsn1,IoC,aswlasorddbytesepcd)Tedtpcdrslbetepllnweaedtj,tetlcta,tsofcyc,cyc,adcypsoemscgtepnofpcdeintejld.Uni,btntlstna,tedcdrslrttoehbdofcycswejldtcgpcdeinterecN6.TtSn1,IoC,b,adteseishdtordasf.ITPCDE--REOFCS--PCDNRS--T.()Ngaypnoflwtec,onadarOr1,2)Alcsaerdfmayfrflorllontopeitpcd.Onadarshd,teasteflfladllontopeitpcdepttordbyteshattotdSscnadsn1,aeIoftecnofteseofI)()Tsreoffladllontopeitpcdeistereofayrtfrcoeyorctwhdga,i,slw,lla,ororplnytopeitpcd;topeoef,e,oem]
+[DELETED: roes;topeintye,intys,cne,cns,orselsors;topegloyore;ortoaeayoreenyfritdessonadarOr1,2)()Ngtepsoftss,aycypgoesetoacyoeofpcdeorajtceofpcdeasofJy1,2,slcetomeaeteseorsysroesefrteueofteoftesepcdrulJy1,2,pdt)()NtlrtnJy1,2,tesepcdrmetotebdofcycsofaycypesetoteoeoftesepcdrafnpnogtesepcdsittoeeoroesetohedgasoreriotwhtebdofcycstoleoesmtebdofcycsnytohed)()NgintssnslbecdtooeabfcycstopeoesetoteoeoftepcdronadarJy1,2)()NgintssnslpttesepcdrfmngabdofcycsttpesetoteoeoftesepcdrtttescdrnolrnsptoralofteseodbssnprtoJy1,2.Shneslretecdofcsofteontopeoesetoteoftesepcd;a)()Ngtepsoftss,ehctcepgigfsintecyjlnyfrcgottesepcdsrsi)()Tesepcdrslreabdofcycsfrayesidinpgshoes,igbtntldtooef,e,oem,oes;intye,int,cne,cns,e,oelsors;orgloetyoretorrde.Pdh,ttcspgseseslberefrcsrdtooeu,oec,bgm,swr,adrradrtcsdetoreueofteoes.Tebdofcsadtesepcdrslayerioammofugrgteueofshoes)Alaerspdbytesepcdnslberdinaewhtepsofcr5,te6,IoCoeeanoytntoteoeoftesepcdrwtuydnofitdessaddgasslntptasbytes]
+[DELETED: cd,orhsd,toinadd,igc,ttaenytoehasecemtsmororaepsinegteoeoftescd.Tesepcdradaydeslhetldyadllontomncyadpfayinldoroddgteceoftnteoeoftesepcdrwecscetoptdes.Tesepcdrathsdnmedgastoueacemtsmpdbytepcdratnoeetocsordga)UntnoftepcdecnonJy1,2lpyadfepsattecnsltrtoteoftesepcd)AlaerspdbytepcdecnslrninetwecscetopeitdeulOr1,2,wnttonespttotss)Totegtetp,tesepcdraddtpcdsslpeteontodgasedbyacyoeofpcdrorjtoeofpcdronSr3,2,womttersadssfrdga,aswlassts,teoytoceetwhteoeoftesepcdrwgintectpyedt)Dtmscsslcewhtescdradbntepsofrga,r,adsgehdtpcdrassnaspearJy1,2)Inortoaetesepcdradpeitfsaddgasdgtet,tesepcdrslatavrtnaybdtoaeonmsrdtotetnofpcdethOr1,2dmsslbecdaspdinsn5,I.Tebdslbecdo)To()rsfmteIoanofc;a)Sn()a,whoe()ayfmehj,wep,ascdbytmatteteoftra,ispycld,agwmntlste()mtbedgaswoaeedbyacyotoeofpcd,adntlstnto()mtbedgaswoctwhcstopepcdN7.TtSn1,IoC,b,adteseishdtordasf.RTTOCLOFITPN--RNATASOFCLADCTPS--P.()Aninwoisbgddbyalweto,woiscristestofhnpspttosn1,6,6,64or6,IoC,orwoisurf]
+[DELETED: eofhgc,orisbgdduracno,assceise)Toberdbyanaytoteseetasapnhghsonclissoe;a)Tobepdwhtenyssadfsofr,iginadorp.Tea,ssadf,adtectcsslbepdaceetoteettttepni,attetetecsiypttosn1,IoC,uetefrtrp)Anitpnwoisedtoberdbyanarsn()oftssnise)Tobecdadddatalssoftemrbhteettewnapnpghsonclwdbdtoberdbyanayadigrno)Toberdinaya;a)Toberdinayorpnorpgttteayorteitpncsa,ustectinwhtepgisbtdtitisntapgttarepnwhaemdbewgtobgathsoneeadisteaf)Unafgofi,rnbyanayun()oftssnslietefgc,eecsweteseaepcdrhsjnpttosn1,IoC,adegtecsofgdlmrnpttosn1,IoC)Fyadmrc)AsagurteIojecsa,c,te2,IoC)Psurteumpnpea,cr4,te1,IoC)Clctpsweiniss)Asagurtecdpea,cr1,t,IoC,btegasbteyurc,te1,IoC;a)Asfmaydsorosursn1oC)Teoeoftesepcdrslberdtoptdessoyincsldinsn()oftss,pdttshlsslntoeacytofroeitdesefrayanntpdfrint)()Anitpsrttoabtursn()o)oftssnisudbyhshgpdasrbtasone,orbyhshgwdi,atanersN8.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1181
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC DEFENSE; PROVIDING LEGISLATIVE FINDINGS AND INTENT;
+3 AMENDING SECTION 1-1105, IDAHO CODE, TO REVISE A PROVISION REGARDING
+4 A CHARGE FOR A TRANSCRIPT AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+5 SECTION 16-2009, IDAHO CODE, TO REVISE A PROVISION REGARDING COUNSEL
+6 BEING PROVIDED AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+7 19-6005, IDAHO CODE, TO PROVIDE FOR CERTAIN POWERS AND DUTIES OF THE
+8 STATE PUBLIC DEFENDER, TO REVISE A DUTY OF THE STATE PUBLIC DEFENDER,
+9 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 19-6006, IDAHO
+10 CODE, TO REVISE A PROVISION REGARDING DISTRICT PUBLIC DEFENDERS; AMEND-
+11 ING SECTION 19-6008, IDAHO CODE, TO REVISE PROVISIONS REGARDING INDI-
+12 GENT PUBLIC DEFENSE AND THE ROLE OF COUNTIES AND TO REMOVE PROVISIONS
+13 REGARDING PUBLIC DEFENSE COMMISSION RULES AND THE TRANSITION OF PUB-
+14 LIC DEFENSE SERVICES; AMENDING SECTION 19-6009, IDAHO CODE, TO REVISE
+15 A PROVISION REGARDING REPRESENTATION BY AN ATTORNEY, TO PROVIDE THAT
+16 THE OFFICE OF THE STATE PUBLIC DEFENDER SHALL BE REQUIRED TO PROVIDE
+17 INDIGENT DEFENSE SERVICES ONLY IN CERTAIN CASES, AND TO MAKE A TECHNICAL
+18 CORRECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+19 Be It Enacted by the Legislature of the State of Idaho:
+20 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. Public defense is an es-
+21 sential government service, and the Legislature is committed to fulfilling
+22 the state's responsibility to provide a legal defense for certain indigent
+23 defendants. In fulfilling this responsibility, the Legislature is equally
+24 committed to the responsible and conscientious use of taxpayer resources.
+25 To assist in ensuring that funds appropriated to the Office of the State Pub-
+26 lic Defender are used efficiently and effectively, the Legislature hereby
+27 directs that the Office of the State Public Defender include the following in
+28 its fiscal year 2027 budget request:
+29 (1) A proposed statewide facilities transition plan that shall include
+30 a phased-in schedule for transitioning from county-provided facilities to
+31 state-owned or state-leased facilities during the period of July 1, 2027,
+32 through July 1, 2029. Such plan shall prioritize first transitioning to
+33 state-owned or state-leased facilities in those counties determined by the
+34 State Public Defender, in consultation with the respective district public
+35 defenders and county commissioners, to provide for the most efficient and
+36 effective operation of the Office of the State Public Defender; and
+37 (2) A report on the current number of contracts for public defense at-
+38 torneys and an analysis of the efficiency and cost-effectiveness of transi-
+39 tioning a portion or all of those contracted services to be performed by em-
+40 ployees of the state public defender's office. Such analysis shall be de-
+41 veloped in consultation with the respective district public defenders and
+42 county commissioners.
+
+2
+1 SECTION 2. That Section 1-1105, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 1-1105. COPY OF RECORD -- EFFECT -- CHARGE FOR FURNISHING. 1. (1) It
+4 shall be the duty of each reporter to furnish, upon order of the court entered
+5 upon written application being made therefor by any attorney of record in a
+6 suit, or any party to a suit, in which a stenographic record has been made,
+7 a typewritten copy, or copies, of the record, or any part thereof, upon the
+8 payment by such attorney, or party, of the cost thereof, as provided in sub-
+9 section 2. (2) of this section, to such reporter, which payment shall be re-
+10 tained by the reporter as a part of his compensation and in addition to his
+11 salary allowed by section 1-1102, Idaho Code. Said copy, or copies, shall,
+12 when properly certified by said reporter, constitute prima facie the minutes
+13 of the court, and may be used on all motions for new trials, review or appeal,
+14 when the minutes of the court may be used; and the cost of which may, when the
+15 same is used on review or appeal, be charged as costs in a civil case against
+16 the party finally defeated in the action.
+17 2. (2) That in all actions such reporter shall charge and receive, and
+18 retain as provided in subsection 1. (1) of this section, three dollars and
+19 twenty-five cents ($3.25) per page for the transcript to be prepared in the
+20 style and with the number of copies as directed by rule of the supreme court;
+21 provided, however, that when such transcript is requested by a defendant
+22 or his attorney on an appeal in a criminal action where after conviction,
+23 it appears to the satisfaction of the district court that the accused is
+24 poor and unable to procure such transcript, the court must direct payment to
+25 such court reporter of the page charge in this subsection provided, from the
+26 county treasury by the state public defender.
+27 SECTION 3. That Section 16-2009, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 16-2009. HEARING. (1) Cases under this act shall be heard by the court
+30 without a jury. The hearing may be conducted in an informal manner and may be
+31 adjourned from time to time. Stenographic notes or mechanical recording of
+32 the hearing shall be required. The general public shall be excluded and only
+33 such persons admitted whose presence is requested by any person entitled to
+34 notice under the provisions of section 16-2007, Idaho Code, or as the judge
+35 shall find to have a direct interest in the case or in the work of the court;
+36 provided that persons so admitted shall not disclose any information secured
+37 at the hearing which would identify an individual child or parent. The court
+38 may require the presence of witnesses deemed necessary to the disposition of
+39 the petition, except that a parent who has executed a waiver pursuant to sec-
+40 tion 16-2007, Idaho Code, shall not be required to appear at the hearing.
+41 (2) The parent or guardian ad litem shall be notified as soon as prac-
+42 ticable after the filing of a petition and prior to the start of a hearing
+43 of his right to have counsel, and, if counsel is requested and the parent
+44 or guardian is financially unable to employ counsel, counsel shall be pro-
+45 vided only if such representation is constitutionally required. The pros-
+46 ecuting attorneys of the several counties shall represent the department at
+47 all stages of the hearing.
+
+3
+1 (3) The court's finding with respect to grounds for termination shall
+2 be based upon clear and convincing evidence under rules applicable to the
+3 trial of civil causes, provided that relevant and material information of
+4 any nature, including that contained in reports, studies or examinations,
+5 may be admitted and relied upon to the extent of its probative value. When
+6 information contained in a report, study or examination is admitted in evi-
+7 dence, the person making such report, study or examination shall be subject
+8 to both direct and cross-examination.
+9 SECTION 4. That Section 19-6005, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 19-6005. POWERS AND DUTIES OF THE STATE PUBLIC DEFENDER. Consistent
+12 with the state of Idaho's obligation to provide indigent public defense pur-
+13 suant to the sixth amendment to the United States constitution; section 13,
+14 article I of the constitution of the state of Idaho; and this chapter, the
+15 state public defender shall have the power to:
+16 (1) Ensure that qualified defending attorneys, experts, investiga-
+17 tors, mitigation specialists, stenographers, paralegals, or other support
+18 staff and assistants are employed or contracted as necessary to carry out the
+19 purposes of this chapter, that the same deliver indigent defense services in
+20 compliance with applicable indigent defense standards, and that any persons
+21 hired or contracted to provided provide indigent individuals charged with an
+22 offense or offenses punishable by a sentence of death be qualified to pro-
+23 vide team representation. Provided, however, the terms of any contract with
+24 a defending attorney shall not include any pricing structure that charges
+25 or pays a single fixed fee for the services of the defending attorney and
+26 client-related expenses;
+27 (2) Provide appropriate facilities, including office space, furni-
+28 ture, equipment, books and other legal research tools, postage, supplies,
+29 and secure information and communication technology equipment that is rea-
+30 sonably necessary for the proper performance of the state public defender;
+31 (3) Implement procedures for the oversight, implementation, enforce-
+32 ment, and improvement of indigent defense standards so that the right to
+33 counsel of indigent persons is constitutionally delivered to all indigent
+34 persons in this state;
+35 (4) Implement the most current American bar association standards for
+36 defending attorneys delivering indigent defense pursuant to this chapter,
+37 including caseload standards; Collaborate with district public defenders to
+38 establish Idaho standards for defending attorneys that, to the extent rea-
+39 sonably practical and considering factors such as case complexity, support
+40 services, and travel, utilize the following principles:
+41 (a) The delivery of indigent defense services should be independent of
+42 political and judicial influence, though the judiciary is encouraged to
+43 contribute information and advice concerning the delivery of indigent
+44 defense services;
+45 (b) Defending attorneys should have sufficient time and private phys-
+46 ical space so that attorney-client confidentiality is safeguarded dur-
+47 ing meetings with clients;
+48 (c) Defending attorneys' workloads should permit effective represen-
+49 tation;
+
+4
+1 (d) Economic disincentives or incentives that impair defending attor-
+2 neys' ability to provide effective representation should be avoided;
+3 (e) Defending attorneys' abilities, training, and experience should
+4 match the nature and complexity of the cases in which they provide ser-
+5 vices, including but not limited to cases involving complex felonies,
+6 juveniles, and child protection;
+7 (f) The defending attorney assigned to a particular case should, to the
+8 extent reasonably practicable, continuously oversee the representa-
+9 tion of that case and appear at every substantive court hearing;
+10 (g) There should be reasonable parity between defending attorneys and
+11 prosecuting attorneys with respect to resources, staff, and facili-
+12 ties;
+13 (h) Defending attorneys shall be regularly reviewed and supervised for
+14 compliance with indigent defense standards and, if applicable, compli-
+15 ance with indigent defense standards as set forth in contractual provi-
+16 sions; and
+17 (i) Defending attorneys shall identify and resolve conflicts of in-
+18 terest in conformance with the Idaho rules of professional conduct and
+19 other applicable constitutional standards;
+20 (5) Collaborate with district public defenders to establish and im-
+21 plement Idaho-based workload standards for defending attorneys taking into
+22 consideration the following factors:
+23 (a) The education, training, abilities, and experience of the defend-
+24 ing attorney;
+25 (b) The number of cases assigned to the defending attorney; and
+26 (c) Case complexity;
+27 (5) (6) Provide training and continuing legal education approved by the
+28 Idaho state bar for defending attorneys and employees that promotes compe-
+29 tency and consistency in case types defended by the state public defender;
+30 (6) (7) Require defending attorneys, contractors, and employees to
+31 keep appropriate records, consistent with uniform data-reporting require-
+32 ments, respecting each person to whom the state public defender is responsi-
+33 ble for providing defense, including but not limited to caseload, workload,
+34 and expenditures;
+35 (7) (8) Establish uniform contracts both for contract defending attor-
+36 neys, where utilized throughout the state or when caseload volumes require
+37 their use, and for conflict defending attorneys, when carrying out the pur-
+38 poses of this chapter. Contract pay rates shall be informed by the prevail-
+39 ing statewide market rate, local market conditions, and case complexity;
+40 (8) (9) Establish a uniform system for contracting with qualified at-
+41 torneys to carry out the purposes of this chapter, including a system for ap-
+42 plication, payment for services, and reimbursement; and
+43 (9) (10) Collaborate with district public defenders on the policies of
+44 the office and in the formation of a budget request sufficient to meet the
+45 state's constitutional obligation to provide indigent services, which the
+46 state public defender shall submit to the division of financial management
+47 as required by law.; and
+48 (10) (11) Seek reimbursement from any applicable federal funds at the
+49 department of health and welfare for any allowable costs of representation
+50 or administrative costs for any representation authorized by this chapter,
+
+5
+1 whether provided by employees of the office of the state public defender or
+2 by contract.
+3 SECTION 5. That Section 19-6006, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 19-6006. DISTRICT PUBLIC DEFENDER. (1) In each judicial district de-
+6 scribed in chapter 8, title 1, Idaho Code, the state public defender shall
+7 employ a district public defender. The district public defender must be an
+8 employee of the office of the state public defender, meet and maintain the
+9 qualifications set forth in section 19-6004(2), Idaho Code, and not engage
+10 in any conduct prohibited by section 19-6004(3), Idaho Code, while employed
+11 as district public defender. The district public defender may be removed by
+12 the state public defender for failing to maintain the qualifications of the
+13 position established in this section, for engaging in conduct prohibited by
+14 this section, or for good cause shown. The duty station of each district pub-
+15 lic defender must be within the judicial district that the district public
+16 defender oversees.
+17 (2) Under the direction and supervision of the state public defender,
+18 each district public defender shall carry out the purposes of this chapter
+19 in the judicial district, including supervising the defending attorneys,
+20 investigators, administrative staff, and other personnel in that judicial
+21 district, whether hired or contracted to work in that judicial district,
+22 coordinating litigation within that judicial district, assuring compliance
+23 with the provisions of section 19-6005, Idaho Code, as well as other duties
+24 assigned by the state public defender.
+25 (3) The district public defender shall be the principal liaison with
+26 the administrative district judge, the trial court administrator, the
+27 boards of county commissioners, county clerks, and county prosecutors on
+28 administrative matters concerning the provision of public defense in the ju-
+29 dicial district. Upon invitation, but not less than annually, the district
+30 public defender shall report to each board of county commissioners within
+31 the judicial district concerning public defense in the respective county.
+32 SECTION 6. That Section 19-6008, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 19-6008. INDIGENT PUBLIC DEFENSE -- ROLE OF COUNTIES -- PUBLIC DEFENSE
+35 COMMISSION RULES -- TRANSITION. (1) Notwithstanding any provision of law to
+36 the contrary, on and after October 1, 2024:
+37 (a) All counties are released from any further financial or legal obli-
+38 gation to provide indigent public defense. On and after such date, the
+39 state assumes the full financial and legal obligation to provide indi-
+40 gent public defense pursuant to required by the sixth amendment to the
+41 United States constitution and section 13, article I of the constitu-
+42 tion of the state of Idaho.
+43 (b) (2) This release of financial and legal obligation to provide in-
+44 digent public defense includes the release of any requirement for counties:
+45 to employ or contract with defending attorneys, investigators, social work-
+46 ers, legal assistants, or other personnel necessary to provide indigent pub-
+47 lic defense; to provide office furnishings, equipment, office materials,
+
+6
+1 or office supplies; to provide information technology equipment, informa-
+2 tion technology software, communication equipment, communication software,
+3 equipment, or software licenses or subscriptions; to provide general office
+4 technology or equipment; or to assume any other expense necessary for indi-
+5 gent defense services on and after October 1, 2024.
+6 (c) (3) Notwithstanding the provisions of this section, any county pro-
+7 viding office space to a county office of public defense or a joint county
+8 office of public defense as of January 1, 2023, shall continue to make avail-
+9 able the same or substantially similar office space for the use of the office
+10 of the state public defender until July 1, 2029, provided that:
+11 (i) (a) Not later than January 1, 2027, the state public defender must
+12 provide to the board of county commissioners of any county providing
+13 office space to the office of the state public defender a facility
+14 transition plan outlining the state public defender's intent to either
+15 procure other office space to house defending attorneys or enter into a
+16 contract with the board of county commissioners to lease office space
+17 from the board of county commissioners necessary to house defending
+18 attorneys;
+19 (ii) (b) Nothing in this section shall be construed to obligate a board
+20 of county commissioners to provide office space to the office of the
+21 state public defender on and after July 1, 2029;
+22 (iii) (c) Nothing in this section shall prohibit the state public de-
+23 fender from notifying a board of county commissioners that provides
+24 office space to the office of the state public defender that the state
+25 public defender no longer needs part or all of the space obligated by
+26 this section prior to July 1, 2029. Such notice shall relieve the county
+27 board of commissioners of the obligation to provide office space to the
+28 office of the state public defender; and
+29 (iv) (d) Notwithstanding the provisions of this section, each county
+30 must continue providing interviewing facilities in the county jail nec-
+31 essary for carrying out the state public defender's responsibilities in
+32 law.
+33 (d) (4) The state public defender shall reimburse a board of county com-
+34 missioners for any expenses incurred in providing such office space, includ-
+35 ing but not limited to office furnishings, equipment, office materials, or
+36 office supplies; information technology equipment, information technology
+37 software, communication equipment, communication software, equipment, or
+38 software licenses or subscriptions; or general office technology or equip-
+39 ment or related expenses. Provided however, that counties providing such
+40 office space shall be responsible for costs related to office utilities, of-
+41 fice cleaning, building maintenance, snow removal, and repair and replace-
+42 ment costs due to reasonable use of the office space. The board of county
+43 commissioners and the state public defender shall annually enter into a mem-
+44 orandum of understanding regarding the use of such office space.
+45 (e) All administrative rules promulgated by the state public defense
+46 commission shall be repealed in accordance with the provisions of chap-
+47 ter 52, title 67, Idaho Code.
+48 (2) To effectuate an orderly transition to the office of the state pub-
+49 lic defender without unnecessary disruption of indigent defense services,
+50 counties and defending attorneys shall not prohibit access by the state
+
+7
+1 public defender, or his designee, to information and data, including case
+2 files, that are necessary to establish a statewide case management system or
+3 for other administrative purposes in establishing the office of the state
+4 public defender. The state public defender and any designee shall have the
+5 ethical duty and legal obligation to maintain confidentiality and privacy
+6 of any information learned or obtained during the course of transition to
+7 the office of the state public defender while counties continue to provide
+8 indigent defense services. The state public defender at his discretion may
+9 require defending attorneys to use a case management system procured by the
+10 state public defender at no expense to counties or defending attorneys.
+11 (3) Upon termination of the public defense commission on July 1, 2024,
+12 all property and full-time positions at the commission shall transfer to the
+13 office of the state public defender.
+14 (4) All administrative rules promulgated by the public defense commis-
+15 sion shall remain in effect while counties continue to provide indigent de-
+16 fense until October 1, 2024, when that obligation ends pursuant to this sec-
+17 tion.
+18 (5) To the greatest extent possible, the state public defender and dis-
+19 trict public defenders shall provide the option to defending attorneys em-
+20 ployed by a county office of public defender or joint office of public de-
+21 fender on September 30, 2024, who meet the requirements and standards for de-
+22 fending attorneys, as well as support staff, the opportunity to continue em-
+23 ployment with the office of the state public defender working in the county
+24 that previously employed them.
+25 (6) District magistrates commissions shall coordinate with the state
+26 public defender and begin the process of recruiting applicants, reviewing
+27 candidates, and selecting each district public defender as soon as practica-
+28 ble after July 1, 2024.
+29 (7) In order to advise the state public defender and provide input from
+30 counties and defending attorneys during the transition, the state public de-
+31 fender shall appoint a volunteer transition advisory board to advise on mat-
+32 ters related to the transition of public defense through October 1, 2024.
+33 Board members shall be compensated as provided in section 59-509(a), Idaho
+34 Code. The board shall be composed of:
+35 (a) Two (2) representatives from the Idaho association of counties; and
+36 (b) Seven (7) attorneys, with one (1) attorney from each judicial
+37 district, whose practice, as certified by them at the time of their ap-
+38 pointment, is predominately criminal defense, among whom not less than
+39 three (3) must be defending attorneys who are employed by a county or
+40 joint office of public defense, and not less than two (2) must be de-
+41 fending attorneys who contract with counties to provide public defense
+42 services.
+43 SECTION 7. That Section 19-6009, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 19-6009. RIGHT TO COUNSEL OF INDIGENT PERSON -- REPRESENTATION AT ALL
+46 STAGES OF CRIMINAL AND COMMITMENT PROCEEDINGS -- PAYMENT. (1) An indigent
+47 person who is being detained by a law enforcement officer, who is confined
+48 or is the subject of hospitalization proceedings pursuant to section 18-212,
+49 66-322, 66-326, 66-329, 66-404 or 66-406, Idaho Code, or who is under formal
+
+8
+1 charge of having committed, or is being detained under a conviction of, a se-
+2 rious crime is entitled:
+3 (a) To be represented by an attorney to the same extent as a person hav-
+4 ing his own counsel is so entitled; and
+5 (b) To be provided with the necessary services and facilities of repre-
+6 sentation, including investigation and other preparation. The attor-
+7 ney, services and facilities, and the court costs shall be provided at
+8 public expense to the extent that the person is, at the time the court
+9 determines indigency pursuant to section 19-6011, Idaho Code, unable to
+10 provide for their payment.
+11 (2) An indigent person who is entitled to be represented by an attorney
+12 under subsection (1) of this section is entitled:
+13 (a) To be counseled and defended at all stages of the matter beginning
+14 with the earliest time when a person providing his own counsel would be
+15 entitled to be represented by an attorney and including revocation of
+16 probation;
+17 (b) To be represented in any appeal; and
+18 (c) To be represented in any other post-conviction or post-commitment
+19 proceeding that the attorney or the indigent person considers appro-
+20 priate, unless the court in which the proceeding is brought determines
+21 that it is not a proceeding that a reasonable person with adequate means
+22 would be willing to bring at his own expense and is therefore a frivolous
+23 proceeding.
+24 (3) Upon a finding of indigency, representation by an attorney under
+25 subsection (1) of this section shall include the following cases, excluding
+26 those cases where the state appellate public defender has jurisdiction pur-
+27 suant to section 19-5905, Idaho Code, and excluding those cases of guardian
+28 ad litem representation pursuant to section 16-1614(4), Idaho Code:
+29 (a) Felony and misdemeanor cases;
+30 (b) Actions arising under the Idaho juvenile corrections act, chapter
+31 5, title 20, Idaho Code;
+32 (c) Proceedings under the uniform post-conviction procedure act, chap-
+33 ter 49, title 19, Idaho Code;
+34 (d) Civil contempt proceedings where incarceration is sought;
+35 (e) Actions arising under the child protective act, chapter 16, title
+36 16, Idaho Code, but excluding actions brought exclusively under chapter
+37 20, title 16, Idaho Code; and
+38 (f) Appeals from adjudicatory decrees or orders under section 16-1625,
+39 Idaho Code.
+40 (4) The office of the state public defender shall be required to provide
+41 indigent defense services only in cases listed in subsection (3) of this sec-
+42 tion, provided that such limitations shall not obligate a county to finance
+43 or oversee indigent defense service for any action not provided for in this
+44 chapter.
+45 (4) (5) An indigent person's right to a benefit under subsection (1) or
+46 (2) of this section is unaffected by his having provided a similar benefit at
+47 his own expense, or by his having waived it, at an earlier stage.
+48 SECTION 8. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after
+50 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YJYADRSCNAGTOPCD;PGLEFSADIGSN1,IOC,TOREAPNRCEFRATTADTOMETLC;AN1,IOC,TOREAPNRGCGPDADTOMETLC;AGS,IOC,TOPEFRCNPSADDSOFTEPCD,TOREADYOFTESEPCDDTOMETLC;AGSN1,I,TOREAPNRGDTPCD;AGSN1,IOC,TOREPSRGITPCDEADTEREOFCSADTOREPGPCDECNRSADTETNOFPCDES;AGSN1,IOC,TORPNRGRNBYANA,TOPETEOEOFTESEPCDRSLBERDTOPTDESSOYINCNC,ADTOMEAT;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEFSADI.Pcdeisanelgts,adteLeiscdtofessrytopealldefrcni.Infgtsr,teLeisedtotereadcsueoftrroatinegttfsadtoteOeofteSePcDraeudeyade,teLehsttteOeofteSePcDrietefgisflyr27btr)ApdsefstnpnttslipnsefrtgfmcdfstdorsdfsdgtepdofJy1,2hJy1,2.ShpnslpefttgtdorsdfsintecsddbytePcD,incnwhteredtpsadcyc,topefrtemtetaeonofteOeofteSePcD;a)Artontectnrofcsfrpcdeasadanasofteeyadcsoftgapnoraloftecdsstobepdbyesoftesepcdso.Shasslbeddincnwhteredtpcdsayc]
+[DELETED: N2.TtSn1,IoC,b,adteseishdtordasf.CYOFRD--ET--CEFRF.1.()Ilbetedyofehrrtof,unoroftectenwnanbgmetrbyayayofrdin,oraypytoas,inwhascrdhsbnmtnc,orc,ofter,orayptt,unttbysha,orp,oftectt,aspdinsn2.()oftss,toshr,whptslberdbyterrasaptofhscnadinantohyadbysn1,IoC.Sdc,orc,snpycdbysdr,cepafetemftec,admybeudonalmsfrnwt,rworantemsoftectmybeu;adtectofwhm,wnteisudonrwora,becdascsinaclceaepyfyddintea.()Ttinalasshrrslceadr,anaspdinsn1.()oftss,tedsaecs()prpefrtetttobepdinteadwhtenrofcsasddbyreoftesec,h,ttwnshttisrdbyadrhsayonanalinaclanwearctastotesnoftedtctttteadiraduetopesht,tectmtdtptthctrroftepeceintssnp,fmtytybytesepcdN3.TtSn1,IoC,b,adteseishdtordasf.H.()Csurtsatslbehdbytectaj.Tehgmybecdinanilmradmybdfmtetot.Scnsormlrgoehgslber.Teglpcslbeedadohpsadwepeisrdbyaypnedteurtepsofsn1,IoC,orastejlfdtoheadtitinteceorintewkoftecdttpssoadslntdeayinsttehgwhwdiyanilcdorp.Tecyretepeofwsddnytotednoep,etttaptwohsedawrpttosn1,IoC,slntberdtoaratteh)Teptorgnadlmslbendassnaspeartefgofapnadprtotestofahfhsrttohec,a,ifclisrdadteprgnisfyuetoeyc,clslbepdoyifshrniscyr.Tepgasofteslcsslrttedtalssofteh]
+[DELETED: )Tecsfgwhrttogsfrtnsebduncradcgeeurrsaetotlofclc,pdttrtadmlinoyn,igttcdinr,ssoreybeadadrduntoteetofispev.Wncdinar,syorenisadine,tepnmgshr,syorenslbesobhdtadcN4.TtSn1,IoC,b,adteseishdtordasf.PSADDSOFTESEPCD.ChteseofIsontopeitpcdepttoteshattoteUdSsc;sn1eIoftecnofteseofI;adtsc,tepcdrslheteprt)Eettqddga,e,i,mns,s,p,ororsfadasaeedorcdasnytocyottsoftsc,tttesedritdessiewhaeitdes,adttaypdorcdtopdpeitiscdwhaeorospebyaseofdhbeqdtopetmr.P,h,tetsofayctwdgayslntieaypgsettcrpsasefdfefrtessoftedgayade)Peaef,igoes,f,e,bsadorllrht,p,sdseinadcntyetttisrynyfrteprpeoftesepcd)Itpsfrteo,i,e,aditofitdesssottterttlofitpsiscyddtoalisintss)IttemtctAnbranssfgasdgitdepttotscgcds;CewhdtpcdsthIossfrdgast,toteetrypladcgfsshascec,s,adt,uetefgp)Tedyofitdesssdbeitoladjli,thtejyisedteinadaecgtedyofies)Dgassdhestteadpeplsesottatcyissddgmswhc)Dga'wssdpteer]
+[DELETED: )Ecdsoristtirdga'aytopeeernsdbea)Dga'a,t,adeeshteneadcyoftecsinwhtypes,igbtntldtocsigcxf,adcdp)Tedgayadtoaprces,tottryp,cyoeternofttceadarateysecth)Tesdberepybndgasagaswhrttor,s,adf)Dgasslberyrdadsdfewhitdessa,ifa,cewhitdessasstfhinclp;a)DgassliyadrecsofitincewhteIorsofplctaraecls)CewhdtpcdstoehaditIdwdssfrdgastgintefgf)Tee,t,a,adeeoftedga)Tenrofcsadtotedga;a)Cec)()Petgadcgllenadbytosebrfrdgasadesttpscyadcyincetsddbytesepcd)()Redga,c,adestpaer,ctwhumdgr,rgehpntowmtesepcdrisrefrpgd,igbtntldtoc,wde)()Ehumcsbhfrctdga,weudttteseorwncdvsrru,adfrctdga,wncgottepsoftsc.Ctpyrsslbeidbytepgsemtr,llmtc,adcec)()Ehaumsmfrcgwhqdastocyottepsoftsc,igasmfra,ptfrs,adr;a)()Cewhdtpcdsontepsoeoeadintefnofabtrtsttomttsclontopeits,whtepcdrslsttotednofflmsrdbyl;a)Skrtfmayaeflfsatttofhhadwefrayaecsofrraecsfrayrnadbytsc]
+[DELETED: rpdbyesofteoeoftesepcdroycN5.TtSn1,IoC,b,adteseishdtordasf.DTPCD.()Inehjldtddincr8,te1,IoC,tesepcdrsyadtpcd.Tedtpcdrmtbeaeofteoeoftesepcd,mtadmntsstfhinsn1,IoC,adntenayctpdbysn1,IoC,weesdtpcd.Tedtpcdrmyberdbesepcdrfrfgtomnteqsoftnedintss,freginctpdbss,orfrgdces.Tedysnofehdtpcdrmtbewntejldttttedtpro)Urtednadsnoftesepcdhdtpcdrslcyottepsoftscntejld,igsgtedga,aes,adorplinttj,wrhdorcdtowkinttjldglnwnttjld,agchtepsofsn1,IoC,aswlasorddbytesepcd)Tedtpcdrslbetepllnweaedtj,tetlcta,tsofcyc,cyc,adcypsoemscgtepnofpcdeintejld.Uni,btntlstna,tedcdrslrttoehbdofcycswejldtcgpcdeinterecN6.TtSn1,IoC,b,adteseishdtordasf.ITPCDE--REOFCS--PCDNRS--T.()Ngaypnoflwtec,onadarOr1,2)Alcsaerdfmayfrflorllontopeitpcd.Onadarshd,teasteflfladllontopeitpcdepttordbyteshattotdSscnadsn1,aeIoftecnofteseofI)()Tsreoffladllontopeitpcdeistereofayrtfrcoeyorctwhdga,i,slw,lla,ororplnytopeitpcd;topeoef,e,oem]
+[DELETED: roes;topeintye,intys,cne,cns,orselsors;topegloyore;ortoaeayoreenyfritdessonadarOr1,2)()Ngtepsoftss,aycypgoesetoacyoeofpcdeorajtceofpcdeasofJy1,2,slcetomeaeteseorsysroesefrteueofteoftesepcdrulJy1,2,pdt)()NtlrtnJy1,2,tesepcdrmetotebdofcycsofaycypesetoteoeoftesepcdrafnpnogtesepcdsittoeeoroesetohedgasoreriotwhtebdofcycstoleoesmtebdofcycsnytohed)()NgintssnslbecdtooeabfcycstopeoesetoteoeoftepcdronadarJy1,2)()NgintssnslpttesepcdrfmngabdofcycsttpesetoteoeoftesepcdrtttescdrnolrnsptoralofteseodbssnprtoJy1,2.Shneslretecdofcsofteontopeoesetoteoftesepcd;a)()Ngtepsoftss,ehctcepgigfsintecyjlnyfrcgottesepcdsrsi)()Tesepcdrslreabdofcycsfrayesidinpgshoes,igbtntldtooef,e,oem,oes;intye,int,cne,cns,e,oelsors;orgloetyoretorrde.Pdh,ttcspgseseslberefrcsrdtooeu,oec,bgm,swr,adrradrtcsdetoreueofteoes.Tebdofcsadtesepcdrslayerioammofugrgteueofshoes)Alaerspdbytesepcdnslberdinaewhtepsofcr5,te6,IoCoeeanoytntoteoeoftesepcdrwtuydnofitdessaddgasslntptasbytes]
+[DELETED: cd,orhsd,toinadd,igc,ttaenytoehasecemtsmororaepsinegteoeoftescd.Tesepcdradaydeslhetldyadllontomncyadpfayinldoroddgteceoftnteoeoftesepcdrwecscetoptdes.Tesepcdrathsdnmedgastoueacemtsmpdbytepcdratnoeetocsordga)UntnoftepcdecnonJy1,2lpyadfepsattecnsltrtoteoftesepcd)AlaerspdbytepcdecnslrninetwecscetopeitdeulOr1,2,wnttonespttotss)Totegtetp,tesepcdraddtpcdsslpeteontodgasedbyacyoeofpcdrorjtoeofpcdronSr3,2,womttersadssfrdga,aswlassts,teoytoceetwhteoeoftesepcdrwgintectpyedt)Dtmscsslcewhtescdradbntepsofrga,r,adsgehdtpcdrassnaspearJy1,2)Inortoaetesepcdradpeitfsaddgasdgtet,tesepcdrslatavrtnaybdtoaeonmsrdtotetnofpcdethOr1,2dmsslbecdaspdinsn5,I.Tebdslbecdo)To()rsfmteIoanofc;a)Sn()a,whoe()ayfmehj,wep,ascdbytmatteteoftra,ispycld,agwmntlste()mtbedgaswoaeedbyacyotoeofpcd,adntlstnto()mtbedgaswoctwhcstopepcdN7.TtSn1,IoC,b,adteseishdtordasf.RTTOCLOFITPN--RNATASOFCLADCTPS--P.()Aninwoisbgddbyalweto,woiscristestofhnpspttosn1,6,6,64or6,IoC,orwoisurf]
+[DELETED: eofhgc,orisbgdduracno,assceise)Toberdbyanaytoteseetasapnhghsonclissoe;a)Tobepdwhtenyssadfsofr,iginadorp.Tea,ssadf,adtectcsslbepdaceetoteettttepni,attetetecsiypttosn1,IoC,uetefrtrp)Anitpnwoisedtoberdbyanarsn()oftssnise)Tobecdadddatalssoftemrbhteettewnapnpghsonclwdbdtoberdbyanayadigrno)Toberdinaya;a)Toberdinayorpnorpgttteayorteitpncsa,ustectinwhtepgisbtdtitisntapgttarepnwhaemdbewgtobgathsoneeadisteaf)Unafgofi,rnbyanayun()oftssnslietefgc,eecsweteseaepcdrhsjnpttosn1,IoC,adegtecsofgdlmrnpttosn1,IoC)Fyadmrc)AsagurteIojecsa,c,te2,IoC)Psurteumpnpea,cr4,te1,IoC)Clctpsweiniss)Asagurtecdpea,cr1,t,IoC,btegasbteyurc,te1,IoC;a)Asfmaydsorosursn1oC)Teoeoftesepcdrslberdtoptdessoyincsldinsn()oftss,pdttshlsslntoeacytofroeitdesefrayanntpdfrint)()Anitpsrttoabtursn()o)oftssnisudbyhshgpdasrbtasone,orbyhshgwdi,atanersN8.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

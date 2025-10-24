@@ -1,0 +1,766 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 253
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC RECORDS; AMENDING SECTION 74-101, IDAHO CODE, TO DEFINE
+3 A TERM; AMENDING SECTION 74-102, IDAHO CODE, TO REVISE PROVISIONS RE-
+4 GARDING PUBLIC RECORDS REQUESTS; AMENDING SECTION 74-103, IDAHO CODE,
+5 TO REVISE PROVISIONS REGARDING THE REQUEST AND RESPONSE TO REQUEST FOR
+6 EXAMINATION OF PUBLIC RECORDS; AMENDING SECTION 67-4126, IDAHO CODE, TO
+7 PROVIDE A CORRECT CODE REFERENCE AND TO MAKE TECHNICAL CORRECTIONS; AND
+8 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 74-101, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 74-101. DEFINITIONS. As used in this chapter:
+13 (1) "Applicant" means any person formally seeking a paid or volunteer
+14 position with a public agency. Applicant does not include any person seeking
+15 appointment to a position normally filled by election.
+16 (2) "Copy" means transcribing by handwriting, photocopying, duplicat-
+17 ing machine or reproducing by any other means as long as the public record is
+18 not altered or damaged.
+19 (3) "Custodian" means the person or persons having personal custody and
+20 control of the public records in question.
+21 (4) "Independent public body corporate and politic" means the Idaho
+22 housing and finance association as created in chapter 62, title 67, Idaho
+23 Code.
+24 (5) "Inspect" means the right to listen, view and make notes of public
+25 records as long as the public record is not altered or damaged.
+26 (6) "Investigatory record" means information with respect to an iden-
+27 tifiable person, group of persons or entities compiled by a public agency
+28 pursuant to its statutory authority in the course of investigating a spe-
+29 cific act, omission, failure to act, or other conduct over which the public
+30 agency has regulatory authority or law enforcement authority.
+31 (7) "Law enforcement agency" means any state or local agency given law
+32 enforcement powers or that has authority to investigate, enforce, prosecute
+33 or punish violations of state or federal criminal statutes, ordinances or
+34 regulations.
+35 (8) "Local agency" means a county, city, school district, municipal
+36 corporation, independent public body corporate and politic, district, pub-
+37 lic health district, political subdivision, or any agency thereof, or any
+38 committee of a local agency, or any combination thereof.
+39 (9) "Person" means any natural person, corporation, partnership, firm,
+40 association, joint venture, state or local agency or any other recognized
+41 legal entity.
+2
+1 (10) "Prisoner" means a person who has been convicted of a crime and is
+2 either incarcerated or on parole for that crime or who is being held in cus-
+3 tody for trial or sentencing.
+4 (11) "Public agency" means any state or local agency as defined in this
+5 section.
+6 (12) "Public official" means any state, county, local district, inde-
+7 pendent public body corporate and politic or governmental official or em-
+8 ployee, whether elected, appointed or hired.
+9 (13) "Public record" includes, but is not limited to, any writing con-
+10 taining information relating to the conduct or administration of the pub-
+11 lic's business prepared, owned, used or retained by any state agency, in-
+12 dependent public body corporate and politic or local agency regardless of
+13 physical form or characteristics. Provided, however, that personal notes
+14 created by a public official solely for his own use shall not be a public
+15 record as long as such personal notes are not shared with any other person or
+16 entity.
+17 (14) "Requester" means the person requesting examination and/or copy-
+18 ing of public records pursuant to section 74-102, Idaho Code.
+19 (15) "Resident" means a person whose domicile has been within Idaho con-
+20 tinuously for a period of at least thirty (30) days, excluding a full-time
+21 student who is a resident of another state, and shall also include a domestic
+22 entity as provided in section 30-21-102, Idaho Code. Establishment of resi-
+23 dency shall include a spouse and dependent children who reside with that per-
+24 son in the domicile. A domicile shall not be a person's workplace, vacation
+25 residence, or part-time residence.
+26 (15) (16) "State agency" means every state officer, department, divi-
+27 sion, bureau, commission and board or any committee of a state agency, in-
+28 cluding those in the legislative or judicial branch, except the state mili-
+29 tia and the Idaho state historical society library and archives.
+30 (16) (17)(a) "Unwarranted invasion of personal privacy" means:
+31 (i) Disclosure of information used to identify, locate, or harass
+32 a juvenile, a victim of an alleged crime of mass violence or domes-
+33 tic violence, or a victim of physical or sexual abuse; or
+34 (ii) Disclosure where release of information is likely to violate
+35 legitimate and substantial privacy interests of the person iden-
+36 tified when such interests are weighed against general public in-
+37 formation.
+38 (b) Release of the name, age, sex, and hometown of any deceased person
+39 after notification of next-of-kin shall not constitute an unwarranted
+40 invasion of personal privacy and shall be disclosed unless otherwise
+41 exempt under this chapter.
+42 (17) (18) "Writing" includes, but is not limited to, handwriting, type-
+43 writing, printing, photostating, photographing and every means of record-
+44 ing, including letters, words, pictures, sounds, or symbols, or combination
+45 thereof, and all papers, maps, magnetic or paper tapes, photographic films
+46 and prints, magnetic or punched cards, discs, drums or other documents.
+47 SECTION 2. That Section 74-102, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+3
+1 74-102. PUBLIC RECORDS -- RIGHT TO EXAMINE. (1) Every person has a
+2 right to examine and take a copy of any public record of this state and there
+3 is a presumption that all public records in Idaho are open at all reasonable
+4 times for inspection except as otherwise expressly provided by statute.
+5 (2) The right to copy public records shall include the right to make
+6 photographs or photographic or other copies while the records are in the pos-
+7 session of the custodian of the records using equipment provided by the pub-
+8 lic agency or using equipment designated by the custodian.
+9 (3) Additionally, the custodian of any public record shall give the
+10 person, on demand, a certified copy of it if the record is of a nature permit-
+11 ting such copying or shall furnish reasonable opportunity to inspect or copy
+12 such record.
+13 (4) A public agency may require that a request for public records be
+14 submitted to it in a writing that specifically describes the subject mat-
+15 ter and records sought, including a specific date range for when the records
+16 sought were created. The requesting party shall be as specific as possible
+17 when requesting records. A request shall describe records sought in suffi-
+18 cient detail to enable the public body to locate such records with reasonable
+19 effort. A request shall also provide the requester's name, mailing address,
+20 e-mail email address, and telephone number, and a written declaration by the
+21 requesting party attesting or affirming under oath whether such requester is
+22 a resident. A request for public records and delivery of the public records
+23 may be made by electronic mail.
+24 (5) The custodian shall make no inquiry of any person who requests a
+25 public record, except:
+26 (a) To verify the identity of the requester in accordance with section
+27 74-113, Idaho Code; or
+28 (b) To ensure that the requested record or information will not be
+29 used for purposes of a mailing or telephone list prohibited by section
+30 74-120, Idaho Code, or as otherwise provided by law; or
+31 (c) As required for purposes of protecting personal information from
+32 disclosure under chapter 2, title 49, Idaho Code, and federal law.
+33 (6) The custodian shall not review, examine or scrutinize any copy,
+34 photograph or memoranda in the possession of any such person and shall extend
+35 to the person all reasonable comfort and facility for the full exercise of
+36 the right granted under this act.
+37 (7) Nothing herein contained shall prevent the custodian from main-
+38 taining such vigilance as is required to prevent alteration of any public
+39 record while it is being examined.
+40 (8) Examination of public records under the authority of this section
+41 must be conducted during regular office or working hours unless the custo-
+42 dian shall authorize examination of records in other than regular office or
+43 working hours. In this event, the persons designated to represent the cus-
+44 todian during such examination shall be entitled to reasonable compensation
+45 to be paid to them by the public agency having custody of such records, out of
+46 funds provided in advance by the person examining such records, at other than
+47 regular office or working hours.
+48 (9) The public agency may provide the requester information to help the
+49 requester narrow the scope of the request or to help the requester make the
+4
+1 request more specific when the response to the request is likely to be volu-
+2 minous or require payment as provided in subsection (10) of this section.
+3 (10)(a) Except for fees that are authorized or prescribed under other
+4 provisions of Idaho law, no fee shall be charged for the first two (2)
+5 hours of labor in responding to a request submitted by a resident for
+6 public records, or for copying the first one hundred (100) pages of pa-
+7 per records that are requested by a resident.
+8 (b) A public agency or public official may establish fees to recover
+9 the actual labor and copying costs associated with locating and copying
+10 documents if:
+11 (i) The request is for more than one hundred (100) pages of paper
+12 records; or
+13 (ii) The request includes records from which nonpublic informa-
+14 tion must be deleted; or
+15 (iii) The actual labor associated with responding to requests for
+16 public records in compliance with the provisions of this chapter
+17 exceeds two (2) person hours.
+18 (c) A public agency or public official may establish a separate copying
+19 fee schedule schedules for requests submitted by residents and requests
+20 submitted by persons who are not residents. The fee for residents may
+21 not exceed the actual cost to the agency of copying the record if another
+22 fee is not otherwise provided by law.
+23 (d)(i) For providing a duplicate of a computer tape, computer
+24 disc, microfilm or similar or analogous record system containing
+25 public record information, a public agency or public official may
+26 charge a fee, uniform to all persons residents, that does not ex-
+27 ceed the sum of the following:
+28 (i) 1. The agency's direct cost of copying the information
+29 in that form;
+30 (ii) 2. The standard cost, if any, for selling the same in-
+31 formation in the form of a publication;
+32 (iii) 3. The agency's cost of conversion, or the cost of con-
+33 version charged by a third party, if the existing electronic
+34 record is converted to another electronic form.
+35 (ii) A public agency or public official may charge additional
+36 fees, uniform to all persons who are not residents, for requests
+37 involving duplication of a computer tape, computer disc, mi-
+38 crofilm or similar or analogous record system containing public
+39 record information.
+40 (e) Fees for requests made by residents shall not exceed reasonable
+41 labor costs necessarily incurred in responding to a public records
+42 request. Fees, and if charged, shall reflect the personnel and quan-
+43 tity of time that are reasonably necessary to process a request. Fees
+44 for requests made by residents for labor costs shall be charged at the
+45 per hour pay rate of the lowest paid administrative staff employee or
+46 public official of the public agency who is necessary and qualified to
+47 process the request. If a request from a resident requires redactions
+48 to be made by an attorney who is employed by the public agency, the rate
+49 charged shall be no more than the per hour rate of the lowest paid attor-
+50 ney within the public agency who is necessary and qualified to process
+5
+1 the public records request. If a request from a resident is submitted
+2 to a public agency that does not have an attorney on staff, and requires
+3 redactions by an attorney, the rate shall be no more than the usual and
+4 customary rate of the attorney who is retained by the public agency for
+5 that purpose.
+6 (f) The public agency shall not charge any cost or fee for copies or
+7 labor when the requester is a resident and demonstrates that the re-
+8 quester's examination and/or copying of public records:
+9 (i) Is likely to contribute significantly to the public's under-
+10 standing of the operations or activities of the government;
+11 (ii) Is not primarily in the individual interest of the requester
+12 including, but not limited to, the requester's interest in litiga-
+13 tion in which the requester is or may become a party; and
+14 (iii) Will not occur if fees are charged because the requester has
+15 insufficient financial resources to pay such fees.
+16 (g) Notwithstanding any provision of law to the contrary, a public
+17 agency or public official may charge fees for labor and copying costs
+18 associated with locating and copying documents requested by a person
+19 who is not a resident or an employee of a resident. The fee rates and
+20 schedule for requests made by persons who are not residents or employees
+21 of residents shall be at the discretion of the public agency or public
+22 official as long as such fees do not exceed actual costs of the public
+23 agency or public official.
+24 (g) (h) Statements of fees by a public agency shall be itemized to show
+25 the per page costs for copies, and hourly rates of employees and attor-
+26 neys involved in responding to the request, and the actual time spent on
+27 the public records request. No lump sum costs shall be assigned to any
+28 public records request. If a separate fee schedule is adopted for re-
+29 quests from persons who are not residents or employees of residents, the
+30 separate fees for such nonresidents shall be separately identified.
+31 (11) A requester may not file multiple requests for public records
+32 solely to avoid payment of fees. When a public agency reasonably believes
+33 that one (1) or more requesters is segregating a request into a series of
+34 requests to avoid payment of fees authorized pursuant to this section, the
+35 public agency may aggregate such requests and charge the appropriate fees.
+36 The public agency may consider the time period in which the requests have
+37 been made in its determination to aggregate the related requests. A public
+38 agency shall not aggregate multiple requests on unrelated subjects from one
+39 (1) requester.
+40 (12) The custodian may require advance payment of fees authorized by
+41 this section. Any money received by the public agency shall be credited to
+42 the account for which the expense being reimbursed was or will be charged,
+43 and such funds may be expended by the agency as part of its appropriation from
+44 that fund. Any portion of an advance payment in excess of the actual costs of
+45 labor and copying incurred by the agency in responding to the request shall
+46 be returned to the requester.
+47 (13) A public agency shall not prevent the examination or copying of a
+48 public record by contracting with a nongovernmental body to perform any of
+49 its duties or functions.
+6
+1 (14) Nothing contained herein shall prevent a public agency from dis-
+2 closing statistical information that is descriptive of an identifiable per-
+3 son or persons, unless prohibited by law.
+4 (15) Nothing contained herein shall prevent a public agency from pro-
+5 viding a copy of a public record in electronic form if the record is available
+6 in electronic form and if the person specifically requests an electronic
+7 copy.
+8 (16) A public agency or elected official shall designate a custodian or
+9 custodians for all public records, which includes any public official having
+10 custody of, control of, or authorized access to public records and also in-
+11 cludes all delegates of such officials, employees or representatives.
+12 SECTION 3. That Section 74-103, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 74-103. REQUEST AND RESPONSE TO REQUEST FOR EXAMINATION OF PUBLIC
+15 RECORDS. (1) All requests to examine public records shall be made to the
+16 designated custodian of such records as defined in section 74-101(3), Idaho
+17 Code. A public agency, a public official, or an employee of a public agency
+18 shall have no obligation and shall not be deemed to have assumed any obli-
+19 gation to respond to a public records request that fails to comply with the
+20 requirements of this subsection. A public records request must clearly in-
+21 dicate that it is a public records request.
+22 (2) A public agency or custodian shall either grant or deny a person's
+23 a resident's request to examine or copy public records within three (3)
+24 working days of the date of the receipt of the request for examination or
+25 copying. A public agency or custodian shall either grant or deny a request
+26 from a person who is not a resident and not employed by a resident to examine
+27 or copy public records within thirty (30) days of the date of the receipt
+28 of the request for examination or copying. If it is determined by employ-
+29 ees of the public agency that a longer period of time is needed to locate or
+30 retrieve the public records, the public agency shall so notify in writing
+31 the person requesting to examine or copy the records and shall provide the
+32 public records no later than ten (10) working days following the person's
+33 request, if such person is an Idaho a resident, and no later than twenty-one
+34 (21) working forty-five (45) days following a request from a nonresident.,
+35 except that a response to a request to examine or copy public records from
+36 a person who is not a resident and not employed by a resident may be further
+37 extended for unusual or exigent circumstances, in which case an explana-
+38 tion of such circumstances shall be provided to the requester. Provided
+39 however, if Additionally, if it is determined that the existing electronic
+40 record requested will first have to be converted to another electronic
+41 format by the agency or by a third party and that such conversion cannot be
+42 completed within ten (10) working days the time allotted for the response,
+43 the agency shall so notify in writing the person requesting to examine or
+44 copy the records. The agency shall provide the converted public record at
+45 a time mutually agreed upon between the agency and the requester, with due
+46 consideration given to any limitations that may exist due to the process of
+47 conversion or due to the use of a third party to make the conversion.
+7
+1 (3) If the public agency or custodian fails to respond within the time
+2 allotted for the response, the request shall be deemed to be denied within
+3 ten (10) working days following the request.
+4 (4) If the public agency denies the person's request for examination
+5 or copying the public records or denies in part and grants in part the per-
+6 son's request for examination and copying of the public records, the person
+7 legally responsible for administering the public agency or that person's de-
+8 signee shall notify the person in writing of the denial or partial denial of
+9 the request for the public record.
+10 (5) The notice of denial or partial denial shall state that the attorney
+11 for the public agency has reviewed the request or shall state that the public
+12 agency has had an opportunity to consult with an attorney regarding the re-
+13 quest for examination or copying of a record and has chosen not to do so. The
+14 notice of denial or partial denial also shall indicate the statutory author-
+15 ity for the denial and indicate clearly the person's right to appeal the de-
+16 nial or partial denial and the time periods for doing so.
+17 SECTION 4. That Section 67-4126, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-4126. POWERS AND DUTIES OF BOARD. The board of trustees of the soci-
+20 ety shall have powers and duties as follows:
+21 1. To appoint a director of the society as provided herein and advise
+22 him in the performance of his duties and formulate general policies affect-
+23 ing the society.
+24 2. To encourage and promote interest in the history of Idaho and encour-
+25 age membership in the society.
+26 3. To collect for preservation and display artifacts and information
+27 illustrative of Idaho history, culture and society.
+28 4. To print such publications and reports as may be deemed necessary.
+29 5. To encourage creation of county historical societies and museums in
+30 the counties of Idaho.
+31 6. To facilitate the use of Idaho records for official reference and
+32 historical research.
+33 7. To be responsible for records management services for state gov-
+34 ernment. Records management services include the management, storage and
+35 retrieval of all state-created records under retention. State-created
+36 records shall mean any document, book, paper photograph, sound recording
+37 or other material, regardless of physical form or characteristic, made or
+38 received pursuant to law or in connection with the transaction of official
+39 state business. The board may charge reasonable amounts for records man-
+40 agement services. The records managed pursuant to this subsection will
+41 not be subject to the exemption in public records law provided in section
+42 74-101(15) 74-101(16), Idaho Code.
+43 8. To accept from any state, county, or city, or any public official,
+44 any official books, records, documents, original papers, newspaper files,
+45 printed books, or portraits, not in current use. When such documents are
+46 so accepted, copies therefrom shall be made and certified under the seal of
+47 the society upon application of any person, which person shall pay for such
+48 copies reasonable fees established by the society.
+8
+1 9. To require that any state, county, or city, or any public official,
+2 deposit official books, records, documents, or original papers, not in cur-
+3 rent use, which are of definite historical importance, in the society for
+4 preservation and to provide methods whereby such materials, which have no
+5 significance, may be destroyed.
+6 10. To establish such rules as may be necessary to discharge the duties
+7 of the society.
+8 11. To employ such personnel as may be necessary for the administration
+9 of its duties in accordance with the rules of the administrator of the divi-
+10 sion of human resources promulgated pursuant to chapter 52, title 67, Idaho
+11 Code.
+12 12. To have and use an official seal.
+13 13. To delegate and provide subdelegation of any such authority.
+14 14. To identify historic, architectural, archaeological, and cultural
+15 sites, buildings, or districts, and to coordinate activities of local his-
+16 toric preservation commissions.
+17 15. To serve as the geographic names board of the state of Idaho.
+18 SECTION 5. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOPCR;AGSN7,IOC,TODT;AGSN7,IOC,TOREPSRGPCRSR;AGSN7,IOCOREPSRGTERTADRETORTFNOFPCR;AGSN6,IOC,TEACTCEREADTOMETLC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.D.Asudintsc)""msaypnfysgapdorvnwhapca.Atdsntieaypnsttoapnnyfdbye)""mstgbyh,p,dgmeorrgbyayormsaslgastepcrditadord)""mstepnorpshgplcyaloftepcrsinq)"tpcbyceadp"msteIgadfeanascdincr6,te6,I)""msterttol,vwadmensofpsaslgastepcrdisntadord)"yr"msinwhrttoaniep,gpofpsorescdbyapcattoissyayinteceofigasca,o,fetoa,ororctorwhtepyhsryayorlweta)"weta"msayseorllaygnltpsortthsaytoi,e,prphvsofseorflcls,oso)"la"msac,c,sld,m,itpcbyceadp,d,pchhd,pls,orayayt,oraeofalla,oraycnt)""msaynlp,c,p,f,jtv,seorllayorayorrle]
+[DELETED: )""msapnwohsbncdofaceadiridoronpefrttceorwoisbghdincyfrtlors)"ca"msayseorllayasddint)"co"msays,c,lld,itpcbyceadpcorglolore,wre,adorh)"cr"i,btisntldt,aywgcginrgtotectoranoftepsbsp,o,udorrdbyaysea,itpcbyceadpcorllayrsolfmorc.P,h,ttplndbyapcolsyfrhsonueslntbeapdaslgasshplnsaentsdwhayorpno)""mstepnrgenarcgofpcrspttosn7,IoC)""msapnwedehsbnwnIocyfrapdofatltty()d,egaftwoisartofars,adslaoieadyaspdinsn3,IoC.Etofryslieaseaddtcnworewhttpninted.Adeslntbeapsw,v,orper)()"ea"mseyseo,d,d,b,cnadbdorayceofasea,igteinteleorjlb,ettesemaadteIosehlsylyada)()"dinofplp"m)Deofinudtoi,l,orhj,avmofanadceofmsveordcv,oravmofplorsla;o)Dewereofinislytoveadslpyisoftepnidwnshisaewdatglpci)Reoften,a,s,adhnofayddprnnofnnslntceanunofplpyadslbeddusoturtsc)()""i,btisntldt,h,t,p,p,pgadeymsofr,igl,w,p,s,ors,orc,adalp,m,mcorprt,pcfdp,mcorpdc,d,dsorordN2.TtSn7,IoC,b,adteseishdtordasf]
+[DELETED: .PCRS--RTTOE.()EypnhsttoeeadteacyofaypcrdoftsseadtsapnttalpcrsinIoaeonatalrsfrinetasoeeypdbys)Terttocypcrsslieterttomsorpcororcswetersaeintepnoftecnoftersugetpdbytepcayorugetddbytec)A,tecnofaypcrdslget,ond,acdcyofitifterdisofanepgshcgorslfhreoytoitorchr)Apcaymyrettartfrpcrsbdtoitinawgttsydstestmradrss,igascderefrwntertwec.Tergpyslbeasscaspnrgr.Artsldersstinstdltoeetepcbytoleshrswhr.Artslaopetersn,mgalela,adten,adawndnbytgpyagoragurohwrshrrir.Artfrpcrsaddyoftepcrybemebyecm)Tecnslmenoiyofaypnworscr,e)Tovyteiyofterrinaewhs,IoC;o)Toeettterdrdorinwlntbdfrpsofamgorteltpdbys,IoC,orasoepdbyl;o)Asrdfrpsofpgplinfeurcr2,te4,IoC,adfll)Tecnslntr,eeorseaychormaintepnofayshpnadsleotepnalrectadfyfrtefleeoertgdurtsa)Nghncdslpttecnfmmgshveasisrdtoptanofaypdweitisbge)Enofpcrsurteayoftsstbecddgrroeorwghsustecnslaeenofrsinortnrroeogh.Intse,tepsddtorttecndgshenslbeedtorecobepdtotmbytepcayhgcyofshr,otospdinaebytepnegshr,atortroeorwgh)Tepcaymypeterrintohptrnwteseoftertortohpterrmet]
+[DELETED: tmescwnteretotertislytobevsorreptaspdinsn()oftss)EtfrfsttaeadorpdurosofIol,nofeslbecdfrteftto(soflrinrgtoartsdbyartfcr,orfrcgteftoehd()psofprrsttaerdbyar)Apcayorpcolmyehfstoreallradcgcsadwhlgadcsi)Tertisfrmetnoehd()psofp;o)Tertisrsfmwhncinmtbed;o)Teallradwhrgtorsfcrsincewhtepsoftscsto()pnh)Apcayorpcolmyehasecesessfrrssdbyrsadrdbypswoaentr.Tefefrrsmtedtealcttoteayofcgterdifaeisntoepdbyl)Frpgadeofacrt,c,mmorsrorasrdsmccrdi,apcayorpcolmeaf,umtoalpsr,ttdsntedtesmoftef)1.Teasdtctofcgteinttf)2.Tesdc,ifa,frsgteseinintefmofap)3.Teasctofc,ortectofcncdbyatdp,ifteegediscdtoarecf)Apcayorpcolmycea,umtoalpswoaentr,frrgdnofacrt,crd,mmorsrorasrdsmcgpdi)Fsfrrsmebyrsslntedrrcsnyidinrgtoapcr.F,adifc,slrttepladqyoftettaerynytopsar.Frrsmebyrrlrcsslbecdattrhrpyreofteltpdaesfeeocoloftepcaywoisnyadqdtster.Ifartfmartrsrobemebyanaywoisedbytepca,terdslbenometnteprhrreofteltpdaywntepcaywoisnyadqdtop]
+[DELETED: epcrsr.Ifartfmartissoapcayttdsntheanayons,adrsbyana,tereslbenometnteulayreofteaywoisrdbytepcayftp)Tepcayslntceayctorfefrcsorwnterrisartaddstttersenarcgofpcr)Islytocesytotepsugofteosorasofteg)Isntpyinteilitofter,btntldt,tersitinlninwhterrisormybeap;a)Wlntoriffsaecdbeterrhtflrstopyshf)Ngaypnoflwtotec,apyorpcolmycefsfrlradcgcdwhlgadcgdsrdbyapoisntartoraneeofar.Tefersaefrrsmebypswoaentrsorefrsslbeattednoftepcayorplaslgasshfsdontedalcsoftepyorpco)()Ssoffsbyapcayslbeidtoseprpecsfrc,adhyrsofesadasidinrgtoter,adtealtestoepcrsr.Nolpsmcsslbeadtoacrsr.Ifasefeseisadfrrsfmpswoaentrsoresofr,tefsfrshnsslbesyi)Arrmyntfemersfrpcrytoadptoff.Wnapcayrybtoe()ormersissgartioassostoadptoffsadpttotss,tcaymyaeshrsadceteaefepcaymycrtetepdinwhtershnmeinisdntoaeterdr.Apyslntaemersonudssfmo)r)Tecnmyreaeptoffsadbss.Aymyrdbytepcayslbecdteatfrwhteeebgrdwsorwlbecdshfsmybeedbyteayasptofisanftf.Aypnofanaeptinesoftealcsoradcgidbyteayinrgtotertserdtoter)Apcayslntptteenorcgofcrdbycgwhanlbytopmayosdsorf]
+[DELETED: )Ngcdhnslptapcayfmdgslinttisdeofaniepnorp,uspdbyl)Ngcdhnslptapcayfmpgacyofapcrdinecfmifterdisanecfmadiftepnsyrsane)Apcayoredolsldeacnosfralpcr,whisaypcolhyo,clo,oradastopcrsadaoisaldsofsho,esorrN3.TtSn7,IoC,b,adteseishdtordasf.RTADRETORTFRENOFP.()Alrstoeepcrsslbemetotdcnofshrsasddinsn7,I.Apca,apco,oraneeofapcalhenoonadslntbeddtoheadayontordtoapcrsrtttfstocywhtsoftss.Apcrsrtmtcyiettitisapcrsr)Apcayorcnslergtordyaprsrttoeeorcypcrswnte(gdsoftedeoftertoftertfreno.Apcayorcnslergtordyarmapnwoisntartadntedbyarttoercypcrswnty()dsoftedeofterftertfrenorc.Ifitisddbyesoftepcayttalrpdofteisndtoleoetepcr,tepcayslsonyinwepnrgtoeeorcytersadslpetcrsnolrtntn()wgdsfgtep,ifshpnisanIoar,adnolrtnt)wgfe()dsfgartfmantttaretoarttoeeorcypcrsfpnwoisntartadntedbyartmybefdfruloretc,inwhceanenofshcsslbepdtoter.P,ifA,ifitisddttteegedrdwlfthetobecdtoaretbyteayorbyatdpyadttshcnctbdwntn()wgdsteteadfrtereayslsonyinwgtepnrgtoeeoyter.Teayslpetecdpcrdatemyadunbnteayadter,whdngntoaylsttmyetdetotepsonordetoteueofatdpytometec]
+[DELETED: )Iftepcayorcnfstordwntetdfrter,tertslbeddtobeddwn()wgdsfgter)Iftepcaydstepsrtfrercgtepcrsordsinptadgsinpttepsrtfrenadcgoftepcr,tepyrefragtepcayorttpsdeslnytepninwgoftedlorpldloertfrtepcr)Teneofdlorpldlslsettteartepcayhsrdtertorslsetttepyhshdanoytoctwhanayrgtertfrenorcgofardadhscnnttodos.TeofdlorpldlaoslietesyayfrtedladiecytepsrttoaltedlorpldladtetepsfrdgsN4.TtSn6,IoC,b,adteseishdtordasf.PSADDSOFB.Tebdoftsoftesyslhepsaddsasf.Toatadroftesyaspdhnadamintepeofhsdsadfeglpsagtes.ToeeadpeitintehyofIoadeempintes.ToctfrpnaddyasadieofIoh,ceads.Toptshpsadrsasmybeddn.ToeecnofcyhlssadmsiecsofI.TofeteueofIorsfrolrealr.Toberefrrsmtssfrseg.Rsmtssietem,sealofalsdrsurr.Ssslmnayd,b,prp,sdrrorm,rsofplfmorc,meodpttolworincnwhtetnofoeb.Tebdmycereasfrrsmts.Tersmdpttotssnwtbesttoteeninpcrslwpdins)7,IoC.Toatfmays,c,orc,oraypcoyolb,r,d,olp,nrfdb,orp,ntinctu.Wnshdsaoa,cstmslbemeadcdurtesloesyunanofayp,whpnslpyfrssrefsedbytes]
+[DELETED: .Torettays,c,orc,oraypcotolb,r,d,orolp,ntinctu,whaeofdehli,intesyfnadtopemswyshm,whhen,mybed.Toehshrsasmybenytodetedftes.Toeyshplasmybenyfrteafisdsinaewhtersoftearoftednofhnrspdpttocr5,te6,I.Toheadueanols.Todeadpesnofaysha.Toiyh,a,a,adc,b,ord,adtoceasofllhcpnc.ToseastegcnsbdofteseofIN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 253
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC RECORDS; AMENDING SECTION 74-101, IDAHO CODE, TO DEFINE
+3 A TERM; AMENDING SECTION 74-102, IDAHO CODE, TO REVISE PROVISIONS RE-
+4 GARDING PUBLIC RECORDS REQUESTS; AMENDING SECTION 74-103, IDAHO CODE,
+5 TO REVISE PROVISIONS REGARDING THE REQUEST AND RESPONSE TO REQUEST FOR
+6 EXAMINATION OF PUBLIC RECORDS; AMENDING SECTION 67-4126, IDAHO CODE, TO
+7 PROVIDE A CORRECT CODE REFERENCE AND TO MAKE TECHNICAL CORRECTIONS; AND
+8 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 74-101, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 74-101. DEFINITIONS. As used in this chapter:
+13 (1) "Applicant" means any person formally seeking a paid or volunteer
+14 position with a public agency. Applicant does not include any person seeking
+15 appointment to a position normally filled by election.
+16 (2) "Copy" means transcribing by handwriting, photocopying, duplicat-
+17 ing machine or reproducing by any other means as long as the public record is
+18 not altered or damaged.
+19 (3) "Custodian" means the person or persons having personal custody and
+20 control of the public records in question.
+21 (4) "Independent public body corporate and politic" means the Idaho
+22 housing and finance association as created in chapter 62, title 67, Idaho
+23 Code.
+24 (5) "Inspect" means the right to listen, view and make notes of public
+25 records as long as the public record is not altered or damaged.
+26 (6) "Investigatory record" means information with respect to an iden-
+27 tifiable person, group of persons or entities compiled by a public agency
+28 pursuant to its statutory authority in the course of investigating a spe-
+29 cific act, omission, failure to act, or other conduct over which the public
+30 agency has regulatory authority or law enforcement authority.
+31 (7) "Law enforcement agency" means any state or local agency given law
+32 enforcement powers or that has authority to investigate, enforce, prosecute
+33 or punish violations of state or federal criminal statutes, ordinances or
+34 regulations.
+35 (8) "Local agency" means a county, city, school district, municipal
+36 corporation, independent public body corporate and politic, district, pub-
+37 lic health district, political subdivision, or any agency thereof, or any
+38 committee of a local agency, or any combination thereof.
+39 (9) "Person" means any natural person, corporation, partnership, firm,
+40 association, joint venture, state or local agency or any other recognized
+41 legal entity.
+
+2
+1 (10) "Prisoner" means a person who has been convicted of a crime and is
+2 either incarcerated or on parole for that crime or who is being held in cus-
+3 tody for trial or sentencing.
+4 (11) "Public agency" means any state or local agency as defined in this
+5 section.
+6 (12) "Public official" means any state, county, local district, inde-
+7 pendent public body corporate and politic or governmental official or em-
+8 ployee, whether elected, appointed or hired.
+9 (13) "Public record" includes, but is not limited to, any writing con-
+10 taining information relating to the conduct or administration of the pub-
+11 lic's business prepared, owned, used or retained by any state agency, in-
+12 dependent public body corporate and politic or local agency regardless of
+13 physical form or characteristics. Provided, however, that personal notes
+14 created by a public official solely for his own use shall not be a public
+15 record as long as such personal notes are not shared with any other person or
+16 entity.
+17 (14) "Requester" means the person requesting examination and/or copy-
+18 ing of public records pursuant to section 74-102, Idaho Code.
+19 (15) "Resident" means a person whose domicile has been within Idaho con-
+20 tinuously for a period of at least thirty (30) days, excluding a full-time
+21 student who is a resident of another state, and shall also include a domestic
+22 entity as provided in section 30-21-102, Idaho Code. Establishment of resi-
+23 dency shall include a spouse and dependent children who reside with that per-
+24 son in the domicile. A domicile shall not be a person's workplace, vacation
+25 residence, or part-time residence.
+26 (15) (16) "State agency" means every state officer, department, divi-
+27 sion, bureau, commission and board or any committee of a state agency, in-
+28 cluding those in the legislative or judicial branch, except the state mili-
+29 tia and the Idaho state historical society library and archives.
+30 (16) (17)(a) "Unwarranted invasion of personal privacy" means:
+31 (i) Disclosure of information used to identify, locate, or harass
+32 a juvenile, a victim of an alleged crime of mass violence or domes-
+33 tic violence, or a victim of physical or sexual abuse; or
+34 (ii) Disclosure where release of information is likely to violate
+35 legitimate and substantial privacy interests of the person iden-
+36 tified when such interests are weighed against general public in-
+37 formation.
+38 (b) Release of the name, age, sex, and hometown of any deceased person
+39 after notification of next-of-kin shall not constitute an unwarranted
+40 invasion of personal privacy and shall be disclosed unless otherwise
+41 exempt under this chapter.
+42 (17) (18) "Writing" includes, but is not limited to, handwriting, type-
+43 writing, printing, photostating, photographing and every means of record-
+44 ing, including letters, words, pictures, sounds, or symbols, or combination
+45 thereof, and all papers, maps, magnetic or paper tapes, photographic films
+46 and prints, magnetic or punched cards, discs, drums or other documents.
+47 SECTION 2. That Section 74-102, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+3
+1 74-102. PUBLIC RECORDS -- RIGHT TO EXAMINE. (1) Every person has a
+2 right to examine and take a copy of any public record of this state and there
+3 is a presumption that all public records in Idaho are open at all reasonable
+4 times for inspection except as otherwise expressly provided by statute.
+5 (2) The right to copy public records shall include the right to make
+6 photographs or photographic or other copies while the records are in the pos-
+7 session of the custodian of the records using equipment provided by the pub-
+8 lic agency or using equipment designated by the custodian.
+9 (3) Additionally, the custodian of any public record shall give the
+10 person, on demand, a certified copy of it if the record is of a nature permit-
+11 ting such copying or shall furnish reasonable opportunity to inspect or copy
+12 such record.
+13 (4) A public agency may require that a request for public records be
+14 submitted to it in a writing that specifically describes the subject mat-
+15 ter and records sought, including a specific date range for when the records
+16 sought were created. The requesting party shall be as specific as possible
+17 when requesting records. A request shall describe records sought in suffi-
+18 cient detail to enable the public body to locate such records with reasonable
+19 effort. A request shall also provide the requester's name, mailing address,
+20 e-mail email address, and telephone number, and a written declaration by the
+21 requesting party attesting or affirming under oath whether such requester is
+22 a resident. A request for public records and delivery of the public records
+23 may be made by electronic mail.
+24 (5) The custodian shall make no inquiry of any person who requests a
+25 public record, except:
+26 (a) To verify the identity of the requester in accordance with section
+27 74-113, Idaho Code; or
+28 (b) To ensure that the requested record or information will not be
+29 used for purposes of a mailing or telephone list prohibited by section
+30 74-120, Idaho Code, or as otherwise provided by law; or
+31 (c) As required for purposes of protecting personal information from
+32 disclosure under chapter 2, title 49, Idaho Code, and federal law.
+33 (6) The custodian shall not review, examine or scrutinize any copy,
+34 photograph or memoranda in the possession of any such person and shall extend
+35 to the person all reasonable comfort and facility for the full exercise of
+36 the right granted under this act.
+37 (7) Nothing herein contained shall prevent the custodian from main-
+38 taining such vigilance as is required to prevent alteration of any public
+39 record while it is being examined.
+40 (8) Examination of public records under the authority of this section
+41 must be conducted during regular office or working hours unless the custo-
+42 dian shall authorize examination of records in other than regular office or
+43 working hours. In this event, the persons designated to represent the cus-
+44 todian during such examination shall be entitled to reasonable compensation
+45 to be paid to them by the public agency having custody of such records, out of
+46 funds provided in advance by the person examining such records, at other than
+47 regular office or working hours.
+48 (9) The public agency may provide the requester information to help the
+49 requester narrow the scope of the request or to help the requester make the
+
+4
+1 request more specific when the response to the request is likely to be volu-
+2 minous or require payment as provided in subsection (10) of this section.
+3 (10)(a) Except for fees that are authorized or prescribed under other
+4 provisions of Idaho law, no fee shall be charged for the first two (2)
+5 hours of labor in responding to a request submitted by a resident for
+6 public records, or for copying the first one hundred (100) pages of pa-
+7 per records that are requested by a resident.
+8 (b) A public agency or public official may establish fees to recover
+9 the actual labor and copying costs associated with locating and copying
+10 documents if:
+11 (i) The request is for more than one hundred (100) pages of paper
+12 records; or
+13 (ii) The request includes records from which nonpublic informa-
+14 tion must be deleted; or
+15 (iii) The actual labor associated with responding to requests for
+16 public records in compliance with the provisions of this chapter
+17 exceeds two (2) person hours.
+18 (c) A public agency or public official may establish a separate copying
+19 fee schedule schedules for requests submitted by residents and requests
+20 submitted by persons who are not residents. The fee for residents may
+21 not exceed the actual cost to the agency of copying the record if another
+22 fee is not otherwise provided by law.
+23 (d)(i) For providing a duplicate of a computer tape, computer
+24 disc, microfilm or similar or analogous record system containing
+25 public record information, a public agency or public official may
+26 charge a fee, uniform to all persons residents, that does not ex-
+27 ceed the sum of the following:
+28 (i) 1. The agency's direct cost of copying the information
+29 in that form;
+30 (ii) 2. The standard cost, if any, for selling the same in-
+31 formation in the form of a publication;
+32 (iii) 3. The agency's cost of conversion, or the cost of con-
+33 version charged by a third party, if the existing electronic
+34 record is converted to another electronic form.
+35 (ii) A public agency or public official may charge additional
+36 fees, uniform to all persons who are not residents, for requests
+37 involving duplication of a computer tape, computer disc, mi-
+38 crofilm or similar or analogous record system containing public
+39 record information.
+40 (e) Fees for requests made by residents shall not exceed reasonable
+41 labor costs necessarily incurred in responding to a public records
+42 request. Fees, and if charged, shall reflect the personnel and quan-
+43 tity of time that are reasonably necessary to process a request. Fees
+44 for requests made by residents for labor costs shall be charged at the
+45 per hour pay rate of the lowest paid administrative staff employee or
+46 public official of the public agency who is necessary and qualified to
+47 process the request. If a request from a resident requires redactions
+48 to be made by an attorney who is employed by the public agency, the rate
+49 charged shall be no more than the per hour rate of the lowest paid attor-
+50 ney within the public agency who is necessary and qualified to process
+
+5
+1 the public records request. If a request from a resident is submitted
+2 to a public agency that does not have an attorney on staff, and requires
+3 redactions by an attorney, the rate shall be no more than the usual and
+4 customary rate of the attorney who is retained by the public agency for
+5 that purpose.
+6 (f) The public agency shall not charge any cost or fee for copies or
+7 labor when the requester is a resident and demonstrates that the re-
+8 quester's examination and/or copying of public records:
+9 (i) Is likely to contribute significantly to the public's under-
+10 standing of the operations or activities of the government;
+11 (ii) Is not primarily in the individual interest of the requester
+12 including, but not limited to, the requester's interest in litiga-
+13 tion in which the requester is or may become a party; and
+14 (iii) Will not occur if fees are charged because the requester has
+15 insufficient financial resources to pay such fees.
+16 (g) Notwithstanding any provision of law to the contrary, a public
+17 agency or public official may charge fees for labor and copying costs
+18 associated with locating and copying documents requested by a person
+19 who is not a resident or an employee of a resident. The fee rates and
+20 schedule for requests made by persons who are not residents or employees
+21 of residents shall be at the discretion of the public agency or public
+22 official as long as such fees do not exceed actual costs of the public
+23 agency or public official.
+24 (g) (h) Statements of fees by a public agency shall be itemized to show
+25 the per page costs for copies, and hourly rates of employees and attor-
+26 neys involved in responding to the request, and the actual time spent on
+27 the public records request. No lump sum costs shall be assigned to any
+28 public records request. If a separate fee schedule is adopted for re-
+29 quests from persons who are not residents or employees of residents, the
+30 separate fees for such nonresidents shall be separately identified.
+31 (11) A requester may not file multiple requests for public records
+32 solely to avoid payment of fees. When a public agency reasonably believes
+33 that one (1) or more requesters is segregating a request into a series of
+34 requests to avoid payment of fees authorized pursuant to this section, the
+35 public agency may aggregate such requests and charge the appropriate fees.
+36 The public agency may consider the time period in which the requests have
+37 been made in its determination to aggregate the related requests. A public
+38 agency shall not aggregate multiple requests on unrelated subjects from one
+39 (1) requester.
+40 (12) The custodian may require advance payment of fees authorized by
+41 this section. Any money received by the public agency shall be credited to
+42 the account for which the expense being reimbursed was or will be charged,
+43 and such funds may be expended by the agency as part of its appropriation from
+44 that fund. Any portion of an advance payment in excess of the actual costs of
+45 labor and copying incurred by the agency in responding to the request shall
+46 be returned to the requester.
+47 (13) A public agency shall not prevent the examination or copying of a
+48 public record by contracting with a nongovernmental body to perform any of
+49 its duties or functions.
+
+6
+1 (14) Nothing contained herein shall prevent a public agency from dis-
+2 closing statistical information that is descriptive of an identifiable per-
+3 son or persons, unless prohibited by law.
+4 (15) Nothing contained herein shall prevent a public agency from pro-
+5 viding a copy of a public record in electronic form if the record is available
+6 in electronic form and if the person specifically requests an electronic
+7 copy.
+8 (16) A public agency or elected official shall designate a custodian or
+9 custodians for all public records, which includes any public official having
+10 custody of, control of, or authorized access to public records and also in-
+11 cludes all delegates of such officials, employees or representatives.
+12 SECTION 3. That Section 74-103, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 74-103. REQUEST AND RESPONSE TO REQUEST FOR EXAMINATION OF PUBLIC
+15 RECORDS. (1) All requests to examine public records shall be made to the
+16 designated custodian of such records as defined in section 74-101(3), Idaho
+17 Code. A public agency, a public official, or an employee of a public agency
+18 shall have no obligation and shall not be deemed to have assumed any obli-
+19 gation to respond to a public records request that fails to comply with the
+20 requirements of this subsection. A public records request must clearly in-
+21 dicate that it is a public records request.
+22 (2) A public agency or custodian shall either grant or deny a person's
+23 a resident's request to examine or copy public records within three (3)
+24 working days of the date of the receipt of the request for examination or
+25 copying. A public agency or custodian shall either grant or deny a request
+26 from a person who is not a resident and not employed by a resident to examine
+27 or copy public records within thirty (30) days of the date of the receipt
+28 of the request for examination or copying. If it is determined by employ-
+29 ees of the public agency that a longer period of time is needed to locate or
+30 retrieve the public records, the public agency shall so notify in writing
+31 the person requesting to examine or copy the records and shall provide the
+32 public records no later than ten (10) working days following the person's
+33 request, if such person is an Idaho a resident, and no later than twenty-one
+34 (21) working forty-five (45) days following a request from a nonresident.,
+35 except that a response to a request to examine or copy public records from
+36 a person who is not a resident and not employed by a resident may be further
+37 extended for unusual or exigent circumstances, in which case an explana-
+38 tion of such circumstances shall be provided to the requester. Provided
+39 however, if Additionally, if it is determined that the existing electronic
+40 record requested will first have to be converted to another electronic
+41 format by the agency or by a third party and that such conversion cannot be
+42 completed within ten (10) working days the time allotted for the response,
+43 the agency shall so notify in writing the person requesting to examine or
+44 copy the records. The agency shall provide the converted public record at
+45 a time mutually agreed upon between the agency and the requester, with due
+46 consideration given to any limitations that may exist due to the process of
+47 conversion or due to the use of a third party to make the conversion.
+
+7
+1 (3) If the public agency or custodian fails to respond within the time
+2 allotted for the response, the request shall be deemed to be denied within
+3 ten (10) working days following the request.
+4 (4) If the public agency denies the person's request for examination
+5 or copying the public records or denies in part and grants in part the per-
+6 son's request for examination and copying of the public records, the person
+7 legally responsible for administering the public agency or that person's de-
+8 signee shall notify the person in writing of the denial or partial denial of
+9 the request for the public record.
+10 (5) The notice of denial or partial denial shall state that the attorney
+11 for the public agency has reviewed the request or shall state that the public
+12 agency has had an opportunity to consult with an attorney regarding the re-
+13 quest for examination or copying of a record and has chosen not to do so. The
+14 notice of denial or partial denial also shall indicate the statutory author-
+15 ity for the denial and indicate clearly the person's right to appeal the de-
+16 nial or partial denial and the time periods for doing so.
+17 SECTION 4. That Section 67-4126, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-4126. POWERS AND DUTIES OF BOARD. The board of trustees of the soci-
+20 ety shall have powers and duties as follows:
+21 1. To appoint a director of the society as provided herein and advise
+22 him in the performance of his duties and formulate general policies affect-
+23 ing the society.
+24 2. To encourage and promote interest in the history of Idaho and encour-
+25 age membership in the society.
+26 3. To collect for preservation and display artifacts and information
+27 illustrative of Idaho history, culture and society.
+28 4. To print such publications and reports as may be deemed necessary.
+29 5. To encourage creation of county historical societies and museums in
+30 the counties of Idaho.
+31 6. To facilitate the use of Idaho records for official reference and
+32 historical research.
+33 7. To be responsible for records management services for state gov-
+34 ernment. Records management services include the management, storage and
+35 retrieval of all state-created records under retention. State-created
+36 records shall mean any document, book, paper photograph, sound recording
+37 or other material, regardless of physical form or characteristic, made or
+38 received pursuant to law or in connection with the transaction of official
+39 state business. The board may charge reasonable amounts for records man-
+40 agement services. The records managed pursuant to this subsection will
+41 not be subject to the exemption in public records law provided in section
+42 74-101(15) 74-101(16), Idaho Code.
+43 8. To accept from any state, county, or city, or any public official,
+44 any official books, records, documents, original papers, newspaper files,
+45 printed books, or portraits, not in current use. When such documents are
+46 so accepted, copies therefrom shall be made and certified under the seal of
+47 the society upon application of any person, which person shall pay for such
+48 copies reasonable fees established by the society.
+
+8
+1 9. To require that any state, county, or city, or any public official,
+2 deposit official books, records, documents, or original papers, not in cur-
+3 rent use, which are of definite historical importance, in the society for
+4 preservation and to provide methods whereby such materials, which have no
+5 significance, may be destroyed.
+6 10. To establish such rules as may be necessary to discharge the duties
+7 of the society.
+8 11. To employ such personnel as may be necessary for the administration
+9 of its duties in accordance with the rules of the administrator of the divi-
+10 sion of human resources promulgated pursuant to chapter 52, title 67, Idaho
+11 Code.
+12 12. To have and use an official seal.
+13 13. To delegate and provide subdelegation of any such authority.
+14 14. To identify historic, architectural, archaeological, and cultural
+15 sites, buildings, or districts, and to coordinate activities of local his-
+16 toric preservation commissions.
+17 15. To serve as the geographic names board of the state of Idaho.
+18 SECTION 5. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOPCR;AGSN7,IOC,TODT;AGSN7,IOC,TOREPSRGPCRSR;AGSN7,IOCOREPSRGTERTADRETORTFNOFPCR;AGSN6,IOC,TEACTCEREADTOMETLC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.D.Asudintsc)""msaypnfysgapdorvnwhapca.Atdsntieaypnsttoapnnyfdbye)""mstgbyh,p,dgmeorrgbyayormsaslgastepcrditadord)""mstepnorpshgplcyaloftepcrsinq)"tpcbyceadp"msteIgadfeanascdincr6,te6,I)""msterttol,vwadmensofpsaslgastepcrdisntadord)"yr"msinwhrttoaniep,gpofpsorescdbyapcattoissyayinteceofigasca,o,fetoa,ororctorwhtepyhsryayorlweta)"weta"msayseorllaygnltpsortthsaytoi,e,prphvsofseorflcls,oso)"la"msac,c,sld,m,itpcbyceadp,d,pchhd,pls,orayayt,oraeofalla,oraycnt)""msaynlp,c,p,f,jtv,seorllayorayorrle]
+[DELETED: )""msapnwohsbncdofaceadiridoronpefrttceorwoisbghdincyfrtlors)"ca"msayseorllayasddint)"co"msays,c,lld,itpcbyceadpcorglolore,wre,adorh)"cr"i,btisntldt,aywgcginrgtotectoranoftepsbsp,o,udorrdbyaysea,itpcbyceadpcorllayrsolfmorc.P,h,ttplndbyapcolsyfrhsonueslntbeapdaslgasshplnsaentsdwhayorpno)""mstepnrgenarcgofpcrspttosn7,IoC)""msapnwedehsbnwnIocyfrapdofatltty()d,egaftwoisartofars,adslaoieadyaspdinsn3,IoC.Etofryslieaseaddtcnworewhttpninted.Adeslntbeapsw,v,orper)()"ea"mseyseo,d,d,b,cnadbdorayceofasea,igteinteleorjlb,ettesemaadteIosehlsylyada)()"dinofplp"m)Deofinudtoi,l,orhj,avmofanadceofmsveordcv,oravmofplorsla;o)Dewereofinislytoveadslpyisoftepnidwnshisaewdatglpci)Reoften,a,s,adhnofayddprnnofnnslntceanunofplpyadslbeddusoturtsc)()""i,btisntldt,h,t,p,p,pgadeymsofr,igl,w,p,s,ors,orc,adalp,m,mcorprt,pcfdp,mcorpdc,d,dsorordN2.TtSn7,IoC,b,adteseishdtordasf]
+[DELETED: .PCRS--RTTOE.()EypnhsttoeeadteacyofaypcrdoftsseadtsapnttalpcrsinIoaeonatalrsfrinetasoeeypdbys)Terttocypcrsslieterttomsorpcororcswetersaeintepnoftecnoftersugetpdbytepcayorugetddbytec)A,tecnofaypcrdslget,ond,acdcyofitifterdisofanepgshcgorslfhreoytoitorchr)Apcaymyrettartfrpcrsbdtoitinawgttsydstestmradrss,igascderefrwntertwec.Tergpyslbeasscaspnrgr.Artsldersstinstdltoeetepcbytoleshrswhr.Artslaopetersn,mgalela,adten,adawndnbytgpyagoragurohwrshrrir.Artfrpcrsaddyoftepcrybemebyecm)Tecnslmenoiyofaypnworscr,e)Tovyteiyofterrinaewhs,IoC;o)Toeettterdrdorinwlntbdfrpsofamgorteltpdbys,IoC,orasoepdbyl;o)Asrdfrpsofpgplinfeurcr2,te4,IoC,adfll)Tecnslntr,eeorseaychormaintepnofayshpnadsleotepnalrectadfyfrtefleeoertgdurtsa)Nghncdslpttecnfmmgshveasisrdtoptanofaypdweitisbge)Enofpcrsurteayoftsstbecddgrroeorwghsustecnslaeenofrsinortnrroeogh.Intse,tepsddtorttecndgshenslbeedtorecobepdtotmbytepcayhgcyofshr,otospdinaebytepnegshr,atortroeorwgh)Tepcaymypeterrintohptrnwteseoftertortohpterrmet]
+[DELETED: tmescwnteretotertislytobevsorreptaspdinsn()oftss)EtfrfsttaeadorpdurosofIol,nofeslbecdfrteftto(soflrinrgtoartsdbyartfcr,orfrcgteftoehd()psofprrsttaerdbyar)Apcayorpcolmyehfstoreallradcgcsadwhlgadcsi)Tertisfrmetnoehd()psofp;o)Tertisrsfmwhncinmtbed;o)Teallradwhrgtorsfcrsincewhtepsoftscsto()pnh)Apcayorpcolmyehasecesessfrrssdbyrsadrdbypswoaentr.Tefefrrsmtedtealcttoteayofcgterdifaeisntoepdbyl)Frpgadeofacrt,c,mmorsrorasrdsmccrdi,apcayorpcolmeaf,umtoalpsr,ttdsntedtesmoftef)1.Teasdtctofcgteinttf)2.Tesdc,ifa,frsgteseinintefmofap)3.Teasctofc,ortectofcncdbyatdp,ifteegediscdtoarecf)Apcayorpcolmycea,umtoalpswoaentr,frrgdnofacrt,crd,mmorsrorasrdsmcgpdi)Fsfrrsmebyrsslntedrrcsnyidinrgtoapcr.F,adifc,slrttepladqyoftettaerynytopsar.Frrsmebyrrlrcsslbecdattrhrpyreofteltpdaesfeeocoloftepcaywoisnyadqdtster.Ifartfmartrsrobemebyanaywoisedbytepca,terdslbenometnteprhrreofteltpdaywntepcaywoisnyadqdtop]
+[DELETED: epcrsr.Ifartfmartissoapcayttdsntheanayons,adrsbyana,tereslbenometnteulayreofteaywoisrdbytepcayftp)Tepcayslntceayctorfefrcsorwnterrisartaddstttersenarcgofpcr)Islytocesytotepsugofteosorasofteg)Isntpyinteilitofter,btntldt,tersitinlninwhterrisormybeap;a)Wlntoriffsaecdbeterrhtflrstopyshf)Ngaypnoflwtotec,apyorpcolmycefsfrlradcgcdwhlgadcgdsrdbyapoisntartoraneeofar.Tefersaefrrsmebypswoaentrsorefrsslbeattednoftepcayorplaslgasshfsdontedalcsoftepyorpco)()Ssoffsbyapcayslbeidtoseprpecsfrc,adhyrsofesadasidinrgtoter,adtealtestoepcrsr.Nolpsmcsslbeadtoacrsr.Ifasefeseisadfrrsfmpswoaentrsoresofr,tefsfrshnsslbesyi)Arrmyntfemersfrpcrytoadptoff.Wnapcayrybtoe()ormersissgartioassostoadptoffsadpttotss,tcaymyaeshrsadceteaefepcaymycrtetepdinwhtershnmeinisdntoaeterdr.Apyslntaemersonudssfmo)r)Tecnmyreaeptoffsadbss.Aymyrdbytepcayslbecdteatfrwhteeebgrdwsorwlbecdshfsmybeedbyteayasptofisanftf.Aypnofanaeptinesoftealcsoradcgidbyteayinrgtotertserdtoter)Apcayslntptteenorcgofcrdbycgwhanlbytopmayosdsorf]
+[DELETED: )Ngcdhnslptapcayfmdgslinttisdeofaniepnorp,uspdbyl)Ngcdhnslptapcayfmpgacyofapcrdinecfmifterdisanecfmadiftepnsyrsane)Apcayoredolsldeacnosfralpcr,whisaypcolhyo,clo,oradastopcrsadaoisaldsofsho,esorrN3.TtSn7,IoC,b,adteseishdtordasf.RTADRETORTFRENOFP.()Alrstoeepcrsslbemetotdcnofshrsasddinsn7,I.Apca,apco,oraneeofapcalhenoonadslntbeddtoheadayontordtoapcrsrtttfstocywhtsoftss.Apcrsrtmtcyiettitisapcrsr)Apcayorcnslergtordyaprsrttoeeorcypcrswnte(gdsoftedeoftertoftertfreno.Apcayorcnslergtordyarmapnwoisntartadntedbyarttoercypcrswnty()dsoftedeofterftertfrenorc.Ifitisddbyesoftepcayttalrpdofteisndtoleoetepcr,tepcayslsonyinwepnrgtoeeorcytersadslpetcrsnolrtntn()wgdsfgtep,ifshpnisanIoar,adnolrtnt)wgfe()dsfgartfmantttaretoarttoeeorcypcrsfpnwoisntartadntedbyartmybefdfruloretc,inwhceanenofshcsslbepdtoter.P,ifA,ifitisddttteegedrdwlfthetobecdtoaretbyteayorbyatdpyadttshcnctbdwntn()wgdsteteadfrtereayslsonyinwgtepnrgtoeeoyter.Teayslpetecdpcrdatemyadunbnteayadter,whdngntoaylsttmyetdetotepsonordetoteueofatdpytometec]
+[DELETED: )Iftepcayorcnfstordwntetdfrter,tertslbeddtobeddwn()wgdsfgter)Iftepcaydstepsrtfrercgtepcrsordsinptadgsinpttepsrtfrenadcgoftepcr,tepyrefragtepcayorttpsdeslnytepninwgoftedlorpldloertfrtepcr)Teneofdlorpldlslsettteartepcayhsrdtertorslsetttepyhshdanoytoctwhanayrgtertfrenorcgofardadhscnnttodos.TeofdlorpldlaoslietesyayfrtedladiecytepsrttoaltedlorpldladtetepsfrdgsN4.TtSn6,IoC,b,adteseishdtordasf.PSADDSOFB.Tebdoftsoftesyslhepsaddsasf.Toatadroftesyaspdhnadamintepeofhsdsadfeglpsagtes.ToeeadpeitintehyofIoadeempintes.ToctfrpnaddyasadieofIoh,ceads.Toptshpsadrsasmybeddn.ToeecnofcyhlssadmsiecsofI.TofeteueofIorsfrolrealr.Toberefrrsmtssfrseg.Rsmtssietem,sealofalsdrsurr.Ssslmnayd,b,prp,sdrrorm,rsofplfmorc,meodpttolworincnwhtetnofoeb.Tebdmycereasfrrsmts.Tersmdpttotssnwtbesttoteeninpcrslwpdins)7,IoC.Toatfmays,c,orc,oraypcoyolb,r,d,olp,nrfdb,orp,ntinctu.Wnshdsaoa,cstmslbemeadcdurtesloesyunanofayp,whpnslpyfrssrefsedbytes]
+[DELETED: .Torettays,c,orc,oraypcotolb,r,d,orolp,ntinctu,whaeofdehli,intesyfnadtopemswyshm,whhen,mybed.Toehshrsasmybenytodetedftes.Toeyshplasmybenyfrteafisdsinaewhtersoftearoftednofhnrspdpttocr5,te6,I.Toheadueanols.Todeadpesnofaysha.Toiyh,a,a,adc,b,ord,adtoceasofllhcpnc.ToseastegcnsbdofteseofIN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

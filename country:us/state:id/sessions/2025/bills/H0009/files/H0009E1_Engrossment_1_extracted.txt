@@ -1,0 +1,2257 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 9, As Amended
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO ADMINISTRATIVE PROCEDURE ACT; AMENDING SECTION
+3 39-107, IDAHO CODE, TO REVISE A PROVISION REGARDING CONTESTED CASE
+4 RULES AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 54-314,
+5 IDAHO CODE, TO REVISE A PROVISION REGARDING PROCEDURES FOR DISCIPLINARY
+6 PROCEEDINGS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+7 54-2412, IDAHO CODE, TO REVISE A PROVISION REGARDING PROCEDURES FOR
+8 DISCIPLINARY PROCEEDINGS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+9 SECTION 54-2819, IDAHO CODE, TO REVISE A PROVISION REGARDING PROCE-
+10 DURES FOR DISCIPLINARY PROCEEDINGS AND TO MAKE TECHNICAL CORRECTIONS;
+11 AMENDING SECTION 54-5315, IDAHO CODE, TO REVISE A PROVISION REGARDING
+12 PROCEDURES FOR DISCIPLINARY PROCEEDINGS AND TO MAKE TECHNICAL CORREC-
+13 TIONS; AMENDING SECTION 67-5201, IDAHO CODE, TO REVISE DEFINITIONS,
+14 TO DEFINE TERMS, AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+15 67-5206, IDAHO CODE, TO REVISE A PROVISION REGARDING PROMULGATION OF
+16 RULES IMPLEMENTING THE ADMINISTRATIVE PROCEDURE ACT, TO PROVIDE FOR
+17 RULEMAKING AUTHORITY, AND TO MAKE A TECHNICAL CORRECTION; AMENDING SEC-
+18 TION 67-5232, IDAHO CODE, TO REVISE A PROVISION REGARDING DECLARATORY
+19 RULINGS BY AGENCIES AND TO PROVIDE THAT AN AGENCY SHALL INDEX ALL CUR-
+20 RENTLY EFFECTIVE DECLARATORY ORDERS; REPEALING SECTION 67-5241, IDAHO
+21 CODE, RELATING TO INFORMAL DISPOSITION; AMENDING CHAPTER 52, TITLE 67,
+22 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-5241, IDAHO CODE, TO ES-
+23 TABLISH PROVISIONS REGARDING INFORMAL DISPOSITION OF A CONTESTED CASE;
+24 AMENDING SECTION 67-5242, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+25 PROCEDURE AT A CONTESTED CASE HEARING, TO REMOVE PROVISIONS REGARDING
+26 PROCEDURE AT A CONTESTED CASE HEARING, AND TO MAKE TECHNICAL CORREC-
+27 TIONS; AMENDING CHAPTER 52, TITLE 67, IDAHO CODE, BY THE ADDITION OF A
+28 NEW SECTION 67-5242A, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING A
+29 DEFAULTING PARTY AND A DEFAULT ORDER; AMENDING SECTION 67-5244, IDAHO
+30 CODE, TO REVISE A PROVISION REGARDING A REVIEW OF RECOMMENDED ORDERS;
+31 AMENDING SECTION 67-5245, IDAHO CODE, TO REVISE A PROVISION REGARD-
+32 ING A REVIEW OF PRELIMINARY ORDERS AND TO MAKE TECHNICAL CORRECTIONS;
+33 AMENDING SECTION 67-5247, IDAHO CODE, TO PROVIDE FOR HOW LONG AN EMER-
+34 GENCY ORDER SHALL BE EFFECTIVE; AMENDING SECTION 67-5249, IDAHO CODE,
+35 TO PROVIDE THAT A PRESIDING OFFICER SHALL CREATE A HEARING RECORD, TO
+36 REVISE PROVISIONS REGARDING AN AGENCY RECORD, AND TO MAKE TECHNICAL
+37 CORRECTIONS; AMENDING SECTION 67-5250, IDAHO CODE, TO REVISE PROVI-
+38 SIONS REGARDING THE INDEXING OF PRECEDENTIAL AGENCY ORDERS, TO PROVIDE
+39 THAT ALL FINAL WRITTEN ORDERS AND GUIDANCE DOCUMENTS INDEXED BY AN
+40 AGENCY SHALL BE POSTED ON THE AGENCY'S WEBSITE, AND TO MAKE A TECHNICAL
+41 CORRECTION; AMENDING SECTION 67-5251, IDAHO CODE, TO ESTABLISH PRO-
+42 VISIONS REGARDING EVIDENCE IN A CONTESTED CASE, TO REVISE A PROVISION
+43 REGARDING EVIDENCE IN A CONTESTED CASE, AND TO MAKE TECHNICAL CORREC-
+44 TIONS; AMENDING SECTION 67-5252, IDAHO CODE, TO REVISE TERMINOLOGY;
+45 AMENDING SECTION 67-5281, IDAHO CODE, TO REVISE TERMINOLOGY AND TO
+2
+1 MAKE A TECHNICAL CORRECTION; AMENDING SECTION 67-5282, IDAHO CODE, TO
+2 REVISE TERMINOLOGY AND TO REVISE PROVISIONS REGARDING DUTIES AND PRO-
+3 HIBITED CONDUCT OF THE CHIEF ADMINISTRATIVE LAW JUDGE; AMENDING SECTION
+4 67-5283, IDAHO CODE, TO REVISE TERMINOLOGY AND TO MAKE A TECHNICAL COR-
+5 RECTION; AMENDING SECTION 67-5284, IDAHO CODE, TO REVISE TERMINOLOGY;
+6 AMENDING SECTION 67-5286, IDAHO CODE, TO REVISE A PROVISION REGARDING
+7 DEPARTMENT OF HEALTH AND WELFARE CONTESTED CASE PROCEEDINGS AND TO
+8 REMOVE PROVISIONS REGARDING CONTESTED CASE PROCEEDINGS; PROVIDING SEV-
+9 ERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 39-107, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 39-107. BOARD -- COMPOSITION -- OFFICERS -- COMPENSATION -- POWERS --
+14 SUBPOENA -- DEPOSITIONS -- REVIEW -- RULES.
+15 (1)(a) The board of environmental quality shall consist of seven (7)
+16 members who shall be appointed by the governor, with the advice and con-
+17 sent of the senate. The members shall serve at the pleasure of the gov-
+18 ernor. Each member of the board shall be a citizen of the United States,
+19 a resident of the state of Idaho, and a qualified elector and shall be
+20 appointed to assure appropriate geographic representation of the state
+21 of Idaho. Not more than four (4) members of the board shall be from any
+22 one (1) political party. Two (2) members of the board shall be chosen
+23 with due regard to their knowledge of and interest in solid waste; two
+24 (2) members shall be chosen for their knowledge of and interest in air
+25 quality; two (2) members shall be chosen for their knowledge of and in-
+26 terest in water quality; and one (1) member shall be chosen with due re-
+27 gard for his knowledge of and interest in air, water and solid waste is-
+28 sues. At least four (4) of the board members shall represent the pub-
+29 lic's interest and not derive any significant portion of their income
+30 from persons subject to air quality permits or enforcement orders.
+31 (b) The members of the board of environmental quality shall be ap-
+32 pointed for a term of four (4) years. In appointing members whose terms
+33 begin in 2000, the governor shall designate three (3) members to be ap-
+34 pointed for a term of three (3) years, two (2) members appointed for a
+35 term of four (4) years, and two (2) members appointed for a term of two
+36 (2) years. Successors to the members appointed for a term of less than
+37 four (4) years shall be appointed for a term of four (4) years there-
+38 after.
+39 (2) The board annually shall elect a chairman, a vice chairman, and a
+40 secretary and shall hold such meetings as may be necessary for the orderly
+41 conduct of its business, and such meetings shall be held from time to time on
+42 seventy-two (72) hours' notice of the chairman or a majority of the members.
+43 Five (5) members shall be necessary to constitute a quorum at any regular or
+44 special meeting, and the action of the majority of members present shall be
+45 the action of the board. The members of the board shall be compensated as
+46 provided in section 59-509(h), Idaho Code.
+47 (3) The board, in furtherance of its duties under this act and under its
+48 rules, shall have the power to administer oaths, to certify to official acts,
+3
+1 and to issue subpoenas for the attendance of witnesses and the production of
+2 papers, books, accounts, documents and testimony. The board may, if a wit-
+3 ness refuses to attend or testify or to produce any papers required by such
+4 subpoenas, report to the district court in and for the county in which the
+5 proceeding is pending, by petition, setting forth that due notice has been
+6 given of the time and place of attendance of said witnesses or the production
+7 of said papers, that the witness has been properly summoned, and that the
+8 witness has failed and refused to attend or produce the papers required by
+9 this subpoena before the board or has refused to answer questions propounded
+10 to him in the course of said proceedings, and the board may ask an order of
+11 said court compelling the witness to attend and testify and produce said pa-
+12 pers before the board. The court, upon the petition of the board, shall enter
+13 an order directing the witness to appear before the court at a time and place
+14 to be fixed by the court in such order, the time to be not more than ten (10)
+15 days from the date of the order, and then and there shall show cause why he
+16 has not attended and testified or produced said papers before the board. A
+17 copy of said order shall be served upon said witness. If it shall appear to
+18 the court that said subpoena was regularly issued by the board and regularly
+19 served, the court shall thereupon order that said witness appear before the
+20 board at the time and place fixed in said order and testify or produce the re-
+21 quired papers. Upon failure to obey said order, said witness shall be dealt
+22 with for contempt of court.
+23 (4) The director, his designee, or any party to the action may, in an in-
+24 vestigation or hearing before the board, cause the deposition or interroga-
+25 tory of witnesses or parties residing within or without the state to be taken
+26 in the manner prescribed by law for like depositions and interrogatories in
+27 civil actions in the district court of this state and to that end may compel
+28 the attendance of said witnesses and production of books, documents, papers
+29 and accounts.
+30 (5) Any person aggrieved by an action or inaction of the department
+31 shall be afforded an opportunity for a fair hearing upon request therefor
+32 in writing pursuant to chapter 52, title 67, Idaho Code, and the rules pro-
+33 mulgated thereunder. In those cases where the board has been granted the
+34 authority to hold such a hearing pursuant to a provision of the Idaho Code,
+35 the hearing may be conducted by the board at a regular or special meeting,
+36 or the board may designate hearing officers, who shall have the power and
+37 authority to conduct hearings in the name of the board at any time and place.
+38 In any hearing, a member of the board or a hearing officer designated by it
+39 shall have the power to administer oaths, examine witnesses, and issue in
+40 the name of the board subpoenas requiring the testimony of witnesses and the
+41 production of evidence relevant to any matter in the hearing.
+42 (6) Any person adversely affected by a final determination of the board
+43 may secure judicial review by filing a petition for review as prescribed un-
+44 der the provisions of chapter 52, title 67, Idaho Code. The petition for re-
+45 view shall be served upon on the chairman of the board, the director of the
+46 department, and upon the attorney general of the state of Idaho. Such ser-
+47 vice shall be jurisdictional and the provisions of this section shall be the
+48 exclusive procedure for appeal.
+49 (7) The board, by the affirmative vote of at least four (4) of its mem-
+50 bers, may adopt, amend or repeal the rules, codes, and standards of the de-
+4
+1 partment that are necessary and feasible in order to carry out the purposes
+2 and provisions of this act and to enforce the laws of this state. The rules
+3 and orders so adopted and established shall have the force and effect of law
+4 and may deal with any matters deemed necessary and feasible for protecting
+5 the environment of the state.
+6 (8) All rulemaking proceedings and hearings of the board shall be gov-
+7 erned by the provisions of chapter 52, title 67, Idaho Code.
+8 (9) The board shall adopt contested case rules consistent with the
+9 rules of administrative procedure adopted by the attorney general under
+10 pursuant to section 67-5206(1), Idaho Code, the provisions of this act and
+11 other statutory authority of the department.
+12 (10) All rules, permits and other actions heretofore adopted, issued
+13 or taken by the board of health and welfare pertaining to the environmental
+14 protection functions administered by the division of environmental quality
+15 shall remain in full force and effect until superseded.
+16 (11) The board of environmental quality shall be the successor to all
+17 rights, powers and duties of the board of health and welfare regarding all
+18 rulemaking proceedings, administrative proceedings, contested cases, civil
+19 actions, contracts, delegations, authority and other matters pertaining to
+20 environmental protection functions administered by the division of environ-
+21 mental quality.
+22 (12) Upon creation of the board of environmental quality, all pending
+23 business before the board of health and welfare relating to environmental
+24 protection functions administered by the division of environmental quality
+25 shall be transferred to and determined by the board of environmental qual-
+26 ity.
+27 SECTION 2. That Section 54-314, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 54-314. DISCIPLINE -- INJUNCTION. (1) The board shall have the author-
+30 ity to sanction any license issued pursuant to the provisions of this chapter
+31 for any of the following:
+32 (a) Fraud or deception in applying for, procuring or renewing a license
+33 under this chapter;
+34 (b) Fraud or deceit in the practice of architecture or in procuring any
+35 contract in the practice of architecture;
+36 (c) Incompetence or gross negligence or recklessness in the practice of
+37 architecture;
+38 (d) A conviction, finding of guilt, receipt of a withheld judgment or
+39 suspended sentence in this or any other state, territory, country or ju-
+40 risdiction for a felony or a misdemeanor, which misdemeanor involved
+41 a violation of the provisions of this chapter, a willful violation of
+42 state or local building codes, or a violation of other laws relating to
+43 the public health and safety and that were was committed in the course of
+44 practicing architecture;
+45 (e) Affixing his signature to, or impressing his seal upon on, any
+46 plans, drawings, specifications or other instruments of service that
+47 have not been prepared by him, or under his responsible control, or per-
+48 mitting his name to be used for the purpose of assisting any person who
+49 is not a licensed architect to evade the provisions of this chapter;
+5
+1 (f) Receiving rebates, commissions, grants of money or other favors in
+2 connection with the work, without the knowledge of the party for whom
+3 he is working, or having a pecuniary interest in the performance of the
+4 contract for the work designed, planned or supervised by him without the
+5 knowledge and consent of the owner;
+6 (g) Unethical or unprofessional conduct as defined by the rules of the
+7 board or the code of ethics established by the rules of the board;
+8 (h) Practicing architecture or representing oneself as a licensed ar-
+9 chitect when unlicensed, in violation of licensing laws of the juris-
+10 diction in which the conduct took place;
+11 (i) Having had any professional or occupational license revoked, sus-
+12 pended or otherwise disciplined in Idaho or any other state, territory,
+13 country or jurisdiction;
+14 (j) Failing to maintain the requirements for a license, including not
+15 fulfilling the continuing education requirement for license renewal
+16 established by the board in rule;
+17 (k) Failing to comply with a board order; or
+18 (l) Violating any of the provisions of this chapter or any of the rules
+19 promulgated by the board under the authority of this chapter.
+20 (2) Sanctions that the board may impose include one (1) or more of the
+21 following:
+22 (a) Refusal to grant or renew a license;
+23 (b) Revocation of a license;
+24 (c) Suspension of a license for a period not to exceed two (2) years;
+25 (d) Restriction of a license to prohibit the offender from performing
+26 certain acts or from engaging in the practice of architecture in a par-
+27 ticular manner for a period not to exceed two (2) years;
+28 (e) Placement of the offender on probation and supervision by the board
+29 for a period not to exceed two (2) years; and
+30 (f) Imposition of an administrative fine not to exceed two thousand
+31 dollars ($2,000) per violation.
+32 (3) The procedures for disciplinary proceedings shall be in compliance
+33 with the Idaho administrative procedure act and, the Idaho rules of the of-
+34 fice of the attorney general administrative procedure, and the division of
+35 occupational and professional licenses.
+36 (4) The board or any resident citizen may maintain an action in equity
+37 in the name of the state of Idaho to enjoin perpetually any person, firm, com-
+38 pany, corporation or partnership from persisting in the doing of any acts
+39 constituting a violation of this chapter. Such action shall be brought in
+40 the district court of the county in which said act or acts or some of them are
+41 claimed to have been or are being committed, by filing a complaint setting
+42 forth the acts. The court, or a judge thereof at chambers, if satisfied from
+43 the complaint or by affidavits that the acts complained of have been or are
+44 being committed and will probably be persisted in, may issue a temporary writ
+45 enjoining the defendant from the commission of any such act or acts pending
+46 final disposition of the case. The case shall proceed as in other cases for
+47 injunction. If at the trial the commission of the act or acts by the defen-
+48 dant is established, and the court further finds that it is probable that
+49 the defendant will continue therein or in similar violations, the court, or
+6
+1 a judge thereof at chambers, shall enter a decree perpetually enjoining the
+2 defendant from thereafter committing said or similar acts.
+3 SECTION 3. That Section 54-2412, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 54-2412. REVOCATION OR SUSPENSION OF LICENSE -- POWERS OF BOARD --
+6 PROCEDURES FOR DISCIPLINARY PROCEEDINGS. (1) The board shall have the power
+7 to revoke, suspend, refuse to issue, refuse to renew, or otherwise limit any
+8 license or certificate issued pursuant to the provisions of this chapter for
+9 any of the following:
+10 (a) Procuring a license or registration by knowingly making a false
+11 statement, submitting false information, or refusing to provide com-
+12 plete information in response to a question in an application for
+13 licensure or through any form of fraud or misrepresentation;
+14 (b) Being convicted of a felony;
+15 (c) Misrepresentation, or fraudulent representation in the perfor-
+16 mance of any duty, conduct or activity regulated under this chapter;
+17 (d) Violating the provisions of this chapter or any rules of the board
+18 or any code of conduct or ethical standards adopted by the board;
+19 (e) Being negligent or incompetent; or
+20 (f) Failing to provide appropriate and personal supervision, if act-
+21 ing as the designated responsible charge operator, to any person gain-
+22 ing experience under the provisions of this chapter.
+23 (2) The board shall have the power to administer oaths, take deposi-
+24 tions of witnesses within or without the state in the manner provided by law
+25 in civil cases, and shall have power throughout, within the state of Idaho,
+26 to require the attendance of such witnesses and the production of such books,
+27 records and papers as it may desire, relevant to any hearing before it of
+28 any matter which it has authority to investigate, and for that purpose the
+29 board may issue a subpoena for any witness or a subpoena duces tecum to com-
+30 pel the production of books, records or papers, directed to the sheriff of
+31 any county of the state of Idaho where such witness resides or may be found,
+32 which subpoena shall be served and returned in the same manner as a subpoena
+33 in a criminal case.
+34 (3) The procedures for disciplinary proceedings shall be in compliance
+35 with the Idaho administrative procedure act and, the Idaho rules of the of-
+36 fice of the attorney general administrative procedure, and the division of
+37 occupational and professional licenses.
+38 SECTION 4. That Section 54-2819, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 54-2819. DISCIPLINE. (1) Grounds for discipline. The board shall have
+41 the power to deny any application for or renewal of a certificate of regis-
+42 tration or to revoke, suspend or otherwise discipline any registrant or reg-
+43 istration issued pursuant to this chapter and to limit or restrict the prac-
+44 tice of any registrant upon a determination by the board that the person:
+45 (a) Made, or caused to be made, a false, fraudulent or forged statement,
+46 document, credentials or representation in procuring or attempting to
+47 procure a certificate of registration to practice geology; or
+7
+1 (b) Practiced geology under a false or assumed name; or
+2 (c) Was convicted, found guilty, received a withheld judgment or sus-
+3 pended sentence in this or any other state of action constituting a
+4 crime that is deemed relevant in accordance with section 67-9411(1),
+5 Idaho Code; or
+6 (d) Violated the provisions of this chapter or rules, standards of con-
+7 duct and practice, or any ethical codes as may be adopted by the board;
+8 or
+9 (e) Is or has been grossly negligent, incompetent, or reckless in the
+10 practice of geology; or
+11 (f) Has had a license, certificate, or registration to practice as a
+12 professional geologist suspended or revoked in any jurisdiction. A
+13 certified copy of the order of suspension or revocation shall be prima
+14 facie evidence of such suspension or revocation.
+15 (2) Proceedings. Every person subject to disciplinary proceedings
+16 shall be afforded an opportunity for hearing after reasonable notice.
+17 (a) All proceedings hereunder shall be in accordance with chapter 52,
+18 title 67, Idaho Code, and the Idaho rules of administrative procedure of
+19 the attorney general (IDAPA 04.11.01), as provided in section 67-5206,
+20 Idaho Code.
+21 (b) Hearings shall be conducted by the board or by persons appointed by
+22 the board to conduct hearings and receive evidence.
+23 (3) Probation. Any order of the board entered under this section may be
+24 withheld or suspended for a probationary period to be fixed by the board upon
+25 on such terms and conditions as may be appropriate in order to regulate, mon-
+26 itor or supervise the practice of geology by the registrant subject to such
+27 order for the prescribed probationary period.
+28 (4) Subsequent review. Any order of the board entered under this sec-
+29 tion may be withdrawn, reversed, modified or amended upon a showing by the
+30 person subject to the order that the grounds for discipline no longer ex-
+31 ist or that he is rehabilitated, qualified and competent to practice profes-
+32 sional geology and that he is not likely to violate the provisions of this
+33 section or rules adopted hereunder in the future.
+34 (5) Costs and fees. The board may, pursuant to an order of discipline
+35 or as a condition to withdrawal, reversal, modification or amendment of the
+36 order, require the person to pay all or part of the costs and fees incurred by
+37 the board in proceedings upon which the order was entered.
+38 (6) Administrative fines. The board may, pursuant to an order of disci-
+39 pline, require the payment of an administrative fine not to exceed one thou-
+40 sand dollars ($1,000) for each violation of the provisions of this section or
+41 rules adopted hereunder.
+42 SECTION 5. That Section 54-5315, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 54-5315. REVOCATION OR SUSPENSION OF LICENSE -- PROCEDURES FOR DISCI-
+45 PLINARY PROCEEDINGS. (1) The board shall have the power to refuse to issue a
+46 license, or revoke, suspend, refuse to renew, or otherwise sanction any li-
+47 cense issued pursuant to the provisions of this chapter for any of the fol-
+48 lowing:
+8
+1 (a) Procuring a license or registration by knowingly making a false
+2 statement, submitting false information, refusing to provide complete
+3 information in response to a question in an application for a license or
+4 through any form of fraud or misrepresentation;
+5 (b) Being convicted of a felony;
+6 (c) Misrepresentation or fraudulent representation in the performance
+7 of any duty, conduct or activity regulated under this chapter;
+8 (d) Violating the provisions of this chapter or any rules of the board
+9 or any code of conduct or ethical standards adopted by the board;
+10 (e) Being incompetent; or
+11 (f) Failing to provide appropriate and personal supervision, if act-
+12 ing as the designated supervisor, to any person gaining experience un-
+13 der the provisions of this chapter.
+14 (2) The board shall have the power to administer oaths, take deposi-
+15 tions of witnesses within or without the state in the manner provided by law
+16 in civil cases, and shall have power throughout, within the state of Idaho,
+17 to require the attendance of such witnesses and the production of such books,
+18 records and papers as it may desire, relevant to any hearing before it of
+19 any matter which it has authority to investigate, and for that purpose the
+20 board may issue a subpoena for any witness or a subpoena duces tecum to com-
+21 pel the production of books, records or papers, directed to the sheriff of
+22 any county of the state of Idaho where such witness resides or may be found,
+23 which subpoena shall be served and returned in the same manner as a subpoena
+24 in a criminal case.
+25 (3) The procedures for disciplinary proceedings shall be in compliance
+26 with the Idaho administrative procedure act and, the Idaho rules of the of-
+27 fice of the attorney general administrative procedure, and the division of
+28 occupational and professional licenses.
+29 SECTION 6. That Section 67-5201, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-5201. DEFINITIONS. As used in this chapter:
+32 (1) "Administrative code" means the Idaho administrative code estab-
+33 lished in this chapter.
+34 (2) "Administrative law judge" means any hearing officer who is
+35 employed as a full-time state employee by the office of administrative
+36 hearings, including the chief administrative law judge, the deputy chief
+37 administrative law judge, and any administrative law judges appointed by
+38 the chief administrative law judge pursuant to section 67-5282(1)(d), Idaho
+39 Code.
+40 (2) (3) "Adopt" means that an agency has, under the regular rulemaking
+41 process, promulgated a temporary rule, a new rule chapter, or an amendment or
+42 repeal of a final rule that will be submitted for review by the legislature as
+43 either a temporary rule or a pending rule.
+44 (3) (4) "Agency" means each state board, commission, department or of-
+45 ficer authorized by law to make rules or to determine contested cases, but
+46 does not include the legislative or judicial branches, executive officers
+47 listed in section 1, article IV of the constitution of the state of Idaho in
+48 the exercise of powers derived directly and exclusively from the constitu-
+49 tion, the state militia or the state board of correction.
+9
+1 (4) (5) "Agency action" means:
+2 (a) The whole or part of a rule or order;
+3 (b) The failure to issue a rule or order; or
+4 (c) An agency's performance of, or failure to perform, any duty placed
+5 on it by law.
+6 (5) (6) "Agency head" means an individual or body of individuals in whom
+7 the ultimate legal authority of the agency is vested by any provision of law.
+8 (6) (7) "Bulletin" means the Idaho administrative bulletin established
+9 in this chapter.
+10 (7) (8) "Chief administrative hearing officer law judge" means the
+11 administrator of the office of administrative hearings created pursuant to
+12 section 67-5280, Idaho Code.
+13 (8) (9) "Contested case" means a proceeding that results in the is-
+14 suance of an order.
+15 (9) (10) "Coordinator" means the administrative rules coordinator pre-
+16 scribed in section 67-5202, Idaho Code.
+17 (10) (11) "Document" means any executive order, notice, rule or state-
+18 ment of policy of an agency.
+19 (11) (12) "Final rule" means a rule that has been approved by the legis-
+20 lature and is in effect.
+21 (12) (13) "Hearing officer" means the chief administrative hearing of-
+22 ficer and any hearing officers appointed by him pursuant to sections 67-5281
+23 through 67-5283, Idaho Code, law judge, the deputy chief administrative law
+24 judge, any administrative law judges appointed by the chief administrative
+25 law judge pursuant to section 67-5282(1)(d), Idaho Code, any independent
+26 contract hearing officers retained by the chief administrative law judge
+27 pursuant to section 67-5282(1)(i), Idaho Code, or a person otherwise ap-
+28 pointed by an agency or board to hear a contested case.
+29 (13) (14) "License" means the whole or part of any agency permit, cer-
+30 tificate, approval, registration, charter, or similar form of authorization
+31 required by law, but does not include a license required solely for revenue
+32 purposes.
+33 (14) (15) "Official text" means the text of a document issued, pre-
+34 scribed, or promulgated by an agency in accordance with this chapter and is
+35 the only legally enforceable text of such document. Judicial notice shall be
+36 taken of all documents issued, prescribed, or promulgated in accordance with
+37 this chapter.
+38 (15) (16) "Order" means an agency action of particular applicability
+39 that determines the legal rights, duties, privileges, immunities, or other
+40 legal interests of one (1) or more specific persons.
+41 (16) (17) "Party" means each person or agency named or admitted as a
+42 party or properly seeking and entitled as of right to be admitted as a party.
+43 (17) (18) "Pending fee rule" means any pending rule all or a portion of
+44 which imposes or increases a fee or charge.
+45 (18) (19) "Pending non-fee rule" means any pending rule that is not a
+46 pending fee rule.
+47 (19) (20) "Pending rule" means a proposed rule that an agency has
+48 adopted under the regular rulemaking process but remains subject to legisla-
+49 tive review, is not a final rule, and is not in effect.
+10
+1 (20) (21) "Person" means any individual, partnership, corporation, as-
+2 sociation, governmental subdivision or agency, or public or private organi-
+3 zation or entity of any character.
+4 (22) "Presiding officer" means one (1) or more members of an agency
+5 board, an agency head, or a duly appointed hearing officer who is authorized
+6 by statute or rule to preside at a contested case hearing. When more than one
+7 (1) officer sits at a hearing, they may all jointly be presiding officers or
+8 may designate one (1) of them to be the presiding officer.
+9 (21) (23) "Proposed rule" means an agency proposal that has been adopted
+10 and remains subject to review by the legislature.
+11 (22) (24) "Provision of law" means all or a part of the state or federal
+12 constitution, or of any state or federal:
+13 (a) Statute; or
+14 (b) Rule or decision of court.
+15 (23) (25) "Publish" means to bring before the public by publication in
+16 the bulletin or administrative code, by electronic means or as otherwise
+17 specifically provided by law.
+18 (24) (26) "Rule" means all or a part of an agency statement of general
+19 applicability that has been promulgated in compliance with the provisions of
+20 this chapter and that implements, interprets, enforces, or prescribes:
+21 (a) Law; or
+22 (b) The procedure or practice requirements of an agency. The term in-
+23 cludes the amendment, repeal, or suspension of an existing rule, but
+24 does not include:
+25 (i) Statements concerning only the internal management or in-
+26 ternal personnel policies of an agency and not affecting private
+27 rights of the public or procedures available to the public; or
+28 (ii) Declaratory rulings issued pursuant to section 67-5232,
+29 Idaho Code; or
+30 (iii) Intra-agency memoranda; or
+31 (iv) Any written statements given by an agency that pertain to
+32 an interpretation of a rule or to the documentation of compliance
+33 with a rule.
+34 (25) (27) "Rule chapter" means the numeric designation of a grouping of
+35 related agency rules by the coordinator.
+36 (26) (28) "Rulemaking" means the process for formulation and adoption
+37 of a rule.
+38 (27) (29) "Standard" means a manual, guideline, criterion, specifica-
+39 tion, requirement, measurement or other authoritative principle providing a
+40 model or pattern in comparison with which the correctness or appropriateness
+41 of specified actions, practices or procedures may be determined.
+42 (28) (30) "Submitted for review" means that a rule has been provided to
+43 the legislature for review at a regular or special legislative session as
+44 provided in section 67-5291, Idaho Code.
+45 (29) (31) "Temporary rule" means a rule authorized by the governor to
+46 become effective before it has been submitted to the legislature for review.
+47 SECTION 7. That Section 67-5206, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+11
+1 67-5206. PROMULGATION OF RULES IMPLEMENTING ADMINISTRATIVE PROCEDURE
+2 ACT. (1) In accordance with the rulemaking requirements of this chapter, the
+3 attorney general shall promulgate office of administrative hearings shall,
+4 subject to legislative approval, promulgate and maintain rules implementing
+5 the provisions of sections 67-5240 through 67-5255, Idaho Code. The rules
+6 Except for any action by the department of water resources or the water re-
+7 source board, the rules shall govern all contested cases unless otherwise
+8 required by governing federal law and shall specify:
+9 (a) Form and content to be employed in giving notice of a contested
+10 case;
+11 (b) Procedures and standards required for intervention in a contested
+12 case;
+13 (c) Procedures for prehearing conferences;
+14 (d) Format for pleadings, briefs, and motions;
+15 (e) The method by which service shall be made;
+16 (f) Procedures for the issuance of subpoenas, discovery orders, and
+17 protective orders if authorized by other provisions of law;
+18 (g) Qualifications for persons seeking to act as a representatives for
+19 parties to contested cases;
+20 (h) Procedures to facilitate informal settlement of matters; and
+21 (i) Procedures for placing ex parte contacts on the record.
+22 (2)(a) After July 1, 1993, the rules promulgated by the attorney gen-
+23 eral under this section shall apply to all agencies that do not affirma-
+24 tively promulgate alternative procedures after the promulgation of the
+25 rules by the attorney general. The rules promulgated by the attorney
+26 general shall supersede the procedural rules of any agency in effect on
+27 June 30, 1993, unless that agency promulgates its own procedures as pro-
+28 vided in paragraph (b) of this subsection.
+29 (b) After July 1, 1993, an agency that promulgates its own procedures
+30 shall include in the rule adopting its own procedures a finding that
+31 states the reasons why the relevant portion of the attorney general's
+32 rules was inapplicable to the agency under the circumstances.
+33 (3) With respect to contested cases and other proceedings conducted by
+34 the office of administrative hearings as authorized by this chapter, rules
+35 promulgated by the attorney general or any agency pursuant to subsection (1)
+36 or (2) of this section shall remain in full force and effect, except with re-
+37 spect to hearing officer qualifications, until such time as the office of
+38 administrative hearings promulgates replacement rules, and thereafter such
+39 rules of the office of administrative hearings shall govern unless otherwise
+40 required by governing federal law.
+41 (2) In accordance with the rulemaking requirements of this chapter, the
+42 office of administrative hearings shall, subject to legislative approval,
+43 have the authority to promulgate and maintain rules governing the procedure
+44 of all other proceedings conducted by the office of administrative hearings,
+45 including but not limited to adjudicatory hearings, mediations, and arbi-
+46 trations not required by this chapter.
+47 SECTION 8. That Section 67-5232, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+12
+1 67-5232. DECLARATORY RULINGS BY AGENCIES. (1) Any person may petition
+2 an agency for a declaratory ruling as to the applicability of any statutory
+3 provision or of any that interprets or applies a statute or rule adminis-
+4 tered by the agency or states whether or in what manner an order issued by the
+5 agency applies to the petitioner.
+6 (2) A petition for a declaratory ruling does not preclude an agency from
+7 initiating a contested case in the matter.
+8 (3) A declaratory ruling issued by an agency under this section is a fi-
+9 nal agency action.
+10 (4) An agency shall index all currently effective declaratory orders in
+11 accordance with the provisions of section 67-5250, Idaho Code.
+12 SECTION 9. That Section 67-5241, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 10. That Chapter 52, Title 67, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 67-5241, Idaho Code, and to read as follows:
+17 67-5241. INFORMAL DISPOSITION. (1) Unless prohibited by other provi-
+18 sions of law, an agency may:
+19 (a) Decline to initiate a contested case;
+20 (b) Request such additional information as required to decide whether
+21 to initiate a contested case;
+22 (c) Seek informal disposition of a matter; and
+23 (d) Seek informal disposition of a contested case, upon which infor-
+24 mal disposition a presiding officer may decline to decide the contested
+25 case.
+26 (2) Informal disposition is to be encouraged and may be made by alter-
+27 native dispute resolution, negotiation, stipulation, agreed settlement, or
+28 consent order.
+29 (3) The agency may not abdicate its responsibility for any informal
+30 disposition. Informal dispositions must be approved by the agency head or
+31 by a presiding officer. Any agency head or presiding officer approving an
+32 informal disposition, or otherwise declining to initiate or decide a con-
+33 tested case, must furnish a brief statement of the reasons for the decision
+34 to all persons involved. The provisions of this subsection shall not apply
+35 to investigations or inquiries directed to or performed by law enforcement
+36 agencies defined in section 74-101(7), Idaho Code.
+37 (4) Informal disposition of a contested case as provided in this sec-
+38 tion is a final agency action.
+39 SECTION 11. That Section 67-5242, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 67-5242. PROCEDURE AT HEARING. (1) In a contested case other than an
+42 emergency proceeding held pursuant to section 62-5247, Idaho Code, all par-
+43 ties shall receive notice that shall include:
+44 (a) a A statement of the time, place, and nature of the hearing;
+45 (b) a A statement of the legal authority under which the hearing is to be
+46 held; and
+13
+1 (c) a A short and plain statement of the matters asserted or the issues
+2 involved.
+3 (2) The agency head, one (1) or more members of the agency head, or one
+4 (1) or more hearing officers may, in the discretion of the agency head, be the
+5 presiding officer at the hearing.
+6 (3) (2) At the hearing, the presiding officer:
+7 (a) Shall regulate the course of the proceedings to assure that there
+8 is a full disclosure of all relevant facts and issues, including such
+9 cross-examination as may be necessary.
+10 (b) Shall afford all parties the opportunity to respond and present ev-
+11 idence and argument on all issues involved, except as restricted by a
+12 limited grant of intervention or by a prehearing order.
+13 (c) May give nonparties an opportunity to present oral or written
+14 statements. If the presiding officer proposes to consider a statement
+15 by a nonparty, the presiding officer shall give all parties an opportu-
+16 nity to challenge or rebut it and, on motion of any party, the presiding
+17 officer shall require the statement to be given under oath or affirma-
+18 tion.
+19 (d) Shall cause the hearing to be recorded at the agency's expense. Any
+20 party, at that party's expense, may have a transcript prepared or may
+21 cause additional recordings to be made during the hearing if the making
+22 of the additional recording does not cause distraction or disruption.
+23 (e) May conduct all or part of the hearing by telephone, television
+24 video conference, or other electronic means, if each participant in
+25 the hearing has an opportunity to participate in the entire proceeding
+26 while it is taking place.
+27 (4) If a party fails to attend any stage of a contested case, the pre-
+28 siding officer may serve upon all parties notice of a proposed default order.
+29 The notice shall include a statement of the grounds for the proposed order.
+30 Within seven (7) days after service of the proposed order, the party against
+31 whom it was issued may file a written petition requesting the proposed order
+32 to be vacated. The petition shall state the grounds relied upon. The pre-
+33 siding officer shall either issue or vacate the default order promptly after
+34 the expiration of the time within which the party may file a petition. If the
+35 presiding officer issues a default order, the officer shall conduct any fur-
+36 ther proceedings necessary to complete the adjudication without the partic-
+37 ipation of the party in default and shall determine all issues in the adjudi-
+38 cation, including those affecting the defaulting party.
+39 SECTION 12. That Chapter 52, Title 67, Idaho Code, be, and the same is
+40 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+41 ignated as Section 67-5242A, Idaho Code, and to read as follows:
+42 67-5242A. DEFAULT. (1) Unless otherwise provided by statute or rule,
+43 if a party fails to attend or participate in a prehearing conference or hear-
+44 ing in a contested case, the presiding officer may serve upon all parties no-
+45 tice of a proposed default order. The notice shall include a statement of the
+46 grounds for the proposed order. Within seven (7) days after service of the
+47 proposed order, the party against whom it was issued may file a written peti-
+48 tion requesting the proposed order be vacated, and the petition shall state
+49 the grounds relied on. The presiding officer shall either issue or vacate
+14
+1 the default order promptly after the expiration of the time within which the
+2 party may file a petition.
+3 (2) If a default order is issued, the presiding officer may conduct any
+4 further proceedings necessary to complete the adjudication without the de-
+5 faulting party and shall determine all issues in the adjudication, including
+6 those affecting the defaulting party. A recommended, preliminary, or final
+7 order issued against a defaulting party may be based on the existing record,
+8 including the defaulting party's admissions, and any other evidence offered
+9 by the nondefaulting party, without further hearing.
+10 (3) Unless otherwise provided by statute or rule, if a party fails to
+11 attend or participate in any other conference in a contested case, the pre-
+12 siding officer may conduct the conference without the attendance of the non-
+13 appearing party and issue any appropriate order addressing the subject mat-
+14 ter of the conference.
+15 SECTION 13. That Section 67-5244, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 67-5244. REVIEW OF RECOMMENDED ORDERS. (1) A recommended order shall
+18 include a statement of the schedule for review consideration of that order
+19 by the agency head or his designee. The agency head shall allow all parties
+20 to file exceptions to request review of the recommended order, to present
+21 briefs on the issues, and may allow all parties to participate in oral argu-
+22 ment.
+23 (2) Unless otherwise required, the agency head shall either:
+24 (a) issue a final order in writing within fifty-six (56) days of the re-
+25 ceipt of the final briefs or oral argument, whichever is later, unless
+26 the period is waived or extended with the written consent of all parties
+27 or for good cause shown;
+28 (b) remand the matter for additional hearings; or
+29 (c) hold additional hearings.
+30 (3) The agency head on review of the recommended decision shall exer-
+31 cise all the decision-making power that he would have had if the agency head
+32 had presided over the hearing.
+33 SECTION 14. That Section 67-5245, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 67-5245. REVIEW OF PRELIMINARY ORDERS. (1) A preliminary order shall
+36 include:
+37 (a) A statement that the order will become a final order without further
+38 notice; and
+39 (b) The actions necessary to obtain administrative review of the pre-
+40 liminary order.
+41 (2) The agency head, upon his own motion, may, or, upon motion by any
+42 party, shall, review a preliminary order, except to the extent that:
+43 (a) Another statute precludes or limits agency review of the prelimi-
+44 nary order; or
+45 (b) The agency head has delegated his authority to review preliminary
+46 orders to one (1) or more persons.
+15
+1 (3) A petition for review of a preliminary order must be filed with the
+2 agency head, or with any person designated for this purpose by rule of the
+3 agency, within fourteen (14) days after the service date of the preliminary
+4 order unless a different time is required by other provisions of law. If
+5 the agency head on his own motion decides to review a preliminary order, the
+6 agency head shall give written notice within fourteen (14) days after the
+7 issuance of the preliminary order unless a different time is required by
+8 other provisions of law. The fourteen (14) day period for filing of notice
+9 is tolled by the filing of a petition for reconsideration under section
+10 67-5243(3), Idaho Code.
+11 (4) The basis for review must be stated on the petition. If the agency
+12 head on his own motion gives notice of his intent to review a preliminary or-
+13 der, the agency head shall identify the issues he intends to review.
+14 (5) The agency head shall allow all parties to file exceptions to
+15 request review of the preliminary order, to present briefs on the issues, and
+16 may allow all parties to participate in oral argument.
+17 (6) The agency head shall:
+18 (a) Issue a final order in writing, within fifty-six (56) days of the
+19 receipt of the final briefs or oral argument, whichever is later, unless
+20 the period is waived or extended with the written consent of all par-
+21 ties, or for good cause shown;
+22 (b) Remand the matter for additional hearings; or
+23 (c) Hold additional hearings.
+24 (7) The head of the agency or his designee for the review of preliminary
+25 orders shall exercise all of the decision-making power that he would have had
+26 if the agency head had presided over the hearing.
+27 SECTION 15. That Section 67-5247, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 67-5247. EMERGENCY PROCEEDINGS. (1) An agency may act through an emer-
+30 gency proceeding in a situation involving an immediate danger to the public
+31 health, safety, or welfare requiring immediate agency action. The agency
+32 shall take only such actions as are necessary to prevent or avoid the immedi-
+33 ate danger that justifies the use of emergency contested cases.
+34 (2) The agency shall issue an order, including a brief, reasoned state-
+35 ment to justify both the decision that an immediate danger exists and the de-
+36 cision to take the specific action. When appropriate, the order shall in-
+37 clude findings of fact and conclusions of law.
+38 (3) The agency shall give such notice as is reasonable to persons who
+39 are required to comply with the order. The order is effective when issued.
+40 (4) After issuing an order pursuant to this section, the agency shall
+41 proceed as quickly as feasible to complete any proceedings that would be re-
+42 quired if the matter did not involve an immediate danger.
+43 (5) Unless otherwise required by a provision of law, the agency record
+44 need not constitute the exclusive basis for agency action in emergency con-
+45 tested cases or for judicial review thereof.
+46 (6) No order issued pursuant to this section shall be effective for
+47 longer than one hundred twenty (120) days or until the effective date of any
+48 final order issued following the proceedings described in subsection (4) of
+49 this section, whichever is earlier.
+16
+1 SECTION 16. That Section 67-5249, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 67-5249. AGENCY RECORD. (1) A presiding officer shall ensure that a
+4 hearing record is created that complies with the provisions of this section.
+5 (1) (2) An agency shall maintain an official record of each contested
+6 case under this chapter for a period of not less than six (6) months after the
+7 expiration of the last date for judicial review, unless otherwise provided
+8 by law.
+9 (2) (3) The record shall include:
+10 (a) The recording of the hearing;
+11 (a) (b) all All notices of proceedings, pleadings, motions, briefs,
+12 petitions, and intermediate rulings the hearing and other conferences
+13 conducted by the presiding officer;
+14 (c) All prehearing orders;
+15 (d) All motions, pleadings, briefs, petitions, requests, and interme-
+16 diate rulings;
+17 (b) (e) All evidence received or considered;
+18 (c) (f) a A statement of all matters officially noticed and any related
+19 notices;
+20 (d) (g) All offers of proof and objections and rulings thereon;
+21 (e) the record prepared by the presiding officer under the provisions
+22 of section 67-5242, Idaho Code, together with any transcript of all or
+23 part of that record;
+24 (h) All proposed findings and requested orders;
+25 (i) Any transcript of the hearing, if prepared;
+26 (f) (j) staff Staff memoranda or data submitted to the presiding offi-
+27 cer or the agency head in connection with the consideration of the pro-
+28 ceeding; and
+29 (g) (k) any Any recommended order, preliminary order, final order, or
+30 order on reconsideration.; and
+31 (l) All matters placed on the record after an ex parte communication
+32 pursuant to section 67-5253, Idaho Code.
+33 (3) (4) Except to the extent that this chapter or another statute pro-
+34 vides otherwise, the agency record constitutes the exclusive basis for
+35 agency action in contested cases under this chapter or for judicial review
+36 thereof.
+37 SECTION 17. That Section 67-5250, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 67-5250. INDEXING OF PRECEDENTIAL AGENCY ORDERS -- INDEXING OF AGENCY
+40 GUIDANCE DOCUMENTS. (1) Unless otherwise prohibited by any provision of law,
+41 each agency shall index all written final orders, including all currently
+42 effective declaratory orders, that the agency intends to rely upon on as
+43 precedent. The index and the orders shall be available for public inspection
+44 and copying at cost in the main office and each regional or district office
+45 of the agency. The orders shall be indexed by name and subject. If an agency
+46 is authorized to not disclose certain information in its records to protect
+47 confidentiality, the agency shall redact confidential information in the
+48 order.
+17
+1 (2) A written final order may not be relied on as precedent by an agency
+2 to the detriment of any person until it has been made available for public
+3 inspection and indexed in the manner described in this subsection (1) of this
+4 section.
+5 (2) (3) Unless otherwise prohibited by any provision of law, each
+6 agency shall index by subject all agency guidance documents. The index and
+7 the guidance documents shall be available for public inspection and copying
+8 at cost in the main office and each regional or district office of the agency.
+9 As used in this section, "agency guidance" means all written documents,
+10 other than rules, orders, and pre-decisional material, that are intended to
+11 guide agency actions affecting the rights or interests of persons outside
+12 the agency. "Agency guidance" shall include memoranda, manuals, policy
+13 statements, interpretations of law or rules, and other material that are
+14 of general applicability, whether prepared by the agency alone or jointly
+15 with other persons. The indexing of a guidance document does not give that
+16 document the force and effect of law or other precedential authority.
+17 (4) All final written orders and guidance documents indexed by an
+18 agency pursuant to this section shall be posted on the agency's website on
+19 a single webpage, organized by subject, and with a direct link to each such
+20 final written order or guidance document.
+21 SECTION 18. That Section 67-5251, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 67-5251. EVIDENCE -- OFFICIAL NOTICE. (1) The presiding officer may
+24 exclude evidence that is irrelevant, unduly repetitious, or excludable on
+25 constitutional or statutory grounds, or on the basis of any evidentiary
+26 privilege provided by statute or recognized in the courts of this state. All
+27 other evidence may be admitted if it is of a type commonly relied upon on by
+28 prudent persons in the conduct of their affairs.
+29 (2) Any part of the evidence may be received in written form if doing so
+30 will expedite the hearing without substantially prejudicing the interests
+31 of any party.
+32 (3) The parties may stipulate as to some or all of the facts at issue in
+33 the contested case.
+34 (4) The presiding officer may request such additional information from
+35 any party as he may require to decide the contested case.
+36 (3) (5) Documentary evidence may be received in the form of copies or
+37 excerpts, if the original is not readily available. Upon request, parties
+38 shall be given an opportunity to compare the copy with the original if avail-
+39 able.
+40 (6) Testimony shall be made under oath or affirmation.
+41 (4) (7) Official notice may be taken of:
+42 (a) any Any facts that could be judicially noticed in the courts of this
+43 state; and
+44 (b) generally Generally recognized technical or scientific facts
+45 within the agency's specialized knowledge.
+46 Parties shall be notified of the specific facts or material noticed and the
+47 source thereof, including any staff memoranda and data. Notice should be
+48 provided either before or during the hearing, and must be provided before the
+49 issuance of any order that is based in whole or in part on facts or material
+18
+1 noticed. Parties must be afforded a timely and meaningful opportunity to
+2 contest and rebut the facts or material so noticed. When the presiding offi-
+3 cer proposes to notice staff memoranda or reports, a responsible staff mem-
+4 ber shall be made available for cross-examination if any party so requests.
+5 (5) (8) The agency's or presiding officer's experience, technical com-
+6 petence, and specialized knowledge may be utilized in the evaluation of the
+7 evidence.
+8 SECTION 19. That Section 67-5252, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-5252. PRESIDING OFFICER -- DISQUALIFICATION. (1) Except as pro-
+11 vided in subsection (4) of this section, any party shall have the right to one
+12 (1) disqualification without cause of any person serving or designated to
+13 serve as presiding officer, and any party shall have a right to move to dis-
+14 qualify for bias, prejudice, interest, substantial prior involvement in the
+15 matter other than as a presiding officer, status as an employee of the agency
+16 hearing the contested case, lack of professional knowledge in the subject
+17 matter of the contested case, or any other cause provided in this chapter or
+18 any cause for which a judge is or may be disqualified.
+19 (2) Any party may petition for the disqualification of a person serving
+20 or designated to serve as presiding officer:
+21 (a) Within fourteen (14) days after receipt of notice indicating that
+22 the person will preside at the contested case; or
+23 (b) Promptly upon discovering facts establishing grounds for disquali-
+24 fication, whichever is later.
+25 Any party may assert a blanket disqualification for cause of all employees of
+26 the agency hearing the contested case, other than the agency head, without
+27 awaiting designation of a presiding officer.
+28 (3) A person whose disqualification for cause is requested shall deter-
+29 mine in writing whether to grant the petition, stating facts and reasons for
+30 the determination.
+31 (4) When disqualification of the agency head or a member of the agency
+32 head would result in an inability to decide a contested case, the actions of
+33 the agency head shall be treated as a conflict of interest under the provi-
+34 sions of section 74-404, Idaho Code.
+35 (5) When a decision is required to be rendered within fourteen (14)
+36 weeks of the date of a request for a hearing by state or federal statutes or
+37 rules and regulations, or when the presiding officer is the chief adminis-
+38 trative hearing officer law judge or appointed by the chief administrative
+39 hearing officer law judge as defined in section 67-5201, Idaho Code, no party
+40 shall have the right to a disqualification without cause.
+41 SECTION 20. That Section 67-5281, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 67-5281. CHIEF ADMINISTRATIVE HEARING OFFICER LAW JUDGE -- APPOINT-
+44 MENT -- QUALIFICATIONS -- REMOVAL -- SALARY. (1) A chief administrative
+45 hearing officer law judge shall be appointed by the governor and confirmed by
+46 the senate to serve a four (4) year term. A person may be reappointed to serve
+47 additional terms. Provided, however, there is no right to reappointment.
+19
+1 (2) The chief administrative hearing officer law judge must meet the
+2 following qualifications on the effective date of his appointment:
+3 (a) Be at least thirty (30) years of age;
+4 (b) Be a citizen of the United States;
+5 (c) Have held a license to practice law or held a judicial office in one
+6 (1) or more jurisdictions of the United States for at least five (5) con-
+7 tinuous years immediately preceding such appointment; and
+8 (d) Be or become an active member of the Idaho state bar within one (1)
+9 year of appointment and remain an active member in good standing there-
+10 after.
+11 (3) If the chief administrative hearing officer law judge resigns,
+12 dies, or is removed from office as provided in this section, the governor
+13 shall appoint a person who meets the qualifications established in this sec-
+14 tion, subject to confirmation by the senate, to fill the unexpired term.
+15 (4) The chief administrative hearing officer law judge may be removed
+16 from office by the governor for failing to retain those qualifications of his
+17 office established in subsection (2) of this section, for engaging in pro-
+18 hibited conduct established in section 67-5282(2), Idaho Code, or for good
+19 cause shown. Before such removal, the governor shall give the chief adminis-
+20 trative hearing officer law judge a written copy of the charges against him,
+21 provide him an opportunity to submit a response no fewer than fourteen (14)
+22 calendars calendar days thereafter, and may provide him such other process
+23 as the governor deems appropriate. If the chief administrative hearing of-
+24 ficer law judge is removed, the governor shall provide the house of represen-
+25 tatives and the senate written notice of the removal, the effective date of
+26 removal, and the reason or reasons therefor.
+27 (5) The chief administrative hearing officer law judge shall be compen-
+28 sated as determined by the governor.
+29 SECTION 21. That Section 67-5282, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-5282. DUTIES AND PROHIBITED CONDUCT OF THE CHIEF ADMINISTRATIVE
+32 HEARING OFFICER LAW JUDGE. (1) The chief administrative hearing officer law
+33 judge shall:
+34 (a) Serve as the administrator of the office of administrative hear-
+35 ings;
+36 (b) Conduct such contested case proceedings and such other proceedings
+37 as are conducted by the office of administrative hearings in accordance
+38 with section 67-5280(2)(a) and (b), Idaho Code;
+39 (c) Devote full-time to the office of administrative hearings and his
+40 obligations as chief administrative hearing officer law judge;
+41 (d) Subject to applicable law and regulation, appoint, supervise, and
+42 remove hearing officers administrative law judges and staff as he deems
+43 appropriate to the proper functioning of the office of administrative
+44 hearings, determine the duties of such appointees as he deems appro-
+45 priate, and, from among the hearing officers administrative law judges
+46 employed by the office of administrative hearings, designate a deputy
+47 chief administrative hearing officer law judge to act in place of the
+48 chief administrative hearing officer law judge when the chief adminis-
+49 trative hearing officer law judge is unable to perform his duties;
+20
+1 (e) Have the authority to promulgate rules, pursuant to the provisions
+2 of this chapter, to implement sections 67-5280 through 67-5286, Idaho
+3 Code;
+4 (f) Establish a hearing officer code of conduct that shall, among other
+5 things, provide for independent and unbiased decision-making by hear-
+6 ing officers both as perceived and in fact and provide for a system to
+7 monitor compliance with, and sanction violations of, the hearing offi-
+8 cer code of conduct;
+9 (g) Protect and ensure the decisional independence of administrative
+10 law judges and independent contractor hearing officers;
+11 (h) Implement a system for monitoring the quality of contested case
+12 proceedings and such other proceedings as are conducted by the office of
+13 administrative hearings in accordance with section 67-5280(2)(a) and
+14 (b), Idaho Code;
+15 (i) At his discretion, unless otherwise prohibited by state or federal
+16 law, retain independent contractor hearing officers at reasonable and
+17 consistent rates of compensation; provided that an independent con-
+18 tractor hearing officer with specialized expertise may be compensated
+19 at a higher rate if such expertise is necessary to the proper adjudica-
+20 tion of the case and such higher rate of compensation is necessary in
+21 order to obtain such expertise; and
+22 (j) Contract with agencies to conduct such adjudicatory hearings, me-
+23 diations, and arbitrations authorized by section 67-5280(2)(b), Idaho
+24 Code.
+25 (2) The chief administrative hearing officer law judge shall not:
+26 (a) Engage in the practice of law outside of his role in the office of
+27 administrative hearings, except for the practice of law that is permit-
+28 ted for a judge by the Idaho code of judicial conduct and is not incon-
+29 sistent with the code of conduct or his duties as chief administrative
+30 hearing officer law judge;
+31 (b) Hold, or be a candidate for, any federal, state, county, municipal,
+32 district, or other elective office;
+33 (c) Serve as the agent, representative, officer, political treasurer,
+34 or employee, whether for profit or otherwise, of any political party,
+35 political committee, or candidate as defined in either chapter 1, title
+36 34 or chapter 66, title 67, Idaho Code, or otherwise; and
+37 (d) Hold any other public or private-sector position, whether for
+38 profit or otherwise, except for volunteer or adjunct faculty posi-
+39 tions that are not inconsistent with his duties as chief administrative
+40 hearing officer law judge.
+41 SECTION 22. That Section 67-5283, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 67-5283. HEARING OFFICER QUALIFICATIONS -- POWERS -- DUTIES. (1) The
+44 chief administrative hearing officer law judge and hearing officers ap-
+45 pointed by the chief administrative hearing officer law judge shall:
+46 (a) On the effective date of their appointments and throughout their
+47 tenure, meet and retain all of the qualifications specified for the
+48 chief administrative hearing officer law judge in section 67-5281(2),
+49 Idaho Code;
+21
+1 (b) Take the oath of office as prescribed in chapter 4, title 59, Idaho
+2 Code;
+3 (c) Comply with the hearing officer code of conduct;
+4 (d) Not engage in the conduct prohibited of the chief administrative
+5 hearing officer law judge in section 67-5282(2), Idaho Code. Provided,
+6 however, to the extent that it does not create a conflict of interest,
+7 the code of conduct may be waived for some or all of these prohibitions
+8 for independent contractor hearing officers; and
+9 (e) Be deemed the presiding officers of contested case proceedings and
+10 other proceedings conducted by the office of administrative hearings
+11 and assigned to them and have the power to issue subpoenas, administer
+12 oaths, control the course of the proceedings, order the use of alter-
+13 native dispute resolution with the parties' consent, enter such awards
+14 for costs and attorney's fees as authorized by law, and perform other
+15 necessary and appropriate acts in the performance of their duties with
+16 respect to such cases.
+17 (2)(a) Independent contractors contractor hearing officers may be
+18 hired as hearing officers without the limitation on outside work or out-
+19 side practice of law, provided that:
+20 (i) A disclosure is filed with the chief administrative hearing
+21 officer law judge that states in what other outside work the inde-
+22 pendent contractor hearing officer is engaged;
+23 (ii) The independent contractor hearing officer does not engage
+24 in outside work presenting a conflict of interest; and
+25 (iii) The independent contractor hearing officer discloses such
+26 other information as required by the code of conduct.
+27 (b) If a failure to comply with the requirements of this subsection by
+28 an independent contractor hearing officer is brought to the attention
+29 of the chief administrative hearing officer law judge within thirty
+30 (30) days of the issuance of the independent contractor hearing offi-
+31 cer's order, the chief administrative hearing officer law judge shall
+32 declare such order void and of no effect within fourteen (14) days. The
+33 chief administrative hearing officer law judge shall be permitted to
+34 issue a stay while he investigates the issue of failure to comply if the
+35 order involves a financial transaction.
+36 (3) Those individuals serving as hearing officers in the office of
+37 the attorney general for department of health and welfare contested case
+38 hearings on December 31, 2023, shall have the option to be appointed hear-
+39 ing officers when the office of administrative hearings begins conducting
+40 such hearings on or after January 1, 2024, as provided by section 67-5286,
+41 Idaho Code, if they meet the hearing officer qualifications qualification
+42 requirements set forth in this section and if such hearing officer positions
+43 are available in the office of administrative hearings on an employment or
+44 independent contractor basis.
+45 SECTION 23. That Section 67-5284, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 67-5284. COOPERATION OF AGENCIES. No agency or state officer, other
+48 than the chief administrative hearing officer law judge, shall attempt to
+49 influence the selection of a hearing officer for a contested case proceeding
+22
+1 or any other matter, except mediations, and the chief administrative hearing
+2 officer law judge shall not permit any such influence; provided that agen-
+3 cies and state officers may inform the office of administrative hearings in
+4 writing of their views regarding:
+5 (1) Expertise needed or desired with respect to types of potential con-
+6 tested cases;
+7 (2) Proposed rules under consideration for adoption by the office of
+8 administrative hearings;
+9 (3) Legislation or rules under consideration or being proposed by the
+10 office of administrative hearings;
+11 (4) Legislation or rules under consideration or being proposed by such
+12 agencies or state officers; and
+13 (5) Alleged violations of the code of conduct.
+14 SECTION 24. That Section 67-5286, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 67-5286. CONDUCT OF DEPARTMENT OF HEALTH AND WELFARE CONTESTED CASE
+17 PROCEEDINGS. (1) Notwithstanding any other provision of this chapter, the
+18 office of administrative hearings shall not conduct contested case proceed-
+19 ings until January 1, 2023. Contested case proceedings commenced prior to
+20 that date shall proceed under the law as it existed as of June 30, 2022, un-
+21 less the hearing for such contested case did not commence prior to January
+22 1, 2023. Provided, however, the office of administrative hearings shall not
+23 conduct department of health and welfare contested case hearings until Jan-
+24 uary 1, 2024, and such hearings commenced prior to that date shall be com-
+25 pleted by the department of health and welfare.
+26 (2) The department of health and welfare shall expeditiously submit to
+27 the centers for medicare and medicaid services (CMS) all that may be required
+28 for CMS to approve the conduct of department of health and welfare contested
+29 case hearings by the office of administrative hearings commencing on Jan-
+30 uary 1, 2024, as provided for in subsections (1) and (3) of this section, in-
+31 cluding but not limited to state plan amendments, waivers, and memorandums
+32 of agreement, as may be required by CMS from time to time. The governor, by
+33 and through the director of the department of health and welfare, shall re-
+34 tain the authority to exercise appropriate oversight of hearings necessary
+35 to comply with requirements described in 42 U.S.C. 1396a and related regula-
+36 tions.
+37 (3) The governor may, after notice to the chief administrative hearing
+38 officer, extend the date on which the office of administrative hearings is
+39 to commence conducting department of health and welfare contested case hear-
+40 ings as provided for in subsection (1) of this section until CMS has approved
+41 the conduct of hearings by the office of administrative hearings.
+42 SECTION 25. SEVERABILITY. The provisions of this act are hereby de-
+43 clared to be severable and if any provision of this act or the application
+44 of such provision to any person or circumstance is declared invalid for any
+45 reason, such declaration shall not affect the validity of the remaining por-
+46 tions of this act.
+23
+1 SECTION 26. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.9,AsAYJ,RSADANCNAGTOTEIOAEPEA;AGS,IOC,TOREAPNRGCDCSADTOMETLC;AGSN5OC,TOREAPNRGPSFRDSADTOMETLC;AGS,IOC,TOREAPNRGPSFYPSADTOMETLC;AN5,IOC,TOREAPNRGPSFRDYPSADTOMETLCGSN5,IOC,TOREAPNRSFRDYPSADTOMETLC;AGSN6,IOC,TOREDODET,ADTOMETLC;AGS,IOC,TOREAPNRGPNOSIGTEAEPEA,TOPEFGA,ADTOMEATLC;AGSN6,IOC,TOREAPNRGDSBYASADTOPETTANAYSLIXALCYEEDYO;RGSN6,I,RGTOILD;AGCR5,TE6OC,BYTEANOFANWSN6,IOC,TOEHPSRGILDNOFACDCGSN6,IOC,TOREPSREATACDCEH,TOREPSREATACDCEH,ADTOMETLC;AGCR5,TE6,IOC,BYTEANOFWSN6,IOC,TOEHPSRGGPYADADTO;AGSN6,I,TOREAPNRGARWOFRDOGSN6,IOC,TOREAPNRGARWOFPYOSADTOMETLCGSN6,IOC,TOPEFRHWLGANEYORSLBEE;AGSN6,IOCOPETTAPGORSLCEAHGR,TEPSRGANAYR,ADTOMET;AGSN6,IOC,TOREPSRGTEIGOFPLAYO,TOPTALFLWNOSADGEDSIDBYAYSLBEPDONTEASW,ADTOMEAT;AGSN6,IOC,TOEHPSRGEEINACDC,TOREAPGEEINACDC,ADTOMETLC;AGSN6,IOC,TORETGSN6,IOC,TORETYADT]
+[DELETED: EATLC;AGSN6,IOC,TETYADTOREPSRGDSADPDCTOFTECFAELWJ;AGS,IOC,TORETYADTOMEATLC;AGSN6,IOC,TORETGSN6,IOC,TOREAPNRTOFHHADWECDCEPSADTEPSRGCDCEP;PGS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.BD--CN--OS--CN--PS-A--DS--RW--R)Tebdofelqyslctofsn(swoslbeadbyteg,whteaeadctoftes.Temsslseattepeofteg.EhmroftebdslbeacnofteUdSrtofteseofI,adaqderadslbdtoaeaegcrnoftesfI.Ntmetnfr()msoftebdslbefmae()plp.To()msoftebdslbechderdtotrkeofaditinsdw;t)msslbecnfrtrkeofaditina;to()msslbecnfrtrkeofaditinwrq;adoe()mrslbecnwhderdfrhskeofaditina,wradsdwei.Atltfr()oftebdmsslrttepsitadntdeaystpnoftrimpssttoarqypsoreto)Temsoftebdofelqyslbeadfratmoffr()y.Inagmswetnin2,tegrsldete()mstobeadfratmofte()y,to()msadfrmoffr()y,adto()msadfratmoft)y.Sstotemsadfratmoflstr()ysslbeadfratmoffr()yst)Tebdaysletac,avec,adyadslhdshmsasmybenyfrteotofisb,adshmsslbehdfmtetoteoo()h'neoftecnoramyofteme()msslbenytoceaqmatayrrolm,adteanoftemyofmsptslbeanofteb.Temsoftebdslbecdadinsn5,IoC)Teb,infeofisdsurtsataduri,slheteprtoaro,tocytoola]
+[DELETED: dtoiessfrteaeofwsadtepno,b,a,dsadt.Tebdm,ifawsrstoadortyortopeaypsrdbys,rttotedtctinadfrtecyinwhtgisp,byp,sgfhttdenehsbnofteteadpeofaeofsdwsortepfsdp,tttewshsbnpys,adtttshsfdadrdtoadorpetepsrdbssabetebdorhsrdtoarqspohminteceofsdp,adtebdmyakanorodctcgtewstoadadtyadpesdpsbeteb.Tec,untepnofteb,slenordgtewstoarbetectatateadpobefdbytectinsho,tetetobentmetntn(sfmtedeofteo,adtnadteslswcewyhsntadadtdorpdsdpsbeteb.yofsdorslbesdunsdw.Ifitslartectttsdsawsryidbytebdadr,tectsltnorttsdwsarbetdatteteadpefdinsdoradtyorpeterdp.Unfetooysdo,sdwsslbedhfrctofc)Ted,hsd,oraypytoteanm,inaninorhgbeteb,cetednoriyofwsorpsrgwnorwttesetobetntemrpdbylwfrledsadisilasintedtctoftsseadtottedmyceaeofsdwsadpnofb,d,pda)Aypnadbyananorinoftedlbeadanoyfrafrhgunrttnwgpttocr5,te6,IoC,adterspdt.IntecswetebdhsbngdtytohdshahgpttoapnofteIoCehgmybecdbytebdatarrorslmrtebdmydehgo,woslhetepraytocthsinteneoftebdatayteadpnayh,amroftebdorahgorddbyilheteprtoaro,eew,adieieneoftebdssrgtetyofwsadtnofeerttoaymrinteh)Aypnayadbyafldnoftebysejlrwbyfgapnfrrwaspdurtepsofcr5,te6,IoC.Tepnfrrwslbesdunontecnofteb,tedroft,adunteayglofteseofI.Shseslbejladtepsoftssnslbetepefra)Teb,byteaeveofatltfr()ofism,mya,adorrlter,c,adssofted]
+[DELETED: tttaenyadfeinortocyottepdpsoftsatadtoeetelsoftss.Terdossoadadedslhetefeadetofldmydlwhaymsddnyadfefrpeetoftes)Alrgpsadhsoftebdslbegdbytepsofcr5,te6,IoC)Tebdslatcdcersctwhtsofaepeadbyteaygluttosn6,IoC,tepsoftsatarsyayofted)Alr,psadorashea,irtnbytebdofhhadwepgtoteenfsadbytednofelqlrninflfeadetuls)Tebdofelqyslbetesrtoa,psaddsoftebdofhhadwergagp,aep,cdc,c,c,d,ayadormspgtlpnfsadbytednofelq)Uncnoftebdofelq,alpsbetebdofhhadwergtoenfsadbytednofelqlbetdtoadddbytebdofelqN2.TtSn5,IoC,b,adteseishdtordasf.DE--I.()Tebdslheteaytosnayleidpttotepsoftscrayoftef)Fdordninagf,pgorrgalrtsc)Fdordtintepeofaeorinpgatintepeofa)Ieorgsneorrsintepeo)Ac,fgofg,rtofawdjtodseintsorayors,t,cyorjnfrafyoram,whmrivnoftepsoftsc,awlvnoeorllbgc,oravnoforlsrgtepchhadsyadttwewscdinteceoga)Aghsset,orighssluno,a,d,ssororisofsetentbnpdbyh,orurhsrec,orpghsnetobeudfrtepeofagaypnwsntaldattoeetepsoftsc]
+[DELETED: )Rgr,c,gsofmyororfsinwhtew,wttekeoftepyfrweisw,orhgapyitintepeofttfrtewkd,pdorsdbyhmwtteadctofteo)Ulorulctasddbytersoftdorteceofesedbytersofteb)Pgaeorrgofasaldatwnu,invnoflglsoftejninwhtecttkp)Hghdayploroller,sdoroeddinIoorayors,tyorj)Fgtomntersfral,igngtecgenrtfrlerdbytebdinr)Fgtocywhabdo;o)Vgayoftepsoftscrorayofterdbytebdurteayoftsc)Sstttebdmyieieoe()ormeoft)Rltogtorrwal)Rnofal)Snofalefrapdnttoedto()y)Rnofaletoptteorfmpnasorfmegintepeofaeinaprmrfrapdnttoedto()y)Ptofteoronpnadsnbytebrapdnttoedto()y;a)Inofanaefenttoedtots()prv)TepsfrdypsslbeinchteIoaepeata,teIorsofteoeofteayglaep,adtednoladpll)TebdorayrtcnmymnananinenteneofteseofIotoenpyayp,f,c,cnorppfmpgintedgofayagavnoftsc.Shanslbebtiedtctoftecyinwhsdatorasorseoftmadtohebnoraebgc,byfgactshtea.Tec,orajetfatc,ifsdfectorbyasttteascdofhebnoragcdadwlpybepdi,myieatywgtedtfmtecnofayshatoraspldnoftec.Teceslpdasinorcsf.Ifattetltecnofteatorasbytedtise,adtectfrfsttitispetedtwlcetnorinsrv,tec,o]
+[DELETED: jetfatc,sleradepyegttfmtrcgsdorsraN3.TtSn5,IoC,b,adteseishdtordasf.RNORSNOFLE--PSOFBD-SFRDYP.()Tebdslhetepor,s,retoi,retor,oroeltaeorceidpttotepsoftscrfyoftef)Pgaleorrnbykymgaf,sgfei,orrgtopeceininretoaqninananfeorthayfmoffdorm)Bgcdofaf)M,orftrnintepeofayd,ctorayrdurtsc)Vgtepsoftscrorayrsoftebrayceofctorelssadbyteb)Bgntori;o)Fgtopeaeadpls,ifagasteddreceo,toaypnggeeurtepsoftsc)Tebdslheteprtoaro,tedsofwswnorwtteseintemrpdbylnclc,adslheprt,wnteseofIoreteaeofshwsadtepnofshbsadpsasitmyd,rttoayhgbeitoymrwhithsaytoi,adfrttpetdmyieasafraywsorasadstmtocltepnofb,rsorp,ddtotesfoycyofteseofIoweshwsrsormybefhsaslbesdadrdintesemrasasnaclc)TepsfrdypsslbeinchteIoaepeata,teIorsofteoeofteaygep,adtednoladpllN4.TtSn5,IoC,b,adteseishdtordasf.D.()Gsfrd.Tebdslheprtodyayanfrorrlofaceofrnortor,sdoroedeayrtorrnidpttotscradtoltorrttepeofayrtunadnbytebdtttep)M,orcdtobem,af,ftorfds,csorrninpgoragteaceofrntopeg;o]
+[DELETED: )Pdgyurafeoradn;o)Wsc,fdg,rdawdjtorsdseintsorayorseofancgettisddrtinaewhsn6oC;o)Vdtepsoftscrorr,ssofctadp,orayelcsasmybeadbyteb)Isorhsbngyn,i,orrsinteofg;o)Hshdal,c,orrntopeaslgtsdorrdinayj.dcyofteorofsnorrnslbepeeeofshsnorr)P.Eypnsttodyplbeadanoyfrhgarren)Alpshrslbeinaewhcr5e6,IoC,adteIorsofaepeoeaygl(A0,aspdinsn6oC)Hsslbecdbytebdorbypsadbebdtocthsadree)P.Ayoroftebdedurtssnmybdorsdfrapypdtobefdbytebdunshtsadcsasmybeaeinortor,mrorsetepeofgybytertsttosrfrtepdpyp)Str.Ayoroftebdedurtssnmybew,r,mdoradunasgbytnsttoteortttegsfrdenolretorttheisr,qdadcttopeplgyadttheisntlytovetepsoftnorrsadhrintef)Csadf.Tebdm,pttoanorofdrasacntow,r,mnoratoft,retepntopyalorptoftecsadfsidbebdinpsunwhteorwse)Aef.Tebdm,pttoanorofd,reteptofanaefenttoedoetdds()frehvnoftepsoftssnosadhN5.TtSn5,IoC,b,adteseishdtordasf.RNORSNOFLE--PSFRDYP.()Tebdslheteprtoretoie,orr,s,retor,oroesnayleidpttotepsoftscrfrayoftef]
+[DELETED: )Pgaleorrnbykymgaf,sgfei,rgtopecninretoaqninananfraleohayfmoffdorm)Bgcdofaf)Mnorftrnintepfayd,ctorayrdurtsc)Vgtepsoftscrorayrsoftebrayceofctorelssadbyteb)Bgi;o)Fgtopeaeadpls,ifagastedds,toaypnggeeurtepsoftsc)Tebdslheteprtoaro,tedsofwswnorwtteseintemrpdbylnclc,adslheprt,wnteseofIoreteaeofshwsadtepnofshbsadpsasitmyd,rttoayhgbeitoymrwhithsaytoi,adfrttpetdmyieasafraywsorasadstmtocltepnofb,rsorpdtotesfoycyofteseofIoweshwsrsormybefhsaslbesdadrdintesemrasasnaclc)TepsfrdypsslbeinchteIoaepeata,teIorsofteoeofteayglaep,adtednoladpllN6.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc)"ec"msteIoaeceedintscelwj"msayhgorwoidasafeseeebyteoeofa,igtecfaelwj,tedycelwj,adayaelwjsadbecfaelwjepttosn6,I)()""msttanayh,urterrr,pdatyr,anwrec,oranatolofaflrettwlbesdfrrwbytelearatyreorapgr)()""msehseb,c,dtororadbylwtomersortodecdc,bsntieteleorjlb,eeodinsn1,aeIVoftecnofteseofIoieeeofpsdddyadeyfmtec,tesemaortesebdofc]
+[DELETED: )()"ya"m)Teweorptofareoro)Tefetoieareoro;o)Anaspeo,orfetop,aydypnitbyl)()"yh"msanilorbyofisinweuellayofteayisvdbyaypnofl)()""msteIoaebnentsc)()"faehgorlwj"mstrofteoeofaehscdpttn6,IoC)()"dc"msapgttrsinteieofano)()""msteaerscrpdinsn6,IoC)()""msayeeo,n,reorstofpyofana)"lr"msaretthsbnadbyteleadisine)"go"mstecfaehgoradayhgosadbyhmpttoss6h6,IoC,lwj,tedycfael,ayaelwjsadbytecfawjepttosn6,IoC,ayithgosrdbytecfaelwjttosn6,IoC,orapnoeadbyanayorbdtohracdc)()""msteweorptofayayp,c,a,r,c,orsrfmofadbyl,btdsntiealerdsyfrr)()"lt"mstettofadti,p,orpdbyanayinaewhtscradieoylyeettofshd.Jlneslbnofaldsi,p,orpdinaewsc)()""msanayanofpratdstellr,d,p,i,orolisofoe()ormescp)()""msehpnorayndoradasyorpysgadedasofrttobeadasap)()"gfer"msaypgrealorapnohisorisafeorc)()"gner"msaypgrettisntgfer)()"gr"msapdrettanayhdurterrrgpsbtrssttoler,isntaflr,adisntine]
+[DELETED: )()""msayi,p,c,a,glsnora,orpcorpeonoreyofayc)"go"msoe()ormemsofana,anayh,oradyadhgorwoisayseorretopeatacdceh.Wnmetno)orssatah,tymyaljybepgosoydeoe()oftmtobetepgo)()"dr"msanaypltthsbnadrssttorwbytel)()"nofl"msaloraptofteseorf,orofayseorf)S;o)Reordnofc)()""mstobgbetepcbypniebnoraec,byecmsorasoypdbyl)()""msaloraptofanaystofgytthsbnpdincewhtepsoscradtti,i,e,orp)L;o)Tepeorpersofana.Tetmistea,r,orsnofanegr,bsnti)Sscgoyteilmtorilplpsofanayadntagpsoftepcorpsaetotep;o)Dyrsidpttosn6oC;o)Iym;o)Aywnssgnbyanayttpntninofareortotednofchar)()"ec"mstencdnofaggodayrsbytec)()""mstepsfrfnadafar)()""msam,g,c,s,r,mtororaepepglorpnincnwhwhtecsorafsda,psorpsmybed)()"dfrr"msttarehsbnpdtelefrrwatarrorsllesnadinsn6,IoC)()"yr"msareadbytegrteeebeithsbnsdtotelefrrN7.TtSn6,IoC,b,adteseishdtordasf]
+[DELETED: .PNOFRSIGAEP.()Inaewhtergrsoftsc,tyglslpeoeofaehssttolea,peadmnrsiepsofss60th6,IoC.Tertfrayanbytedtofwrrsortewrreb,tersslgnalcdcsusodbyggfllwadsls)Fmadcttobeedinggneofac)Psadssrdfrininac)Psfrpgc)Ftfrp,b,adm)Temdbywhseslbem)Psfrteieofs,dyo,aeosifadbyorpsofl)Qsfrpssgtoatasarsfstocdc)Pstofeilstofm;a)Psfrpgexpecsonter)ArJy1,1,terspdbyteayglurtssnslaytoalasttdontaypeaepsartepnoftsbyteayg.Terspdbytealslseteplrsofayayinetoe3,1,usttaypsisonpsaspdinph()oftss)ArJy1,1,anayttpsisonplieintereagisonpsafgtsterswytertpnofteaygswsietoteayurtec)Whrttocdcsadorpscdbeoeofaehsasadbytsc,rdbyteayglorayaypttosn(r()oftssnslrninflfeade,etwhrttohgorq,ulshteasteoeoehspsrtr,adtrssofteoeofaehsslgnusodbyggfll)Inaewhtergrsoftsc,teofaehss,sttoleaeteaytopeadmnrsggtepfalorpscdbyteoeofaehgbtntldtoayh,m,adasntrdbytscN8.TtSn6,IoC,b,adteseishdtordasf]
+[DELETED: .DYRSBYA.()Aypnmypnayfradyrgastoteayofaysnorofayttisorasaseorreadbyteayorsswrorinwtmranoridbytyastotep)Apnfradyrgdsntpeanayfgacdceintem)Adyrgidbyanayurtssnisaflaya)Anayslixalcyeedyosiewhtepsofsn6,IoCN9.TtSn6,IoC,b,adteseishN1.TtCr5,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ILD.()Uspdbyorpsofl,anaym)Detoieacdc)Rtshalinasrdtodewoieacdc)Skildnofam;a)Skildnofacdc,unwhildnapgormydetodetec)Ildnistobeedadmybemebyaeder,n,s,ads,oto)Teaymyntaeisryfrayi.Ildsmtbeadbyteayhdoyapgo.Ayayhdorpgoragald,oroedgtoieordeacdc,mtfhabfstoftersfrtedoalpsi.Tepsoftssnslntaoisorisddtoorpdbylwesddinsn7,IoC)IldnofacdceaspdintssnisaflayaN1.TtSn6,IoC,b,adteseishdtordasf.PEATH.()Inacdceortnaypghdpttosn6,IoC,alpsslrenettsli)aAstoftet,p,adneofteh)aAstoftellayurwhtehgistob;a]
+[DELETED: )aAstadpnstoftemsadortei)Teayh,oe()ormemsofteayh,oro)ormehgosm,intednofteayh,betgoratteh)()Atteh,tepgo)Slreteceoftepstoaetttsafldeofalrtfsadi,igsnasmyben)Sladalpsteoytordadpteeadatonalisi,etasrdbydgtofinorbyapgo)Mygensanoytoptolorw.Iftepgorpstocrasyan,tepgorslgealpsanoytoceorrtita,onmnofayp,teprslretesttobegnurohora)Slcetehgtoberdattease.A,atttpse,myheattpdormealrstobemedgtehgiftemftealrgdsntcednord)Myctalorptoftehgbyt,toc,ororecm,ifehptiehghsanoytopeinteeepeitistgp)Ifapyfstoadayseofacdc,tepgormyseunalpsneofapddtoeneslieastoftegsfrtepdonsn()dsarseoftepdo,tepyamitwsidmyfeawnpnrgtepdoobev.Tepnslsetegsrdu.Tepgorslerieorvetedtorpyaeenoftetewnwhtepymyfeap.Iftgorisadto,teorslctayfrpsnytoceteanwttepnoftepyindtadsldealisintea,igteagtedgpN1.TtCr5,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.D.()Usoepdbyseorrfapyfstoadorpeinapgceorhginacdc,tepgormyseunalpsneofapddto.Teneslieastoftsfrtepdo.Wnsn()dsarseoftdo,tepyatwmitwsidmyfeawnpnrgtepdorbev,adtepnslsegsrdo.Tepgorslerieorv]
+[DELETED: edtorpyarteenoftetewnwhtymyfeap)Ifadtorisi,tepgormyctarpsnytoceteanwttedgpyadsldealisintea,ieagtedgp.Ar,p,orfridatadgpymybebdonteegrgtedgpsa,adayoreeoytengp,wtfrh)Usoepdbyseorr,ifapyfstdorpeinayorceinacdc,tepgormycttecewtteaeoftengpyadieayaeoragtestmroftecN1.TtSn6,IoC,b,adteseishdtordasf.RWOFRDO.()Ardorseastoftesefrrwcnofttoyteayhdorhsd.Teayhdslawalpofeestortrwofterdo,topsontei,admyawalpstopeinola)Usoer,teayhdsle)ieaflorinwgwnfx()dsoftertofteflbsorola,wrisl,uepdiswdoredwhtewnctofalprfrgdces)rdtemrfralh;o)hdalh)TeayhdonrwofterddnsleealtedgprtthewdhehdifteayhdpdortehN1.TtSn6,IoC,b,adteseishdtordasf.RWOFPYO.()Apyors)Astttteorwlbeaflorwtf;a)Teasnytoonaerwoftepyo)Teayh,unhsonm,m,o,unmnbya,s,rwapyo,ettoteett)Arsepsorlsayrwoftepyo;o)Teayhdhsddhsaytorwpstooe()ormep]
+[DELETED: )Apnfrrwofapyormtbefdwhtyh,orwhaypnddfrtspebyreoft,wnfn()dsartesedeofteprusadtteisrdbyorpsofl.Ieayhdonhsonmndstorwapyo,tyhdslgewnnewnfn()dsarteoftepyorusadtteisrdbrpsofl.Tefn()dypdfrfgofnstdbytefgofapnfrrnurs,IoC)Tebsfrrwmtbesdontep.Ifteadonhsonmngsneofhsittorwapyo,teayhdsliyteisheistor)Teayhdslawalpstofeesttrwoftepyo,toptbsontei,ayawalpstopeinola)Teayhds)Ieaflorinw,wnfx()dsofttofteflbsorola,wrisl,uepdiswdoredwhtewnctofalp,orfrgdces)Rdtemrfralh;o)Hdalh)TehdofteayorhsdefrterwofpssleealoftedgprtthewdhehfteayhdhdpdortehN1.TtSn6,IoC,b,adteseishdtordasf.EYP.()Anaymyatthaneypginasniganiedrtotep,s,orwergieaya.Tealteoyshasasaenytoptoradteiedrttjsteueofeycdc)Teayslieano,igab,rdsttojybhtednttaniedresadtedntotetesca.Wna,teorsliefsofftadcsofl)Teayslgeshneasisretopswerdtocywhteo.Teoriseewni)Ariganorpttotss,teaysdasqyasfetoceaypsttwdberdiftemrddntieanied)Usoerdbyapnofl,teayrdntceteeebsfrayanineycdcsorfrjlrwt)Nooridpttotssnslbeeefrtnoehdty()dsorulteeedeofaloridfgtepsddinsn()oss,wrise]
+[DELETED: N1.TtSn6,IoC,b,adteseishdtordasf.AYR.()Apgorsleettgrdiscdttcswhtepsoftss)()Anayslmnanolrdofehceurtscrfrapdofntlstnsx()msartnofteltdefrjlr,usoepyl)()Terdsli)Tergofteh)()alAlnsofp,p,m,b,adierstehgadorcdbytepgo)Alpgo)Alm,p,b,p,r,adier)()Aleerdorc)()aAstofalmsoyndadayr)()Alosofpfadosadrst)terdpdbytepgorurtepfsn6,IoC,trwhayttofalotofttr)Alpdfsadrdo)Ayttofteh,ifp)()sfSfmaordasdtotepgororteayhdincnwhtecnoftep;a)()ayAyrdo,pyo,flo,oronr;a)Almspdonterdaranexpecttosn6,IoC)()Ettoteettttscrorarsepso,teayrdcsteeebsfyanincdcsurtscrorfrjlrN1.TtSn6,IoC,b,adteseishdtordasf.IGOFPLAYOS--IGOFAED.()Usoepdbyaypnoflhayslixalwnflo,igalcedyo,ttteayistoryunona.Teixadteosslbeaefrpcidcgatctintemnoeadehrlordtoftea.Teosslbeidbyneads.Ifanasadtontdecnininisrstop,teayslrtclinint]
+[DELETED: )Awnflormyntberdonasptbyanaotedtofaypnulithsbnmeaefrpnadidintemrddintssn()oft)()Usoepdbyaypnofl,eyslixbystalayged.Teixaegedsslbeaefrpcinadctctintemnoeadehrlordtoeofteasudintss,"yg"msalwndrtnr,o,adplm,ttaeidteayasagtersorisofpsoea."yg"sliem,m,p,isoflworr,adormlttafgla,wrpdbyteayaeorjhorp.Teigofagedtdsntgetttefeadetoflwororpla)Alflwnosadgedsidbyaypttotssnslbepdonteasweosew,odbys,adwhadtlktoehslwnororgedN1.TtSn6,IoC,b,adteseishdtordasf.EE--OLN.()Tepgormeeettisi,uyr,oreeolorsyg,orontebsofayeepdbyseorrdintecsoftss.Areemybeadifitisofatecyrdunonbtpsintectoftra)Ayptofteeemyberdinwnfmifdgsleetehgwtsypgteifayp)Tepsmyseastoseoraloftefsatieiecdc)Tepgormyrtshalinfypyashemyretodetecdc)Dyeemyberdintefmofcso,ifteolisntrya.Unr,plbegnanoytocetecywhteolifa)Tyslbemeurohora)()Olnemybetno)ayAyfsttcdbejyndintecsoft;a)gyGyrdtlorscfnteassdksslbendoftescfsormlndadtet,igaysfmaadd.Nesdbderbeordgteh,admtbepdbeteofayorttisbdinweorinptonfsorm]
+[DELETED: .Psmtbeadatyadmloyttadrttefsormlson.Wntepgorpstonesfmaorr,aresfmrslbemeaefrcnifaypysor)()Teasorpgose,tlc,adsdkemybeudinteenoftN1.TtSn6,IoC,b,adteseishdtordasf.PGOR--D.()Etaspdinsn()oftss,aypyslheterttoo)dnwtceofaypnsgorddteaspgo,adaypyslhearttometodyfrb,p,i,slpritintrortnasapgo,ssasaneeofteagtecdc,lkofplkeintesroftecdc,orayorcepdintscroycefrwhajeisormybed)Aypymypnfrtednofapnsrddtoseaspgo)Wnfn()dsarrtofneigtepnwlpeattecdc;o)Pyundgfseggsfrd,wrislypymyatabtdnfrceofalesoeayhgtecdc,ortnteayh,wgdnofapgo)Apnwednfrceisrdsldeinwgwrtogttep,sgfsadrsfed)Wndnofteayhdoramrofteadwdrtinaniytodeacdc,teasoeayhdslbetdasactofiturtepsofsn7,IoC)Wnadnisrdtoberdwnfn(softedeofartfrahgbyseorflssosadr,orwntepgoristecfaehgorlwjeoradbytecfagorlwjeasddinsn6,IoC,noplheterttoadnwtcN2.TtSn6,IoC,b,adteseishdtordasf.CFAEHGORLWJE--AT--QS--RL--S.()Acfagorlwjeslbeadbytegradcdbesetoseafr()yrt.Apnmyberdtoslt.P,h,teisnorttor]
+[DELETED: )Tecfaehgorlwjemtmttgqsonteeedeofhsa)Beatltty()ysofa)BeacnofteUdS)Hehdaletopelworhdajloeino)ormejsofteUdSsfratltfe()csysiypgsha;a)BeorbeanaemrofteIosebrwnoe(rofatadrnanaemringdsgt)Iftecfaehgorlwjer,orisrdfmoeaspdintss,teglatapnwomsteqsedintss,sttocnbytes,toflteudt)Tecfaehgorlwjemybermoebytegrfrfgtornteqsofheedinsn()oftss,freginpdctedinsn6,IoC,orfrges.Beshr,tegrslgetecfaehgorlwjeawncyoftecsathehmanoytostarenofrtnfn(scrdst,admypehmshorpstegrdsa.Iftecfaehgorlwjeisr,tegrslpeteheofrsadtesewnneofter,teeedeo,adternorrst)TecfaehgorlwjeslbecdasddbytegN2.TtSn6,IoC,b,adteseishdtordasf.DSADPDCTOFTECFAGORLWJ.()Tecfaehgorles)Seastearofteoeofaeh)Ctshcdcepsadshorpsaecdbyteoeofaehsinahsn6)ad(,IoC)Defetoteoeofaehsadhsascfaehgorlwj)Sttoaelwadr,a,s,aehgosaelwjsadsfashedetoteprfgofteoeofa,detedsofshasashedsa,a,fmagtehgosaelwjdbyteoeofaeh,deadfaehgorlwjetoatinpeoftfaehgorlwjewntecfaehgorlwjeisuetopmhsd]
+[DELETED: )Heteaytoper,pttotepftsc,toitss60th6,I)Ehahgorceofcttts,ago,pefritaduddgbyhgosbhaspdadinftadpefrasmtrcew,adsnvso,tehgorceofc)Ptadeetedlieofawjsaditcrhgo)Itasmfrmgteqyofcdcsadshorpsasaecdbyteoeoehsinaewhsn6)a,IoC)Athsd,usoepdbyseorf,rnitcrhgosatreatrsofc;pdttanitcrhgorwhsdeemybectahrreifsheeisnytotepranofteceadshhrreofcnisnyirtoonshe;a)Ctwhastoctshayh,m,adasadbysn6,I)Tecfaehgorlwjesln)Eeintepeoflwoeofhsreinteoeoeh,etfrtepeoflwttispdfrajebyteIoceofjlctadisntitwhteceofctorhsdsascfagorlwj)H,orbeacef,ayf,s,c,m,ororeeo)Seastea,r,o,pltre,wrfrptoro,ofayplplc,orceasddinercr1,t4orcr6,te6,IoC,oro;a)Hdayorpcorprp,wrftoro,etfrvroratfypsttaentitwhhsdsascfagorlwjN2.TtSn6,IoC,b,adteseishdtordasf.HGORQS--PS--D.()Tfaehgorlwjeadhgosadbytecfaehgorlwjes)Onteeedeoftrasadttt,mtadrnalofteqssdfrtfaehgorlwjeinsn6oC]
+[DELETED: )Teteohofoeaspdincr4,te5,I)Cywhtehgorceofc)Nteeintectpdoftecfagorlwjeinsn6,IoC.P,toteetttitdsntceactofieceofctmybewdfrseoraloftepritcrhgo;a)Beddtepgosofcdcepsarpscdbyteoeofaehdadtotmadheteprtoies,a,clteceoftep,orteueofaedernwhtep'c,ersharcsadasfsasadbyl,adpmoyadaeasintepeoftrdswttoshc)Itcscrhgosmybdashgoswttelnonoewkoroepeofl,pdt)Adeisfdwhtecfaehrlwjettssinwtoroewkteitcrhgorise)Teitcrhgordsntenoewkpgactofi;a)Teitcrhgordssrinasrdbyteceofc)Ifafetocywhtersoftssnbnitcrhgorisbttoteaftecfaehgorlwjewnt)dsofteieofteitcrhgoso,tecfaehgorlwjeseshorvdadofnoetwnfn()d.Tfaehgorlwjeslbepdteasyweheisteieoffetocyiftrisaflt)TeissgashgosinteoeoeayglfrdtofhhadwecdcsonDr3,2,slheteontobeadhgoswnteoeofaehsbschhsonorarJy1,2,aspdbysn6oC,iftymttehgorqsqsstfhintssnadifshhgorpeaeinteoeofaehsonanetotcrbN2.TtSn6,IoC,b,adteseishdtordasf.CNOFA.Noayorseo,ontecfaehgorlwj,slattetesnofahgorfracdcep]
+[DELETED: rayorm,etm,adtecfaehrlwjeslntptayshi;pdttasadseosmyimteoeofaehsigoftrvsr)Eendorddwhrttotsofplcdc)Pdrsurcnfranbyteoeoeh)Lnorrsurcnorbgpdbyteofaeh)Lnorrsurcnorbgpdbyssorseo;a)AdvsofteceofcN2.TtSn6,IoC,b,adteseishdtordasf.CTOFDTOFHHADWECDC.()Ngayorpnoftsc,teofaehsslntctcdcepsulJy1,2.CdcepscdprttdeslpdurtelwasitedasofJe3,2,ustehgfrshcdceddntceprtoJ,2.P,h,teoeofaehsslntdtofhhadwecdcehsulJy1,2,adshhscdprtottdeslbecdbytedtofhhadw)Tedtofhhadwesleysttecsfrmeadmdss()alttmyberrCStoaetectofdtofhhadwecehsbyteoeofaehscgonJy1,2,aspdfrinss()ad()oftss,igbtntldtosepna,w,admfa,asmyberdbyCSfmtetot.Teg,bdthtedroftedtofhhadw,slrnteaytoeeaeotofhsnocywhrsddin42U.1aadrdr)Tegrm,arnetotecfaeh,edtedeonwhteoeofaehsiocecgdtofhhadwecdcehsaspdfrinsn()oftssnulCShsaectofhsbyteoeofaehN2.S.Tepsoftsataehyddtobeseadifaypnoftsatorteafshpntoaypnorceisddidfra,shdnslntattevyoftergpsoftsa]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 9, As Amended
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO ADMINISTRATIVE PROCEDURE ACT; AMENDING SECTION
+3 39-107, IDAHO CODE, TO REVISE A PROVISION REGARDING CONTESTED CASE
+4 RULES AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 54-314,
+5 IDAHO CODE, TO REVISE A PROVISION REGARDING PROCEDURES FOR DISCIPLINARY
+6 PROCEEDINGS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+7 54-2412, IDAHO CODE, TO REVISE A PROVISION REGARDING PROCEDURES FOR
+8 DISCIPLINARY PROCEEDINGS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+9 SECTION 54-2819, IDAHO CODE, TO REVISE A PROVISION REGARDING PROCE-
+10 DURES FOR DISCIPLINARY PROCEEDINGS AND TO MAKE TECHNICAL CORRECTIONS;
+11 AMENDING SECTION 54-5315, IDAHO CODE, TO REVISE A PROVISION REGARDING
+12 PROCEDURES FOR DISCIPLINARY PROCEEDINGS AND TO MAKE TECHNICAL CORREC-
+13 TIONS; AMENDING SECTION 67-5201, IDAHO CODE, TO REVISE DEFINITIONS,
+14 TO DEFINE TERMS, AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+15 67-5206, IDAHO CODE, TO REVISE A PROVISION REGARDING PROMULGATION OF
+16 RULES IMPLEMENTING THE ADMINISTRATIVE PROCEDURE ACT, TO PROVIDE FOR
+17 RULEMAKING AUTHORITY, AND TO MAKE A TECHNICAL CORRECTION; AMENDING SEC-
+18 TION 67-5232, IDAHO CODE, TO REVISE A PROVISION REGARDING DECLARATORY
+19 RULINGS BY AGENCIES AND TO PROVIDE THAT AN AGENCY SHALL INDEX ALL CUR-
+20 RENTLY EFFECTIVE DECLARATORY ORDERS; REPEALING SECTION 67-5241, IDAHO
+21 CODE, RELATING TO INFORMAL DISPOSITION; AMENDING CHAPTER 52, TITLE 67,
+22 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-5241, IDAHO CODE, TO ES-
+23 TABLISH PROVISIONS REGARDING INFORMAL DISPOSITION OF A CONTESTED CASE;
+24 AMENDING SECTION 67-5242, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+25 PROCEDURE AT A CONTESTED CASE HEARING, TO REMOVE PROVISIONS REGARDING
+26 PROCEDURE AT A CONTESTED CASE HEARING, AND TO MAKE TECHNICAL CORREC-
+27 TIONS; AMENDING CHAPTER 52, TITLE 67, IDAHO CODE, BY THE ADDITION OF A
+28 NEW SECTION 67-5242A, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING A
+29 DEFAULTING PARTY AND A DEFAULT ORDER; AMENDING SECTION 67-5244, IDAHO
+30 CODE, TO REVISE A PROVISION REGARDING A REVIEW OF RECOMMENDED ORDERS;
+31 AMENDING SECTION 67-5245, IDAHO CODE, TO REVISE A PROVISION REGARD-
+32 ING A REVIEW OF PRELIMINARY ORDERS AND TO MAKE TECHNICAL CORRECTIONS;
+33 AMENDING SECTION 67-5247, IDAHO CODE, TO PROVIDE FOR HOW LONG AN EMER-
+34 GENCY ORDER SHALL BE EFFECTIVE; AMENDING SECTION 67-5249, IDAHO CODE,
+35 TO PROVIDE THAT A PRESIDING OFFICER SHALL CREATE A HEARING RECORD, TO
+36 REVISE PROVISIONS REGARDING AN AGENCY RECORD, AND TO MAKE TECHNICAL
+37 CORRECTIONS; AMENDING SECTION 67-5250, IDAHO CODE, TO REVISE PROVI-
+38 SIONS REGARDING THE INDEXING OF PRECEDENTIAL AGENCY ORDERS, TO PROVIDE
+39 THAT ALL FINAL WRITTEN ORDERS AND GUIDANCE DOCUMENTS INDEXED BY AN
+40 AGENCY SHALL BE POSTED ON THE AGENCY'S WEBSITE, AND TO MAKE A TECHNICAL
+41 CORRECTION; AMENDING SECTION 67-5251, IDAHO CODE, TO ESTABLISH PRO-
+42 VISIONS REGARDING EVIDENCE IN A CONTESTED CASE, TO REVISE A PROVISION
+43 REGARDING EVIDENCE IN A CONTESTED CASE, AND TO MAKE TECHNICAL CORREC-
+44 TIONS; AMENDING SECTION 67-5252, IDAHO CODE, TO REVISE TERMINOLOGY;
+45 AMENDING SECTION 67-5281, IDAHO CODE, TO REVISE TERMINOLOGY AND TO
+
+2
+1 MAKE A TECHNICAL CORRECTION; AMENDING SECTION 67-5282, IDAHO CODE, TO
+2 REVISE TERMINOLOGY AND TO REVISE PROVISIONS REGARDING DUTIES AND PRO-
+3 HIBITED CONDUCT OF THE CHIEF ADMINISTRATIVE LAW JUDGE; AMENDING SECTION
+4 67-5283, IDAHO CODE, TO REVISE TERMINOLOGY AND TO MAKE A TECHNICAL COR-
+5 RECTION; AMENDING SECTION 67-5284, IDAHO CODE, TO REVISE TERMINOLOGY;
+6 AMENDING SECTION 67-5286, IDAHO CODE, TO REVISE A PROVISION REGARDING
+7 DEPARTMENT OF HEALTH AND WELFARE CONTESTED CASE PROCEEDINGS AND TO
+8 REMOVE PROVISIONS REGARDING CONTESTED CASE PROCEEDINGS; PROVIDING SEV-
+9 ERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 39-107, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 39-107. BOARD -- COMPOSITION -- OFFICERS -- COMPENSATION -- POWERS --
+14 SUBPOENA -- DEPOSITIONS -- REVIEW -- RULES.
+15 (1)(a) The board of environmental quality shall consist of seven (7)
+16 members who shall be appointed by the governor, with the advice and con-
+17 sent of the senate. The members shall serve at the pleasure of the gov-
+18 ernor. Each member of the board shall be a citizen of the United States,
+19 a resident of the state of Idaho, and a qualified elector and shall be
+20 appointed to assure appropriate geographic representation of the state
+21 of Idaho. Not more than four (4) members of the board shall be from any
+22 one (1) political party. Two (2) members of the board shall be chosen
+23 with due regard to their knowledge of and interest in solid waste; two
+24 (2) members shall be chosen for their knowledge of and interest in air
+25 quality; two (2) members shall be chosen for their knowledge of and in-
+26 terest in water quality; and one (1) member shall be chosen with due re-
+27 gard for his knowledge of and interest in air, water and solid waste is-
+28 sues. At least four (4) of the board members shall represent the pub-
+29 lic's interest and not derive any significant portion of their income
+30 from persons subject to air quality permits or enforcement orders.
+31 (b) The members of the board of environmental quality shall be ap-
+32 pointed for a term of four (4) years. In appointing members whose terms
+33 begin in 2000, the governor shall designate three (3) members to be ap-
+34 pointed for a term of three (3) years, two (2) members appointed for a
+35 term of four (4) years, and two (2) members appointed for a term of two
+36 (2) years. Successors to the members appointed for a term of less than
+37 four (4) years shall be appointed for a term of four (4) years there-
+38 after.
+39 (2) The board annually shall elect a chairman, a vice chairman, and a
+40 secretary and shall hold such meetings as may be necessary for the orderly
+41 conduct of its business, and such meetings shall be held from time to time on
+42 seventy-two (72) hours' notice of the chairman or a majority of the members.
+43 Five (5) members shall be necessary to constitute a quorum at any regular or
+44 special meeting, and the action of the majority of members present shall be
+45 the action of the board. The members of the board shall be compensated as
+46 provided in section 59-509(h), Idaho Code.
+47 (3) The board, in furtherance of its duties under this act and under its
+48 rules, shall have the power to administer oaths, to certify to official acts,
+
+3
+1 and to issue subpoenas for the attendance of witnesses and the production of
+2 papers, books, accounts, documents and testimony. The board may, if a wit-
+3 ness refuses to attend or testify or to produce any papers required by such
+4 subpoenas, report to the district court in and for the county in which the
+5 proceeding is pending, by petition, setting forth that due notice has been
+6 given of the time and place of attendance of said witnesses or the production
+7 of said papers, that the witness has been properly summoned, and that the
+8 witness has failed and refused to attend or produce the papers required by
+9 this subpoena before the board or has refused to answer questions propounded
+10 to him in the course of said proceedings, and the board may ask an order of
+11 said court compelling the witness to attend and testify and produce said pa-
+12 pers before the board. The court, upon the petition of the board, shall enter
+13 an order directing the witness to appear before the court at a time and place
+14 to be fixed by the court in such order, the time to be not more than ten (10)
+15 days from the date of the order, and then and there shall show cause why he
+16 has not attended and testified or produced said papers before the board. A
+17 copy of said order shall be served upon said witness. If it shall appear to
+18 the court that said subpoena was regularly issued by the board and regularly
+19 served, the court shall thereupon order that said witness appear before the
+20 board at the time and place fixed in said order and testify or produce the re-
+21 quired papers. Upon failure to obey said order, said witness shall be dealt
+22 with for contempt of court.
+23 (4) The director, his designee, or any party to the action may, in an in-
+24 vestigation or hearing before the board, cause the deposition or interroga-
+25 tory of witnesses or parties residing within or without the state to be taken
+26 in the manner prescribed by law for like depositions and interrogatories in
+27 civil actions in the district court of this state and to that end may compel
+28 the attendance of said witnesses and production of books, documents, papers
+29 and accounts.
+30 (5) Any person aggrieved by an action or inaction of the department
+31 shall be afforded an opportunity for a fair hearing upon request therefor
+32 in writing pursuant to chapter 52, title 67, Idaho Code, and the rules pro-
+33 mulgated thereunder. In those cases where the board has been granted the
+34 authority to hold such a hearing pursuant to a provision of the Idaho Code,
+35 the hearing may be conducted by the board at a regular or special meeting,
+36 or the board may designate hearing officers, who shall have the power and
+37 authority to conduct hearings in the name of the board at any time and place.
+38 In any hearing, a member of the board or a hearing officer designated by it
+39 shall have the power to administer oaths, examine witnesses, and issue in
+40 the name of the board subpoenas requiring the testimony of witnesses and the
+41 production of evidence relevant to any matter in the hearing.
+42 (6) Any person adversely affected by a final determination of the board
+43 may secure judicial review by filing a petition for review as prescribed un-
+44 der the provisions of chapter 52, title 67, Idaho Code. The petition for re-
+45 view shall be served upon on the chairman of the board, the director of the
+46 department, and upon the attorney general of the state of Idaho. Such ser-
+47 vice shall be jurisdictional and the provisions of this section shall be the
+48 exclusive procedure for appeal.
+49 (7) The board, by the affirmative vote of at least four (4) of its mem-
+50 bers, may adopt, amend or repeal the rules, codes, and standards of the de-
+
+4
+1 partment that are necessary and feasible in order to carry out the purposes
+2 and provisions of this act and to enforce the laws of this state. The rules
+3 and orders so adopted and established shall have the force and effect of law
+4 and may deal with any matters deemed necessary and feasible for protecting
+5 the environment of the state.
+6 (8) All rulemaking proceedings and hearings of the board shall be gov-
+7 erned by the provisions of chapter 52, title 67, Idaho Code.
+8 (9) The board shall adopt contested case rules consistent with the
+9 rules of administrative procedure adopted by the attorney general under
+10 pursuant to section 67-5206(1), Idaho Code, the provisions of this act and
+11 other statutory authority of the department.
+12 (10) All rules, permits and other actions heretofore adopted, issued
+13 or taken by the board of health and welfare pertaining to the environmental
+14 protection functions administered by the division of environmental quality
+15 shall remain in full force and effect until superseded.
+16 (11) The board of environmental quality shall be the successor to all
+17 rights, powers and duties of the board of health and welfare regarding all
+18 rulemaking proceedings, administrative proceedings, contested cases, civil
+19 actions, contracts, delegations, authority and other matters pertaining to
+20 environmental protection functions administered by the division of environ-
+21 mental quality.
+22 (12) Upon creation of the board of environmental quality, all pending
+23 business before the board of health and welfare relating to environmental
+24 protection functions administered by the division of environmental quality
+25 shall be transferred to and determined by the board of environmental qual-
+26 ity.
+27 SECTION 2. That Section 54-314, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 54-314. DISCIPLINE -- INJUNCTION. (1) The board shall have the author-
+30 ity to sanction any license issued pursuant to the provisions of this chapter
+31 for any of the following:
+32 (a) Fraud or deception in applying for, procuring or renewing a license
+33 under this chapter;
+34 (b) Fraud or deceit in the practice of architecture or in procuring any
+35 contract in the practice of architecture;
+36 (c) Incompetence or gross negligence or recklessness in the practice of
+37 architecture;
+38 (d) A conviction, finding of guilt, receipt of a withheld judgment or
+39 suspended sentence in this or any other state, territory, country or ju-
+40 risdiction for a felony or a misdemeanor, which misdemeanor involved
+41 a violation of the provisions of this chapter, a willful violation of
+42 state or local building codes, or a violation of other laws relating to
+43 the public health and safety and that were was committed in the course of
+44 practicing architecture;
+45 (e) Affixing his signature to, or impressing his seal upon on, any
+46 plans, drawings, specifications or other instruments of service that
+47 have not been prepared by him, or under his responsible control, or per-
+48 mitting his name to be used for the purpose of assisting any person who
+49 is not a licensed architect to evade the provisions of this chapter;
+
+5
+1 (f) Receiving rebates, commissions, grants of money or other favors in
+2 connection with the work, without the knowledge of the party for whom
+3 he is working, or having a pecuniary interest in the performance of the
+4 contract for the work designed, planned or supervised by him without the
+5 knowledge and consent of the owner;
+6 (g) Unethical or unprofessional conduct as defined by the rules of the
+7 board or the code of ethics established by the rules of the board;
+8 (h) Practicing architecture or representing oneself as a licensed ar-
+9 chitect when unlicensed, in violation of licensing laws of the juris-
+10 diction in which the conduct took place;
+11 (i) Having had any professional or occupational license revoked, sus-
+12 pended or otherwise disciplined in Idaho or any other state, territory,
+13 country or jurisdiction;
+14 (j) Failing to maintain the requirements for a license, including not
+15 fulfilling the continuing education requirement for license renewal
+16 established by the board in rule;
+17 (k) Failing to comply with a board order; or
+18 (l) Violating any of the provisions of this chapter or any of the rules
+19 promulgated by the board under the authority of this chapter.
+20 (2) Sanctions that the board may impose include one (1) or more of the
+21 following:
+22 (a) Refusal to grant or renew a license;
+23 (b) Revocation of a license;
+24 (c) Suspension of a license for a period not to exceed two (2) years;
+25 (d) Restriction of a license to prohibit the offender from performing
+26 certain acts or from engaging in the practice of architecture in a par-
+27 ticular manner for a period not to exceed two (2) years;
+28 (e) Placement of the offender on probation and supervision by the board
+29 for a period not to exceed two (2) years; and
+30 (f) Imposition of an administrative fine not to exceed two thousand
+31 dollars ($2,000) per violation.
+32 (3) The procedures for disciplinary proceedings shall be in compliance
+33 with the Idaho administrative procedure act and, the Idaho rules of the of-
+34 fice of the attorney general administrative procedure, and the division of
+35 occupational and professional licenses.
+36 (4) The board or any resident citizen may maintain an action in equity
+37 in the name of the state of Idaho to enjoin perpetually any person, firm, com-
+38 pany, corporation or partnership from persisting in the doing of any acts
+39 constituting a violation of this chapter. Such action shall be brought in
+40 the district court of the county in which said act or acts or some of them are
+41 claimed to have been or are being committed, by filing a complaint setting
+42 forth the acts. The court, or a judge thereof at chambers, if satisfied from
+43 the complaint or by affidavits that the acts complained of have been or are
+44 being committed and will probably be persisted in, may issue a temporary writ
+45 enjoining the defendant from the commission of any such act or acts pending
+46 final disposition of the case. The case shall proceed as in other cases for
+47 injunction. If at the trial the commission of the act or acts by the defen-
+48 dant is established, and the court further finds that it is probable that
+49 the defendant will continue therein or in similar violations, the court, or
+
+6
+1 a judge thereof at chambers, shall enter a decree perpetually enjoining the
+2 defendant from thereafter committing said or similar acts.
+3 SECTION 3. That Section 54-2412, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 54-2412. REVOCATION OR SUSPENSION OF LICENSE -- POWERS OF BOARD --
+6 PROCEDURES FOR DISCIPLINARY PROCEEDINGS. (1) The board shall have the power
+7 to revoke, suspend, refuse to issue, refuse to renew, or otherwise limit any
+8 license or certificate issued pursuant to the provisions of this chapter for
+9 any of the following:
+10 (a) Procuring a license or registration by knowingly making a false
+11 statement, submitting false information, or refusing to provide com-
+12 plete information in response to a question in an application for
+13 licensure or through any form of fraud or misrepresentation;
+14 (b) Being convicted of a felony;
+15 (c) Misrepresentation, or fraudulent representation in the perfor-
+16 mance of any duty, conduct or activity regulated under this chapter;
+17 (d) Violating the provisions of this chapter or any rules of the board
+18 or any code of conduct or ethical standards adopted by the board;
+19 (e) Being negligent or incompetent; or
+20 (f) Failing to provide appropriate and personal supervision, if act-
+21 ing as the designated responsible charge operator, to any person gain-
+22 ing experience under the provisions of this chapter.
+23 (2) The board shall have the power to administer oaths, take deposi-
+24 tions of witnesses within or without the state in the manner provided by law
+25 in civil cases, and shall have power throughout, within the state of Idaho,
+26 to require the attendance of such witnesses and the production of such books,
+27 records and papers as it may desire, relevant to any hearing before it of
+28 any matter which it has authority to investigate, and for that purpose the
+29 board may issue a subpoena for any witness or a subpoena duces tecum to com-
+30 pel the production of books, records or papers, directed to the sheriff of
+31 any county of the state of Idaho where such witness resides or may be found,
+32 which subpoena shall be served and returned in the same manner as a subpoena
+33 in a criminal case.
+34 (3) The procedures for disciplinary proceedings shall be in compliance
+35 with the Idaho administrative procedure act and, the Idaho rules of the of-
+36 fice of the attorney general administrative procedure, and the division of
+37 occupational and professional licenses.
+38 SECTION 4. That Section 54-2819, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 54-2819. DISCIPLINE. (1) Grounds for discipline. The board shall have
+41 the power to deny any application for or renewal of a certificate of regis-
+42 tration or to revoke, suspend or otherwise discipline any registrant or reg-
+43 istration issued pursuant to this chapter and to limit or restrict the prac-
+44 tice of any registrant upon a determination by the board that the person:
+45 (a) Made, or caused to be made, a false, fraudulent or forged statement,
+46 document, credentials or representation in procuring or attempting to
+47 procure a certificate of registration to practice geology; or
+
+7
+1 (b) Practiced geology under a false or assumed name; or
+2 (c) Was convicted, found guilty, received a withheld judgment or sus-
+3 pended sentence in this or any other state of action constituting a
+4 crime that is deemed relevant in accordance with section 67-9411(1),
+5 Idaho Code; or
+6 (d) Violated the provisions of this chapter or rules, standards of con-
+7 duct and practice, or any ethical codes as may be adopted by the board;
+8 or
+9 (e) Is or has been grossly negligent, incompetent, or reckless in the
+10 practice of geology; or
+11 (f) Has had a license, certificate, or registration to practice as a
+12 professional geologist suspended or revoked in any jurisdiction. A
+13 certified copy of the order of suspension or revocation shall be prima
+14 facie evidence of such suspension or revocation.
+15 (2) Proceedings. Every person subject to disciplinary proceedings
+16 shall be afforded an opportunity for hearing after reasonable notice.
+17 (a) All proceedings hereunder shall be in accordance with chapter 52,
+18 title 67, Idaho Code, and the Idaho rules of administrative procedure of
+19 the attorney general (IDAPA 04.11.01), as provided in section 67-5206,
+20 Idaho Code.
+21 (b) Hearings shall be conducted by the board or by persons appointed by
+22 the board to conduct hearings and receive evidence.
+23 (3) Probation. Any order of the board entered under this section may be
+24 withheld or suspended for a probationary period to be fixed by the board upon
+25 on such terms and conditions as may be appropriate in order to regulate, mon-
+26 itor or supervise the practice of geology by the registrant subject to such
+27 order for the prescribed probationary period.
+28 (4) Subsequent review. Any order of the board entered under this sec-
+29 tion may be withdrawn, reversed, modified or amended upon a showing by the
+30 person subject to the order that the grounds for discipline no longer ex-
+31 ist or that he is rehabilitated, qualified and competent to practice profes-
+32 sional geology and that he is not likely to violate the provisions of this
+33 section or rules adopted hereunder in the future.
+34 (5) Costs and fees. The board may, pursuant to an order of discipline
+35 or as a condition to withdrawal, reversal, modification or amendment of the
+36 order, require the person to pay all or part of the costs and fees incurred by
+37 the board in proceedings upon which the order was entered.
+38 (6) Administrative fines. The board may, pursuant to an order of disci-
+39 pline, require the payment of an administrative fine not to exceed one thou-
+40 sand dollars ($1,000) for each violation of the provisions of this section or
+41 rules adopted hereunder.
+42 SECTION 5. That Section 54-5315, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 54-5315. REVOCATION OR SUSPENSION OF LICENSE -- PROCEDURES FOR DISCI-
+45 PLINARY PROCEEDINGS. (1) The board shall have the power to refuse to issue a
+46 license, or revoke, suspend, refuse to renew, or otherwise sanction any li-
+47 cense issued pursuant to the provisions of this chapter for any of the fol-
+48 lowing:
+
+8
+1 (a) Procuring a license or registration by knowingly making a false
+2 statement, submitting false information, refusing to provide complete
+3 information in response to a question in an application for a license or
+4 through any form of fraud or misrepresentation;
+5 (b) Being convicted of a felony;
+6 (c) Misrepresentation or fraudulent representation in the performance
+7 of any duty, conduct or activity regulated under this chapter;
+8 (d) Violating the provisions of this chapter or any rules of the board
+9 or any code of conduct or ethical standards adopted by the board;
+10 (e) Being incompetent; or
+11 (f) Failing to provide appropriate and personal supervision, if act-
+12 ing as the designated supervisor, to any person gaining experience un-
+13 der the provisions of this chapter.
+14 (2) The board shall have the power to administer oaths, take deposi-
+15 tions of witnesses within or without the state in the manner provided by law
+16 in civil cases, and shall have power throughout, within the state of Idaho,
+17 to require the attendance of such witnesses and the production of such books,
+18 records and papers as it may desire, relevant to any hearing before it of
+19 any matter which it has authority to investigate, and for that purpose the
+20 board may issue a subpoena for any witness or a subpoena duces tecum to com-
+21 pel the production of books, records or papers, directed to the sheriff of
+22 any county of the state of Idaho where such witness resides or may be found,
+23 which subpoena shall be served and returned in the same manner as a subpoena
+24 in a criminal case.
+25 (3) The procedures for disciplinary proceedings shall be in compliance
+26 with the Idaho administrative procedure act and, the Idaho rules of the of-
+27 fice of the attorney general administrative procedure, and the division of
+28 occupational and professional licenses.
+29 SECTION 6. That Section 67-5201, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-5201. DEFINITIONS. As used in this chapter:
+32 (1) "Administrative code" means the Idaho administrative code estab-
+33 lished in this chapter.
+34 (2) "Administrative law judge" means any hearing officer who is
+35 employed as a full-time state employee by the office of administrative
+36 hearings, including the chief administrative law judge, the deputy chief
+37 administrative law judge, and any administrative law judges appointed by
+38 the chief administrative law judge pursuant to section 67-5282(1)(d), Idaho
+39 Code.
+40 (2) (3) "Adopt" means that an agency has, under the regular rulemaking
+41 process, promulgated a temporary rule, a new rule chapter, or an amendment or
+42 repeal of a final rule that will be submitted for review by the legislature as
+43 either a temporary rule or a pending rule.
+44 (3) (4) "Agency" means each state board, commission, department or of-
+45 ficer authorized by law to make rules or to determine contested cases, but
+46 does not include the legislative or judicial branches, executive officers
+47 listed in section 1, article IV of the constitution of the state of Idaho in
+48 the exercise of powers derived directly and exclusively from the constitu-
+49 tion, the state militia or the state board of correction.
+
+9
+1 (4) (5) "Agency action" means:
+2 (a) The whole or part of a rule or order;
+3 (b) The failure to issue a rule or order; or
+4 (c) An agency's performance of, or failure to perform, any duty placed
+5 on it by law.
+6 (5) (6) "Agency head" means an individual or body of individuals in whom
+7 the ultimate legal authority of the agency is vested by any provision of law.
+8 (6) (7) "Bulletin" means the Idaho administrative bulletin established
+9 in this chapter.
+10 (7) (8) "Chief administrative hearing officer law judge" means the
+11 administrator of the office of administrative hearings created pursuant to
+12 section 67-5280, Idaho Code.
+13 (8) (9) "Contested case" means a proceeding that results in the is-
+14 suance of an order.
+15 (9) (10) "Coordinator" means the administrative rules coordinator pre-
+16 scribed in section 67-5202, Idaho Code.
+17 (10) (11) "Document" means any executive order, notice, rule or state-
+18 ment of policy of an agency.
+19 (11) (12) "Final rule" means a rule that has been approved by the legis-
+20 lature and is in effect.
+21 (12) (13) "Hearing officer" means the chief administrative hearing of-
+22 ficer and any hearing officers appointed by him pursuant to sections 67-5281
+23 through 67-5283, Idaho Code, law judge, the deputy chief administrative law
+24 judge, any administrative law judges appointed by the chief administrative
+25 law judge pursuant to section 67-5282(1)(d), Idaho Code, any independent
+26 contract hearing officers retained by the chief administrative law judge
+27 pursuant to section 67-5282(1)(i), Idaho Code, or a person otherwise ap-
+28 pointed by an agency or board to hear a contested case.
+29 (13) (14) "License" means the whole or part of any agency permit, cer-
+30 tificate, approval, registration, charter, or similar form of authorization
+31 required by law, but does not include a license required solely for revenue
+32 purposes.
+33 (14) (15) "Official text" means the text of a document issued, pre-
+34 scribed, or promulgated by an agency in accordance with this chapter and is
+35 the only legally enforceable text of such document. Judicial notice shall be
+36 taken of all documents issued, prescribed, or promulgated in accordance with
+37 this chapter.
+38 (15) (16) "Order" means an agency action of particular applicability
+39 that determines the legal rights, duties, privileges, immunities, or other
+40 legal interests of one (1) or more specific persons.
+41 (16) (17) "Party" means each person or agency named or admitted as a
+42 party or properly seeking and entitled as of right to be admitted as a party.
+43 (17) (18) "Pending fee rule" means any pending rule all or a portion of
+44 which imposes or increases a fee or charge.
+45 (18) (19) "Pending non-fee rule" means any pending rule that is not a
+46 pending fee rule.
+47 (19) (20) "Pending rule" means a proposed rule that an agency has
+48 adopted under the regular rulemaking process but remains subject to legisla-
+49 tive review, is not a final rule, and is not in effect.
+
+10
+1 (20) (21) "Person" means any individual, partnership, corporation, as-
+2 sociation, governmental subdivision or agency, or public or private organi-
+3 zation or entity of any character.
+4 (22) "Presiding officer" means one (1) or more members of an agency
+5 board, an agency head, or a duly appointed hearing officer who is authorized
+6 by statute or rule to preside at a contested case hearing. When more than one
+7 (1) officer sits at a hearing, they may all jointly be presiding officers or
+8 may designate one (1) of them to be the presiding officer.
+9 (21) (23) "Proposed rule" means an agency proposal that has been adopted
+10 and remains subject to review by the legislature.
+11 (22) (24) "Provision of law" means all or a part of the state or federal
+12 constitution, or of any state or federal:
+13 (a) Statute; or
+14 (b) Rule or decision of court.
+15 (23) (25) "Publish" means to bring before the public by publication in
+16 the bulletin or administrative code, by electronic means or as otherwise
+17 specifically provided by law.
+18 (24) (26) "Rule" means all or a part of an agency statement of general
+19 applicability that has been promulgated in compliance with the provisions of
+20 this chapter and that implements, interprets, enforces, or prescribes:
+21 (a) Law; or
+22 (b) The procedure or practice requirements of an agency. The term in-
+23 cludes the amendment, repeal, or suspension of an existing rule, but
+24 does not include:
+25 (i) Statements concerning only the internal management or in-
+26 ternal personnel policies of an agency and not affecting private
+27 rights of the public or procedures available to the public; or
+28 (ii) Declaratory rulings issued pursuant to section 67-5232,
+29 Idaho Code; or
+30 (iii) Intra-agency memoranda; or
+31 (iv) Any written statements given by an agency that pertain to
+32 an interpretation of a rule or to the documentation of compliance
+33 with a rule.
+34 (25) (27) "Rule chapter" means the numeric designation of a grouping of
+35 related agency rules by the coordinator.
+36 (26) (28) "Rulemaking" means the process for formulation and adoption
+37 of a rule.
+38 (27) (29) "Standard" means a manual, guideline, criterion, specifica-
+39 tion, requirement, measurement or other authoritative principle providing a
+40 model or pattern in comparison with which the correctness or appropriateness
+41 of specified actions, practices or procedures may be determined.
+42 (28) (30) "Submitted for review" means that a rule has been provided to
+43 the legislature for review at a regular or special legislative session as
+44 provided in section 67-5291, Idaho Code.
+45 (29) (31) "Temporary rule" means a rule authorized by the governor to
+46 become effective before it has been submitted to the legislature for review.
+47 SECTION 7. That Section 67-5206, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+11
+1 67-5206. PROMULGATION OF RULES IMPLEMENTING ADMINISTRATIVE PROCEDURE
+2 ACT. (1) In accordance with the rulemaking requirements of this chapter, the
+3 attorney general shall promulgate office of administrative hearings shall,
+4 subject to legislative approval, promulgate and maintain rules implementing
+5 the provisions of sections 67-5240 through 67-5255, Idaho Code. The rules
+6 Except for any action by the department of water resources or the water re-
+7 source board, the rules shall govern all contested cases unless otherwise
+8 required by governing federal law and shall specify:
+9 (a) Form and content to be employed in giving notice of a contested
+10 case;
+11 (b) Procedures and standards required for intervention in a contested
+12 case;
+13 (c) Procedures for prehearing conferences;
+14 (d) Format for pleadings, briefs, and motions;
+15 (e) The method by which service shall be made;
+16 (f) Procedures for the issuance of subpoenas, discovery orders, and
+17 protective orders if authorized by other provisions of law;
+18 (g) Qualifications for persons seeking to act as a representatives for
+19 parties to contested cases;
+20 (h) Procedures to facilitate informal settlement of matters; and
+21 (i) Procedures for placing ex parte contacts on the record.
+22 (2)(a) After July 1, 1993, the rules promulgated by the attorney gen-
+23 eral under this section shall apply to all agencies that do not affirma-
+24 tively promulgate alternative procedures after the promulgation of the
+25 rules by the attorney general. The rules promulgated by the attorney
+26 general shall supersede the procedural rules of any agency in effect on
+27 June 30, 1993, unless that agency promulgates its own procedures as pro-
+28 vided in paragraph (b) of this subsection.
+29 (b) After July 1, 1993, an agency that promulgates its own procedures
+30 shall include in the rule adopting its own procedures a finding that
+31 states the reasons why the relevant portion of the attorney general's
+32 rules was inapplicable to the agency under the circumstances.
+33 (3) With respect to contested cases and other proceedings conducted by
+34 the office of administrative hearings as authorized by this chapter, rules
+35 promulgated by the attorney general or any agency pursuant to subsection (1)
+36 or (2) of this section shall remain in full force and effect, except with re-
+37 spect to hearing officer qualifications, until such time as the office of
+38 administrative hearings promulgates replacement rules, and thereafter such
+39 rules of the office of administrative hearings shall govern unless otherwise
+40 required by governing federal law.
+41 (2) In accordance with the rulemaking requirements of this chapter, the
+42 office of administrative hearings shall, subject to legislative approval,
+43 have the authority to promulgate and maintain rules governing the procedure
+44 of all other proceedings conducted by the office of administrative hearings,
+45 including but not limited to adjudicatory hearings, mediations, and arbi-
+46 trations not required by this chapter.
+47 SECTION 8. That Section 67-5232, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+12
+1 67-5232. DECLARATORY RULINGS BY AGENCIES. (1) Any person may petition
+2 an agency for a declaratory ruling as to the applicability of any statutory
+3 provision or of any that interprets or applies a statute or rule adminis-
+4 tered by the agency or states whether or in what manner an order issued by the
+5 agency applies to the petitioner.
+6 (2) A petition for a declaratory ruling does not preclude an agency from
+7 initiating a contested case in the matter.
+8 (3) A declaratory ruling issued by an agency under this section is a fi-
+9 nal agency action.
+10 (4) An agency shall index all currently effective declaratory orders in
+11 accordance with the provisions of section 67-5250, Idaho Code.
+12 SECTION 9. That Section 67-5241, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 10. That Chapter 52, Title 67, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 67-5241, Idaho Code, and to read as follows:
+17 67-5241. INFORMAL DISPOSITION. (1) Unless prohibited by other provi-
+18 sions of law, an agency may:
+19 (a) Decline to initiate a contested case;
+20 (b) Request such additional information as required to decide whether
+21 to initiate a contested case;
+22 (c) Seek informal disposition of a matter; and
+23 (d) Seek informal disposition of a contested case, upon which infor-
+24 mal disposition a presiding officer may decline to decide the contested
+25 case.
+26 (2) Informal disposition is to be encouraged and may be made by alter-
+27 native dispute resolution, negotiation, stipulation, agreed settlement, or
+28 consent order.
+29 (3) The agency may not abdicate its responsibility for any informal
+30 disposition. Informal dispositions must be approved by the agency head or
+31 by a presiding officer. Any agency head or presiding officer approving an
+32 informal disposition, or otherwise declining to initiate or decide a con-
+33 tested case, must furnish a brief statement of the reasons for the decision
+34 to all persons involved. The provisions of this subsection shall not apply
+35 to investigations or inquiries directed to or performed by law enforcement
+36 agencies defined in section 74-101(7), Idaho Code.
+37 (4) Informal disposition of a contested case as provided in this sec-
+38 tion is a final agency action.
+39 SECTION 11. That Section 67-5242, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 67-5242. PROCEDURE AT HEARING. (1) In a contested case other than an
+42 emergency proceeding held pursuant to section 62-5247, Idaho Code, all par-
+43 ties shall receive notice that shall include:
+44 (a) a A statement of the time, place, and nature of the hearing;
+45 (b) a A statement of the legal authority under which the hearing is to be
+46 held; and
+
+13
+1 (c) a A short and plain statement of the matters asserted or the issues
+2 involved.
+3 (2) The agency head, one (1) or more members of the agency head, or one
+4 (1) or more hearing officers may, in the discretion of the agency head, be the
+5 presiding officer at the hearing.
+6 (3) (2) At the hearing, the presiding officer:
+7 (a) Shall regulate the course of the proceedings to assure that there
+8 is a full disclosure of all relevant facts and issues, including such
+9 cross-examination as may be necessary.
+10 (b) Shall afford all parties the opportunity to respond and present ev-
+11 idence and argument on all issues involved, except as restricted by a
+12 limited grant of intervention or by a prehearing order.
+13 (c) May give nonparties an opportunity to present oral or written
+14 statements. If the presiding officer proposes to consider a statement
+15 by a nonparty, the presiding officer shall give all parties an opportu-
+16 nity to challenge or rebut it and, on motion of any party, the presiding
+17 officer shall require the statement to be given under oath or affirma-
+18 tion.
+19 (d) Shall cause the hearing to be recorded at the agency's expense. Any
+20 party, at that party's expense, may have a transcript prepared or may
+21 cause additional recordings to be made during the hearing if the making
+22 of the additional recording does not cause distraction or disruption.
+23 (e) May conduct all or part of the hearing by telephone, television
+24 video conference, or other electronic means, if each participant in
+25 the hearing has an opportunity to participate in the entire proceeding
+26 while it is taking place.
+27 (4) If a party fails to attend any stage of a contested case, the pre-
+28 siding officer may serve upon all parties notice of a proposed default order.
+29 The notice shall include a statement of the grounds for the proposed order.
+30 Within seven (7) days after service of the proposed order, the party against
+31 whom it was issued may file a written petition requesting the proposed order
+32 to be vacated. The petition shall state the grounds relied upon. The pre-
+33 siding officer shall either issue or vacate the default order promptly after
+34 the expiration of the time within which the party may file a petition. If the
+35 presiding officer issues a default order, the officer shall conduct any fur-
+36 ther proceedings necessary to complete the adjudication without the partic-
+37 ipation of the party in default and shall determine all issues in the adjudi-
+38 cation, including those affecting the defaulting party.
+39 SECTION 12. That Chapter 52, Title 67, Idaho Code, be, and the same is
+40 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+41 ignated as Section 67-5242A, Idaho Code, and to read as follows:
+42 67-5242A. DEFAULT. (1) Unless otherwise provided by statute or rule,
+43 if a party fails to attend or participate in a prehearing conference or hear-
+44 ing in a contested case, the presiding officer may serve upon all parties no-
+45 tice of a proposed default order. The notice shall include a statement of the
+46 grounds for the proposed order. Within seven (7) days after service of the
+47 proposed order, the party against whom it was issued may file a written peti-
+48 tion requesting the proposed order be vacated, and the petition shall state
+49 the grounds relied on. The presiding officer shall either issue or vacate
+
+14
+1 the default order promptly after the expiration of the time within which the
+2 party may file a petition.
+3 (2) If a default order is issued, the presiding officer may conduct any
+4 further proceedings necessary to complete the adjudication without the de-
+5 faulting party and shall determine all issues in the adjudication, including
+6 those affecting the defaulting party. A recommended, preliminary, or final
+7 order issued against a defaulting party may be based on the existing record,
+8 including the defaulting party's admissions, and any other evidence offered
+9 by the nondefaulting party, without further hearing.
+10 (3) Unless otherwise provided by statute or rule, if a party fails to
+11 attend or participate in any other conference in a contested case, the pre-
+12 siding officer may conduct the conference without the attendance of the non-
+13 appearing party and issue any appropriate order addressing the subject mat-
+14 ter of the conference.
+15 SECTION 13. That Section 67-5244, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 67-5244. REVIEW OF RECOMMENDED ORDERS. (1) A recommended order shall
+18 include a statement of the schedule for review consideration of that order
+19 by the agency head or his designee. The agency head shall allow all parties
+20 to file exceptions to request review of the recommended order, to present
+21 briefs on the issues, and may allow all parties to participate in oral argu-
+22 ment.
+23 (2) Unless otherwise required, the agency head shall either:
+24 (a) issue a final order in writing within fifty-six (56) days of the re-
+25 ceipt of the final briefs or oral argument, whichever is later, unless
+26 the period is waived or extended with the written consent of all parties
+27 or for good cause shown;
+28 (b) remand the matter for additional hearings; or
+29 (c) hold additional hearings.
+30 (3) The agency head on review of the recommended decision shall exer-
+31 cise all the decision-making power that he would have had if the agency head
+32 had presided over the hearing.
+33 SECTION 14. That Section 67-5245, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 67-5245. REVIEW OF PRELIMINARY ORDERS. (1) A preliminary order shall
+36 include:
+37 (a) A statement that the order will become a final order without further
+38 notice; and
+39 (b) The actions necessary to obtain administrative review of the pre-
+40 liminary order.
+41 (2) The agency head, upon his own motion, may, or, upon motion by any
+42 party, shall, review a preliminary order, except to the extent that:
+43 (a) Another statute precludes or limits agency review of the prelimi-
+44 nary order; or
+45 (b) The agency head has delegated his authority to review preliminary
+46 orders to one (1) or more persons.
+
+15
+1 (3) A petition for review of a preliminary order must be filed with the
+2 agency head, or with any person designated for this purpose by rule of the
+3 agency, within fourteen (14) days after the service date of the preliminary
+4 order unless a different time is required by other provisions of law. If
+5 the agency head on his own motion decides to review a preliminary order, the
+6 agency head shall give written notice within fourteen (14) days after the
+7 issuance of the preliminary order unless a different time is required by
+8 other provisions of law. The fourteen (14) day period for filing of notice
+9 is tolled by the filing of a petition for reconsideration under section
+10 67-5243(3), Idaho Code.
+11 (4) The basis for review must be stated on the petition. If the agency
+12 head on his own motion gives notice of his intent to review a preliminary or-
+13 der, the agency head shall identify the issues he intends to review.
+14 (5) The agency head shall allow all parties to file exceptions to
+15 request review of the preliminary order, to present briefs on the issues, and
+16 may allow all parties to participate in oral argument.
+17 (6) The agency head shall:
+18 (a) Issue a final order in writing, within fifty-six (56) days of the
+19 receipt of the final briefs or oral argument, whichever is later, unless
+20 the period is waived or extended with the written consent of all par-
+21 ties, or for good cause shown;
+22 (b) Remand the matter for additional hearings; or
+23 (c) Hold additional hearings.
+24 (7) The head of the agency or his designee for the review of preliminary
+25 orders shall exercise all of the decision-making power that he would have had
+26 if the agency head had presided over the hearing.
+27 SECTION 15. That Section 67-5247, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 67-5247. EMERGENCY PROCEEDINGS. (1) An agency may act through an emer-
+30 gency proceeding in a situation involving an immediate danger to the public
+31 health, safety, or welfare requiring immediate agency action. The agency
+32 shall take only such actions as are necessary to prevent or avoid the immedi-
+33 ate danger that justifies the use of emergency contested cases.
+34 (2) The agency shall issue an order, including a brief, reasoned state-
+35 ment to justify both the decision that an immediate danger exists and the de-
+36 cision to take the specific action. When appropriate, the order shall in-
+37 clude findings of fact and conclusions of law.
+38 (3) The agency shall give such notice as is reasonable to persons who
+39 are required to comply with the order. The order is effective when issued.
+40 (4) After issuing an order pursuant to this section, the agency shall
+41 proceed as quickly as feasible to complete any proceedings that would be re-
+42 quired if the matter did not involve an immediate danger.
+43 (5) Unless otherwise required by a provision of law, the agency record
+44 need not constitute the exclusive basis for agency action in emergency con-
+45 tested cases or for judicial review thereof.
+46 (6) No order issued pursuant to this section shall be effective for
+47 longer than one hundred twenty (120) days or until the effective date of any
+48 final order issued following the proceedings described in subsection (4) of
+49 this section, whichever is earlier.
+
+16
+1 SECTION 16. That Section 67-5249, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 67-5249. AGENCY RECORD. (1) A presiding officer shall ensure that a
+4 hearing record is created that complies with the provisions of this section.
+5 (1) (2) An agency shall maintain an official record of each contested
+6 case under this chapter for a period of not less than six (6) months after the
+7 expiration of the last date for judicial review, unless otherwise provided
+8 by law.
+9 (2) (3) The record shall include:
+10 (a) The recording of the hearing;
+11 (a) (b) all All notices of proceedings, pleadings, motions, briefs,
+12 petitions, and intermediate rulings the hearing and other conferences
+13 conducted by the presiding officer;
+14 (c) All prehearing orders;
+15 (d) All motions, pleadings, briefs, petitions, requests, and interme-
+16 diate rulings;
+17 (b) (e) All evidence received or considered;
+18 (c) (f) a A statement of all matters officially noticed and any related
+19 notices;
+20 (d) (g) All offers of proof and objections and rulings thereon;
+21 (e) the record prepared by the presiding officer under the provisions
+22 of section 67-5242, Idaho Code, together with any transcript of all or
+23 part of that record;
+24 (h) All proposed findings and requested orders;
+25 (i) Any transcript of the hearing, if prepared;
+26 (f) (j) staff Staff memoranda or data submitted to the presiding offi-
+27 cer or the agency head in connection with the consideration of the pro-
+28 ceeding; and
+29 (g) (k) any Any recommended order, preliminary order, final order, or
+30 order on reconsideration.; and
+31 (l) All matters placed on the record after an ex parte communication
+32 pursuant to section 67-5253, Idaho Code.
+33 (3) (4) Except to the extent that this chapter or another statute pro-
+34 vides otherwise, the agency record constitutes the exclusive basis for
+35 agency action in contested cases under this chapter or for judicial review
+36 thereof.
+37 SECTION 17. That Section 67-5250, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 67-5250. INDEXING OF PRECEDENTIAL AGENCY ORDERS -- INDEXING OF AGENCY
+40 GUIDANCE DOCUMENTS. (1) Unless otherwise prohibited by any provision of law,
+41 each agency shall index all written final orders, including all currently
+42 effective declaratory orders, that the agency intends to rely upon on as
+43 precedent. The index and the orders shall be available for public inspection
+44 and copying at cost in the main office and each regional or district office
+45 of the agency. The orders shall be indexed by name and subject. If an agency
+46 is authorized to not disclose certain information in its records to protect
+47 confidentiality, the agency shall redact confidential information in the
+48 order.
+
+17
+1 (2) A written final order may not be relied on as precedent by an agency
+2 to the detriment of any person until it has been made available for public
+3 inspection and indexed in the manner described in this subsection (1) of this
+4 section.
+5 (2) (3) Unless otherwise prohibited by any provision of law, each
+6 agency shall index by subject all agency guidance documents. The index and
+7 the guidance documents shall be available for public inspection and copying
+8 at cost in the main office and each regional or district office of the agency.
+9 As used in this section, "agency guidance" means all written documents,
+10 other than rules, orders, and pre-decisional material, that are intended to
+11 guide agency actions affecting the rights or interests of persons outside
+12 the agency. "Agency guidance" shall include memoranda, manuals, policy
+13 statements, interpretations of law or rules, and other material that are
+14 of general applicability, whether prepared by the agency alone or jointly
+15 with other persons. The indexing of a guidance document does not give that
+16 document the force and effect of law or other precedential authority.
+17 (4) All final written orders and guidance documents indexed by an
+18 agency pursuant to this section shall be posted on the agency's website on
+19 a single webpage, organized by subject, and with a direct link to each such
+20 final written order or guidance document.
+21 SECTION 18. That Section 67-5251, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 67-5251. EVIDENCE -- OFFICIAL NOTICE. (1) The presiding officer may
+24 exclude evidence that is irrelevant, unduly repetitious, or excludable on
+25 constitutional or statutory grounds, or on the basis of any evidentiary
+26 privilege provided by statute or recognized in the courts of this state. All
+27 other evidence may be admitted if it is of a type commonly relied upon on by
+28 prudent persons in the conduct of their affairs.
+29 (2) Any part of the evidence may be received in written form if doing so
+30 will expedite the hearing without substantially prejudicing the interests
+31 of any party.
+32 (3) The parties may stipulate as to some or all of the facts at issue in
+33 the contested case.
+34 (4) The presiding officer may request such additional information from
+35 any party as he may require to decide the contested case.
+36 (3) (5) Documentary evidence may be received in the form of copies or
+37 excerpts, if the original is not readily available. Upon request, parties
+38 shall be given an opportunity to compare the copy with the original if avail-
+39 able.
+40 (6) Testimony shall be made under oath or affirmation.
+41 (4) (7) Official notice may be taken of:
+42 (a) any Any facts that could be judicially noticed in the courts of this
+43 state; and
+44 (b) generally Generally recognized technical or scientific facts
+45 within the agency's specialized knowledge.
+46 Parties shall be notified of the specific facts or material noticed and the
+47 source thereof, including any staff memoranda and data. Notice should be
+48 provided either before or during the hearing, and must be provided before the
+49 issuance of any order that is based in whole or in part on facts or material
+
+18
+1 noticed. Parties must be afforded a timely and meaningful opportunity to
+2 contest and rebut the facts or material so noticed. When the presiding offi-
+3 cer proposes to notice staff memoranda or reports, a responsible staff mem-
+4 ber shall be made available for cross-examination if any party so requests.
+5 (5) (8) The agency's or presiding officer's experience, technical com-
+6 petence, and specialized knowledge may be utilized in the evaluation of the
+7 evidence.
+8 SECTION 19. That Section 67-5252, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-5252. PRESIDING OFFICER -- DISQUALIFICATION. (1) Except as pro-
+11 vided in subsection (4) of this section, any party shall have the right to one
+12 (1) disqualification without cause of any person serving or designated to
+13 serve as presiding officer, and any party shall have a right to move to dis-
+14 qualify for bias, prejudice, interest, substantial prior involvement in the
+15 matter other than as a presiding officer, status as an employee of the agency
+16 hearing the contested case, lack of professional knowledge in the subject
+17 matter of the contested case, or any other cause provided in this chapter or
+18 any cause for which a judge is or may be disqualified.
+19 (2) Any party may petition for the disqualification of a person serving
+20 or designated to serve as presiding officer:
+21 (a) Within fourteen (14) days after receipt of notice indicating that
+22 the person will preside at the contested case; or
+23 (b) Promptly upon discovering facts establishing grounds for disquali-
+24 fication, whichever is later.
+25 Any party may assert a blanket disqualification for cause of all employees of
+26 the agency hearing the contested case, other than the agency head, without
+27 awaiting designation of a presiding officer.
+28 (3) A person whose disqualification for cause is requested shall deter-
+29 mine in writing whether to grant the petition, stating facts and reasons for
+30 the determination.
+31 (4) When disqualification of the agency head or a member of the agency
+32 head would result in an inability to decide a contested case, the actions of
+33 the agency head shall be treated as a conflict of interest under the provi-
+34 sions of section 74-404, Idaho Code.
+35 (5) When a decision is required to be rendered within fourteen (14)
+36 weeks of the date of a request for a hearing by state or federal statutes or
+37 rules and regulations, or when the presiding officer is the chief adminis-
+38 trative hearing officer law judge or appointed by the chief administrative
+39 hearing officer law judge as defined in section 67-5201, Idaho Code, no party
+40 shall have the right to a disqualification without cause.
+41 SECTION 20. That Section 67-5281, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 67-5281. CHIEF ADMINISTRATIVE HEARING OFFICER LAW JUDGE -- APPOINT-
+44 MENT -- QUALIFICATIONS -- REMOVAL -- SALARY. (1) A chief administrative
+45 hearing officer law judge shall be appointed by the governor and confirmed by
+46 the senate to serve a four (4) year term. A person may be reappointed to serve
+47 additional terms. Provided, however, there is no right to reappointment.
+
+19
+1 (2) The chief administrative hearing officer law judge must meet the
+2 following qualifications on the effective date of his appointment:
+3 (a) Be at least thirty (30) years of age;
+4 (b) Be a citizen of the United States;
+5 (c) Have held a license to practice law or held a judicial office in one
+6 (1) or more jurisdictions of the United States for at least five (5) con-
+7 tinuous years immediately preceding such appointment; and
+8 (d) Be or become an active member of the Idaho state bar within one (1)
+9 year of appointment and remain an active member in good standing there-
+10 after.
+11 (3) If the chief administrative hearing officer law judge resigns,
+12 dies, or is removed from office as provided in this section, the governor
+13 shall appoint a person who meets the qualifications established in this sec-
+14 tion, subject to confirmation by the senate, to fill the unexpired term.
+15 (4) The chief administrative hearing officer law judge may be removed
+16 from office by the governor for failing to retain those qualifications of his
+17 office established in subsection (2) of this section, for engaging in pro-
+18 hibited conduct established in section 67-5282(2), Idaho Code, or for good
+19 cause shown. Before such removal, the governor shall give the chief adminis-
+20 trative hearing officer law judge a written copy of the charges against him,
+21 provide him an opportunity to submit a response no fewer than fourteen (14)
+22 calendars calendar days thereafter, and may provide him such other process
+23 as the governor deems appropriate. If the chief administrative hearing of-
+24 ficer law judge is removed, the governor shall provide the house of represen-
+25 tatives and the senate written notice of the removal, the effective date of
+26 removal, and the reason or reasons therefor.
+27 (5) The chief administrative hearing officer law judge shall be compen-
+28 sated as determined by the governor.
+29 SECTION 21. That Section 67-5282, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-5282. DUTIES AND PROHIBITED CONDUCT OF THE CHIEF ADMINISTRATIVE
+32 HEARING OFFICER LAW JUDGE. (1) The chief administrative hearing officer law
+33 judge shall:
+34 (a) Serve as the administrator of the office of administrative hear-
+35 ings;
+36 (b) Conduct such contested case proceedings and such other proceedings
+37 as are conducted by the office of administrative hearings in accordance
+38 with section 67-5280(2)(a) and (b), Idaho Code;
+39 (c) Devote full-time to the office of administrative hearings and his
+40 obligations as chief administrative hearing officer law judge;
+41 (d) Subject to applicable law and regulation, appoint, supervise, and
+42 remove hearing officers administrative law judges and staff as he deems
+43 appropriate to the proper functioning of the office of administrative
+44 hearings, determine the duties of such appointees as he deems appro-
+45 priate, and, from among the hearing officers administrative law judges
+46 employed by the office of administrative hearings, designate a deputy
+47 chief administrative hearing officer law judge to act in place of the
+48 chief administrative hearing officer law judge when the chief adminis-
+49 trative hearing officer law judge is unable to perform his duties;
+
+20
+1 (e) Have the authority to promulgate rules, pursuant to the provisions
+2 of this chapter, to implement sections 67-5280 through 67-5286, Idaho
+3 Code;
+4 (f) Establish a hearing officer code of conduct that shall, among other
+5 things, provide for independent and unbiased decision-making by hear-
+6 ing officers both as perceived and in fact and provide for a system to
+7 monitor compliance with, and sanction violations of, the hearing offi-
+8 cer code of conduct;
+9 (g) Protect and ensure the decisional independence of administrative
+10 law judges and independent contractor hearing officers;
+11 (h) Implement a system for monitoring the quality of contested case
+12 proceedings and such other proceedings as are conducted by the office of
+13 administrative hearings in accordance with section 67-5280(2)(a) and
+14 (b), Idaho Code;
+15 (i) At his discretion, unless otherwise prohibited by state or federal
+16 law, retain independent contractor hearing officers at reasonable and
+17 consistent rates of compensation; provided that an independent con-
+18 tractor hearing officer with specialized expertise may be compensated
+19 at a higher rate if such expertise is necessary to the proper adjudica-
+20 tion of the case and such higher rate of compensation is necessary in
+21 order to obtain such expertise; and
+22 (j) Contract with agencies to conduct such adjudicatory hearings, me-
+23 diations, and arbitrations authorized by section 67-5280(2)(b), Idaho
+24 Code.
+25 (2) The chief administrative hearing officer law judge shall not:
+26 (a) Engage in the practice of law outside of his role in the office of
+27 administrative hearings, except for the practice of law that is permit-
+28 ted for a judge by the Idaho code of judicial conduct and is not incon-
+29 sistent with the code of conduct or his duties as chief administrative
+30 hearing officer law judge;
+31 (b) Hold, or be a candidate for, any federal, state, county, municipal,
+32 district, or other elective office;
+33 (c) Serve as the agent, representative, officer, political treasurer,
+34 or employee, whether for profit or otherwise, of any political party,
+35 political committee, or candidate as defined in either chapter 1, title
+36 34 or chapter 66, title 67, Idaho Code, or otherwise; and
+37 (d) Hold any other public or private-sector position, whether for
+38 profit or otherwise, except for volunteer or adjunct faculty posi-
+39 tions that are not inconsistent with his duties as chief administrative
+40 hearing officer law judge.
+41 SECTION 22. That Section 67-5283, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 67-5283. HEARING OFFICER QUALIFICATIONS -- POWERS -- DUTIES. (1) The
+44 chief administrative hearing officer law judge and hearing officers ap-
+45 pointed by the chief administrative hearing officer law judge shall:
+46 (a) On the effective date of their appointments and throughout their
+47 tenure, meet and retain all of the qualifications specified for the
+48 chief administrative hearing officer law judge in section 67-5281(2),
+49 Idaho Code;
+
+21
+1 (b) Take the oath of office as prescribed in chapter 4, title 59, Idaho
+2 Code;
+3 (c) Comply with the hearing officer code of conduct;
+4 (d) Not engage in the conduct prohibited of the chief administrative
+5 hearing officer law judge in section 67-5282(2), Idaho Code. Provided,
+6 however, to the extent that it does not create a conflict of interest,
+7 the code of conduct may be waived for some or all of these prohibitions
+8 for independent contractor hearing officers; and
+9 (e) Be deemed the presiding officers of contested case proceedings and
+10 other proceedings conducted by the office of administrative hearings
+11 and assigned to them and have the power to issue subpoenas, administer
+12 oaths, control the course of the proceedings, order the use of alter-
+13 native dispute resolution with the parties' consent, enter such awards
+14 for costs and attorney's fees as authorized by law, and perform other
+15 necessary and appropriate acts in the performance of their duties with
+16 respect to such cases.
+17 (2)(a) Independent contractors contractor hearing officers may be
+18 hired as hearing officers without the limitation on outside work or out-
+19 side practice of law, provided that:
+20 (i) A disclosure is filed with the chief administrative hearing
+21 officer law judge that states in what other outside work the inde-
+22 pendent contractor hearing officer is engaged;
+23 (ii) The independent contractor hearing officer does not engage
+24 in outside work presenting a conflict of interest; and
+25 (iii) The independent contractor hearing officer discloses such
+26 other information as required by the code of conduct.
+27 (b) If a failure to comply with the requirements of this subsection by
+28 an independent contractor hearing officer is brought to the attention
+29 of the chief administrative hearing officer law judge within thirty
+30 (30) days of the issuance of the independent contractor hearing offi-
+31 cer's order, the chief administrative hearing officer law judge shall
+32 declare such order void and of no effect within fourteen (14) days. The
+33 chief administrative hearing officer law judge shall be permitted to
+34 issue a stay while he investigates the issue of failure to comply if the
+35 order involves a financial transaction.
+36 (3) Those individuals serving as hearing officers in the office of
+37 the attorney general for department of health and welfare contested case
+38 hearings on December 31, 2023, shall have the option to be appointed hear-
+39 ing officers when the office of administrative hearings begins conducting
+40 such hearings on or after January 1, 2024, as provided by section 67-5286,
+41 Idaho Code, if they meet the hearing officer qualifications qualification
+42 requirements set forth in this section and if such hearing officer positions
+43 are available in the office of administrative hearings on an employment or
+44 independent contractor basis.
+45 SECTION 23. That Section 67-5284, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 67-5284. COOPERATION OF AGENCIES. No agency or state officer, other
+48 than the chief administrative hearing officer law judge, shall attempt to
+49 influence the selection of a hearing officer for a contested case proceeding
+
+22
+1 or any other matter, except mediations, and the chief administrative hearing
+2 officer law judge shall not permit any such influence; provided that agen-
+3 cies and state officers may inform the office of administrative hearings in
+4 writing of their views regarding:
+5 (1) Expertise needed or desired with respect to types of potential con-
+6 tested cases;
+7 (2) Proposed rules under consideration for adoption by the office of
+8 administrative hearings;
+9 (3) Legislation or rules under consideration or being proposed by the
+10 office of administrative hearings;
+11 (4) Legislation or rules under consideration or being proposed by such
+12 agencies or state officers; and
+13 (5) Alleged violations of the code of conduct.
+14 SECTION 24. That Section 67-5286, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 67-5286. CONDUCT OF DEPARTMENT OF HEALTH AND WELFARE CONTESTED CASE
+17 PROCEEDINGS. (1) Notwithstanding any other provision of this chapter, the
+18 office of administrative hearings shall not conduct contested case proceed-
+19 ings until January 1, 2023. Contested case proceedings commenced prior to
+20 that date shall proceed under the law as it existed as of June 30, 2022, un-
+21 less the hearing for such contested case did not commence prior to January
+22 1, 2023. Provided, however, the office of administrative hearings shall not
+23 conduct department of health and welfare contested case hearings until Jan-
+24 uary 1, 2024, and such hearings commenced prior to that date shall be com-
+25 pleted by the department of health and welfare.
+26 (2) The department of health and welfare shall expeditiously submit to
+27 the centers for medicare and medicaid services (CMS) all that may be required
+28 for CMS to approve the conduct of department of health and welfare contested
+29 case hearings by the office of administrative hearings commencing on Jan-
+30 uary 1, 2024, as provided for in subsections (1) and (3) of this section, in-
+31 cluding but not limited to state plan amendments, waivers, and memorandums
+32 of agreement, as may be required by CMS from time to time. The governor, by
+33 and through the director of the department of health and welfare, shall re-
+34 tain the authority to exercise appropriate oversight of hearings necessary
+35 to comply with requirements described in 42 U.S.C. 1396a and related regula-
+36 tions.
+37 (3) The governor may, after notice to the chief administrative hearing
+38 officer, extend the date on which the office of administrative hearings is
+39 to commence conducting department of health and welfare contested case hear-
+40 ings as provided for in subsection (1) of this section until CMS has approved
+41 the conduct of hearings by the office of administrative hearings.
+42 SECTION 25. SEVERABILITY. The provisions of this act are hereby de-
+43 clared to be severable and if any provision of this act or the application
+44 of such provision to any person or circumstance is declared invalid for any
+45 reason, such declaration shall not affect the validity of the remaining por-
+46 tions of this act.
+
+23
+1 SECTION 26. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.9,AsAYJ,RSADANCNAGTOTEIOAEPEA;AGS,IOC,TOREAPNRGCDCSADTOMETLC;AGSN5OC,TOREAPNRGPSFRDSADTOMETLC;AGS,IOC,TOREAPNRGPSFYPSADTOMETLC;AN5,IOC,TOREAPNRGPSFRDYPSADTOMETLCGSN5,IOC,TOREAPNRSFRDYPSADTOMETLC;AGSN6,IOC,TOREDODET,ADTOMETLC;AGS,IOC,TOREAPNRGPNOSIGTEAEPEA,TOPEFGA,ADTOMEATLC;AGSN6,IOC,TOREAPNRGDSBYASADTOPETTANAYSLIXALCYEEDYO;RGSN6,I,RGTOILD;AGCR5,TE6OC,BYTEANOFANWSN6,IOC,TOEHPSRGILDNOFACDCGSN6,IOC,TOREPSREATACDCEH,TOREPSREATACDCEH,ADTOMETLC;AGCR5,TE6,IOC,BYTEANOFWSN6,IOC,TOEHPSRGGPYADADTO;AGSN6,I,TOREAPNRGARWOFRDOGSN6,IOC,TOREAPNRGARWOFPYOSADTOMETLCGSN6,IOC,TOPEFRHWLGANEYORSLBEE;AGSN6,IOCOPETTAPGORSLCEAHGR,TEPSRGANAYR,ADTOMET;AGSN6,IOC,TOREPSRGTEIGOFPLAYO,TOPTALFLWNOSADGEDSIDBYAYSLBEPDONTEASW,ADTOMEAT;AGSN6,IOC,TOEHPSRGEEINACDC,TOREAPGEEINACDC,ADTOMETLC;AGSN6,IOC,TORETGSN6,IOC,TORETYADT]
+[DELETED: EATLC;AGSN6,IOC,TETYADTOREPSRGDSADPDCTOFTECFAELWJ;AGS,IOC,TORETYADTOMEATLC;AGSN6,IOC,TORETGSN6,IOC,TOREAPNRTOFHHADWECDCEPSADTEPSRGCDCEP;PGS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.BD--CN--OS--CN--PS-A--DS--RW--R)Tebdofelqyslctofsn(swoslbeadbyteg,whteaeadctoftes.Temsslseattepeofteg.EhmroftebdslbeacnofteUdSrtofteseofI,adaqderadslbdtoaeaegcrnoftesfI.Ntmetnfr()msoftebdslbefmae()plp.To()msoftebdslbechderdtotrkeofaditinsdw;t)msslbecnfrtrkeofaditina;to()msslbecnfrtrkeofaditinwrq;adoe()mrslbecnwhderdfrhskeofaditina,wradsdwei.Atltfr()oftebdmsslrttepsitadntdeaystpnoftrimpssttoarqypsoreto)Temsoftebdofelqyslbeadfratmoffr()y.Inagmswetnin2,tegrsldete()mstobeadfratmofte()y,to()msadfrmoffr()y,adto()msadfratmoft)y.Sstotemsadfratmoflstr()ysslbeadfratmoffr()yst)Tebdaysletac,avec,adyadslhdshmsasmybenyfrteotofisb,adshmsslbehdfmtetoteoo()h'neoftecnoramyofteme()msslbenytoceaqmatayrrolm,adteanoftemyofmsptslbeanofteb.Temsoftebdslbecdadinsn5,IoC)Teb,infeofisdsurtsataduri,slheteprtoaro,tocytoola]
+[DELETED: dtoiessfrteaeofwsadtepno,b,a,dsadt.Tebdm,ifawsrstoadortyortopeaypsrdbys,rttotedtctinadfrtecyinwhtgisp,byp,sgfhttdenehsbnofteteadpeofaeofsdwsortepfsdp,tttewshsbnpys,adtttshsfdadrdtoadorpetepsrdbssabetebdorhsrdtoarqspohminteceofsdp,adtebdmyakanorodctcgtewstoadadtyadpesdpsbeteb.Tec,untepnofteb,slenordgtewstoarbetectatateadpobefdbytectinsho,tetetobentmetntn(sfmtedeofteo,adtnadteslswcewyhsntadadtdorpdsdpsbeteb.yofsdorslbesdunsdw.Ifitslartectttsdsawsryidbytebdadr,tectsltnorttsdwsarbetdatteteadpefdinsdoradtyorpeterdp.Unfetooysdo,sdwsslbedhfrctofc)Ted,hsd,oraypytoteanm,inaninorhgbeteb,cetednoriyofwsorpsrgwnorwttesetobetntemrpdbylwfrledsadisilasintedtctoftsseadtottedmyceaeofsdwsadpnofb,d,pda)Aypnadbyananorinoftedlbeadanoyfrafrhgunrttnwgpttocr5,te6,IoC,adterspdt.IntecswetebdhsbngdtytohdshahgpttoapnofteIoCehgmybecdbytebdatarrorslmrtebdmydehgo,woslhetepraytocthsinteneoftebdatayteadpnayh,amroftebdorahgorddbyilheteprtoaro,eew,adieieneoftebdssrgtetyofwsadtnofeerttoaymrinteh)Aypnayadbyafldnoftebysejlrwbyfgapnfrrwaspdurtepsofcr5,te6,IoC.Tepnfrrwslbesdunontecnofteb,tedroft,adunteayglofteseofI.Shseslbejladtepsoftssnslbetepefra)Teb,byteaeveofatltfr()ofism,mya,adorrlter,c,adssofted]
+[DELETED: tttaenyadfeinortocyottepdpsoftsatadtoeetelsoftss.Terdossoadadedslhetefeadetofldmydlwhaymsddnyadfefrpeetoftes)Alrgpsadhsoftebdslbegdbytepsofcr5,te6,IoC)Tebdslatcdcersctwhtsofaepeadbyteaygluttosn6,IoC,tepsoftsatarsyayofted)Alr,psadorashea,irtnbytebdofhhadwepgtoteenfsadbytednofelqlrninflfeadetuls)Tebdofelqyslbetesrtoa,psaddsoftebdofhhadwergagp,aep,cdc,c,c,d,ayadormspgtlpnfsadbytednofelq)Uncnoftebdofelq,alpsbetebdofhhadwergtoenfsadbytednofelqlbetdtoadddbytebdofelqN2.TtSn5,IoC,b,adteseishdtordasf.DE--I.()Tebdslheteaytosnayleidpttotepsoftscrayoftef)Fdordninagf,pgorrgalrtsc)Fdordtintepeofaeorinpgatintepeofa)Ieorgsneorrsintepeo)Ac,fgofg,rtofawdjtodseintsorayors,t,cyorjnfrafyoram,whmrivnoftepsoftsc,awlvnoeorllbgc,oravnoforlsrgtepchhadsyadttwewscdinteceoga)Aghsset,orighssluno,a,d,ssororisofsetentbnpdbyh,orurhsrec,orpghsnetobeudfrtepeofagaypnwsntaldattoeetepsoftsc]
+[DELETED: )Rgr,c,gsofmyororfsinwhtew,wttekeoftepyfrweisw,orhgapyitintepeofttfrtewkd,pdorsdbyhmwtteadctofteo)Ulorulctasddbytersoftdorteceofesedbytersofteb)Pgaeorrgofasaldatwnu,invnoflglsoftejninwhtecttkp)Hghdayploroller,sdoroeddinIoorayors,tyorj)Fgtomntersfral,igngtecgenrtfrlerdbytebdinr)Fgtocywhabdo;o)Vgayoftepsoftscrorayofterdbytebdurteayoftsc)Sstttebdmyieieoe()ormeoft)Rltogtorrwal)Rnofal)Snofalefrapdnttoedto()y)Rnofaletoptteorfmpnasorfmegintepeofaeinaprmrfrapdnttoedto()y)Ptofteoronpnadsnbytebrapdnttoedto()y;a)Inofanaefenttoedtots()prv)TepsfrdypsslbeinchteIoaepeata,teIorsofteoeofteayglaep,adtednoladpll)TebdorayrtcnmymnananinenteneofteseofIotoenpyayp,f,c,cnorppfmpgintedgofayagavnoftsc.Shanslbebtiedtctoftecyinwhsdatorasorseoftmadtohebnoraebgc,byfgactshtea.Tec,orajetfatc,ifsdfectorbyasttteascdofhebnoragcdadwlpybepdi,myieatywgtedtfmtecnofayshatoraspldnoftec.Teceslpdasinorcsf.Ifattetltecnofteatorasbytedtise,adtectfrfsttitispetedtwlcetnorinsrv,tec,o]
+[DELETED: jetfatc,sleradepyegttfmtrcgsdorsraN3.TtSn5,IoC,b,adteseishdtordasf.RNORSNOFLE--PSOFBD-SFRDYP.()Tebdslhetepor,s,retoi,retor,oroeltaeorceidpttotepsoftscrfyoftef)Pgaleorrnbykymgaf,sgfei,orrgtopeceininretoaqninananfeorthayfmoffdorm)Bgcdofaf)M,orftrnintepeofayd,ctorayrdurtsc)Vgtepsoftscrorayrsoftebrayceofctorelssadbyteb)Bgntori;o)Fgtopeaeadpls,ifagasteddreceo,toaypnggeeurtepsoftsc)Tebdslheteprtoaro,tedsofwswnorwtteseintemrpdbylnclc,adslheprt,wnteseofIoreteaeofshwsadtepnofshbsadpsasitmyd,rttoayhgbeitoymrwhithsaytoi,adfrttpetdmyieasafraywsorasadstmtocltepnofb,rsorp,ddtotesfoycyofteseofIoweshwsrsormybefhsaslbesdadrdintesemrasasnaclc)TepsfrdypsslbeinchteIoaepeata,teIorsofteoeofteaygep,adtednoladpllN4.TtSn5,IoC,b,adteseishdtordasf.D.()Gsfrd.Tebdslheprtodyayanfrorrlofaceofrnortor,sdoroedeayrtorrnidpttotscradtoltorrttepeofayrtunadnbytebdtttep)M,orcdtobem,af,ftorfds,csorrninpgoragteaceofrntopeg;o]
+[DELETED: )Pdgyurafeoradn;o)Wsc,fdg,rdawdjtorsdseintsorayorseofancgettisddrtinaewhsn6oC;o)Vdtepsoftscrorr,ssofctadp,orayelcsasmybeadbyteb)Isorhsbngyn,i,orrsinteofg;o)Hshdal,c,orrntopeaslgtsdorrdinayj.dcyofteorofsnorrnslbepeeeofshsnorr)P.Eypnsttodyplbeadanoyfrhgarren)Alpshrslbeinaewhcr5e6,IoC,adteIorsofaepeoeaygl(A0,aspdinsn6oC)Hsslbecdbytebdorbypsadbebdtocthsadree)P.Ayoroftebdedurtssnmybdorsdfrapypdtobefdbytebdunshtsadcsasmybeaeinortor,mrorsetepeofgybytertsttosrfrtepdpyp)Str.Ayoroftebdedurtssnmybew,r,mdoradunasgbytnsttoteortttegsfrdenolretorttheisr,qdadcttopeplgyadttheisntlytovetepsoftnorrsadhrintef)Csadf.Tebdm,pttoanorofdrasacntow,r,mnoratoft,retepntopyalorptoftecsadfsidbebdinpsunwhteorwse)Aef.Tebdm,pttoanorofd,reteptofanaefenttoedoetdds()frehvnoftepsoftssnosadhN5.TtSn5,IoC,b,adteseishdtordasf.RNORSNOFLE--PSFRDYP.()Tebdslheteprtoretoie,orr,s,retor,oroesnayleidpttotepsoftscrfrayoftef]
+[DELETED: )Pgaleorrnbykymgaf,sgfei,rgtopecninretoaqninananfraleohayfmoffdorm)Bgcdofaf)Mnorftrnintepfayd,ctorayrdurtsc)Vgtepsoftscrorayrsoftebrayceofctorelssadbyteb)Bgi;o)Fgtopeaeadpls,ifagastedds,toaypnggeeurtepsoftsc)Tebdslheteprtoaro,tedsofwswnorwtteseintemrpdbylnclc,adslheprt,wnteseofIoreteaeofshwsadtepnofshbsadpsasitmyd,rttoayhgbeitoymrwhithsaytoi,adfrttpetdmyieasafraywsorasadstmtocltepnofb,rsorpdtotesfoycyofteseofIoweshwsrsormybefhsaslbesdadrdintesemrasasnaclc)TepsfrdypsslbeinchteIoaepeata,teIorsofteoeofteayglaep,adtednoladpllN6.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc)"ec"msteIoaeceedintscelwj"msayhgorwoidasafeseeebyteoeofa,igtecfaelwj,tedycelwj,adayaelwjsadbecfaelwjepttosn6,I)()""msttanayh,urterrr,pdatyr,anwrec,oranatolofaflrettwlbesdfrrwbytelearatyreorapgr)()""msehseb,c,dtororadbylwtomersortodecdc,bsntieteleorjlb,eeodinsn1,aeIVoftecnofteseofIoieeeofpsdddyadeyfmtec,tesemaortesebdofc]
+[DELETED: )()"ya"m)Teweorptofareoro)Tefetoieareoro;o)Anaspeo,orfetop,aydypnitbyl)()"yh"msanilorbyofisinweuellayofteayisvdbyaypnofl)()""msteIoaebnentsc)()"faehgorlwj"mstrofteoeofaehscdpttn6,IoC)()"dc"msapgttrsinteieofano)()""msteaerscrpdinsn6,IoC)()""msayeeo,n,reorstofpyofana)"lr"msaretthsbnadbyteleadisine)"go"mstecfaehgoradayhgosadbyhmpttoss6h6,IoC,lwj,tedycfael,ayaelwjsadbytecfawjepttosn6,IoC,ayithgosrdbytecfaelwjttosn6,IoC,orapnoeadbyanayorbdtohracdc)()""msteweorptofayayp,c,a,r,c,orsrfmofadbyl,btdsntiealerdsyfrr)()"lt"mstettofadti,p,orpdbyanayinaewhtscradieoylyeettofshd.Jlneslbnofaldsi,p,orpdinaewsc)()""msanayanofpratdstellr,d,p,i,orolisofoe()ormescp)()""msehpnorayndoradasyorpysgadedasofrttobeadasap)()"gfer"msaypgrealorapnohisorisafeorc)()"gner"msaypgrettisntgfer)()"gr"msapdrettanayhdurterrrgpsbtrssttoler,isntaflr,adisntine]
+[DELETED: )()""msayi,p,c,a,glsnora,orpcorpeonoreyofayc)"go"msoe()ormemsofana,anayh,oradyadhgorwoisayseorretopeatacdceh.Wnmetno)orssatah,tymyaljybepgosoydeoe()oftmtobetepgo)()"dr"msanaypltthsbnadrssttorwbytel)()"nofl"msaloraptofteseorf,orofayseorf)S;o)Reordnofc)()""mstobgbetepcbypniebnoraec,byecmsorasoypdbyl)()""msaloraptofanaystofgytthsbnpdincewhtepsoscradtti,i,e,orp)L;o)Tepeorpersofana.Tetmistea,r,orsnofanegr,bsnti)Sscgoyteilmtorilplpsofanayadntagpsoftepcorpsaetotep;o)Dyrsidpttosn6oC;o)Iym;o)Aywnssgnbyanayttpntninofareortotednofchar)()"ec"mstencdnofaggodayrsbytec)()""mstepsfrfnadafar)()""msam,g,c,s,r,mtororaepepglorpnincnwhwhtecsorafsda,psorpsmybed)()"dfrr"msttarehsbnpdtelefrrwatarrorsllesnadinsn6,IoC)()"yr"msareadbytegrteeebeithsbnsdtotelefrrN7.TtSn6,IoC,b,adteseishdtordasf]
+[DELETED: .PNOFRSIGAEP.()Inaewhtergrsoftsc,tyglslpeoeofaehssttolea,peadmnrsiepsofss60th6,IoC.Tertfrayanbytedtofwrrsortewrreb,tersslgnalcdcsusodbyggfllwadsls)Fmadcttobeedinggneofac)Psadssrdfrininac)Psfrpgc)Ftfrp,b,adm)Temdbywhseslbem)Psfrteieofs,dyo,aeosifadbyorpsofl)Qsfrpssgtoatasarsfstocdc)Pstofeilstofm;a)Psfrpgexpecsonter)ArJy1,1,terspdbyteayglurtssnslaytoalasttdontaypeaepsartepnoftsbyteayg.Terspdbytealslseteplrsofayayinetoe3,1,usttaypsisonpsaspdinph()oftss)ArJy1,1,anayttpsisonplieintereagisonpsafgtsterswytertpnofteaygswsietoteayurtec)Whrttocdcsadorpscdbeoeofaehsasadbytsc,rdbyteayglorayaypttosn(r()oftssnslrninflfeade,etwhrttohgorq,ulshteasteoeoehspsrtr,adtrssofteoeofaehsslgnusodbyggfll)Inaewhtergrsoftsc,teofaehss,sttoleaeteaytopeadmnrsggtepfalorpscdbyteoeofaehgbtntldtoayh,m,adasntrdbytscN8.TtSn6,IoC,b,adteseishdtordasf]
+[DELETED: .DYRSBYA.()Aypnmypnayfradyrgastoteayofaysnorofayttisorasaseorreadbyteayorsswrorinwtmranoridbytyastotep)Apnfradyrgdsntpeanayfgacdceintem)Adyrgidbyanayurtssnisaflaya)Anayslixalcyeedyosiewhtepsofsn6,IoCN9.TtSn6,IoC,b,adteseishN1.TtCr5,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ILD.()Uspdbyorpsofl,anaym)Detoieacdc)Rtshalinasrdtodewoieacdc)Skildnofam;a)Skildnofacdc,unwhildnapgormydetodetec)Ildnistobeedadmybemebyaeder,n,s,ads,oto)Teaymyntaeisryfrayi.Ildsmtbeadbyteayhdoyapgo.Ayayhdorpgoragald,oroedgtoieordeacdc,mtfhabfstoftersfrtedoalpsi.Tepsoftssnslntaoisorisddtoorpdbylwesddinsn7,IoC)IldnofacdceaspdintssnisaflayaN1.TtSn6,IoC,b,adteseishdtordasf.PEATH.()Inacdceortnaypghdpttosn6,IoC,alpsslrenettsli)aAstoftet,p,adneofteh)aAstoftellayurwhtehgistob;a]
+[DELETED: )aAstadpnstoftemsadortei)Teayh,oe()ormemsofteayh,oro)ormehgosm,intednofteayh,betgoratteh)()Atteh,tepgo)Slreteceoftepstoaetttsafldeofalrtfsadi,igsnasmyben)Sladalpsteoytordadpteeadatonalisi,etasrdbydgtofinorbyapgo)Mygensanoytoptolorw.Iftepgorpstocrasyan,tepgorslgealpsanoytoceorrtita,onmnofayp,teprslretesttobegnurohora)Slcetehgtoberdattease.A,atttpse,myheattpdormealrstobemedgtehgiftemftealrgdsntcednord)Myctalorptoftehgbyt,toc,ororecm,ifehptiehghsanoytopeinteeepeitistgp)Ifapyfstoadayseofacdc,tepgormyseunalpsneofapddtoeneslieastoftegsfrtepdonsn()dsarseoftepdo,tepyamitwsidmyfeawnpnrgtepdoobev.Tepnslsetegsrdu.Tepgorslerieorvetedtorpyaeenoftetewnwhtepymyfeap.Iftgorisadto,teorslctayfrpsnytoceteanwttepnoftepyindtadsldealisintea,igteagtedgpN1.TtCr5,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.D.()Usoepdbyseorrfapyfstoadorpeinapgceorhginacdc,tepgormyseunalpsneofapddto.Teneslieastoftsfrtepdo.Wnsn()dsarseoftdo,tepyatwmitwsidmyfeawnpnrgtepdorbev,adtepnslsegsrdo.Tepgorslerieorv]
+[DELETED: edtorpyarteenoftetewnwhtymyfeap)Ifadtorisi,tepgormyctarpsnytoceteanwttedgpyadsldealisintea,ieagtedgp.Ar,p,orfridatadgpymybebdonteegrgtedgpsa,adayoreeoytengp,wtfrh)Usoepdbyseorr,ifapyfstdorpeinayorceinacdc,tepgormycttecewtteaeoftengpyadieayaeoragtestmroftecN1.TtSn6,IoC,b,adteseishdtordasf.RWOFRDO.()Ardorseastoftesefrrwcnofttoyteayhdorhsd.Teayhdslawalpofeestortrwofterdo,topsontei,admyawalpstopeinola)Usoer,teayhdsle)ieaflorinwgwnfx()dsoftertofteflbsorola,wrisl,uepdiswdoredwhtewnctofalprfrgdces)rdtemrfralh;o)hdalh)TeayhdonrwofterddnsleealtedgprtthewdhehdifteayhdpdortehN1.TtSn6,IoC,b,adteseishdtordasf.RWOFPYO.()Apyors)Astttteorwlbeaflorwtf;a)Teasnytoonaerwoftepyo)Teayh,unhsonm,m,o,unmnbya,s,rwapyo,ettoteett)Arsepsorlsayrwoftepyo;o)Teayhdhsddhsaytorwpstooe()ormep]
+[DELETED: )Apnfrrwofapyormtbefdwhtyh,orwhaypnddfrtspebyreoft,wnfn()dsartesedeofteprusadtteisrdbyorpsofl.Ieayhdonhsonmndstorwapyo,tyhdslgewnnewnfn()dsarteoftepyorusadtteisrdbrpsofl.Tefn()dypdfrfgofnstdbytefgofapnfrrnurs,IoC)Tebsfrrwmtbesdontep.Ifteadonhsonmngsneofhsittorwapyo,teayhdsliyteisheistor)Teayhdslawalpstofeesttrwoftepyo,toptbsontei,ayawalpstopeinola)Teayhds)Ieaflorinw,wnfx()dsofttofteflbsorola,wrisl,uepdiswdoredwhtewnctofalp,orfrgdces)Rdtemrfralh;o)Hdalh)TehdofteayorhsdefrterwofpssleealoftedgprtthewdhehfteayhdhdpdortehN1.TtSn6,IoC,b,adteseishdtordasf.EYP.()Anaymyatthaneypginasniganiedrtotep,s,orwergieaya.Tealteoyshasasaenytoptoradteiedrttjsteueofeycdc)Teayslieano,igab,rdsttojybhtednttaniedresadtedntotetesca.Wna,teorsliefsofftadcsofl)Teayslgeshneasisretopswerdtocywhteo.Teoriseewni)Ariganorpttotss,teaysdasqyasfetoceaypsttwdberdiftemrddntieanied)Usoerdbyapnofl,teayrdntceteeebsfrayanineycdcsorfrjlrwt)Nooridpttotssnslbeeefrtnoehdty()dsorulteeedeofaloridfgtepsddinsn()oss,wrise]
+[DELETED: N1.TtSn6,IoC,b,adteseishdtordasf.AYR.()Apgorsleettgrdiscdttcswhtepsoftss)()Anayslmnanolrdofehceurtscrfrapdofntlstnsx()msartnofteltdefrjlr,usoepyl)()Terdsli)Tergofteh)()alAlnsofp,p,m,b,adierstehgadorcdbytepgo)Alpgo)Alm,p,b,p,r,adier)()Aleerdorc)()aAstofalmsoyndadayr)()Alosofpfadosadrst)terdpdbytepgorurtepfsn6,IoC,trwhayttofalotofttr)Alpdfsadrdo)Ayttofteh,ifp)()sfSfmaordasdtotepgororteayhdincnwhtecnoftep;a)()ayAyrdo,pyo,flo,oronr;a)Almspdonterdaranexpecttosn6,IoC)()Ettoteettttscrorarsepso,teayrdcsteeebsfyanincdcsurtscrorfrjlrN1.TtSn6,IoC,b,adteseishdtordasf.IGOFPLAYOS--IGOFAED.()Usoepdbyaypnoflhayslixalwnflo,igalcedyo,ttteayistoryunona.Teixadteosslbeaefrpcidcgatctintemnoeadehrlordtoftea.Teosslbeidbyneads.Ifanasadtontdecnininisrstop,teayslrtclinint]
+[DELETED: )Awnflormyntberdonasptbyanaotedtofaypnulithsbnmeaefrpnadidintemrddintssn()oft)()Usoepdbyaypnofl,eyslixbystalayged.Teixaegedsslbeaefrpcinadctctintemnoeadehrlordtoeofteasudintss,"yg"msalwndrtnr,o,adplm,ttaeidteayasagtersorisofpsoea."yg"sliem,m,p,isoflworr,adormlttafgla,wrpdbyteayaeorjhorp.Teigofagedtdsntgetttefeadetoflwororpla)Alflwnosadgedsidbyaypttotssnslbepdonteasweosew,odbys,adwhadtlktoehslwnororgedN1.TtSn6,IoC,b,adteseishdtordasf.EE--OLN.()Tepgormeeettisi,uyr,oreeolorsyg,orontebsofayeepdbyseorrdintecsoftss.Areemybeadifitisofatecyrdunonbtpsintectoftra)Ayptofteeemyberdinwnfmifdgsleetehgwtsypgteifayp)Tepsmyseastoseoraloftefsatieiecdc)Tepgormyrtshalinfypyashemyretodetecdc)Dyeemyberdintefmofcso,ifteolisntrya.Unr,plbegnanoytocetecywhteolifa)Tyslbemeurohora)()Olnemybetno)ayAyfsttcdbejyndintecsoft;a)gyGyrdtlorscfnteassdksslbendoftescfsormlndadtet,igaysfmaadd.Nesdbderbeordgteh,admtbepdbeteofayorttisbdinweorinptonfsorm]
+[DELETED: .Psmtbeadatyadmloyttadrttefsormlson.Wntepgorpstonesfmaorr,aresfmrslbemeaefrcnifaypysor)()Teasorpgose,tlc,adsdkemybeudinteenoftN1.TtSn6,IoC,b,adteseishdtordasf.PGOR--D.()Etaspdinsn()oftss,aypyslheterttoo)dnwtceofaypnsgorddteaspgo,adaypyslhearttometodyfrb,p,i,slpritintrortnasapgo,ssasaneeofteagtecdc,lkofplkeintesroftecdc,orayorcepdintscroycefrwhajeisormybed)Aypymypnfrtednofapnsrddtoseaspgo)Wnfn()dsarrtofneigtepnwlpeattecdc;o)Pyundgfseggsfrd,wrislypymyatabtdnfrceofalesoeayhgtecdc,ortnteayh,wgdnofapgo)Apnwednfrceisrdsldeinwgwrtogttep,sgfsadrsfed)Wndnofteayhdoramrofteadwdrtinaniytodeacdc,teasoeayhdslbetdasactofiturtepsofsn7,IoC)Wnadnisrdtoberdwnfn(softedeofartfrahgbyseorflssosadr,orwntepgoristecfaehgorlwjeoradbytecfagorlwjeasddinsn6,IoC,noplheterttoadnwtcN2.TtSn6,IoC,b,adteseishdtordasf.CFAEHGORLWJE--AT--QS--RL--S.()Acfagorlwjeslbeadbytegradcdbesetoseafr()yrt.Apnmyberdtoslt.P,h,teisnorttor]
+[DELETED: )Tecfaehgorlwjemtmttgqsonteeedeofhsa)Beatltty()ysofa)BeacnofteUdS)Hehdaletopelworhdajloeino)ormejsofteUdSsfratltfe()csysiypgsha;a)BeorbeanaemrofteIosebrwnoe(rofatadrnanaemringdsgt)Iftecfaehgorlwjer,orisrdfmoeaspdintss,teglatapnwomsteqsedintss,sttocnbytes,toflteudt)Tecfaehgorlwjemybermoebytegrfrfgtornteqsofheedinsn()oftss,freginpdctedinsn6,IoC,orfrges.Beshr,tegrslgetecfaehgorlwjeawncyoftecsathehmanoytostarenofrtnfn(scrdst,admypehmshorpstegrdsa.Iftecfaehgorlwjeisr,tegrslpeteheofrsadtesewnneofter,teeedeo,adternorrst)TecfaehgorlwjeslbecdasddbytegN2.TtSn6,IoC,b,adteseishdtordasf.DSADPDCTOFTECFAGORLWJ.()Tecfaehgorles)Seastearofteoeofaeh)Ctshcdcepsadshorpsaecdbyteoeofaehsinahsn6)ad(,IoC)Defetoteoeofaehsadhsascfaehgorlwj)Sttoaelwadr,a,s,aehgosaelwjsadsfashedetoteprfgofteoeofa,detedsofshasashedsa,a,fmagtehgosaelwjdbyteoeofaeh,deadfaehgorlwjetoatinpeoftfaehgorlwjewntecfaehgorlwjeisuetopmhsd]
+[DELETED: )Heteaytoper,pttotepftsc,toitss60th6,I)Ehahgorceofcttts,ago,pefritaduddgbyhgosbhaspdadinftadpefrasmtrcew,adsnvso,tehgorceofc)Ptadeetedlieofawjsaditcrhgo)Itasmfrmgteqyofcdcsadshorpsasaecdbyteoeoehsinaewhsn6)a,IoC)Athsd,usoepdbyseorf,rnitcrhgosatreatrsofc;pdttanitcrhgorwhsdeemybectahrreifsheeisnytotepranofteceadshhrreofcnisnyirtoonshe;a)Ctwhastoctshayh,m,adasadbysn6,I)Tecfaehgorlwjesln)Eeintepeoflwoeofhsreinteoeoeh,etfrtepeoflwttispdfrajebyteIoceofjlctadisntitwhteceofctorhsdsascfagorlwj)H,orbeacef,ayf,s,c,m,ororeeo)Seastea,r,o,pltre,wrfrptoro,ofayplplc,orceasddinercr1,t4orcr6,te6,IoC,oro;a)Hdayorpcorprp,wrftoro,etfrvroratfypsttaentitwhhsdsascfagorlwjN2.TtSn6,IoC,b,adteseishdtordasf.HGORQS--PS--D.()Tfaehgorlwjeadhgosadbytecfaehgorlwjes)Onteeedeoftrasadttt,mtadrnalofteqssdfrtfaehgorlwjeinsn6oC]
+[DELETED: )Teteohofoeaspdincr4,te5,I)Cywhtehgorceofc)Nteeintectpdoftecfagorlwjeinsn6,IoC.P,toteetttitdsntceactofieceofctmybewdfrseoraloftepritcrhgo;a)Beddtepgosofcdcepsarpscdbyteoeofaehdadtotmadheteprtoies,a,clteceoftep,orteueofaedernwhtep'c,ersharcsadasfsasadbyl,adpmoyadaeasintepeoftrdswttoshc)Itcscrhgosmybdashgoswttelnonoewkoroepeofl,pdt)Adeisfdwhtecfaehrlwjettssinwtoroewkteitcrhgorise)Teitcrhgordsntenoewkpgactofi;a)Teitcrhgordssrinasrdbyteceofc)Ifafetocywhtersoftssnbnitcrhgorisbttoteaftecfaehgorlwjewnt)dsofteieofteitcrhgoso,tecfaehgorlwjeseshorvdadofnoetwnfn()d.Tfaehgorlwjeslbepdteasyweheisteieoffetocyiftrisaflt)TeissgashgosinteoeoeayglfrdtofhhadwecdcsonDr3,2,slheteontobeadhgoswnteoeofaehsbschhsonorarJy1,2,aspdbysn6oC,iftymttehgorqsqsstfhintssnadifshhgorpeaeinteoeofaehsonanetotcrbN2.TtSn6,IoC,b,adteseishdtordasf.CNOFA.Noayorseo,ontecfaehgorlwj,slattetesnofahgorfracdcep]
+[DELETED: rayorm,etm,adtecfaehrlwjeslntptayshi;pdttasadseosmyimteoeofaehsigoftrvsr)Eendorddwhrttotsofplcdc)Pdrsurcnfranbyteoeoeh)Lnorrsurcnorbgpdbyteofaeh)Lnorrsurcnorbgpdbyssorseo;a)AdvsofteceofcN2.TtSn6,IoC,b,adteseishdtordasf.CTOFDTOFHHADWECDC.()Ngayorpnoftsc,teofaehsslntctcdcepsulJy1,2.CdcepscdprttdeslpdurtelwasitedasofJe3,2,ustehgfrshcdceddntceprtoJ,2.P,h,teoeofaehsslntdtofhhadwecdcehsulJy1,2,adshhscdprtottdeslbecdbytedtofhhadw)Tedtofhhadwesleysttecsfrmeadmdss()alttmyberrCStoaetectofdtofhhadwecehsbyteoeofaehscgonJy1,2,aspdfrinss()ad()oftss,igbtntldtosepna,w,admfa,asmyberdbyCSfmtetot.Teg,bdthtedroftedtofhhadw,slrnteaytoeeaeotofhsnocywhrsddin42U.1aadrdr)Tegrm,arnetotecfaeh,edtedeonwhteoeofaehsiocecgdtofhhadwecdcehsaspdfrinsn()oftssnulCShsaectofhsbyteoeofaehN2.S.Tepsoftsataehyddtobeseadifaypnoftsatorteafshpntoaypnorceisddidfra,shdnslntattevyoftergpsoftsa]
+[DELETED: N2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

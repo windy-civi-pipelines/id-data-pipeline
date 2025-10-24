@@ -1,0 +1,1043 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 345
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO LEGISLATIVE APPROVAL FOR MEDICAID STATE PLAN AMENDMENTS AND
+3 WAIVERS; REPEALING SECTION 56-270, IDAHO CODE, AS ENACTED BY SECTION
+4 1, CHAPTER 288, LAWS OF 2024, RELATING TO LEGISLATIVE APPROVAL OF
+5 WAIVERS AND STATE PLAN AMENDMENTS; AMENDING TITLE 56, IDAHO CODE, BY
+6 THE ADDITION OF A NEW CHAPTER 22, TITLE 56, IDAHO CODE, TO PROVIDE THAT
+7 LEGISLATIVE APPROVAL IS REQUIRED FOR CERTAIN STATE PLAN AMENDMENTS AND
+8 WAIVERS, TO PROVIDE LEGISLATIVE APPROVAL FOR A STATE PLAN AMENDMENT
+9 REGARDING RURAL EMERGENCY HOSPITAL DESIGNATION, TO PROVIDE LEGISLATIVE
+10 APPROVAL FOR A STATE PLAN AMENDMENT REGARDING MEDICAID COST-SHARING,
+11 TO PROVIDE LEGISLATIVE APPROVAL FOR STATE PLAN AMENDMENTS AND WAIVERS
+12 REGARDING COMPREHENSIVE MEDICAID MANAGED CARE, TO PROVIDE LEGISLA-
+13 TIVE APPROVAL FOR STATE PLAN AMENDMENTS AND WAIVERS REGARDING MEDICAID
+14 EXPANSION LIMITS, TO PROVIDE LEGISLATIVE APPROVAL FOR A STATE PLAN
+15 AMENDMENT REGARDING PRACTICE AUTHORITY PROTECTION, AND TO PROVIDE LEG-
+16 ISLATIVE APPROVAL FOR A STATE PLAN AMENDMENT REGARDING SITE NEUTRAL
+17 PAYMENTS; REPEALING SECTION 56-253, IDAHO CODE, RELATING TO POWERS AND
+18 DUTIES OF THE DIRECTOR; AMENDING SECTION 56-263, IDAHO CODE, TO REMOVE
+19 OBSOLETE LANGUAGE AND TO PROVIDE THAT THE DEPARTMENT OF HEALTH AND WEL-
+20 FARE SHALL DISCONTINUE CERTAIN CONTRACTING AND REIMBURSEMENT; AMENDING
+21 SECTION 56-265, IDAHO CODE, TO PROVIDE THAT FEDERALLY QUALIFIED HEALTH
+22 CENTERS SHALL BE EXEMPT FROM FINANCIAL RISK IN CERTAIN PAYMENT AR-
+23 RANGEMENTS; AMENDING SECTION 56-267, IDAHO CODE, TO REVISE PROVISIONS
+24 REGARDING ELIGIBILITY EXPANSION; AMENDING SECTION 56-1403, IDAHO CODE,
+25 TO REVISE PROVISIONS REGARDING THE HOSPITAL ASSESSMENT FUND; AMENDING
+26 SECTION 56-1404, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE UPPER
+27 PAYMENT LIMIT ASSESSMENT RATE; PROVIDING THAT CERTAIN ADMINISTRATIVE
+28 RULES CONTAINED IN IDAPA 16.03.17 SHALL BE NULL, VOID, AND OF NO FORCE
+29 AND EFFECT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN
+30 IDAPA 16.03.18 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVID-
+31 ING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA 16.03.09 SHALL
+32 BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVIDING THAT CERTAIN ADMIN-
+33 ISTRATIVE RULES CONTAINED IN IDAPA 16.03.10 SHALL BE NULL, VOID, AND OF
+34 NO FORCE AND EFFECT; AND DECLARING AN EMERGENCY.
+35 Be It Enacted by the Legislature of the State of Idaho:
+36 SECTION 1. That Section 56-270, Idaho Code, as enacted by Section 1,
+37 Chapter 288, Laws of 2024, be, and the same is hereby repealed.
+38 SECTION 2. That Title 56, Idaho Code, be, and the same is hereby amended
+39 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+40 ter 22, Title 56, Idaho Code, and to read as follows:
+41 CHAPTER 22
+2
+1 LEGISLATIVE APPROVAL FOR MEDICAID STATE PLAN AMENDMENTS AND WAIVERS
+2 56-2201. LEGISLATIVE APPROVAL REQUIRED. Notwithstanding any provi-
+3 sion of law to the contrary, the state department of health and welfare shall
+4 not seek or implement a medicaid state plan amendment or a waiver pursuant to
+5 section 1115 or 1915 of the social security act that would expand coverage
+6 to any additional individuals or class of individuals or would increase any
+7 net cost to the state without first obtaining approval from the legisla-
+8 ture. Such approval must be provided in statute and, to be effective, must
+9 be listed in this chapter. The provisions of this section shall not affect
+10 any state plan amendment or waiver program previously authorized by statute
+11 or already implemented as of July 1, 2025. The provisions of this section
+12 shall not apply to any medicaid state plan amendment or waiver program that
+13 does not expand coverage to any individuals or class of individuals and does
+14 not increase any net cost to the state. The department of health and welfare
+15 shall provide regular updates to the medicaid legislative review panel on a
+16 schedule determined by the cochairs and shall seek input from the medicaid
+17 legislative review panel to design any waivers submitted to the centers for
+18 medicare and medicaid services on behalf of the state.
+19 56-2202. LEGISLATIVE APPROVAL -- RURAL EMERGENCY HOSPITAL DESIGNA-
+20 TION AND REIMBURSEMENT. The department of health and welfare is authorized
+21 to and shall submit a state plan amendment to the centers for medicare and
+22 medicaid services allowing the recognition and reimbursement of medicaid
+23 services provided by a rural emergency hospital. For the purposes of this
+24 section, "rural emergency hospital" has the same meaning as provided in 42
+25 U.S.C. 1395x(kkk)(2).
+26 56-2203. LEGISLATIVE APPROVAL -- MEDICAID COST-SHARING. (1) The de-
+27 partment of health and welfare is authorized to and shall submit a state plan
+28 amendment to the centers for medicare and medicaid services to include par-
+29 ticipant cost-sharing as a condition of participation in a medical assis-
+30 tance program, to the extent allowed under federal law, that is at least to
+31 the levels developed by other states and up to the maximum charged by other
+32 states.
+33 (2) The department of health and welfare shall:
+34 (a) Take such actions as are necessary to implement the provisions of
+35 this section;
+36 (b) Begin the application process for federal approval of the state
+37 plan amendment required by this section no later than July 1, 2026; and
+38 (c) Continue any existing cost-sharing under the medicaid state plan in
+39 effect at the time of the passage of this act until supplanted by the new
+40 state plan amendment required by this section.
+41 56-2204. LEGISLATIVE APPROVAL -- COMPREHENSIVE MEDICAID MANAGED
+42 CARE. (1) The department of health and welfare is authorized to and shall
+43 submit to the centers for medicare and medicaid services all state plan and
+44 waiver authorities required to implement a plan for comprehensive medicaid
+45 managed care.
+46 (2) The department of health and welfare shall:
+3
+1 (a) Take such actions as are necessary to implement the provisions of
+2 this section;
+3 (b) Submit the application for federal approval of the state plan
+4 amendments and waivers required by this section no later than July 1,
+5 2026;
+6 (c) Continue any existing managed care under the medicaid state plan
+7 and its waivers in effect at the time of the passage of this act until
+8 supplanted by the new comprehensive managed care plan required under
+9 this section;
+10 (d) Undertake cost containment strategies, such as bidding multi-year
+11 contracts with predetermined inflationary adjustments or withholding
+12 a percentage of capitation if managed care organizations do not meet
+13 these cost containment targets; and
+14 (e) Engage medicaid providers and participants in the substance and de-
+15 sign of a comprehensive managed care plan.
+16 56-2205. LEGISLATIVE APPROVAL -- MEDICAID EXPANSION LIMITS. (1) The
+17 department of health and welfare is authorized to and shall submit to the
+18 centers for medicare and medicaid services the following state plan amend-
+19 ments and waivers no later than July 1, 2026:
+20 (a) Work-requirements for able-bodied adults enrolled in medicaid in
+21 which no individual shall be eligible to participate in the medicaid
+22 program pursuant to section 56-267, Idaho Code, unless the individual
+23 is:
+24 (i) Working twenty (20) hours or more per week, averaged monthly;
+25 (ii) Participating in and complying with the requirements of a
+26 work program twenty (20) hours or more per week, as determined by
+27 the department;
+28 (iii) Volunteering twenty (20) hours or more per week, as deter-
+29 mined by the department;
+30 (iv) Meeting any combination of working and participating in a
+31 work program for a total of twenty (20) hours or more per week, as
+32 determined by the department; or
+33 (v) Participating and complying with the requirements of a work-
+34 fare program, unless the individual is:
+35 1. Younger than nineteen (19) years of age;
+36 2. Older than sixty-four (64) years of age;
+37 3. Medically classified as physically or mentally unfit for
+38 employment;
+39 4. Pregnant;
+40 5. A parent or caretaker responsible for the care of a depen-
+41 dent child younger than six (6) years of age;
+42 6. A parent or caretaker personally providing the care for
+43 a dependent with a serious medical condition or with a dis-
+44 ability, as determined by the department;
+45 7. Receiving unemployment compensation and complying with
+46 the work requirements as part of the federal-state unemploy-
+47 ment compensation system;
+48 8. Participating in a drug addiction or alcohol treatment
+49 and rehabilitation program; or
+4
+1 9. Enrolled at least part-time in a college, university, or
+2 vocational education program.
+3 (b) Allow persons eligible for medicaid under section 56-267, Idaho
+4 Code, who have a modified adjusted gross income at least at or above one
+5 hundred percent (100%) of the federal poverty level to receive the ad-
+6 vance premium tax credit to purchase a qualified health plan through the
+7 Idaho health insurance exchange established by chapter 61, title 41,
+8 Idaho Code, instead of enrolling in medicaid, except that the person may
+9 choose to enroll in medicaid instead of receiving the advance premium
+10 tax credit to purchase a qualified health plan.
+11 (c) Implement the following changes to eligibility determination:
+12 (i) Suspend requirements to renew eligibility automatically
+13 based on available information and pre-populated forms; and
+14 (ii) Implement biannual redetermination for persons eligible for
+15 medicaid under section 56-267, Idaho Code.
+16 (d) Implement the following changes to benefits:
+17 (i) No funds shall be used to fulfill any contract or commercial
+18 transaction with any health care provider or health care facil-
+19 ity under the terms of which such health care provider or health
+20 care facility agrees to provide services prohibited under section
+21 18-1506C, Idaho Code; and
+22 (ii) No funds shall be used to fulfill any gender reassignment
+23 procedures, including treatment and surgery for any resident
+24 eighteen (18) years of age or older.
+25 (2) An individual is exempt from the provisions of any state plan amend-
+26 ment or waiver pursuant to this section if the individual is an American In-
+27 dian or Alaska native who is eligible for services through the Indian health
+28 service or through a tribal program pursuant to the Indian self-determina-
+29 tion and education assistance act or the Indian health care improvement act.
+30 56-2206. LEGISLATIVE APPROVAL -- PRACTICE AUTHORITY PROTECTION. The
+31 department of health and welfare is authorized to and shall submit a state
+32 plan amendment to the centers for medicare and medicaid services by July 1,
+33 2025, allowing for practice authority protection to the extent permitted by
+34 state law.
+35 56-2207. LEGISLATIVE APPROVAL -- SITE-NEUTRAL PAYMENTS. The depart-
+36 ment of health and welfare is authorized to seek and shall submit a state plan
+37 amendment by July 1, 2026, that sets reimbursement rates for hospital-ac-
+38 quired physician practices at the same rate as physician-owned medical prac-
+39 tices for all equivalent outpatient health services where the service is not
+40 dependent on the hospital facility's associated technologies and in the ab-
+41 sence of any evidence-based rationale. The department shall except critical
+42 access hospitals and rural emergency hospitals to the extent allowable.
+43 SECTION 3. That Section 56-253, Idaho Code, be, and the same is hereby
+44 repealed.
+45 SECTION 4. That Section 56-263, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+5
+1 56-263. MEDICAID MANAGED CARE PLAN. (1) The department shall present
+2 to the legislature on the first day of the second session of the sixty-first
+3 Idaho legislature a plan for medicaid managed care with focus on high-cost
+4 populations, including but not limited to:
+5 (a) Dual eligibles; and
+6 (b) High-risk pregnancies.
+7 (2) The medicaid managed care plan shall include but not be limited to
+8 the following elements:
+9 (a) Improved coordination of care through primary care medical homes.
+10 (b) Approaches that improve coordination and provide case management
+11 for high-risk, high-cost disabled adults and children that reduce costs
+12 and improve health outcomes, including mandatory enrollment in special
+13 needs plans, and that consider other managed care approaches.
+14 (c) Managed care contracts to pay for behavioral health benefits as
+15 described in executive order no. 2011-01 and in any implementing leg-
+16 islation. At a minimum, the system should include independent, stan-
+17 dardized, statewide assessment and evidence-based benefits provided by
+18 businesses that meet national accreditation standards.
+19 (d) The elimination of duplicative practices that result in unneces-
+20 sary utilization and costs.
+21 (e) Contracts based on gain-sharing, risk-sharing or a capitated ba-
+22 sis.
+23 (f) Medical home development with focus on populations with chronic
+24 disease using a tiered case management fee.
+25 (3) The department shall seek federal approval or a waiver to require
+26 that a medicaid participant who has a medical home as required in section
+27 56-255(5)(b), Idaho Code, and who seeks family planning services or supplies
+28 from a provider outside the participant's medical home, must have a referral
+29 to such outside provider. The provisions of this subsection shall apply to
+30 medicaid participants upon such approval or the granting of such a waiver.
+31 (4) (1) The department shall seek approval as soon as practicable but no
+32 later than July 1, 2027, from the centers for medicare and medicaid services
+33 for directed payments to qualifying hospitals entities participating in the
+34 Idaho behavioral health plan or any comprehensive managed care plan in ac-
+35 cordance with 42 CFR 438., with thirty percent (30%) of the directed payments
+36 being utilized for general fund medicaid needs. Such funds shall be continu-
+37 ously appropriated.
+38 (5) (2) Subject to written approval by the centers for medicare and med-
+39 icaid services, the department shall make directed payments to qualifying
+40 hospitals participating in medicaid managed care programs in an amount not
+41 to exceed the maximum allowable payment authorized by federal regulations.
+42 (6) (3) Qualifying behavioral health hospitals assessed pursuant to
+43 this section for the Idaho behavioral health plan are exempt from assessment
+44 pursuant to section 56-1404, Idaho Code.
+45 (4) The department shall discontinue contracting and reimbursing as
+46 part of the healthy connections value care program through value care orga-
+47 nizations and the healthy connections primary care case management program
+48 by January 1, 2026.
+49 SECTION 5. That Section 56-265, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+6
+1 56-265. PROVIDER PAYMENT. (1) Where there is an equivalent, the pay-
+2 ment to medicaid providers:
+3 (a) May be up to but shall not exceed one hundred percent (100%) of the
+4 current medicare rate for primary care procedure codes as defined by the
+5 centers for medicare and medicaid services; and
+6 (b) Shall be ninety percent (90%) of the current medicare rate for all
+7 other procedure codes.
+8 (2) Where there is no medicare equivalent, the payment rate to medicaid
+9 providers shall be prescribed by rule.
+10 (3) Notwithstanding any other provision of this chapter, if the
+11 services are provided by a private, freestanding mental health hospital
+12 facility that is an institution for mental disease as defined in 42 U.S.C.
+13 1396d(i), the department shall reimburse for inpatient services at a rate
+14 not to exceed ninety-one percent (91%) of the current medicare rate within
+15 federally allowed reimbursement under the medicaid program. The reimburse-
+16 ment provided for in this subsection shall be effective until July 1, 2021.
+17 (4) The department shall, through the annual budget process, include
+18 a line-item request for adjustments to provider rates. All changes to
+19 provider payment rates shall be subject to approval of the legislature by
+20 appropriation.
+21 (5) Notwithstanding any other provision of this chapter, the depart-
+22 ment may enter into agreements with providers to pay for services based on
+23 their value in terms of measurable health care quality and positive impacts
+24 to participant health.
+25 (a) Any such agreement shall be designed to be cost-neutral or cost-
+26 saving compared to other payment methodologies.
+27 (b) The department is authorized to pursue waiver agreements with the
+28 federal government as needed to support value-based payment arrange-
+29 ments, up to and including fully capitated provider-based managed care.
+30 (c) Beginning with the 2024 performance period and for all future per-
+31 formance periods thereafter, federally qualified health centers and
+32 any organization owned and controlled by a federally qualified health
+33 center shall be exempt from any financial risk in value-based payment
+34 agreements created pursuant to this section.
+35 (6) Medicaid reimbursement for critical access, out-of-state, and
+36 state-owned hospitals shall be as follows:
+37 (a) In-state, critical access hospitals as designated according to 42
+38 U.S.C. 1395i-4(c)(2)(B) shall be reimbursed at one hundred one percent
+39 (101%) of cost;
+40 (b) Out-of-state hospitals shall be reimbursed at eighty-seven percent
+41 (87%) of cost;
+42 (c) State-owned hospitals shall be reimbursed at one hundred percent
+43 (100%) of cost; and
+44 (d) Out-of-state hospital institutions for mental disease as defined
+45 in 42 U.S.C. 1396d(i) shall be reimbursed at a per diem equivalent to
+46 ninety-five percent (95%) of cost.
+47 (7) The department shall equitably reduce net reimbursements for all
+48 hospital services, including in-state institutions for mental disease but
+49 excluding all hospitals and institutions described in subsection (6) of
+50 this section, by amounts targeted to reduce general fund needs for hospital
+7
+1 payments by three million one hundred thousand dollars ($3,100,000) in state
+2 fiscal year 2020 and eight million seven hundred twenty thousand dollars
+3 ($8,720,000) in state fiscal year 2021.
+4 (8) The department shall work with all Idaho hospitals, including in-
+5 stitutions for mental disease as defined in 42 U.S.C. 1396d(i), to establish
+6 value-based payment methods for inpatient and outpatient hospital services
+7 to replace existing cost-based reimbursement methods for in-state hospi-
+8 tals, other than those hospitals and institutions described in subsection
+9 (6) of this section, effective July 1, 2021. Budgets for hospital payments
+10 shall be subject to prospective legislative approval.
+11 (9) The department shall work with Idaho hospitals to establish a
+12 quality payment program for inpatient and outpatient adjustment payments
+13 described in section 56-1406, Idaho Code. Inpatient and outpatient adjust-
+14 ment payments shall be subject to increase or reduction based on hospital
+15 service quality measures established by the department in consultation with
+16 Idaho hospitals.
+17 SECTION 6. That Section 56-267, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 56-267. MEDICAID ELIGIBILITY EXPANSION. (1) Notwithstanding any pro-
+20 vision of law or federal waiver to the contrary, the state shall amend its
+21 state plan to expand medicaid eligibility to include those persons under
+22 sixty-five (65) years of age whose modified adjusted gross income is one hun-
+23 dred thirty-three percent (133%) of the federal poverty level or below and
+24 who are not otherwise eligible for any other coverage under the state plan,
+25 in accordance with sections 1902(a)(10)(A)(i)(VIII) and 1902(e)(14) of the
+26 social security act.
+27 (2) No later than ninety (90) days after approval of this act, the
+28 department shall submit any necessary state plan amendments to the United
+29 States department of health and human services, centers for medicare and
+30 medicaid services to implement the provisions of this section. The depart-
+31 ment is required and authorized to take all actions necessary to implement
+32 the provisions of this section as soon as practicable.
+33 (3) Eligibility for medicaid as described in this section shall not be
+34 delayed if the centers for medicare and medicaid services fail to approve any
+35 waivers of the state plan for which the department applies, nor shall such
+36 eligibility be delayed while the department is considering or negotiating
+37 any waivers to the state plan. The department shall not implement any waiver
+38 that would result in a reduction in federal financial participation for per-
+39 sons identified in subsection (1) of this section below the ninety percent
+40 (90%) commitment described in section 1905(y) of the social security act.
+41 (4) If section 1905(y) of the social security act is held unlawful or
+42 unconstitutional by the United States supreme court, then the legislature
+43 shall declare this section to be null, void, and of no force and effect.
+44 (5) If federal financial participation for persons identified in sub-
+45 section (1) of this section is reduced below the ninety percent (90%) commit-
+46 ment described in section 1905(y) of the social security act, then the senate
+47 and house of representatives health and welfare committees shall, as soon
+48 as practicable, review the effects of such reduction and make a recommenda-
+49 tion to the legislature as to whether medicaid eligibility expansion should
+8
+1 remain in effect. The review and recommendation described in this subsec-
+2 tion shall be conducted by the date of adjournment of the regular legisla-
+3 tive session following the date of reduction in federal financial partici-
+4 pation. Notwithstanding any other provision of law to the contrary, if the
+5 reduction in federal financial participation occurs outside of a state leg-
+6 islative session, the department shall take any action necessary to offset
+7 the increase in state funding, including but not limited to reductions in
+8 provider payment rates or elimination of optional benefits. Such actions
+9 shall be taken until such time as the state legislature may convene and de-
+10 termine a proper course of action.
+11 (6) The department:
+12 (a) Shall place all persons participating in medicaid pursuant to
+13 this section in a care management program authorized under section
+14 56-265(5), Idaho Code, or in another managed care program to improve the
+15 quality of their care, to the extent possible; and
+16 (b) Is authorized to seek any federal approval necessary to implement
+17 the provisions of this subsection.
+18 (7) No later than January 31 in the 2023 legislative session, the sen-
+19 ate and house of representatives health and welfare committees shall review
+20 all fiscal, health, and other impacts of medicaid eligibility expansion pur-
+21 suant to this section and shall make a recommendation to the legislature as
+22 to whether such expansion should remain in effect.
+23 SECTION 7. That Section 56-1403, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 56-1403. HOSPITAL ASSESSMENT FUND ESTABLISHED. (1) There is hereby
+26 created in the office of the state treasurer a dedicated fund to be known
+27 as the hospital assessment fund, hereinafter "fund," to be administered by
+28 the department of health and welfare, hereinafter "department." The state
+29 treasurer shall invest idle moneys in the fund and any interest received on
+30 those investments shall be returned to the fund. All moneys in the fund are
+31 continuously appropriated to the department for the purposes specified in
+32 this chapter.
+33 (2) Moneys in the fund shall consist of:
+34 (a) All moneys collected or received by the department from private
+35 hospital assessments required by this chapter;
+36 (b) All federal matching funds received by the department as a result
+37 of expenditures made by the department that are attributable to moneys
+38 deposited in the fund;
+39 (c) Any interest or penalties levied in conjunction with the adminis-
+40 tration of this chapter; and
+41 (d) Any appropriations, federal funds, donations, gifts or moneys from
+42 any other sources.
+43 (3) The fund is created for the purpose of receiving moneys in accor-
+44 dance with this section and section 56-1404, Idaho Code. Moneys in the fund
+45 shall be distributed by the department subject to appropriation for the fol-
+46 lowing purposes only:
+47 (a) Payments to private hospitals as required under Idaho's medical
+48 assistance program as set forth in sections 56-209b through 56-209d,
+49 Idaho Code;
+9
+1 (b) Reimbursement of moneys collected by the department from private
+2 hospitals through error or mistake in performing the activities autho-
+3 rized under Idaho's medical assistance program;
+4 (c) Payments of administrative expenses incurred by the department or
+5 its agent in performing the activities authorized by this chapter;
+6 (d) Payments made to the federal government to repay excess payments
+7 made to private hospitals from the fund if the assessment plan is deemed
+8 out of compliance and after the state has appealed the findings. Hospi-
+9 tals shall refund the payments in question to the assessment fund. The
+10 state in turn shall return funds to both the federal government and hos-
+11 pital providers in the same proportion as the original financing. Indi-
+12 vidual hospitals shall be reimbursed based on the proportion of the in-
+13 dividual hospital's assessment to the total assessment paid by all pri-
+14 vate hospitals. If a hospital is unable to refund payments, the state
+15 shall develop a payment plan and deduct moneys from future medicaid pay-
+16 ments;
+17 (e) Transfers to any other fund in the state treasury, provided such
+18 transfers shall not exceed the amount transferred previously from that
+19 other fund into the hospital assessment fund;
+20 (f) Making refunds to hospitals pursuant to section 56-1410, Idaho
+21 Code; and
+22 (g) Offsetting general funding needed to support Idaho medicaid.
+23 SECTION 8. That Section 56-1404, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 56-1404. ASSESSMENTS. (1) All private hospitals, except those ex-
+26 empted under section 56-1408, Idaho Code, shall make payments to the fund in
+27 accordance with this chapter. Subject to section 56-1410, Idaho Code, an an-
+28 nual assessment on both inpatient and outpatient services is determined for
+29 each qualifying hospital for each state fiscal year in an amount calculated
+30 by multiplying the rate, as set forth in subsections (2)(c) and (3)(b) of
+31 this section, by the assessment base, as set forth in subsection (5) of this
+32 section.
+33 (2)(a) The department shall calculate the private hospital upper pay-
+34 ment limit gap for both inpatient and outpatient services. The upper
+35 payment limit gap is the difference between the maximum allowable pay-
+36 ments eligible for federal match, less medicaid payments not financed
+37 using hospital assessment funds. The upper payment limit gap shall be
+38 calculated separately for hospital inpatient and outpatient services.
+39 Medicaid disproportionate share payments shall be excluded from the
+40 calculation.
+41 (b) Idaho medicaid will start work toward approval by the centers for
+42 medicare and medicaid services (CMS) of an updated upper payment limit
+43 calculation methodology no later than July 1, 2022. This change is
+44 needed due to the change reflected in section 56-265, Idaho Code, in re-
+45 imbursement from retrospective cost settlements to prospective payment
+46 systems.
+47 (c) The department shall calculate the upper payment limit assessment
+48 rate for each state fiscal year to be the percentage that, when multi-
+10
+1 plied by the assessment base as defined in subsection (5) of this sec-
+2 tion, equals the upper payment limit payment.
+3 (d) Beginning July 1, 2022, or upon approval by CMS, whichever is later,
+4 the assessment rate referenced in paragraph (c) of this subsection will
+5 increase to the amount needed to attain an increased supplemental upper
+6 payment limit payment. This payment amount is subject to CMS approval
+7 of the updated upper payment limit methodology described in paragraph
+8 (a) of this subsection and legislative appropriation shall be continu-
+9 ously appropriated.
+10 (e) Beginning July 1, 2023, an additional amount will be assessed at
+11 thirty percent (30%) of the upper payment limit payment to be utilized
+12 for general fund medicaid needs.
+13 (f) If CMS does not approve the updated upper payment limit methodology
+14 described in paragraph (b) of this subsection, then the additional as-
+15 sessment described in paragraph (e) of this subsection shall not be im-
+16 plemented.
+17 (g) The assessment described in paragraph (e) of this subsection shall
+18 be assessed only if the upper payment limit payment is greater than the
+19 total assessment.
+20 (3)(a) The department shall calculate the disproportionate share al-
+21 lotment amount to be paid to private in-state hospitals.
+22 (b) The department shall calculate the disproportionate share assess-
+23 ment rate for private in-state hospitals to be the percentage that, when
+24 multiplied by the assessment base as defined in subsection (5) of this
+25 section, equals the amount of state funding necessary to pay the private
+26 in-state hospital disproportionate share allotment determined in para-
+27 graph (a) of this subsection.
+28 (4) For private in-state hospitals, the assessments calculated pur-
+29 suant to subsections (2) and (3) of this section shall not be greater than
+30 the federal limit as referenced in 42 CFR 433.68 of the assessment base as
+31 defined in subsection (5) of this section.
+32 (5) The assessment base shall be the hospital's net patient revenue
+33 for the applicable period. Net patient revenue, beginning with state fis-
+34 cal year 2023, shall be determined using each hospital's fiscal year 2021
+35 medicare cost report on file with the department, without regard to any sub-
+36 sequent adjustments or changes to such data. If the 2021 cost report has not
+37 been filed, the prior year's cost report will be used. Net patient revenue
+38 for each state fiscal year thereafter shall be determined in the same manner
+39 using a rolling yearly schedule for each hospital's fiscal year medicare
+40 cost report.
+41 SECTION 9. The rules contained in IDAPA 16.03.17, Department of Health
+42 and Welfare, relating to Medicare/Medicaid Coordinated Plan Benefits, shall
+43 be null, void, and of no force and effect on and after July 1, 2025.
+44 SECTION 10. The rules contained in IDAPA 16.03.18, Department of Health
+45 and Welfare, relating to Medicaid Cost-Sharing, shall be null, void, and of
+46 no force and effect on and after July 1, 2025.
+11
+1 SECTION 11. The rules contained in IDAPA 16.03.09, Department of Health
+2 and Welfare, relating to Medicaid Basic Plan Benefits, shall be null, void,
+3 and of no force and effect on and after July 1, 2025.
+4 SECTION 12. The rules contained in IDAPA 16.03.10, Department of Health
+5 and Welfare, relating to Medicaid Enhanced Plan Benefits, shall be null,
+6 void, and of no force and effect on and after July 1, 2025.
+7 SECTION 13. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after its
+9 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YHHADWECNAGTOLEALFRMDSEPNASA;RGSN5,IOC,ASEDBYS,CR2,LSOF2,RGTOLEALOSADSEPNA;AGTE5,IOC,BEANOFANWCR2,TE5,IOC,TOPETEALISRDFRCNSEPNASA,TOPELEALFRASEPNAGRLEYHLD,TOPELLFRASEPNATRGMDCOPELEALFRSEPNASADWGCEMDMDC,TOPELEALFRSEPNASADWSRGMNL,TOPELEALFRASEPTRGPEAYP,ADTOPELEALFRASEPNATRGSEN;RGSN5,IOC,RGTOPSASOFTED;AGSN5,IOC,TORELEADTOPETTTEDTOFHHADWESLDECNCGADR;AN5,IOC,TOPETTFYQDHSSLBEETFMFLRKINCNPTA;AGSN5,IOC,TOREPGEYE;AGSN5,IOCOREPSRGTEHLATF;AN5,IOC,TOREPSRGTEUTLTATR;PGTTCNASCDINIA17SLBEN,V,ADOFNOFDE;PGTTCNAERSCDIA18SLBEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA19SEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA10SLBEN,V,ADOOFEADE;ADDGANEeItEdbyteLeofteSeofIN1.TtSn5,IoC,asedbySn1r2,Lsof2,b,adteseishyrN2.TtTe5,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te5,IoC,adtordasfR2]
+[DELETED: EALFRMDSEPNASADW.LEALR.Ngaypnoflwtotec,tesedtofhhadwestskoritamdsepnatorawrpttn15or15ofteslsyatttwdedcoayalisorcsofisorwdieatcttotesewtftogalfmtel.Shalmtbepdinsea,tobee,meldintsc.TepsoftssnslntaysepnatorwrpmpyadbysrayidasofJy1,2.Tepsoftsslntaytoaymdsepnatorwrpmtsntedcetoayisorcsofisaddtieayntcttotes.Tedtofhhadwlperrustotemdlerwploneddbytecsadslskitfmtemerwpltodnaywssdtotecsfeadmdssonbfoftes.LEAL--RLEYHLDNADR.Tedtofhhadweisaoadslstasepnattotecsfrmeadssagternadrtofmspdbyarleyh.Frtepsoft,"leyh"hstesemgaspdin4.1.LEAL--MDC.()Tedtofhhadweisadtoadslstasepttotecsfrmeadmdsstoieptcgasacnofpninamlaep,toteetadurfll,ttisatlttelsddbyorssaduptotemmcdbyo)Tedtofhhadwes)Teshasasaenytoittepsoss)BnteanpsfrflaloftesnatrdbytssnnolrtnJy1,2;a)Ceayegcgurtemdsepnitatteteoftepeoftsatulsdbytenepnatrdbytss.LEAL--CEMDM.()Tedtofhhadweisadtoadsttotecsfrmeadmdssalsepnarasrdtoitapnfrcemdc)Tedtofhhadwes]
+[DELETED: )Teshasasaenytoittepsoss)StteanfrflaloftesepsadwsrdbytssnnolrtnJy1)Ceayegmdceurtemdsepdiswsinetatteteoftepeoftsatudbytenwcemdcepnrduss)Uectcts,shasbgmswhpdiyasorwpeofcnifmdceosdontmectctt;a)Eemdpsadpsinteseaddnofacemdcep.LEAL--MDENL.()TtofhhadweisadtoadslsttotsfrmeadmdsstefgsepnasadwsnolrtnJy1,2)Wsfradasedinmdihnoilslbeeetopeintemmpttosn5,IoC,ustei)Wgty()hsormeprw,adm)Pginadcgwhtersofkpmty()hsormeprw,asddbed)Vgty()hsormeprw,asddbyted)Mgaycnofwgadpginkpmfratlofty()hsormeprw,adbyted;o)Pgadcgwhtersofawep,usteili.Yrtnnn()ysofa.Ortnsr()ysofa.Mycdaspyormyutf.P.Aptorcrrefrteceofadtcdyrtnsx()ysofa.Aptorcrpypgtecefdtwhassmlcnorwhad,asddbyted.Rgutcnadcgwewkrsasptoftefeutcns.Pginadganoraltdrnp;o]
+[DELETED: .Edatltpeinac,u,olenp)Awpseefrmdursn5,I,woheamdadgsieatltatoraeodpt()ofteflpylltoreteaepmtxcttopeaqdhhpnthtohhieeeedbycr6,te4oC,idofeginm,ettttepnmetoelinmdidofrgteaepxcttopeaqdhhp)Ittefgcstoeyd)Sdrstorweyadonaeinadpdf;a)Itblrnfrpseefdursn5,IoC)Ittefgcstob)Nofsslbeudtoflayctorcnwhayhhceprorhhcefyurtetsofwhshhhceprorhefyastopesspdurs,IoC;a)Nofsslbeudtoflaygrr,igttadsyfrayrn()ysofaeoro)AnilisetfmtepsofaysepnatorwrpttotssnifteilisanAnInorAanewoiseefrssthteInheorthatlpmpttoteInsnadenaeatorteInhhceita.LEAL--PEAYP.TtofhhadweisadtoadslstasnattotecsfrmeadmdssbyJy1,agfrpeaypntoteetpdbel.LEAL--SLP.TedtofhhadweisadtoskadslstaseptbyJy1,2,ttssrtrsfrhdpnpsattesereaspdmlpsfraletothhssweteseisntontehlfsadtsadinteaeofayedr.TedtsletcshsadrleyhstoteetaN3.TtSn5,IoC,b,adteseishN4.TtSn5,IoC,b,adteseishdtordasf]
+[DELETED: .MDMDCEP.()Tedtslpoteleonteftdyoftesdsnoftesoleapnfrmdmdcewhfsonh,igbtntldt)Dle;a)Hkp)Temdmdcepnsliebtntbeldtefge)Idcnofcethpycemlh)Asttiecnadpecemrh,htddasadcnttrecdiehho,igmyetinssp,adttcrormdcea)Mdcecstopyfrblhhbsadineeorn.21adinayigl.Atam,tesmsdiei,s,seatadedbspdbsttmtnlans)Teenofdepsttrtinuyunadc)Csbdong,rgoracdb)Mlhedtwhfsonpswhceugatdcemtf)Tedtslskflalorawrtortamdptwohsamlheasrdins,IoC,adwossfypgssorsmaproetepsmlh,mthearoshoep.Tepsoftssnslaytdpsunshalorteggofshaw)()TedtslskalassnaspebtnrtnJy1,2,fmtecsfrmeadmdsrddpstoqghsespgintoblhhpnoraycemdcepninaewh42CR4,whtypt()ofteddpgudfrglfdmdn.Shfsslbecya)()Sttownalbytecsfrmeadmds,tedtslmeddpstoqspginmdmdcepsinanatnoedtemmaeptadbyflr)()QgblhhhsadpttssnfrteIoblhhpnaeetfmattosn5,IoC)TedtsldecgadrgatoftehycsvecepmthveceosadtehycspycecemtpyJy1,2N5.TtSn5,IoC,b,adteseishdtordasf]
+[DELETED: .PRP.()Weteisane,tepttomdp)Mybeuptobtslntedoehdpt()ofttmerefrpycepecsasddbytsfrmeadmds;a)Slbenypt()oftectmerefrarpec)Weteisnomee,teptretomsslbepdbyr)Ngayorpnoftsc,iftsaepdbyap,fgmlhhhyttisaninfrmldeasddin42U,tedtslrefritssatarttoednept()oftectmerewyadrturtemdp.TertpdfrintssnslbeeeulJy1,2)Tedts,thtealbtp,ilmrtfrastoprr.Alcstrptrsslbesttoalofteleb)Ngayorpnoftsc,tedtmyerioaswhpstopyfrssbdorveintsofmehhceqyadpeiopth)Ayshatslbeddtobeclorcgcdtoorptm)Tedtisadtopewraswhtlgtasndtostvdpta,uptoadigfycdpdmdc)Bgwhte24pepdadfralfepepst,fyqdhhcsayonodadcdbyafyqdhrslbeetfmayflrkinvdpscdpttotss)Mdrtfrcla,o,adhsslbeasf)I,clashsasddagto4.1)slberdatoehdoep)ofc)Oehsslberdatenp)ofc)Sdhsslberdatoehdp)ofc;a)Oehlisfrmldeasdn42U.1)slberdataprdmettept()ofc)Tedtsleyrentrsfrals,igieisfrmldebgalhsadisddinsn()oss,byastdtoreglfdnsfrh]
+[DELETED: sbytemnoehdtdds()inslyr20adetmnsnhdtytdd)inseflyr2)TedtslwkwhalIoh,igisfrmldeasddin42U.1,toedptmsfritadothlsoreegcdrtmsfrieh,ortntehsadisddins)oftss,eeJy1,2.Bsfrhlplbesttopelea)TedtslwkwhIohstoehyptpmfritadotatpdinsn5,IoC.ItadotatpsslbesttoieorrnbdonheqymsedbytedtincnwohN6.TtSn5,IoC,b,adteseishdtordasf.MDEYE.()Ngaypnoflworflwrtotec,tesesladiepntoedmdeytoietepsue()ysofaewemdadgsieisoehdtept()ofteflpyllorbwaoaentoeeefrayorceurtesepnaewhss1)ad1)oftlsya)Nolrtnny()dsaraloftsa,ttslstaynysepnastoteUsdtofhhadhns,csfrmeadsstoittepsoftss.Tedtisrdadadtotealasnytoiepsoftssnassnasp)Eyfrmdasddintssnslntbdiftecsfrmeadmdssfltoaeasoftesepnfrwhtedta,nrslsybeddwetedtiscgornywstotesep.Tedtslntitaywtwdrtinarninflflpnfrpsidinsn()oftssnbwtenyp)ctddinsn1)ofteslsya)Ifsn1)ofteslsyatishdulolbyteUdSssec,tntelldetssntoben,v,adofnofeade)Ifflflpnfrpsidinsn()oftssnisrdbwtenypt()ctddinsn1)ofteslsya,tntesdheofrshhadwecss,asssp,rwteesofshrnadmearntoteleastowrmdeyens]
+[DELETED: nine.Terwadrnddintssnslbecdbytedeofatofterrlesnfgtedeofrninflflp.Ngayorpnoflwtotec,iftninflflpnosoeofaseles,tedtslteayannytooeieinsef,igbtntldtorsirptrsorenofolb.Shalbetnulshteasteselemyceaddeaprceofa)Ted)Slpealpspginmdpttssninacemtpmadurs,IoC,orinarmdcepmtoietyoftrc,toteetp;a)Isadtoskayflalnytoiepsoftss)NolrtnJy31inte23les,teseadheofrshhadwecsslrlf,h,adorisofmdeyenpttotssnadslmearntoteleaowrshensdrnineN7.TtSn5,IoC,b,adteseishdtordasf.HLATFDE.()Teishdinteoeoftesetraddfdtobekstehlatf,hr""tobeadbedtofhhadw,hr""Tesrslitiemsintefdadayitrdoeisslberdtotef.Almsintefdayadtotedtfrtepssdisc)Msintefdslcto)Almscdorrdbytedtfmplasrdbytsc)Alflmgfsrdbytedtasarfesmebytedtttaeaetomdintef)Ayitorpsldincnwhteanoftsc;a)Aya,flf,d,gsormsfyors)Tefdiscdfrtepeofrgmsinaewhtssnadsn5,IoC.Msinteflbeddbytedtsttoanfrtefgpso)PstopehsasrdurIsmepmasstfhinss5bth5oC]
+[DELETED: )RtofmscdbytedtfmpstherormeinpgteasadurIsmlaep)Psofaeesidbytedtosatinpgteasadbytsc)Psmetoteflgttoryespetopehsfmtefdifteatpnisdtofceadartesehsadtef.Hsslrdtepsinqntoteatf.Teintnslrnfstobhteflgtadhlpsintesepnasteolf.Ilhsslberdbdontepnofteilhsattotetlatpdbyalpeh.Ifahlisuetordp,tesldpaptpnaddtmsfmfemdp)Tstoayorfdinteset,pdssslntedteattdpyfmtrfdiotehlatf)Mgrstohspttosn5,I;a)OgglfgndtostIomN8.TtSn5,IoC,b,adteseishdtordasf.A.()Alpeh,etteedursn5,IoC,slmepstotefdiewhtsc.Sttosn5,IoC,analatonbhitadotssisddfhqghlfrehseflyrinanatcymgter,asstfhinss()ad()oss,byteatb,asstfhinsn()oft)Tedtslcetepehlurptltgpfrbhitadots.Teutltgpistedebntemmaepseefrflm,lsmdpsntfghlatf.Teurptltgpslbdsyfrhlitadotsddesepsslbeedfmt)Iomdwlstwktdalbytecsfeadmdss()ofanudurptlnmynolrtnJy1,2.Tsceiddetotecerdinsn5,IoC,inrtfmrectsstopep)Tedtslceteurptltaefrehseflyrtobetepet,wnm]
+[DELETED: dbyteatbeasddinsn()oftss,esteurptltp)BgJy1,2,orunalbyC,wrisleatrerdinph()oftssnwetoteatndtoananidslutltp.TsptatissttoCSafteudurptltmyddinp)oftssnadleanslbecya)BgJy1,2,analatwlbeadaypt()ofteurptltpttobeurglfdmdn)IfCSdsntaeteudurptltmdinph()oftss,tntealatddinph()oftssnslntbei)Teatddinph()oftssnseadoyifteurptltptisgrtntla)Tedtslcetedeseatattobepdtopeieh)Tedtslcetedeseatrefrpeiehstobetepet,wdbyteatbeasddinsn()oft,esteatofsefgnytopytepehldeseatddinph()oftss)Frpeieh,teascdpttoss()ad()oftssnslntbegrteflltasrdin42CR48ofteatbeadinsn()oftss)Teatbeslbetehsntptrrteaep.Ntptr,bgwhseflyr2,slbeddugehhsflyr2ectrtonfewhted,wtrdtoaystasorcstoshd.Ifte21ctrthsnnf,teprysctrtwlbeu.NtptrrehseflyrtrslbeddintesemgargyysefrehhsflyrmtrN9.TerscdinIA1,DtofHdW,rgtoMdCdPnB,sen,v,adofnofeadetonadarJy1,2N1.TerscdinIA1,DtofHdW,rgtoMdC,slben,v,adoofeadetonadarJy1,2]
+[DELETED: N1.TerscdinIA1,DtofHdW,rgtoMdBcPnB,slben,vdofnofeadetonadarJy1,2N1.TerscdinIA1,DtofHdW,rgtoMdEdPnB,slben,adofnofeadetonadarJy1,2N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 345
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO LEGISLATIVE APPROVAL FOR MEDICAID STATE PLAN AMENDMENTS AND
+3 WAIVERS; REPEALING SECTION 56-270, IDAHO CODE, AS ENACTED BY SECTION
+4 1, CHAPTER 288, LAWS OF 2024, RELATING TO LEGISLATIVE APPROVAL OF
+5 WAIVERS AND STATE PLAN AMENDMENTS; AMENDING TITLE 56, IDAHO CODE, BY
+6 THE ADDITION OF A NEW CHAPTER 22, TITLE 56, IDAHO CODE, TO PROVIDE THAT
+7 LEGISLATIVE APPROVAL IS REQUIRED FOR CERTAIN STATE PLAN AMENDMENTS AND
+8 WAIVERS, TO PROVIDE LEGISLATIVE APPROVAL FOR A STATE PLAN AMENDMENT
+9 REGARDING RURAL EMERGENCY HOSPITAL DESIGNATION, TO PROVIDE LEGISLATIVE
+10 APPROVAL FOR A STATE PLAN AMENDMENT REGARDING MEDICAID COST-SHARING,
+11 TO PROVIDE LEGISLATIVE APPROVAL FOR STATE PLAN AMENDMENTS AND WAIVERS
+12 REGARDING COMPREHENSIVE MEDICAID MANAGED CARE, TO PROVIDE LEGISLA-
+13 TIVE APPROVAL FOR STATE PLAN AMENDMENTS AND WAIVERS REGARDING MEDICAID
+14 EXPANSION LIMITS, TO PROVIDE LEGISLATIVE APPROVAL FOR A STATE PLAN
+15 AMENDMENT REGARDING PRACTICE AUTHORITY PROTECTION, AND TO PROVIDE LEG-
+16 ISLATIVE APPROVAL FOR A STATE PLAN AMENDMENT REGARDING SITE NEUTRAL
+17 PAYMENTS; REPEALING SECTION 56-253, IDAHO CODE, RELATING TO POWERS AND
+18 DUTIES OF THE DIRECTOR; AMENDING SECTION 56-263, IDAHO CODE, TO REMOVE
+19 OBSOLETE LANGUAGE AND TO PROVIDE THAT THE DEPARTMENT OF HEALTH AND WEL-
+20 FARE SHALL DISCONTINUE CERTAIN CONTRACTING AND REIMBURSEMENT; AMENDING
+21 SECTION 56-265, IDAHO CODE, TO PROVIDE THAT FEDERALLY QUALIFIED HEALTH
+22 CENTERS SHALL BE EXEMPT FROM FINANCIAL RISK IN CERTAIN PAYMENT AR-
+23 RANGEMENTS; AMENDING SECTION 56-267, IDAHO CODE, TO REVISE PROVISIONS
+24 REGARDING ELIGIBILITY EXPANSION; AMENDING SECTION 56-1403, IDAHO CODE,
+25 TO REVISE PROVISIONS REGARDING THE HOSPITAL ASSESSMENT FUND; AMENDING
+26 SECTION 56-1404, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE UPPER
+27 PAYMENT LIMIT ASSESSMENT RATE; PROVIDING THAT CERTAIN ADMINISTRATIVE
+28 RULES CONTAINED IN IDAPA 16.03.17 SHALL BE NULL, VOID, AND OF NO FORCE
+29 AND EFFECT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN
+30 IDAPA 16.03.18 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVID-
+31 ING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA 16.03.09 SHALL
+32 BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVIDING THAT CERTAIN ADMIN-
+33 ISTRATIVE RULES CONTAINED IN IDAPA 16.03.10 SHALL BE NULL, VOID, AND OF
+34 NO FORCE AND EFFECT; AND DECLARING AN EMERGENCY.
+35 Be It Enacted by the Legislature of the State of Idaho:
+36 SECTION 1. That Section 56-270, Idaho Code, as enacted by Section 1,
+37 Chapter 288, Laws of 2024, be, and the same is hereby repealed.
+38 SECTION 2. That Title 56, Idaho Code, be, and the same is hereby amended
+39 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+40 ter 22, Title 56, Idaho Code, and to read as follows:
+41 CHAPTER 22
+
+2
+1 LEGISLATIVE APPROVAL FOR MEDICAID STATE PLAN AMENDMENTS AND WAIVERS
+2 56-2201. LEGISLATIVE APPROVAL REQUIRED. Notwithstanding any provi-
+3 sion of law to the contrary, the state department of health and welfare shall
+4 not seek or implement a medicaid state plan amendment or a waiver pursuant to
+5 section 1115 or 1915 of the social security act that would expand coverage
+6 to any additional individuals or class of individuals or would increase any
+7 net cost to the state without first obtaining approval from the legisla-
+8 ture. Such approval must be provided in statute and, to be effective, must
+9 be listed in this chapter. The provisions of this section shall not affect
+10 any state plan amendment or waiver program previously authorized by statute
+11 or already implemented as of July 1, 2025. The provisions of this section
+12 shall not apply to any medicaid state plan amendment or waiver program that
+13 does not expand coverage to any individuals or class of individuals and does
+14 not increase any net cost to the state. The department of health and welfare
+15 shall provide regular updates to the medicaid legislative review panel on a
+16 schedule determined by the cochairs and shall seek input from the medicaid
+17 legislative review panel to design any waivers submitted to the centers for
+18 medicare and medicaid services on behalf of the state.
+19 56-2202. LEGISLATIVE APPROVAL -- RURAL EMERGENCY HOSPITAL DESIGNA-
+20 TION AND REIMBURSEMENT. The department of health and welfare is authorized
+21 to and shall submit a state plan amendment to the centers for medicare and
+22 medicaid services allowing the recognition and reimbursement of medicaid
+23 services provided by a rural emergency hospital. For the purposes of this
+24 section, "rural emergency hospital" has the same meaning as provided in 42
+25 U.S.C. 1395x(kkk)(2).
+26 56-2203. LEGISLATIVE APPROVAL -- MEDICAID COST-SHARING. (1) The de-
+27 partment of health and welfare is authorized to and shall submit a state plan
+28 amendment to the centers for medicare and medicaid services to include par-
+29 ticipant cost-sharing as a condition of participation in a medical assis-
+30 tance program, to the extent allowed under federal law, that is at least to
+31 the levels developed by other states and up to the maximum charged by other
+32 states.
+33 (2) The department of health and welfare shall:
+34 (a) Take such actions as are necessary to implement the provisions of
+35 this section;
+36 (b) Begin the application process for federal approval of the state
+37 plan amendment required by this section no later than July 1, 2026; and
+38 (c) Continue any existing cost-sharing under the medicaid state plan in
+39 effect at the time of the passage of this act until supplanted by the new
+40 state plan amendment required by this section.
+41 56-2204. LEGISLATIVE APPROVAL -- COMPREHENSIVE MEDICAID MANAGED
+42 CARE. (1) The department of health and welfare is authorized to and shall
+43 submit to the centers for medicare and medicaid services all state plan and
+44 waiver authorities required to implement a plan for comprehensive medicaid
+45 managed care.
+46 (2) The department of health and welfare shall:
+
+3
+1 (a) Take such actions as are necessary to implement the provisions of
+2 this section;
+3 (b) Submit the application for federal approval of the state plan
+4 amendments and waivers required by this section no later than July 1,
+5 2026;
+6 (c) Continue any existing managed care under the medicaid state plan
+7 and its waivers in effect at the time of the passage of this act until
+8 supplanted by the new comprehensive managed care plan required under
+9 this section;
+10 (d) Undertake cost containment strategies, such as bidding multi-year
+11 contracts with predetermined inflationary adjustments or withholding
+12 a percentage of capitation if managed care organizations do not meet
+13 these cost containment targets; and
+14 (e) Engage medicaid providers and participants in the substance and de-
+15 sign of a comprehensive managed care plan.
+16 56-2205. LEGISLATIVE APPROVAL -- MEDICAID EXPANSION LIMITS. (1) The
+17 department of health and welfare is authorized to and shall submit to the
+18 centers for medicare and medicaid services the following state plan amend-
+19 ments and waivers no later than July 1, 2026:
+20 (a) Work-requirements for able-bodied adults enrolled in medicaid in
+21 which no individual shall be eligible to participate in the medicaid
+22 program pursuant to section 56-267, Idaho Code, unless the individual
+23 is:
+24 (i) Working twenty (20) hours or more per week, averaged monthly;
+25 (ii) Participating in and complying with the requirements of a
+26 work program twenty (20) hours or more per week, as determined by
+27 the department;
+28 (iii) Volunteering twenty (20) hours or more per week, as deter-
+29 mined by the department;
+30 (iv) Meeting any combination of working and participating in a
+31 work program for a total of twenty (20) hours or more per week, as
+32 determined by the department; or
+33 (v) Participating and complying with the requirements of a work-
+34 fare program, unless the individual is:
+35 1. Younger than nineteen (19) years of age;
+36 2. Older than sixty-four (64) years of age;
+37 3. Medically classified as physically or mentally unfit for
+38 employment;
+39 4. Pregnant;
+40 5. A parent or caretaker responsible for the care of a depen-
+41 dent child younger than six (6) years of age;
+42 6. A parent or caretaker personally providing the care for
+43 a dependent with a serious medical condition or with a dis-
+44 ability, as determined by the department;
+45 7. Receiving unemployment compensation and complying with
+46 the work requirements as part of the federal-state unemploy-
+47 ment compensation system;
+48 8. Participating in a drug addiction or alcohol treatment
+49 and rehabilitation program; or
+
+4
+1 9. Enrolled at least part-time in a college, university, or
+2 vocational education program.
+3 (b) Allow persons eligible for medicaid under section 56-267, Idaho
+4 Code, who have a modified adjusted gross income at least at or above one
+5 hundred percent (100%) of the federal poverty level to receive the ad-
+6 vance premium tax credit to purchase a qualified health plan through the
+7 Idaho health insurance exchange established by chapter 61, title 41,
+8 Idaho Code, instead of enrolling in medicaid, except that the person may
+9 choose to enroll in medicaid instead of receiving the advance premium
+10 tax credit to purchase a qualified health plan.
+11 (c) Implement the following changes to eligibility determination:
+12 (i) Suspend requirements to renew eligibility automatically
+13 based on available information and pre-populated forms; and
+14 (ii) Implement biannual redetermination for persons eligible for
+15 medicaid under section 56-267, Idaho Code.
+16 (d) Implement the following changes to benefits:
+17 (i) No funds shall be used to fulfill any contract or commercial
+18 transaction with any health care provider or health care facil-
+19 ity under the terms of which such health care provider or health
+20 care facility agrees to provide services prohibited under section
+21 18-1506C, Idaho Code; and
+22 (ii) No funds shall be used to fulfill any gender reassignment
+23 procedures, including treatment and surgery for any resident
+24 eighteen (18) years of age or older.
+25 (2) An individual is exempt from the provisions of any state plan amend-
+26 ment or waiver pursuant to this section if the individual is an American In-
+27 dian or Alaska native who is eligible for services through the Indian health
+28 service or through a tribal program pursuant to the Indian self-determina-
+29 tion and education assistance act or the Indian health care improvement act.
+30 56-2206. LEGISLATIVE APPROVAL -- PRACTICE AUTHORITY PROTECTION. The
+31 department of health and welfare is authorized to and shall submit a state
+32 plan amendment to the centers for medicare and medicaid services by July 1,
+33 2025, allowing for practice authority protection to the extent permitted by
+34 state law.
+35 56-2207. LEGISLATIVE APPROVAL -- SITE-NEUTRAL PAYMENTS. The depart-
+36 ment of health and welfare is authorized to seek and shall submit a state plan
+37 amendment by July 1, 2026, that sets reimbursement rates for hospital-ac-
+38 quired physician practices at the same rate as physician-owned medical prac-
+39 tices for all equivalent outpatient health services where the service is not
+40 dependent on the hospital facility's associated technologies and in the ab-
+41 sence of any evidence-based rationale. The department shall except critical
+42 access hospitals and rural emergency hospitals to the extent allowable.
+43 SECTION 3. That Section 56-253, Idaho Code, be, and the same is hereby
+44 repealed.
+45 SECTION 4. That Section 56-263, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+
+5
+1 56-263. MEDICAID MANAGED CARE PLAN. (1) The department shall present
+2 to the legislature on the first day of the second session of the sixty-first
+3 Idaho legislature a plan for medicaid managed care with focus on high-cost
+4 populations, including but not limited to:
+5 (a) Dual eligibles; and
+6 (b) High-risk pregnancies.
+7 (2) The medicaid managed care plan shall include but not be limited to
+8 the following elements:
+9 (a) Improved coordination of care through primary care medical homes.
+10 (b) Approaches that improve coordination and provide case management
+11 for high-risk, high-cost disabled adults and children that reduce costs
+12 and improve health outcomes, including mandatory enrollment in special
+13 needs plans, and that consider other managed care approaches.
+14 (c) Managed care contracts to pay for behavioral health benefits as
+15 described in executive order no. 2011-01 and in any implementing leg-
+16 islation. At a minimum, the system should include independent, stan-
+17 dardized, statewide assessment and evidence-based benefits provided by
+18 businesses that meet national accreditation standards.
+19 (d) The elimination of duplicative practices that result in unneces-
+20 sary utilization and costs.
+21 (e) Contracts based on gain-sharing, risk-sharing or a capitated ba-
+22 sis.
+23 (f) Medical home development with focus on populations with chronic
+24 disease using a tiered case management fee.
+25 (3) The department shall seek federal approval or a waiver to require
+26 that a medicaid participant who has a medical home as required in section
+27 56-255(5)(b), Idaho Code, and who seeks family planning services or supplies
+28 from a provider outside the participant's medical home, must have a referral
+29 to such outside provider. The provisions of this subsection shall apply to
+30 medicaid participants upon such approval or the granting of such a waiver.
+31 (4) (1) The department shall seek approval as soon as practicable but no
+32 later than July 1, 2027, from the centers for medicare and medicaid services
+33 for directed payments to qualifying hospitals entities participating in the
+34 Idaho behavioral health plan or any comprehensive managed care plan in ac-
+35 cordance with 42 CFR 438., with thirty percent (30%) of the directed payments
+36 being utilized for general fund medicaid needs. Such funds shall be continu-
+37 ously appropriated.
+38 (5) (2) Subject to written approval by the centers for medicare and med-
+39 icaid services, the department shall make directed payments to qualifying
+40 hospitals participating in medicaid managed care programs in an amount not
+41 to exceed the maximum allowable payment authorized by federal regulations.
+42 (6) (3) Qualifying behavioral health hospitals assessed pursuant to
+43 this section for the Idaho behavioral health plan are exempt from assessment
+44 pursuant to section 56-1404, Idaho Code.
+45 (4) The department shall discontinue contracting and reimbursing as
+46 part of the healthy connections value care program through value care orga-
+47 nizations and the healthy connections primary care case management program
+48 by January 1, 2026.
+49 SECTION 5. That Section 56-265, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+
+6
+1 56-265. PROVIDER PAYMENT. (1) Where there is an equivalent, the pay-
+2 ment to medicaid providers:
+3 (a) May be up to but shall not exceed one hundred percent (100%) of the
+4 current medicare rate for primary care procedure codes as defined by the
+5 centers for medicare and medicaid services; and
+6 (b) Shall be ninety percent (90%) of the current medicare rate for all
+7 other procedure codes.
+8 (2) Where there is no medicare equivalent, the payment rate to medicaid
+9 providers shall be prescribed by rule.
+10 (3) Notwithstanding any other provision of this chapter, if the
+11 services are provided by a private, freestanding mental health hospital
+12 facility that is an institution for mental disease as defined in 42 U.S.C.
+13 1396d(i), the department shall reimburse for inpatient services at a rate
+14 not to exceed ninety-one percent (91%) of the current medicare rate within
+15 federally allowed reimbursement under the medicaid program. The reimburse-
+16 ment provided for in this subsection shall be effective until July 1, 2021.
+17 (4) The department shall, through the annual budget process, include
+18 a line-item request for adjustments to provider rates. All changes to
+19 provider payment rates shall be subject to approval of the legislature by
+20 appropriation.
+21 (5) Notwithstanding any other provision of this chapter, the depart-
+22 ment may enter into agreements with providers to pay for services based on
+23 their value in terms of measurable health care quality and positive impacts
+24 to participant health.
+25 (a) Any such agreement shall be designed to be cost-neutral or cost-
+26 saving compared to other payment methodologies.
+27 (b) The department is authorized to pursue waiver agreements with the
+28 federal government as needed to support value-based payment arrange-
+29 ments, up to and including fully capitated provider-based managed care.
+30 (c) Beginning with the 2024 performance period and for all future per-
+31 formance periods thereafter, federally qualified health centers and
+32 any organization owned and controlled by a federally qualified health
+33 center shall be exempt from any financial risk in value-based payment
+34 agreements created pursuant to this section.
+35 (6) Medicaid reimbursement for critical access, out-of-state, and
+36 state-owned hospitals shall be as follows:
+37 (a) In-state, critical access hospitals as designated according to 42
+38 U.S.C. 1395i-4(c)(2)(B) shall be reimbursed at one hundred one percent
+39 (101%) of cost;
+40 (b) Out-of-state hospitals shall be reimbursed at eighty-seven percent
+41 (87%) of cost;
+42 (c) State-owned hospitals shall be reimbursed at one hundred percent
+43 (100%) of cost; and
+44 (d) Out-of-state hospital institutions for mental disease as defined
+45 in 42 U.S.C. 1396d(i) shall be reimbursed at a per diem equivalent to
+46 ninety-five percent (95%) of cost.
+47 (7) The department shall equitably reduce net reimbursements for all
+48 hospital services, including in-state institutions for mental disease but
+49 excluding all hospitals and institutions described in subsection (6) of
+50 this section, by amounts targeted to reduce general fund needs for hospital
+
+7
+1 payments by three million one hundred thousand dollars ($3,100,000) in state
+2 fiscal year 2020 and eight million seven hundred twenty thousand dollars
+3 ($8,720,000) in state fiscal year 2021.
+4 (8) The department shall work with all Idaho hospitals, including in-
+5 stitutions for mental disease as defined in 42 U.S.C. 1396d(i), to establish
+6 value-based payment methods for inpatient and outpatient hospital services
+7 to replace existing cost-based reimbursement methods for in-state hospi-
+8 tals, other than those hospitals and institutions described in subsection
+9 (6) of this section, effective July 1, 2021. Budgets for hospital payments
+10 shall be subject to prospective legislative approval.
+11 (9) The department shall work with Idaho hospitals to establish a
+12 quality payment program for inpatient and outpatient adjustment payments
+13 described in section 56-1406, Idaho Code. Inpatient and outpatient adjust-
+14 ment payments shall be subject to increase or reduction based on hospital
+15 service quality measures established by the department in consultation with
+16 Idaho hospitals.
+17 SECTION 6. That Section 56-267, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 56-267. MEDICAID ELIGIBILITY EXPANSION. (1) Notwithstanding any pro-
+20 vision of law or federal waiver to the contrary, the state shall amend its
+21 state plan to expand medicaid eligibility to include those persons under
+22 sixty-five (65) years of age whose modified adjusted gross income is one hun-
+23 dred thirty-three percent (133%) of the federal poverty level or below and
+24 who are not otherwise eligible for any other coverage under the state plan,
+25 in accordance with sections 1902(a)(10)(A)(i)(VIII) and 1902(e)(14) of the
+26 social security act.
+27 (2) No later than ninety (90) days after approval of this act, the
+28 department shall submit any necessary state plan amendments to the United
+29 States department of health and human services, centers for medicare and
+30 medicaid services to implement the provisions of this section. The depart-
+31 ment is required and authorized to take all actions necessary to implement
+32 the provisions of this section as soon as practicable.
+33 (3) Eligibility for medicaid as described in this section shall not be
+34 delayed if the centers for medicare and medicaid services fail to approve any
+35 waivers of the state plan for which the department applies, nor shall such
+36 eligibility be delayed while the department is considering or negotiating
+37 any waivers to the state plan. The department shall not implement any waiver
+38 that would result in a reduction in federal financial participation for per-
+39 sons identified in subsection (1) of this section below the ninety percent
+40 (90%) commitment described in section 1905(y) of the social security act.
+41 (4) If section 1905(y) of the social security act is held unlawful or
+42 unconstitutional by the United States supreme court, then the legislature
+43 shall declare this section to be null, void, and of no force and effect.
+44 (5) If federal financial participation for persons identified in sub-
+45 section (1) of this section is reduced below the ninety percent (90%) commit-
+46 ment described in section 1905(y) of the social security act, then the senate
+47 and house of representatives health and welfare committees shall, as soon
+48 as practicable, review the effects of such reduction and make a recommenda-
+49 tion to the legislature as to whether medicaid eligibility expansion should
+
+8
+1 remain in effect. The review and recommendation described in this subsec-
+2 tion shall be conducted by the date of adjournment of the regular legisla-
+3 tive session following the date of reduction in federal financial partici-
+4 pation. Notwithstanding any other provision of law to the contrary, if the
+5 reduction in federal financial participation occurs outside of a state leg-
+6 islative session, the department shall take any action necessary to offset
+7 the increase in state funding, including but not limited to reductions in
+8 provider payment rates or elimination of optional benefits. Such actions
+9 shall be taken until such time as the state legislature may convene and de-
+10 termine a proper course of action.
+11 (6) The department:
+12 (a) Shall place all persons participating in medicaid pursuant to
+13 this section in a care management program authorized under section
+14 56-265(5), Idaho Code, or in another managed care program to improve the
+15 quality of their care, to the extent possible; and
+16 (b) Is authorized to seek any federal approval necessary to implement
+17 the provisions of this subsection.
+18 (7) No later than January 31 in the 2023 legislative session, the sen-
+19 ate and house of representatives health and welfare committees shall review
+20 all fiscal, health, and other impacts of medicaid eligibility expansion pur-
+21 suant to this section and shall make a recommendation to the legislature as
+22 to whether such expansion should remain in effect.
+23 SECTION 7. That Section 56-1403, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 56-1403. HOSPITAL ASSESSMENT FUND ESTABLISHED. (1) There is hereby
+26 created in the office of the state treasurer a dedicated fund to be known
+27 as the hospital assessment fund, hereinafter "fund," to be administered by
+28 the department of health and welfare, hereinafter "department." The state
+29 treasurer shall invest idle moneys in the fund and any interest received on
+30 those investments shall be returned to the fund. All moneys in the fund are
+31 continuously appropriated to the department for the purposes specified in
+32 this chapter.
+33 (2) Moneys in the fund shall consist of:
+34 (a) All moneys collected or received by the department from private
+35 hospital assessments required by this chapter;
+36 (b) All federal matching funds received by the department as a result
+37 of expenditures made by the department that are attributable to moneys
+38 deposited in the fund;
+39 (c) Any interest or penalties levied in conjunction with the adminis-
+40 tration of this chapter; and
+41 (d) Any appropriations, federal funds, donations, gifts or moneys from
+42 any other sources.
+43 (3) The fund is created for the purpose of receiving moneys in accor-
+44 dance with this section and section 56-1404, Idaho Code. Moneys in the fund
+45 shall be distributed by the department subject to appropriation for the fol-
+46 lowing purposes only:
+47 (a) Payments to private hospitals as required under Idaho's medical
+48 assistance program as set forth in sections 56-209b through 56-209d,
+49 Idaho Code;
+
+9
+1 (b) Reimbursement of moneys collected by the department from private
+2 hospitals through error or mistake in performing the activities autho-
+3 rized under Idaho's medical assistance program;
+4 (c) Payments of administrative expenses incurred by the department or
+5 its agent in performing the activities authorized by this chapter;
+6 (d) Payments made to the federal government to repay excess payments
+7 made to private hospitals from the fund if the assessment plan is deemed
+8 out of compliance and after the state has appealed the findings. Hospi-
+9 tals shall refund the payments in question to the assessment fund. The
+10 state in turn shall return funds to both the federal government and hos-
+11 pital providers in the same proportion as the original financing. Indi-
+12 vidual hospitals shall be reimbursed based on the proportion of the in-
+13 dividual hospital's assessment to the total assessment paid by all pri-
+14 vate hospitals. If a hospital is unable to refund payments, the state
+15 shall develop a payment plan and deduct moneys from future medicaid pay-
+16 ments;
+17 (e) Transfers to any other fund in the state treasury, provided such
+18 transfers shall not exceed the amount transferred previously from that
+19 other fund into the hospital assessment fund;
+20 (f) Making refunds to hospitals pursuant to section 56-1410, Idaho
+21 Code; and
+22 (g) Offsetting general funding needed to support Idaho medicaid.
+23 SECTION 8. That Section 56-1404, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 56-1404. ASSESSMENTS. (1) All private hospitals, except those ex-
+26 empted under section 56-1408, Idaho Code, shall make payments to the fund in
+27 accordance with this chapter. Subject to section 56-1410, Idaho Code, an an-
+28 nual assessment on both inpatient and outpatient services is determined for
+29 each qualifying hospital for each state fiscal year in an amount calculated
+30 by multiplying the rate, as set forth in subsections (2)(c) and (3)(b) of
+31 this section, by the assessment base, as set forth in subsection (5) of this
+32 section.
+33 (2)(a) The department shall calculate the private hospital upper pay-
+34 ment limit gap for both inpatient and outpatient services. The upper
+35 payment limit gap is the difference between the maximum allowable pay-
+36 ments eligible for federal match, less medicaid payments not financed
+37 using hospital assessment funds. The upper payment limit gap shall be
+38 calculated separately for hospital inpatient and outpatient services.
+39 Medicaid disproportionate share payments shall be excluded from the
+40 calculation.
+41 (b) Idaho medicaid will start work toward approval by the centers for
+42 medicare and medicaid services (CMS) of an updated upper payment limit
+43 calculation methodology no later than July 1, 2022. This change is
+44 needed due to the change reflected in section 56-265, Idaho Code, in re-
+45 imbursement from retrospective cost settlements to prospective payment
+46 systems.
+47 (c) The department shall calculate the upper payment limit assessment
+48 rate for each state fiscal year to be the percentage that, when multi-
+
+10
+1 plied by the assessment base as defined in subsection (5) of this sec-
+2 tion, equals the upper payment limit payment.
+3 (d) Beginning July 1, 2022, or upon approval by CMS, whichever is later,
+4 the assessment rate referenced in paragraph (c) of this subsection will
+5 increase to the amount needed to attain an increased supplemental upper
+6 payment limit payment. This payment amount is subject to CMS approval
+7 of the updated upper payment limit methodology described in paragraph
+8 (a) of this subsection and legislative appropriation shall be continu-
+9 ously appropriated.
+10 (e) Beginning July 1, 2023, an additional amount will be assessed at
+11 thirty percent (30%) of the upper payment limit payment to be utilized
+12 for general fund medicaid needs.
+13 (f) If CMS does not approve the updated upper payment limit methodology
+14 described in paragraph (b) of this subsection, then the additional as-
+15 sessment described in paragraph (e) of this subsection shall not be im-
+16 plemented.
+17 (g) The assessment described in paragraph (e) of this subsection shall
+18 be assessed only if the upper payment limit payment is greater than the
+19 total assessment.
+20 (3)(a) The department shall calculate the disproportionate share al-
+21 lotment amount to be paid to private in-state hospitals.
+22 (b) The department shall calculate the disproportionate share assess-
+23 ment rate for private in-state hospitals to be the percentage that, when
+24 multiplied by the assessment base as defined in subsection (5) of this
+25 section, equals the amount of state funding necessary to pay the private
+26 in-state hospital disproportionate share allotment determined in para-
+27 graph (a) of this subsection.
+28 (4) For private in-state hospitals, the assessments calculated pur-
+29 suant to subsections (2) and (3) of this section shall not be greater than
+30 the federal limit as referenced in 42 CFR 433.68 of the assessment base as
+31 defined in subsection (5) of this section.
+32 (5) The assessment base shall be the hospital's net patient revenue
+33 for the applicable period. Net patient revenue, beginning with state fis-
+34 cal year 2023, shall be determined using each hospital's fiscal year 2021
+35 medicare cost report on file with the department, without regard to any sub-
+36 sequent adjustments or changes to such data. If the 2021 cost report has not
+37 been filed, the prior year's cost report will be used. Net patient revenue
+38 for each state fiscal year thereafter shall be determined in the same manner
+39 using a rolling yearly schedule for each hospital's fiscal year medicare
+40 cost report.
+41 SECTION 9. The rules contained in IDAPA 16.03.17, Department of Health
+42 and Welfare, relating to Medicare/Medicaid Coordinated Plan Benefits, shall
+43 be null, void, and of no force and effect on and after July 1, 2025.
+44 SECTION 10. The rules contained in IDAPA 16.03.18, Department of Health
+45 and Welfare, relating to Medicaid Cost-Sharing, shall be null, void, and of
+46 no force and effect on and after July 1, 2025.
+
+11
+1 SECTION 11. The rules contained in IDAPA 16.03.09, Department of Health
+2 and Welfare, relating to Medicaid Basic Plan Benefits, shall be null, void,
+3 and of no force and effect on and after July 1, 2025.
+4 SECTION 12. The rules contained in IDAPA 16.03.10, Department of Health
+5 and Welfare, relating to Medicaid Enhanced Plan Benefits, shall be null,
+6 void, and of no force and effect on and after July 1, 2025.
+7 SECTION 13. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after its
+9 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YHHADWECNAGTOLEALFRMDSEPNASA;RGSN5,IOC,ASEDBYS,CR2,LSOF2,RGTOLEALOSADSEPNA;AGTE5,IOC,BEANOFANWCR2,TE5,IOC,TOPETEALISRDFRCNSEPNASA,TOPELEALFRASEPNAGRLEYHLD,TOPELLFRASEPNATRGMDCOPELEALFRSEPNASADWGCEMDMDC,TOPELEALFRSEPNASADWSRGMNL,TOPELEALFRASEPTRGPEAYP,ADTOPELEALFRASEPNATRGSEN;RGSN5,IOC,RGTOPSASOFTED;AGSN5,IOC,TORELEADTOPETTTEDTOFHHADWESLDECNCGADR;AN5,IOC,TOPETTFYQDHSSLBEETFMFLRKINCNPTA;AGSN5,IOC,TOREPGEYE;AGSN5,IOCOREPSRGTEHLATF;AN5,IOC,TOREPSRGTEUTLTATR;PGTTCNASCDINIA17SLBEN,V,ADOFNOFDE;PGTTCNAERSCDIA18SLBEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA19SEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA10SLBEN,V,ADOOFEADE;ADDGANEeItEdbyteLeofteSeofIN1.TtSn5,IoC,asedbySn1r2,Lsof2,b,adteseishyrN2.TtTe5,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te5,IoC,adtordasfR2]
+[DELETED: EALFRMDSEPNASADW.LEALR.Ngaypnoflwtotec,tesedtofhhadwestskoritamdsepnatorawrpttn15or15ofteslsyatttwdedcoayalisorcsofisorwdieatcttotesewtftogalfmtel.Shalmtbepdinsea,tobee,meldintsc.TepsoftssnslntaysepnatorwrpmpyadbysrayidasofJy1,2.Tepsoftsslntaytoaymdsepnatorwrpmtsntedcetoayisorcsofisaddtieayntcttotes.Tedtofhhadwlperrustotemdlerwploneddbytecsadslskitfmtemerwpltodnaywssdtotecsfeadmdssonbfoftes.LEAL--RLEYHLDNADR.Tedtofhhadweisaoadslstasepnattotecsfrmeadssagternadrtofmspdbyarleyh.Frtepsoft,"leyh"hstesemgaspdin4.1.LEAL--MDC.()Tedtofhhadweisadtoadslstasepttotecsfrmeadmdsstoieptcgasacnofpninamlaep,toteetadurfll,ttisatlttelsddbyorssaduptotemmcdbyo)Tedtofhhadwes)Teshasasaenytoittepsoss)BnteanpsfrflaloftesnatrdbytssnnolrtnJy1,2;a)Ceayegcgurtemdsepnitatteteoftepeoftsatulsdbytenepnatrdbytss.LEAL--CEMDM.()Tedtofhhadweisadtoadsttotecsfrmeadmdssalsepnarasrdtoitapnfrcemdc)Tedtofhhadwes]
+[DELETED: )Teshasasaenytoittepsoss)StteanfrflaloftesepsadwsrdbytssnnolrtnJy1)Ceayegmdceurtemdsepdiswsinetatteteoftepeoftsatudbytenwcemdcepnrduss)Uectcts,shasbgmswhpdiyasorwpeofcnifmdceosdontmectctt;a)Eemdpsadpsinteseaddnofacemdcep.LEAL--MDENL.()TtofhhadweisadtoadslsttotsfrmeadmdsstefgsepnasadwsnolrtnJy1,2)Wsfradasedinmdihnoilslbeeetopeintemmpttosn5,IoC,ustei)Wgty()hsormeprw,adm)Pginadcgwhtersofkpmty()hsormeprw,asddbed)Vgty()hsormeprw,asddbyted)Mgaycnofwgadpginkpmfratlofty()hsormeprw,adbyted;o)Pgadcgwhtersofawep,usteili.Yrtnnn()ysofa.Ortnsr()ysofa.Mycdaspyormyutf.P.Aptorcrrefrteceofadtcdyrtnsx()ysofa.Aptorcrpypgtecefdtwhassmlcnorwhad,asddbyted.Rgutcnadcgwewkrsasptoftefeutcns.Pginadganoraltdrnp;o]
+[DELETED: .Edatltpeinac,u,olenp)Awpseefrmdursn5,I,woheamdadgsieatltatoraeodpt()ofteflpylltoreteaepmtxcttopeaqdhhpnthtohhieeeedbycr6,te4oC,idofeginm,ettttepnmetoelinmdidofrgteaepxcttopeaqdhhp)Ittefgcstoeyd)Sdrstorweyadonaeinadpdf;a)Itblrnfrpseefdursn5,IoC)Ittefgcstob)Nofsslbeudtoflayctorcnwhayhhceprorhhcefyurtetsofwhshhhceprorhefyastopesspdurs,IoC;a)Nofsslbeudtoflaygrr,igttadsyfrayrn()ysofaeoro)AnilisetfmtepsofaysepnatorwrpttotssnifteilisanAnInorAanewoiseefrssthteInheorthatlpmpttoteInsnadenaeatorteInhhceita.LEAL--PEAYP.TtofhhadweisadtoadslstasnattotecsfrmeadmdssbyJy1,agfrpeaypntoteetpdbel.LEAL--SLP.TedtofhhadweisadtoskadslstaseptbyJy1,2,ttssrtrsfrhdpnpsattesereaspdmlpsfraletothhssweteseisntontehlfsadtsadinteaeofayedr.TedtsletcshsadrleyhstoteetaN3.TtSn5,IoC,b,adteseishN4.TtSn5,IoC,b,adteseishdtordasf]
+[DELETED: .MDMDCEP.()Tedtslpoteleonteftdyoftesdsnoftesoleapnfrmdmdcewhfsonh,igbtntldt)Dle;a)Hkp)Temdmdcepnsliebtntbeldtefge)Idcnofcethpycemlh)Asttiecnadpecemrh,htddasadcnttrecdiehho,igmyetinssp,adttcrormdcea)Mdcecstopyfrblhhbsadineeorn.21adinayigl.Atam,tesmsdiei,s,seatadedbspdbsttmtnlans)Teenofdepsttrtinuyunadc)Csbdong,rgoracdb)Mlhedtwhfsonpswhceugatdcemtf)Tedtslskflalorawrtortamdptwohsamlheasrdins,IoC,adwossfypgssorsmaproetepsmlh,mthearoshoep.Tepsoftssnslaytdpsunshalorteggofshaw)()TedtslskalassnaspebtnrtnJy1,2,fmtecsfrmeadmdsrddpstoqghsespgintoblhhpnoraycemdcepninaewh42CR4,whtypt()ofteddpgudfrglfdmdn.Shfsslbecya)()Sttownalbytecsfrmeadmds,tedtslmeddpstoqspginmdmdcepsinanatnoedtemmaeptadbyflr)()QgblhhhsadpttssnfrteIoblhhpnaeetfmattosn5,IoC)TedtsldecgadrgatoftehycsvecepmthveceosadtehycspycecemtpyJy1,2N5.TtSn5,IoC,b,adteseishdtordasf]
+[DELETED: .PRP.()Weteisane,tepttomdp)Mybeuptobtslntedoehdpt()ofttmerefrpycepecsasddbytsfrmeadmds;a)Slbenypt()oftectmerefrarpec)Weteisnomee,teptretomsslbepdbyr)Ngayorpnoftsc,iftsaepdbyap,fgmlhhhyttisaninfrmldeasddin42U,tedtslrefritssatarttoednept()oftectmerewyadrturtemdp.TertpdfrintssnslbeeeulJy1,2)Tedts,thtealbtp,ilmrtfrastoprr.Alcstrptrsslbesttoalofteleb)Ngayorpnoftsc,tedtmyerioaswhpstopyfrssbdorveintsofmehhceqyadpeiopth)Ayshatslbeddtobeclorcgcdtoorptm)Tedtisadtopewraswhtlgtasndtostvdpta,uptoadigfycdpdmdc)Bgwhte24pepdadfralfepepst,fyqdhhcsayonodadcdbyafyqdhrslbeetfmayflrkinvdpscdpttotss)Mdrtfrcla,o,adhsslbeasf)I,clashsasddagto4.1)slberdatoehdoep)ofc)Oehsslberdatenp)ofc)Sdhsslberdatoehdp)ofc;a)Oehlisfrmldeasdn42U.1)slberdataprdmettept()ofc)Tedtsleyrentrsfrals,igieisfrmldebgalhsadisddinsn()oss,byastdtoreglfdnsfrh]
+[DELETED: sbytemnoehdtdds()inslyr20adetmnsnhdtytdd)inseflyr2)TedtslwkwhalIoh,igisfrmldeasddin42U.1,toedptmsfritadothlsoreegcdrtmsfrieh,ortntehsadisddins)oftss,eeJy1,2.Bsfrhlplbesttopelea)TedtslwkwhIohstoehyptpmfritadotatpdinsn5,IoC.ItadotatpsslbesttoieorrnbdonheqymsedbytedtincnwohN6.TtSn5,IoC,b,adteseishdtordasf.MDEYE.()Ngaypnoflworflwrtotec,tesesladiepntoedmdeytoietepsue()ysofaewemdadgsieisoehdtept()ofteflpyllorbwaoaentoeeefrayorceurtesepnaewhss1)ad1)oftlsya)Nolrtnny()dsaraloftsa,ttslstaynysepnastoteUsdtofhhadhns,csfrmeadsstoittepsoftss.Tedtisrdadadtotealasnytoiepsoftssnassnasp)Eyfrmdasddintssnslntbdiftecsfrmeadmdssfltoaeasoftesepnfrwhtedta,nrslsybeddwetedtiscgornywstotesep.Tedtslntitaywtwdrtinarninflflpnfrpsidinsn()oftssnbwtenyp)ctddinsn1)ofteslsya)Ifsn1)ofteslsyatishdulolbyteUdSssec,tntelldetssntoben,v,adofnofeade)Ifflflpnfrpsidinsn()oftssnisrdbwtenypt()ctddinsn1)ofteslsya,tntesdheofrshhadwecss,asssp,rwteesofshrnadmearntoteleastowrmdeyens]
+[DELETED: nine.Terwadrnddintssnslbecdbytedeofatofterrlesnfgtedeofrninflflp.Ngayorpnoflwtotec,iftninflflpnosoeofaseles,tedtslteayannytooeieinsef,igbtntldtorsirptrsorenofolb.Shalbetnulshteasteselemyceaddeaprceofa)Ted)Slpealpspginmdpttssninacemtpmadurs,IoC,orinarmdcepmtoietyoftrc,toteetp;a)Isadtoskayflalnytoiepsoftss)NolrtnJy31inte23les,teseadheofrshhadwecsslrlf,h,adorisofmdeyenpttotssnadslmearntoteleaowrshensdrnineN7.TtSn5,IoC,b,adteseishdtordasf.HLATFDE.()Teishdinteoeoftesetraddfdtobekstehlatf,hr""tobeadbedtofhhadw,hr""Tesrslitiemsintefdadayitrdoeisslberdtotef.Almsintefdayadtotedtfrtepssdisc)Msintefdslcto)Almscdorrdbytedtfmplasrdbytsc)Alflmgfsrdbytedtasarfesmebytedtttaeaetomdintef)Ayitorpsldincnwhteanoftsc;a)Aya,flf,d,gsormsfyors)Tefdiscdfrtepeofrgmsinaewhtssnadsn5,IoC.Msinteflbeddbytedtsttoanfrtefgpso)PstopehsasrdurIsmepmasstfhinss5bth5oC]
+[DELETED: )RtofmscdbytedtfmpstherormeinpgteasadurIsmlaep)Psofaeesidbytedtosatinpgteasadbytsc)Psmetoteflgttoryespetopehsfmtefdifteatpnisdtofceadartesehsadtef.Hsslrdtepsinqntoteatf.Teintnslrnfstobhteflgtadhlpsintesepnasteolf.Ilhsslberdbdontepnofteilhsattotetlatpdbyalpeh.Ifahlisuetordp,tesldpaptpnaddtmsfmfemdp)Tstoayorfdinteset,pdssslntedteattdpyfmtrfdiotehlatf)Mgrstohspttosn5,I;a)OgglfgndtostIomN8.TtSn5,IoC,b,adteseishdtordasf.A.()Alpeh,etteedursn5,IoC,slmepstotefdiewhtsc.Sttosn5,IoC,analatonbhitadotssisddfhqghlfrehseflyrinanatcymgter,asstfhinss()ad()oss,byteatb,asstfhinsn()oft)Tedtslcetepehlurptltgpfrbhitadots.Teutltgpistedebntemmaepseefrflm,lsmdpsntfghlatf.Teurptltgpslbdsyfrhlitadotsddesepsslbeedfmt)Iomdwlstwktdalbytecsfeadmdss()ofanudurptlnmynolrtnJy1,2.Tsceiddetotecerdinsn5,IoC,inrtfmrectsstopep)Tedtslceteurptltaefrehseflyrtobetepet,wnm]
+[DELETED: dbyteatbeasddinsn()oftss,esteurptltp)BgJy1,2,orunalbyC,wrisleatrerdinph()oftssnwetoteatndtoananidslutltp.TsptatissttoCSafteudurptltmyddinp)oftssnadleanslbecya)BgJy1,2,analatwlbeadaypt()ofteurptltpttobeurglfdmdn)IfCSdsntaeteudurptltmdinph()oftss,tntealatddinph()oftssnslntbei)Teatddinph()oftssnseadoyifteurptltptisgrtntla)Tedtslcetedeseatattobepdtopeieh)Tedtslcetedeseatrefrpeiehstobetepet,wdbyteatbeasddinsn()oft,esteatofsefgnytopytepehldeseatddinph()oftss)Frpeieh,teascdpttoss()ad()oftssnslntbegrteflltasrdin42CR48ofteatbeadinsn()oftss)Teatbeslbetehsntptrrteaep.Ntptr,bgwhseflyr2,slbeddugehhsflyr2ectrtonfewhted,wtrdtoaystasorcstoshd.Ifte21ctrthsnnf,teprysctrtwlbeu.NtptrrehseflyrtrslbeddintesemgargyysefrehhsflyrmtrN9.TerscdinIA1,DtofHdW,rgtoMdCdPnB,sen,v,adofnofeadetonadarJy1,2N1.TerscdinIA1,DtofHdW,rgtoMdC,slben,v,adoofeadetonadarJy1,2]
+[DELETED: N1.TerscdinIA1,DtofHdW,rgtoMdBcPnB,slben,vdofnofeadetonadarJy1,2N1.TerscdinIA1,DtofHdW,rgtoMdEdPnB,slben,adofnofeadetonadarJy1,2N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

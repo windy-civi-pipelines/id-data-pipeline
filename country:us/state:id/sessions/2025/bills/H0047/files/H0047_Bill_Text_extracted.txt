@@ -1,0 +1,285 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 47
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO ADOPTION; PROVIDING LEGISLATIVE INTENT; AMENDING SECTION
+3 39-258, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE RELEASE OF ADOP-
+4 TION INFORMATION TO ADOPTEES AND TO MAKE A TECHNICAL CORRECTION; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. LEGISLATIVE INTENT. The Legislature finds that a policy of
+8 providing the individual who is the subject of an Idaho birth certificate
+9 with access to the available material facts related to the individual's own
+10 genetic origins and personal family history is in the best interest of indi-
+11 viduals and families and, thereby, society as a whole.
+12 SECTION 2. That Section 39-258, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-258. ADOPTION OF PERSONS BORN IN IDAHO -- NEW BIRTH CERTIFICATE IS-
+15 SUED TO REPLACE ORIGINAL CERTIFICATE -- PROCEDURE -- ADOPTION PROCEEDINGS
+16 NOT OPEN TO INSPECTION WITH CERTAIN EXCEPTIONS -- DUTIES OF THE CLERKS OF
+17 COURTS ISSUING ADOPTION DECREES -- DUTIES OF STATE REGISTRAR OF VITAL STA-
+18 TISTICS. (1) Whenever a final decree of adoption, issued by an Idaho court,
+19 declares a person born in Idaho to be adopted by someone other than his or her
+20 natural parents, the court shall require the preparation of a report (denom-
+21 inated as a certificate in accordance with Idaho court rules) of adoption on
+22 a form prescribed and furnished by the state registrar. The report shall in-
+23 clude such facts as are necessary to locate and identify the certificate of
+24 birth of the person adopted; shall provide information necessary to estab-
+25 lish a new certificate of birth for the person adopted; and shall identify
+26 the order of adoption and be certified by the clerk of the court.
+27 (2) Information necessary to prepare the report of adoption shall be
+28 furnished by each petitioner for adoption or the petitioner's attorney. The
+29 provision of such information shall be prerequisite to the issuance of a fi-
+30 nal decree in the matter of the court.
+31 (3) The report of adoption shall, within fifteen (15) days after be-
+32 coming final, be recorded by the clerk of the court with the bureau of vital
+33 records and health statistics in the state department of health and welfare.
+34 (4) If a court of some other state issued a decree or report of adoption
+35 of a person actually born in Idaho, the certified copy or report may be sim-
+36 ilarly filed by the person involved or by the adoptive parents. Failure to
+37 file certified copies or reports of said decrees within said period of time,
+38 however, shall not bar issuance of a new birth certificate as hereinafter
+39 provided. This copy of said decree or report shall be filed with and remain a
+40 part of the records of the bureau of vital records and health statistics.
+2
+1 (5) Upon receipt by the bureau of vital records and health statistics of
+2 the certified report of adoption, a new certificate of birth shall be issued
+3 (but only in cases where such person's birth is already recorded with the bu-
+4 reau of vital records and health statistics) bearing among other things the
+5 name of the person adopted, as shown in the report of adoption, except that
+6 a new certificate of birth shall not be established if so requested by the
+7 court decreeing the adoption, the adoptive parents, or the adopted person.
+8 No such birth certificate shall have reference to the adoption of said per-
+9 son. Such birth certificate shall supplant and constitute a replacement of
+10 any birth certificate previously issued for said person and shall be the only
+11 birth certificate open to public inspection. Provided however, upon good
+12 cause shown and the affidavit of the adoptive parents that a diligent search
+13 has been made, but no certificate of birth for the adoptive child can be lo-
+14 cated, the magistrate judge may order the adoptive child examined, at the ex-
+15 pense of the adoptive parents, by a doctor of medicine licensed by the state
+16 of Idaho. The examination will be conducted pursuant to rules promulgated by
+17 the state board of health and welfare for the purpose of determining those
+18 matters required for the issuance of an original birth certificate. Upon
+19 the examination of the doctor made pursuant to the rules of the state board
+20 of health and welfare, the court may order the bureau of vital records and
+21 health statistics to issue an original birth certificate for the adoptive
+22 child based upon those facts determined by the examination and included in
+23 the court's order. In such case, a certified copy of the court order shall be
+24 provided to the bureau of vital records and health statistics.
+25 (6) In respect to form and nature of contents, such a new birth certifi-
+26 cate shall be identical with a birth certificate issued to natural parents
+27 for the birth of a child, except that the adoptive parents shall be shown as
+28 parents and the adopted person shall have the name assigned by the decree of
+29 adoption as shown on the report of adoption. In a case where a single person
+30 adopts another person, any new birth certificate may designate the adopting
+31 parent as adoptive.
+32 (7) Whenever an adoption decree is amended, annulled, or rescinded, the
+33 clerk of the court shall forward a certified copy of the amendment, annul-
+34 ment, or rescindment to the bureau of vital records and health statistics in
+35 accordance with the time provisions in subsection (3) of this section. Un-
+36 less otherwise directed by the court, the bureau of vital records and health
+37 statistics shall amend the certificate of birth upon receipt of a certified
+38 copy of an amended decree of adoption. Upon receipt of a certified copy of a
+39 decree of annulment or rescindment of adoption, the original certificate of
+40 birth shall be restored to its place in the files and the new certificate and
+41 evidence shall not be subject to inspection except upon order of a court of
+42 record of this state.
+43 (8) All records and information specified in this section, other than a
+44 new birth certificate issued hereunder, and all records, files, and infor-
+45 mation of any court in this state relating to adoption proceedings shall not
+46 be open to inspection except as provided in section 39-259A, Idaho Code, or
+47 upon the order of a court of record of this state; provided however, that the
+48 provisions of section 16-1616, Idaho Code, to the contrary notwithstanding,
+49 any magistrate judge may furnish a certified copy of a decree of adoption to
+3
+1 any duly authorized agency of the United States or the state of Idaho without
+2 procuring any prior court order therefor.
+3 (9) For adoptions that occur on or after July 1, 2022, the provisions of
+4 this section shall apply, except that:
+5 (a) The the natural or adoptive parentage of each parent shall be demon-
+6 strated as determined by the registrar on the face of a new birth cer-
+7 tificate described in subsection (6) of this section; and.
+8 (b) (10) For all adoptions, a A copy of the original birth certificate,
+9 all medical and demographic information contained in the sealed file, and
+10 the report of adoption must be provided upon the signed request, on a form
+11 prescribed by the registrar, of the adoptee who is named on the birth cer-
+12 tificate or such adoptee's legal representative, provided that:
+13 (i) (a) The adoptee must be eighteen (18) years of age or older;
+14 (ii) (b) The documents referenced in this paragraph subsection will be
+15 released to the adult adoptee upon completion of the voluntary adoption
+16 registration process. In the event of a match on the voluntary adoption
+17 registry, a minimum thirty (30) day waiting period will apply, during
+18 which time a registered birth parent may:
+19 1. (i) Indicate a preferred method of contact, which method will
+20 be communicated to the adoptee at the time the documents are re-
+21 leased;
+22 2. (ii) Request no contact, which request will be communicated to
+23 the adoptee at the time the documents are released; or
+24 3. (iii) Request that the registered birth parent's name be
+25 redacted before records are released, which request shall be
+26 effective for five (5) years. After the five (5) years have
+27 elapsed, the adoptee may again request documents according to
+28 this paragraph subsection, and all provisions of this paragraph
+29 subsection shall apply; and
+30 (iii) (c) The bureau of vital records and health statistics is not ob-
+31 ligated to provide court records to the adoptee under the provisions of
+32 this paragraph subsection.
+33 SECTION 3. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YJ,RSADANCNAGTOA;PGLEI;AGS,IOC,TOREPSRGTEREOFANINTOASADTOMEATLC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.TeLefsttapyogteilwoistestofanIobhchastoteaemlfsrdtoteisocosadplfyhyisintebtitofisadfsa,t,syasawN2.TtSn3,IoC,b,adteseishdtordasf.ANOFPSBNINIO--NWBHCEIDTOREOLCE--PE--ANPTONTOINWHCNES--DSOFTECSOSIGANDS--DSOFSERROFVLS.()Wrafldeofa,idbyanIocsapnbninIotobeadbyseortnhsorhlp,tectslretepnofart(dasaceinaewhIoctr)ofanofmpdadfdbyteser.Tertslieshfsasaenytoleadiyteceohoftepna;slpeinnytoehanwceofbhfrtepna;adslieorofanadbecdbyteckoftec)Innytopetertofanslbdbyehprfranortepsa.Tnofshinslbepetoteieofafldeintemroftec)Tertofans,wnfn()dsarbgf,berdbyteckoftectwhtebuofvsadhhssintesedtofhhadw)IfactofseorseidadeorrtofafapnaybninI,tecdcyorrtmybesyfdbytepnidorbyteaep.Fetecdcsorrsofsddswnsdpdoft,slntbrieofanwbhceash.Tscyofsddeorrtslbefdwhadrntoftersoftebuofvlrsadhhs]
+[DELETED: )Unrtbytebuofvlrsadhhssoecdrtofa,anwceofbhslbeitoyincsweshpsbhisayrdwhtebuofvlrsadhhs)bgagortsteoftepna,assnintertofa,ettnwceofbhslntbeedifsordbyttdgtea,teaep,orteadposhbhceslheretoteanofsdp.Shbhceslstadceartoybhcepyidfrsdpnadslbeteohceontopci.Pdh,ungesnadteatofteaepsttadtssbnm,btnoceofbhfrteaecdcnbel,temejemyorteaecde,atteeeofteaep,byadrofmeldbytesfI.Teenwlbecdpttorspdbesebdofhhadwefrtepeofdgtsrdfrteieofanolbhc.Ueenoftedrmepttotersoftesebfhhadw,tectmyortebuofvlrsahsstoieanolbhcefrteadbduntefsddbyteenadidiecso.Inshc,acdcyoftectorslbdtotebuofvlrsadhhs)Inrttofmadneofc,shanwbhceslbeilwhabhceidtonlprtebhofac,etttteaepsslbesnasadteadpnslheteneadbytedeonassnontertofa.Inaceweasepsarp,aynwbhcemydeteatasa)Wranandeisa,a,orr,tkoftectslfdacdcyoftea,a,orrttotebuofvlrsadhhssiewhtetepsinsn()oftss.Usoeddbytec,tebuofvlrsadhssladteceofbhunrtofacyofanaddeofa.Unrtofacdcyofeofatorrtofa,teolceohslberdtoispeintefsadtenwceaeslntbesttoinetunorofactodoftss)Alrsadinsdintss,ortnwbhceidh,adalr,f,adinofayctintssergtoanpsslneontoinetaspdinsn3,IoC,onteorofactofrdoftss;pdh,tttsofsn1,IoC,totecynymejemyfhacdcyofadeofant]
+[DELETED: ydyadayofteUdSsorteseofIowgayprctort)FrasttoronorarJy1,2,tepsossnsla,ett)Tetenloraepeofehptslbeddasddbyterrontefeofanwbhceddinsn()oftss;a)()Frala,aAcyofteolbhclmladdcincdintesdf,aertofanmtbepduntesdr,onafdbyter,ofteaewoisndontebhceorshasllr,pdt)()Teaemtbeen()ysofaeoro)()Tedsrdintsphsnwlbdtoteataeuncnoftevyanp.Inteetofamhontevya,ammty()dywgpdwla,dhteardbhptm.()Ieapdmdofc,whmdwecdtoteaeattetetedsaer.()Rtnoc,whrtwlbecdteaeattetetedsaer;o.()Rtttterdbhpsnebdbersaer,whrtslbefrfe()y.Artefe()ysh,teaemyanrtdsagtsphs,adalpsoftspnsla;a)()TebuofvlrsadhhssisntodtopectrstoteaeurtepsosphsN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 47
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO ADOPTION; PROVIDING LEGISLATIVE INTENT; AMENDING SECTION
+3 39-258, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE RELEASE OF ADOP-
+4 TION INFORMATION TO ADOPTEES AND TO MAKE A TECHNICAL CORRECTION; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. LEGISLATIVE INTENT. The Legislature finds that a policy of
+8 providing the individual who is the subject of an Idaho birth certificate
+9 with access to the available material facts related to the individual's own
+10 genetic origins and personal family history is in the best interest of indi-
+11 viduals and families and, thereby, society as a whole.
+12 SECTION 2. That Section 39-258, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-258. ADOPTION OF PERSONS BORN IN IDAHO -- NEW BIRTH CERTIFICATE IS-
+15 SUED TO REPLACE ORIGINAL CERTIFICATE -- PROCEDURE -- ADOPTION PROCEEDINGS
+16 NOT OPEN TO INSPECTION WITH CERTAIN EXCEPTIONS -- DUTIES OF THE CLERKS OF
+17 COURTS ISSUING ADOPTION DECREES -- DUTIES OF STATE REGISTRAR OF VITAL STA-
+18 TISTICS. (1) Whenever a final decree of adoption, issued by an Idaho court,
+19 declares a person born in Idaho to be adopted by someone other than his or her
+20 natural parents, the court shall require the preparation of a report (denom-
+21 inated as a certificate in accordance with Idaho court rules) of adoption on
+22 a form prescribed and furnished by the state registrar. The report shall in-
+23 clude such facts as are necessary to locate and identify the certificate of
+24 birth of the person adopted; shall provide information necessary to estab-
+25 lish a new certificate of birth for the person adopted; and shall identify
+26 the order of adoption and be certified by the clerk of the court.
+27 (2) Information necessary to prepare the report of adoption shall be
+28 furnished by each petitioner for adoption or the petitioner's attorney. The
+29 provision of such information shall be prerequisite to the issuance of a fi-
+30 nal decree in the matter of the court.
+31 (3) The report of adoption shall, within fifteen (15) days after be-
+32 coming final, be recorded by the clerk of the court with the bureau of vital
+33 records and health statistics in the state department of health and welfare.
+34 (4) If a court of some other state issued a decree or report of adoption
+35 of a person actually born in Idaho, the certified copy or report may be sim-
+36 ilarly filed by the person involved or by the adoptive parents. Failure to
+37 file certified copies or reports of said decrees within said period of time,
+38 however, shall not bar issuance of a new birth certificate as hereinafter
+39 provided. This copy of said decree or report shall be filed with and remain a
+40 part of the records of the bureau of vital records and health statistics.
+
+2
+1 (5) Upon receipt by the bureau of vital records and health statistics of
+2 the certified report of adoption, a new certificate of birth shall be issued
+3 (but only in cases where such person's birth is already recorded with the bu-
+4 reau of vital records and health statistics) bearing among other things the
+5 name of the person adopted, as shown in the report of adoption, except that
+6 a new certificate of birth shall not be established if so requested by the
+7 court decreeing the adoption, the adoptive parents, or the adopted person.
+8 No such birth certificate shall have reference to the adoption of said per-
+9 son. Such birth certificate shall supplant and constitute a replacement of
+10 any birth certificate previously issued for said person and shall be the only
+11 birth certificate open to public inspection. Provided however, upon good
+12 cause shown and the affidavit of the adoptive parents that a diligent search
+13 has been made, but no certificate of birth for the adoptive child can be lo-
+14 cated, the magistrate judge may order the adoptive child examined, at the ex-
+15 pense of the adoptive parents, by a doctor of medicine licensed by the state
+16 of Idaho. The examination will be conducted pursuant to rules promulgated by
+17 the state board of health and welfare for the purpose of determining those
+18 matters required for the issuance of an original birth certificate. Upon
+19 the examination of the doctor made pursuant to the rules of the state board
+20 of health and welfare, the court may order the bureau of vital records and
+21 health statistics to issue an original birth certificate for the adoptive
+22 child based upon those facts determined by the examination and included in
+23 the court's order. In such case, a certified copy of the court order shall be
+24 provided to the bureau of vital records and health statistics.
+25 (6) In respect to form and nature of contents, such a new birth certifi-
+26 cate shall be identical with a birth certificate issued to natural parents
+27 for the birth of a child, except that the adoptive parents shall be shown as
+28 parents and the adopted person shall have the name assigned by the decree of
+29 adoption as shown on the report of adoption. In a case where a single person
+30 adopts another person, any new birth certificate may designate the adopting
+31 parent as adoptive.
+32 (7) Whenever an adoption decree is amended, annulled, or rescinded, the
+33 clerk of the court shall forward a certified copy of the amendment, annul-
+34 ment, or rescindment to the bureau of vital records and health statistics in
+35 accordance with the time provisions in subsection (3) of this section. Un-
+36 less otherwise directed by the court, the bureau of vital records and health
+37 statistics shall amend the certificate of birth upon receipt of a certified
+38 copy of an amended decree of adoption. Upon receipt of a certified copy of a
+39 decree of annulment or rescindment of adoption, the original certificate of
+40 birth shall be restored to its place in the files and the new certificate and
+41 evidence shall not be subject to inspection except upon order of a court of
+42 record of this state.
+43 (8) All records and information specified in this section, other than a
+44 new birth certificate issued hereunder, and all records, files, and infor-
+45 mation of any court in this state relating to adoption proceedings shall not
+46 be open to inspection except as provided in section 39-259A, Idaho Code, or
+47 upon the order of a court of record of this state; provided however, that the
+48 provisions of section 16-1616, Idaho Code, to the contrary notwithstanding,
+49 any magistrate judge may furnish a certified copy of a decree of adoption to
+
+3
+1 any duly authorized agency of the United States or the state of Idaho without
+2 procuring any prior court order therefor.
+3 (9) For adoptions that occur on or after July 1, 2022, the provisions of
+4 this section shall apply, except that:
+5 (a) The the natural or adoptive parentage of each parent shall be demon-
+6 strated as determined by the registrar on the face of a new birth cer-
+7 tificate described in subsection (6) of this section; and.
+8 (b) (10) For all adoptions, a A copy of the original birth certificate,
+9 all medical and demographic information contained in the sealed file, and
+10 the report of adoption must be provided upon the signed request, on a form
+11 prescribed by the registrar, of the adoptee who is named on the birth cer-
+12 tificate or such adoptee's legal representative, provided that:
+13 (i) (a) The adoptee must be eighteen (18) years of age or older;
+14 (ii) (b) The documents referenced in this paragraph subsection will be
+15 released to the adult adoptee upon completion of the voluntary adoption
+16 registration process. In the event of a match on the voluntary adoption
+17 registry, a minimum thirty (30) day waiting period will apply, during
+18 which time a registered birth parent may:
+19 1. (i) Indicate a preferred method of contact, which method will
+20 be communicated to the adoptee at the time the documents are re-
+21 leased;
+22 2. (ii) Request no contact, which request will be communicated to
+23 the adoptee at the time the documents are released; or
+24 3. (iii) Request that the registered birth parent's name be
+25 redacted before records are released, which request shall be
+26 effective for five (5) years. After the five (5) years have
+27 elapsed, the adoptee may again request documents according to
+28 this paragraph subsection, and all provisions of this paragraph
+29 subsection shall apply; and
+30 (iii) (c) The bureau of vital records and health statistics is not ob-
+31 ligated to provide court records to the adoptee under the provisions of
+32 this paragraph subsection.
+33 SECTION 3. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YJ,RSADANCNAGTOA;PGLEI;AGS,IOC,TOREPSRGTEREOFANINTOASADTOMEATLC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.TeLefsttapyogteilwoistestofanIobhchastoteaemlfsrdtoteisocosadplfyhyisintebtitofisadfsa,t,syasawN2.TtSn3,IoC,b,adteseishdtordasf.ANOFPSBNINIO--NWBHCEIDTOREOLCE--PE--ANPTONTOINWHCNES--DSOFTECSOSIGANDS--DSOFSERROFVLS.()Wrafldeofa,idbyanIocsapnbninIotobeadbyseortnhsorhlp,tectslretepnofart(dasaceinaewhIoctr)ofanofmpdadfdbyteser.Tertslieshfsasaenytoleadiyteceohoftepna;slpeinnytoehanwceofbhfrtepna;adslieorofanadbecdbyteckoftec)Innytopetertofanslbdbyehprfranortepsa.Tnofshinslbepetoteieofafldeintemroftec)Tertofans,wnfn()dsarbgf,berdbyteckoftectwhtebuofvsadhhssintesedtofhhadw)IfactofseorseidadeorrtofafapnaybninI,tecdcyorrtmybesyfdbytepnidorbyteaep.Fetecdcsorrsofsddswnsdpdoft,slntbrieofanwbhceash.Tscyofsddeorrtslbefdwhadrntoftersoftebuofvlrsadhhs]
+[DELETED: )Unrtbytebuofvlrsadhhssoecdrtofa,anwceofbhslbeitoyincsweshpsbhisayrdwhtebuofvlrsadhhs)bgagortsteoftepna,assnintertofa,ettnwceofbhslntbeedifsordbyttdgtea,teaep,orteadposhbhceslheretoteanofsdp.Shbhceslstadceartoybhcepyidfrsdpnadslbeteohceontopci.Pdh,ungesnadteatofteaepsttadtssbnm,btnoceofbhfrteaecdcnbel,temejemyorteaecde,atteeeofteaep,byadrofmeldbytesfI.Teenwlbecdpttorspdbesebdofhhadwefrtepeofdgtsrdfrteieofanolbhc.Ueenoftedrmepttotersoftesebfhhadw,tectmyortebuofvlrsahsstoieanolbhcefrteadbduntefsddbyteenadidiecso.Inshc,acdcyoftectorslbdtotebuofvlrsadhhs)Inrttofmadneofc,shanwbhceslbeilwhabhceidtonlprtebhofac,etttteaepsslbesnasadteadpnslheteneadbytedeonassnontertofa.Inaceweasepsarp,aynwbhcemydeteatasa)Wranandeisa,a,orr,tkoftectslfdacdcyoftea,a,orrttotebuofvlrsadhhssiewhtetepsinsn()oftss.Usoeddbytec,tebuofvlrsadhssladteceofbhunrtofacyofanaddeofa.Unrtofacdcyofeofatorrtofa,teolceohslberdtoispeintefsadtenwceaeslntbesttoinetunorofactodoftss)Alrsadinsdintss,ortnwbhceidh,adalr,f,adinofayctintssergtoanpsslneontoinetaspdinsn3,IoC,onteorofactofrdoftss;pdh,tttsofsn1,IoC,totecynymejemyfhacdcyofadeofant]
+[DELETED: ydyadayofteUdSsorteseofIowgayprctort)FrasttoronorarJy1,2,tepsossnsla,ett)Tetenloraepeofehptslbeddasddbyterrontefeofanwbhceddinsn()oftss;a)()Frala,aAcyofteolbhclmladdcincdintesdf,aertofanmtbepduntesdr,onafdbyter,ofteaewoisndontebhceorshasllr,pdt)()Teaemtbeen()ysofaeoro)()Tedsrdintsphsnwlbdtoteataeuncnoftevyanp.Inteetofamhontevya,ammty()dywgpdwla,dhteardbhptm.()Ieapdmdofc,whmdwecdtoteaeattetetedsaer.()Rtnoc,whrtwlbecdteaeattetetedsaer;o.()Rtttterdbhpsnebdbersaer,whrtslbefrfe()y.Artefe()ysh,teaemyanrtdsagtsphs,adalpsoftspnsla;a)()TebuofvlrsadhhssisntodtopectrstoteaeurtepsosphsN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

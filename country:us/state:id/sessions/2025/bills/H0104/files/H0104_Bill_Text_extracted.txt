@@ -1,0 +1,293 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 104
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO BUILDING CODES; AMENDING SECTION 39-4116, IDAHO CODE, TO DEFINE
+3 A TERM; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+4 Be It Enacted by the Legislature of the State of Idaho:
+5 SECTION 1. That Section 39-4116, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 39-4116. LOCAL GOVERNMENT ADOPTION AND ENFORCEMENT OF BUILDING
+8 CODES. (1) Local governments enforcing building codes shall do so only in
+9 compliance with the provisions of this section. Local governments that have
+10 not previously instituted and implemented a code enforcement program prior
+11 to the effective date of this act may elect to implement a building code
+12 enforcement program by passing an ordinance evidencing the intent to do so.
+13 Local governments may contract with a public or private entity to administer
+14 their building code enforcement program.
+15 (2) Local governments that issue building permits and perform build-
+16 ing code enforcement activities shall, by ordinance effective January 1 of
+17 the year following the adoption by the Idaho building code board, adopt the
+18 following codes as published by the International Code Council together with
+19 any amendments or revisions set forth in section 39-4109, Idaho Code, in-
+20 cluding subsequent versions of the International Building Code as adopted
+21 and amended by the Idaho building code board through the negotiated rulemak-
+22 ing process provided in this chapter:
+23 (a) International Building Code, including all rules promulgated by
+24 the board to provide equivalency with the provisions of the Americans
+25 with disabilities act accessibility guidelines and the federal fair
+26 housing act accessibility guidelines;
+27 (b) Idaho residential code, parts I-III and IX; and
+28 (c) 2018 Idaho energy conservation code, pursuant to chapter 97, title
+29 39, Idaho Code.
+30 Local governments are not required by this chapter to adopt the other refer-
+31 enced codes in the International Building Code. Local jurisdictions shall
+32 not adopt provisions, chapters, sections or parts of subsequent versions
+33 of the International Residential Code or residential provisions of the
+34 International Energy Conservation Code, or subsequent versions in their
+35 entirety, that have not been adopted by the Idaho building code board except
+36 as provided in subsection (4) of this section.
+37 (3) All single family homes and multiple family dwellings up to two
+38 (2) units are hereby exempted from the provisions of the International Fire
+39 Code, the International Building Code and the Idaho residential code that
+40 require such dwellings to have automatic fire sprinkler systems installed.
+41 Nothing in this section shall prevent any person from voluntarily installing
+42 an automatic fire sprinkler system in any residential dwelling.
+2
+1 (4) Except as provided in this subsection, local governments may amend
+2 by ordinance the adopted codes or provisions of referenced codes to reflect
+3 local concerns, provided such amendments establish at least an equivalent
+4 level of protection to that of the adopted building code. A local jurisdic-
+5 tion shall not have the authority to amend any accessibility provision pur-
+6 suant to section 39-4109, Idaho Code, except as provided in this subsection.
+7 (a) A local jurisdiction shall not have the authority to amend any ac-
+8 cessibility provision pursuant to section 39-4109, Idaho Code.
+9 (b) A local jurisdiction shall not adopt any provision, chapter, sec-
+10 tion or part of the International Residential Code or residential pro-
+11 visions of the International Energy Conservation Code, or subsequent
+12 versions in their entirety, that have not been adopted or that have been
+13 expressly rejected or exempted from the adopted version of those codes
+14 by the Idaho building code board through the negotiated rulemaking
+15 process as provided in section 39-4109, Idaho Code.
+16 (c) Local jurisdictions may amend by ordinance the following provi-
+17 sions of the Idaho residential code to reflect local concerns:
+18 (i) Part I, Administrative;
+19 (ii) Part II, Definitions;
+20 (iii) Part III, Building Planning and Construction, Section R 301,
+21 Design Criteria; and
+22 (iv) Part IX, Appendices.
+23 (d) Local jurisdictions may amend the remainder of Part III of the
+24 Idaho residential code if they find that good cause for building or life
+25 safety exists for such an amendment to such codes and that such amend-
+26 ment is reasonably necessary. Amendments shall be adopted by ordinance
+27 in accordance with the provisions of chapter 9, title 50, Idaho Code, or
+28 chapter 7, title 31, Idaho Code, and provided further that such local
+29 jurisdiction shall conduct a public hearing and, provided further, that
+30 notice of the time and place of the public hearing shall be published
+31 in the official newspaper or paper of general circulation within the
+32 jurisdiction and written notice of each of such public hearing and the
+33 proposed language shall be given by the local jurisdiction to the lo-
+34 cal chapters of the entities identified in section 39-4109(5), Idaho
+35 Code, not less than thirty (30) days prior to such hearing. In the event
+36 that there are no local chapters of such entities identified in sec-
+37 tion 39-4109(5), Idaho Code, within the local jurisdiction holding the
+38 hearings, the notice shall be provided to the state associations of the
+39 respective entities.
+40 (5) Local governments shall exempt agricultural buildings from the re-
+41 quirements of the codes enumerated in this chapter and the rules promulgated
+42 by the board. A county may issue permits for farm agricultural buildings to
+43 assure compliance with road setbacks and utility easements, provided that
+44 the cost for such permits shall not exceed the actual cost to the county of
+45 issuing the permits.
+46 (a) For the purposes of this subsection, "agricultural buildings"
+47 means:
+48 (i) Livestock shelters or buildings, including shade structures
+49 and milking barns;
+50 (ii) Poultry buildings or shelters;
+3
+1 (iii) Barns;
+2 (iv) Storage and maintenance structures for equipment and machin-
+3 ery used exclusively in agricultural operations;
+4 (v) Horticultural structures, including detached production
+5 greenhouses and crop protection shelters;
+6 (vi) Sheds used as part of an agricultural operation;
+7 (vii) Grain silos;
+8 (viii) Stables; and
+9 (ix) Any other structure designed, constructed, and intended to
+10 house, accommodate, or store farm implements, hay, grain, poul-
+11 try, livestock, or other horticultural products.
+12 (b) For the purposes of this subsection, "agricultural buildings" does
+13 not include:
+14 (i) A place of human habitation, which means a space in a build-
+15 ing for living, sleeping, or cooking. Structures with bathrooms,
+16 shower rooms, break rooms, locker rooms, storage or utility space,
+17 or other similar areas are not considered places of human habita-
+18 tion;
+19 (ii) A place of employment where agricultural products are pro-
+20 cessed, treated, or packaged; or
+21 (iii) A place used by the public.
+22 (c) Counties shall not alter, amend, deny, limit, or narrow the exemp-
+23 tion provided pursuant to this subsection by, including but not limited
+24 to, requiring size limitations of agricultural buildings, requiring
+25 maximum travel distances to exits within agricultural buildings, or
+26 requiring installation of automatic sprinkler systems in agricultural
+27 buildings.
+28 (6) Permits shall be governed by the laws in effect at the time the per-
+29 mit application is received.
+30 (7) The division shall retain jurisdiction for in-plant inspections
+31 and installation standards for manufactured or mobile homes and for in-plant
+32 inspections and enforcement of construction standards for modular buildings
+33 and commercial coaches.
+34 SECTION 2. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YLLGTCNAGTOBGC;AGSN3,IOC,TODT;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.LLGTANADETOFB.()Llgsegbgcssldosooyiewhtepsoftss.Llgstthtpyidadidaceetpmpoteeedeoftsatmyettoitabgctpmbypganoeegteittodoslgsmyctwhapcorpeeytoarbgceetp)Llgsttiebgpsadpmbgceetass,byoeeeJy1oeyrfgteanbyteIobgceb,attgcsaspdbyteIlCeCltrwyasorrsstfhinsn3,IoC,igstvsofteIlBgCeasadadbyteIobgcebdthtendrgpspdintsc)IlBgC,igalrspdbebdtopeeywhtepsofteAhdsataygsadteflfgatayg)Iorlc,psIIadI;a)28Ioeycnc,pttocr9,t,IoClgsaentrdbytscrtoatteorrdcsinteIlBgC.Lljsstatp,c,ssorpsofstvfteIlRlCeorrlpsoftlEyCnC,orstvsint,tthentbnadbyteIobgcebdespdinsn()oftss)Alsefyhsadmefydsuptot)usaehyedfmtepsofteIlF,teIlBgCeadteIorlceteshdstoheacfesrssigintssnslptaypnfmvyinacfesrsminayrld]
+[DELETED: )Etaspdintss,llgsmyayoeteadcsorpsofrdcstorlc,pdshasehatltanelofpntottofteadbgc.Alljnslntheteaytoadayaypnpttosn3,IoC,etaspdintss)Alljnslntheteaytoadayaypnpttosn3,IoC)Alljnslntatayp,c,snorptofteIlRlCeorrlpsofteIlEyCnC,orssintre,tthentbnadortthebyrdoredfmteadvnoftecyteIobgcebdthtendrsaspdinsn3,IoC)LljsmyadbyoetefgpsofteIorlcetortllc)PtI,A)PtI,D)PtI,BgPgadC,SnR3nC;a)PtI,A)LljsmyadterrofPtIIoftorlceiftyfdttgdcefrbgorlyesfrshanattoshcsadttshatisryn.Asslbeadbyonaewhtepsofcr9,te5,IoC,or7,te3,IoC,adpdfrttshlnslctapchga,pdf,teofteteadpeoftepchgslbepnteolnrorprofglcnwntnadwnneofehofshpchgadtdleslbegnbytelljntotellcsofteesidinsn3,I,ntlstnty()dsprtoshh.Inteetteaenollcsofshesidinsn3,IoC,wntelljnhgt,teneslbepdtoteseasoftee)Llgssletalbsfmtersoftecsedintscradterspyteb.Acymyiepsfrfmalbstecewhrdssaduye,pdtectfrshpsslntedtealcttotecyogteprtepsoftss,"lbkssorb,igsesdmgb)Pybsors]
+[DELETED: )B)Seadmessfretadmyudeyinalo)Hls,igddpsadcppns)Ssudasptofanalo)Gns)S;a)Ayorsed,c,adidt,a,orsefmi,h,g,p,l,ororhlp)Frtepsoftss,"lb"dti)Apeofhnh,whmsaseinabgfrl,s,orc.Sswhbrr,bkr,lrr,seoruysrorsrasaentcdpsofhnh)Apeofetwealpsaep,t,orp;o)Apeudbytep)Csslnta,a,d,l,ornwteenpdpttotssnb,igbtntl,rgselsofalb,rmtldstoeswnalb,oginofacsrssina)Psslbegdbytelsinetatteteteptanisr)TednslrnjnfritidinssfrmdormehsadfrisadetofcnssfrmrbdclcN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 104
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO BUILDING CODES; AMENDING SECTION 39-4116, IDAHO CODE, TO DEFINE
+3 A TERM; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+4 Be It Enacted by the Legislature of the State of Idaho:
+5 SECTION 1. That Section 39-4116, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 39-4116. LOCAL GOVERNMENT ADOPTION AND ENFORCEMENT OF BUILDING
+8 CODES. (1) Local governments enforcing building codes shall do so only in
+9 compliance with the provisions of this section. Local governments that have
+10 not previously instituted and implemented a code enforcement program prior
+11 to the effective date of this act may elect to implement a building code
+12 enforcement program by passing an ordinance evidencing the intent to do so.
+13 Local governments may contract with a public or private entity to administer
+14 their building code enforcement program.
+15 (2) Local governments that issue building permits and perform build-
+16 ing code enforcement activities shall, by ordinance effective January 1 of
+17 the year following the adoption by the Idaho building code board, adopt the
+18 following codes as published by the International Code Council together with
+19 any amendments or revisions set forth in section 39-4109, Idaho Code, in-
+20 cluding subsequent versions of the International Building Code as adopted
+21 and amended by the Idaho building code board through the negotiated rulemak-
+22 ing process provided in this chapter:
+23 (a) International Building Code, including all rules promulgated by
+24 the board to provide equivalency with the provisions of the Americans
+25 with disabilities act accessibility guidelines and the federal fair
+26 housing act accessibility guidelines;
+27 (b) Idaho residential code, parts I-III and IX; and
+28 (c) 2018 Idaho energy conservation code, pursuant to chapter 97, title
+29 39, Idaho Code.
+30 Local governments are not required by this chapter to adopt the other refer-
+31 enced codes in the International Building Code. Local jurisdictions shall
+32 not adopt provisions, chapters, sections or parts of subsequent versions
+33 of the International Residential Code or residential provisions of the
+34 International Energy Conservation Code, or subsequent versions in their
+35 entirety, that have not been adopted by the Idaho building code board except
+36 as provided in subsection (4) of this section.
+37 (3) All single family homes and multiple family dwellings up to two
+38 (2) units are hereby exempted from the provisions of the International Fire
+39 Code, the International Building Code and the Idaho residential code that
+40 require such dwellings to have automatic fire sprinkler systems installed.
+41 Nothing in this section shall prevent any person from voluntarily installing
+42 an automatic fire sprinkler system in any residential dwelling.
+
+2
+1 (4) Except as provided in this subsection, local governments may amend
+2 by ordinance the adopted codes or provisions of referenced codes to reflect
+3 local concerns, provided such amendments establish at least an equivalent
+4 level of protection to that of the adopted building code. A local jurisdic-
+5 tion shall not have the authority to amend any accessibility provision pur-
+6 suant to section 39-4109, Idaho Code, except as provided in this subsection.
+7 (a) A local jurisdiction shall not have the authority to amend any ac-
+8 cessibility provision pursuant to section 39-4109, Idaho Code.
+9 (b) A local jurisdiction shall not adopt any provision, chapter, sec-
+10 tion or part of the International Residential Code or residential pro-
+11 visions of the International Energy Conservation Code, or subsequent
+12 versions in their entirety, that have not been adopted or that have been
+13 expressly rejected or exempted from the adopted version of those codes
+14 by the Idaho building code board through the negotiated rulemaking
+15 process as provided in section 39-4109, Idaho Code.
+16 (c) Local jurisdictions may amend by ordinance the following provi-
+17 sions of the Idaho residential code to reflect local concerns:
+18 (i) Part I, Administrative;
+19 (ii) Part II, Definitions;
+20 (iii) Part III, Building Planning and Construction, Section R 301,
+21 Design Criteria; and
+22 (iv) Part IX, Appendices.
+23 (d) Local jurisdictions may amend the remainder of Part III of the
+24 Idaho residential code if they find that good cause for building or life
+25 safety exists for such an amendment to such codes and that such amend-
+26 ment is reasonably necessary. Amendments shall be adopted by ordinance
+27 in accordance with the provisions of chapter 9, title 50, Idaho Code, or
+28 chapter 7, title 31, Idaho Code, and provided further that such local
+29 jurisdiction shall conduct a public hearing and, provided further, that
+30 notice of the time and place of the public hearing shall be published
+31 in the official newspaper or paper of general circulation within the
+32 jurisdiction and written notice of each of such public hearing and the
+33 proposed language shall be given by the local jurisdiction to the lo-
+34 cal chapters of the entities identified in section 39-4109(5), Idaho
+35 Code, not less than thirty (30) days prior to such hearing. In the event
+36 that there are no local chapters of such entities identified in sec-
+37 tion 39-4109(5), Idaho Code, within the local jurisdiction holding the
+38 hearings, the notice shall be provided to the state associations of the
+39 respective entities.
+40 (5) Local governments shall exempt agricultural buildings from the re-
+41 quirements of the codes enumerated in this chapter and the rules promulgated
+42 by the board. A county may issue permits for farm agricultural buildings to
+43 assure compliance with road setbacks and utility easements, provided that
+44 the cost for such permits shall not exceed the actual cost to the county of
+45 issuing the permits.
+46 (a) For the purposes of this subsection, "agricultural buildings"
+47 means:
+48 (i) Livestock shelters or buildings, including shade structures
+49 and milking barns;
+50 (ii) Poultry buildings or shelters;
+
+3
+1 (iii) Barns;
+2 (iv) Storage and maintenance structures for equipment and machin-
+3 ery used exclusively in agricultural operations;
+4 (v) Horticultural structures, including detached production
+5 greenhouses and crop protection shelters;
+6 (vi) Sheds used as part of an agricultural operation;
+7 (vii) Grain silos;
+8 (viii) Stables; and
+9 (ix) Any other structure designed, constructed, and intended to
+10 house, accommodate, or store farm implements, hay, grain, poul-
+11 try, livestock, or other horticultural products.
+12 (b) For the purposes of this subsection, "agricultural buildings" does
+13 not include:
+14 (i) A place of human habitation, which means a space in a build-
+15 ing for living, sleeping, or cooking. Structures with bathrooms,
+16 shower rooms, break rooms, locker rooms, storage or utility space,
+17 or other similar areas are not considered places of human habita-
+18 tion;
+19 (ii) A place of employment where agricultural products are pro-
+20 cessed, treated, or packaged; or
+21 (iii) A place used by the public.
+22 (c) Counties shall not alter, amend, deny, limit, or narrow the exemp-
+23 tion provided pursuant to this subsection by, including but not limited
+24 to, requiring size limitations of agricultural buildings, requiring
+25 maximum travel distances to exits within agricultural buildings, or
+26 requiring installation of automatic sprinkler systems in agricultural
+27 buildings.
+28 (6) Permits shall be governed by the laws in effect at the time the per-
+29 mit application is received.
+30 (7) The division shall retain jurisdiction for in-plant inspections
+31 and installation standards for manufactured or mobile homes and for in-plant
+32 inspections and enforcement of construction standards for modular buildings
+33 and commercial coaches.
+34 SECTION 2. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YLLGTCNAGTOBGC;AGSN3,IOC,TODT;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.LLGTANADETOFB.()Llgsegbgcssldosooyiewhtepsoftss.Llgstthtpyidadidaceetpmpoteeedeoftsatmyettoitabgctpmbypganoeegteittodoslgsmyctwhapcorpeeytoarbgceetp)Llgsttiebgpsadpmbgceetass,byoeeeJy1oeyrfgteanbyteIobgceb,attgcsaspdbyteIlCeCltrwyasorrsstfhinsn3,IoC,igstvsofteIlBgCeasadadbyteIobgcebdthtendrgpspdintsc)IlBgC,igalrspdbebdtopeeywhtepsofteAhdsataygsadteflfgatayg)Iorlc,psIIadI;a)28Ioeycnc,pttocr9,t,IoClgsaentrdbytscrtoatteorrdcsinteIlBgC.Lljsstatp,c,ssorpsofstvfteIlRlCeorrlpsoftlEyCnC,orstvsint,tthentbnadbyteIobgcebdespdinsn()oftss)Alsefyhsadmefydsuptot)usaehyedfmtepsofteIlF,teIlBgCeadteIorlceteshdstoheacfesrssigintssnslptaypnfmvyinacfesrsminayrld]
+[DELETED: )Etaspdintss,llgsmyayoeteadcsorpsofrdcstorlc,pdshasehatltanelofpntottofteadbgc.Alljnslntheteaytoadayaypnpttosn3,IoC,etaspdintss)Alljnslntheteaytoadayaypnpttosn3,IoC)Alljnslntatayp,c,snorptofteIlRlCeorrlpsofteIlEyCnC,orssintre,tthentbnadortthebyrdoredfmteadvnoftecyteIobgcebdthtendrsaspdinsn3,IoC)LljsmyadbyoetefgpsofteIorlcetortllc)PtI,A)PtI,D)PtI,BgPgadC,SnR3nC;a)PtI,A)LljsmyadterrofPtIIoftorlceiftyfdttgdcefrbgorlyesfrshanattoshcsadttshatisryn.Asslbeadbyonaewhtepsofcr9,te5,IoC,or7,te3,IoC,adpdfrttshlnslctapchga,pdf,teofteteadpeoftepchgslbepnteolnrorprofglcnwntnadwnneofehofshpchgadtdleslbegnbytelljntotellcsofteesidinsn3,I,ntlstnty()dsprtoshh.Inteetteaenollcsofshesidinsn3,IoC,wntelljnhgt,teneslbepdtoteseasoftee)Llgssletalbsfmtersoftecsedintscradterspyteb.Acymyiepsfrfmalbstecewhrdssaduye,pdtectfrshpsslntedtealcttotecyogteprtepsoftss,"lbkssorb,igsesdmgb)Pybsors]
+[DELETED: )B)Seadmessfretadmyudeyinalo)Hls,igddpsadcppns)Ssudasptofanalo)Gns)S;a)Ayorsed,c,adidt,a,orsefmi,h,g,p,l,ororhlp)Frtepsoftss,"lb"dti)Apeofhnh,whmsaseinabgfrl,s,orc.Sswhbrr,bkr,lrr,seoruysrorsrasaentcdpsofhnh)Apeofetwealpsaep,t,orp;o)Apeudbytep)Csslnta,a,d,l,ornwteenpdpttotssnb,igbtntl,rgselsofalb,rmtldstoeswnalb,oginofacsrssina)Psslbegdbytelsinetatteteteptanisr)TednslrnjnfritidinssfrmdormehsadfrisadetofcnssfrmrbdclcN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

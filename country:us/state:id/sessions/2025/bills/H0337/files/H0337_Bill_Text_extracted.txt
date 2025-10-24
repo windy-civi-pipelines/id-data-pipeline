@@ -1,0 +1,273 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 337
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO LONG-TERM CARE FACILITIES; AMENDING TITLE 39, IDAHO CODE, BY THE
+3 ADDITION OF A NEW CHAPTER 69, TITLE 39, IDAHO CODE, TO PROVIDE A SHORT
+4 TITLE, TO DEFINE TERMS, TO PROVIDE FOR THE AUTHORIZATION OF ELECTRONIC
+5 MONITORING DEVICES, TO ESTABLISH PROVISIONS REGARDING ACTIONS BY A FA-
+6 CILITY, TO ESTABLISH PROVISIONS REGARDING PERSONS AUTHORIZED TO MODIFY
+7 DEVICES OR RECORDINGS, AND TO PROVIDE PENALTIES; AND DECLARING AN EMER-
+8 GENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 39, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 69, Title 39, Idaho Code, and to read as follows:
+13 CHAPTER 69
+14 ELECTRONIC MONITORING DEVICES IN LONG-TERM CARE FACILITIES
+15 39-6901. SHORT TITLE. This chapter shall be known and may be cited as
+16 the "Electronic Monitoring Devices in Long-Term Care Facilities Act."
+17 39-6902. DEFINITIONS. As used in this chapter:
+18 (1) "Electronic monitoring device" means a surveillance instrument
+19 with a camera or an audio recording device, or a combination thereof, that
+20 is installed in a resident's room and broadcasts or records activities or
+21 sounds occurring in the room.
+22 (2) "Health care agent" means a person named in an advance care planning
+23 document to make medical decisions for another person as described in chap-
+24 ter 45, title 39, Idaho Code.
+25 (3) "Intimate body areas" means genitals, buttocks, the groin area, in-
+26 ner thighs, or breasts.
+27 (4) "Long-term care facility" or "facility" means both a nursing facil-
+28 ity as defined in section 39-1301, Idaho Code, and a residential care or as-
+29 sisted living facility as defined in section 39-3302, Idaho Code.
+30 (5) "Resident" means an individual who resides in a long-term care fa-
+31 cility.
+32 (6) "Sensitive body areas" means parts of the human body that are con-
+33 sidered private and that, due to cultural, ethical, or legal considerations,
+34 require special protections in terms of privacy and dignity.
+35 39-6903. AUTHORIZATION OF ELECTRONIC MONITORING DEVICES. (1) A resi-
+36 dent or a resident's guardian or health care agent may authorize the instal-
+37 lation and use of an electronic monitoring device in the resident's room in a
+38 facility. The installation and use of an electronic monitoring device shall
+39 be permitted by the facility if:
+2
+1 (a) Any forms prescribed by the facility pursuant to section 39-6904,
+2 Idaho Code, are completed and submitted by the resident or the resi-
+3 dent's guardian or the health care agent;
+4 (b) The cost of the electronic monitoring device and the cost of in-
+5 stalling, maintaining, and removing the electronic monitoring device,
+6 other than the cost of electricity, is paid for by the resident or the
+7 resident's guardian or health care agent; and
+8 (c) The resident's room is not shared with another resident of the fa-
+9 cility.
+10 (2) If the use of an electronic monitoring device is permitted by a fa-
+11 cility and authorized by a resident, such device shall be installed in a lo-
+12 cation that meets the facility's standards and allows facility staff to as-
+13 sist the resident while maintaining the privacy of the resident's sensitive
+14 and intimate body areas. While an electronic monitoring device is active,
+15 the facility shall make every effort to ensure that the resident's sensitive
+16 and intimate body areas are properly covered to maintain the resident's dig-
+17 nity and privacy.
+18 (3) A resident who has authorized the installation and use of an elec-
+19 tronic monitoring device may withdraw such authorization at any time.
+20 (4) If a resident wishing to conduct authorized electronic monitoring
+21 of the resident's room shares such room with another resident, the resident
+22 or the resident's guardian or health care agent wishing to conduct autho-
+23 rized electronic monitoring may request transfer to a private room. The res-
+24 ident requesting to transfer rooms shall be responsible for any additional
+25 costs associated with the transfer to a private room.
+26 39-6904. ACTIONS BY A FACILITY. (1) A facility may prescribe a form for
+27 use by a resident or the resident's guardian or health care agent seeking to
+28 authorize the installation and use of an electronic monitoring device in the
+29 resident's room. If a facility prescribes such a form, it shall include at a
+30 minimum:
+31 (a) An explanation of the provisions of this chapter;
+32 (b) An acknowledgement that the resident or the resident's guardian or
+33 health care agent has consented to the installation and use of the de-
+34 vice in the resident's room;
+35 (c) A section for providing the facility with information regarding the
+36 type, function, and use of the device to be installed and used; and
+37 (d) A section stating that the facility is released from liability in
+38 any civil or criminal action or administrative proceeding for a viola-
+39 tion of the resident's right to privacy in connection with using the de-
+40 vice.
+41 (2) A facility may post a notice in a conspicuous place at the entrance
+42 to a resident's room if it has an electronic monitoring device stating that
+43 an electronic monitoring device is in use in that room.
+44 (3) No person or resident shall be denied admission to or discharged
+45 from a facility or otherwise discriminated or retaliated against because of
+46 the decision to authorize the installation and use of an electronic monitor-
+47 ing device in a resident's room in the facility.
+3
+1 39-6905. PERSONS AUTHORIZED TO MODIFY DEVICE OR RECORDINGS. (1) No
+2 person other than the resident or the resident's guardian or health care
+3 agent who authorized the installation and use of an electronic monitoring
+4 device in the resident's room shall intentionally obstruct, tamper with, or
+5 destroy the device or a recording made by the device.
+6 (2) Except as provided in subsections (3) and (4) of this section, no
+7 person other than the following shall intentionally view or listen to the
+8 images displayed or sounds recorded by an electronic monitoring device in-
+9 stalled in a resident's room:
+10 (a) The resident;
+11 (b) The resident's guardian or health care agent; or
+12 (c) Law enforcement personnel.
+13 (3) A resident or the resident's guardian or health care agent may au-
+14 thorize a person to view or listen to the images displayed or sounds recorded
+15 by an electronic monitoring device installed in a resident's room.
+16 (4) Upon receiving written consent of the resident or the resident's
+17 guardian or health care agent, the family members of a resident may allow
+18 the facility or members of the community to view or listen to the images dis-
+19 played or sounds recorded by an electronic monitoring device.
+20 39-6906. PENALTIES. (1) A facility that violates the provisions of
+21 section 39-6904(3), Idaho Code, shall be subject to a civil penalty not to
+22 exceed one hundred dollars ($100) for a first offense. For each subsequent
+23 offense, the violator shall be subject to a civil penalty not to exceed five
+24 hundred dollars ($500).
+25 (2) A person who violates the provisions of section 39-6905, Idaho
+26 Code, shall be guilty of a misdemeanor and shall be punished by a fine not to
+27 exceed one thousand dollars ($1,000), or by imprisonment in the county jail
+28 for a term not to exceed six (6) months, or by both such fine and imprison-
+29 ment.
+30 SECTION 2. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YHHADWECNAGTOLMCEF;AGTE3,IOC,BYTNOFANWCR6,TE3,IOC,TOPEAS,TODET,TOPEFRTEANOFEGD,TOEHPSRGASBYAF,TOEHPSRGPSADTOMSORR,ADTOPEP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6CMGDSINLMCEF.STT.Tscrslbeknadmybecdae"cMgDsinLmCeFsA.D.Asudintsc)"cmgd"msaseihacaoranaorgd,oracnt,tsidinarsrmadbsorrsasosoginter)"hcea"msapnndinanaecepttomemldsfrarpnasddincr4,te3,IoC)"ebya"msg,b,tegna,irt,orb)"mcef"or""msbhangfyasddinsn3,IoC,adarlceoradlgfyasddinsn3,IoC)""msanilworsinalmcef)"ebya"mspsoftehnbyttaecdpeadt,detoc,e,orllceslpsintsofpyadd.ANOFECMGD.()Artorarsgnorhhceatmyaeteinadueofanecmgdeintersrmin.Teinadueofanecmgdesepdbytefyi]
+[DELETED: )Ayfspdbytefypttosn3oC,aecdadsdbytertortersgnortehhcea)Tectofteecmgdeadtectofi,m,adrgteecmgdrtntectofe,ispdfrbytertortsgnorhhcea;a)Tersrmisntsdwharrtoftef)Ifteueofanecmgdeispdbyafyadadbyar,shdeslbeidinalnttmstefsssadasfysftoattertwemgtepyofterssdiebya.Weanecmgdeisaefyslmeeyettoeettterssdiebyasaepycdtomntersdyadp)Artwohsadteinadueofanecmgdemywwshanatayt)Ifartwgtoctadecmftersrmssshrmwharr,terrtersgnorhhceatwgtoctadecmgmyrttrtoaper.Tertrgtotrrsslberefrayasadwhtetrtoaper.ASBYAF.()Afymypeafmfebyartortersgnorhhceatsgteteinadueofanecmgdeintsr.Ifafypsshaf,itslieat)Anenoftepsoftsc)Anattttertortersgnohceathscdtoteinadueoftedeintersr)Asnfrpgtefywhinrgt,f,adueoftedetobeidadu;a)Asnsgtttefyisrdfmlyiyclorclanoraepgfravnoftersrttopyincnwhugted)Afymyptaneinacspeatteeoarsrmifithsanecmgdesgtnecmgdeisinueinttr)Nopnorrtslbeddantoordmafyoroeddorrdatbeoedntoaeteinadueofanecmgdeinarsrmintef]
+[DELETED: .PSADTOMYDEORR.()Nnortntertortersgnorhhctwoadteinadueofanecmeintersrmsliyo,trw,oytedeorargmebyted)Etaspdinss()ad()oftss,nnortntefgsliyvworlntotsddorssrdbyanecmgdeidinarsr)Ter)Tersgnorhhcea;o)Lwetp)Artortersgnorhhceatmyaeapntovworlntoteisddorssryanecmgdeidinarsr)Unrgwnctoftertorternorhhcea,tefymsofartmyaefyormsoftecytovworlntoteisddorssrdbyanecmgd.P.()Afyttvstepson3,IoC,slbesttoaclpynttdoehdds()frafto.Frehs,tevrslbesttoaclpynttoedfdds()Apnwovstepsofsn3,I,slbegyofamradslbepdbyafenttdoetdds(,orbyitintecyjratmnttoedsx()m,orbybhshfeadiN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 337
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO LONG-TERM CARE FACILITIES; AMENDING TITLE 39, IDAHO CODE, BY THE
+3 ADDITION OF A NEW CHAPTER 69, TITLE 39, IDAHO CODE, TO PROVIDE A SHORT
+4 TITLE, TO DEFINE TERMS, TO PROVIDE FOR THE AUTHORIZATION OF ELECTRONIC
+5 MONITORING DEVICES, TO ESTABLISH PROVISIONS REGARDING ACTIONS BY A FA-
+6 CILITY, TO ESTABLISH PROVISIONS REGARDING PERSONS AUTHORIZED TO MODIFY
+7 DEVICES OR RECORDINGS, AND TO PROVIDE PENALTIES; AND DECLARING AN EMER-
+8 GENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 39, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 69, Title 39, Idaho Code, and to read as follows:
+13 CHAPTER 69
+14 ELECTRONIC MONITORING DEVICES IN LONG-TERM CARE FACILITIES
+15 39-6901. SHORT TITLE. This chapter shall be known and may be cited as
+16 the "Electronic Monitoring Devices in Long-Term Care Facilities Act."
+17 39-6902. DEFINITIONS. As used in this chapter:
+18 (1) "Electronic monitoring device" means a surveillance instrument
+19 with a camera or an audio recording device, or a combination thereof, that
+20 is installed in a resident's room and broadcasts or records activities or
+21 sounds occurring in the room.
+22 (2) "Health care agent" means a person named in an advance care planning
+23 document to make medical decisions for another person as described in chap-
+24 ter 45, title 39, Idaho Code.
+25 (3) "Intimate body areas" means genitals, buttocks, the groin area, in-
+26 ner thighs, or breasts.
+27 (4) "Long-term care facility" or "facility" means both a nursing facil-
+28 ity as defined in section 39-1301, Idaho Code, and a residential care or as-
+29 sisted living facility as defined in section 39-3302, Idaho Code.
+30 (5) "Resident" means an individual who resides in a long-term care fa-
+31 cility.
+32 (6) "Sensitive body areas" means parts of the human body that are con-
+33 sidered private and that, due to cultural, ethical, or legal considerations,
+34 require special protections in terms of privacy and dignity.
+35 39-6903. AUTHORIZATION OF ELECTRONIC MONITORING DEVICES. (1) A resi-
+36 dent or a resident's guardian or health care agent may authorize the instal-
+37 lation and use of an electronic monitoring device in the resident's room in a
+38 facility. The installation and use of an electronic monitoring device shall
+39 be permitted by the facility if:
+
+2
+1 (a) Any forms prescribed by the facility pursuant to section 39-6904,
+2 Idaho Code, are completed and submitted by the resident or the resi-
+3 dent's guardian or the health care agent;
+4 (b) The cost of the electronic monitoring device and the cost of in-
+5 stalling, maintaining, and removing the electronic monitoring device,
+6 other than the cost of electricity, is paid for by the resident or the
+7 resident's guardian or health care agent; and
+8 (c) The resident's room is not shared with another resident of the fa-
+9 cility.
+10 (2) If the use of an electronic monitoring device is permitted by a fa-
+11 cility and authorized by a resident, such device shall be installed in a lo-
+12 cation that meets the facility's standards and allows facility staff to as-
+13 sist the resident while maintaining the privacy of the resident's sensitive
+14 and intimate body areas. While an electronic monitoring device is active,
+15 the facility shall make every effort to ensure that the resident's sensitive
+16 and intimate body areas are properly covered to maintain the resident's dig-
+17 nity and privacy.
+18 (3) A resident who has authorized the installation and use of an elec-
+19 tronic monitoring device may withdraw such authorization at any time.
+20 (4) If a resident wishing to conduct authorized electronic monitoring
+21 of the resident's room shares such room with another resident, the resident
+22 or the resident's guardian or health care agent wishing to conduct autho-
+23 rized electronic monitoring may request transfer to a private room. The res-
+24 ident requesting to transfer rooms shall be responsible for any additional
+25 costs associated with the transfer to a private room.
+26 39-6904. ACTIONS BY A FACILITY. (1) A facility may prescribe a form for
+27 use by a resident or the resident's guardian or health care agent seeking to
+28 authorize the installation and use of an electronic monitoring device in the
+29 resident's room. If a facility prescribes such a form, it shall include at a
+30 minimum:
+31 (a) An explanation of the provisions of this chapter;
+32 (b) An acknowledgement that the resident or the resident's guardian or
+33 health care agent has consented to the installation and use of the de-
+34 vice in the resident's room;
+35 (c) A section for providing the facility with information regarding the
+36 type, function, and use of the device to be installed and used; and
+37 (d) A section stating that the facility is released from liability in
+38 any civil or criminal action or administrative proceeding for a viola-
+39 tion of the resident's right to privacy in connection with using the de-
+40 vice.
+41 (2) A facility may post a notice in a conspicuous place at the entrance
+42 to a resident's room if it has an electronic monitoring device stating that
+43 an electronic monitoring device is in use in that room.
+44 (3) No person or resident shall be denied admission to or discharged
+45 from a facility or otherwise discriminated or retaliated against because of
+46 the decision to authorize the installation and use of an electronic monitor-
+47 ing device in a resident's room in the facility.
+
+3
+1 39-6905. PERSONS AUTHORIZED TO MODIFY DEVICE OR RECORDINGS. (1) No
+2 person other than the resident or the resident's guardian or health care
+3 agent who authorized the installation and use of an electronic monitoring
+4 device in the resident's room shall intentionally obstruct, tamper with, or
+5 destroy the device or a recording made by the device.
+6 (2) Except as provided in subsections (3) and (4) of this section, no
+7 person other than the following shall intentionally view or listen to the
+8 images displayed or sounds recorded by an electronic monitoring device in-
+9 stalled in a resident's room:
+10 (a) The resident;
+11 (b) The resident's guardian or health care agent; or
+12 (c) Law enforcement personnel.
+13 (3) A resident or the resident's guardian or health care agent may au-
+14 thorize a person to view or listen to the images displayed or sounds recorded
+15 by an electronic monitoring device installed in a resident's room.
+16 (4) Upon receiving written consent of the resident or the resident's
+17 guardian or health care agent, the family members of a resident may allow
+18 the facility or members of the community to view or listen to the images dis-
+19 played or sounds recorded by an electronic monitoring device.
+20 39-6906. PENALTIES. (1) A facility that violates the provisions of
+21 section 39-6904(3), Idaho Code, shall be subject to a civil penalty not to
+22 exceed one hundred dollars ($100) for a first offense. For each subsequent
+23 offense, the violator shall be subject to a civil penalty not to exceed five
+24 hundred dollars ($500).
+25 (2) A person who violates the provisions of section 39-6905, Idaho
+26 Code, shall be guilty of a misdemeanor and shall be punished by a fine not to
+27 exceed one thousand dollars ($1,000), or by imprisonment in the county jail
+28 for a term not to exceed six (6) months, or by both such fine and imprison-
+29 ment.
+30 SECTION 2. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YHHADWECNAGTOLMCEF;AGTE3,IOC,BYTNOFANWCR6,TE3,IOC,TOPEAS,TODET,TOPEFRTEANOFEGD,TOEHPSRGASBYAF,TOEHPSRGPSADTOMSORR,ADTOPEP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6CMGDSINLMCEF.STT.Tscrslbeknadmybecdae"cMgDsinLmCeFsA.D.Asudintsc)"cmgd"msaseihacaoranaorgd,oracnt,tsidinarsrmadbsorrsasosoginter)"hcea"msapnndinanaecepttomemldsfrarpnasddincr4,te3,IoC)"ebya"msg,b,tegna,irt,orb)"mcef"or""msbhangfyasddinsn3,IoC,adarlceoradlgfyasddinsn3,IoC)""msanilworsinalmcef)"ebya"mspsoftehnbyttaecdpeadt,detoc,e,orllceslpsintsofpyadd.ANOFECMGD.()Artorarsgnorhhceatmyaeteinadueofanecmgdeintersrmin.Teinadueofanecmgdesepdbytefyi]
+[DELETED: )Ayfspdbytefypttosn3oC,aecdadsdbytertortersgnortehhcea)Tectofteecmgdeadtectofi,m,adrgteecmgdrtntectofe,ispdfrbytertortsgnorhhcea;a)Tersrmisntsdwharrtoftef)Ifteueofanecmgdeispdbyafyadadbyar,shdeslbeidinalnttmstefsssadasfysftoattertwemgtepyofterssdiebya.Weanecmgdeisaefyslmeeyettoeettterssdiebyasaepycdtomntersdyadp)Artwohsadteinadueofanecmgdemywwshanatayt)Ifartwgtoctadecmftersrmssshrmwharr,terrtersgnorhhceatwgtoctadecmgmyrttrtoaper.Tertrgtotrrsslberefrayasadwhtetrtoaper.ASBYAF.()Afymypeafmfebyartortersgnorhhceatsgteteinadueofanecmgdeintsr.Ifafypsshaf,itslieat)Anenoftepsoftsc)Anattttertortersgnohceathscdtoteinadueoftedeintersr)Asnfrpgtefywhinrgt,f,adueoftedetobeidadu;a)Asnsgtttefyisrdfmlyiyclorclanoraepgfravnoftersrttopyincnwhugted)Afymyptaneinacspeatteeoarsrmifithsanecmgdesgtnecmgdeisinueinttr)Nopnorrtslbeddantoordmafyoroeddorrdatbeoedntoaeteinadueofanecmgdeinarsrmintef]
+[DELETED: .PSADTOMYDEORR.()Nnortntertortersgnorhhctwoadteinadueofanecmeintersrmsliyo,trw,oytedeorargmebyted)Etaspdinss()ad()oftss,nnortntefgsliyvworlntotsddorssrdbyanecmgdeidinarsr)Ter)Tersgnorhhcea;o)Lwetp)Artortersgnorhhceatmyaeapntovworlntoteisddorssryanecmgdeidinarsr)Unrgwnctoftertorternorhhcea,tefymsofartmyaefyormsoftecytovworlntoteisddorssrdbyanecmgd.P.()Afyttvstepson3,IoC,slbesttoaclpynttdoehdds()frafto.Frehs,tevrslbesttoaclpynttoedfdds()Apnwovstepsofsn3,I,slbegyofamradslbepdbyafenttdoetdds(,orbyitintecyjratmnttoedsx()m,orbybhshfeadiN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

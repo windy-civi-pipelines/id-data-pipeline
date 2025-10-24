@@ -1,0 +1,467 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 230
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO INDECENT SEXUAL EXHIBITIONS; AMENDING TITLE 6, IDAHO CODE, BY
+3 THE ADDITION OF A NEW CHAPTER 39, TITLE 6, IDAHO CODE, TO PROVIDE LEG-
+4 ISLATIVE FINDINGS AND TO ESTABLISH PROVISIONS REGARDING A CIVIL ACTION;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 6, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 39, Title 6, Idaho Code, and to read as follows:
+10 CHAPTER 39
+11 INDECENT SEXUAL EXHIBITIONS -- CIVIL ACTION
+12 6-3901. LEGISLATIVE FINDINGS. The legislature finds and declares
+13 that:
+14 (1) The free speech clause of the first amendment to the constitution
+15 of the United States provides that "Congress shall make no law ... abridg-
+16 ing the freedom of speech," and the supreme court of the United States has ap-
+17 plied the same to state governments through the fourteenth amendment.
+18 (2) In early American free speech jurisprudence, the scope of free
+19 speech protections was limited only to the right of every individual to
+20 "freely speak, write, and publish his sentiments, on all subjects, being re-
+21 sponsible for the abuse of that right," as explained by early American legal
+22 theorist James Kent in his commentaries on American law.
+23 (3) Consistent with this natural right of every man to speak freely,
+24 section 9, article I of the constitution of the state of Idaho guarantees
+25 that "every person may freely speak, write and publish on all subjects, be-
+26 ing responsible for the abuse of that liberty."
+27 (4) Early American free speech jurisprudence also recognized, as asso-
+28 ciate justice Joseph Story explained in his commentaries on the constitution
+29 of the United States, that "an absolute right to speak, or write, or print,
+30 whatever he might please, without any responsibility ... is a supposition
+31 too wild to be indulged by any rational man."
+32 (5) In landmark cases like Stromberg v. People of State of California
+33 (1931) and U.S. v. O'Brien (1968), the supreme court of the United States
+34 later expanded the scope of free speech protections to include conduct that
+35 is intended to express a message.
+36 (6) The supreme court of the United States explained in Young v. Ameri-
+37 can Mini Theatres, Inc. (1976) that "broad statements of principle, no mat-
+38 ter how correct in the context in which they are made, are sometimes quali-
+39 fied by contrary decisions before the absolute limit of the stated principle
+40 is reached."
+2
+1 (7) The supreme court of the United States affirmed in Rumsfeld v.
+2 Foundation for Academic and Institutional Rights, Inc. (2006) that first
+3 amendment protection for conduct extends "only to conduct that is inherently
+4 expressive."
+5 (8) The supreme court of the United States affirmed in City of Dallas v.
+6 Stanglin (1989) that "it is possible to find some kernel of expression in al-
+7 most every activity a person undertakes ... but such a kernel is not suffi-
+8 cient to bring the activity within the protection of the First Amendment."
+9 (9) Sexualized conduct per se is not entitled to first amendment pro-
+10 tection, as provided in Edge v. City of Everett, 929 F.3d 657 (9th Cir.
+11 2019).
+12 (10) The supreme court of the United States explained in Texas v. John-
+13 son (1989) that although expressive conduct may deserve some free speech
+14 protection, "the government generally has a freer hand in restricting ex-
+15 pressive conduct than it has in restricting the written or spoken word."
+16 (11) Even when sexualized conduct is inherently expressive, the supreme
+17 court of the United States has repeatedly found that sexualized expressive
+18 conduct is more regulable under the first amendment to the constitution of
+19 the United States than other speech, especially when such a restriction cre-
+20 ates only a de minimis intrusion on expression, as provided in City of Erie v.
+21 Pap's A.M., 529 U.S. 277, 279 (2000).
+22 (12) Because there is a substantial and compelling government interest
+23 in protecting the physical and psychological well-being of minors, sexual-
+24 ized expressive conduct is even more regulable when there is a reasonable
+25 risk that children will be in the audience, as the supreme court of the United
+26 States has repeatedly recognized.
+27 (13) As the supreme court of the United States acknowledged in Reno v.
+28 American Civil Liberties Union (1997), "There is a compelling interest in
+29 protecting the physical and psychological well-being of minors which ex-
+30 tended to shielding them from indecent messages that are not obscene by adult
+31 standards."
+32 (14) Sexualized expressive conduct is even more regulable when children
+33 are exposed through "broadcasts ... public displays, unsolicited mailings
+34 and other means of expression" that the observing child "has no meaningful
+35 opportunity to avoid," as explained by the supreme court of the United States
+36 in Sable v. F.C.C. (1989).
+37 (15) The supreme court of the United States concluded in F.C.C. v. Paci-
+38 fica Foundation (1978) that indecent content that is "patently offensive" or
+39 "vulgar, offensive, and shocking ... is not entitled to absolute constitu-
+40 tional protection under all circumstances."
+41 (16) The Pacifica court found that indecency "has a separate meaning"
+42 from obscenity, in that obscenity requires prurient appeal but that "pruri-
+43 ent appeal" is not an "essential component of indecent language."
+44 (17) The Pacifica court treated federal communications commission reg-
+45 ulations prohibiting indecent broadcast monologues "at times of the day when
+46 there is a reasonable risk that children may be in the audience" as a consti-
+47 tutionally permissible example of a time, place, and manner regulation.
+48 (18) The Pacifica court affirmed that through time, place, and manner
+49 regulations, indecent "expression may be withheld from the young without re-
+50 stricting the expression at its source."
+3
+1 (19) Time, place, and manner regulations on indecent live shows, exhi-
+2 bitions, or performances that both involve sexual conduct and are patently
+3 offensive to an average person applying contemporary community standards in
+4 the adult community as a whole with respect to what is suitable for minors are
+5 constitutionally permissible when there is a reasonable risk that children
+6 may be in the audience and alternative avenues of communication still exist.
+7 (20) The supreme court of the United States concluded in City of Ren-
+8 ton v. Playtime Theatres, Inc. (1986) that a municipal zoning ordinance re-
+9 stricting the location of adult movie theaters should be "properly analyzed
+10 as a form of time, place, and manner regulation."
+11 (21) The Renton court concluded that the municipal zoning ordinance,
+12 despite its content-based restriction on adult movies, should be treated as
+13 content-neutral because it was "aimed not at the content of the films shown
+14 at adult motion picture theatres, but rather at the secondary effects of such
+15 theaters on the surrounding community."
+16 (22) The Renton court upheld the municipal zoning ordinance as consti-
+17 tutionally permissible because it "serve[d] a substantial governmental in-
+18 terest and allow[ed] for reasonable alternative avenues of communication."
+19 (23) Sexually explicit shows, exhibitions, or performances when chil-
+20 dren are present, like material harmful to minors, are a "contributing fac-
+21 tor to crime, to juvenile crime, and also a basic factor in impairing the
+22 ethical and moral development of our youth," as detailed in section 18-1513,
+23 Idaho Code.
+24 (24) Sexually explicit shows, exhibitions, or performances when chil-
+25 dren are present, like when children are exposed to pornographic materials,
+26 are correlated with a number of social problems, including but not limited
+27 to juvenile delinquency, sexual violence, sexual deviancy, risky and unsafe
+28 sexual behavior, and impaired moral and ethical development.
+29 (25) These negative secondary effects would be combated by a time,
+30 place, and manner regulation on live shows, exhibitions, or performances
+31 that both involve sexual conduct and are patently offensive to an average
+32 person applying contemporary community standards in the adult community as a
+33 whole with respect to what is suitable for minors.
+34 6-3902. CIVIL ACTION. (1) Any person or institution that knowingly or-
+35 ganizes, hosts, or performs in a show, exhibition, or performance by a live
+36 person before a live audience must take reasonable steps to restrict the ac-
+37 cess of minors if:
+38 (a) The person or institution has reason to believe that minors are
+39 likely to be present;
+40 (b) The show, exhibition, or performance involves live persons engaged
+41 in sexual conduct; and
+42 (c) The show, exhibition, or performance is patently offensive to an
+43 average person applying contemporary community standards in the adult
+44 community as a whole with respect to what is suitable for minors.
+45 (2)(a) Any minor who is exposed to sexual conduct as a result of a vi-
+46 olation of subsection (1) of this section shall have a private cause of
+47 action against the person or institution that failed to take reasonable
+48 steps to restrict the access of minors.
+4
+1 (b) Any civil action arising under this section shall be commenced ac-
+2 cording to the provisions of section 5-230, Idaho Code.
+3 (c) Any minor who prevails in an action brought pursuant to this sec-
+4 tion may recover five thousand dollars ($5,000) in statutory damages
+5 for each violation of this section. The minor may also recover monetary
+6 damages from the defendant for all psychological, emotional, economic,
+7 and physical harm suffered.
+8 (d) Any minor who prevails in an action brought pursuant to this section
+9 is entitled to recover reasonable attorney's fees and costs from the de-
+10 fendant.
+11 (e) It shall be an affirmative defense to an action brought pursuant to
+12 the provisions of this section when:
+13 (i) The defendant is a host if such host is able to produce a
+14 legally enforceable contract signed by the event organizers, per-
+15 formers, or an authorized agent working on behalf of the event
+16 organizers or performers when such contract stipulates that per-
+17 formers at the event shall not engage in an exhibition, show, or
+18 performance that violates the requirements of subsection (1) of
+19 this section while using the facilities provided by the host;
+20 (ii) The parent or legal guardian of a minor fourteen (14) years
+21 of age or older accompanies such minor to a ticketed show, exhi-
+22 bition, or performance or has provided prior written consent for
+23 such minor to attend a ticketed show, exhibition, or performance
+24 in the company of a designated adult; or
+25 (iii) The defendant had reasonable cause to believe that the minor
+26 involved was eighteen (18) years of age or older, or such minor
+27 exhibited to the defendant a draft card, driver's license, birth
+28 certificate, or other official or apparently official document
+29 purporting to establish that the minor was eighteen (18) years of
+30 age or older.
+31 (f) It shall not be a defense to an action brought pursuant to this
+32 section that the minor was accompanied by the minor's parent or legal
+33 guardian, except as provided in paragraph (e)(ii) of this subsection.
+34 (3) When either the attorney general or the county prosecuting attor-
+35 ney for the jurisdiction has reason to believe that any person or institution
+36 is violating, has violated, or is about to violate the requirements of sub-
+37 section (1) of this section, the attorney general or such county prosecuting
+38 attorney shall have a cause of action for injunctive relief. The injunction
+39 shall be sufficient to prevent the defendant from violating the requirements
+40 of this section.
+41 (4) For purposes of this section:
+42 (a) "Host" means to knowingly provide the facilities for a show, ex-
+43 hibition, or performance involving live persons engaged in sexual con-
+44 duct.
+45 (b) "Minor" means any person less than eighteen (18) years of age.
+46 (c) "Organize" means to knowingly participate in the planning for a
+47 show, exhibition, or performance involving live persons engaged in sex-
+48 ual conduct.
+49 (d)(i) "Sexual conduct" means:
+5
+1 1. Acts, whether actual or simulated, of masturbation,
+2 sexual intercourse, or physical contact with a person's un-
+3 clothed genitals or pubic area;
+4 2. Sexually explicit depictions of acts described in sub-
+5 paragraph (i)1. of this paragraph; or
+6 3. Sexually provocative dances or gestures performed with
+7 accessories that exaggerate male or female primary or sec-
+8 ondary sexual characteristics.
+9 (ii) "Sexual conduct" shall not include dances or gestures per-
+10 formed by an athletic, cheer, or dance team maintained or spon-
+11 sored by a secondary school or an institution of higher education,
+12 provided that the dances or gestures are performed in association
+13 with or in conjunction with an interscholastic, intercollegiate,
+14 intramural, or club athletic event featuring teams that are spon-
+15 sored by the secondary school or the institution of higher educa-
+16 tion.
+17 (5) The provisions of this section are hereby declared to be severable
+18 and if any provision of this section or the application of such provision to
+19 any person or circumstance is declared invalid for any reason, such declara-
+20 tion shall not affect the validity of the remaining portions of this section.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect thirty days fol-
+23 lowing signature by the Governor.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOITSLE;AGTE6,IOC,BEANOFANWCR3,TE6,IOC,TOPELEFSADTOEHPSRGACLADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr3,Te6,IoC,adtordasfR3TSLES--CLA.LEF.Telefsadd)TefeshceofteftattotecfteUdSspstt"sslmenolw..agtefmofs"adtesectofteUdSshsadtesetosegsthtefha)IneyAnfeshj,teseoffhpswsldoytotertofeyiltys,w,adphhss,onals,bgrefrteaeofttr"asedbyeyAnltJsKtinhscsonAnl)Ctwhtsnlrtofeymntoskfn9,aeIoftecnofteseofIogt"ypnmyfys,weadphonals,bgrefrteaeofttl)EyAnfeshjeaor,asaejeJhSyedinhscsontecfteUdS,tt"naerttos,orw,orprhemtp,wtayry..isasowdtobeidbyayrlm)InlkcsleSgv.PeofSeofC)adU.v.On(,tesectofteUdSredteseoffeshpstoiecttsidtoesam)TesectofteUdSsedinYgv.AnMiT,I.()tt"dssofp,nomrhwctintectinwhtyaem,aessqdbycydsbeteaeltoftesdpsr]
+[DELETED: )TesectofteUdSsadinRdvnfrAcadIlR,I.()ttftpnfrctes"ytoctttisi)TesectofteUdSsadinCyofDsvn()tt"tispetofdseklofeninateyayapnus..btshaklisntsttobgteaywntepnofteFtA)Sdctprseisntedtoftatp,aspdinEev.CyofE,99Fd67(hC)TesectofteUdSsedinTsv.Jn()ttaheectmydesefes,"egtgyhsafrhdinrgeecttnithsinrgtewnorsnw)Enwnsdctisiye,testofteUdSshsryfdttsdetismereurteftattotecnoeUdSstnors,eywnsharncsoyademsinone,aspdinCyofEevsA,59U.2,29()Beteisasladcggtinpgtepladplwgofm,sdeectisenmerewnteisarkttcnwlbeintea,astesectofteUshsryr)AstesectofteUdSsadinRovnClLsUn(,"eisacgitigtepladplwgofmswhedtosgtmfmitmsttaentoebya)Sdeectisenmerewnceedth"s..pcd,udmdormsofe"ttteogcd"snomytoa"asedbytesectofteUdSnSev.F.()TesectofteUdSscdinF.v.PaFn()ttitctttis"yo"o,o,adsg..isntedtoaeclpnuralc)TePactfdttiy"sasemmo,inttoyrsptalbttt"ta"isntan"lctofitl)TePacttdflcscnrspgitbtms"ttsoftedyweisarerkttcnmybeintea"asacypeeeofat,p,admrr)TePactadtttht,p,adm,it"nmybewdfmteygwtrgteenatiss]
+[DELETED: )T,p,admrrsonitles,e,orpsttbhieslctadaepetoanaepnagcycyssieatcyasawewhrttowtissefrmsaypewnteisarerkttcybeinteaeadaeasofcnsle)TesectofteUdSscdinCyofRnv.PeT,I.()ttamlzgoergtelnofatmetssdbe"yasafmoft,p,admrr)TeRnctcdtttemlzgoeiscdrnonatm,sdbetdalbeitws"dntattectoftefsstatmnpet,btrrattesyesofssontesgc)TeRnctudtemlzgoeascypebeit"]aslglitada]frreaeasofc)Syets,e,orpswncnaep,lemlhltom,aea"gfrtoc,tojec,adaoabcfrinigtladmldtofory"asddinsn1oC)Syets,e,orpswncnaep,lewncnaeedtopcmecdwhanrofslp,igbtntlojed,slv,sld,ryadulb,adidmladeld)Tenesyeswdbecdbyat,admrrnonles,e,orptbhieslctadaepyoetoananagcycyssinteatcyasewhrttowtissefrm.CLA.()Aypnorinttkyo,h,orpsinas,e,orpebyalnbealeaemtteresstortteasofmsi)Tepnorinhsrntobettmsaytobep)Tes,e,orpeislepsenslc;a)Tes,e,orpeispyoetoaepnagcycyssinteayasawewhrttowtissefrm)Aymrwoisedtoslctasartofavnofsn()oftssnslheapeceonattepnorinttfdtoterstortteasofm]
+[DELETED: )Ayclanagurtssnslbecdagtotepsofsn5,IoC)Aymrwopsinananbtpttotssnmyrrfetdds()insydrehvnoftss.Temrmyaorrmsfmtedtfralp,e,edplhms)Aymrwopsinananbtpttotsssedtorrreasfsadcsfmted)Itslbeanaedetoananbtpttepsoftssnw)Tedtisahtifshhtisaetopeyeectsdbyteeto,p,oranadatwgonbfofteesorpswnshctssttpsatteetslnteeinane,s,oettvstersofsn()ossnweugtefspdbyteh)Teptorllgnofamrfn()yfaeororasshmrtoatds,e,orpeorhspdprwnctfhmrtoadatds,e,orpntecyofadda;o)Tedthdrecetobetttemdwsen()ysofaeoro,orshmdtotedtadtc,dsl,b,ororolorayoldgtoehtttemrwsen()ysoeoro)Itslntbeadetoananbtpttotntttemrwsadbytemsptorl,etaspdinph()oftss)Wnerteayglortecypgayfrtejnhsrntobettaypnorisv,hsv,orisattovetersofsn()oftss,teayglorshcypyslheaceofanfrier.Teilbesttopttedtfmvgterftss)Frpsoftss)""mstokypetefsfras,e,orpeiglepsedinslc)""msaypnlstnen()ysofa)""mstokypeintepgfr,e,orpeiglepsedinslc)"lc"m]
+[DELETED: .A,wralors,ofmli,orplctwhapsudgsorpca.Syetdsofasddinsh(.oftsp;o.Sypedsorgspdwstteemeorfepyorsyslc)"lc"slntiedsorgspdbyana,c,ordetmmdorsdbyasysloraninofhredtttedsorgsaepdinahorincnwhani,i,orcbacetfgtsttaesdbytesyslorteinofhre)Tepsoftssnaehyddtobesdifaypnoftssnorteanofshpntypnorceisddidfrayr,shdnslntattevyoftergpsoftssN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadettydsfgsebyteG]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 230
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO INDECENT SEXUAL EXHIBITIONS; AMENDING TITLE 6, IDAHO CODE, BY
+3 THE ADDITION OF A NEW CHAPTER 39, TITLE 6, IDAHO CODE, TO PROVIDE LEG-
+4 ISLATIVE FINDINGS AND TO ESTABLISH PROVISIONS REGARDING A CIVIL ACTION;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 6, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 39, Title 6, Idaho Code, and to read as follows:
+10 CHAPTER 39
+11 INDECENT SEXUAL EXHIBITIONS -- CIVIL ACTION
+12 6-3901. LEGISLATIVE FINDINGS. The legislature finds and declares
+13 that:
+14 (1) The free speech clause of the first amendment to the constitution
+15 of the United States provides that "Congress shall make no law ... abridg-
+16 ing the freedom of speech," and the supreme court of the United States has ap-
+17 plied the same to state governments through the fourteenth amendment.
+18 (2) In early American free speech jurisprudence, the scope of free
+19 speech protections was limited only to the right of every individual to
+20 "freely speak, write, and publish his sentiments, on all subjects, being re-
+21 sponsible for the abuse of that right," as explained by early American legal
+22 theorist James Kent in his commentaries on American law.
+23 (3) Consistent with this natural right of every man to speak freely,
+24 section 9, article I of the constitution of the state of Idaho guarantees
+25 that "every person may freely speak, write and publish on all subjects, be-
+26 ing responsible for the abuse of that liberty."
+27 (4) Early American free speech jurisprudence also recognized, as asso-
+28 ciate justice Joseph Story explained in his commentaries on the constitution
+29 of the United States, that "an absolute right to speak, or write, or print,
+30 whatever he might please, without any responsibility ... is a supposition
+31 too wild to be indulged by any rational man."
+32 (5) In landmark cases like Stromberg v. People of State of California
+33 (1931) and U.S. v. O'Brien (1968), the supreme court of the United States
+34 later expanded the scope of free speech protections to include conduct that
+35 is intended to express a message.
+36 (6) The supreme court of the United States explained in Young v. Ameri-
+37 can Mini Theatres, Inc. (1976) that "broad statements of principle, no mat-
+38 ter how correct in the context in which they are made, are sometimes quali-
+39 fied by contrary decisions before the absolute limit of the stated principle
+40 is reached."
+
+2
+1 (7) The supreme court of the United States affirmed in Rumsfeld v.
+2 Foundation for Academic and Institutional Rights, Inc. (2006) that first
+3 amendment protection for conduct extends "only to conduct that is inherently
+4 expressive."
+5 (8) The supreme court of the United States affirmed in City of Dallas v.
+6 Stanglin (1989) that "it is possible to find some kernel of expression in al-
+7 most every activity a person undertakes ... but such a kernel is not suffi-
+8 cient to bring the activity within the protection of the First Amendment."
+9 (9) Sexualized conduct per se is not entitled to first amendment pro-
+10 tection, as provided in Edge v. City of Everett, 929 F.3d 657 (9th Cir.
+11 2019).
+12 (10) The supreme court of the United States explained in Texas v. John-
+13 son (1989) that although expressive conduct may deserve some free speech
+14 protection, "the government generally has a freer hand in restricting ex-
+15 pressive conduct than it has in restricting the written or spoken word."
+16 (11) Even when sexualized conduct is inherently expressive, the supreme
+17 court of the United States has repeatedly found that sexualized expressive
+18 conduct is more regulable under the first amendment to the constitution of
+19 the United States than other speech, especially when such a restriction cre-
+20 ates only a de minimis intrusion on expression, as provided in City of Erie v.
+21 Pap's A.M., 529 U.S. 277, 279 (2000).
+22 (12) Because there is a substantial and compelling government interest
+23 in protecting the physical and psychological well-being of minors, sexual-
+24 ized expressive conduct is even more regulable when there is a reasonable
+25 risk that children will be in the audience, as the supreme court of the United
+26 States has repeatedly recognized.
+27 (13) As the supreme court of the United States acknowledged in Reno v.
+28 American Civil Liberties Union (1997), "There is a compelling interest in
+29 protecting the physical and psychological well-being of minors which ex-
+30 tended to shielding them from indecent messages that are not obscene by adult
+31 standards."
+32 (14) Sexualized expressive conduct is even more regulable when children
+33 are exposed through "broadcasts ... public displays, unsolicited mailings
+34 and other means of expression" that the observing child "has no meaningful
+35 opportunity to avoid," as explained by the supreme court of the United States
+36 in Sable v. F.C.C. (1989).
+37 (15) The supreme court of the United States concluded in F.C.C. v. Paci-
+38 fica Foundation (1978) that indecent content that is "patently offensive" or
+39 "vulgar, offensive, and shocking ... is not entitled to absolute constitu-
+40 tional protection under all circumstances."
+41 (16) The Pacifica court found that indecency "has a separate meaning"
+42 from obscenity, in that obscenity requires prurient appeal but that "pruri-
+43 ent appeal" is not an "essential component of indecent language."
+44 (17) The Pacifica court treated federal communications commission reg-
+45 ulations prohibiting indecent broadcast monologues "at times of the day when
+46 there is a reasonable risk that children may be in the audience" as a consti-
+47 tutionally permissible example of a time, place, and manner regulation.
+48 (18) The Pacifica court affirmed that through time, place, and manner
+49 regulations, indecent "expression may be withheld from the young without re-
+50 stricting the expression at its source."
+
+3
+1 (19) Time, place, and manner regulations on indecent live shows, exhi-
+2 bitions, or performances that both involve sexual conduct and are patently
+3 offensive to an average person applying contemporary community standards in
+4 the adult community as a whole with respect to what is suitable for minors are
+5 constitutionally permissible when there is a reasonable risk that children
+6 may be in the audience and alternative avenues of communication still exist.
+7 (20) The supreme court of the United States concluded in City of Ren-
+8 ton v. Playtime Theatres, Inc. (1986) that a municipal zoning ordinance re-
+9 stricting the location of adult movie theaters should be "properly analyzed
+10 as a form of time, place, and manner regulation."
+11 (21) The Renton court concluded that the municipal zoning ordinance,
+12 despite its content-based restriction on adult movies, should be treated as
+13 content-neutral because it was "aimed not at the content of the films shown
+14 at adult motion picture theatres, but rather at the secondary effects of such
+15 theaters on the surrounding community."
+16 (22) The Renton court upheld the municipal zoning ordinance as consti-
+17 tutionally permissible because it "serve[d] a substantial governmental in-
+18 terest and allow[ed] for reasonable alternative avenues of communication."
+19 (23) Sexually explicit shows, exhibitions, or performances when chil-
+20 dren are present, like material harmful to minors, are a "contributing fac-
+21 tor to crime, to juvenile crime, and also a basic factor in impairing the
+22 ethical and moral development of our youth," as detailed in section 18-1513,
+23 Idaho Code.
+24 (24) Sexually explicit shows, exhibitions, or performances when chil-
+25 dren are present, like when children are exposed to pornographic materials,
+26 are correlated with a number of social problems, including but not limited
+27 to juvenile delinquency, sexual violence, sexual deviancy, risky and unsafe
+28 sexual behavior, and impaired moral and ethical development.
+29 (25) These negative secondary effects would be combated by a time,
+30 place, and manner regulation on live shows, exhibitions, or performances
+31 that both involve sexual conduct and are patently offensive to an average
+32 person applying contemporary community standards in the adult community as a
+33 whole with respect to what is suitable for minors.
+34 6-3902. CIVIL ACTION. (1) Any person or institution that knowingly or-
+35 ganizes, hosts, or performs in a show, exhibition, or performance by a live
+36 person before a live audience must take reasonable steps to restrict the ac-
+37 cess of minors if:
+38 (a) The person or institution has reason to believe that minors are
+39 likely to be present;
+40 (b) The show, exhibition, or performance involves live persons engaged
+41 in sexual conduct; and
+42 (c) The show, exhibition, or performance is patently offensive to an
+43 average person applying contemporary community standards in the adult
+44 community as a whole with respect to what is suitable for minors.
+45 (2)(a) Any minor who is exposed to sexual conduct as a result of a vi-
+46 olation of subsection (1) of this section shall have a private cause of
+47 action against the person or institution that failed to take reasonable
+48 steps to restrict the access of minors.
+
+4
+1 (b) Any civil action arising under this section shall be commenced ac-
+2 cording to the provisions of section 5-230, Idaho Code.
+3 (c) Any minor who prevails in an action brought pursuant to this sec-
+4 tion may recover five thousand dollars ($5,000) in statutory damages
+5 for each violation of this section. The minor may also recover monetary
+6 damages from the defendant for all psychological, emotional, economic,
+7 and physical harm suffered.
+8 (d) Any minor who prevails in an action brought pursuant to this section
+9 is entitled to recover reasonable attorney's fees and costs from the de-
+10 fendant.
+11 (e) It shall be an affirmative defense to an action brought pursuant to
+12 the provisions of this section when:
+13 (i) The defendant is a host if such host is able to produce a
+14 legally enforceable contract signed by the event organizers, per-
+15 formers, or an authorized agent working on behalf of the event
+16 organizers or performers when such contract stipulates that per-
+17 formers at the event shall not engage in an exhibition, show, or
+18 performance that violates the requirements of subsection (1) of
+19 this section while using the facilities provided by the host;
+20 (ii) The parent or legal guardian of a minor fourteen (14) years
+21 of age or older accompanies such minor to a ticketed show, exhi-
+22 bition, or performance or has provided prior written consent for
+23 such minor to attend a ticketed show, exhibition, or performance
+24 in the company of a designated adult; or
+25 (iii) The defendant had reasonable cause to believe that the minor
+26 involved was eighteen (18) years of age or older, or such minor
+27 exhibited to the defendant a draft card, driver's license, birth
+28 certificate, or other official or apparently official document
+29 purporting to establish that the minor was eighteen (18) years of
+30 age or older.
+31 (f) It shall not be a defense to an action brought pursuant to this
+32 section that the minor was accompanied by the minor's parent or legal
+33 guardian, except as provided in paragraph (e)(ii) of this subsection.
+34 (3) When either the attorney general or the county prosecuting attor-
+35 ney for the jurisdiction has reason to believe that any person or institution
+36 is violating, has violated, or is about to violate the requirements of sub-
+37 section (1) of this section, the attorney general or such county prosecuting
+38 attorney shall have a cause of action for injunctive relief. The injunction
+39 shall be sufficient to prevent the defendant from violating the requirements
+40 of this section.
+41 (4) For purposes of this section:
+42 (a) "Host" means to knowingly provide the facilities for a show, ex-
+43 hibition, or performance involving live persons engaged in sexual con-
+44 duct.
+45 (b) "Minor" means any person less than eighteen (18) years of age.
+46 (c) "Organize" means to knowingly participate in the planning for a
+47 show, exhibition, or performance involving live persons engaged in sex-
+48 ual conduct.
+49 (d)(i) "Sexual conduct" means:
+
+5
+1 1. Acts, whether actual or simulated, of masturbation,
+2 sexual intercourse, or physical contact with a person's un-
+3 clothed genitals or pubic area;
+4 2. Sexually explicit depictions of acts described in sub-
+5 paragraph (i)1. of this paragraph; or
+6 3. Sexually provocative dances or gestures performed with
+7 accessories that exaggerate male or female primary or sec-
+8 ondary sexual characteristics.
+9 (ii) "Sexual conduct" shall not include dances or gestures per-
+10 formed by an athletic, cheer, or dance team maintained or spon-
+11 sored by a secondary school or an institution of higher education,
+12 provided that the dances or gestures are performed in association
+13 with or in conjunction with an interscholastic, intercollegiate,
+14 intramural, or club athletic event featuring teams that are spon-
+15 sored by the secondary school or the institution of higher educa-
+16 tion.
+17 (5) The provisions of this section are hereby declared to be severable
+18 and if any provision of this section or the application of such provision to
+19 any person or circumstance is declared invalid for any reason, such declara-
+20 tion shall not affect the validity of the remaining portions of this section.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect thirty days fol-
+23 lowing signature by the Governor.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOITSLE;AGTE6,IOC,BEANOFANWCR3,TE6,IOC,TOPELEFSADTOEHPSRGACLADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr3,Te6,IoC,adtordasfR3TSLES--CLA.LEF.Telefsadd)TefeshceofteftattotecfteUdSspstt"sslmenolw..agtefmofs"adtesectofteUdSshsadtesetosegsthtefha)IneyAnfeshj,teseoffhpswsldoytotertofeyiltys,w,adphhss,onals,bgrefrteaeofttr"asedbyeyAnltJsKtinhscsonAnl)Ctwhtsnlrtofeymntoskfn9,aeIoftecnofteseofIogt"ypnmyfys,weadphonals,bgrefrteaeofttl)EyAnfeshjeaor,asaejeJhSyedinhscsontecfteUdS,tt"naerttos,orw,orprhemtp,wtayry..isasowdtobeidbyayrlm)InlkcsleSgv.PeofSeofC)adU.v.On(,tesectofteUdSredteseoffeshpstoiecttsidtoesam)TesectofteUdSsedinYgv.AnMiT,I.()tt"dssofp,nomrhwctintectinwhtyaem,aessqdbycydsbeteaeltoftesdpsr]
+[DELETED: )TesectofteUdSsadinRdvnfrAcadIlR,I.()ttftpnfrctes"ytoctttisi)TesectofteUdSsadinCyofDsvn()tt"tispetofdseklofeninateyayapnus..btshaklisntsttobgteaywntepnofteFtA)Sdctprseisntedtoftatp,aspdinEev.CyofE,99Fd67(hC)TesectofteUdSsedinTsv.Jn()ttaheectmydesefes,"egtgyhsafrhdinrgeecttnithsinrgtewnorsnw)Enwnsdctisiye,testofteUdSshsryfdttsdetismereurteftattotecnoeUdSstnors,eywnsharncsoyademsinone,aspdinCyofEevsA,59U.2,29()Beteisasladcggtinpgtepladplwgofm,sdeectisenmerewnteisarkttcnwlbeintea,astesectofteUshsryr)AstesectofteUdSsadinRovnClLsUn(,"eisacgitigtepladplwgofmswhedtosgtmfmitmsttaentoebya)Sdeectisenmerewnceedth"s..pcd,udmdormsofe"ttteogcd"snomytoa"asedbytesectofteUdSnSev.F.()TesectofteUdSscdinF.v.PaFn()ttitctttis"yo"o,o,adsg..isntedtoaeclpnuralc)TePactfdttiy"sasemmo,inttoyrsptalbttt"ta"isntan"lctofitl)TePacttdflcscnrspgitbtms"ttsoftedyweisarerkttcnmybeintea"asacypeeeofat,p,admrr)TePactadtttht,p,adm,it"nmybewdfmteygwtrgteenatiss]
+[DELETED: )T,p,admrrsonitles,e,orpsttbhieslctadaepetoanaepnagcycyssieatcyasawewhrttowtissefrmsaypewnteisarerkttcybeinteaeadaeasofcnsle)TesectofteUdSscdinCyofRnv.PeT,I.()ttamlzgoergtelnofatmetssdbe"yasafmoft,p,admrr)TeRnctcdtttemlzgoeiscdrnonatm,sdbetdalbeitws"dntattectoftefsstatmnpet,btrrattesyesofssontesgc)TeRnctudtemlzgoeascypebeit"]aslglitada]frreaeasofc)Syets,e,orpswncnaep,lemlhltom,aea"gfrtoc,tojec,adaoabcfrinigtladmldtofory"asddinsn1oC)Syets,e,orpswncnaep,lewncnaeedtopcmecdwhanrofslp,igbtntlojed,slv,sld,ryadulb,adidmladeld)Tenesyeswdbecdbyat,admrrnonles,e,orptbhieslctadaepyoetoananagcycyssinteatcyasewhrttowtissefrm.CLA.()Aypnorinttkyo,h,orpsinas,e,orpebyalnbealeaemtteresstortteasofmsi)Tepnorinhsrntobettmsaytobep)Tes,e,orpeislepsenslc;a)Tes,e,orpeispyoetoaepnagcycyssinteayasawewhrttowtissefrm)Aymrwoisedtoslctasartofavnofsn()oftssnslheapeceonattepnorinttfdtoterstortteasofm]
+[DELETED: )Ayclanagurtssnslbecdagtotepsofsn5,IoC)Aymrwopsinananbtpttotssnmyrrfetdds()insydrehvnoftss.Temrmyaorrmsfmtedtfralp,e,edplhms)Aymrwopsinananbtpttotsssedtorrreasfsadcsfmted)Itslbeanaedetoananbtpttepsoftssnw)Tedtisahtifshhtisaetopeyeectsdbyteeto,p,oranadatwgonbfofteesorpswnshctssttpsatteetslnteeinane,s,oettvstersofsn()ossnweugtefspdbyteh)Teptorllgnofamrfn()yfaeororasshmrtoatds,e,orpeorhspdprwnctfhmrtoadatds,e,orpntecyofadda;o)Tedthdrecetobetttemdwsen()ysofaeoro,orshmdtotedtadtc,dsl,b,ororolorayoldgtoehtttemrwsen()ysoeoro)Itslntbeadetoananbtpttotntttemrwsadbytemsptorl,etaspdinph()oftss)Wnerteayglortecypgayfrtejnhsrntobettaypnorisv,hsv,orisattovetersofsn()oftss,teayglorshcypyslheaceofanfrier.Teilbesttopttedtfmvgterftss)Frpsoftss)""mstokypetefsfras,e,orpeiglepsedinslc)""msaypnlstnen()ysofa)""mstokypeintepgfr,e,orpeiglepsedinslc)"lc"m]
+[DELETED: .A,wralors,ofmli,orplctwhapsudgsorpca.Syetdsofasddinsh(.oftsp;o.Sypedsorgspdwstteemeorfepyorsyslc)"lc"slntiedsorgspdbyana,c,ordetmmdorsdbyasysloraninofhredtttedsorgsaepdinahorincnwhani,i,orcbacetfgtsttaesdbytesyslorteinofhre)Tepsoftssnaehyddtobesdifaypnoftssnorteanofshpntypnorceisddidfrayr,shdnslntattevyoftergpsoftssN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadettydsfgsebyteG]

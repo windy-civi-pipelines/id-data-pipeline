@@ -1,0 +1,376 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 361
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO HOMEOWNER'S ASSOCIATIONS; PROVIDING LEGISLATIVE INTENT; AMEND-
+3 ING SECTION 55-3203, IDAHO CODE, TO DEFINE TERMS AND TO REVISE A DEFINI-
+4 TION; AMENDING CHAPTER 32, TITLE 55, IDAHO CODE, BY THE ADDITION OF A NEW
+5 SECTION 55-3204A, IDAHO CODE, TO PROVIDE FOR A PERIOD OF DECLARANT CON-
+6 TROL; AMENDING CHAPTER 32, TITLE 55, IDAHO CODE, BY THE ADDITION OF A NEW
+7 SECTION 55-3204B, IDAHO CODE, TO PROVIDE FOR RESTRICTIONS ON BOARD MEM-
+8 BERSHIP AND TO PROVIDE FOR PROXY VOTES; AMENDING SECTION 55-3205, IDAHO
+9 CODE, TO REVISE PROVISIONS REGARDING DISCLOSURE OF FEES AND FINANCIAL
+10 DISCLOSURES AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMER-
+11 GENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. LEGISLATIVE INTENT. The Legislature recognizes the signifi-
+14 cant and rapid population growth in the State of Idaho that has occurred for
+15 more than a decade and the corresponding increase of residential develop-
+16 ments and homeowner's associations. The Legislature finds and declares that
+17 this legislation is necessary to protect the property rights, reasonable ex-
+18 pectations, and welfare of the citizens and residents of this state who own
+19 property and are members of homeowner's associations.
+20 SECTION 2. That Section 55-3203, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 55-3203. DEFINITIONS. As used in this chapter:
+23 (1) "Board" means the entity that has the duty of governing the home-
+24 owner's association and may be referred to as a board of directors, executive
+25 board, or any other such similar name.
+26 (2) "Community manager" means a person or agent who provides for or oth-
+27 erwise engages in the management of a common interest community or the man-
+28 agement of a homeowner's association.
+29 (3) "Declarant" means an individual or entity filing a declaration in
+30 association with a residential subdivision.
+31 (4) "Declaration" means an instrument filed in the real property
+32 records of a county that includes restrictive covenants governing a residen-
+33 tial subdivision.
+34 (3) (5) "Financial disclosure" means the accounting records of the or-
+35 ganization that are kept, disclosed, and made available for inspection in
+36 accordance with part 11, chapter 30, title 30, Idaho Code, and the governing
+37 documents of the homeowner's association.
+38 (4) (6) "Governing documents" means a written instrument by which the
+39 homeowner's association may exercise powers or manage, maintain, or other-
+40 wise affect the property under the jurisdiction of the homeowner's associa-
+41 tion. Governing documents includes but is not limited to articles of incor-
+2
+1 poration, bylaws, a plat, rules of the homeowner's association, and any dec-
+2 laration of covenants, conditions, and restrictions.
+3 (5) (7)(a) "Homeowner's association" means any incorporated or unin-
+4 corporated residential association:
+5 (i) In which membership is based on owning or possessing an inter-
+6 est in real property; and
+7 (ii) That has the authority, pursuant to recorded covenants, by-
+8 laws, or other governing documents, to assess and record liens
+9 against the real property of its members.
+10 (b) "Homeowner's association" includes the following persons who may
+11 or may not be members of a homeowner's association or serve on the board
+12 of a homeowner's association:
+13 (i) A community manager pursuant to a contract with a homeowner's
+14 association; and
+15 (ii) An agent or person with explicit or apparent authority to act
+16 on behalf of a homeowner's association.
+17 (6) (8) "Member" or "membership" means any person or entity owning or
+18 possessing an interest in residential real property or a lot within the phys-
+19 ical boundaries of an established homeowner's association.
+20 (9) "Owner" means a person who holds record title to property in a resi-
+21 dential subdivision and includes an agent of a person who holds record title
+22 to property in a residential subdivision.
+23 (6) (10) "Transfer fee" means a fee, charge, or assessment, as that term
+24 is described in chapter 31, title 55, Idaho Code, charged by the homeowner's
+25 association and payable to the homeowner's association upon the transfer
+26 of an interest in real property that is under the jurisdiction of the home-
+27 owner's association.
+28 SECTION 3. That Chapter 32, Title 55, Idaho Code, be, and the same is
+29 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+30 ignated as Section 55-3204A, Idaho Code, and to read as follows:
+31 55-3204A. HOMEOWNER'S ASSOCIATIONS -- POWERS -- DUTIES -- ENFORCE-
+32 MENT. For any homeowner's association formed after July 1, 2025, the follow-
+33 ing provisions shall apply:
+34 (1)(a) The governing documents may provide for a period of declarant
+35 control of the homeowner's association, during which a declarant, or
+36 persons designated by the declarant, may appoint and remove board mem-
+37 bers and officers of the homeowner's association. If the governing
+38 documents permit owner election of board members or officers during the
+39 period of declarant control, such board members or officers elected by
+40 owners may not be removed by the declarant.
+41 (b) Regardless of the period of declarant control provided by the gov-
+42 erning documents, on or before one hundred eighty (180) days after the
+43 date on which seventy-five percent (75%) of the lots are conveyed to
+44 owners other than the declarant or a builder in the business of con-
+45 structing homes that purchased the lots from the declarant for the
+46 purpose of selling completed homes built on the lots, at least one-third
+47 (1/3) of the positions on the homeowner's association board shall be
+48 offered for members elected by owners other than the declarant.
+3
+1 (c) Once ninety-five percent (95%) of a development is built and occu-
+2 pied, the declarant shall begin the process of turning over full con-
+3 trol of the homeowner's association to the owners and shall complete the
+4 process within twelve (12) months of such date.
+5 (2) The provisions in subsection (1) of this section shall apply to the
+6 transfer of board control and do not affect other declarant rights as set
+7 forth in the declaration. The declarant shall retain architectural review
+8 authority during the period of declarant control, except as otherwise speci-
+9 fied in the declaration.
+10 (3) If a declarant fails or refuses to comply with subsection (1) of
+11 this section, an adversely affected owner may seek injunctive relief to re-
+12 quire compliance within thirty (30) days of sending a written notice to the
+13 declarant.
+14 SECTION 4. That Chapter 32, Title 55, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 55-3204B, Idaho Code, and to read as follows:
+17 55-3204B. RESTRICTIONS ON BOARD MEMBERSHIP -- PROXY VOTES. (1) Except
+18 during the period of declarant control of the homeowner's association pur-
+19 suant to section 55-3204A, Idaho Code, only one (1) owner per lot shall serve
+20 concurrently on the board of a homeowner's association.
+21 (2) Votes allocated to the owners may be cast under a written proxy duly
+22 executed by the owner, pursuant to the provisions of the Idaho nonprofit cor-
+23 poration act under part 5, chapter 30, title 30, Idaho Code, except:
+24 (a) No single owner may hold proxies representing more than fifty per-
+25 cent (50%) of the total votes in the homeowner's association; and
+26 (b) A person may not serve on the board of a homeowner's association if
+27 the person is a member of the same household in the same primary resi-
+28 dence as another board member of the homeowner's association.
+29 (3) The provisions of subsection (2) of this section shall not apply to
+30 a homeowner's association with fewer than twenty (20) residences or during
+31 the declarant control period of the homeowner's association.
+32 SECTION 5. That Section 55-3205, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 55-3205. DISCLOSURE OF FEES AND FINANCIAL DISCLOSURES. (1) A home-
+35 owner's association or its agent must shall provide a member and the member's
+36 agent, if any, a statement of the member's assessment account no more than
+37 five (5) business days after a written request by the member or the member's
+38 agent is received by the manager, president, board member, or other agent of
+39 the homeowner's association, or any combination thereof. The homeowner's
+40 association will be bound by the amounts set forth within the statement of
+41 assessment account. The statement of assessment account shall include all
+42 outstanding assessments, charges, and fees, including any transfer fee,
+43 that are due and owing to the homeowner's association, including any late
+44 fees or interest that may have accrued. Additionally, the homeowner's asso-
+45 ciation shall provide the amount of any transfer fee that may be charged upon
+46 a transfer of the property. No fee may shall be charged by a homeowner's as-
+47 sociation or its agent for providing a statement of the member's assessment
+4
+1 account. Charging a fee for any statement of the member's assessment account
+2 required by this section is a violation of the Idaho consumer protection act,
+3 chapter 6, title 48, Idaho Code.
+4 (2) A homeowner's association may shall not charge a transfer fee
+5 unless the authority to do so is expressly stated in the declaration of
+6 covenants, conditions, and restrictions. The transfer fee may shall be
+7 charged only by the homeowner's association, and no portion of the transfer
+8 fee may be paid to or allocated to a third party, including any board member
+9 or the homeowner's association's agent or manager. On or before January 1
+10 of each year, a homeowner's association or its agent must shall provide its
+11 members a disclosure of fees that will be charged to a member. Fees imposed
+12 by a homeowner's association for the calendar year following the disclosure
+13 of fees may shall not exceed the amount set forth on the annual disclosure,
+14 and no surcharge or additional fees may shall be charged to any member in
+15 connection with any transfer of ownership of his property.
+16 (3) A homeowner's association or its agent must shall provide a member
+17 and the member's agent, if any, an up-to-date updated financial disclosure
+18 no more than ten (10) business days after a request by the member or the mem-
+19 ber's agent is received by the manager, president, board member, or other
+20 agent of the homeowner's association, or any combination thereof.
+21 (4) Within sixty (60) days of the close of the fiscal year, a home-
+22 owner's association or its agent must shall provide all members of the
+23 organization, and each member's agent, if any, with an up-to-date updated
+24 and reconciled financial disclosure for the fiscal year.
+25 (5) Except as otherwise provided in this section, each homeowner's as-
+26 sociation shall be subject to the records and reports requirements of the
+27 Idaho nonprofit corporation act under part 11, chapter 30, title 30, Idaho
+28 Code.
+29 SECTION 6. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOHSA;PGLEI;AGSN5,IOC,TODETSADTOREAD;AGCR3,TE5,IOC,BYTEANOFANN5,IOC,TOPEFRAPDOFDTC;AGCR3,TE5,IOC,BYTEANOFANN5,IOC,TOPEFRRSONBDMPADTOPEFRPYV;AGSN5,I,TOREPSRGDEOFFSADFSADTOMETLC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.TeLerstestadrdpnghinteSeofIotthsodfetnadeadtecgieofrldsadhsa.TeLefsaddstslnisnytopttepyr,ree,adweoftecsadrsoftssewooyadaemsofhsaN2.TtSn5,IoC,b,adteseishdtordasf.D.Asudintsc)""msteeytthstedyofggtehsanadmyberdtoasabdofd,e,orayorshsrn)"ym"msapnoratwopsfroroeesintemtofacnitcyortemtofahsa)""msaniloreyfgadninwharls)""msanitfdinterlpsofacyttisrecsggarls)()"ld"msteagrsofteonttaek,d,admeaefriniewhpt1,cr3,te3,IoC,adtegsoftehsa)()"gd"msawnitbywhtsanmyeepsorm,m,oroeattepyurtejnoftehsa.Ggdsisbtisntldtoasofi]
+[DELETED: ,b,ap,rsoftehsa,adaydnofc,c,adr)()"sa"msayidorudrla)Inwhmpisbdonogorpganitinrlp;a)Tthstea,pttordc,b,ororggd,toasadrdltterlpyofism)"sa"istefgpswomrmyntbemsofahsanorseontebfahsa)Acymrpttoactwhah;a)Anatorpnwhetorataytoanbfofahsa)()""or""msaypnoreyogoganitinrlrlpyoraltwnteplbsofanedhsa)""msapnwohsrdtetopyinarlsnadisanatofapnwohsrdtopyinarls)()"rf"msaf,c,ora,astttsddincr3,te5,IoC,cdbytehnadpetotehsanuntetfanitinrlpyttisurtejnoftehsaN3.TtCr3,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.HSAS--PS--DS--E.FrayhsanfdarJy1,2,tefgpssla)Teggdsmypefrapdofdloftehsa,dgwhad,osddbyted,myatadrebdmsadosoftehsa.Iftegsptorenofbdmsorosdgtdofdtc,shbdmsorosedbsmyntberdbyted)Rsoftepdofdtclpdbyteggd,onorbeoehdey()dsarteonwhsept()oftelsaecdtsortntedtorabrintebsofcghsttpdtelsfmtedtfrteofsgcdhsbtontel,atlto)oftepsontehsanbdslbdfrmsedbyosortnted]
+[DELETED: )Oenept()ofadtisbtado,tedtslbntepsoftgorflcloftehsantoteosadslcetswnte()msofshd)Tepsinsn()oftssnslaytotrofbdcladdontatordtrsasshinted.Tedtslrnalrydgtepdofdtc,etasoesdinted)Ifadtfsorrstocywhsn()oss,anayadormyskierftorecewnty()dsofsgawnnetotN4.TtCr3,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.RSONBDMP--PYV.()Egtepdofdtcloftehsanpttosn5,IoC,oyoe()orprltslsyontebdofahsa)Vsadtoteosmybecturawnpyddbyteo,pttotepsofteIontcnaturpt5,cr3,te3,IoC,e)Noseormyhdpsrgmetnfypt()oftetlvsintehsa;a)Apnmyntseontebdofahsaniepnisamroftesehdintesepyreasarbdmroftehsa)Tepsofsn()oftssnslntaythsanwhfrtnty()rsordedtclpdoftehsaN5.TtSn5,IoC,b,adteseishdtordasf.DEOFFSADFLD.()Ahsanorisatmtslpeamradtem,ifa,astoftemsatatnomete()bsdsarawnrtbytemrortemtisrdbytem,p,bdm,ororatoehsa,oraycnt.Tehnwlbebdbyteasstfhwntestota.Testofatatslieaga,c,adf,igaytrftaedeadogtotehsa,igaylsoritttmyhea.A,tehsanslpeteatofaytrfettmybecdutroftep.Nofemyslbecdbyahsanorisatfrpgastoftemsa]
+[DELETED: .CgafefraystoftemsatadbytssnisavnofteIocrpnar6,te4,IoC)Ahsanmyslntceatrfsteaytodosoiseysdintedno,c,adr.Tetrfemyslbdoybytehsa,adnopnoftetemybepdtooradtoatdp,igaybdmrtehsasatorm.OnorbeJyfehy,ahsanorisatmtslpeisadeoffsttwlbecdtoam.Fsiyahsanfrtecryrfgtedffsmyslntedteatstfhontealddnoseoralfsmyslbecdtoaymrinwhaytrofopofhsp)Ahsanorisatmtslpeamdtemsa,ifa,anueudfldometntn()bsdsarartbytemrortemsatisrdbytem,p,bdm,orotoftehsa,oraycnt)Wnsy()dsofteceoftefly,ahsanorisatmtslpealmsoft,adehmsa,ifa,whanueudrdfldefrtefly)Etasoepdintss,ehhsanslbesttotersadrsrsoftontcnaturpt1,cr3,te3,IN6.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 361
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO HOMEOWNER'S ASSOCIATIONS; PROVIDING LEGISLATIVE INTENT; AMEND-
+3 ING SECTION 55-3203, IDAHO CODE, TO DEFINE TERMS AND TO REVISE A DEFINI-
+4 TION; AMENDING CHAPTER 32, TITLE 55, IDAHO CODE, BY THE ADDITION OF A NEW
+5 SECTION 55-3204A, IDAHO CODE, TO PROVIDE FOR A PERIOD OF DECLARANT CON-
+6 TROL; AMENDING CHAPTER 32, TITLE 55, IDAHO CODE, BY THE ADDITION OF A NEW
+7 SECTION 55-3204B, IDAHO CODE, TO PROVIDE FOR RESTRICTIONS ON BOARD MEM-
+8 BERSHIP AND TO PROVIDE FOR PROXY VOTES; AMENDING SECTION 55-3205, IDAHO
+9 CODE, TO REVISE PROVISIONS REGARDING DISCLOSURE OF FEES AND FINANCIAL
+10 DISCLOSURES AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMER-
+11 GENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. LEGISLATIVE INTENT. The Legislature recognizes the signifi-
+14 cant and rapid population growth in the State of Idaho that has occurred for
+15 more than a decade and the corresponding increase of residential develop-
+16 ments and homeowner's associations. The Legislature finds and declares that
+17 this legislation is necessary to protect the property rights, reasonable ex-
+18 pectations, and welfare of the citizens and residents of this state who own
+19 property and are members of homeowner's associations.
+20 SECTION 2. That Section 55-3203, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 55-3203. DEFINITIONS. As used in this chapter:
+23 (1) "Board" means the entity that has the duty of governing the home-
+24 owner's association and may be referred to as a board of directors, executive
+25 board, or any other such similar name.
+26 (2) "Community manager" means a person or agent who provides for or oth-
+27 erwise engages in the management of a common interest community or the man-
+28 agement of a homeowner's association.
+29 (3) "Declarant" means an individual or entity filing a declaration in
+30 association with a residential subdivision.
+31 (4) "Declaration" means an instrument filed in the real property
+32 records of a county that includes restrictive covenants governing a residen-
+33 tial subdivision.
+34 (3) (5) "Financial disclosure" means the accounting records of the or-
+35 ganization that are kept, disclosed, and made available for inspection in
+36 accordance with part 11, chapter 30, title 30, Idaho Code, and the governing
+37 documents of the homeowner's association.
+38 (4) (6) "Governing documents" means a written instrument by which the
+39 homeowner's association may exercise powers or manage, maintain, or other-
+40 wise affect the property under the jurisdiction of the homeowner's associa-
+41 tion. Governing documents includes but is not limited to articles of incor-
+
+2
+1 poration, bylaws, a plat, rules of the homeowner's association, and any dec-
+2 laration of covenants, conditions, and restrictions.
+3 (5) (7)(a) "Homeowner's association" means any incorporated or unin-
+4 corporated residential association:
+5 (i) In which membership is based on owning or possessing an inter-
+6 est in real property; and
+7 (ii) That has the authority, pursuant to recorded covenants, by-
+8 laws, or other governing documents, to assess and record liens
+9 against the real property of its members.
+10 (b) "Homeowner's association" includes the following persons who may
+11 or may not be members of a homeowner's association or serve on the board
+12 of a homeowner's association:
+13 (i) A community manager pursuant to a contract with a homeowner's
+14 association; and
+15 (ii) An agent or person with explicit or apparent authority to act
+16 on behalf of a homeowner's association.
+17 (6) (8) "Member" or "membership" means any person or entity owning or
+18 possessing an interest in residential real property or a lot within the phys-
+19 ical boundaries of an established homeowner's association.
+20 (9) "Owner" means a person who holds record title to property in a resi-
+21 dential subdivision and includes an agent of a person who holds record title
+22 to property in a residential subdivision.
+23 (6) (10) "Transfer fee" means a fee, charge, or assessment, as that term
+24 is described in chapter 31, title 55, Idaho Code, charged by the homeowner's
+25 association and payable to the homeowner's association upon the transfer
+26 of an interest in real property that is under the jurisdiction of the home-
+27 owner's association.
+28 SECTION 3. That Chapter 32, Title 55, Idaho Code, be, and the same is
+29 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+30 ignated as Section 55-3204A, Idaho Code, and to read as follows:
+31 55-3204A. HOMEOWNER'S ASSOCIATIONS -- POWERS -- DUTIES -- ENFORCE-
+32 MENT. For any homeowner's association formed after July 1, 2025, the follow-
+33 ing provisions shall apply:
+34 (1)(a) The governing documents may provide for a period of declarant
+35 control of the homeowner's association, during which a declarant, or
+36 persons designated by the declarant, may appoint and remove board mem-
+37 bers and officers of the homeowner's association. If the governing
+38 documents permit owner election of board members or officers during the
+39 period of declarant control, such board members or officers elected by
+40 owners may not be removed by the declarant.
+41 (b) Regardless of the period of declarant control provided by the gov-
+42 erning documents, on or before one hundred eighty (180) days after the
+43 date on which seventy-five percent (75%) of the lots are conveyed to
+44 owners other than the declarant or a builder in the business of con-
+45 structing homes that purchased the lots from the declarant for the
+46 purpose of selling completed homes built on the lots, at least one-third
+47 (1/3) of the positions on the homeowner's association board shall be
+48 offered for members elected by owners other than the declarant.
+
+3
+1 (c) Once ninety-five percent (95%) of a development is built and occu-
+2 pied, the declarant shall begin the process of turning over full con-
+3 trol of the homeowner's association to the owners and shall complete the
+4 process within twelve (12) months of such date.
+5 (2) The provisions in subsection (1) of this section shall apply to the
+6 transfer of board control and do not affect other declarant rights as set
+7 forth in the declaration. The declarant shall retain architectural review
+8 authority during the period of declarant control, except as otherwise speci-
+9 fied in the declaration.
+10 (3) If a declarant fails or refuses to comply with subsection (1) of
+11 this section, an adversely affected owner may seek injunctive relief to re-
+12 quire compliance within thirty (30) days of sending a written notice to the
+13 declarant.
+14 SECTION 4. That Chapter 32, Title 55, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 55-3204B, Idaho Code, and to read as follows:
+17 55-3204B. RESTRICTIONS ON BOARD MEMBERSHIP -- PROXY VOTES. (1) Except
+18 during the period of declarant control of the homeowner's association pur-
+19 suant to section 55-3204A, Idaho Code, only one (1) owner per lot shall serve
+20 concurrently on the board of a homeowner's association.
+21 (2) Votes allocated to the owners may be cast under a written proxy duly
+22 executed by the owner, pursuant to the provisions of the Idaho nonprofit cor-
+23 poration act under part 5, chapter 30, title 30, Idaho Code, except:
+24 (a) No single owner may hold proxies representing more than fifty per-
+25 cent (50%) of the total votes in the homeowner's association; and
+26 (b) A person may not serve on the board of a homeowner's association if
+27 the person is a member of the same household in the same primary resi-
+28 dence as another board member of the homeowner's association.
+29 (3) The provisions of subsection (2) of this section shall not apply to
+30 a homeowner's association with fewer than twenty (20) residences or during
+31 the declarant control period of the homeowner's association.
+32 SECTION 5. That Section 55-3205, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 55-3205. DISCLOSURE OF FEES AND FINANCIAL DISCLOSURES. (1) A home-
+35 owner's association or its agent must shall provide a member and the member's
+36 agent, if any, a statement of the member's assessment account no more than
+37 five (5) business days after a written request by the member or the member's
+38 agent is received by the manager, president, board member, or other agent of
+39 the homeowner's association, or any combination thereof. The homeowner's
+40 association will be bound by the amounts set forth within the statement of
+41 assessment account. The statement of assessment account shall include all
+42 outstanding assessments, charges, and fees, including any transfer fee,
+43 that are due and owing to the homeowner's association, including any late
+44 fees or interest that may have accrued. Additionally, the homeowner's asso-
+45 ciation shall provide the amount of any transfer fee that may be charged upon
+46 a transfer of the property. No fee may shall be charged by a homeowner's as-
+47 sociation or its agent for providing a statement of the member's assessment
+
+4
+1 account. Charging a fee for any statement of the member's assessment account
+2 required by this section is a violation of the Idaho consumer protection act,
+3 chapter 6, title 48, Idaho Code.
+4 (2) A homeowner's association may shall not charge a transfer fee
+5 unless the authority to do so is expressly stated in the declaration of
+6 covenants, conditions, and restrictions. The transfer fee may shall be
+7 charged only by the homeowner's association, and no portion of the transfer
+8 fee may be paid to or allocated to a third party, including any board member
+9 or the homeowner's association's agent or manager. On or before January 1
+10 of each year, a homeowner's association or its agent must shall provide its
+11 members a disclosure of fees that will be charged to a member. Fees imposed
+12 by a homeowner's association for the calendar year following the disclosure
+13 of fees may shall not exceed the amount set forth on the annual disclosure,
+14 and no surcharge or additional fees may shall be charged to any member in
+15 connection with any transfer of ownership of his property.
+16 (3) A homeowner's association or its agent must shall provide a member
+17 and the member's agent, if any, an up-to-date updated financial disclosure
+18 no more than ten (10) business days after a request by the member or the mem-
+19 ber's agent is received by the manager, president, board member, or other
+20 agent of the homeowner's association, or any combination thereof.
+21 (4) Within sixty (60) days of the close of the fiscal year, a home-
+22 owner's association or its agent must shall provide all members of the
+23 organization, and each member's agent, if any, with an up-to-date updated
+24 and reconciled financial disclosure for the fiscal year.
+25 (5) Except as otherwise provided in this section, each homeowner's as-
+26 sociation shall be subject to the records and reports requirements of the
+27 Idaho nonprofit corporation act under part 11, chapter 30, title 30, Idaho
+28 Code.
+29 SECTION 6. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOHSA;PGLEI;AGSN5,IOC,TODETSADTOREAD;AGCR3,TE5,IOC,BYTEANOFANN5,IOC,TOPEFRAPDOFDTC;AGCR3,TE5,IOC,BYTEANOFANN5,IOC,TOPEFRRSONBDMPADTOPEFRPYV;AGSN5,I,TOREPSRGDEOFFSADFSADTOMETLC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.TeLerstestadrdpnghinteSeofIotthsodfetnadeadtecgieofrldsadhsa.TeLefsaddstslnisnytopttepyr,ree,adweoftecsadrsoftssewooyadaemsofhsaN2.TtSn5,IoC,b,adteseishdtordasf.D.Asudintsc)""msteeytthstedyofggtehsanadmyberdtoasabdofd,e,orayorshsrn)"ym"msapnoratwopsfroroeesintemtofacnitcyortemtofahsa)""msaniloreyfgadninwharls)""msanitfdinterlpsofacyttisrecsggarls)()"ld"msteagrsofteonttaek,d,admeaefriniewhpt1,cr3,te3,IoC,adtegsoftehsa)()"gd"msawnitbywhtsanmyeepsorm,m,oroeattepyurtejnoftehsa.Ggdsisbtisntldtoasofi]
+[DELETED: ,b,ap,rsoftehsa,adaydnofc,c,adr)()"sa"msayidorudrla)Inwhmpisbdonogorpganitinrlp;a)Tthstea,pttordc,b,ororggd,toasadrdltterlpyofism)"sa"istefgpswomrmyntbemsofahsanorseontebfahsa)Acymrpttoactwhah;a)Anatorpnwhetorataytoanbfofahsa)()""or""msaypnoreyogoganitinrlrlpyoraltwnteplbsofanedhsa)""msapnwohsrdtetopyinarlsnadisanatofapnwohsrdtopyinarls)()"rf"msaf,c,ora,astttsddincr3,te5,IoC,cdbytehnadpetotehsanuntetfanitinrlpyttisurtejnoftehsaN3.TtCr3,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.HSAS--PS--DS--E.FrayhsanfdarJy1,2,tefgpssla)Teggdsmypefrapdofdloftehsa,dgwhad,osddbyted,myatadrebdmsadosoftehsa.Iftegsptorenofbdmsorosdgtdofdtc,shbdmsorosedbsmyntberdbyted)Rsoftepdofdtclpdbyteggd,onorbeoehdey()dsarteonwhsept()oftelsaecdtsortntedtorabrintebsofcghsttpdtelsfmtedtfrteofsgcdhsbtontel,atlto)oftepsontehsanbdslbdfrmsedbyosortnted]
+[DELETED: )Oenept()ofadtisbtado,tedtslbntepsoftgorflcloftehsantoteosadslcetswnte()msofshd)Tepsinsn()oftssnslaytotrofbdcladdontatordtrsasshinted.Tedtslrnalrydgtepdofdtc,etasoesdinted)Ifadtfsorrstocywhsn()oss,anayadormyskierftorecewnty()dsofsgawnnetotN4.TtCr3,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.RSONBDMP--PYV.()Egtepdofdtcloftehsanpttosn5,IoC,oyoe()orprltslsyontebdofahsa)Vsadtoteosmybecturawnpyddbyteo,pttotepsofteIontcnaturpt5,cr3,te3,IoC,e)Noseormyhdpsrgmetnfypt()oftetlvsintehsa;a)Apnmyntseontebdofahsaniepnisamroftesehdintesepyreasarbdmroftehsa)Tepsofsn()oftssnslntaythsanwhfrtnty()rsordedtclpdoftehsaN5.TtSn5,IoC,b,adteseishdtordasf.DEOFFSADFLD.()Ahsanorisatmtslpeamradtem,ifa,astoftemsatatnomete()bsdsarawnrtbytemrortemtisrdbytem,p,bdm,ororatoehsa,oraycnt.Tehnwlbebdbyteasstfhwntestota.Testofatatslieaga,c,adf,igaytrftaedeadogtotehsa,igaylsoritttmyhea.A,tehsanslpeteatofaytrfettmybecdutroftep.Nofemyslbecdbyahsanorisatfrpgastoftemsa]
+[DELETED: .CgafefraystoftemsatadbytssnisavnofteIocrpnar6,te4,IoC)Ahsanmyslntceatrfsteaytodosoiseysdintedno,c,adr.Tetrfemyslbdoybytehsa,adnopnoftetemybepdtooradtoatdp,igaybdmrtehsasatorm.OnorbeJyfehy,ahsanorisatmtslpeisadeoffsttwlbecdtoam.Fsiyahsanfrtecryrfgtedffsmyslntedteatstfhontealddnoseoralfsmyslbecdtoaymrinwhaytrofopofhsp)Ahsanorisatmtslpeamdtemsa,ifa,anueudfldometntn()bsdsarartbytemrortemsatisrdbytem,p,bdm,orotoftehsa,oraycnt)Wnsy()dsofteceoftefly,ahsanorisatmtslpealmsoft,adehmsa,ifa,whanueudrdfldefrtefly)Etasoepdintss,ehhsanslbesttotersadrsrsoftontcnaturpt1,cr3,te3,IN6.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

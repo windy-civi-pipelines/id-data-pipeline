@@ -1,0 +1,439 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 178
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO HIGHER EDUCATION; AMENDING TITLE 33, IDAHO CODE, BY THE ADDITION
+3 OF A NEW CHAPTER 68, TITLE 33, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO
+4 PROVIDE LEGISLATIVE FINDINGS, TO DEFINE TERMS, TO ESTABLISH PROVISIONS
+5 REGARDING EXPRESSIVE ACTIVITIES IN OUTDOOR AREAS OF CAMPUSES, TO ESTAB-
+6 LISH PROVISIONS REGARDING FREE EXPRESSIVE ACTIVITY, SECURITY FEES, AND
+7 HARASSMENT POLICIES, TO PROVIDE FOR FREE SPEECH EDUCATION, TO REQUIRE
+8 CERTAIN REPORTS, TO PROVIDE REMEDIES, TO PROVIDE LIMITATIONS AND EXCLU-
+9 SIONS, TO PROVIDE A STATUTE OF LIMITATIONS, AND TO PROVIDE SEVERABIL-
+10 ITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Title 33, Idaho Code, be, and the same is hereby amended
+13 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+14 ter 68, Title 33, Idaho Code, and to read as follows:
+15 CHAPTER 68
+16 PROTECTING CAMPUS FREE SPEECH IN HIGHER EDUCATION ACT
+17 33-6801. SHORT TITLE. This chapter shall be known and may be cited as
+18 the "Protecting Campus Free Speech in Higher Education Act."
+19 33-6802. LEGISLATIVE FINDINGS. The legislature finds that:
+20 (1) The first amendment to the United States constitution and the con-
+21 stitution of the state of Idaho protect the rights of freedom of speech,
+22 freedom of the press, freedom of religion, freedom of association, and free-
+23 dom to petition the government for all people;
+24 (2) The United States Supreme Court, in Healy v. James, described
+25 public universities as "peculiarly the marketplace of ideas," where young
+26 adults learn to exercise the constitutional rights necessary to participate
+27 in this system of government and to tolerate others' exercise of the same
+28 rights, and there is "no room for the view that ... first amendment protec-
+29 tions should apply with less force on college campuses than in the community
+30 at large";
+31 (3) The exercise of first amendment rights on the campuses of public in-
+32 stitutions of higher education in this state is a critical component of the
+33 education experience for students and requires that each public institution
+34 of higher education ensures free, robust, and uninhibited debate and delib-
+35 erations by students whether on or off campus;
+36 (4) The United States Supreme Court warned in Sweezy v. New Hampshire
+37 that if public universities stifle student speech and prevent the open ex-
+38 change of ideas on campus, "our civilization will stagnate and die"; and
+39 (5) A significant amount of taxpayer dollars is appropriated to pub-
+40 lic institutions of higher education each year and, as such, the legislature
+2
+1 must ensure that all public institutions of higher education receiving state
+2 funds continue to recognize freedom of speech as a fundamental right for all.
+3 33-6803. DEFINITIONS. As used in this chapter:
+4 (1) "Benefit" means the recognition, registration, or use of fa-
+5 cilities of an institution of higher education for meetings or speaking
+6 purposes, use of channels of communication, and use of funding sources that
+7 are otherwise available to other student organizations at the public insti-
+8 tution of higher education.
+9 (2) "Harassment" means expression that is unwelcome and so severe,
+10 pervasive, and subjectively and objectively offensive that a student is
+11 effectively denied equal access to educational opportunities or benefits
+12 provided by a public institution of higher education.
+13 (3) "Materially and substantially disrupts" means the act of doing one
+14 (1) or more of the following:
+15 (a) Materially disrupting the operation or functions of the public in-
+16 stitution of higher education;
+17 (b) Materially disrupting or preventing the communication of a message
+18 of another individual or group; or
+19 (c) Preventing a lawful meeting, gathering, or procession by:
+20 (i) Engaging in fighting, violence, or other unlawful behavior;
+21 or
+22 (ii) Physically blocking or threatening or inciting violence to
+23 prevent an individual from attending, listening to, viewing, or
+24 participating in a protected expressive activity.
+25 (4) "Outdoor areas of campus" means the generally accessible outside
+26 areas of campus where students, administrators, faculty, staff, and invited
+27 guests are commonly allowed, such as grassy areas, plazas, or other similar
+28 common areas, and does not include outdoor areas of campus to which access by
+29 the public is restricted.
+30 (5) "Protected expressive activity" means noncommercial speech or
+31 conduct protected by the first amendment to the constitution of the United
+32 States, including:
+33 (a) Communicating by any lawful verbal, written, audio-visual, or
+34 electronic means;
+35 (b) Participating in peaceful assembly;
+36 (c) Protesting and counter-protesting;
+37 (d) Making speeches, including speeches of guest speakers;
+38 (e) Distributing literature;
+39 (f) Carrying signs;
+40 (g) Circulating petitions; and
+41 (h) Distributing pamphlets and other literature.
+42 (6) "Public institution of higher education" means a state institution
+43 of higher education or a community college organized pursuant to chapter 21,
+44 title 33, Idaho Code.
+45 (7) "Student" means any person who is enrolled on a full-time or part-
+46 time basis in a public institution of higher education.
+47 (8) "Student organization" means an officially recognized group at a
+48 public institution of higher education or a group seeking official recog-
+49 nition, comprised of admitted students that receive, or are seeking to re-
+3
+1 ceive, benefits through the institution of higher education as defined in
+2 this section.
+3 33-6804. OUTDOOR AREAS. Public institutions of higher education shall
+4 not create free speech zones or other designated outdoor areas of campus
+5 outside of which non-commercial, protected expressive activities are pro-
+6 hibited. Public institutions of higher education may maintain and enforce
+7 reasonable time, place, and manner restrictions applicable to the outdoor
+8 areas of campus that are narrowly tailored in service of a significant in-
+9 stitutional interest only when such restrictions employ content-neutral
+10 and viewpoint-neutral criteria and provide for ample alternative means of
+11 expression. Any such restrictions shall allow for students and student or-
+12 ganizations to spontaneously and contemporaneously assemble and distribute
+13 literature. Nothing in this section may be interpreted as limiting the right
+14 of non-commercial student expression elsewhere on campus. Nothing in this
+15 chapter may be interpreted as applying to employee relations matters or
+16 claims related to employment discrimination or harassment in employment.
+17 33-6805. FREE EXPRESSIVE ACTIVITY -- SECURITY FEES -- HARASSMENT POL-
+18 ICY REQUIRED. (1) Except as otherwise permitted by the first amendment to
+19 the United States constitution, and by section 9, article I of the consti-
+20 tution of the state of Idaho, no public institution of higher education shall
+21 abridge the protected expressive activity of any member of the campus commu-
+22 nity to speak on campus.
+23 (2) No public institution of higher education shall charge security
+24 fees to a student or a student organization based on the content of the stu-
+25 dent's or organization's expression, the content of the expression of the
+26 student's or organization's invited guest, or the anticipated reaction to an
+27 invited guest's expression.
+28 (3) All public institutions of higher education shall maintain a
+29 policy prohibiting student-on-student harassment, as defined in section
+30 33-6803(2), Idaho Code.
+31 33-6806. FREE SPEECH EDUCATION FOR MEMBERS OF THE CAMPUS COMMU-
+32 NITY. Public institutions of higher education are required to make public in
+33 their handbooks, on their websites, and through their orientation programs
+34 for students the laws, policies, and expectations of students regarding free
+35 expression on campus consistent with this chapter.
+36 33-6807. REPORTS. (1) No later than December 1, 2025, each public in-
+37 stitution of higher education must publicly post on its website, as well as
+38 submit to the governor and the legislative services office a report regard-
+39 ing the institution's policies for implementing the requirements of this
+40 chapter. A supplemental report shall also be given in the instance of any
+41 changes or updates to such policies.
+42 (2) If a claim or complaint is filed against a public institution of
+43 higher education alleging an unlawful unconditional limitation on the pro-
+44 tected activities set forth in this chapter, a supplementary report with a
+45 copy of the claim, complaint, or any amended complaint shall be submitted
+46 to the state board of education within thirty (30) days of the filing of the
+4
+1 claim, complaint, or amended complaint. No later than January 14 each year,
+2 the state board of education shall create a report compiling non-privileged
+3 information subject to and lawful for public disclosure pursuant to this
+4 section and submit the report to the governor and the legislative services
+5 office for access by members of the legislature.
+6 (3) Nothing in this chapter shall be interpreted as requiring the in-
+7 stitution to include any information from a student's education record that
+8 would be prohibited from public disclosure by the family educational rights
+9 and privacy act or any employee's personnel information that is prohibited
+10 from public disclosure by section 74-106(1), Idaho Code.
+11 33-6808. REMEDIES. (1) Subject to all provisions and limitations
+12 contained in the Idaho tort claims act, chapter 9, title 6, Idaho Code, any
+13 student or student organization may bring an action against a public insti-
+14 tution of higher education and any of its employees, acting in their official
+15 capacities, for a violation of the student's or student organization's
+16 rights under this chapter.
+17 (2) Before pursuing relief under this section, a claimant must provide
+18 prior written notice of any alleged violation to the public institution of
+19 higher education. If the public institution of higher education fails to
+20 cure the allegation violation(s) within thirty (30) days, the claimant may
+21 bring an action as described herein. The thirty (30) day period to cure shall
+22 not count for purposes of calculating the statute of limitations.
+23 (3) If a court in an action under this section finds that a public in-
+24 stitution of higher education has violated the rights of a student or student
+25 organization under this chapter, the court may award:
+26 (a) Injunctive relief;
+27 (b) Compensatory damages not to exceed twenty-five thousand dollars
+28 ($25,000);
+29 (c) Nominal damages;
+30 (d) Reasonable court costs; and
+31 (e) Attorney's fees.
+32 33-6809. LIMITATIONS AND EXCLUSIONS. The provisions of this chapter
+33 shall not:
+34 (1) Prevent a public institution of higher education from prohibiting,
+35 limiting, or restricting commercial activity or commercial speech;
+36 (2) Prevent a public institution of higher education from prohibit-
+37 ing, limiting, or restricting expression that is not protected by the first
+38 amendment to the constitution of the United States, including true threats
+39 or expression directed to provoke imminent lawless action and likely to pro-
+40 duce imminent lawless action;
+41 (3) Prevent a public institution of higher education from prohibiting
+42 harassment as defined in section 33-6803(2), Idaho Code; or
+43 (4) Allow an individual to engage in conduct that materially and sub-
+44 stantially disrupts the protected expressive activity of another individual
+45 occurring in a space on campus reserved for the other individual's protected
+46 expressive activity under the exclusive use or control of a particular group
+47 or student organization.
+5
+1 33-6810. STATUTE OF LIMITATIONS. A student or organization is re-
+2 quired to bring suit for a violation of this chapter no later than one (1)
+3 year after the day the cause of action accrues. For purposes of calculating
+4 the one (1) year limitation period, each day that the violation persists and
+5 each day that a policy in violation of this section remains in effect consti-
+6 tutes a new day that the cause of action has accrued.
+7 33-6811. SEVERABILITY. The provisions of this chapter are hereby de-
+8 clared to be severable, and if any provision of this chapter or the applica-
+9 tion of such provision to any person or circumstance is declared invalid for
+10 any reason, such declaration shall not affect the validity of the remaining
+11 portions of this chapter.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YENCNAGTOHRE;AGTE3,IOC,BYTEAFANWCR6,TE3,IOC,TOPEASTT,TELEF,TODET,TOEHPGEEASINORASOFC,TOEHPSRGFEEEA,SYF,ATP,TOPEFRFESHE,TORNR,TOPER,TOPELSADE,TOPEASEOFL,ADTOPES;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6GCSFESHINHRENA.STT.Tscrslbeknadmybecdae"gCsFeShinHrEnA.LEF.Telefst)TeftattoteUdSscnadtecnofteseofIopttersoffmofsmoftep,fmofr,fmofa,adfmtopntegtfralp)TeUdSsSeC,inHyv.J,dcusas"ytemeofi"weyslntoeeteclrsnytopntssmofgtadtoteo'eeoftes,adteis"ormfrtevwtt..ftatpssdaywhlsfeoncecstnintectl)Teeeofftatrsontecsofpcisofhrenintsseisaclctoftneefrssadrsttehpcifhrenesf,r,aduddeaddsbysswronorofc)TeUdSsSeCtwdinSyv.NwHtifpcussestshadptteoneeofisonc,"rcnwlseadd;a)Astatoftrdsisadtopcisofhrenehyra,ass,tel]
+[DELETED: teettalpcisofhrenrgsscetorefmofshasaflrtfra.D.Asudintsc)""mster,r,orueoffsofaninofhrenfrmsors,ueofcsofc,adueoffgssteoeaetoorstosattepcinofhre)""msenttisueadsos,adsyadoyoettastiyddelastoelosorbdbyapcinofhre)"yadsyd"msteatofdgo)ormeoftef)Mydgteonorfsoftepcinofhre)Mydgorpgtecnofamfarilorg;o)Pgallm,g,orpnb)Eginf,v,ororulb)Pybgortgorigvettanilfma,lgt,v,oginapdeea)"rasofc"mstegyaeosofcswes,a,f,s,adisaecya,shasgya,p,ororsna,addsntieorasofcstowhasbepcisr)"deea"msnlshotpdbyteftattotecnofteU,i)Cgbyayllv,w,a,ocm)Pginpla)Pgadc)Mgs,igssofgts)Dgl)Cgs)Cgp;a)Dgpsadorl)"cinofhre"msaseifhrenoracyceodpttocr2e3,IoC)""msaypnwoisedonafeorpebsinapcinofhre)"to"msanoyrdgpatcinofhrenoragpsgolr,cdofadssttr,oraesgtor]
+[DELETED: ,bsthteinofhrenasddiss.ORA.Pcisofhrenstcefeshzsororddorasofceofwhn,pdeeasaep.Pcisofhrenmymnadeet,p,admrrsaetoteosofcsttaenytdinseofastilitoywnshrseycdvlcaadpefraeaemso.Ayshrsslawfrssadstostosyadcyaeadd.Ngintssnmybeidaslgterfnlsteneeonc.Ngintrmybeidasagtoeersmsosrdtoetdnorhtine.FEEEAY--SYFS--HTPYR.()EtasoepdbyteftatteUdSsc,adbysn9,aeIoftecnofteseofI,nopcinofhrensetepdeeayofaymroftecscytoskonc)Nopcinofhrenslcesstoastorastonbdontectoftessorose,tectofteenoftsorosidg,orteadrntoadgse)Alpcisofhrenslmnypgsth,asddins,IoC.FESHENFRMSOFTECSC.Pcisofhrenaerdtomepcirh,ontrw,adthtronprsstel,p,adesofssrgfnoncsctwhtsc.R.()NolrtnDr1,2,ehpcinofhrenmtpyptonisw,aswlattotegradtelessoeartrgteispsfrigtersoft.Aslrtslaobegninteieofasorustoshp)Ifacmorctisfdatapcinorenaganulullnontepdasstfhintsc,asyrtwhyoftec,c,orayadctslbesotesebdofenwnty()dsoftefgoft]
+[DELETED: ,c,oradc.NolrtnJy14ehyesebdofenslceartcgnnsttoadllfrpcdepttotnadstterttotegradtelesefrasbymsoftel)Ngintscrslbeidasrgteintoieayinfmassenrdtdbepdfmpcdebytefyelrdpyatorayesplinttispmpcdebysn7,IoC.R.()SttoalpsadldinteIottcsa,cr9,te6,IoC,atorstonmybgananatapcinofhrenadayofise,agintro,fravnoftessorstosurtsc)Bepgrfurtss,actmtprwnneofayadvntotepcinore.Iftepcinofhrenfsteteanv)wnty()d,tectmgananasddh.Tety()dypdtocestctfrpsofcgteseofl)Ifactinananurtssnfsttapcinofhrenhsvdtersofastorsnurtsc,tectmya)Ier)Cydsnttoedtetdd)Nld)Rectc;a)Asf.LSADE.Tepsoftscln)Ptapcinofhrenfmp,orrgclayorcls)Ptapcinofhrenfmp,l,orrgenttisntpdbytefttotecnofteUdS,igtetrenddtopeitlsanadlytopeitlsa)Ptapcinofhrenfmptasddinsn3,IoC;o)Awaniltoeeinctttmyadsydstepdeeayofariginaseoncsrdfrteorispeayurteeeueorclofaprgrsto]
+[DELETED: .SEOFL.Astoronisrdtobgstfravnoftscrnolrtnoe(rartedyteceofana.Frpsofceoe()yrlnp,ehdytttevnpsahdyttapyinvnoftssnrsinetcsanwdyttteceofanhsa.S.Tepsoftscraehyddtobes,adifaypnoftscrorteanofshpntoaypnorceisddidfyr,shdnslntattevyoftersoftscN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 178
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO HIGHER EDUCATION; AMENDING TITLE 33, IDAHO CODE, BY THE ADDITION
+3 OF A NEW CHAPTER 68, TITLE 33, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO
+4 PROVIDE LEGISLATIVE FINDINGS, TO DEFINE TERMS, TO ESTABLISH PROVISIONS
+5 REGARDING EXPRESSIVE ACTIVITIES IN OUTDOOR AREAS OF CAMPUSES, TO ESTAB-
+6 LISH PROVISIONS REGARDING FREE EXPRESSIVE ACTIVITY, SECURITY FEES, AND
+7 HARASSMENT POLICIES, TO PROVIDE FOR FREE SPEECH EDUCATION, TO REQUIRE
+8 CERTAIN REPORTS, TO PROVIDE REMEDIES, TO PROVIDE LIMITATIONS AND EXCLU-
+9 SIONS, TO PROVIDE A STATUTE OF LIMITATIONS, AND TO PROVIDE SEVERABIL-
+10 ITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Title 33, Idaho Code, be, and the same is hereby amended
+13 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+14 ter 68, Title 33, Idaho Code, and to read as follows:
+15 CHAPTER 68
+16 PROTECTING CAMPUS FREE SPEECH IN HIGHER EDUCATION ACT
+17 33-6801. SHORT TITLE. This chapter shall be known and may be cited as
+18 the "Protecting Campus Free Speech in Higher Education Act."
+19 33-6802. LEGISLATIVE FINDINGS. The legislature finds that:
+20 (1) The first amendment to the United States constitution and the con-
+21 stitution of the state of Idaho protect the rights of freedom of speech,
+22 freedom of the press, freedom of religion, freedom of association, and free-
+23 dom to petition the government for all people;
+24 (2) The United States Supreme Court, in Healy v. James, described
+25 public universities as "peculiarly the marketplace of ideas," where young
+26 adults learn to exercise the constitutional rights necessary to participate
+27 in this system of government and to tolerate others' exercise of the same
+28 rights, and there is "no room for the view that ... first amendment protec-
+29 tions should apply with less force on college campuses than in the community
+30 at large";
+31 (3) The exercise of first amendment rights on the campuses of public in-
+32 stitutions of higher education in this state is a critical component of the
+33 education experience for students and requires that each public institution
+34 of higher education ensures free, robust, and uninhibited debate and delib-
+35 erations by students whether on or off campus;
+36 (4) The United States Supreme Court warned in Sweezy v. New Hampshire
+37 that if public universities stifle student speech and prevent the open ex-
+38 change of ideas on campus, "our civilization will stagnate and die"; and
+39 (5) A significant amount of taxpayer dollars is appropriated to pub-
+40 lic institutions of higher education each year and, as such, the legislature
+
+2
+1 must ensure that all public institutions of higher education receiving state
+2 funds continue to recognize freedom of speech as a fundamental right for all.
+3 33-6803. DEFINITIONS. As used in this chapter:
+4 (1) "Benefit" means the recognition, registration, or use of fa-
+5 cilities of an institution of higher education for meetings or speaking
+6 purposes, use of channels of communication, and use of funding sources that
+7 are otherwise available to other student organizations at the public insti-
+8 tution of higher education.
+9 (2) "Harassment" means expression that is unwelcome and so severe,
+10 pervasive, and subjectively and objectively offensive that a student is
+11 effectively denied equal access to educational opportunities or benefits
+12 provided by a public institution of higher education.
+13 (3) "Materially and substantially disrupts" means the act of doing one
+14 (1) or more of the following:
+15 (a) Materially disrupting the operation or functions of the public in-
+16 stitution of higher education;
+17 (b) Materially disrupting or preventing the communication of a message
+18 of another individual or group; or
+19 (c) Preventing a lawful meeting, gathering, or procession by:
+20 (i) Engaging in fighting, violence, or other unlawful behavior;
+21 or
+22 (ii) Physically blocking or threatening or inciting violence to
+23 prevent an individual from attending, listening to, viewing, or
+24 participating in a protected expressive activity.
+25 (4) "Outdoor areas of campus" means the generally accessible outside
+26 areas of campus where students, administrators, faculty, staff, and invited
+27 guests are commonly allowed, such as grassy areas, plazas, or other similar
+28 common areas, and does not include outdoor areas of campus to which access by
+29 the public is restricted.
+30 (5) "Protected expressive activity" means noncommercial speech or
+31 conduct protected by the first amendment to the constitution of the United
+32 States, including:
+33 (a) Communicating by any lawful verbal, written, audio-visual, or
+34 electronic means;
+35 (b) Participating in peaceful assembly;
+36 (c) Protesting and counter-protesting;
+37 (d) Making speeches, including speeches of guest speakers;
+38 (e) Distributing literature;
+39 (f) Carrying signs;
+40 (g) Circulating petitions; and
+41 (h) Distributing pamphlets and other literature.
+42 (6) "Public institution of higher education" means a state institution
+43 of higher education or a community college organized pursuant to chapter 21,
+44 title 33, Idaho Code.
+45 (7) "Student" means any person who is enrolled on a full-time or part-
+46 time basis in a public institution of higher education.
+47 (8) "Student organization" means an officially recognized group at a
+48 public institution of higher education or a group seeking official recog-
+49 nition, comprised of admitted students that receive, or are seeking to re-
+
+3
+1 ceive, benefits through the institution of higher education as defined in
+2 this section.
+3 33-6804. OUTDOOR AREAS. Public institutions of higher education shall
+4 not create free speech zones or other designated outdoor areas of campus
+5 outside of which non-commercial, protected expressive activities are pro-
+6 hibited. Public institutions of higher education may maintain and enforce
+7 reasonable time, place, and manner restrictions applicable to the outdoor
+8 areas of campus that are narrowly tailored in service of a significant in-
+9 stitutional interest only when such restrictions employ content-neutral
+10 and viewpoint-neutral criteria and provide for ample alternative means of
+11 expression. Any such restrictions shall allow for students and student or-
+12 ganizations to spontaneously and contemporaneously assemble and distribute
+13 literature. Nothing in this section may be interpreted as limiting the right
+14 of non-commercial student expression elsewhere on campus. Nothing in this
+15 chapter may be interpreted as applying to employee relations matters or
+16 claims related to employment discrimination or harassment in employment.
+17 33-6805. FREE EXPRESSIVE ACTIVITY -- SECURITY FEES -- HARASSMENT POL-
+18 ICY REQUIRED. (1) Except as otherwise permitted by the first amendment to
+19 the United States constitution, and by section 9, article I of the consti-
+20 tution of the state of Idaho, no public institution of higher education shall
+21 abridge the protected expressive activity of any member of the campus commu-
+22 nity to speak on campus.
+23 (2) No public institution of higher education shall charge security
+24 fees to a student or a student organization based on the content of the stu-
+25 dent's or organization's expression, the content of the expression of the
+26 student's or organization's invited guest, or the anticipated reaction to an
+27 invited guest's expression.
+28 (3) All public institutions of higher education shall maintain a
+29 policy prohibiting student-on-student harassment, as defined in section
+30 33-6803(2), Idaho Code.
+31 33-6806. FREE SPEECH EDUCATION FOR MEMBERS OF THE CAMPUS COMMU-
+32 NITY. Public institutions of higher education are required to make public in
+33 their handbooks, on their websites, and through their orientation programs
+34 for students the laws, policies, and expectations of students regarding free
+35 expression on campus consistent with this chapter.
+36 33-6807. REPORTS. (1) No later than December 1, 2025, each public in-
+37 stitution of higher education must publicly post on its website, as well as
+38 submit to the governor and the legislative services office a report regard-
+39 ing the institution's policies for implementing the requirements of this
+40 chapter. A supplemental report shall also be given in the instance of any
+41 changes or updates to such policies.
+42 (2) If a claim or complaint is filed against a public institution of
+43 higher education alleging an unlawful unconditional limitation on the pro-
+44 tected activities set forth in this chapter, a supplementary report with a
+45 copy of the claim, complaint, or any amended complaint shall be submitted
+46 to the state board of education within thirty (30) days of the filing of the
+
+4
+1 claim, complaint, or amended complaint. No later than January 14 each year,
+2 the state board of education shall create a report compiling non-privileged
+3 information subject to and lawful for public disclosure pursuant to this
+4 section and submit the report to the governor and the legislative services
+5 office for access by members of the legislature.
+6 (3) Nothing in this chapter shall be interpreted as requiring the in-
+7 stitution to include any information from a student's education record that
+8 would be prohibited from public disclosure by the family educational rights
+9 and privacy act or any employee's personnel information that is prohibited
+10 from public disclosure by section 74-106(1), Idaho Code.
+11 33-6808. REMEDIES. (1) Subject to all provisions and limitations
+12 contained in the Idaho tort claims act, chapter 9, title 6, Idaho Code, any
+13 student or student organization may bring an action against a public insti-
+14 tution of higher education and any of its employees, acting in their official
+15 capacities, for a violation of the student's or student organization's
+16 rights under this chapter.
+17 (2) Before pursuing relief under this section, a claimant must provide
+18 prior written notice of any alleged violation to the public institution of
+19 higher education. If the public institution of higher education fails to
+20 cure the allegation violation(s) within thirty (30) days, the claimant may
+21 bring an action as described herein. The thirty (30) day period to cure shall
+22 not count for purposes of calculating the statute of limitations.
+23 (3) If a court in an action under this section finds that a public in-
+24 stitution of higher education has violated the rights of a student or student
+25 organization under this chapter, the court may award:
+26 (a) Injunctive relief;
+27 (b) Compensatory damages not to exceed twenty-five thousand dollars
+28 ($25,000);
+29 (c) Nominal damages;
+30 (d) Reasonable court costs; and
+31 (e) Attorney's fees.
+32 33-6809. LIMITATIONS AND EXCLUSIONS. The provisions of this chapter
+33 shall not:
+34 (1) Prevent a public institution of higher education from prohibiting,
+35 limiting, or restricting commercial activity or commercial speech;
+36 (2) Prevent a public institution of higher education from prohibit-
+37 ing, limiting, or restricting expression that is not protected by the first
+38 amendment to the constitution of the United States, including true threats
+39 or expression directed to provoke imminent lawless action and likely to pro-
+40 duce imminent lawless action;
+41 (3) Prevent a public institution of higher education from prohibiting
+42 harassment as defined in section 33-6803(2), Idaho Code; or
+43 (4) Allow an individual to engage in conduct that materially and sub-
+44 stantially disrupts the protected expressive activity of another individual
+45 occurring in a space on campus reserved for the other individual's protected
+46 expressive activity under the exclusive use or control of a particular group
+47 or student organization.
+
+5
+1 33-6810. STATUTE OF LIMITATIONS. A student or organization is re-
+2 quired to bring suit for a violation of this chapter no later than one (1)
+3 year after the day the cause of action accrues. For purposes of calculating
+4 the one (1) year limitation period, each day that the violation persists and
+5 each day that a policy in violation of this section remains in effect consti-
+6 tutes a new day that the cause of action has accrued.
+7 33-6811. SEVERABILITY. The provisions of this chapter are hereby de-
+8 clared to be severable, and if any provision of this chapter or the applica-
+9 tion of such provision to any person or circumstance is declared invalid for
+10 any reason, such declaration shall not affect the validity of the remaining
+11 portions of this chapter.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YENCNAGTOHRE;AGTE3,IOC,BYTEAFANWCR6,TE3,IOC,TOPEASTT,TELEF,TODET,TOEHPGEEASINORASOFC,TOEHPSRGFEEEA,SYF,ATP,TOPEFRFESHE,TORNR,TOPER,TOPELSADE,TOPEASEOFL,ADTOPES;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6GCSFESHINHRENA.STT.Tscrslbeknadmybecdae"gCsFeShinHrEnA.LEF.Telefst)TeftattoteUdSscnadtecnofteseofIopttersoffmofsmoftep,fmofr,fmofa,adfmtopntegtfralp)TeUdSsSeC,inHyv.J,dcusas"ytemeofi"weyslntoeeteclrsnytopntssmofgtadtoteo'eeoftes,adteis"ormfrtevwtt..ftatpssdaywhlsfeoncecstnintectl)Teeeofftatrsontecsofpcisofhrenintsseisaclctoftneefrssadrsttehpcifhrenesf,r,aduddeaddsbysswronorofc)TeUdSsSeCtwdinSyv.NwHtifpcussestshadptteoneeofisonc,"rcnwlseadd;a)Astatoftrdsisadtopcisofhrenehyra,ass,tel]
+[DELETED: teettalpcisofhrenrgsscetorefmofshasaflrtfra.D.Asudintsc)""mster,r,orueoffsofaninofhrenfrmsors,ueofcsofc,adueoffgssteoeaetoorstosattepcinofhre)""msenttisueadsos,adsyadoyoettastiyddelastoelosorbdbyapcinofhre)"yadsyd"msteatofdgo)ormeoftef)Mydgteonorfsoftepcinofhre)Mydgorpgtecnofamfarilorg;o)Pgallm,g,orpnb)Eginf,v,ororulb)Pybgortgorigvettanilfma,lgt,v,oginapdeea)"rasofc"mstegyaeosofcswes,a,f,s,adisaecya,shasgya,p,ororsna,addsntieorasofcstowhasbepcisr)"deea"msnlshotpdbyteftattotecnofteU,i)Cgbyayllv,w,a,ocm)Pginpla)Pgadc)Mgs,igssofgts)Dgl)Cgs)Cgp;a)Dgpsadorl)"cinofhre"msaseifhrenoracyceodpttocr2e3,IoC)""msaypnwoisedonafeorpebsinapcinofhre)"to"msanoyrdgpatcinofhrenoragpsgolr,cdofadssttr,oraesgtor]
+[DELETED: ,bsthteinofhrenasddiss.ORA.Pcisofhrenstcefeshzsororddorasofceofwhn,pdeeasaep.Pcisofhrenmymnadeet,p,admrrsaetoteosofcsttaenytdinseofastilitoywnshrseycdvlcaadpefraeaemso.Ayshrsslawfrssadstostosyadcyaeadd.Ngintssnmybeidaslgterfnlsteneeonc.Ngintrmybeidasagtoeersmsosrdtoetdnorhtine.FEEEAY--SYFS--HTPYR.()EtasoepdbyteftatteUdSsc,adbysn9,aeIoftecnofteseofI,nopcinofhrensetepdeeayofaymroftecscytoskonc)Nopcinofhrenslcesstoastorastonbdontectoftessorose,tectofteenoftsorosidg,orteadrntoadgse)Alpcisofhrenslmnypgsth,asddins,IoC.FESHENFRMSOFTECSC.Pcisofhrenaerdtomepcirh,ontrw,adthtronprsstel,p,adesofssrgfnoncsctwhtsc.R.()NolrtnDr1,2,ehpcinofhrenmtpyptonisw,aswlattotegradtelessoeartrgteispsfrigtersoft.Aslrtslaobegninteieofasorustoshp)Ifacmorctisfdatapcinorenaganulullnontepdasstfhintsc,asyrtwhyoftec,c,orayadctslbesotesebdofenwnty()dsoftefgoft]
+[DELETED: ,c,oradc.NolrtnJy14ehyesebdofenslceartcgnnsttoadllfrpcdepttotnadstterttotegradtelesefrasbymsoftel)Ngintscrslbeidasrgteintoieayinfmassenrdtdbepdfmpcdebytefyelrdpyatorayesplinttispmpcdebysn7,IoC.R.()SttoalpsadldinteIottcsa,cr9,te6,IoC,atorstonmybgananatapcinofhrenadayofise,agintro,fravnoftessorstosurtsc)Bepgrfurtss,actmtprwnneofayadvntotepcinore.Iftepcinofhrenfsteteanv)wnty()d,tectmgananasddh.Tety()dypdtocestctfrpsofcgteseofl)Ifactinananurtssnfsttapcinofhrenhsvdtersofastorsnurtsc,tectmya)Ier)Cydsnttoedtetdd)Nld)Rectc;a)Asf.LSADE.Tepsoftscln)Ptapcinofhrenfmp,orrgclayorcls)Ptapcinofhrenfmp,l,orrgenttisntpdbytefttotecnofteUdS,igtetrenddtopeitlsanadlytopeitlsa)Ptapcinofhrenfmptasddinsn3,IoC;o)Awaniltoeeinctttmyadsydstepdeeayofariginaseoncsrdfrteorispeayurteeeueorclofaprgrsto]
+[DELETED: .SEOFL.Astoronisrdtobgstfravnoftscrnolrtnoe(rartedyteceofana.Frpsofceoe()yrlnp,ehdytttevnpsahdyttapyinvnoftssnrsinetcsanwdyttteceofanhsa.S.Tepsoftscraehyddtobes,adifaypnoftscrorteanofshpntoaypnorceisddidfyr,shdnslntattevyoftersoftscN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

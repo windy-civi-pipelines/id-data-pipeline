@@ -1,0 +1,392 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1183
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO WILDFIRE MITIGATION STANDARD OF CARE; AMENDING TITLE 61, IDAHO
+3 CODE, BY THE ADDITION OF A NEW CHAPTER 18, TITLE 61, IDAHO CODE, TO ES-
+4 TABLISH PROVISIONS REGARDING WILDFIRE MITIGATION STANDARD OF CARE; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 61, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 18, Title 61, Idaho Code, and to read as follows:
+10 CHAPTER 18
+11 WILDFIRE STANDARD OF CARE ACT
+12 61-1801. SHORT TITLE. This chapter shall be known and may be cited as
+13 the "Wildfire Standard of Care Act."
+14 61-1802. LEGISLATIVE INTENT. In enacting this chapter, it is the in-
+15 tent of the legislature to provide for the safe, efficient, and reliable
+16 generation, transmission, and distribution of electric power at affordable
+17 rates and in such ways that protect the public interest, health, safety, and
+18 welfare. The legislature recognizes that the public utilities commission
+19 oversees electric corporation compliance with applicable Idaho statutes
+20 and regulations, and, when applicable, the state-adopted provisions of
+21 the national electric safety code. It further recognizes that preparation
+22 for and response to wildfire risk is an increasingly important element of
+23 planning conducted by electric utilities. Proper preparation is crucial to
+24 position electric utilities to avoid and respond to wildfire risk. Knowing
+25 what measures should be taken to minimize wildfire risk before a fire occurs
+26 and to respond to it when it does occur is central to the affordable, safe,
+27 and reliable transmission and distribution of electricity. It is essential
+28 to ensure these risks are addressed as needed and within appropriate cost
+29 parameters so that electric power is kept affordable to the public. This
+30 chapter is designed to direct the prudent use of resources by electric util-
+31 ities to mitigate and respond to wildfire risk within the costs that can be
+32 justified as just and reasonable in order to keep rates affordable to utility
+33 customers and protect Idaho residents and their property.
+34 61-1803. WILDFIRE MITIGATION PLANS. (1) For the purposes of this chap-
+35 ter, "commission" means the Idaho public utilities commission.
+36 (2)(a) Each electric corporation that is a public utility as defined
+37 in sections 61-119 and 61-129, Idaho Code, shall adopt and file a wild-
+38 fire mitigation plan with the commission for its review and approval
+2
+1 pursuant to section 61-1804, Idaho Code. The commission may order the
+2 plans be filed at a date determined by it and may stagger filing dates.
+3 (b) An electric corporation that is not a public utility, including but
+4 not limited to a cooperative association distributing electric power to
+5 its members or a municipal electric distribution system under section
+6 50-342, Idaho Code, may adopt and file a wildfire mitigation plan with
+7 the commission for its review at any time permitted by the commission.
+8 If such a plan is filed, the commission may assess reasonable fees to the
+9 electrical corporation that is not a public utility for its review. The
+10 fee may not exceed the actual reasonable cost incurred by the commission
+11 for the review and consideration of a plan submitted to it.
+12 (3) Each wildfire mitigation plan shall be developed using approaches
+13 and methods that are designed to protect the public interest and are reflec-
+14 tive of and commensurate with the size and complexity of the electric corpo-
+15 ration's operations and of the nature of the fire risk. At a minimum, each
+16 wildfire mitigation plan shall identify a means for mitigating wildfire risk
+17 that reflect a reasonable balancing of mitigation costs with the resulting
+18 reduction of wildfire risk, including:
+19 (a) Identifying geographical areas where an electric corporation has
+20 infrastructure or equipment that the electric corporation considers
+21 may be subject to a heightened risk of wildfire at the time the wildfire
+22 mitigation plan is finalized by the electric corporation;
+23 (b) Preventative actions and programs that the electric corporation
+24 will carry out to reduce the risk of wildfire;
+25 (c) Community outreach and public awareness efforts that the electric
+26 corporation will use before, during, and after wildfire season to iden-
+27 tify and inform the public of relevant wildfire risks and notify the
+28 public of wildfire-related outages;
+29 (d) Outreach efforts to coordinate with federal, state, tribal, and lo-
+30 cal officials and agencies on wildfire preparedness and emergency re-
+31 sponse plans;
+32 (e) Financially prudent and reasonably practicable methods of line de-
+33 sign for new, planned, and existing lines to mitigate fire risk;
+34 (f) Monitoring of forecasted and current weather data for the purpose
+35 of assessing and responding to current and anticipated fire risk; and
+36 (g) Developing standards, procedures, and schedules, subject to timely
+37 approval of access to rights-of-way, if necessary, for the following
+38 actions:
+39 (i) Inspection of the electric corporation's assets, infra-
+40 structure, and facilities within the areas that are identified as
+41 heightened fire risk areas in the wildfire mitigation plan, where
+42 financially prudent and reasonably practicable;
+43 (ii) De-energization of the electric corporation's power lines,
+44 if considered appropriate by the electric corporation; and
+45 (iii) Vegetation management within the areas that are identified
+46 as heightened fire risk areas in the wildfire mitigation plan
+47 and are within the electric corporation's rights-of-way or lands
+48 adjacent thereto and that threaten the power lines or other elec-
+49 tric corporation infrastructure. If live marketable timber is
+50 identified for removal from timber company land adjacent to the
+3
+1 rights-of-way, compensation at fair market value shall be made to
+2 the landowner for such timber.
+3 (4) Commission-approved wildfire mitigation plans shall be imple-
+4 mented upon approval by the commission and shall be reviewed and updated
+5 annually. The plans shall be updated, publicly filed, and approved in accor-
+6 dance with this section and section 61-1804, Idaho Code.
+7 (5) An electric corporation with a commission-approved wildfire miti-
+8 gation plan shall submit a report to the commission updating the commission
+9 on the electric corporation's compliance with its wildfire mitigation plan
+10 on an annual basis or on such other basis as the commission may prescribe by
+11 rule or order. The report shall include documentation describing the devel-
+12 opment and adoption of the wildfire mitigation plan's components and mea-
+13 sures, the wildfire mitigation expenditures, and the work taken to develop
+14 and adopt the plan's components and measures.
+15 61-1804. COMMISSION REVIEW OF WILDFIRE MITIGATION PLANS. (1) The com-
+16 mission shall review a wildfire mitigation plan or an update thereto and, af-
+17 ter notice and comment, within six (6) months of receiving such filing, shall
+18 approve or reject the plan. In reviewing the plan, the commission shall en-
+19 sure that it meets the minimum requirements stated in section 61-1803, Idaho
+20 Code, and shall consider the following factors:
+21 (a) The consistency of the plan with the public health, safety, and wel-
+22 fare;
+23 (b) The feasibility of the plan and the cost of its implementation; and
+24 (c) The degree to which the plan adequately minimizes wildfire risk and
+25 proposes to respond to wildfires that do occur.
+26 (2) Within five (5) business days of filing a wildfire mitigation plan
+27 with the commission for its review and approval, the electric corporation
+28 shall provide notice of the filing to the state forester, cities, counties,
+29 fire protection districts, fire protection associations, and timber protec-
+30 tion associations within the electric corporation's Idaho service area. No-
+31 tice may be given by certified mail or electronic means.
+32 (3) In reviewing a plan, the commission shall consult with the inter-
+33 ested entities listed in subsection (2) of this section for technical assis-
+34 tance. With respect to elements of the plan that relate to vegetation man-
+35 agement, reduction of wildfire fuels, and other duties of the state forester
+36 under title 38, Idaho Code, it shall be presumed that the recommendations
+37 of the state forester, if any are provided, are reasonable and appropriate.
+38 Such recommendations shall be incorporated in the decision of the commission
+39 unless the commission determines they are not just, reasonable, and in the
+40 public interest, in which case the commission shall document its reasoning
+41 in its order approving or rejecting the plan.
+42 61-1805. EFFECT OF WILDFIRE MITIGATION PLANS. A commission-approved
+43 plan shall establish measures for the electric corporation to prepare for
+44 and address wildfire risk and shall establish the electric corporation's
+45 duty to its members and the public.
+46 61-1806. LIABILITY. (1) In a civil action where wildfire-related
+47 damages are being sought against an electric corporation, there is a rebut-
+4
+1 table presumption that the electric corporation acted without negligence
+2 if, with respect to the cause of the wildfire, the electric corporation rea-
+3 sonably implemented a commission-approved wildfire mitigation plan. This
+4 rebuttable presumption extends to any act or omission taken in reasonable
+5 accordance with the approved wildfire mitigation plan in effect at the time
+6 the fire ignited, regardless of the content in any prior commission-approved
+7 plan that is no longer in effect.
+8 (2) If an electric corporation is found liable in a civil action for
+9 damages due to any unplanned or uncontrolled fire, then a plaintiff seeking
+10 damages in such civil action may recover damages as provided for in sections
+11 38-107(2), 6-1603, and 6-1604, Idaho Code, subject to the limitations pro-
+12 vided therein.
+13 61-1807. DENIAL OF ACCESS TO RIGHTS-OF-WAY. If, after an electric
+14 corporation has requested access to privately-owned land or an easement
+15 or right-of-way on land owned by the state, a federal agency, or a tribal
+16 government, through certified mail addressed to the address best calcu-
+17 lated to provide notice, telephone, or electronic means known to belong to
+18 the landowner, state, federal agency, or tribal government and reasonably
+19 considered likely to provide notice, access is denied or no response is re-
+20 ceived after thirty (30) days of the request, the electric corporation is
+21 authorized to access the property, easement, or right-of-way for the limited
+22 purposes of performing vegetation management, fire mitigation work in ac-
+23 cordance with a commission-approved wildfire mitigation plan, or upgrading,
+24 inspecting, or repairing the electric corporation's assets, infrastruc-
+25 ture, or facilities. In taking such actions, the electric corporation shall
+26 not be held liable in any civil action for claims or damages, except to the
+27 extent the electric corporation's conduct willfully or recklessly caused
+28 substantial damage to the property.
+29 61-1808. EXCLUSIVE REMEDY. Except to the extent title 72, Idaho Code,
+30 is applicable, the civil actions identified in section 61-1806, Idaho Code,
+31 shall be the exclusive civil remedies available against an electric corpo-
+32 ration for damages resulting from any act or omission related to a commis-
+33 sion-approved wildfire mitigation plan. This section does not limit an in-
+34 surer's ability to exercise valid subrogation rights subject to the liabil-
+35 ity framework established in section 61-1806, Idaho Code. This section does
+36 not limit or impair any action that may be brought against the manufacturer
+37 of any equipment that is alleged to be faulty or defective.
+38 SECTION 2. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOWEMNSDOFC;AGTE6,I,BYTEANOFANWCR1,TE6,IOC,TOEHPSRGWEMNSDOFC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr1,Te6,IoC,adtordasfR1ESDOFCEA.STT.Tscrslbeknadmybecdae"eSdofCeA.LEI.Inegtsc,itisteitofteletopefrtes,e,adr,t,addnofecpratasadinshwsttpttepci,h,s,a.TelerstttepcuscseccncewhaeIosdr,a,wna,tesdpsoenlecsyc.Itfrrsttpradretowerkisaniyitetogcdbyecu.Prpniscltnecustoadadrdtower.Ktmssdbetntomewerkbeafeodtordtoitwnitdsoriscltotea,sdretnaddnofe.Itiseoeetersaeadasndadwnaecssottecprisktaetotep.TrisddtodtteptueofrsbyecustomeadrdtowerkwntecsttcnbdasjtadreinortokprsaetousadptIorsadtrp.WEMNP.()Frtepsoftsc,""msteIopcusc)Eheccnttisapcuyasdnss69ad6,IoC,slatadfeawemnpnwhtecnfrisrwada]
+[DELETED: ttosn6,IoC.Tecnmyortsbefdatadeddbyitadmysrfgd)Aneccnttisntapcu,igbtldtoaceandgecprtsmsoramlecdnsmurs,IoC,myatadfeawemnpnwecnfrisrwataytepdbytecfshapnisf,tecnmyasrefstotlcnttisntapcuyfrisr.Temyntedtealrectidbytecrterwadcnofapnsdtoi)Ehwemnpnslbeddugadmsttaeddtopttepcitadaereofadcewhteseadcyofteeccsosadofteneoftefer.Atam,eemnpnsliyamsfrmgwertrtarebgofmncswhternofwer,i)Igglasweaneccnheoretttteeccncybesttoahdrkofweattetetewnpnisfdbyteecc)Peasadpsttteecclcyottoreterkofw)Cyohadpcasesttteenwlueb,d,adarwesntoiyadimtepcofrtwersadnytcofwdo)Ohestocewhf,s,t,adllosadasonwepsadeyrep)Fyptadrypemsoflednfrn,p,adeglstomefer)Mgoffdadctwrdafrtepfagadrgtoctadadfer;a)Dgs,p,ads,sttotlofastor,ifn,frtef)Inofteeccsa,i,adfswnteasttaeidadferkasintewemnp,wyptadryp)Dnofteeccsprlfcdaebyteecc;a)Vnmtwnteasttaeishdferkasintewemnpdaewnteeccsryorlttoadtttnteprlsororeccni.Iflemetridfrrlfmtrcyldattot]
+[DELETED: ,cnatfrmtveslbemetelrfrsht)Cdwemnpsslbeidunalbytecnadslberdadu.Tepsslbeu,pyf,adadinaewhtssnadsn6,IoC)Aneccnwhacdwemnpnslstarttotecnugtecnteeccscewhiswemnpnanalbsoronshorbsastecnmypebeoro.Tertsliedndgtedtadanoftewemnpscsadm,tewemne,adtewktntoddattepscsadm.CNRWOFWEMNP.()Tecnslrwawemnpnoranuetoa,arneadc,wnsx()msofrgshf,seorrttep.Inrgtep,tecnsleettitmstemmrssdinsn6,I,adslcrtefgf)Tecyoftepnwhtepch,s,adw)Tefyoftepnadtectofisi;a)Tedetowhtepnaymswerkastordtowsttdoo)Wnfe()bsdsoffgawemnphtecnfrisrwada,teecclpeneoftefgtotesef,c,cepnd,fepna,adtrpnaswnteeccsIosea.Nemybegnbycdmlorecm)Inrgap,tecnslctwhteidesldinsn()oftssnfrtla.Whrttoesoftepnttretovnm,rnofwef,adordsoftesefrte3,IoC,itslbepdttterftesef,ifayaep,aereadahrsslbeidintednoftecstecndstyaentj,r,adintci,inwhcetecnsldtisrnisoragorrgtep.ETOFWEMNP.Acnslehmsfrteeccntopefdaswerkadslehteeccytoismsadtep.L.()Inaclanwewsaebgstatanecc,teisar]
+[DELETED: epnttteeccnadwtn,whrttoteceoftew,teeccnryidacdwemnp.Tepnestoayatorontninrewhteadwemnpninetattetefei,rsoftectinayprcnttisnolrine)Ifaneccnisfdleinaclanfsdetoayudorudf,tnapfssinshclanmyrrdsaspdfrins,6,ad6,IoC,sttotelspdt.DLOFASTOR.I,aranenhsrdastopdldoranerryonldodbytes,afla,orat,thcdmladtoteasbtcdtopen,t,orecmskntobgtel,s,fla,ortlgtadrdlytopen,asisddornoreisrdarty()dsofter,teeccnidtoastep,e,orryfrtelsofpgvnm,femnwkinaewhacdwemnp,oru,orrgteeccsa,i,orf.Intgsha,teeccnstbehdleinayclanfrcsord,ettottteeccsctwyorrycldetotep.EER.Ettoteette7,IoCsa,teclasidinsn6,IoClbeteeeclrsaeataneccnfrdsrgfmayatoronrdtoacdwemnp.Tssndsntltanisaytoeevdsnrssttotelyfkedinsn6,IoC.TssndtltorirayanttmybebtattemfayetttisadtobefyordN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1183
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO WILDFIRE MITIGATION STANDARD OF CARE; AMENDING TITLE 61, IDAHO
+3 CODE, BY THE ADDITION OF A NEW CHAPTER 18, TITLE 61, IDAHO CODE, TO ES-
+4 TABLISH PROVISIONS REGARDING WILDFIRE MITIGATION STANDARD OF CARE; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 61, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 18, Title 61, Idaho Code, and to read as follows:
+10 CHAPTER 18
+11 WILDFIRE STANDARD OF CARE ACT
+12 61-1801. SHORT TITLE. This chapter shall be known and may be cited as
+13 the "Wildfire Standard of Care Act."
+14 61-1802. LEGISLATIVE INTENT. In enacting this chapter, it is the in-
+15 tent of the legislature to provide for the safe, efficient, and reliable
+16 generation, transmission, and distribution of electric power at affordable
+17 rates and in such ways that protect the public interest, health, safety, and
+18 welfare. The legislature recognizes that the public utilities commission
+19 oversees electric corporation compliance with applicable Idaho statutes
+20 and regulations, and, when applicable, the state-adopted provisions of
+21 the national electric safety code. It further recognizes that preparation
+22 for and response to wildfire risk is an increasingly important element of
+23 planning conducted by electric utilities. Proper preparation is crucial to
+24 position electric utilities to avoid and respond to wildfire risk. Knowing
+25 what measures should be taken to minimize wildfire risk before a fire occurs
+26 and to respond to it when it does occur is central to the affordable, safe,
+27 and reliable transmission and distribution of electricity. It is essential
+28 to ensure these risks are addressed as needed and within appropriate cost
+29 parameters so that electric power is kept affordable to the public. This
+30 chapter is designed to direct the prudent use of resources by electric util-
+31 ities to mitigate and respond to wildfire risk within the costs that can be
+32 justified as just and reasonable in order to keep rates affordable to utility
+33 customers and protect Idaho residents and their property.
+34 61-1803. WILDFIRE MITIGATION PLANS. (1) For the purposes of this chap-
+35 ter, "commission" means the Idaho public utilities commission.
+36 (2)(a) Each electric corporation that is a public utility as defined
+37 in sections 61-119 and 61-129, Idaho Code, shall adopt and file a wild-
+38 fire mitigation plan with the commission for its review and approval
+
+2
+1 pursuant to section 61-1804, Idaho Code. The commission may order the
+2 plans be filed at a date determined by it and may stagger filing dates.
+3 (b) An electric corporation that is not a public utility, including but
+4 not limited to a cooperative association distributing electric power to
+5 its members or a municipal electric distribution system under section
+6 50-342, Idaho Code, may adopt and file a wildfire mitigation plan with
+7 the commission for its review at any time permitted by the commission.
+8 If such a plan is filed, the commission may assess reasonable fees to the
+9 electrical corporation that is not a public utility for its review. The
+10 fee may not exceed the actual reasonable cost incurred by the commission
+11 for the review and consideration of a plan submitted to it.
+12 (3) Each wildfire mitigation plan shall be developed using approaches
+13 and methods that are designed to protect the public interest and are reflec-
+14 tive of and commensurate with the size and complexity of the electric corpo-
+15 ration's operations and of the nature of the fire risk. At a minimum, each
+16 wildfire mitigation plan shall identify a means for mitigating wildfire risk
+17 that reflect a reasonable balancing of mitigation costs with the resulting
+18 reduction of wildfire risk, including:
+19 (a) Identifying geographical areas where an electric corporation has
+20 infrastructure or equipment that the electric corporation considers
+21 may be subject to a heightened risk of wildfire at the time the wildfire
+22 mitigation plan is finalized by the electric corporation;
+23 (b) Preventative actions and programs that the electric corporation
+24 will carry out to reduce the risk of wildfire;
+25 (c) Community outreach and public awareness efforts that the electric
+26 corporation will use before, during, and after wildfire season to iden-
+27 tify and inform the public of relevant wildfire risks and notify the
+28 public of wildfire-related outages;
+29 (d) Outreach efforts to coordinate with federal, state, tribal, and lo-
+30 cal officials and agencies on wildfire preparedness and emergency re-
+31 sponse plans;
+32 (e) Financially prudent and reasonably practicable methods of line de-
+33 sign for new, planned, and existing lines to mitigate fire risk;
+34 (f) Monitoring of forecasted and current weather data for the purpose
+35 of assessing and responding to current and anticipated fire risk; and
+36 (g) Developing standards, procedures, and schedules, subject to timely
+37 approval of access to rights-of-way, if necessary, for the following
+38 actions:
+39 (i) Inspection of the electric corporation's assets, infra-
+40 structure, and facilities within the areas that are identified as
+41 heightened fire risk areas in the wildfire mitigation plan, where
+42 financially prudent and reasonably practicable;
+43 (ii) De-energization of the electric corporation's power lines,
+44 if considered appropriate by the electric corporation; and
+45 (iii) Vegetation management within the areas that are identified
+46 as heightened fire risk areas in the wildfire mitigation plan
+47 and are within the electric corporation's rights-of-way or lands
+48 adjacent thereto and that threaten the power lines or other elec-
+49 tric corporation infrastructure. If live marketable timber is
+50 identified for removal from timber company land adjacent to the
+
+3
+1 rights-of-way, compensation at fair market value shall be made to
+2 the landowner for such timber.
+3 (4) Commission-approved wildfire mitigation plans shall be imple-
+4 mented upon approval by the commission and shall be reviewed and updated
+5 annually. The plans shall be updated, publicly filed, and approved in accor-
+6 dance with this section and section 61-1804, Idaho Code.
+7 (5) An electric corporation with a commission-approved wildfire miti-
+8 gation plan shall submit a report to the commission updating the commission
+9 on the electric corporation's compliance with its wildfire mitigation plan
+10 on an annual basis or on such other basis as the commission may prescribe by
+11 rule or order. The report shall include documentation describing the devel-
+12 opment and adoption of the wildfire mitigation plan's components and mea-
+13 sures, the wildfire mitigation expenditures, and the work taken to develop
+14 and adopt the plan's components and measures.
+15 61-1804. COMMISSION REVIEW OF WILDFIRE MITIGATION PLANS. (1) The com-
+16 mission shall review a wildfire mitigation plan or an update thereto and, af-
+17 ter notice and comment, within six (6) months of receiving such filing, shall
+18 approve or reject the plan. In reviewing the plan, the commission shall en-
+19 sure that it meets the minimum requirements stated in section 61-1803, Idaho
+20 Code, and shall consider the following factors:
+21 (a) The consistency of the plan with the public health, safety, and wel-
+22 fare;
+23 (b) The feasibility of the plan and the cost of its implementation; and
+24 (c) The degree to which the plan adequately minimizes wildfire risk and
+25 proposes to respond to wildfires that do occur.
+26 (2) Within five (5) business days of filing a wildfire mitigation plan
+27 with the commission for its review and approval, the electric corporation
+28 shall provide notice of the filing to the state forester, cities, counties,
+29 fire protection districts, fire protection associations, and timber protec-
+30 tion associations within the electric corporation's Idaho service area. No-
+31 tice may be given by certified mail or electronic means.
+32 (3) In reviewing a plan, the commission shall consult with the inter-
+33 ested entities listed in subsection (2) of this section for technical assis-
+34 tance. With respect to elements of the plan that relate to vegetation man-
+35 agement, reduction of wildfire fuels, and other duties of the state forester
+36 under title 38, Idaho Code, it shall be presumed that the recommendations
+37 of the state forester, if any are provided, are reasonable and appropriate.
+38 Such recommendations shall be incorporated in the decision of the commission
+39 unless the commission determines they are not just, reasonable, and in the
+40 public interest, in which case the commission shall document its reasoning
+41 in its order approving or rejecting the plan.
+42 61-1805. EFFECT OF WILDFIRE MITIGATION PLANS. A commission-approved
+43 plan shall establish measures for the electric corporation to prepare for
+44 and address wildfire risk and shall establish the electric corporation's
+45 duty to its members and the public.
+46 61-1806. LIABILITY. (1) In a civil action where wildfire-related
+47 damages are being sought against an electric corporation, there is a rebut-
+
+4
+1 table presumption that the electric corporation acted without negligence
+2 if, with respect to the cause of the wildfire, the electric corporation rea-
+3 sonably implemented a commission-approved wildfire mitigation plan. This
+4 rebuttable presumption extends to any act or omission taken in reasonable
+5 accordance with the approved wildfire mitigation plan in effect at the time
+6 the fire ignited, regardless of the content in any prior commission-approved
+7 plan that is no longer in effect.
+8 (2) If an electric corporation is found liable in a civil action for
+9 damages due to any unplanned or uncontrolled fire, then a plaintiff seeking
+10 damages in such civil action may recover damages as provided for in sections
+11 38-107(2), 6-1603, and 6-1604, Idaho Code, subject to the limitations pro-
+12 vided therein.
+13 61-1807. DENIAL OF ACCESS TO RIGHTS-OF-WAY. If, after an electric
+14 corporation has requested access to privately-owned land or an easement
+15 or right-of-way on land owned by the state, a federal agency, or a tribal
+16 government, through certified mail addressed to the address best calcu-
+17 lated to provide notice, telephone, or electronic means known to belong to
+18 the landowner, state, federal agency, or tribal government and reasonably
+19 considered likely to provide notice, access is denied or no response is re-
+20 ceived after thirty (30) days of the request, the electric corporation is
+21 authorized to access the property, easement, or right-of-way for the limited
+22 purposes of performing vegetation management, fire mitigation work in ac-
+23 cordance with a commission-approved wildfire mitigation plan, or upgrading,
+24 inspecting, or repairing the electric corporation's assets, infrastruc-
+25 ture, or facilities. In taking such actions, the electric corporation shall
+26 not be held liable in any civil action for claims or damages, except to the
+27 extent the electric corporation's conduct willfully or recklessly caused
+28 substantial damage to the property.
+29 61-1808. EXCLUSIVE REMEDY. Except to the extent title 72, Idaho Code,
+30 is applicable, the civil actions identified in section 61-1806, Idaho Code,
+31 shall be the exclusive civil remedies available against an electric corpo-
+32 ration for damages resulting from any act or omission related to a commis-
+33 sion-approved wildfire mitigation plan. This section does not limit an in-
+34 surer's ability to exercise valid subrogation rights subject to the liabil-
+35 ity framework established in section 61-1806, Idaho Code. This section does
+36 not limit or impair any action that may be brought against the manufacturer
+37 of any equipment that is alleged to be faulty or defective.
+38 SECTION 2. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOWEMNSDOFC;AGTE6,I,BYTEANOFANWCR1,TE6,IOC,TOEHPSRGWEMNSDOFC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr1,Te6,IoC,adtordasfR1ESDOFCEA.STT.Tscrslbeknadmybecdae"eSdofCeA.LEI.Inegtsc,itisteitofteletopefrtes,e,adr,t,addnofecpratasadinshwsttpttepci,h,s,a.TelerstttepcuscseccncewhaeIosdr,a,wna,tesdpsoenlecsyc.Itfrrsttpradretowerkisaniyitetogcdbyecu.Prpniscltnecustoadadrdtower.Ktmssdbetntomewerkbeafeodtordtoitwnitdsoriscltotea,sdretnaddnofe.Itiseoeetersaeadasndadwnaecssottecprisktaetotep.TrisddtodtteptueofrsbyecustomeadrdtowerkwntecsttcnbdasjtadreinortokprsaetousadptIorsadtrp.WEMNP.()Frtepsoftsc,""msteIopcusc)Eheccnttisapcuyasdnss69ad6,IoC,slatadfeawemnpnwhtecnfrisrwada]
+[DELETED: ttosn6,IoC.Tecnmyortsbefdatadeddbyitadmysrfgd)Aneccnttisntapcu,igbtldtoaceandgecprtsmsoramlecdnsmurs,IoC,myatadfeawemnpnwecnfrisrwataytepdbytecfshapnisf,tecnmyasrefstotlcnttisntapcuyfrisr.Temyntedtealrectidbytecrterwadcnofapnsdtoi)Ehwemnpnslbeddugadmsttaeddtopttepcitadaereofadcewhteseadcyofteeccsosadofteneoftefer.Atam,eemnpnsliyamsfrmgwertrtarebgofmncswhternofwer,i)Igglasweaneccnheoretttteeccncybesttoahdrkofweattetetewnpnisfdbyteecc)Peasadpsttteecclcyottoreterkofw)Cyohadpcasesttteenwlueb,d,adarwesntoiyadimtepcofrtwersadnytcofwdo)Ohestocewhf,s,t,adllosadasonwepsadeyrep)Fyptadrypemsoflednfrn,p,adeglstomefer)Mgoffdadctwrdafrtepfagadrgtoctadadfer;a)Dgs,p,ads,sttotlofastor,ifn,frtef)Inofteeccsa,i,adfswnteasttaeidadferkasintewemnp,wyptadryp)Dnofteeccsprlfcdaebyteecc;a)Vnmtwnteasttaeishdferkasintewemnpdaewnteeccsryorlttoadtttnteprlsororeccni.Iflemetridfrrlfmtrcyldattot]
+[DELETED: ,cnatfrmtveslbemetelrfrsht)Cdwemnpsslbeidunalbytecnadslberdadu.Tepsslbeu,pyf,adadinaewhtssnadsn6,IoC)Aneccnwhacdwemnpnslstarttotecnugtecnteeccscewhiswemnpnanalbsoronshorbsastecnmypebeoro.Tertsliedndgtedtadanoftewemnpscsadm,tewemne,adtewktntoddattepscsadm.CNRWOFWEMNP.()Tecnslrwawemnpnoranuetoa,arneadc,wnsx()msofrgshf,seorrttep.Inrgtep,tecnsleettitmstemmrssdinsn6,I,adslcrtefgf)Tecyoftepnwhtepch,s,adw)Tefyoftepnadtectofisi;a)Tedetowhtepnaymswerkastordtowsttdoo)Wnfe()bsdsoffgawemnphtecnfrisrwada,teecclpeneoftefgtotesef,c,cepnd,fepna,adtrpnaswnteeccsIosea.Nemybegnbycdmlorecm)Inrgap,tecnslctwhteidesldinsn()oftssnfrtla.Whrttoesoftepnttretovnm,rnofwef,adordsoftesefrte3,IoC,itslbepdttterftesef,ifayaep,aereadahrsslbeidintednoftecstecndstyaentj,r,adintci,inwhcetecnsldtisrnisoragorrgtep.ETOFWEMNP.Acnslehmsfrteeccntopefdaswerkadslehteeccytoismsadtep.L.()Inaclanwewsaebgstatanecc,teisar]
+[DELETED: epnttteeccnadwtn,whrttoteceoftew,teeccnryidacdwemnp.Tepnestoayatorontninrewhteadwemnpninetattetefei,rsoftectinayprcnttisnolrine)Ifaneccnisfdleinaclanfsdetoayudorudf,tnapfssinshclanmyrrdsaspdfrins,6,ad6,IoC,sttotelspdt.DLOFASTOR.I,aranenhsrdastopdldoranerryonldodbytes,afla,orat,thcdmladtoteasbtcdtopen,t,orecmskntobgtel,s,fla,ortlgtadrdlytopen,asisddornoreisrdarty()dsofter,teeccnidtoastep,e,orryfrtelsofpgvnm,femnwkinaewhacdwemnp,oru,orrgteeccsa,i,orf.Intgsha,teeccnstbehdleinayclanfrcsord,ettottteeccsctwyorrycldetotep.EER.Ettoteette7,IoCsa,teclasidinsn6,IoClbeteeeclrsaeataneccnfrdsrgfmayatoronrdtoacdwemnp.Tssndsntltanisaytoeevdsnrssttotelyfkedinsn6,IoC.TssndtltorirayanttmybebtattemfayetttisadtobefyordN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

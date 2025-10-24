@@ -1,0 +1,362 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 244
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTRONIC SMOKING DEVICES; AMENDING CHAPTER 57, TITLE 39, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 39-5719, IDAHO CODE, TO PROVIDE
+4 FOR AN ILLEGAL ELECTRONIC SMOKING DEVICE BRAND LIST, TO PROHIBIT THE
+5 SALE OF CERTAIN ELECTRONIC SMOKING DEVICES, TO PROVIDE EXEMPTIONS, TO
+6 PROVIDE PENALTIES, TO PROVIDE FOR CERTAIN SEIZURES, TO PROVIDE FOR CER-
+7 TAIN INSPECTIONS, AND TO DEFINE TERMS; AND DECLARING AN EMERGENCY AND
+8 PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 57, Title 39, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 39-5719, Idaho Code, and to read as follows:
+13 39-5719. ILLEGAL ELECTRONIC SMOKING DEVICE BRAND LIST. (1) By July 1,
+14 2025, the department shall publish on its public website a list of electronic
+15 smoking device brands that may not be sold for retail sale in this state or to
+16 a consumer in this state.
+17 (2)(a) The illegal electronic smoking devices brand list shall include
+18 the following:
+19 (i) Brand families of electronic smoking devices where a SKU in
+20 the brand family has been identified in an FDA warning letter as
+21 being adulterated or misbranded under the federal food, drug, and
+22 cosmetic act;
+23 (ii) Brand families of electronic smoking devices where a SKU in
+24 the brand family is currently included in an FDA import alert;
+25 (iii) Brand families of electronic smoking devices where a SKU in
+26 the brand family has been the subject of an FDA seizure order or
+27 warrant;
+28 (iv) Brand families of electronic smoking devices where a SKU in
+29 the brand family has been identified in a civil monetary complaint
+30 as being adulterated or misbranded under the federal food, drug,
+31 and cosmetic act; and
+32 (v) Brand families of electronic smoking devices where a SKU in
+33 the brand family has been identified in a civil or criminal com-
+34 plaint filed by the United States department of justice as being
+35 adulterated or misbranded under the federal food, drug, and cos-
+36 metic act.
+37 (b) The illegal electronic smoking device brand list shall not include
+38 products where the enforcement actions listed in paragraph (a) of this
+39 subsection have been withdrawn, stayed, enjoined, or set aside by the
+40 agency or a court.
+41 (c) The illegal electronic smoking device brand list shall not include
+42 products where an enforcement action listed in paragraph (a) of this
+2
+1 subsection is based on retailer misconduct rather than on the char-
+2 acteristics of the electronic smoking device or its packaging or on
+3 conduct by the manufacturer of the electronic smoking device.
+4 (3) The department shall maintain a list of electronic smoking devices
+5 that are exempt from inclusion on the illegal electronic smoking device
+6 brand list. Electronic smoking devices that are not included on the illegal
+7 electronic smoking device brand list shall be added to the exemption list if:
+8 (a) The electronic smoking device has received a marketing granted or-
+9 der from the FDA pursuant to 21 CFR 1114;
+10 (b) The electronic smoking device contains nicotine derived from to-
+11 bacco, was marketed in the United States as of August 8, 2016, is the
+12 subject of an application pursuant to 21 U.S.C. 387j that was submitted
+13 to the FDA on or before September 9, 2020, and accepted for filing, and
+14 the application either remains under review by the FDA or has received a
+15 denial order that has been and remains stayed by the FDA or court order,
+16 rescinded by the FDA, or vacated by a court;
+17 (c) The electronic smoking device was not required to receive FDA au-
+18 thorization prior to marketing because it does not contain nicotine; or
+19 (d) The electronic smoking device is a rebrand as defined in subsection
+20 (11) of this section.
+21 (4) Beginning September 1, 2025, or sixty (60) days after the date that
+22 the department first makes the illegal electronic smoking device brand list
+23 available for public inspection on its public website, whichever is later,
+24 electronic smoking device brand families included on the illegal electronic
+25 smoking device brand list may not be sold for retail sale in this state or to a
+26 consumer in this state, either directly or through an importer, distributor,
+27 wholesaler, retailer, seller, or similar intermediary or intermediaries.
+28 (5) The department shall update the illegal electronic smoking device
+29 brand list and exemption list at least monthly and provide notice of changes
+30 to sellers, distributors, and wholesalers of electronic smoking devices.
+31 (6) After the department adds additional products to the illegal elec-
+32 tronic smoking device brand list pursuant to subsection (5) of this section,
+33 each seller, distributor, and wholesaler shall have sixty (60) days from the
+34 date such brand families are added to the list to remove SKUs in those brand
+35 families or made by those manufacturers from its inventory.
+36 (7)(a) A seller, distributor, or wholesaler who sells or offers for
+37 sale an electronic smoking device in this state in violation of the pro-
+38 visions of this section shall be subject to the following penalties:
+39 (i) In the case of a first violation, the seller, distributor,
+40 or wholesaler shall be subject to a fine of five thousand dollars
+41 ($5,000) per violation;
+42 (ii) In the case of a second violation in a two (2) year period,
+43 the seller, distributor, or wholesaler shall be fined five thou-
+44 sand dollars ($5,000) per brand family and its permit shall be sus-
+45 pended for seven (7) days;
+46 (iii) In the case of a third violation in a two (2) year period,
+47 the seller, distributor, or wholesaler shall be fined five thou-
+48 sand dollars ($5,000) per brand family and its permit shall be sus-
+49 pended for thirty (30) days;
+3
+1 (iv) In the case of a fourth violation in a two (2) year period,
+2 the seller, distributor, or wholesaler shall be fined five thou-
+3 sand dollars ($5,000) per brand family and its permit shall be sus-
+4 pended for one (1) year; and
+5 (v) In the case of a fifth violation, the seller, distributor, or
+6 wholesaler shall be fined five thousand dollars ($5,000) per brand
+7 family and its permit shall be revoked.
+8 (b) Offers to sell or sales of an electronic smoking device included in
+9 the illegal electronic smoking device brand list that are part of the
+10 same brand family shall constitute a single violation.
+11 (8) Any electronic smoking devices in a brand family that are included
+12 on the illegal electronic smoking device brand list that are held for sale
+13 or offered for sale are hereby declared to be contraband goods and shall be
+14 seized without a warrant by the department, an employee of the department,
+15 or any peace officer when directed by the department. Electronic smoking de-
+16 vices seized pursuant to this section shall be subject to destruction or dis-
+17 posal and may not be purchased or sold for retail sale in this state. The cost
+18 of such seizure and destruction or disposal shall be borne by the person from
+19 whom the products are seized.
+20 (9) Each retailer, distributor, or wholesaler that sells or dis-
+21 tributes electronic smoking devices in this state shall be subject to at
+22 least two (2) unannounced compliance checks annually by the department for
+23 purposes of enforcing this section. The inspection may be conducted dur-
+24 ing the same inspection conducted pursuant to section 39-5710, Idaho Code.
+25 Unannounced follow-up compliance checks of all noncompliant retailers,
+26 distributors, and wholesalers shall be conducted by the department within
+27 thirty (30) days after any violation of this chapter. The department shall
+28 publish the results of all compliance checks at least quarterly and shall
+29 make the results available to the public on request.
+30 (10) By July 1, 2025, the department shall establish an electronic mail
+31 address through which violations of this section may be reported to the de-
+32 partment.
+33 (11) For purposes of this section:
+34 (a) "Brand family" means all styles of electronic smoking devices sold
+35 under the same trademark and differentiated from one another by means of
+36 additional modifiers, and includes the use of a brand name, trademark,
+37 logo, symbol, motto, selling message, recognizable pattern of colors or
+38 other indicia similar to or identifiable with a previously known brand
+39 of alternative nicotine products, electronic nicotine delivery sys-
+40 tems, or nicotine liquids.
+41 (b) "Distributor" means:
+42 (i) Any person engaged in the business of selling tobacco prod-
+43 ucts or electronic smoking devices in this state who brings, or
+44 causes to be brought, into this state from outside the state any
+45 tobacco products or electronic smoking devices for sale;
+46 (ii) Any person who makes, manufactures, or fabricates tobacco
+47 products or electronic smoking devices in this state for sale in
+48 this state; or
+49 (iii) Any person engaged in the business of selling tobacco prod-
+50 ucts or electronic smoking devices outside this state who ships or
+4
+1 transports tobacco products or electronic smoking devices to re-
+2 tailers in this state to be sold by those retailers.
+3 (c) "FDA" means the United States food and drug administration.
+4 (d) "Manufacturer" means any person who manufacturers and sells to-
+5 bacco products or electronic smoking devices.
+6 (e) "Rebrand" means a product for which the manufacturer was not re-
+7 quired to submit a premarket tobacco product application for the elec-
+8 tronic smoking device because the electronic smoking device reflects
+9 changes to the name, brand style, or packaging of a vapor product or con-
+10 sumable product.
+11 (f) "Retailer" means any person engaged in the business of selling to-
+12 bacco products or electronic smoking devices to ultimate consumers.
+13 (g) "SKU" means a stock keeping unit number, a unique product identi-
+14 fier assigned to an individual electronic smoking device product, or a
+15 particular variety of an electronic smoking device within a brand fam-
+16 ily.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after May
+19 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YHHADWECNAGTOECSGD;AGCR5,TE3,I,BYTEANOFANWSN3,IOC,TOPRANILECSGDEBDL,TOPTTEOFCNECSGD,TOPEE,TEP,TOPEFRCNS,TOPEFRCNI,ADTODET;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtCr5,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.ILECSGDEBDL.()ByJy1,tedtslphonispcwealtofegdebsttmyntbesdfrrlseintsseortcrintss)Teilecsgdsbdltslief)BdfsofecsgdsweaSUiebdfyhsbnidinanFAwglragadormdurteflf,d,aca)BdfsofecsgdsweaSUiebdfyiscyidinanFAita)BdfsofecsgdsweaSUiebdfyhsbntestofanFAseoro)BdfsofecsgdsweaSUiebdfyhsbnidinaclmycsbgadormdurteflf,ddcca;a)BdfsofecsgdsweaSUiebdfyhsbnidinaclorclctfdbyteUdSsdtofjeasbdormdurteflf,d,adcca)Teilecsgdebdltslntisweteetasldinph()oftnhebnw,s,e,orstaebytyorac)Teilecsgdebdltslntisweanetanldinph()oft]
+[DELETED: nisbdonrrmtrrtnontecsofteecsgdeorispgorotbytemrofteecsgd)Tedtslmnaltofecsgdtaeetfminonteilecsgddl.Ecsgdsttaentidonteicsgdebdltslbeadtoteenlti)TeecsgdehsrdamggdorfmteFAptto21CR1)Teecsgdecsneddfmt,wsmdinteUdSsasofAt8,2,isttofananptto21U.3jttwssoteFAonorbeSr9,2,adadfrf,aeanerrsurrwbyteFAorhsrdlortthsbnadrssdbyteFAorctodbyteF,orvdbyac)TeecsgdewsntrdtoreFAanprtomgbeitdsntcnn;o)Teecsgdeisardasddins)oftss)BgSr1,2,orsy()dsartedetedtftmsteilecsgdebdlefrpcinonispcw,wrislcsgdebdfsidonteilegdebdltmyntbesdfrrlseintsseortorintss,erdyorthani,d,r,s,orsriyori)Tedtslueteilecsgddltadenltatltmyadpeneofcos,d,adwsofecsgd)Artedtasalpstoteilecsgdebdltpttosn()oftsshs,d,adwrslhesy()dsfmteshbdfsaeadtotelttoreSsintebsormebytemsfmisi)As,d,orwrwossorosfeanecsgdeintsseinvnoftepsoftssnslbesttotefgp)Inteceofaftv,tes,drwrslbesttoafeoffetdd)prv)Inteceofasdvninato()yrpes,d,orwrslbefdfetdds()prbdfyadisptslbesdfrsn()d)Inteceofatdvninato()yrpes,d,orwrslbefdfetdds()prbdfyadisptslbesdfrty()d]
+[DELETED: )Inteceofafhvninato()yrpes,d,orwrslbefdfetdds()prbdfyadisptslbesdfroe()y;a)Inteceofafhv,tes,d,orslbefdfetdds()prbyadisptslber)Ostoslorssofanecsgdeidieilecsgdebdltttaeptoftebdfyslceasev)Ayecsgdsinabdfyttaeinteilecsgdebdltttaehdfrsrodfrseaehyddtobecdgsadslbdwtawtbyted,aneeoftedraypeorwnddbyted.Ecsgdssdpttotssnslbesttodnordladmyntbepdorsdfrrlseintss.Tecfshseaddnordlslbebebytepnfmtepsaes)Ehr,d,orwrttssordsecsgdsintsseslbesttoatto()udcecsaybytedtfsofegtss.Teinmybecddgteseincdpttosn3,IoCdfpcecsofalntr,adwsslbecdbytedtwy()dsarayvnoftsc.Tedtshtersofalcecsatltqyadsetersaetotepconr)ByJy1,2,tedtslehanecmsthwhvsoftssnmyberdtoted)Frpsoftss)"df"msalssofecsgdssrtesetkadddfmoearbymsolm,adisteueofabdn,t,s,m,sgm,repnofcsoriasrtooriewhapyknbfaenep,ecnedys,ornel)""m)Aypnedintebsofsgtopsorecsgdsintssewob,ostobeb,iotssefmoeteseaopsorecsgdsfrs)Aypnwom,m,orfstsorecsgdsintssefrseiss;o)Aypnedintebsofsgtopsorecsgdsoetssewosso]
+[DELETED: stopsorecsgdstorsintssetobesdbyter)""msteUdSsfdaddga)""msaypnwomsadsstopsorecsgd)""msaptfrwhtemrwsntrdtostapttoptanfrteecsgdebeteecsgderstoten,bds,orpgofavrptorcep)""msaypnedintebsofsgtopsorecsgdstouec)""msaskkgutn,aueptiradtoanilecsgdep,orrvyofanecsgdewnabdfN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarM,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 244
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTRONIC SMOKING DEVICES; AMENDING CHAPTER 57, TITLE 39, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 39-5719, IDAHO CODE, TO PROVIDE
+4 FOR AN ILLEGAL ELECTRONIC SMOKING DEVICE BRAND LIST, TO PROHIBIT THE
+5 SALE OF CERTAIN ELECTRONIC SMOKING DEVICES, TO PROVIDE EXEMPTIONS, TO
+6 PROVIDE PENALTIES, TO PROVIDE FOR CERTAIN SEIZURES, TO PROVIDE FOR CER-
+7 TAIN INSPECTIONS, AND TO DEFINE TERMS; AND DECLARING AN EMERGENCY AND
+8 PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 57, Title 39, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 39-5719, Idaho Code, and to read as follows:
+13 39-5719. ILLEGAL ELECTRONIC SMOKING DEVICE BRAND LIST. (1) By July 1,
+14 2025, the department shall publish on its public website a list of electronic
+15 smoking device brands that may not be sold for retail sale in this state or to
+16 a consumer in this state.
+17 (2)(a) The illegal electronic smoking devices brand list shall include
+18 the following:
+19 (i) Brand families of electronic smoking devices where a SKU in
+20 the brand family has been identified in an FDA warning letter as
+21 being adulterated or misbranded under the federal food, drug, and
+22 cosmetic act;
+23 (ii) Brand families of electronic smoking devices where a SKU in
+24 the brand family is currently included in an FDA import alert;
+25 (iii) Brand families of electronic smoking devices where a SKU in
+26 the brand family has been the subject of an FDA seizure order or
+27 warrant;
+28 (iv) Brand families of electronic smoking devices where a SKU in
+29 the brand family has been identified in a civil monetary complaint
+30 as being adulterated or misbranded under the federal food, drug,
+31 and cosmetic act; and
+32 (v) Brand families of electronic smoking devices where a SKU in
+33 the brand family has been identified in a civil or criminal com-
+34 plaint filed by the United States department of justice as being
+35 adulterated or misbranded under the federal food, drug, and cos-
+36 metic act.
+37 (b) The illegal electronic smoking device brand list shall not include
+38 products where the enforcement actions listed in paragraph (a) of this
+39 subsection have been withdrawn, stayed, enjoined, or set aside by the
+40 agency or a court.
+41 (c) The illegal electronic smoking device brand list shall not include
+42 products where an enforcement action listed in paragraph (a) of this
+
+2
+1 subsection is based on retailer misconduct rather than on the char-
+2 acteristics of the electronic smoking device or its packaging or on
+3 conduct by the manufacturer of the electronic smoking device.
+4 (3) The department shall maintain a list of electronic smoking devices
+5 that are exempt from inclusion on the illegal electronic smoking device
+6 brand list. Electronic smoking devices that are not included on the illegal
+7 electronic smoking device brand list shall be added to the exemption list if:
+8 (a) The electronic smoking device has received a marketing granted or-
+9 der from the FDA pursuant to 21 CFR 1114;
+10 (b) The electronic smoking device contains nicotine derived from to-
+11 bacco, was marketed in the United States as of August 8, 2016, is the
+12 subject of an application pursuant to 21 U.S.C. 387j that was submitted
+13 to the FDA on or before September 9, 2020, and accepted for filing, and
+14 the application either remains under review by the FDA or has received a
+15 denial order that has been and remains stayed by the FDA or court order,
+16 rescinded by the FDA, or vacated by a court;
+17 (c) The electronic smoking device was not required to receive FDA au-
+18 thorization prior to marketing because it does not contain nicotine; or
+19 (d) The electronic smoking device is a rebrand as defined in subsection
+20 (11) of this section.
+21 (4) Beginning September 1, 2025, or sixty (60) days after the date that
+22 the department first makes the illegal electronic smoking device brand list
+23 available for public inspection on its public website, whichever is later,
+24 electronic smoking device brand families included on the illegal electronic
+25 smoking device brand list may not be sold for retail sale in this state or to a
+26 consumer in this state, either directly or through an importer, distributor,
+27 wholesaler, retailer, seller, or similar intermediary or intermediaries.
+28 (5) The department shall update the illegal electronic smoking device
+29 brand list and exemption list at least monthly and provide notice of changes
+30 to sellers, distributors, and wholesalers of electronic smoking devices.
+31 (6) After the department adds additional products to the illegal elec-
+32 tronic smoking device brand list pursuant to subsection (5) of this section,
+33 each seller, distributor, and wholesaler shall have sixty (60) days from the
+34 date such brand families are added to the list to remove SKUs in those brand
+35 families or made by those manufacturers from its inventory.
+36 (7)(a) A seller, distributor, or wholesaler who sells or offers for
+37 sale an electronic smoking device in this state in violation of the pro-
+38 visions of this section shall be subject to the following penalties:
+39 (i) In the case of a first violation, the seller, distributor,
+40 or wholesaler shall be subject to a fine of five thousand dollars
+41 ($5,000) per violation;
+42 (ii) In the case of a second violation in a two (2) year period,
+43 the seller, distributor, or wholesaler shall be fined five thou-
+44 sand dollars ($5,000) per brand family and its permit shall be sus-
+45 pended for seven (7) days;
+46 (iii) In the case of a third violation in a two (2) year period,
+47 the seller, distributor, or wholesaler shall be fined five thou-
+48 sand dollars ($5,000) per brand family and its permit shall be sus-
+49 pended for thirty (30) days;
+
+3
+1 (iv) In the case of a fourth violation in a two (2) year period,
+2 the seller, distributor, or wholesaler shall be fined five thou-
+3 sand dollars ($5,000) per brand family and its permit shall be sus-
+4 pended for one (1) year; and
+5 (v) In the case of a fifth violation, the seller, distributor, or
+6 wholesaler shall be fined five thousand dollars ($5,000) per brand
+7 family and its permit shall be revoked.
+8 (b) Offers to sell or sales of an electronic smoking device included in
+9 the illegal electronic smoking device brand list that are part of the
+10 same brand family shall constitute a single violation.
+11 (8) Any electronic smoking devices in a brand family that are included
+12 on the illegal electronic smoking device brand list that are held for sale
+13 or offered for sale are hereby declared to be contraband goods and shall be
+14 seized without a warrant by the department, an employee of the department,
+15 or any peace officer when directed by the department. Electronic smoking de-
+16 vices seized pursuant to this section shall be subject to destruction or dis-
+17 posal and may not be purchased or sold for retail sale in this state. The cost
+18 of such seizure and destruction or disposal shall be borne by the person from
+19 whom the products are seized.
+20 (9) Each retailer, distributor, or wholesaler that sells or dis-
+21 tributes electronic smoking devices in this state shall be subject to at
+22 least two (2) unannounced compliance checks annually by the department for
+23 purposes of enforcing this section. The inspection may be conducted dur-
+24 ing the same inspection conducted pursuant to section 39-5710, Idaho Code.
+25 Unannounced follow-up compliance checks of all noncompliant retailers,
+26 distributors, and wholesalers shall be conducted by the department within
+27 thirty (30) days after any violation of this chapter. The department shall
+28 publish the results of all compliance checks at least quarterly and shall
+29 make the results available to the public on request.
+30 (10) By July 1, 2025, the department shall establish an electronic mail
+31 address through which violations of this section may be reported to the de-
+32 partment.
+33 (11) For purposes of this section:
+34 (a) "Brand family" means all styles of electronic smoking devices sold
+35 under the same trademark and differentiated from one another by means of
+36 additional modifiers, and includes the use of a brand name, trademark,
+37 logo, symbol, motto, selling message, recognizable pattern of colors or
+38 other indicia similar to or identifiable with a previously known brand
+39 of alternative nicotine products, electronic nicotine delivery sys-
+40 tems, or nicotine liquids.
+41 (b) "Distributor" means:
+42 (i) Any person engaged in the business of selling tobacco prod-
+43 ucts or electronic smoking devices in this state who brings, or
+44 causes to be brought, into this state from outside the state any
+45 tobacco products or electronic smoking devices for sale;
+46 (ii) Any person who makes, manufactures, or fabricates tobacco
+47 products or electronic smoking devices in this state for sale in
+48 this state; or
+49 (iii) Any person engaged in the business of selling tobacco prod-
+50 ucts or electronic smoking devices outside this state who ships or
+
+4
+1 transports tobacco products or electronic smoking devices to re-
+2 tailers in this state to be sold by those retailers.
+3 (c) "FDA" means the United States food and drug administration.
+4 (d) "Manufacturer" means any person who manufacturers and sells to-
+5 bacco products or electronic smoking devices.
+6 (e) "Rebrand" means a product for which the manufacturer was not re-
+7 quired to submit a premarket tobacco product application for the elec-
+8 tronic smoking device because the electronic smoking device reflects
+9 changes to the name, brand style, or packaging of a vapor product or con-
+10 sumable product.
+11 (f) "Retailer" means any person engaged in the business of selling to-
+12 bacco products or electronic smoking devices to ultimate consumers.
+13 (g) "SKU" means a stock keeping unit number, a unique product identi-
+14 fier assigned to an individual electronic smoking device product, or a
+15 particular variety of an electronic smoking device within a brand fam-
+16 ily.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after May
+19 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YHHADWECNAGTOECSGD;AGCR5,TE3,I,BYTEANOFANWSN3,IOC,TOPRANILECSGDEBDL,TOPTTEOFCNECSGD,TOPEE,TEP,TOPEFRCNS,TOPEFRCNI,ADTODET;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtCr5,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.ILECSGDEBDL.()ByJy1,tedtslphonispcwealtofegdebsttmyntbesdfrrlseintsseortcrintss)Teilecsgdsbdltslief)BdfsofecsgdsweaSUiebdfyhsbnidinanFAwglragadormdurteflf,d,aca)BdfsofecsgdsweaSUiebdfyiscyidinanFAita)BdfsofecsgdsweaSUiebdfyhsbntestofanFAseoro)BdfsofecsgdsweaSUiebdfyhsbnidinaclmycsbgadormdurteflf,ddcca;a)BdfsofecsgdsweaSUiebdfyhsbnidinaclorclctfdbyteUdSsdtofjeasbdormdurteflf,d,adcca)Teilecsgdebdltslntisweteetasldinph()oftnhebnw,s,e,orstaebytyorac)Teilecsgdebdltslntisweanetanldinph()oft]
+[DELETED: nisbdonrrmtrrtnontecsofteecsgdeorispgorotbytemrofteecsgd)Tedtslmnaltofecsgdtaeetfminonteilecsgddl.Ecsgdsttaentidonteicsgdebdltslbeadtoteenlti)TeecsgdehsrdamggdorfmteFAptto21CR1)Teecsgdecsneddfmt,wsmdinteUdSsasofAt8,2,isttofananptto21U.3jttwssoteFAonorbeSr9,2,adadfrf,aeanerrsurrwbyteFAorhsrdlortthsbnadrssdbyteFAorctodbyteF,orvdbyac)TeecsgdewsntrdtoreFAanprtomgbeitdsntcnn;o)Teecsgdeisardasddins)oftss)BgSr1,2,orsy()dsartedetedtftmsteilecsgdebdlefrpcinonispcw,wrislcsgdebdfsidonteilegdebdltmyntbesdfrrlseintsseortorintss,erdyorthani,d,r,s,orsriyori)Tedtslueteilecsgddltadenltatltmyadpeneofcos,d,adwsofecsgd)Artedtasalpstoteilecsgdebdltpttosn()oftsshs,d,adwrslhesy()dsfmteshbdfsaeadtotelttoreSsintebsormebytemsfmisi)As,d,orwrwossorosfeanecsgdeintsseinvnoftepsoftssnslbesttotefgp)Inteceofaftv,tes,drwrslbesttoafeoffetdd)prv)Inteceofasdvninato()yrpes,d,orwrslbefdfetdds()prbdfyadisptslbesdfrsn()d)Inteceofatdvninato()yrpes,d,orwrslbefdfetdds()prbdfyadisptslbesdfrty()d]
+[DELETED: )Inteceofafhvninato()yrpes,d,orwrslbefdfetdds()prbdfyadisptslbesdfroe()y;a)Inteceofafhv,tes,d,orslbefdfetdds()prbyadisptslber)Ostoslorssofanecsgdeidieilecsgdebdltttaeptoftebdfyslceasev)Ayecsgdsinabdfyttaeinteilecsgdebdltttaehdfrsrodfrseaehyddtobecdgsadslbdwtawtbyted,aneeoftedraypeorwnddbyted.Ecsgdssdpttotssnslbesttodnordladmyntbepdorsdfrrlseintss.Tecfshseaddnordlslbebebytepnfmtepsaes)Ehr,d,orwrttssordsecsgdsintsseslbesttoatto()udcecsaybytedtfsofegtss.Teinmybecddgteseincdpttosn3,IoCdfpcecsofalntr,adwsslbecdbytedtwy()dsarayvnoftsc.Tedtshtersofalcecsatltqyadsetersaetotepconr)ByJy1,2,tedtslehanecmsthwhvsoftssnmyberdtoted)Frpsoftss)"df"msalssofecsgdssrtesetkadddfmoearbymsolm,adisteueofabdn,t,s,m,sgm,repnofcsoriasrtooriewhapyknbfaenep,ecnedys,ornel)""m)Aypnedintebsofsgtopsorecsgdsintssewob,ostobeb,iotssefmoeteseaopsorecsgdsfrs)Aypnwom,m,orfstsorecsgdsintssefrseiss;o)Aypnedintebsofsgtopsorecsgdsoetssewosso]
+[DELETED: stopsorecsgdstorsintssetobesdbyter)""msteUdSsfdaddga)""msaypnwomsadsstopsorecsgd)""msaptfrwhtemrwsntrdtostapttoptanfrteecsgdebeteecsgderstoten,bds,orpgofavrptorcep)""msaypnedintebsofsgtopsorecsgdstouec)""msaskkgutn,aueptiradtoanilecsgdep,orrvyofanecsgdewnabdfN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarM,2]

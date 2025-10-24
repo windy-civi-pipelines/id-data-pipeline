@@ -1,0 +1,57 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Toews
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 339
+1 AMENDMENT TO SECTION 3
+2 On page 3 of the printed bill, in line 25, following "residence" insert:
+3 "; provided, however, that the secretary of state shall not disseminate sen-
+4 sitive personal data to commercial data providers and credit agencies in its
+5 contracts".
+6 On page 4, following line 2, insert:
+7 "(5) The secretary of state shall process voter registration data in a
+8 secured cloud system using cryptography standards consistent with federal
+9 regulations. Voter registration verification requests pursuant to this
+10 section approved by the secretary of state shall be processed on a dedicated
+11 secured system where all access and activity are logged. Data received
+12 and processed by the secretary of state and used for verification purposes
+13 pursuant to this section shall be retained for thirty (30) days or until
+14 properly processed pursuant to the provisions of this section.".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyTdbyHNTESEATTOH.N.3TTOSNnpe3oftepdb,inle2,fg""i;p,h,tttesyofseslntdesepldatocldapsadctasininpe4,fgle2,i)Tesyofseslpsvrrndaindcdsmugcyssctwhf.Vrrnvnrspttotnadbytesyofseslbepdonaddsmwealasadayael.Dardpdbytesyofseadudfrvnpttotssnslberdfrty()dsoruypdpttotepsoftss]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Toews
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 339
+1 AMENDMENT TO SECTION 3
+2 On page 3 of the printed bill, in line 25, following "residence" insert:
+3 "; provided, however, that the secretary of state shall not disseminate sen-
+4 sitive personal data to commercial data providers and credit agencies in its
+5 contracts".
+6 On page 4, following line 2, insert:
+7 "(5) The secretary of state shall process voter registration data in a
+8 secured cloud system using cryptography standards consistent with federal
+9 regulations. Voter registration verification requests pursuant to this
+10 section approved by the secretary of state shall be processed on a dedicated
+11 secured system where all access and activity are logged. Data received
+12 and processed by the secretary of state and used for verification purposes
+13 pursuant to this section shall be retained for thirty (30) days or until
+14 properly processed pursuant to the provisions of this section.".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyTdbyHNTESEATTOH.N.3TTOSNnpe3oftepdb,inle2,fg""i;p,h,tttesyofseslntdesepldatocldapsadctasininpe4,fgle2,i)Tesyofseslpsvrrndaindcdsmugcyssctwhf.Vrrnvnrspttotnadbytesyofseslbepdonaddsmwealasadayael.Dardpdbytesyofseadudfrvnpttotssnslberdfrty()dsoruypdpttotepsoftss]

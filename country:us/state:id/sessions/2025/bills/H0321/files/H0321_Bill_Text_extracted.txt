@@ -1,0 +1,344 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 321
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY RIGHTS; AMENDING CHAPTER 3, TITLE 6, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 6-310A, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING A LIMITED ALTERNATIVE REMEDY TO REMOVE UNAUTHORIZED PERSONS
+5 FROM RESIDENTIAL REAL PROPERTY; AMENDING CHAPTER 36, TITLE 18, IDAHO
+6 CODE, BY THE ADDITION OF A NEW SECTION 18-3621, IDAHO CODE, TO PROVIDE
+7 FOR THE CRIME OF MAKING FALSE STATEMENTS TO DETAIN REAL PROPERTY; AMEND-
+8 ING CHAPTER 36, TITLE 18, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+9 18-3622, IDAHO CODE, TO PROVIDE FOR THE CRIME OF FRAUDULENT SALE OR
+10 LEASE OF RESIDENTIAL REAL PROPERTY; AND DECLARING AN EMERGENCY AND PRO-
+11 VIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Chapter 3, Title 6, Idaho Code, be, and the same is
+14 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+15 ignated as Section 6-310A, Idaho Code, and to read as follows:
+16 6-310A. LIMITED ALTERNATIVE REMEDY TO REMOVE UNAUTHORIZED PERSONS
+17 FROM RESIDENTIAL REAL PROPERTY. (1) The legislature finds that the right
+18 to exclude others from entering, and the right to direct others to immedi-
+19 ately vacate, residential real property are the most important real property
+20 rights. The legislature further finds that existing remedies regarding
+21 unauthorized persons who unlawfully remain on residential real property
+22 fail to adequately protect the rights of the property owner and fail to ad-
+23 equately discourage theft and vandalism. The intent of this section is to
+24 quickly restore possession of residential real property to the lawful owner
+25 of the property when the property is being unlawfully occupied and to thereby
+26 preserve property rights while limiting the opportunity for criminal activ-
+27 ity.
+28 (2) A property owner or the owner's authorized agent may request from
+29 the sheriff of the county in which the property is located the immediate
+30 removal of a person or persons unlawfully occupying a residential dwelling
+31 pursuant to this section if all of the following conditions are met:
+32 (a) The requesting person is the property owner or authorized agent of
+33 the property owner;
+34 (b) The real property that is being occupied includes a residential
+35 dwelling;
+36 (c) An unauthorized person or persons have unlawfully entered and re-
+37 main or continue to reside on the property owner's property;
+38 (d) The real property was not open to members of the public at the time
+39 the unauthorized person or persons entered;
+40 (e) The property owner has directed the unauthorized person to leave
+41 the property;
+2
+1 (f) The unauthorized person or persons are not current or former ten-
+2 ants pursuant to a written or oral rental agreement authorized by the
+3 property owner;
+4 (g) The unauthorized person or persons are not immediate family members
+5 of the property owner; and
+6 (h) There is no pending litigation related to the real property between
+7 the property owner and any known unauthorized person.
+8 (3) To request the immediate removal of an unlawful occupant of a res-
+9 idential dwelling, the property owner or the owner's authorized agent must
+10 submit a complaint by presenting a completed and verified "Complaint to Re-
+11 move Persons Unlawfully Occupying Residential Real Property" to the sheriff
+12 of the county in which the real property is located. The submitted complaint
+13 must be in substantially the following form:
+14 COMPLAINT TO REMOVE PERSONS UNLAWFULLY OCCUPYING
+15 RESIDENTIAL REAL PROPERTY
+16 I, the owner or authorized agent of the owner of the real property
+17 located at ... ..., declare under the penalty of perjury that (ini-
+18 tial each box):
+19 1. .... I am the owner of the real property or the authorized agent
+20 of the owner of the real property.
+21 2. .... I purchased the property on .....
+22 3. .... The real property is a residential dwelling.
+23 4. .... An unauthorized person or persons have unlawfully entered
+24 and are remaining or residing unlawfully on the real property.
+25 5. .... The real property was not open to members of the public at
+26 the time the unauthorized person or persons entered.
+27 6. .... I have directed the unauthorized person or persons to leave
+28 the real property, but they have not done so.
+29 7. .... The person or persons are not current or former tenants
+30 pursuant to any valid lease authorized by the property owner, and
+31 any lease that may be produced by an occupant is fraudulent.
+32 8. .... The unauthorized person or persons sought to be removed are
+33 not owners or co-owners of the property and have not been listed on
+34 the title to the property unless the person or persons have engaged
+35 in title fraud.
+36 9. .... The unauthorized person or persons are not immediate fam-
+37 ily members of the property owner.
+38 10. .... There is no litigation related to the real property pend-
+39 ing between the property owner and any person sought to be removed.
+40 11. .... I understand that a person or persons removed from the
+41 property pursuant to this procedure may bring a cause of action
+42 against me for any false statements made in this complaint, or for
+43 wrongfully using this procedure, and that as a result of such action
+44 I may be held liable for actual damages, penalties, costs, and rea-
+45 sonable attorney's fees.
+46 12. .... I am requesting the sheriff to immediately remove the
+47 unauthorized person or persons from the residential property.
+48 13. .... A copy of my valid government-issued identification is
+49 attached, or I am an agent of the property owner, and documents ev-
+3
+1 idencing my authority to act on the property owner's behalf are at-
+2 tached.
+3 I HAVE READ EVERY STATEMENT MADE IN THIS PETITION AND EACH STATEMENT
+4 IS TRUE AND CORRECT. I UNDERSTAND THAT THE STATEMENTS MADE IN THIS
+5 PETITION ARE BEING MADE UNDER PENALTY OF PERJURY.
+6 ...(Signature of Property Owner or Agent of Owner)...
+7 (4) Upon receipt of the complaint, the sheriff shall verify that the
+8 person submitting the complaint is the record owner of the real property or
+9 the authorized agent of the owner and appears otherwise entitled to relief
+10 pursuant to the provisions of this section. If verified, the sheriff shall,
+11 without delay, serve a notice to immediately vacate on all the unlawful occu-
+12 pants and shall put the owner in possession of the real property. Service may
+13 be accomplished by hand delivery of the notice to an occupant or by posting
+14 the notice on the front door or entrance of the dwelling. The sheriff shall
+15 also attempt to verify the identities of all persons occupying the dwelling
+16 and note the identities on the return of service. If appropriate, the sher-
+17 iff may arrest any person found in the dwelling for trespass, outstanding
+18 warrants, or any other legal cause.
+19 (5) The sheriff is entitled to the same fee for service of the notice to
+20 immediately vacate as if the sheriff were serving a writ of possession. Af-
+21 ter the sheriff serves the notice to immediately vacate, the property owner
+22 or authorized agent may request that the sheriff stand by to keep the peace
+23 while the property owner or agent of the owner changes the locks and removes
+24 the personal property of the unlawful occupants from the premises to or near
+25 the property line. When such a request is made, the sheriff may charge a rea-
+26 sonable hourly rate, and the person requesting the sheriff to stand by and
+27 keep the peace is responsible for paying the reasonable hourly rate set by
+28 the sheriff. The sheriff is not liable to the unlawful occupant or any other
+29 party for loss, destruction, or damage of property. The property owner or
+30 the owner's authorized agent is not liable to an unlawful occupant or any
+31 other party for the loss, destruction, or damage to the personal property un-
+32 less the removal was wrongful.
+33 (6) A person may bring a civil cause of action for wrongful removal un-
+34 der this section. A person harmed by a wrongful removal under this section
+35 may be restored to possession of the real property and may recover actual
+36 costs and damages incurred, statutory damages equal to triple the fair mar-
+37 ket rent of the dwelling, court costs, and reasonable attorney's fees. The
+38 court shall advance the cause on the calendar.
+39 (7) The provisions of this section shall not limit the rights of a prop-
+40 erty owner or limit the authority of a law enforcement officer to arrest an
+41 unlawful occupant for trespassing, vandalism, theft, or other crimes.
+42 SECTION 2. That Chapter 36, Title 18, Idaho Code, be, and the same is
+43 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+44 ignated as Section 18-3621, Idaho Code, and to read as follows:
+45 18-3621. MAKING FALSE STATEMENTS TO DETAIN REAL PROPERTY. Any person
+46 who, with the intent to detain or remain on real property, knowingly and
+47 willfully presents to another person a false document purporting to be a
+48 valid lease agreement, deed, or other instrument conveying real property
+49 rights commits a misdemeanor.
+4
+1 SECTION 3. That Chapter 36, Title 18, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 18-3622, Idaho Code, and to read as follows:
+4 18-3622. FRAUDULENT SALE OR LEASE OF RESIDENTIAL REAL PROPERTY. A per-
+5 son who lists or advertises residential real property for sale knowing that
+6 the purported seller has no legal title or authority to sell the property or
+7 who rents or leases the property to another person knowing that he has no law-
+8 ful ownership in the property or leasehold interest in the property commits a
+9 felony.
+10 SECTION 4. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOPYR;AGCR3,TE6,IOC,BYTNOFANWSN6,IOC,TOEHPGALDAERYTOREUDPMRLRLP;AGCR3,TE1,I,BYTEANOFANWSN1,IOC,TOPRTECEOFMGFESSTODNRLP;AGCR3,TE1,IOC,BYTEANOFANWS,IOC,TOPEFRTECEOFFTSEOEOFRLRLP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.LDAERYTOREUDPMRLRLP.()Telefsttteroeeosfme,adterttodtostoiyv,rlrlpyaetemtitrlp.Telefrfsttegrsrdpswouyrnonrlrlpltoaypttersoftepyoradfltoaydettadv.Teitoftssnistyrepnofrlrlpytotelloftepywntepyisbguyodadtotepyrswelgteoyfrcla)Apyororteosadatmyrtfesfoftecyinwhtepyisldteilofapnorpsuyogarldttotssnifaloftefgcsaem)Tergpnistepyororadatoepyo)Terlpyttisbgodisar)Anudpnorpsheuyedadrnorcetoreontepyosp)Terlpywsntontomsoftepcatteteudpnorpse)Tepyorhsddteudpntolep]
+[DELETED: )Teudpnorpsaentctorfrtspttoawnorolrlatadbytyo)Teudpnorpsaentiefymftepyo;a)Teisnopglnrdtoterlpybepyoradayknudp)Tortteierlofanulotofarld,tepyororteosadatmtactbypgacdadvd"ttoRePsUyOgRlRlP"totesftecyinwhterlpyisl.TesdctbeinsytefgfTTOREPSUYOLRLP,teororadatofteorofterlpdat...,deurtepyofpytt(lehb...Iamteorofterlpyorteadafteorofterlp...Ipdtepyon....Terlpyisarld...Anudpnorpsheuyedaergorrguyonterlp...Terlpywsntontomsoftepcaeteteudpnorpse...Iheddteudpnorpstolerlp,bttyhentdes...Tepnorpsaentctorfrtttoayvdleadbytepyo,aylettmybepdbyanotisf...Teudpnorpssttoberdatosorcsoftepyadhentbnldoetetotepyustepnorpsheentef...Teudpnorpsaentiefymsoftepyo...Teisnolnrdtoterlpypgbntepyoradaypnsttober...Iudttapnorpsrdfmtypttotspemybgaceofatmefrayfessmeintsc,orfyugtsp,adttasartofshamybehdlefrald,p,c,adreasf...Iamrgtesftoiyretdpnorpsfmterlp...Acyofmyvdgdini,orIamanatoftepyo,addse]
+[DELETED: gmyaytoatontepyosbfaeaHERDEYSTMEINTSPNADEHSSTEADC.IUDTTTESSMEINTNAEBGMEURPYOFPeofPyOrorAtofO)Unrtoftec,tesfslvytttnsgtectisterdorofterlpyoeadatofteoradasoeedtorttotepsoftss.Ifv,tesfstd,seanetoiyveonalteulosadslptteorinpnofterlp.Semeadbyhddyoftenetoanotorbypeneonteftdroreeofted.Tesfsoattovyteisofalpsogteddneteisonternofs.Ifa,tesfmyataypnfdintedgfrt,o,orayorllc)Tesfisedtotesefefrseoftenetyveasiftesfwesgawtofp.Artesfsstenetoiyv,tepyoradatmyrttttesfsdbytokptepetepyororatofteorcstelsadreplpyofteulosfmtepstoornepyl.Wnshartism,tesfmycearehyr,adtepnrgtesftosdbyaptepeisrefrpgterehyrestbes.Tesfisntletoteulotorayoyfrl,d,ordeofp.Tepyoroeosadatisntletoanulotorarpyfrtel,d,ordetoteplpyusterlwsw)Apnmybgaclceofanfrwlrlurtss.Apnhdbyawlrlurtssyberdtopnofterlpyadmyrrasaddsi,sydseltotetefrmtrtofted,ctc,adreasf.Ttslaeteceontec)Tepsoftssnslntlttersofapyororltteayofalwetortoatalotfrt,v,t,ororcN2.TtCr3,Te1,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn1,IoC,adtordasf.MGFESSTODNRLP.Ayp,whteittodnorrnonrlp,kyaypstoarpnafedtpgtobedlea,d,ororitcgrlpscsam]
+[DELETED: N3.TtCr3,Te1,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn1,IoC,adtordasf.FTSEORLEOFRLRLP.ApnwolsorasrlrlpyfrsekgtepdsrhsnollteoraytosltepyoorsorlstepytoarpnkgtthehsnollopintepyorlditintepycsN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 321
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY RIGHTS; AMENDING CHAPTER 3, TITLE 6, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 6-310A, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING A LIMITED ALTERNATIVE REMEDY TO REMOVE UNAUTHORIZED PERSONS
+5 FROM RESIDENTIAL REAL PROPERTY; AMENDING CHAPTER 36, TITLE 18, IDAHO
+6 CODE, BY THE ADDITION OF A NEW SECTION 18-3621, IDAHO CODE, TO PROVIDE
+7 FOR THE CRIME OF MAKING FALSE STATEMENTS TO DETAIN REAL PROPERTY; AMEND-
+8 ING CHAPTER 36, TITLE 18, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+9 18-3622, IDAHO CODE, TO PROVIDE FOR THE CRIME OF FRAUDULENT SALE OR
+10 LEASE OF RESIDENTIAL REAL PROPERTY; AND DECLARING AN EMERGENCY AND PRO-
+11 VIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Chapter 3, Title 6, Idaho Code, be, and the same is
+14 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+15 ignated as Section 6-310A, Idaho Code, and to read as follows:
+16 6-310A. LIMITED ALTERNATIVE REMEDY TO REMOVE UNAUTHORIZED PERSONS
+17 FROM RESIDENTIAL REAL PROPERTY. (1) The legislature finds that the right
+18 to exclude others from entering, and the right to direct others to immedi-
+19 ately vacate, residential real property are the most important real property
+20 rights. The legislature further finds that existing remedies regarding
+21 unauthorized persons who unlawfully remain on residential real property
+22 fail to adequately protect the rights of the property owner and fail to ad-
+23 equately discourage theft and vandalism. The intent of this section is to
+24 quickly restore possession of residential real property to the lawful owner
+25 of the property when the property is being unlawfully occupied and to thereby
+26 preserve property rights while limiting the opportunity for criminal activ-
+27 ity.
+28 (2) A property owner or the owner's authorized agent may request from
+29 the sheriff of the county in which the property is located the immediate
+30 removal of a person or persons unlawfully occupying a residential dwelling
+31 pursuant to this section if all of the following conditions are met:
+32 (a) The requesting person is the property owner or authorized agent of
+33 the property owner;
+34 (b) The real property that is being occupied includes a residential
+35 dwelling;
+36 (c) An unauthorized person or persons have unlawfully entered and re-
+37 main or continue to reside on the property owner's property;
+38 (d) The real property was not open to members of the public at the time
+39 the unauthorized person or persons entered;
+40 (e) The property owner has directed the unauthorized person to leave
+41 the property;
+
+2
+1 (f) The unauthorized person or persons are not current or former ten-
+2 ants pursuant to a written or oral rental agreement authorized by the
+3 property owner;
+4 (g) The unauthorized person or persons are not immediate family members
+5 of the property owner; and
+6 (h) There is no pending litigation related to the real property between
+7 the property owner and any known unauthorized person.
+8 (3) To request the immediate removal of an unlawful occupant of a res-
+9 idential dwelling, the property owner or the owner's authorized agent must
+10 submit a complaint by presenting a completed and verified "Complaint to Re-
+11 move Persons Unlawfully Occupying Residential Real Property" to the sheriff
+12 of the county in which the real property is located. The submitted complaint
+13 must be in substantially the following form:
+14 COMPLAINT TO REMOVE PERSONS UNLAWFULLY OCCUPYING
+15 RESIDENTIAL REAL PROPERTY
+16 I, the owner or authorized agent of the owner of the real property
+17 located at ... ..., declare under the penalty of perjury that (ini-
+18 tial each box):
+19 1. .... I am the owner of the real property or the authorized agent
+20 of the owner of the real property.
+21 2. .... I purchased the property on .....
+22 3. .... The real property is a residential dwelling.
+23 4. .... An unauthorized person or persons have unlawfully entered
+24 and are remaining or residing unlawfully on the real property.
+25 5. .... The real property was not open to members of the public at
+26 the time the unauthorized person or persons entered.
+27 6. .... I have directed the unauthorized person or persons to leave
+28 the real property, but they have not done so.
+29 7. .... The person or persons are not current or former tenants
+30 pursuant to any valid lease authorized by the property owner, and
+31 any lease that may be produced by an occupant is fraudulent.
+32 8. .... The unauthorized person or persons sought to be removed are
+33 not owners or co-owners of the property and have not been listed on
+34 the title to the property unless the person or persons have engaged
+35 in title fraud.
+36 9. .... The unauthorized person or persons are not immediate fam-
+37 ily members of the property owner.
+38 10. .... There is no litigation related to the real property pend-
+39 ing between the property owner and any person sought to be removed.
+40 11. .... I understand that a person or persons removed from the
+41 property pursuant to this procedure may bring a cause of action
+42 against me for any false statements made in this complaint, or for
+43 wrongfully using this procedure, and that as a result of such action
+44 I may be held liable for actual damages, penalties, costs, and rea-
+45 sonable attorney's fees.
+46 12. .... I am requesting the sheriff to immediately remove the
+47 unauthorized person or persons from the residential property.
+48 13. .... A copy of my valid government-issued identification is
+49 attached, or I am an agent of the property owner, and documents ev-
+
+3
+1 idencing my authority to act on the property owner's behalf are at-
+2 tached.
+3 I HAVE READ EVERY STATEMENT MADE IN THIS PETITION AND EACH STATEMENT
+4 IS TRUE AND CORRECT. I UNDERSTAND THAT THE STATEMENTS MADE IN THIS
+5 PETITION ARE BEING MADE UNDER PENALTY OF PERJURY.
+6 ...(Signature of Property Owner or Agent of Owner)...
+7 (4) Upon receipt of the complaint, the sheriff shall verify that the
+8 person submitting the complaint is the record owner of the real property or
+9 the authorized agent of the owner and appears otherwise entitled to relief
+10 pursuant to the provisions of this section. If verified, the sheriff shall,
+11 without delay, serve a notice to immediately vacate on all the unlawful occu-
+12 pants and shall put the owner in possession of the real property. Service may
+13 be accomplished by hand delivery of the notice to an occupant or by posting
+14 the notice on the front door or entrance of the dwelling. The sheriff shall
+15 also attempt to verify the identities of all persons occupying the dwelling
+16 and note the identities on the return of service. If appropriate, the sher-
+17 iff may arrest any person found in the dwelling for trespass, outstanding
+18 warrants, or any other legal cause.
+19 (5) The sheriff is entitled to the same fee for service of the notice to
+20 immediately vacate as if the sheriff were serving a writ of possession. Af-
+21 ter the sheriff serves the notice to immediately vacate, the property owner
+22 or authorized agent may request that the sheriff stand by to keep the peace
+23 while the property owner or agent of the owner changes the locks and removes
+24 the personal property of the unlawful occupants from the premises to or near
+25 the property line. When such a request is made, the sheriff may charge a rea-
+26 sonable hourly rate, and the person requesting the sheriff to stand by and
+27 keep the peace is responsible for paying the reasonable hourly rate set by
+28 the sheriff. The sheriff is not liable to the unlawful occupant or any other
+29 party for loss, destruction, or damage of property. The property owner or
+30 the owner's authorized agent is not liable to an unlawful occupant or any
+31 other party for the loss, destruction, or damage to the personal property un-
+32 less the removal was wrongful.
+33 (6) A person may bring a civil cause of action for wrongful removal un-
+34 der this section. A person harmed by a wrongful removal under this section
+35 may be restored to possession of the real property and may recover actual
+36 costs and damages incurred, statutory damages equal to triple the fair mar-
+37 ket rent of the dwelling, court costs, and reasonable attorney's fees. The
+38 court shall advance the cause on the calendar.
+39 (7) The provisions of this section shall not limit the rights of a prop-
+40 erty owner or limit the authority of a law enforcement officer to arrest an
+41 unlawful occupant for trespassing, vandalism, theft, or other crimes.
+42 SECTION 2. That Chapter 36, Title 18, Idaho Code, be, and the same is
+43 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+44 ignated as Section 18-3621, Idaho Code, and to read as follows:
+45 18-3621. MAKING FALSE STATEMENTS TO DETAIN REAL PROPERTY. Any person
+46 who, with the intent to detain or remain on real property, knowingly and
+47 willfully presents to another person a false document purporting to be a
+48 valid lease agreement, deed, or other instrument conveying real property
+49 rights commits a misdemeanor.
+
+4
+1 SECTION 3. That Chapter 36, Title 18, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 18-3622, Idaho Code, and to read as follows:
+4 18-3622. FRAUDULENT SALE OR LEASE OF RESIDENTIAL REAL PROPERTY. A per-
+5 son who lists or advertises residential real property for sale knowing that
+6 the purported seller has no legal title or authority to sell the property or
+7 who rents or leases the property to another person knowing that he has no law-
+8 ful ownership in the property or leasehold interest in the property commits a
+9 felony.
+10 SECTION 4. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOPYR;AGCR3,TE6,IOC,BYTNOFANWSN6,IOC,TOEHPGALDAERYTOREUDPMRLRLP;AGCR3,TE1,I,BYTEANOFANWSN1,IOC,TOPRTECEOFMGFESSTODNRLP;AGCR3,TE1,IOC,BYTEANOFANWS,IOC,TOPEFRTECEOFFTSEOEOFRLRLP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.LDAERYTOREUDPMRLRLP.()Telefsttteroeeosfme,adterttodtostoiyv,rlrlpyaetemtitrlp.Telefrfsttegrsrdpswouyrnonrlrlpltoaypttersoftepyoradfltoaydettadv.Teitoftssnistyrepnofrlrlpytotelloftepywntepyisbguyodadtotepyrswelgteoyfrcla)Apyororteosadatmyrtfesfoftecyinwhtepyisldteilofapnorpsuyogarldttotssnifaloftefgcsaem)Tergpnistepyororadatoepyo)Terlpyttisbgodisar)Anudpnorpsheuyedadrnorcetoreontepyosp)Terlpywsntontomsoftepcatteteudpnorpse)Tepyorhsddteudpntolep]
+[DELETED: )Teudpnorpsaentctorfrtspttoawnorolrlatadbytyo)Teudpnorpsaentiefymftepyo;a)Teisnopglnrdtoterlpybepyoradayknudp)Tortteierlofanulotofarld,tepyororteosadatmtactbypgacdadvd"ttoRePsUyOgRlRlP"totesftecyinwhterlpyisl.TesdctbeinsytefgfTTOREPSUYOLRLP,teororadatofteorofterlpdat...,deurtepyofpytt(lehb...Iamteorofterlpyorteadafteorofterlp...Ipdtepyon....Terlpyisarld...Anudpnorpsheuyedaergorrguyonterlp...Terlpywsntontomsoftepcaeteteudpnorpse...Iheddteudpnorpstolerlp,bttyhentdes...Tepnorpsaentctorfrtttoayvdleadbytepyo,aylettmybepdbyanotisf...Teudpnorpssttoberdatosorcsoftepyadhentbnldoetetotepyustepnorpsheentef...Teudpnorpsaentiefymsoftepyo...Teisnolnrdtoterlpypgbntepyoradaypnsttober...Iudttapnorpsrdfmtypttotspemybgaceofatmefrayfessmeintsc,orfyugtsp,adttasartofshamybehdlefrald,p,c,adreasf...Iamrgtesftoiyretdpnorpsfmterlp...Acyofmyvdgdini,orIamanatoftepyo,addse]
+[DELETED: gmyaytoatontepyosbfaeaHERDEYSTMEINTSPNADEHSSTEADC.IUDTTTESSMEINTNAEBGMEURPYOFPeofPyOrorAtofO)Unrtoftec,tesfslvytttnsgtectisterdorofterlpyoeadatofteoradasoeedtorttotepsoftss.Ifv,tesfstd,seanetoiyveonalteulosadslptteorinpnofterlp.Semeadbyhddyoftenetoanotorbypeneonteftdroreeofted.Tesfsoattovyteisofalpsogteddneteisonternofs.Ifa,tesfmyataypnfdintedgfrt,o,orayorllc)Tesfisedtotesefefrseoftenetyveasiftesfwesgawtofp.Artesfsstenetoiyv,tepyoradatmyrttttesfsdbytokptepetepyororatofteorcstelsadreplpyofteulosfmtepstoornepyl.Wnshartism,tesfmycearehyr,adtepnrgtesftosdbyaptepeisrefrpgterehyrestbes.Tesfisntletoteulotorayoyfrl,d,ordeofp.Tepyoroeosadatisntletoanulotorarpyfrtel,d,ordetoteplpyusterlwsw)Apnmybgaclceofanfrwlrlurtss.Apnhdbyawlrlurtssyberdtopnofterlpyadmyrrasaddsi,sydseltotetefrmtrtofted,ctc,adreasf.Ttslaeteceontec)Tepsoftssnslntlttersofapyororltteayofalwetortoatalotfrt,v,t,ororcN2.TtCr3,Te1,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn1,IoC,adtordasf.MGFESSTODNRLP.Ayp,whteittodnorrnonrlp,kyaypstoarpnafedtpgtobedlea,d,ororitcgrlpscsam]
+[DELETED: N3.TtCr3,Te1,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn1,IoC,adtordasf.FTSEORLEOFRLRLP.ApnwolsorasrlrlpyfrsekgtepdsrhsnollteoraytosltepyoorsorlstepytoarpnkgtthehsnollopintepyorlditintepycsN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,1083 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1083, As Amended
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO DOMESTIC WATER USES; AMENDING SECTION 42-111, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING THE DEFINITION OF DOMESTIC PURPOSES AND TO
+4 PROVIDE FOR MULTIPLE WATER RIGHTS; AMENDING SECTION 42-227, IDAHO CODE,
+5 TO REVISE PROVISIONS REGARDING DRILLING AND USE OF WELLS FOR DOMESTIC
+6 PURPOSES; AMENDING SECTION 42-351, IDAHO CODE, TO REVISE PROVISIONS
+7 REGARDING ILLEGAL DIVERSION OR USE OF WATER; AMENDING CHAPTER 17, TITLE
+8 42, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 42-1701C, IDAHO CODE,
+9 TO PROVIDE FOR THE ENFORCEMENT OF DOMESTIC PURPOSE AND DOMESTIC USE
+10 LIMITATIONS; AMENDING SECTION 42-1805, IDAHO CODE, TO REVISE A PROVI-
+11 SION REGARDING THE POWERS OF THE DIRECTOR OF THE DEPARTMENT OF WATER
+12 RESOURCES; REPEALING SECTION 31-3805, IDAHO CODE, RELATED TO DELIVERY
+13 OF WATER; AMENDING CHAPTER 38, TITLE 31, IDAHO CODE, BY THE ADDITION OF A
+14 NEW SECTION 31-3805, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE
+15 DELIVERY OF WATER WITHIN SUBDIVISIONS; AMENDING SECTION 31-3806, IDAHO
+16 CODE, TO REVISE PROVISIONS REGARDING CIVIL ACTIONS; AMENDING SECTION
+17 50-1334, IDAHO CODE, TO REVISE A PROVISION REGARDING THE REVIEW OF WATER
+18 SYSTEMS; AMENDING SECTION 67-6508, IDAHO CODE, TO REVISE PROVISIONS
+19 REGARDING PLANNING DUTIES; AMENDING SECTION 67-6537, IDAHO CODE, TO RE-
+20 MOVE A PROVISION REGARDING THE USE OF SURFACE WATER FOR IRRIGATION; AND
+21 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That Section 42-111, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 42-111. DOMESTIC PURPOSES DEFINED. (1) For purposes of sections
+26 42-221, 42-227, 42-230, 42-235, 42-237a, 42-242, 42-243, and 42-1401A,
+27 Idaho Code, the :
+28 (a) The phrase "domestic purposes" or "domestic uses" means:
+29 (a) (i) The use of water for homes, organization camps, public
+30 campgrounds, livestock, and for any other purpose in connection
+31 therewith, including irrigation of up to one-half (1/2) acre of
+32 land, if the total use is not in excess of does not exceed thirteen
+33 thousand (13,000) gallons per day,; or
+34 (b) (ii) Any other uses, The use of water for any other purpose,
+35 if the total use does not exceed a diversion rate of four one-hun-
+36 dredths (0.04) cubic feet per second and a diversion volume of
+37 twenty-five hundred (2,500) gallons per day volume of two and
+38 eight-tenths (2.8) acre feet per year.
+39 (2) For purposes of the sections listed in subsection (1) of this sec-
+40 tion, domestic purposes or domestic uses shall not include water for multi-
+41 ple ownership subdivisions, mobile home parks, or commercial or business es-
+2
+1 tablishments, unless the use meets the diversion rate and volume limitations
+2 set forth in subsection (1)(b) of this section.
+3 (b) "Domestic purposes" or "domestic uses" shall not include water for
+4 the following purposes, unless the use meets the diversion rate and vol-
+5 ume limitations set forth in paragraph (a) of this subsection:
+6 (i) Mobile home parks or recreational vehicle parks;
+7 (ii) Apartments, condominiums, and similar developments with
+8 multiple dwelling units;
+9 (iii) Except as provided in subsection (3) of this section, subdi-
+10 visions, as defined in chapter 13, title 50, Idaho Code; or
+11 (iv) Commercial or business establishments or mixed-use estab-
+12 lishments where the water is used primarily for commercial or
+13 business purposes.
+14 (3) (2) Multiple Except as provided in subsection (3) of this section,
+15 multiple water rights for domestic uses or domestic purposes, as defined in
+16 this section, shall not be established or exercised in a manner to satisfy
+17 a single combined water use or purpose that would not itself come within the
+18 definition of a domestic use or purpose under this section. The purpose of
+19 this limitation is to prohibit the diversion and use of water, under a combi-
+20 nation of domestic purposes or domestic uses as defined in this section, to
+21 provide a supply of water for a use that does not meet the exemption of sec-
+22 tion 42-227, Idaho Code, and is required to comply with the mandatory appli-
+23 cation and permit process for developing a right to the use of water pursuant
+24 to chapter 2, title 42, Idaho Code.
+25 (3) Multiple water rights for domestic purposes or uses may be estab-
+26 lished and exercised from the same point or points of diversion if the use
+27 is limited to residential, in-home use. This subsection does not affect any
+28 other permitting requirement or other requirement that may apply to the use
+29 of water within a subdivision. For the purposes of this section, the term
+30 "in-home use" means the utilization of water within a residence or house-
+31 hold, including all activities that require water, such as drinking, cook-
+32 ing, bathing, and cleaning within and around the household. It does not in-
+33 clude irrigation of lawns, gardens, landscaping, pastures, or other open
+34 spaces.
+35 SECTION 2. That Section 42-227, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 42-227. DRILLING AND USE OF WELLS FOR DOMESTIC PURPOSES EXCEPTED. (1)
+38 The Except as provided in subsection (4) of this section, excavation and
+39 opening of wells and the withdrawal of water therefrom for domestic purposes
+40 or uses as defined in section 42-111, Idaho Code, shall not be subject to the
+41 permit requirements under section 42-229, Idaho Code; providing such wells
+42 and withdrawal devices are subject to inspection by the department of water
+43 resources and the department of environmental quality and providing further
+44 that the drilling of such wells shall be subject to the licensing provisions
+45 of section 42-238, Idaho Code. Rights to ground water for such domestic pur-
+46 poses may be acquired by withdrawal and use.
+47 (2) Wells and withdrawal devices for domestic purposes or uses shall be
+48 subject to inspection by the department of water resources and the depart-
+49 ment of environmental quality.
+3
+1 (3) Well drillers shall be licensed pursuant to the licensing provi-
+2 sions of section 42-238, Idaho Code.
+3 (4) For purposes of new diversions within subdivisions, as defined in
+4 chapter 13, title 50, Idaho Code, in any area where the director of the de-
+5 partment of water resources has issued a moratorium order on the develop-
+6 ment of new water rights or has designated a critical ground water area or
+7 ground water management area, an application for permit, pursuant to section
+8 42-229, Idaho Code, shall be required for the diversion of water for any new
+9 domestic purposes or uses, as defined in section 42-111, Idaho Code, other
+10 than for in-home uses, as defined in section 42-111, Idaho Code, or watering
+11 livestock.
+12 SECTION 3. That Section 42-351, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 42-351. ILLEGAL DIVERSION OR USE OF WATER -- ENFORCEMENT PROCEDURE --
+15 INJUNCTIVE RELIEF. (1) It is unlawful for any person to divert or use water
+16 from:
+17 (a) From a natural watercourse or from a ground water source without
+18 having obtained a valid water right to do so, or to divert or use water
+19 not;
+20 (b) Not in conformance with a valid water right.; or
+21 (2) (c) It is unlawful for any person to divert or use water in In sub-
+22 stantial violation of any provision of this title, or any rule, permit,
+23 condition of approval, or order issued or promulgated pursuant to this
+24 title that is related to the diversion or use of water.
+25 (3) (2) Upon investigation of available information, the director of
+26 the department of water resources shall have the discretion to issue:
+27 (a) Issue a written notice of violation to the person in accordance with
+28 the provisions of section 42-1701B, Idaho Code, for the illegal diver-
+29 sion or use of water.; or
+30 (b) Proceed with enforcement actions pursuant to section 42-1701C,
+31 Idaho Code, in cases of diversions for domestic purposes or uses as de-
+32 fined in section 42-111, Idaho Code; and
+33 (4) (3) Notwithstanding the issuance of a notice of violation the pro-
+34 visions of subsection (2) of this section, the director may also file an ac-
+35 tion seeking injunctive relief directing the person to cease and desist the
+36 activity or activities alleged to be in violation of applicable law or any
+37 existing water right.
+38 SECTION 4. That Chapter 17, Title 42, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 42-1701C, Idaho Code, and to read as follows:
+41 42-1701C. ENFORCEMENT OF DOMESTIC PURPOSE AND DOMESTIC USE LIMITA-
+42 TIONS. (1) If the director of the department of water resources becomes aware
+43 of water use that exceeds the authorized limits of an appurtenant water right
+44 for domestic purposes or uses as defined in section 42-111, Idaho Code, re-
+45 gardless of when the use was established, the director may:
+46 (a) Notify the property owner, in writing, of the alleged excess use;
+47 and
+4
+1 (b) Provide the property owner ninety (90) days to remedy the excess
+2 use or provide information that the water use does not exceed authorized
+3 limits of the appurtenant water right for domestic purposes or uses.
+4 (2) If, after notification by the director pursuant to subsection (1)
+5 of this section, the property owner fails to remedy the excess use or to pro-
+6 vide information that the use does not exceed authorized limits within the
+7 time prescribed and to the director's satisfaction, then the director shall
+8 issue a notice of violation to the property owner, identifying the informa-
+9 tion supporting the determination of excess use.
+10 (3)(a) Any person to whom a notice of violation has been issued pursuant
+11 to subsection (2) of this section shall be liable for a civil penalty
+12 pursuant to this section.
+13 (i) For excess irrigation, a penalty of five hundred dollars
+14 ($500) for every one-tenth (0.1) of an acre in excess irrigation
+15 above the authorized limits shall be assessed.
+16 (ii) For excess use other than irrigation, the lesser of the fol-
+17 lowing shall be assessed:
+18 1. One hundred dollars ($100) for every day water is di-
+19 verted at a rate that exceeds the maximum authorized diver-
+20 sion rate; or
+21 2. One hundred dollars ($100) for every acre-foot diverted
+22 in excess of the maximum authorized annual diversion volume.
+23 (b) Penalties shall be renewed each year until the excess use has been
+24 remedied to the director's satisfaction but shall not exceed five thou-
+25 sand dollars ($5,000) in any given year.
+26 (4) The director may request that the county in which the property is
+27 located collect the penalty for excess use. If the county agrees to collect
+28 the penalty:
+29 (a) The director shall provide the county with a copy of the notice of
+30 violation issued pursuant to this section; and
+31 (b) The county shall retain half of the penalty proceeds and deliver the
+32 other half to the director.
+33 (5) Unpaid penalties shall be filed as a lien against the property until
+34 paid in full.
+35 (6) Once a penalty has been assessed for a particular irrigation sea-
+36 son, as provided in this section, it shall be due and payable even if the ex-
+37 cess use is subsequently resolved.
+38 SECTION 5. That Section 42-1805, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 42-1805. ADDITIONAL DUTIES. In addition to other duties prescribed by
+41 law, the director of the department of water resources shall have the follow-
+42 ing powers and duties:
+43 (1) To represent the state in all matters pertaining to interstate and
+44 international water rights affecting Idaho water resources; and to cooper-
+45 ate with all agencies, now existing or hereafter to be formed, within the
+46 state or within other jurisdictions, in matters affecting the development of
+47 the water resources of this state.
+48 (2) To prepare a present and continuing inventory of the water re-
+49 sources of this state, ascertain means and methods of conserving and
+5
+1 augmenting these and determine as accurately as possible the most effective
+2 means by which these water resources may be applied for the benefit of the
+3 people of this state.
+4 (3) To conduct surveys, tests, investigations, research, examina-
+5 tions, studies, and estimates of cost relating to availability of unappro-
+6 priated water, effective use of existing supply, conservation, storage,
+7 distribution and use of water.
+8 (4) To prepare and compile information and data obtained and to make the
+9 same available to interested individuals or agencies.
+10 (5) To cooperate with and coordinate activities with the director of
+11 the department of environmental quality as such activities relate to the
+12 functions of either or both departments concerning water quality. Such co-
+13 operation and coordination shall specifically require that:
+14 (a) The director meet at least quarterly with the director of the de-
+15 partment of environmental quality and his staff to discuss water qual-
+16 ity programs. A copy of the minutes of such meeting shall be transmitted
+17 to the governor.
+18 (b) The director transmit to the director of the department of envi-
+19 ronmental quality reports and information prepared by him pertaining to
+20 water quality programs and proposed rules pertaining to water quality
+21 programs.
+22 (c) The director shall make available to the director of the department
+23 of environmental quality and the director of the department of envi-
+24 ronmental quality shall make available to the director all notices of
+25 hearings relating to the promulgation of rules relating to water qual-
+26 ity, waste discharge permits, and stream channel alteration, as such
+27 directly affect water quality, and notices of any other hearings and
+28 meetings which relate to water quality.
+29 (6) To perform administrative duties and such other functions as the
+30 board may, from time to time, assign to the director to enable the board to
+31 carry out its powers and duties.
+32 (7) After notice, to suspend the issuance or further action on permits
+33 or applications, including permits or applications for domestic purposes or
+34 uses as defined in section 42-111, Idaho Code, required pursuant to section
+35 42-227, Idaho Code, as necessary to protect existing vested water rights or
+36 to ensure compliance with the provisions of chapter 2, title 42, Idaho Code,
+37 or to prevent violation of minimum flow provisions of the state water plan.
+38 (8) To promulgate, adopt, modify, repeal and enforce rules implement-
+39 ing or effectuating the powers and duties of the department.
+40 (9) To seek a preliminary or permanent injunction, or both, or a tempo-
+41 rary restraining order restraining any person from violating or attempting
+42 to violate:
+43 (a) Those provisions of law relating to all aspects of the appropria-
+44 tion of water, distribution of water, headgates and measuring devices;
+45 or
+46 (b) The administrative or judicial orders entered in accordance with
+47 the provisions of law.
+48 (10) To develop, coordinate and provide, through contract or by other
+49 means, for weather modification projects involving cloud seeding that are
+50 designed to increase the water supplies of the state by enhancing natural
+6
+1 precipitation and that conform to state water planning objectives. To ac-
+2 complish these purposes, the director is authorized to accept and use funds
+3 acquired through legislative appropriation or by gift, grant, contribution
+4 or funding received from any private or public individual or entity. All
+5 funds accepted under this provision shall be transmitted to the state trea-
+6 surer for deposit in the water administration account and shall be reserved
+7 and made available until expended as ordered by the director for weather mod-
+8 ification purposes determined by the director to be beneficial.
+9 (11) To develop and implement a plan for data gathering to determine any
+10 effect of the weather modification efforts in which the department is in-
+11 volved.
+12 (12) To receive, file, record, or retain documents of record on media
+13 other than paper.
+14 SECTION 6. That Section 31-3805, Idaho Code, be, and the same is hereby
+15 repealed.
+16 SECTION 7. That Chapter 38, Title 31, Idaho Code, be, and the same is
+17 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+18 ignated as Section 31-3805, Idaho Code, and to read as follows:
+19 31-3805. DELIVERY OF WATER WITHIN SUBDIVISIONS. (1) The provisions of
+20 this section shall apply to any proposed subdivision, as defined in chapter
+21 13, title 50, Idaho Code, within the state of Idaho or to a subdivision sub-
+22 ject to a more restrictive county or city zoning ordinance.
+23 (2) For any subdivision that lies within the service area or area of
+24 city impact of a municipal provider, the following requirements apply:
+25 (a) If a shared well or public water system is installed, it shall be
+26 designed to meet requirements of that municipal provider and be planned
+27 to integrate with and connect to the municipal provider's system when
+28 appropriate. The requirements of this paragraph shall not apply if an
+29 agreement is reached with the municipal provider;
+30 (b) The municipal provider shall be consulted in the design of the
+31 shared well or public water system to ensure proper integration; and
+32 (c) Upon connection to the municipal provider's system, the water
+33 rights associated with the subdivision's shared well or public water
+34 system shall be conveyed to the municipal provider.
+35 (3) If surface water for irrigation is reasonably available to all or
+36 any part of a subdivision, as provided in section 67-6537, Idaho Code, then
+37 no subdivision plat, amendment to a subdivision plat, or any other plat or
+38 map recognized by the city or county for the division of land will be ac-
+39 cepted, approved, and recorded unless the owner or entity has provided for
+40 the irrigation of lots within the subdivision using the available surface
+41 water.
+42 (4) For subdivisions using water provided by an irrigation entity, as
+43 required by section 67-6537, Idaho Code, the subdivision plat or with the
+44 plat mat as an exhibit shall include a description of the system used to de-
+45 liver irrigation water from the irrigation entity's point of delivery to the
+46 individual lots. In such cases:
+47 (a) For proposed subdivisions within the incorporated limits of a city,
+48 the irrigation system must be approved by the city zoning authority or
+7
+1 the city council, as provided by city ordinance, with the advice of the
+2 irrigation entity charged with the delivery of water to such lands; and
+3 (b) For proposed subdivisions located outside an incorporated city,
+4 the irrigation system must be approved by the board of county commis-
+5 sioners, with the advice of the irrigation entity charged with the
+6 delivery of water to such lands.
+7 (5) For subdivisions receiving water from an irrigation entity, the
+8 subdivision plat or amendment to a subdivision plat shall contain notes
+9 stating the following:
+10 (a) That the subdivision or a portion of it is located within the ser-
+11 vice area of the irrigation entity and the name and contact information
+12 for the irrigation entity;
+13 (b) That a system for the delivery of irrigation water to lots within
+14 the subdivision has been provided;
+15 (c) That the system has been approved as required by subsection (4) of
+16 this section;
+17 (d) That the purchaser of each lot shall remain subject to all assess-
+18 ments levied by the irrigation entity; and
+19 (e) That unpaid irrigation entity assessments are a lien on the land
+20 within the irrigation entity.
+21 SECTION 8. That Section 31-3806, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 31-3806. CIVIL ACTION TO ENFORCE. (1) If the owner of the property of
+24 the person, firm, or corporation filing the subdivision plat, or amendment
+25 to a subdivision plat, or any other plat or map recognized by the city or
+26 county for the division of land fails to comply with either subsection (1) or
+27 (2) of section 31-3805, Idaho Code, prior to sale of the lots in the subdivi-
+28 sion to purchasers, the owner of the property, or the person, firm or corpo-
+29 ration or entity filing the subdivision plat, or amendment to a subdivision
+30 plat, or any other plat or map recognized by the city or county for the divi-
+31 sion of land shall be liable to any purchaser for the costs of the lot's ex-
+32 clusion plus all assessments due and owing or the actual cost of installation
+33 of an irrigation delivery system not to exceed one thousand five hundred dol-
+34 lars ($1,500) per lot all costs required to bring each subdivision lot into
+35 compliance with section 31-3805. The purchaser shall have a right to enforce
+36 this obligation in a civil action and the purchaser shall have the right to
+37 elect exclusion or installation of the system in such action.
+38 (2) Any person, firm or corporation who shall omit, neglect or refuse to
+39 provide the purchaser or the irrigation entity within whose boundaries the
+40 land is located, a copy of the disclosure statement required by subsection
+41 (2) of section 31-3805, Idaho Code:
+42 (a) Shall be liable to the purchaser as provided in subsection (1) of
+43 this section.
+44 (b) Shall be liable to the irrigation entity for its reasonable ex-
+45 pense, including employee time, of locating the purchaser and providing
+46 the information required in the form and for advising affected pur-
+47 chasers of the lack of a water delivery system and for any assessments on
+48 the property that are past due at the time of discovery of the violation.
+8
+1 The irrigation entity affected shall have a right to claim such expenses
+2 in a civil action.
+3 (3) (2) In any civil action filed under subsection (1) or (2) of this
+4 section, the prevailing party shall be awarded its reasonable costs and at-
+5 torney's fees. The purchaser and irrigation entity shall have two (2) years
+6 from the date of discovery of the violation to initiate any legal action.
+7 SECTION 9. That Section 50-1334, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 50-1334. REVIEW OF WATER SYSTEMS ENCOMPASSED BY PLATS. Whenever any
+10 plat is subject to the terms and requirements of sections 50-1326 through
+11 50-1329, Idaho Code, no person shall offer for recording, or cause to be
+12 recorded, a plat unless he or she shall have certified that he or she is in
+13 compliance with section 31-3805, Idaho Code, where applicable, and that at
+14 least one (1) of the following is the case:
+15 (1) The individual lots described in the plat will not be served by any
+16 water system common to one (1) or more of the lots, but will be served by indi-
+17 vidual wells.
+18 (2) All of the lots in the plat will be eligible to receive water service
+19 from an existing water system, be the water system municipal, a water dis-
+20 trict, a public utility subject to the regulation of the Idaho public utili-
+21 ties commission, or a mutual or nonprofit water company, and the existing wa-
+22 ter distribution system has agreed in writing to serve all of the lots in the
+23 subdivision.
+24 (3) If a new water system will come into being to serve the subdivision,
+25 that it has or will have sufficient contributed capital to allow the water
+26 system's wells, springboxes, reservoirs, and mains to be constructed to pro-
+27 vide service without further connection charges or fees to the landowners
+28 of the lots, except for connection of laterals, meters or other plant exclu-
+29 sively for the lot owner's own use.
+30 Failure to comply with this section is a misdemeanor subject to the pro-
+31 visions of section 50-1329, Idaho Code. The certification must be filed or
+32 recorded as part of the plat document preserved for public inspection. Prop-
+33 erty owners in the area encompassed by the plat will be entitled to the bene-
+34 fits of the third provision of this section when that option is chosen.
+35 SECTION 10. That Section 67-6508, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 67-6508. PLANNING DUTIES. It shall be the duty of the planning or plan-
+38 ning and zoning commission to conduct a comprehensive planning process de-
+39 signed to prepare, implement, and review, and update a comprehensive plan,
+40 hereafter referred to as the plan. The plan shall include all land within the
+41 jurisdiction of the governing board. The plan shall consider previous and
+42 existing conditions, trends, compatibility of land uses, desirable goals
+43 and objectives, or and desirable future situations for each planning compo-
+44 nent. The plan with maps, charts, and reports shall be based on the following
+45 components as they may apply to land use regulations and actions unless the
+46 plan specifies reasons why a particular component is unneeded.
+9
+1 (a) Property Rights -- An analysis of provisions which may be necessary
+2 to ensure that land use policies, restrictions, conditions and fees do not
+3 violate private property rights, adversely impact property values or cre-
+4 ate unnecessary technical limitations on the use of property and analysis as
+5 prescribed under the declarations of purpose in chapter 80, title 67, Idaho
+6 Code.
+7 (b) Population -- A population analysis of past, present, and future
+8 trends in population including such characteristics as total population,
+9 age, sex, and income.
+10 (c) School Facilities and Transportation -- An analysis of public
+11 school capacity and transportation considerations associated with future
+12 development.
+13 (d) Economic Development -- An analysis of the economic base of the area
+14 including employment, industries, economies, jobs, and income levels.
+15 (e) Land Use -- An analysis of natural land types, existing land covers
+16 and uses, and the intrinsic suitability of lands for uses such as agricul-
+17 ture, forestry, mineral exploration and extraction, preservation, recre-
+18 ation, housing, commerce, industry, and public facilities. A map shall be
+19 prepared indicating suitable projected land uses for the jurisdiction.
+20 (f) Natural Resources -- An analysis of the uses of rivers and other wa-
+21 ters, forests, range, soils, harbors, fisheries, wildlife, minerals, ther-
+22 mal waters, beaches, watersheds, and shorelines.
+23 (g) Hazardous Areas -- An analysis of known hazards as may result from
+24 susceptibility to surface ruptures from faulting, ground shaking, ground
+25 failure, landslides or mudslides; avalanche hazards resulting from de-
+26 velopment in the known or probable path of snowslides and avalanches, and
+27 floodplain hazards.
+28 (h) Public Services, Facilities, and Utilities -- An analysis showing
+29 general plans for sewage, drainage, power plant sites, utility transmission
+30 corridors, water supply, fire stations and fire fighting equipment, health
+31 and welfare facilities, libraries, solid waste disposal sites, schools,
+32 public safety facilities and related services. The plan may also show loca-
+33 tions of civic centers and public buildings.
+34 (i) Transportation -- An analysis, prepared in coordination with
+35 the local jurisdiction(s) having authority over the public highways and
+36 streets, showing the general locations and widths of a system of major traf-
+37 fic thoroughfares and other traffic ways, and of streets and the recommended
+38 treatment thereof. This component may also make recommendations on build-
+39 ing line setbacks, control of access, street naming and numbering, and a
+40 proposed system of public or other transit lines and related facilities
+41 including rights-of-way, terminals, future corridors, viaducts and grade
+42 separations. The component may also include port, harbor and other related
+43 transportation facilities.
+44 (j) Recreation -- An analysis showing a system of recreation areas, in-
+45 cluding parks, parkways, trailways, river bank greenbelts, beaches, play-
+46 grounds, and other recreation areas and programs.
+47 (k) Special Areas or Sites -- An analysis of areas, sites, or struc-
+48 tures of historical, archeological, architectural, ecological, wildlife,
+49 or scenic significance.
+10
+1 (l) Housing -- An analysis of housing conditions and needs; plans for
+2 improvement of housing standards; and plans for the provision of safe, san-
+3 itary, and adequate housing, including the provision for low-cost conven-
+4 tional housing, the siting of manufactured housing and mobile homes in sub-
+5 divisions and parks and on individual lots which are sufficient to maintain
+6 a competitive market for each of those housing types and to address the needs
+7 of the community.
+8 (m) Community Design -- An analysis of needs for governing landscaping,
+9 building design, tree planting, signs, and suggested patterns and standards
+10 for community design, development, and beautification.
+11 (n) Agriculture -- An analysis of the agricultural base of the area in-
+12 cluding agricultural lands, farming activities, farming-related businesses
+13 and the role of agriculture and agricultural uses in the community.
+14 (o) Implementation -- An analysis to determine actions, programs, bud-
+15 gets, ordinances, or other methods including scheduling of public expendi-
+16 tures to provide for the timely execution of the various components of the
+17 plan.
+18 (p) National Interest Electric Transmission Corridors -- After noti-
+19 fication by the public utilities commission concerning the likelihood of
+20 a federally designated national interest electric transmission corridor,
+21 prepare an analysis showing the existing location and possible routing
+22 of high voltage transmission lines, including national interest electric
+23 transmission corridors based upon the United States department of energy's
+24 most recent national electric transmission congestion study pursuant to
+25 sections 368 and 1221 of the energy policy act of 2005. "High-voltage trans-
+26 mission lines" means lines with a capacity of one hundred fifteen thousand
+27 (115,000) volts or more supported by structures of forty (40) feet or more in
+28 height.
+29 (q) Public Airport Facilities -- An analysis prepared with assistance
+30 from the Idaho transportation department division of aeronautics, if re-
+31 quested by the planning and zoning commission, and the manager or person in
+32 charge of the local public airport identifying, but not limited to, facility
+33 locations, the scope and type of airport operations, existing and future
+34 planned airport development and infrastructure needs, and the economic im-
+35 pact to the community.
+36 (r) When considering amending, repealing, or adopting a plan, the local
+37 governing board shall consider the effect the proposed amendment, repeal,
+38 or adoption of the plan would have on the source, quantity, and quality of
+39 ground water in the area.
+40 Nothing herein shall preclude the consideration of additional planning
+41 components or subject matter.
+42 SECTION 11. That Section 67-6537, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 67-6537. USE OF SURFACE AND GROUND WATER. (1) The intent of this sec-
+45 tion is to encourage the use of surface water for irrigation. All appli-
+46 cants proposing to make land use changes shall be required to use surface wa-
+47 ter, where reasonably available, as the primary water source for irrigation.
+48 Surface water shall be deemed reasonably available if:
+11
+1 (a) A surface water right is, or reasonably can be made, appurtenant to
+2 the land;
+3 (b) The land is entitled to distribution of surface water from an irri-
+4 gation district, canal company, ditch users association, or other irri-
+5 gation delivery entity, and the entity's distribution system is capable
+6 of delivering the water to the land; or
+7 (c) An irrigation district, canal company, or other irrigation deliv-
+8 ery entity has sufficient available surface water rights to apportion
+9 or allocate to the land and has a distribution system capable of deliv-
+10 ering the water to the land.
+11 (2) Consistent with sections 42-108 and 42-222, Idaho Code, any change
+12 in the nature of use of surface water provided by an irrigation delivery
+13 entity must be authorized by the entity holding the water right(s) for the
+14 available surface water. Nothing in this section shall alter the authority
+15 and discretion of irrigation delivery entities to apportion, allocate and
+16 distribute surface water, or for municipalities, counties, or water and
+17 sewer districts to pass ordinances or regulations to promote the use of sur-
+18 face water for irrigation.
+19 (3) Nothing in this section shall be construed to override or amend any
+20 provision of title 42 or 43, Idaho Code, or impair any rights acquired there-
+21 under.
+22 (4) When considering amending, repealing or adopting a comprehensive
+23 plan, the local governing board shall consider the effect the proposed
+24 amendment, repeal or adoption of the comprehensive plan would have on the
+25 source, quantity and quality of ground water in the area.
+26 SECTION 12. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1,AsAYRSADETCNAGTODCWRU;AGSN4,IOC,TEPSRGTEDNOFDCPSADTEFRMEWRR;AGSN4,IOCOREPSRGDGADUEOFWSFRD;AGSN4,IOC,TOREPGILDNORUEOFW;AGCR1,T,IOC,BYTEANOFANWSN4,IOCOPEFRTEETOFDCPEADDCU;AGSN4,IOC,TOREAPNRGTEPSOFTEDROFTEDTOFW;RGSN3,IOC,RDTODFW;AGCR3,TE3,IOC,BYTEANOFWSN3,IOC,TOEHPSRGTYOFWRWNS;AGSN3,I,TOREPSRGCLA;AGS,IOC,TOREAPNRGTERWOFW;AGSN6,IOC,TOREPGPGD;AGSN6,IOC,TOREAPNRGTEUEOFSEWRFRI;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DCPSD.()Frpsofs,4,4,4,4,4,4,ad4oC,te)Tepe"cp"or"cu"m)()Teueofwrfrh,onc,p,l,adfrayorpeinc,iginofuptoof()aeo,iftetlueisntinesofdsntedtd()gsprd;o)()Ayoru,Teueofwrfrayorpftetluedsntedadnreoffros()ccftprsdadadnveoehd()gsprdyveoftoas()aeftpry)Frpsoftessldinsn()oftss,dcpsordcusslntiewrfrmeops,mehep,orclorbse]
+[DELETED: ,usteuemstednreadveltfhinsn()oftss)"cp"or"cu"slntiewrfefgp,usteuemstednreadvelsstfhinph()oftss)Mehepsorrlvep)A,c,adsrdswedgu)Etaspdinsn()oftss,s,asddincr1,te5,IoC;o)Clorbsesormeeswetewrisudpyfrclosp)()MeEtaspdinsn()oftssewrrsfrdcusordcp,asddiss,slntbeedoredinamrtossecdwrueorpettwdntifcewntnofadcueorpeurtss.Tepeoslnistopttednadueofw,uracnofdcpsordcusasddintss,teasyofwrfrauettdsntmtteenofsn4,IoC,adisrdtocywhtemyanadptpsfrdgarttoteueofwrpocr2,te4,IoC)Mewrrsfrdcpsorusmybeedadedfmteseptorpsofdnifteusldtor,ieu.Tssndsntatarpgrtororrtttmyaytoteufwrwnas.Frtepsoftss,teteu"msteunofwrwnareorh,igalasttrew,shasd,c,b,adcgwnadadteh.Itdsntieinofl,g,l,p,ororoN2.TtSn4,IoC,b,adteseishdtordasf.DGADUEOFWSFRDCPSE.(eEtaspdinsn()oftss,enagofwsadtewlofwrtmfrdcprusasddinsn4,IoC,slntbesttottrsursn4,IoC;pgshwdwldsaesttoinbytedtofwsadtedtofelqyadpgfttedgofshwsslbesttotelgpfsn4,IoC.Rstogdwrfrshdcpsmybeadbywladu)Wsadwldsfrdcpsorusslbttoinbytedtofwrrsadtedtofelq]
+[DELETED: )Wldsslbeldpttotelgpsofsn4,IoC)Frpsofnwdswns,asddir1,te5,IoC,inayaawetedroftedtofwrrshsidammorontedtofnwwrrsorhsddaclgdwraaodwrmta,ananfrp,pttos,IoC,slberdfrtednofwrfrayncpsoru,asddinsn4,IoC,onfrieu,asddinsn4,IoC,orwN3.TtSn4,IoC,b,adteseishdtordasf.ILDNORUEOFWR--ETPE-ER.()Itisulfraypntodtoruew)Fmanlweorfmagdwrsewgodavdwrrttodos,ortodtoruew)Ntincewhavdwrr;o)()ItisulfraypntodtoruewrinInslvnofaypnoftst,orayr,pnofa,ororidorpdpttotettisrdtotednorueofw)()Uninofaei,tedroedtofwrrsslhetedntoi)Ieawnneofvntotepninaewepsofsn4,IoC,frteildnorueofw;o)Pdwhetaspttosn4oC,incsofdsfrdcpsorusasddinsn4,IoC;a)()Ngteieofaneofvntepsofsn()oftss,tedrmyaofeanansgierfdgtepntoceaddttyorasadtobeinvnofaelworagwrrN4.TtCr1,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ETOFDCPEADDCUEL.()Iftedroftedtofwrrsbsafwruettesteadlsofanatwrrrdcpsorusasddinsn4,IoC,rsofwnteuewse,tedrm)Nytepyo,inw,ofteadesu]
+[DELETED: )Petepyorny()dstoryteeeorpeintttewruedsntedasofteatwrrtfrdcpsoru)I,arnnbytedrpttosn(ftss,tepyorfstoryteesueortopeinttteuedsntedadlswntepdadtotedss,tntedrseaneofvntotepyo,igteinsgtednofesu)Aypntowmaneofvnhsbnidposn()oftssnslbelefraclpttotss)Fresi,apyoffehdd)freyoh()ofanaeinesieteadlsslbea)Fresueortni,telroftefgslbea.Oehdds()freydywrisddatarettestemmaddnr;o.Oehdds()freyatdnesoftemmadaldnv)Psslberdehyrulteesuehsbdtotedssnbtslntedfetdds()inaygny)Tedrmyrttttecyinwhtepyidcttepyfresu.Iftecyastocep)Tedrslpetecywhacyofteneonidpttotss;a)Tecyslrnhfoftepypsaddrtrhftoted)Udpsslbefdasalnattepyudinf)Oeapyhsbnadfraprins,aspdintss,itslbedeadpeenifteesueissyrN5.TtSn4,IoC,b,adteseishdtordasf.ALD.Inantoordspdb,tedroftedtofwrrsslhetefgpsadd)TortteseinalmspgtoiealwrrsagIowrr;adtocewhala,nwegorhrtobef,wnteorwnorj,inmsagtedtoewrrsoftss)Topeaptadcgiyoftewrrsoftss,anmsadmsofcga]
+[DELETED: gteaddeasayaspetemtesbywhtewrrsmybeadfrtebtofteoftss)Tocts,t,i,r,e,s,adesofctrgtoayofudw,eeueofegs,c,snadueofw)Topeadceinaddaodadtometeaetoidisora)Tocewhadceaswhtedroedtofelqyasshasretotsoferorbhdscgwrq.Shcnadcnslsyret)Tedrmtatltqywhtedroftedtofelqyadhssftodswrqyp.Acyoftemsofshmgslbetoteg)Tedrtttotedroftedtofelqyrsadinpdbyhmpgtrqypsadpdrspgtowrq)Tedrslmeaetotedroftedfelqyadtedroftedtofelqyslmeaetotedralnsosrgtotepnofrsrgtowrq,wedep,adsmcla,assyatwrq,adnsofayorhsaswhretowrq)Topmaedsadshorfsastdm,fmtetot,antotedrtoeetebdtyotispsadd)Arn,tosdteieorfranonpra,igpsorasfrdcpsosasddinsn4,IoC,rdpttos,IoC,asnytoptegvdwrrsooeecewhtepsofcr2,te4,IoCrtoptvnofmmfwpsoftesewrp)Top,a,m,rladeersigoregtepsaddsofted)Toskapyorpti,orb,oratyrgorrgaypnfmvgoraov)Tepsoflwrgtoalasofteanofw,dnofw,hsadmgd)Teaeorjlosedinaewepsofl)Tod,ceadp,thctorbyo,frwrmnpsigcdsgttadtoietewrssoftesebyegn]
+[DELETED: nadttcmtosewrpgo.Toahtep,tedrisadtoataduefdthleanorbyg,g,crfgrdfmaypeorpcilore.Asadurtspnslbetdtotesetrfrdtintewranatadslberdmeaeuledasodbytedrfrwrmnpsddbytedrtobeb)Todpaditapnfrdaggtodeatoftewrmnesinwhtedtisi)Tor,f,r,orrndsofrdonmrtnpN6.TtSn3,IoC,b,adteseishN7.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.DYOFWRWNS.()Tepsossnslaytoaypds,asddinc,te5,IoC,wnteseofIoortoasnsttoamerecyorcyzgo)Fraysnttlswnteseaaoraaoyitofamlp,tefgrsa)Ifasdwlorpcwrsmisi,itslbdtomtrsofttmlpradbepoiewhadcttotemlpssmw.Tersoftsphslntayifatisrdwhtemlp)Temlprslbecdintednoftdwlorpcwrsmtoeepri;a)Uncntotemlpss,tewsadwhtesssdwlorpcwmslbecdtotemlp)Ifsewrfrinisryaetoaloyptofas,aspdinsn6,IoC,tosnp,attoasnp,orayorptoprdbytecyorcyfrtednofldwlbea,a,adrdusteororeyhspdfeinoflswntesnugteaes)Frssugwrpdbyanine,adbysn6,IoC,tesnptorwhttmtasanetslieadnoftesmudtodrinwrfmteinesptofdytotll.Inshc)Frpdsswnteidlsofaceinsmmtbeadbytecyzgayo]
+[DELETED: ecyc,aspdbycyo,whteaeoftneycdwhtedyofwrtoshl;a)Frpdssldoeanidceinsmmtbeadbytebdofcyc,whteaeofteineycdwhtyofwrtoshl)Frssrgwrfmanine,tnptorattoasnptslcnngtef)Tttesnorapnofitisldwnteseaaofteineyadteneadctirteine)Ttasmfrtedyofinwrtolswesnhsbnp)Tttesmhsbnadasrdbysn()oss)Ttteprofehltslrnsttoalasldbyteine;a)TtudineyasaealnontelnteineN8.TtSn3,IoC,b,adteseishdtordasf.CLANTOE.()Ifteoroftepyoep,f,orcnfgtesnp,oraoasnp,orayorptormprdbytecyoyfrtednofldfstocywhersn()o)ofsn3,IoC,prtoseoftelsintesntop,teoroftep,ortep,fmorcnoreyfgtesnp,orattoas,orayorptormprdbytecyorcyfrtednofldslbeletoayprfrtecsoftelsenpsalasdeadogortealctofifanindysmnttoedoetdfehdds()prltalcsrdtobgehsnltiewhsn3.Teprslhearttoesoninaclanadteprslhetertttenorinoftesminsha)Ayp,fmorcnwoslo,ntorreteteprorteineywnwebstdisl,acyoftedestrdbys)ofsn3,IoC)Slbeletotepraspdinsn()oss)Slbeletoteineyfrisree,igeet,oflgtepradpeinrdintefmadfragadpsoftelkofawrdysmadfrayasoepyttaeptdeatteteofdyoftev]
+[DELETED: eineyadslhearttocmshenacla)()Inayclanfdursn()or()oft,tepgpyslbeadisrecsadasf.Tepradineyslheto()ymtedeofdyoftevntoieayllaN9.TtSn5,IoC,b,adteseishdtordasf.RWOFWRSSEDBYP.Wratissttotetsadrsofss56t,IoC,nopnslorfrr,orcetob,aptusheorseslhecdttheorseisiewhsn3,IoC,wea,adttatoe()oftefgistec)Teillsddinteptwlntbesdbyarsmcntooe()ormeoftel,btwlbesdbyilw)Aloftelsinteptwlbeeetorewrsmanegwrs,betewrsmm,awrd,apcuysttoternofteIopcusc,oramlorntwrc,adteegwrdnsmhsadinwgtosealoftelsint)Ifanwwrsmwlceiobgtosetestithsorwlhestcdcltoawtewsw,s,r,admstobecdtopesewtfrcncsorfstotelftel,etfrcnofl,msororpteyfrteltosonuetocywhtssnisamrsttotepsofsn5,IoC.Tecnmtbefdodasptofteptdtpdfrpci.PyosinteaaedbyteptwlbeedtotebsoftetdpnoftssnwnttoniscN1.TtSn6,IoC,b,adteseishdtordasf.PGD.Itslbetedyoftepgorpgadzgcntoctacepgpsddtop,i,adr,adueaceprrdtoastep.Tepnsliealldwntnofteggb.Tepnslcrpsagc,t,cyofldu,degdo,oraddefessfrehpgc.Tepnwhm,c,adrsslbebdontefsastymyaytolduersadasustnssrswyaprctisu]
+[DELETED: )PyRs--Anasofpswhmybenoeettlduep,r,csadfsdonepepyr,ayitpyvsorceuytllsonteueofpyadasadurtedsofpeincr8,te6,I)Pn--Apnasofp,p,adfsinpnigshcsastlp,s,adi)SlFsadTn--Anasofplcyadtncsadwhf)EcDt--Anasofteecbeofteage,i,e,j,adiel)LdUe--Anasofnlldt,egldcdu,adteicsyoflsfrusshasa,f,mlenade,p,r,h,c,i,adpcf.Ampslbdigsepdldusfrtej)NlRs--Anasofteusofrsadorw,f,r,s,h,f,w,m,tlw,b,w,ads)HsAs--Anasofknhsasmyrtfytosersfmf,gds,g,lsorm;aehsrgfmdtinteknorpephofssada,anh)PcS,F,adUs--Anasslpsfrs,d,prpts,uyt,wrs,fessadfefge,hdwef,l,sdwedls,scsyfsadrds.Tepnmyaoswlsofcccsadpcb)Tn--Ana,pdincnwellj)hgayortepchsa,sgtegllsadwsofasmofmrtctsadortcw,adofssadtertt.Tsctmyaomersonbgles,clofa,stngadn,addsmofpcororttlsadrdfgr,t,fec,vsadg.Tectmyaoiep,hradorrnf)Rn--Anassgasmofrna,igp,p,t,rrbkg,b,p,adorrnasadp)SlAsorSs--Anasofa,s,orssofh,a,a,e,wrscs]
+[DELETED: )Hg--Anasofhgcsadn;psftofhgs;adpsfrtepnofs,s,adaeh,igtepnfrltclh,tesgofmdhgadmehsinssadpsadonillswhaesttomcemtfrehoftehgtsadtoastenftec)CyDn--Anasofnsfrgglgd,tep,s,adsdpsadsrcyd,d,adb)Ae--Anasoftealbeofteaaigall,fga,fdbdtereofaeadalusintec)In--Anastodea,p,b,o,orormsigsgofpcestopefrtetyenoftevscsoft)NlItEcTnCs--Arnnbytepcuscncgteldofyddnlitectnceanassgteeglnadperfhhvetnl,ignlitencsbdunteUdSsdtofetrtnlectncnsyptts38ad11ofteeypyatof2."etnl"mslswhacyofoehdfnt)vsormesdbyssoffy()ftormei)PcAtFs--AnaspdwhamteIotndtdnofa,ifrdbytepgadzgc,adtemrorpnieoftellpcati,btntldt,f,teseadteofato,egadfdatdtadien,adteecittotec)Wncga,r,oragap,telgbdslcrteettepda,rranoftepnwdheontes,q,adqyodwrinteaghnslpetecnofalpsorstmN1.TtSn6,IoC,b,adteseishdtordasf.UEOFSEADGDW.()Teitoftssnistoeeteueofsewrfri.Alaspgtomelduecsslberdtouesew,werya,astepywrsefriewrslbeddryaei]
+[DELETED: )Asewrrti,orrycnbem,attel)Teldisedtodnofsewrfmanind,clc,dhusa,ororindye,adteesdnsmiscfdgtewrtotel;o)Anind,clc,ororindyeyhsstaesewrrstoaraetoteldadhsadnsmceofdgtewrtotel)Ctwhss48ad4,IoC,aycnteneofueofsewrpdbyanindymtbeadbyteeyhgtewrr)frtesew.Ngintssnslarteaddnofindyestoa,aeaesew,orfrm,c,orwrardstopsosorrstopeteueofsewrfri)Ngintssnslbecdtooeoradanofte42or4,IoC,orirayrsadt)Wncga,rgoragac,tellggbdslcrteettep,rloranoftecepnwdheont,qyadqyofgdwrinteaN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1083, As Amended
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO DOMESTIC WATER USES; AMENDING SECTION 42-111, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING THE DEFINITION OF DOMESTIC PURPOSES AND TO
+4 PROVIDE FOR MULTIPLE WATER RIGHTS; AMENDING SECTION 42-227, IDAHO CODE,
+5 TO REVISE PROVISIONS REGARDING DRILLING AND USE OF WELLS FOR DOMESTIC
+6 PURPOSES; AMENDING SECTION 42-351, IDAHO CODE, TO REVISE PROVISIONS
+7 REGARDING ILLEGAL DIVERSION OR USE OF WATER; AMENDING CHAPTER 17, TITLE
+8 42, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 42-1701C, IDAHO CODE,
+9 TO PROVIDE FOR THE ENFORCEMENT OF DOMESTIC PURPOSE AND DOMESTIC USE
+10 LIMITATIONS; AMENDING SECTION 42-1805, IDAHO CODE, TO REVISE A PROVI-
+11 SION REGARDING THE POWERS OF THE DIRECTOR OF THE DEPARTMENT OF WATER
+12 RESOURCES; REPEALING SECTION 31-3805, IDAHO CODE, RELATED TO DELIVERY
+13 OF WATER; AMENDING CHAPTER 38, TITLE 31, IDAHO CODE, BY THE ADDITION OF A
+14 NEW SECTION 31-3805, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE
+15 DELIVERY OF WATER WITHIN SUBDIVISIONS; AMENDING SECTION 31-3806, IDAHO
+16 CODE, TO REVISE PROVISIONS REGARDING CIVIL ACTIONS; AMENDING SECTION
+17 50-1334, IDAHO CODE, TO REVISE A PROVISION REGARDING THE REVIEW OF WATER
+18 SYSTEMS; AMENDING SECTION 67-6508, IDAHO CODE, TO REVISE PROVISIONS
+19 REGARDING PLANNING DUTIES; AMENDING SECTION 67-6537, IDAHO CODE, TO RE-
+20 MOVE A PROVISION REGARDING THE USE OF SURFACE WATER FOR IRRIGATION; AND
+21 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That Section 42-111, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 42-111. DOMESTIC PURPOSES DEFINED. (1) For purposes of sections
+26 42-221, 42-227, 42-230, 42-235, 42-237a, 42-242, 42-243, and 42-1401A,
+27 Idaho Code, the :
+28 (a) The phrase "domestic purposes" or "domestic uses" means:
+29 (a) (i) The use of water for homes, organization camps, public
+30 campgrounds, livestock, and for any other purpose in connection
+31 therewith, including irrigation of up to one-half (1/2) acre of
+32 land, if the total use is not in excess of does not exceed thirteen
+33 thousand (13,000) gallons per day,; or
+34 (b) (ii) Any other uses, The use of water for any other purpose,
+35 if the total use does not exceed a diversion rate of four one-hun-
+36 dredths (0.04) cubic feet per second and a diversion volume of
+37 twenty-five hundred (2,500) gallons per day volume of two and
+38 eight-tenths (2.8) acre feet per year.
+39 (2) For purposes of the sections listed in subsection (1) of this sec-
+40 tion, domestic purposes or domestic uses shall not include water for multi-
+41 ple ownership subdivisions, mobile home parks, or commercial or business es-
+
+2
+1 tablishments, unless the use meets the diversion rate and volume limitations
+2 set forth in subsection (1)(b) of this section.
+3 (b) "Domestic purposes" or "domestic uses" shall not include water for
+4 the following purposes, unless the use meets the diversion rate and vol-
+5 ume limitations set forth in paragraph (a) of this subsection:
+6 (i) Mobile home parks or recreational vehicle parks;
+7 (ii) Apartments, condominiums, and similar developments with
+8 multiple dwelling units;
+9 (iii) Except as provided in subsection (3) of this section, subdi-
+10 visions, as defined in chapter 13, title 50, Idaho Code; or
+11 (iv) Commercial or business establishments or mixed-use estab-
+12 lishments where the water is used primarily for commercial or
+13 business purposes.
+14 (3) (2) Multiple Except as provided in subsection (3) of this section,
+15 multiple water rights for domestic uses or domestic purposes, as defined in
+16 this section, shall not be established or exercised in a manner to satisfy
+17 a single combined water use or purpose that would not itself come within the
+18 definition of a domestic use or purpose under this section. The purpose of
+19 this limitation is to prohibit the diversion and use of water, under a combi-
+20 nation of domestic purposes or domestic uses as defined in this section, to
+21 provide a supply of water for a use that does not meet the exemption of sec-
+22 tion 42-227, Idaho Code, and is required to comply with the mandatory appli-
+23 cation and permit process for developing a right to the use of water pursuant
+24 to chapter 2, title 42, Idaho Code.
+25 (3) Multiple water rights for domestic purposes or uses may be estab-
+26 lished and exercised from the same point or points of diversion if the use
+27 is limited to residential, in-home use. This subsection does not affect any
+28 other permitting requirement or other requirement that may apply to the use
+29 of water within a subdivision. For the purposes of this section, the term
+30 "in-home use" means the utilization of water within a residence or house-
+31 hold, including all activities that require water, such as drinking, cook-
+32 ing, bathing, and cleaning within and around the household. It does not in-
+33 clude irrigation of lawns, gardens, landscaping, pastures, or other open
+34 spaces.
+35 SECTION 2. That Section 42-227, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 42-227. DRILLING AND USE OF WELLS FOR DOMESTIC PURPOSES EXCEPTED. (1)
+38 The Except as provided in subsection (4) of this section, excavation and
+39 opening of wells and the withdrawal of water therefrom for domestic purposes
+40 or uses as defined in section 42-111, Idaho Code, shall not be subject to the
+41 permit requirements under section 42-229, Idaho Code; providing such wells
+42 and withdrawal devices are subject to inspection by the department of water
+43 resources and the department of environmental quality and providing further
+44 that the drilling of such wells shall be subject to the licensing provisions
+45 of section 42-238, Idaho Code. Rights to ground water for such domestic pur-
+46 poses may be acquired by withdrawal and use.
+47 (2) Wells and withdrawal devices for domestic purposes or uses shall be
+48 subject to inspection by the department of water resources and the depart-
+49 ment of environmental quality.
+
+3
+1 (3) Well drillers shall be licensed pursuant to the licensing provi-
+2 sions of section 42-238, Idaho Code.
+3 (4) For purposes of new diversions within subdivisions, as defined in
+4 chapter 13, title 50, Idaho Code, in any area where the director of the de-
+5 partment of water resources has issued a moratorium order on the develop-
+6 ment of new water rights or has designated a critical ground water area or
+7 ground water management area, an application for permit, pursuant to section
+8 42-229, Idaho Code, shall be required for the diversion of water for any new
+9 domestic purposes or uses, as defined in section 42-111, Idaho Code, other
+10 than for in-home uses, as defined in section 42-111, Idaho Code, or watering
+11 livestock.
+12 SECTION 3. That Section 42-351, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 42-351. ILLEGAL DIVERSION OR USE OF WATER -- ENFORCEMENT PROCEDURE --
+15 INJUNCTIVE RELIEF. (1) It is unlawful for any person to divert or use water
+16 from:
+17 (a) From a natural watercourse or from a ground water source without
+18 having obtained a valid water right to do so, or to divert or use water
+19 not;
+20 (b) Not in conformance with a valid water right.; or
+21 (2) (c) It is unlawful for any person to divert or use water in In sub-
+22 stantial violation of any provision of this title, or any rule, permit,
+23 condition of approval, or order issued or promulgated pursuant to this
+24 title that is related to the diversion or use of water.
+25 (3) (2) Upon investigation of available information, the director of
+26 the department of water resources shall have the discretion to issue:
+27 (a) Issue a written notice of violation to the person in accordance with
+28 the provisions of section 42-1701B, Idaho Code, for the illegal diver-
+29 sion or use of water.; or
+30 (b) Proceed with enforcement actions pursuant to section 42-1701C,
+31 Idaho Code, in cases of diversions for domestic purposes or uses as de-
+32 fined in section 42-111, Idaho Code; and
+33 (4) (3) Notwithstanding the issuance of a notice of violation the pro-
+34 visions of subsection (2) of this section, the director may also file an ac-
+35 tion seeking injunctive relief directing the person to cease and desist the
+36 activity or activities alleged to be in violation of applicable law or any
+37 existing water right.
+38 SECTION 4. That Chapter 17, Title 42, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 42-1701C, Idaho Code, and to read as follows:
+41 42-1701C. ENFORCEMENT OF DOMESTIC PURPOSE AND DOMESTIC USE LIMITA-
+42 TIONS. (1) If the director of the department of water resources becomes aware
+43 of water use that exceeds the authorized limits of an appurtenant water right
+44 for domestic purposes or uses as defined in section 42-111, Idaho Code, re-
+45 gardless of when the use was established, the director may:
+46 (a) Notify the property owner, in writing, of the alleged excess use;
+47 and
+
+4
+1 (b) Provide the property owner ninety (90) days to remedy the excess
+2 use or provide information that the water use does not exceed authorized
+3 limits of the appurtenant water right for domestic purposes or uses.
+4 (2) If, after notification by the director pursuant to subsection (1)
+5 of this section, the property owner fails to remedy the excess use or to pro-
+6 vide information that the use does not exceed authorized limits within the
+7 time prescribed and to the director's satisfaction, then the director shall
+8 issue a notice of violation to the property owner, identifying the informa-
+9 tion supporting the determination of excess use.
+10 (3)(a) Any person to whom a notice of violation has been issued pursuant
+11 to subsection (2) of this section shall be liable for a civil penalty
+12 pursuant to this section.
+13 (i) For excess irrigation, a penalty of five hundred dollars
+14 ($500) for every one-tenth (0.1) of an acre in excess irrigation
+15 above the authorized limits shall be assessed.
+16 (ii) For excess use other than irrigation, the lesser of the fol-
+17 lowing shall be assessed:
+18 1. One hundred dollars ($100) for every day water is di-
+19 verted at a rate that exceeds the maximum authorized diver-
+20 sion rate; or
+21 2. One hundred dollars ($100) for every acre-foot diverted
+22 in excess of the maximum authorized annual diversion volume.
+23 (b) Penalties shall be renewed each year until the excess use has been
+24 remedied to the director's satisfaction but shall not exceed five thou-
+25 sand dollars ($5,000) in any given year.
+26 (4) The director may request that the county in which the property is
+27 located collect the penalty for excess use. If the county agrees to collect
+28 the penalty:
+29 (a) The director shall provide the county with a copy of the notice of
+30 violation issued pursuant to this section; and
+31 (b) The county shall retain half of the penalty proceeds and deliver the
+32 other half to the director.
+33 (5) Unpaid penalties shall be filed as a lien against the property until
+34 paid in full.
+35 (6) Once a penalty has been assessed for a particular irrigation sea-
+36 son, as provided in this section, it shall be due and payable even if the ex-
+37 cess use is subsequently resolved.
+38 SECTION 5. That Section 42-1805, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 42-1805. ADDITIONAL DUTIES. In addition to other duties prescribed by
+41 law, the director of the department of water resources shall have the follow-
+42 ing powers and duties:
+43 (1) To represent the state in all matters pertaining to interstate and
+44 international water rights affecting Idaho water resources; and to cooper-
+45 ate with all agencies, now existing or hereafter to be formed, within the
+46 state or within other jurisdictions, in matters affecting the development of
+47 the water resources of this state.
+48 (2) To prepare a present and continuing inventory of the water re-
+49 sources of this state, ascertain means and methods of conserving and
+
+5
+1 augmenting these and determine as accurately as possible the most effective
+2 means by which these water resources may be applied for the benefit of the
+3 people of this state.
+4 (3) To conduct surveys, tests, investigations, research, examina-
+5 tions, studies, and estimates of cost relating to availability of unappro-
+6 priated water, effective use of existing supply, conservation, storage,
+7 distribution and use of water.
+8 (4) To prepare and compile information and data obtained and to make the
+9 same available to interested individuals or agencies.
+10 (5) To cooperate with and coordinate activities with the director of
+11 the department of environmental quality as such activities relate to the
+12 functions of either or both departments concerning water quality. Such co-
+13 operation and coordination shall specifically require that:
+14 (a) The director meet at least quarterly with the director of the de-
+15 partment of environmental quality and his staff to discuss water qual-
+16 ity programs. A copy of the minutes of such meeting shall be transmitted
+17 to the governor.
+18 (b) The director transmit to the director of the department of envi-
+19 ronmental quality reports and information prepared by him pertaining to
+20 water quality programs and proposed rules pertaining to water quality
+21 programs.
+22 (c) The director shall make available to the director of the department
+23 of environmental quality and the director of the department of envi-
+24 ronmental quality shall make available to the director all notices of
+25 hearings relating to the promulgation of rules relating to water qual-
+26 ity, waste discharge permits, and stream channel alteration, as such
+27 directly affect water quality, and notices of any other hearings and
+28 meetings which relate to water quality.
+29 (6) To perform administrative duties and such other functions as the
+30 board may, from time to time, assign to the director to enable the board to
+31 carry out its powers and duties.
+32 (7) After notice, to suspend the issuance or further action on permits
+33 or applications, including permits or applications for domestic purposes or
+34 uses as defined in section 42-111, Idaho Code, required pursuant to section
+35 42-227, Idaho Code, as necessary to protect existing vested water rights or
+36 to ensure compliance with the provisions of chapter 2, title 42, Idaho Code,
+37 or to prevent violation of minimum flow provisions of the state water plan.
+38 (8) To promulgate, adopt, modify, repeal and enforce rules implement-
+39 ing or effectuating the powers and duties of the department.
+40 (9) To seek a preliminary or permanent injunction, or both, or a tempo-
+41 rary restraining order restraining any person from violating or attempting
+42 to violate:
+43 (a) Those provisions of law relating to all aspects of the appropria-
+44 tion of water, distribution of water, headgates and measuring devices;
+45 or
+46 (b) The administrative or judicial orders entered in accordance with
+47 the provisions of law.
+48 (10) To develop, coordinate and provide, through contract or by other
+49 means, for weather modification projects involving cloud seeding that are
+50 designed to increase the water supplies of the state by enhancing natural
+
+6
+1 precipitation and that conform to state water planning objectives. To ac-
+2 complish these purposes, the director is authorized to accept and use funds
+3 acquired through legislative appropriation or by gift, grant, contribution
+4 or funding received from any private or public individual or entity. All
+5 funds accepted under this provision shall be transmitted to the state trea-
+6 surer for deposit in the water administration account and shall be reserved
+7 and made available until expended as ordered by the director for weather mod-
+8 ification purposes determined by the director to be beneficial.
+9 (11) To develop and implement a plan for data gathering to determine any
+10 effect of the weather modification efforts in which the department is in-
+11 volved.
+12 (12) To receive, file, record, or retain documents of record on media
+13 other than paper.
+14 SECTION 6. That Section 31-3805, Idaho Code, be, and the same is hereby
+15 repealed.
+16 SECTION 7. That Chapter 38, Title 31, Idaho Code, be, and the same is
+17 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+18 ignated as Section 31-3805, Idaho Code, and to read as follows:
+19 31-3805. DELIVERY OF WATER WITHIN SUBDIVISIONS. (1) The provisions of
+20 this section shall apply to any proposed subdivision, as defined in chapter
+21 13, title 50, Idaho Code, within the state of Idaho or to a subdivision sub-
+22 ject to a more restrictive county or city zoning ordinance.
+23 (2) For any subdivision that lies within the service area or area of
+24 city impact of a municipal provider, the following requirements apply:
+25 (a) If a shared well or public water system is installed, it shall be
+26 designed to meet requirements of that municipal provider and be planned
+27 to integrate with and connect to the municipal provider's system when
+28 appropriate. The requirements of this paragraph shall not apply if an
+29 agreement is reached with the municipal provider;
+30 (b) The municipal provider shall be consulted in the design of the
+31 shared well or public water system to ensure proper integration; and
+32 (c) Upon connection to the municipal provider's system, the water
+33 rights associated with the subdivision's shared well or public water
+34 system shall be conveyed to the municipal provider.
+35 (3) If surface water for irrigation is reasonably available to all or
+36 any part of a subdivision, as provided in section 67-6537, Idaho Code, then
+37 no subdivision plat, amendment to a subdivision plat, or any other plat or
+38 map recognized by the city or county for the division of land will be ac-
+39 cepted, approved, and recorded unless the owner or entity has provided for
+40 the irrigation of lots within the subdivision using the available surface
+41 water.
+42 (4) For subdivisions using water provided by an irrigation entity, as
+43 required by section 67-6537, Idaho Code, the subdivision plat or with the
+44 plat mat as an exhibit shall include a description of the system used to de-
+45 liver irrigation water from the irrigation entity's point of delivery to the
+46 individual lots. In such cases:
+47 (a) For proposed subdivisions within the incorporated limits of a city,
+48 the irrigation system must be approved by the city zoning authority or
+
+7
+1 the city council, as provided by city ordinance, with the advice of the
+2 irrigation entity charged with the delivery of water to such lands; and
+3 (b) For proposed subdivisions located outside an incorporated city,
+4 the irrigation system must be approved by the board of county commis-
+5 sioners, with the advice of the irrigation entity charged with the
+6 delivery of water to such lands.
+7 (5) For subdivisions receiving water from an irrigation entity, the
+8 subdivision plat or amendment to a subdivision plat shall contain notes
+9 stating the following:
+10 (a) That the subdivision or a portion of it is located within the ser-
+11 vice area of the irrigation entity and the name and contact information
+12 for the irrigation entity;
+13 (b) That a system for the delivery of irrigation water to lots within
+14 the subdivision has been provided;
+15 (c) That the system has been approved as required by subsection (4) of
+16 this section;
+17 (d) That the purchaser of each lot shall remain subject to all assess-
+18 ments levied by the irrigation entity; and
+19 (e) That unpaid irrigation entity assessments are a lien on the land
+20 within the irrigation entity.
+21 SECTION 8. That Section 31-3806, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 31-3806. CIVIL ACTION TO ENFORCE. (1) If the owner of the property of
+24 the person, firm, or corporation filing the subdivision plat, or amendment
+25 to a subdivision plat, or any other plat or map recognized by the city or
+26 county for the division of land fails to comply with either subsection (1) or
+27 (2) of section 31-3805, Idaho Code, prior to sale of the lots in the subdivi-
+28 sion to purchasers, the owner of the property, or the person, firm or corpo-
+29 ration or entity filing the subdivision plat, or amendment to a subdivision
+30 plat, or any other plat or map recognized by the city or county for the divi-
+31 sion of land shall be liable to any purchaser for the costs of the lot's ex-
+32 clusion plus all assessments due and owing or the actual cost of installation
+33 of an irrigation delivery system not to exceed one thousand five hundred dol-
+34 lars ($1,500) per lot all costs required to bring each subdivision lot into
+35 compliance with section 31-3805. The purchaser shall have a right to enforce
+36 this obligation in a civil action and the purchaser shall have the right to
+37 elect exclusion or installation of the system in such action.
+38 (2) Any person, firm or corporation who shall omit, neglect or refuse to
+39 provide the purchaser or the irrigation entity within whose boundaries the
+40 land is located, a copy of the disclosure statement required by subsection
+41 (2) of section 31-3805, Idaho Code:
+42 (a) Shall be liable to the purchaser as provided in subsection (1) of
+43 this section.
+44 (b) Shall be liable to the irrigation entity for its reasonable ex-
+45 pense, including employee time, of locating the purchaser and providing
+46 the information required in the form and for advising affected pur-
+47 chasers of the lack of a water delivery system and for any assessments on
+48 the property that are past due at the time of discovery of the violation.
+
+8
+1 The irrigation entity affected shall have a right to claim such expenses
+2 in a civil action.
+3 (3) (2) In any civil action filed under subsection (1) or (2) of this
+4 section, the prevailing party shall be awarded its reasonable costs and at-
+5 torney's fees. The purchaser and irrigation entity shall have two (2) years
+6 from the date of discovery of the violation to initiate any legal action.
+7 SECTION 9. That Section 50-1334, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 50-1334. REVIEW OF WATER SYSTEMS ENCOMPASSED BY PLATS. Whenever any
+10 plat is subject to the terms and requirements of sections 50-1326 through
+11 50-1329, Idaho Code, no person shall offer for recording, or cause to be
+12 recorded, a plat unless he or she shall have certified that he or she is in
+13 compliance with section 31-3805, Idaho Code, where applicable, and that at
+14 least one (1) of the following is the case:
+15 (1) The individual lots described in the plat will not be served by any
+16 water system common to one (1) or more of the lots, but will be served by indi-
+17 vidual wells.
+18 (2) All of the lots in the plat will be eligible to receive water service
+19 from an existing water system, be the water system municipal, a water dis-
+20 trict, a public utility subject to the regulation of the Idaho public utili-
+21 ties commission, or a mutual or nonprofit water company, and the existing wa-
+22 ter distribution system has agreed in writing to serve all of the lots in the
+23 subdivision.
+24 (3) If a new water system will come into being to serve the subdivision,
+25 that it has or will have sufficient contributed capital to allow the water
+26 system's wells, springboxes, reservoirs, and mains to be constructed to pro-
+27 vide service without further connection charges or fees to the landowners
+28 of the lots, except for connection of laterals, meters or other plant exclu-
+29 sively for the lot owner's own use.
+30 Failure to comply with this section is a misdemeanor subject to the pro-
+31 visions of section 50-1329, Idaho Code. The certification must be filed or
+32 recorded as part of the plat document preserved for public inspection. Prop-
+33 erty owners in the area encompassed by the plat will be entitled to the bene-
+34 fits of the third provision of this section when that option is chosen.
+35 SECTION 10. That Section 67-6508, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 67-6508. PLANNING DUTIES. It shall be the duty of the planning or plan-
+38 ning and zoning commission to conduct a comprehensive planning process de-
+39 signed to prepare, implement, and review, and update a comprehensive plan,
+40 hereafter referred to as the plan. The plan shall include all land within the
+41 jurisdiction of the governing board. The plan shall consider previous and
+42 existing conditions, trends, compatibility of land uses, desirable goals
+43 and objectives, or and desirable future situations for each planning compo-
+44 nent. The plan with maps, charts, and reports shall be based on the following
+45 components as they may apply to land use regulations and actions unless the
+46 plan specifies reasons why a particular component is unneeded.
+
+9
+1 (a) Property Rights -- An analysis of provisions which may be necessary
+2 to ensure that land use policies, restrictions, conditions and fees do not
+3 violate private property rights, adversely impact property values or cre-
+4 ate unnecessary technical limitations on the use of property and analysis as
+5 prescribed under the declarations of purpose in chapter 80, title 67, Idaho
+6 Code.
+7 (b) Population -- A population analysis of past, present, and future
+8 trends in population including such characteristics as total population,
+9 age, sex, and income.
+10 (c) School Facilities and Transportation -- An analysis of public
+11 school capacity and transportation considerations associated with future
+12 development.
+13 (d) Economic Development -- An analysis of the economic base of the area
+14 including employment, industries, economies, jobs, and income levels.
+15 (e) Land Use -- An analysis of natural land types, existing land covers
+16 and uses, and the intrinsic suitability of lands for uses such as agricul-
+17 ture, forestry, mineral exploration and extraction, preservation, recre-
+18 ation, housing, commerce, industry, and public facilities. A map shall be
+19 prepared indicating suitable projected land uses for the jurisdiction.
+20 (f) Natural Resources -- An analysis of the uses of rivers and other wa-
+21 ters, forests, range, soils, harbors, fisheries, wildlife, minerals, ther-
+22 mal waters, beaches, watersheds, and shorelines.
+23 (g) Hazardous Areas -- An analysis of known hazards as may result from
+24 susceptibility to surface ruptures from faulting, ground shaking, ground
+25 failure, landslides or mudslides; avalanche hazards resulting from de-
+26 velopment in the known or probable path of snowslides and avalanches, and
+27 floodplain hazards.
+28 (h) Public Services, Facilities, and Utilities -- An analysis showing
+29 general plans for sewage, drainage, power plant sites, utility transmission
+30 corridors, water supply, fire stations and fire fighting equipment, health
+31 and welfare facilities, libraries, solid waste disposal sites, schools,
+32 public safety facilities and related services. The plan may also show loca-
+33 tions of civic centers and public buildings.
+34 (i) Transportation -- An analysis, prepared in coordination with
+35 the local jurisdiction(s) having authority over the public highways and
+36 streets, showing the general locations and widths of a system of major traf-
+37 fic thoroughfares and other traffic ways, and of streets and the recommended
+38 treatment thereof. This component may also make recommendations on build-
+39 ing line setbacks, control of access, street naming and numbering, and a
+40 proposed system of public or other transit lines and related facilities
+41 including rights-of-way, terminals, future corridors, viaducts and grade
+42 separations. The component may also include port, harbor and other related
+43 transportation facilities.
+44 (j) Recreation -- An analysis showing a system of recreation areas, in-
+45 cluding parks, parkways, trailways, river bank greenbelts, beaches, play-
+46 grounds, and other recreation areas and programs.
+47 (k) Special Areas or Sites -- An analysis of areas, sites, or struc-
+48 tures of historical, archeological, architectural, ecological, wildlife,
+49 or scenic significance.
+
+10
+1 (l) Housing -- An analysis of housing conditions and needs; plans for
+2 improvement of housing standards; and plans for the provision of safe, san-
+3 itary, and adequate housing, including the provision for low-cost conven-
+4 tional housing, the siting of manufactured housing and mobile homes in sub-
+5 divisions and parks and on individual lots which are sufficient to maintain
+6 a competitive market for each of those housing types and to address the needs
+7 of the community.
+8 (m) Community Design -- An analysis of needs for governing landscaping,
+9 building design, tree planting, signs, and suggested patterns and standards
+10 for community design, development, and beautification.
+11 (n) Agriculture -- An analysis of the agricultural base of the area in-
+12 cluding agricultural lands, farming activities, farming-related businesses
+13 and the role of agriculture and agricultural uses in the community.
+14 (o) Implementation -- An analysis to determine actions, programs, bud-
+15 gets, ordinances, or other methods including scheduling of public expendi-
+16 tures to provide for the timely execution of the various components of the
+17 plan.
+18 (p) National Interest Electric Transmission Corridors -- After noti-
+19 fication by the public utilities commission concerning the likelihood of
+20 a federally designated national interest electric transmission corridor,
+21 prepare an analysis showing the existing location and possible routing
+22 of high voltage transmission lines, including national interest electric
+23 transmission corridors based upon the United States department of energy's
+24 most recent national electric transmission congestion study pursuant to
+25 sections 368 and 1221 of the energy policy act of 2005. "High-voltage trans-
+26 mission lines" means lines with a capacity of one hundred fifteen thousand
+27 (115,000) volts or more supported by structures of forty (40) feet or more in
+28 height.
+29 (q) Public Airport Facilities -- An analysis prepared with assistance
+30 from the Idaho transportation department division of aeronautics, if re-
+31 quested by the planning and zoning commission, and the manager or person in
+32 charge of the local public airport identifying, but not limited to, facility
+33 locations, the scope and type of airport operations, existing and future
+34 planned airport development and infrastructure needs, and the economic im-
+35 pact to the community.
+36 (r) When considering amending, repealing, or adopting a plan, the local
+37 governing board shall consider the effect the proposed amendment, repeal,
+38 or adoption of the plan would have on the source, quantity, and quality of
+39 ground water in the area.
+40 Nothing herein shall preclude the consideration of additional planning
+41 components or subject matter.
+42 SECTION 11. That Section 67-6537, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 67-6537. USE OF SURFACE AND GROUND WATER. (1) The intent of this sec-
+45 tion is to encourage the use of surface water for irrigation. All appli-
+46 cants proposing to make land use changes shall be required to use surface wa-
+47 ter, where reasonably available, as the primary water source for irrigation.
+48 Surface water shall be deemed reasonably available if:
+
+11
+1 (a) A surface water right is, or reasonably can be made, appurtenant to
+2 the land;
+3 (b) The land is entitled to distribution of surface water from an irri-
+4 gation district, canal company, ditch users association, or other irri-
+5 gation delivery entity, and the entity's distribution system is capable
+6 of delivering the water to the land; or
+7 (c) An irrigation district, canal company, or other irrigation deliv-
+8 ery entity has sufficient available surface water rights to apportion
+9 or allocate to the land and has a distribution system capable of deliv-
+10 ering the water to the land.
+11 (2) Consistent with sections 42-108 and 42-222, Idaho Code, any change
+12 in the nature of use of surface water provided by an irrigation delivery
+13 entity must be authorized by the entity holding the water right(s) for the
+14 available surface water. Nothing in this section shall alter the authority
+15 and discretion of irrigation delivery entities to apportion, allocate and
+16 distribute surface water, or for municipalities, counties, or water and
+17 sewer districts to pass ordinances or regulations to promote the use of sur-
+18 face water for irrigation.
+19 (3) Nothing in this section shall be construed to override or amend any
+20 provision of title 42 or 43, Idaho Code, or impair any rights acquired there-
+21 under.
+22 (4) When considering amending, repealing or adopting a comprehensive
+23 plan, the local governing board shall consider the effect the proposed
+24 amendment, repeal or adoption of the comprehensive plan would have on the
+25 source, quantity and quality of ground water in the area.
+26 SECTION 12. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1,AsAYRSADETCNAGTODCWRU;AGSN4,IOC,TEPSRGTEDNOFDCPSADTEFRMEWRR;AGSN4,IOCOREPSRGDGADUEOFWSFRD;AGSN4,IOC,TOREPGILDNORUEOFW;AGCR1,T,IOC,BYTEANOFANWSN4,IOCOPEFRTEETOFDCPEADDCU;AGSN4,IOC,TOREAPNRGTEPSOFTEDROFTEDTOFW;RGSN3,IOC,RDTODFW;AGCR3,TE3,IOC,BYTEANOFWSN3,IOC,TOEHPSRGTYOFWRWNS;AGSN3,I,TOREPSRGCLA;AGS,IOC,TOREAPNRGTERWOFW;AGSN6,IOC,TOREPGPGD;AGSN6,IOC,TOREAPNRGTEUEOFSEWRFRI;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DCPSD.()Frpsofs,4,4,4,4,4,4,ad4oC,te)Tepe"cp"or"cu"m)()Teueofwrfrh,onc,p,l,adfrayorpeinc,iginofuptoof()aeo,iftetlueisntinesofdsntedtd()gsprd;o)()Ayoru,Teueofwrfrayorpftetluedsntedadnreoffros()ccftprsdadadnveoehd()gsprdyveoftoas()aeftpry)Frpsoftessldinsn()oftss,dcpsordcusslntiewrfrmeops,mehep,orclorbse]
+[DELETED: ,usteuemstednreadveltfhinsn()oftss)"cp"or"cu"slntiewrfefgp,usteuemstednreadvelsstfhinph()oftss)Mehepsorrlvep)A,c,adsrdswedgu)Etaspdinsn()oftss,s,asddincr1,te5,IoC;o)Clorbsesormeeswetewrisudpyfrclosp)()MeEtaspdinsn()oftssewrrsfrdcusordcp,asddiss,slntbeedoredinamrtossecdwrueorpettwdntifcewntnofadcueorpeurtss.Tepeoslnistopttednadueofw,uracnofdcpsordcusasddintss,teasyofwrfrauettdsntmtteenofsn4,IoC,adisrdtocywhtemyanadptpsfrdgarttoteueofwrpocr2,te4,IoC)Mewrrsfrdcpsorusmybeedadedfmteseptorpsofdnifteusldtor,ieu.Tssndsntatarpgrtororrtttmyaytoteufwrwnas.Frtepsoftss,teteu"msteunofwrwnareorh,igalasttrew,shasd,c,b,adcgwnadadteh.Itdsntieinofl,g,l,p,ororoN2.TtSn4,IoC,b,adteseishdtordasf.DGADUEOFWSFRDCPSE.(eEtaspdinsn()oftss,enagofwsadtewlofwrtmfrdcprusasddinsn4,IoC,slntbesttottrsursn4,IoC;pgshwdwldsaesttoinbytedtofwsadtedtofelqyadpgfttedgofshwsslbesttotelgpfsn4,IoC.Rstogdwrfrshdcpsmybeadbywladu)Wsadwldsfrdcpsorusslbttoinbytedtofwrrsadtedtofelq]
+[DELETED: )Wldsslbeldpttotelgpsofsn4,IoC)Frpsofnwdswns,asddir1,te5,IoC,inayaawetedroftedtofwrrshsidammorontedtofnwwrrsorhsddaclgdwraaodwrmta,ananfrp,pttos,IoC,slberdfrtednofwrfrayncpsoru,asddinsn4,IoC,onfrieu,asddinsn4,IoC,orwN3.TtSn4,IoC,b,adteseishdtordasf.ILDNORUEOFWR--ETPE-ER.()Itisulfraypntodtoruew)Fmanlweorfmagdwrsewgodavdwrrttodos,ortodtoruew)Ntincewhavdwrr;o)()ItisulfraypntodtoruewrinInslvnofaypnoftst,orayr,pnofa,ororidorpdpttotettisrdtotednorueofw)()Uninofaei,tedroedtofwrrsslhetedntoi)Ieawnneofvntotepninaewepsofsn4,IoC,frteildnorueofw;o)Pdwhetaspttosn4oC,incsofdsfrdcpsorusasddinsn4,IoC;a)()Ngteieofaneofvntepsofsn()oftss,tedrmyaofeanansgierfdgtepntoceaddttyorasadtobeinvnofaelworagwrrN4.TtCr1,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.ETOFDCPEADDCUEL.()Iftedroftedtofwrrsbsafwruettesteadlsofanatwrrrdcpsorusasddinsn4,IoC,rsofwnteuewse,tedrm)Nytepyo,inw,ofteadesu]
+[DELETED: )Petepyorny()dstoryteeeorpeintttewruedsntedasofteatwrrtfrdcpsoru)I,arnnbytedrpttosn(ftss,tepyorfstoryteesueortopeinttteuedsntedadlswntepdadtotedss,tntedrseaneofvntotepyo,igteinsgtednofesu)Aypntowmaneofvnhsbnidposn()oftssnslbelefraclpttotss)Fresi,apyoffehdd)freyoh()ofanaeinesieteadlsslbea)Fresueortni,telroftefgslbea.Oehdds()freydywrisddatarettestemmaddnr;o.Oehdds()freyatdnesoftemmadaldnv)Psslberdehyrulteesuehsbdtotedssnbtslntedfetdds()inaygny)Tedrmyrttttecyinwhtepyidcttepyfresu.Iftecyastocep)Tedrslpetecywhacyofteneonidpttotss;a)Tecyslrnhfoftepypsaddrtrhftoted)Udpsslbefdasalnattepyudinf)Oeapyhsbnadfraprins,aspdintss,itslbedeadpeenifteesueissyrN5.TtSn4,IoC,b,adteseishdtordasf.ALD.Inantoordspdb,tedroftedtofwrrsslhetefgpsadd)TortteseinalmspgtoiealwrrsagIowrr;adtocewhala,nwegorhrtobef,wnteorwnorj,inmsagtedtoewrrsoftss)Topeaptadcgiyoftewrrsoftss,anmsadmsofcga]
+[DELETED: gteaddeasayaspetemtesbywhtewrrsmybeadfrtebtofteoftss)Tocts,t,i,r,e,s,adesofctrgtoayofudw,eeueofegs,c,snadueofw)Topeadceinaddaodadtometeaetoidisora)Tocewhadceaswhtedroedtofelqyasshasretotsoferorbhdscgwrq.Shcnadcnslsyret)Tedrmtatltqywhtedroftedtofelqyadhssftodswrqyp.Acyoftemsofshmgslbetoteg)Tedrtttotedroftedtofelqyrsadinpdbyhmpgtrqypsadpdrspgtowrq)Tedrslmeaetotedroftedfelqyadtedroftedtofelqyslmeaetotedralnsosrgtotepnofrsrgtowrq,wedep,adsmcla,assyatwrq,adnsofayorhsaswhretowrq)Topmaedsadshorfsastdm,fmtetot,antotedrtoeetebdtyotispsadd)Arn,tosdteieorfranonpra,igpsorasfrdcpsosasddinsn4,IoC,rdpttos,IoC,asnytoptegvdwrrsooeecewhtepsofcr2,te4,IoCrtoptvnofmmfwpsoftesewrp)Top,a,m,rladeersigoregtepsaddsofted)Toskapyorpti,orb,oratyrgorrgaypnfmvgoraov)Tepsoflwrgtoalasofteanofw,dnofw,hsadmgd)Teaeorjlosedinaewepsofl)Tod,ceadp,thctorbyo,frwrmnpsigcdsgttadtoietewrssoftesebyegn]
+[DELETED: nadttcmtosewrpgo.Toahtep,tedrisadtoataduefdthleanorbyg,g,crfgrdfmaypeorpcilore.Asadurtspnslbetdtotesetrfrdtintewranatadslberdmeaeuledasodbytedrfrwrmnpsddbytedrtobeb)Todpaditapnfrdaggtodeatoftewrmnesinwhtedtisi)Tor,f,r,orrndsofrdonmrtnpN6.TtSn3,IoC,b,adteseishN7.TtCr3,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.DYOFWRWNS.()Tepsossnslaytoaypds,asddinc,te5,IoC,wnteseofIoortoasnsttoamerecyorcyzgo)Fraysnttlswnteseaaoraaoyitofamlp,tefgrsa)Ifasdwlorpcwrsmisi,itslbdtomtrsofttmlpradbepoiewhadcttotemlpssmw.Tersoftsphslntayifatisrdwhtemlp)Temlprslbecdintednoftdwlorpcwrsmtoeepri;a)Uncntotemlpss,tewsadwhtesssdwlorpcwmslbecdtotemlp)Ifsewrfrinisryaetoaloyptofas,aspdinsn6,IoC,tosnp,attoasnp,orayorptoprdbytecyorcyfrtednofldwlbea,a,adrdusteororeyhspdfeinoflswntesnugteaes)Frssugwrpdbyanine,adbysn6,IoC,tesnptorwhttmtasanetslieadnoftesmudtodrinwrfmteinesptofdytotll.Inshc)Frpdsswnteidlsofaceinsmmtbeadbytecyzgayo]
+[DELETED: ecyc,aspdbycyo,whteaeoftneycdwhtedyofwrtoshl;a)Frpdssldoeanidceinsmmtbeadbytebdofcyc,whteaeofteineycdwhtyofwrtoshl)Frssrgwrfmanine,tnptorattoasnptslcnngtef)Tttesnorapnofitisldwnteseaaofteineyadteneadctirteine)Ttasmfrtedyofinwrtolswesnhsbnp)Tttesmhsbnadasrdbysn()oss)Ttteprofehltslrnsttoalasldbyteine;a)TtudineyasaealnontelnteineN8.TtSn3,IoC,b,adteseishdtordasf.CLANTOE.()Ifteoroftepyoep,f,orcnfgtesnp,oraoasnp,orayorptormprdbytecyoyfrtednofldfstocywhersn()o)ofsn3,IoC,prtoseoftelsintesntop,teoroftep,ortep,fmorcnoreyfgtesnp,orattoas,orayorptormprdbytecyorcyfrtednofldslbeletoayprfrtecsoftelsenpsalasdeadogortealctofifanindysmnttoedoetdfehdds()prltalcsrdtobgehsnltiewhsn3.Teprslhearttoesoninaclanadteprslhetertttenorinoftesminsha)Ayp,fmorcnwoslo,ntorreteteprorteineywnwebstdisl,acyoftedestrdbys)ofsn3,IoC)Slbeletotepraspdinsn()oss)Slbeletoteineyfrisree,igeet,oflgtepradpeinrdintefmadfragadpsoftelkofawrdysmadfrayasoepyttaeptdeatteteofdyoftev]
+[DELETED: eineyadslhearttocmshenacla)()Inayclanfdursn()or()oft,tepgpyslbeadisrecsadasf.Tepradineyslheto()ymtedeofdyoftevntoieayllaN9.TtSn5,IoC,b,adteseishdtordasf.RWOFWRSSEDBYP.Wratissttotetsadrsofss56t,IoC,nopnslorfrr,orcetob,aptusheorseslhecdttheorseisiewhsn3,IoC,wea,adttatoe()oftefgistec)Teillsddinteptwlntbesdbyarsmcntooe()ormeoftel,btwlbesdbyilw)Aloftelsinteptwlbeeetorewrsmanegwrs,betewrsmm,awrd,apcuysttoternofteIopcusc,oramlorntwrc,adteegwrdnsmhsadinwgtosealoftelsint)Ifanwwrsmwlceiobgtosetestithsorwlhestcdcltoawtewsw,s,r,admstobecdtopesewtfrcncsorfstotelftel,etfrcnofl,msororpteyfrteltosonuetocywhtssnisamrsttotepsofsn5,IoC.Tecnmtbefdodasptofteptdtpdfrpci.PyosinteaaedbyteptwlbeedtotebsoftetdpnoftssnwnttoniscN1.TtSn6,IoC,b,adteseishdtordasf.PGD.Itslbetedyoftepgorpgadzgcntoctacepgpsddtop,i,adr,adueaceprrdtoastep.Tepnsliealldwntnofteggb.Tepnslcrpsagc,t,cyofldu,degdo,oraddefessfrehpgc.Tepnwhm,c,adrsslbebdontefsastymyaytolduersadasustnssrswyaprctisu]
+[DELETED: )PyRs--Anasofpswhmybenoeettlduep,r,csadfsdonepepyr,ayitpyvsorceuytllsonteueofpyadasadurtedsofpeincr8,te6,I)Pn--Apnasofp,p,adfsinpnigshcsastlp,s,adi)SlFsadTn--Anasofplcyadtncsadwhf)EcDt--Anasofteecbeofteage,i,e,j,adiel)LdUe--Anasofnlldt,egldcdu,adteicsyoflsfrusshasa,f,mlenade,p,r,h,c,i,adpcf.Ampslbdigsepdldusfrtej)NlRs--Anasofteusofrsadorw,f,r,s,h,f,w,m,tlw,b,w,ads)HsAs--Anasofknhsasmyrtfytosersfmf,gds,g,lsorm;aehsrgfmdtinteknorpephofssada,anh)PcS,F,adUs--Anasslpsfrs,d,prpts,uyt,wrs,fessadfefge,hdwef,l,sdwedls,scsyfsadrds.Tepnmyaoswlsofcccsadpcb)Tn--Ana,pdincnwellj)hgayortepchsa,sgtegllsadwsofasmofmrtctsadortcw,adofssadtertt.Tsctmyaomersonbgles,clofa,stngadn,addsmofpcororttlsadrdfgr,t,fec,vsadg.Tectmyaoiep,hradorrnf)Rn--Anassgasmofrna,igp,p,t,rrbkg,b,p,adorrnasadp)SlAsorSs--Anasofa,s,orssofh,a,a,e,wrscs]
+[DELETED: )Hg--Anasofhgcsadn;psftofhgs;adpsfrtepnofs,s,adaeh,igtepnfrltclh,tesgofmdhgadmehsinssadpsadonillswhaesttomcemtfrehoftehgtsadtoastenftec)CyDn--Anasofnsfrgglgd,tep,s,adsdpsadsrcyd,d,adb)Ae--Anasoftealbeofteaaigall,fga,fdbdtereofaeadalusintec)In--Anastodea,p,b,o,orormsigsgofpcestopefrtetyenoftevscsoft)NlItEcTnCs--Arnnbytepcuscncgteldofyddnlitectnceanassgteeglnadperfhhvetnl,ignlitencsbdunteUdSsdtofetrtnlectncnsyptts38ad11ofteeypyatof2."etnl"mslswhacyofoehdfnt)vsormesdbyssoffy()ftormei)PcAtFs--AnaspdwhamteIotndtdnofa,ifrdbytepgadzgc,adtemrorpnieoftellpcati,btntldt,f,teseadteofato,egadfdatdtadien,adteecittotec)Wncga,r,oragap,telgbdslcrteettepda,rranoftepnwdheontes,q,adqyodwrinteaghnslpetecnofalpsorstmN1.TtSn6,IoC,b,adteseishdtordasf.UEOFSEADGDW.()Teitoftssnistoeeteueofsewrfri.Alaspgtomelduecsslberdtouesew,werya,astepywrsefriewrslbeddryaei]
+[DELETED: )Asewrrti,orrycnbem,attel)Teldisedtodnofsewrfmanind,clc,dhusa,ororindye,adteesdnsmiscfdgtewrtotel;o)Anind,clc,ororindyeyhsstaesewrrstoaraetoteldadhsadnsmceofdgtewrtotel)Ctwhss48ad4,IoC,aycnteneofueofsewrpdbyanindymtbeadbyteeyhgtewrr)frtesew.Ngintssnslarteaddnofindyestoa,aeaesew,orfrm,c,orwrardstopsosorrstopeteueofsewrfri)Ngintssnslbecdtooeoradanofte42or4,IoC,orirayrsadt)Wncga,rgoragac,tellggbdslcrteettep,rloranoftecepnwdheont,qyadqyofgdwrinteaN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

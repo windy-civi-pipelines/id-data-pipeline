@@ -1,0 +1,37 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Galloway
+Seconded by Lakey
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1164
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 10, delete "RESIDENTIAL".
+3 CORRECTION TO TITLE
+4 On page 1, in line 4, delete "RESIDENTIAL".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyGdbyLNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,de"NTOTnpe1,inle4,de"]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Galloway
+Seconded by Lakey
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1164
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 10, delete "RESIDENTIAL".
+3 CORRECTION TO TITLE
+4 On page 1, in line 4, delete "RESIDENTIAL".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyGdbyLNTESEATTOS.N.1TTOSNnpe1oftepdb,inle1,de"NTOTnpe1,inle4,de"]

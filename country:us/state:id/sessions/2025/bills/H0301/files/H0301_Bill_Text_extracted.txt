@@ -1,0 +1,1164 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 301
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE PROCUREMENT; AMENDING SECTION 67-3501B, IDAHO CODE, TO
+3 DEFINE TERMS AND TO PROVIDE APPLICABILITY; AMENDING SECTION 67-3502,
+4 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE FORMAT AND PREPARATION
+5 OF ANNUAL BUDGET REQUESTS; AMENDING SECTION 67-9202, IDAHO CODE, TO
+6 REVISE PROVISIONS REGARDING A DECLARATION OF POLICY; AMENDING SECTION
+7 67-9203, IDAHO CODE, TO REVISE DEFINITIONS AND TO DEFINE TERMS; AMEND-
+8 ING SECTION 67-9205, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+9 POWERS AND DUTIES OF THE ADMINISTRATOR; AMENDING SECTION 67-9208, IDAHO
+10 CODE, TO REVISE PROVISIONS REGARDING SOLICITATIONS; AMENDING CHAPTER
+11 92, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-9208A,
+12 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE INTENT TO SOLICIT;
+13 AMENDING SECTION 67-9209, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+14 BIDS; AMENDING SECTION 67-9210, IDAHO CODE, TO REVISE PROVISIONS RE-
+15 GARDING THE AWARD OF CONTRACT; REPEALING SECTION 67-9211, IDAHO CODE,
+16 RELATING TO MULTIPLE AWARDS; AMENDING CHAPTER 92, TITLE 67, IDAHO CODE,
+17 BY THE ADDITION OF A NEW SECTION 67-9211, IDAHO CODE, TO ESTABLISH PRO-
+18 VISIONS REGARDING MULTIPLE AWARDS; AMENDING SECTION 67-9215, IDAHO
+19 CODE, TO PROVIDE FOR A CERTAIN EXCEPTION TO THE DISCLOSURE OF RECORDS;
+20 AMENDING SECTION 67-9230, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+21 CERTAIN PROHIBITIONS; AMENDING SECTION 67-9233, IDAHO CODE, TO REVISE
+22 PROVISIONS REGARDING ETHICS IN PROCUREMENT; AND PROVIDING AN EFFECTIVE
+23 DATE.
+24 Be It Enacted by the Legislature of the State of Idaho:
+25 SECTION 1. That Section 67-3501B, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 67-3501B. DEFINITIONS. The terms defined in this section shall apply
+28 to this chapter and shall have the following meanings, unless the context
+29 clearly indicates another meaning:
+30 (1) "Account category" means a grouping of transactions for the pur-
+31 poses of identifying expenditure classifications, including personnel
+32 costs, operating expenditures, capital outlay, and trustee and benefit pay-
+33 ments.
+34 (2) "Appropriation" means a provision of legal authority given by the
+35 legislature that permits a department, office, or institution of the state
+36 to draw moneys from the state treasury for an object or demand against the
+37 state that is specified by amount, program, account category, fund, and pe-
+38 riod.
+39 (3) "Encumbrance" means the recognition of a commitment that is a re-
+40 duction against a current year appropriation and will subsequently become an
+41 expenditure when a good or service is received.
+2
+1 (4) "Executive carry forward" means an increase in the current year ap-
+2 propriation resulting from an unliquidated encumbrance balance from a prior
+3 fiscal year.
+4 (5) "Fund" means a category of moneys in the treasury from which appro-
+5 priations are made and the use of which is prescribed by law.
+6 (6) "Program" means an activity or function of a department, office, or
+7 institution of the state, or a grouping thereof, for which appropriations
+8 are made and expenditures are reported.
+9 (7) "Property" has the same meaning as that term is defined in section
+10 67-9203, Idaho Code.
+11 (8) "Request for information" has the same meaning as that term is de-
+12 fined in section 67-9203, Idaho Code.
+13 (9) "Request for proposal" has the same meaning as that term is defined
+14 in section 67-9203, Idaho Code.
+15 (10) "Request for quote" has the same meaning as that term is defined in
+16 section 67-9203, Idaho Code.
+17 SECTION 2. That Section 67-3502, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-3502. FORMAT AND PREPARATION OF ANNUAL BUDGET REQUESTS -- EX-
+20 CEPTIONS FOR EMERGENCIES. (1) In the preparation of a state budget, the
+21 administrator of the division of financial management shall, not later
+22 than the fifteenth day of July, have available for all departments, offices
+23 and institutions of the state government forms necessary to prepare budget
+24 requests. Such forms, whether in electronic or written format, shall be
+25 developed by the administrator of the division and the legislative services
+26 office to provide the following information:
+27 (a) For the preceding fiscal year, each of the entities listed in this
+28 section shall report all moneys available to them regardless of source,
+29 including legislative appropriations, and their expenditures by fund
+30 and account category of all sums received from all sources, segregated
+31 as provided for on the forms;
+32 (b) For the current fiscal year, each of the entities listed in this
+33 section shall report their estimates of all moneys available to them
+34 regardless of source, including legislative appropriations, and their
+35 estimated expenditures by fund and account category of all sums re-
+36 ceived from all sources, segregated as provided for on the forms,
+37 including a statement of the purposes for which anticipated moneys are
+38 expected to be expended, and an estimated cost for each request to ac-
+39 quire property, including requests to replace existing property, that
+40 is estimated to cost two hundred fifty thousand dollars ($250,000) or
+41 more based on data collected through a request for quote or a request for
+42 information;
+43 (c) An estimate of appropriations needed for the succeeding fiscal
+44 year, showing each primary program or major objective as a separate item
+45 of the request and itemized by account category;
+46 (d) A report concerning the condition and management of programs,
+47 program performance, and progress toward accomplishing program objec-
+48 tives; and
+3
+1 (e) A report that discloses any known future reductions or eliminations
+2 of federal moneys reported to the division of financial management un-
+3 der section 67-1910, Idaho Code, and the agency's plan for operating if
+4 there is a reduction of ten percent (10%) or more in the federal moneys
+5 that the state agency receives; and
+6 (f) A complete draft request for proposal for the request to acquire
+7 property, including requests to replace existing property, that is es-
+8 timated to cost two hundred fifty thousand dollars ($250,000) or more
+9 and that requires a competitive bid under the provisions of chapter 92,
+10 title 67, Idaho Code.
+11 (2) The completed forms shall, not later than the first day of Septem-
+12 ber, except with special permission and agreement of the administrator of
+13 the division of financial management and the director of the legislative
+14 services office, be filed in the office of the administrator of the division
+15 of financial management and the legislative services office. The department
+16 of administration's division of public works shall, as early as practicable
+17 and in any event no later than the fifteenth day of November 15, prepare and
+18 file in the office of the governor and the legislative services office upon
+19 on the forms described in this section a report of all of the information
+20 required in this section. The judicial department shall include in its fil-
+21 ing the budget request of the judicial council as submitted by the judicial
+22 council.
+23 (3) The governor may declare that a request to acquire replacement
+24 property that is estimated to cost two hundred fifty thousand dollars
+25 ($250,000) or more and that requires a competitive bid under the provisions
+26 of chapter 92, title 67, Idaho Code, qualifies as an emergency if:
+27 (a) The requested property is identified by the department, office, or
+28 institution after the deadline provided in subsection (2) of this sec-
+29 tion;
+30 (b) The department, office, or institution provides an estimated cost
+31 for the replacement property based on data collected through a request
+32 for information provided under subsection (1)(b) of this section prior
+33 to the start of the legislative session in January; and
+34 (c) The failure to acquire the property will interfere with the statu-
+35 tory responsibilities of the department, office, or institution.
+36 (4) The governor may declare that a request to acquire new property that
+37 is estimated to cost between two hundred fifty thousand dollars ($250,000)
+38 and one million dollars ($1,000,000) and that requires a competitive bid
+39 pursuant to chapter 92, title 67, Idaho Code, qualifies as an emergency if:
+40 (a) The requested property is identified by the department, office, or
+41 institution after the deadline provided in subsection (2) of this sec-
+42 tion;
+43 (b) The department, office or institution can provide an estimated cost
+44 for the property based on data collected through a request for informa-
+45 tion provided under subsection (1)(b) of this section prior to the start
+46 of the legislative session in January; and
+47 (c) The failure to acquire the property will interfere with the statu-
+48 tory responsibilities of the department, office, or institution.
+49 (5) Requests to acquire property submitted under the provisions of sub-
+50 sections (3) and (4) of this section shall be exempt from the requirement to
+4
+1 provide a draft request for proposal as provided in subsection (1) of this
+2 section.
+3 (6) Draft requests for proposals for emergency requests filed pursuant
+4 to subsections (3) and (4) of this section shall be completed no later than
+5 March 31. The legislature may decline to appropriate moneys for the acquisi-
+6 tion of such property or remove funding for the same from appropriation bills
+7 if a completed draft request for proposal has not been filed for such prop-
+8 erty by the deadline.
+9 SECTION 3. That Section 67-9202, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 67-9202. DECLARATION OF POLICY. The Idaho legislature, recognizing
+12 that an offered low price is not always indicative of the greatest value,
+13 declares it to be the policy of the state:
+14 (1) To engage in open, competitive acquisitions of property; and
+15 (2) To provide a consistent process on a predictable timeline to ensure
+16 that the lowest responsible bid is secured; and
+17 (2) (3) To maximize the value received by the state with attendant bene-
+18 fits to the citizens.
+19 SECTION 4. That Section 67-9203, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 67-9203. DEFINITIONS. As used in this chapter:
+22 (1) "Acquisition" means the process of procuring property.
+23 (2) "Administrator" means the administrator of the division of pur-
+24 chasing as created by section 67-9204, Idaho Code.
+25 (3) "Agency" means all officers, departments, divisions, bureaus,
+26 boards, commissions and institutions of the state, including the public
+27 utilities commission, but excluding:
+28 (a) The legislative and judicial branches of government;
+29 (b) The governor, lieutenant governor, secretary of state, state con-
+30 troller, state treasurer, attorney general and superintendent of pub-
+31 lic instruction; and
+32 (c) Except as provided in section 67-9234, Idaho Code, a state insti-
+33 tution of higher education that complies with the provisions of section
+34 67-9225, Idaho Code.
+35 (4) "Bid" means a written offer to perform a contract to sell or other-
+36 wise supply property in response to a solicitation.
+37 (5) "Bidder" means a vendor who has submitted a bid on property to be
+38 acquired by the state.
+39 (6) "Contract" means an agreement for the acquisition of property, in-
+40 cluding a purchase order.
+41 (7) "Contractor" means a vendor who has been awarded a contract.
+42 (8) "Director" means the director of the department of administration
+43 as created by section 67-5701, Idaho Code.
+44 (9) "Environmental, social, and governance standards" means procure-
+45 ment standards that screen or score bids, in whole or in part, on subjective
+46 ethical or sustainability criteria unrelated to the specifications in a so-
+47 licitation or the qualifications of a bidder.
+5
+1 (10) "Lowest responsible bidder" means the responsible bidder whose bid
+2 reflects the lowest acquisition price to be paid by the state and who meets
+3 the bid qualifications, except that when specifications are valued or com-
+4 parative performance evaluations are conducted, the results of such exami-
+5 nations and the relative score of valued specifications will be weighed, as
+6 set out in the specifications, in determining the lowest acquisition price.
+7 (11) "Multiple award" means a contract awarded to two (2) or more bid-
+8 ders to furnish the same or similar property when necessary or convenient to
+9 ensure adequate delivery, service, or product compatibility.
+10 (11) (12) "Open contract" means a contract awarded by the state through
+11 the division of purchasing as a result of a competitive solicitation to one
+12 (1) or more vendors who have agreed to allow all agencies to procure speci-
+13 fied property under the terms and conditions set forth in the contract.
+14 (12) (13) "Procure" means to obtain property for state use in a manner
+15 other than by gift, including, but not limited to, purchase, lease or rent.
+16 (13) (14) "Property" means goods, services, parts, supplies and equip-
+17 ment, both tangible and intangible, including, but not limited to, designs,
+18 plans, programs, systems, techniques and any rights or interests in such
+19 property.
+20 (15) "Request for information" means a formal request to potential ven-
+21 dors to provide information on their capabilities, services, and pricing, in
+22 order to create a draft request for proposals.
+23 (16) "Request for proposal" means a formal request for vendors to sub-
+24 mit a bid, which includes the total scope of services and is the basis of the
+25 award of a contract.
+26 (17) "Request for quote" means a formal request to vendors for pricing
+27 and terms on specific property.
+28 (14) (18) "Sole source" means the only vendor from whom specific prop-
+29 erty is available to procure.
+30 (15) (19) "Solicitation" means an invitation to bid, a request for pro-
+31 posal, a request for information, or a request for quote issued pursuant to
+32 this chapter for the purpose of procuring identifying the scope of requested
+33 work, which may include the eventual procurement of property.
+34 (16) (20) "Specifications" means the standards or requirements for
+35 property to be procured as explicitly stated in a solicitation or contract.
+36 (17) (21) "State institution of higher education" means Boise state
+37 university, Idaho state university or Lewis-Clark state college.
+38 (18) (22) "Vendor" means a person or entity capable of supplying prop-
+39 erty to the state.
+40 SECTION 5. That Section 67-9205, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 67-9205. POWERS AND DUTIES OF THE ADMINISTRATOR. The administrator of
+43 the division of purchasing:
+44 (1) Shall acquire all property for state agencies according to the pro-
+45 visions of this chapter;
+46 (2) Shall acquire all property by competitive solicitation, except as
+47 otherwise provided;
+6
+1 (3) Shall determine, based on the specifications and matters relating
+2 to responsibility, the lowest responsible bidder or bidders in all competi-
+3 tive solicitations;
+4 (4) Shall enter into contracts and any modifications thereto for the
+5 acquisition of property on behalf of and in the name of state agencies;
+6 (5) Shall, when economically feasible and practical, consolidate so-
+7 licitations and acquire property in amounts as large as can be efficiently
+8 managed and controlled;
+9 (6) May, in the evaluation of paper product bids, give those items that
+10 meet the recycled content standards as specified by the administrator a five
+11 percent (5%) purchasing preference. As such, those qualifying paper prod-
+12 ucts may be considered to cost five percent (5%) less when choosing the low-
+13 est responsible bidder;
+14 (7) May appoint a deputy who shall have the power to act for the adminis-
+15 trator and in the administrator's place while absent, which deputy shall be
+16 bonded to the state of Idaho as prescribed by chapter 8, title 59, Idaho Code;
+17 (8) May require from any contractor the submission of a performance
+18 bond for such sum as will, in the opinion of the administrator, guarantee
+19 the faithful performance of such contract, and the amount and requirement
+20 therefor shall be set out in the specifications;
+21 (9) May enter into open contracts based on actual or estimated require-
+22 ments;
+23 (10) May enter into contracts, including leases and rentals, for peri-
+24 ods of time exceeding one (1) year, provided that such contracts contain no
+25 penalty to or restriction upon on the state in the event cancellation is ne-
+26 cessitated by a lack of funding for any such contract;
+27 (11) Is authorized and empowered to formulate rules, subject to the ap-
+28 proval of the director, to effect the provisions of this chapter;
+29 (12) May enter into negotiations for acquisitions in accordance with
+30 established rules of the division;
+31 (13) May inspect property supplied by a contractor to determine whether
+32 it meets specifications;
+33 (14) May classify, after review with the various agencies, the require-
+34 ments of the state for all property that may be acquired, and may adopt stan-
+35 dards of quality for property, and may establish specifications for acquisi-
+36 tion. Each specification shall, until revised or rescinded, apply alike in
+37 terms and effect to each future acquisition of the classified property;
+38 (15) May delegate authority pursuant to section 67-9206, Idaho Code;
+39 and
+40 (16) May carry out such acts as are necessary to enforce the provisions
+41 of this chapter; and
+42 (17) May issue a multiple award contract to two (2) or more bidders.
+43 SECTION 6. That Section 67-9208, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 67-9208. SOLICITATIONS. (1) The administrator shall not make or cause
+46 to be made any acquisition until a requisition for the property to be ac-
+47 quired has been submitted to the administrator's office by the requisition-
+48 ing agency. The requisition shall certify to the administrator's satisfac-
+49 tion that the governor approved the relevant appropriation bill pursuant to
+7
+1 section 67-3502, Idaho Code, or that there are sufficient funds or balance
+2 in appropriations out of which the amount of the requisition may be lawfully
+3 paid, except as provided in section 67-9221(3), Idaho Code.
+4 (2) Upon determining that an agency's requisition complies with the
+5 provisions of subsection (1) of this section, the administrator shall is-
+6 sue a solicitation for the acquisition of property as provided in section
+7 67-3502(1), Idaho Code, in the same calendar year of the approved appro-
+8 priation bill. The administrator may post the solicitation up to three (3)
+9 months before July 1 but no later than July 1 in the current calendar year.
+10 Solicitations for emergency requests for the acquisition of property as
+11 provided in section 67-3502, Idaho Code, shall be published no later than
+12 September 1. For solicitations related to the renewal of an existing con-
+13 tract of up to thirty-five (35) months in length, the administrator shall
+14 post the solicitation no later than six (6) months prior to the end of the
+15 contract. For solicitations related to the renewal of an existing contract
+16 of three (3) years or more in length, the administrator shall post the solic-
+17 itation no later than eighteen (18) months prior to the contract expiration.
+18 Notice of the solicitation shall be posted in a conspicuous manner as pre-
+19 scribed by rule. The notice shall describe the property to be acquired in
+20 sufficient detail to apprise a vendor of the exact nature of the property
+21 being sought and shall set forth the bid closing date, time and location.
+22 (3) The administrator may establish by rule exceptions to the notice
+23 provisions in subsection (2) of this section; provided however, that the
+24 procurements excepted from the notice provisions must be minor in nature.
+25 (4) After the administrator publishes the solicitation, the following
+26 schedule shall apply:
+27 (a) Bidders shall have up to sixty (60) days to respond to the solic-
+28 itation. A shorter timeline of thirty (30) or forty-five (45) days to
+29 respond may be set by the administrator if included in the notice of the
+30 solicitation;
+31 (b) The administrator shall have up to sixty (60) days to review the
+32 bids submitted pursuant section 67-9209, Idaho Code. The administrator
+33 may request an extension of no more than thirty (30) days with the ap-
+34 proval of the director and notice of the reason for the request provided
+35 to all vendors with active bids under consideration; and
+36 (c) The administrator shall notify the vendor that will be awarded a
+37 contract no later than five (5) business days after completing a review
+38 of the bids pursuant to paragraph (b) of this subsection.
+39 (5) For any solicitations that require the approval of a third party,
+40 including but not limited to the centers for medicare and medicaid services,
+41 the administrator and participating vendors shall follow the schedule pur-
+42 suant to subsection (4) of this section with the expectation that the overall
+43 solicitation and bid schedule will shift to include any additional time re-
+44 quired by the third party.
+45 (6) At the time a notice of solicitation is issued, the administrator
+46 shall also publish the process for bid analysis or scoring. Such process
+47 shall not change after the solicitation is issued.
+48 SECTION 7. That Chapter 92, Title 67, Idaho Code, be, and the same is
+49 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+50 ignated as Section 67-9208A, Idaho Code, and to read as follows:
+8
+1 67-9208A. INTENT TO SOLICIT. (1) If an appropriation bill is approved
+2 by the governor that includes a request to acquire property from an agency
+3 pursuant to section 67-3502, Idaho Code, the administrator shall post notice
+4 of the agency's intent to solicit for the identified property within ten (10)
+5 days of the governor's approval on the state's procurement website.
+6 (2) If any agency intends to seek the renewal of a contract, the admin-
+7 istrator shall post notice of the agency's intent to solicit on the state's
+8 procurement website no later than one (1) month prior to the deadline pro-
+9 vided in section 67-9208(2), Idaho Code, for solicitations related to the
+10 renewal of an existing contract.
+11 (3) An intent to solicit shall include the date the solicitation will be
+12 available to bidders and a schedule for the solicitation and bidding process
+13 as provided in section 67-9208, Idaho Code.
+14 (4) For future solicitations intended to replace existing property and
+15 that do not require a new appropriation, the administrator shall post notice
+16 of the agency's intent to solicit no later than thirty (30) days prior to pub-
+17 lishing the solicitation.
+18 (5) In the case of requests to acquire property that the governor des-
+19 ignates as emergencies pursuant to section 67-3502, Idaho Code, the adminis-
+20 trator shall post notice of the agency's intent to solicit no later than Au-
+21 gust 2 and a schedule for the solicitation and bid process as provided in sec-
+22 tion 67-9208, Idaho Code.
+23 SECTION 8. That Section 67-9209, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 67-9209. BIDS. (1) In response to a solicitation or an intent to so-
+26 licit issued pursuant to section 67-9208 or 67-9208A, Idaho Code, a vendor
+27 seeking to supply the property solicited shall submit a bid in a manner pre-
+28 scribed by rule.
+29 (2) Vendors who did not participate or submit a request for information
+30 under the provisions of section 67-3502, Idaho Code, may still submit a bid
+31 in response to a solicitation.
+32 (2) (3) To enhance small business bidding opportunities, the adminis-
+33 trator shall seek a minimum of three (3) bids from vendors having a signifi-
+34 cant Idaho economic presence as defined in section 67-2349, Idaho Code.
+35 (3) (4) All bids received shall be opened at the time and place spec-
+36 ified in the solicitation. The bids shall be opened in public view, and a
+37 record of each bid shall then and there be made. The administrator shall have
+38 the right to reject any and all bids pursuant to rules established for the di-
+39 vision.
+40 SECTION 9. That Section 67-9210, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 67-9210. AWARD OF CONTRACT. (1) The administrator shall award con-
+43 tracts to, and place orders for property with, the lowest responsible
+44 bidder. Qualifications for responsibility shall be prescribed by rule.
+45 However, environmental, social, and governance standards may not be used as
+46 a qualification for responsibility. Prior performance on state contracts
+47 may be used to determine qualifications.
+9
+1 (2) Where both the bids and quality of property offered are the same,
+2 preference shall be given to property of local and domestic production and
+3 manufacture or from bidders having a significant Idaho economic presence as
+4 defined in section 67-2349, Idaho Code. In connection with the award of any
+5 contract for the placement of any order for state printing, binding, engrav-
+6 ing or stationery work, the provisions of sections 60-101 and 60-103, Idaho
+7 Code, shall apply to the extent that the same may be inconsistent with any re-
+8 quirements contained in this section.
+9 (3) In awarding contracts, the administrator shall not discriminate
+10 against, or grant preferential treatment to, any individual or group on the
+11 basis of race, sex, color, ethnicity, or national origin unless permitted by
+12 an exception described in section 67-5909A, Idaho Code.
+13 (4) All contracts for the acquisition of new property originating from
+14 solicitations issued in a calendar year shall be awarded by December 31, ex-
+15 cept for solicitations related to emergency requests to acquire property,
+16 which shall be awarded no later than February 1 in the following calendar
+17 year. For contracts dependent on third-party approval, including but not
+18 limited to the centers for medicare and medicaid services, contract awards
+19 shall occur as soon as feasible following the completion of any third-party
+20 requirements.
+21 (5) The administrator may award a contract to two (2) or more qualified
+22 bidders to furnish the same or similar property when necessary or convenient
+23 to ensure adequate delivery, service, or product compatibility.
+24 SECTION 10. That Section 67-9211, Idaho Code, be, and the same is hereby
+25 repealed.
+26 SECTION 11. That Chapter 92, Title 67, Idaho Code, be, and the same is
+27 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+28 ignated as Section 67-9211, Idaho Code, and to read as follows:
+29 67-9211. MULTIPLE AWARDS. (1) When a contract for property has been
+30 awarded to two (2) or more bidders in accordance with the provisions of sec-
+31 tion 67-9210, Idaho Code, a state agency shall select which bidder to pur-
+32 chase the property from based on factors including but not limited to compat-
+33 ibility, price, availability, support services, delivery, and past perfor-
+34 mance.
+35 (2) State agencies that make recurring purchases pursuant to a contract
+36 awarded under this section shall perform the analysis outlined in subsection
+37 (1) of this section at least annually.
+38 SECTION 12. That Section 67-9215, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-9215. PRESERVATION AND DISCLOSURE OF RECORDS -- EXCEPTION. (1) The
+41 administrator shall preserve all records relating to solicitations in the
+42 administrator's office, and information with respect thereto, in such form
+43 as the administrator shall prescribe by rule, for a period of three (3) years
+44 after the date of final action, or for a period of time as may be prescribed
+45 by a record retention guideline schedule approved by the director. Records
+10
+1 preserved under the provisions of this section shall be subject to disclo-
+2 sure according to chapter 1, title 74, Idaho Code.
+3 (2) If a solicitation is canceled prior to award of a contract, the
+4 administrator shall immediately return all bids to the submitting vendors
+5 or delete bids that were received electronically. Bids returned or deleted
+6 pursuant to this subsection shall not be subject to disclosure under chapter
+7 1, title 74, Idaho Code.
+8 (3) Vendor information provided in a request for information or request
+9 for quote under the provisions of section 67-3502, Idaho Code, shall not be
+10 subject to disclosure unless the vendors respond to the relevant solicita-
+11 tion as provided for in section 67-9208, Idaho Code.
+12 SECTION 13. That Section 67-9230, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 67-9230. PROHIBITIONS. (1) No contract or any interest therein shall
+15 be transferred by the contractor to whom such contract is given to any other
+16 party without approval in writing by the administrator and by the board of
+17 examiners pursuant to section 67-1027, Idaho Code. Transfer of a contract
+18 without approval shall cause the annulment of the contract so transferred,
+19 at the option of the state. All rights of action, however, for any breach of
+20 such contract by the contracting parties are reserved to the state.
+21 (2) No member of the legislature or any officer or employee of any
+22 branch of the state government shall directly, himself, or by any other per-
+23 son in trust for him or for his use or benefit or on his account, undertake,
+24 execute, hold or enjoy, in whole or in part, any contract made or entered into
+25 by or on behalf of the state of Idaho, if made by, through, or on behalf of the
+26 department in which he is an officer or employee; or if made by, through or
+27 on behalf of any other department unless the same is made after competitive
+28 bids.
+29 (3) Except as provided in this chapter, no officer or employee shall in-
+30 fluence or attempt to influence the award of a contract to a particular ven-
+31 dor, or to deprive or attempt to deprive any vendor of a contract.
+32 (4) No officer or employee shall conspire with a vendor or its agent,
+33 and no vendor or its agent shall conspire with an officer or employee, to in-
+34 fluence or attempt to influence the award of a contract, or to deprive or at-
+35 tempt to deprive a vendor of a contract.
+36 (5) No officer or employee shall fail to use an open contract except as
+37 provided in this chapter.
+38 (6) No officer or employee shall accept property knowing that the prop-
+39 erty does not meet specifications or other acceptance criteria set forth in
+40 the contract.
+41 (7) Deprivation, influence or attempts thereat shall not include writ-
+42 ten reports, based upon on substantial evidence, sent to the administrator
+43 concerning matters relating to the responsibility of vendors.
+44 (8)(a) No vendor or related party, or subsidiary, or affiliate of a ven-
+45 dor, may submit a bid to obtain a contract to provide property to the
+46 state, if the vendor or related party, or affiliate, or subsidiary was
+47 paid for services used in preparing the specifications or if the ser-
+48 vices influenced the procurement process to prepare the specifications
+49 for the property.
+11
+1 (b) Nothing in this section shall prohibit a vendor from submitting a
+2 bid after providing technical assistance relating to such bid, includ-
+3 ing under the provisions of section 67-3502, Idaho Code, providing con-
+4 sulting or other services to a state agency, or participating in leg-
+5 islative committee meetings related to the property that is the subject
+6 of planned solicitation as long as:
+7 (i) Such technical assistance, consulting or other services, or
+8 participation in legislative committee meetings does not result
+9 in bid specifications to be drawn such that only the vendor or re-
+10 lated party, or affiliate or subsidiary of the vendor, can meet the
+11 bid specifications;
+12 (ii) Such technical assistance, consulting or other services,
+13 or participation in legislative committee meetings does not oth-
+14 erwise provide the vendor or related party, or affiliate or sub-
+15 sidiary of the vendor, with a quantifiable and objective advantage
+16 in the bid process; and
+17 (iii) Any work product or written documentation produced as a re-
+18 sult of the technical assistance, consulting or other services, or
+19 participation in legislative committee meeting is accessible to
+20 any requestor pursuant to a public records request.
+21 (9) No person who has served in a public office within three hundred
+22 sixty-five (365) days of a bid submission deadline may participate in the
+23 solicitation, bid, or contract process pursuant to the provisions of this
+24 chapter on behalf of a vendor.
+25 (10) No vendor may employ an individual who has served in public office,
+26 or worked in a state agency or institution, within three hundred sixty-five
+27 (365) days of winning a bid where such individual participated in the solici-
+28 tation, bid, or contract process pursuant to the provisions of this chapter.
+29 SECTION 14. That Section 67-9233, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-9233. ETHICS IN PROCUREMENT. (1) It is the intent of the legisla-
+32 ture that all persons involved in the process of procuring property for the
+33 state conduct themselves in a manner that protects the public interest and
+34 fosters confidence in the integrity of the process. To that end, this sec-
+35 tion shall apply to all such persons, including:
+36 (a) State officers, even if the officer or officer's employer is ex-
+37 cluded from the definition of "agency" under section 67-9203, Idaho
+38 Code;
+39 (b) State employees, even if the employee works for an officer, insti-
+40 tution or entity that is excluded from the definition of "agency" under
+41 section 67-9203, Idaho Code; and
+42 (c) Vendors or any person acting on behalf of a vendor.
+43 (2) In any matter relating to state procurement, it is an unethical
+44 breach of the public trust to:
+45 (a) Knowingly attempt to realize personal gain through state office or
+46 employment by any conduct inconsistent with this chapter or any other
+47 applicable law or rule;
+48 (b) Attempt to influence a state officer or employee to violate the pol-
+49 icy or provisions of this chapter or any other applicable law or rule; or
+12
+1 (c) Knowingly violate an applicable law or rule.
+2 (3) Subject to due process requirements, and in addition to any other
+3 administrative, civil or criminal sanctions provided by law or rule, a state
+4 employee's supervisor may impose the following sanctions on the employee for
+5 an unethical breach of the public trust:
+6 (a) A reprimand or warning, either oral or written;
+7 (b) Suspension with or without pay for a specified period of time; or
+8 (c) Termination of employment.
+9 (4) In addition to any other administrative, civil or criminal sanction
+10 provided by law or rule, a vendor who commits an unethical breach of the pub-
+11 lic trust, or whose advocate or representative commits an unethical breach
+12 of the public trust, may be disqualified pursuant to section 67-9217, Idaho
+13 Code.
+14 (5) Vendors, employees of vendors, or any person acting on behalf of
+15 vendors shall report to the secretary of state any financial expenditures
+16 over fifty dollars ($50.00), including but not limited to reimbursements for
+17 meals and travel.
+18 SECTION 15. This act shall be in full force and effect on and after July
+19 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOSEP;AGSN6,IOC,TETSADTOPEA;AGSN6OC,TOREPSRGTEFTADPFALBTR;AGSN6,IOC,TEPSRGADNOFP;AGS,IOC,TOREDSADTODET;AGSN6,IOC,TOREPSRGTSADDSOFTEA;AGSN6,I,TOREPSRGS;AGC,TE6,IOC,BYTEANOFANWSN6OC,TOEHPSRGTEITTOSGSN6,IOC,TOREPSR;AGSN6,IOC,TOREPSRGTEADOFC;RGSN6,IOCGTOMEA;AGCR9,TE6,IOCYTEANOFANWSN6,IOC,TOEHPSRGMEA;AGSN6,I,TOPEFRACNENTOTEDEOFRGSN6,IOC,TOREPSRNP;AGSN6,IOC,TORSRGESINP;ADPGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.D.Tetsddintssnslaotscradslhetefgm,ustecyisarm)"tc"msaggoftsfrtepsofigeec,igp,oge,clo,adteadbtp)""msapnofllaygnbytettpsad,o,orinoftesodwmsfmtesetyfranotorddattettissdbya,p,atc,f,adp)""msternofactttisarnatactyranadwlsybeaewnagdorseisr]
+[DELETED: )"ecyf"msanieintectyranrgfmanudeebefmaply)""msacyofmsintetyfmwhasaemeadteueofwhispdbyl)""msanayorfnofad,o,onoftes,oraggt,frwhaemeadesaer)""hstesemgastttmisddins,IoC)"tfri"hstesemgastttmisddinsn6,IoC)"tfrp"hstesemgastttmisdnsn6,IoC)"tfrq"hstesemgastttmisddin6,IoCN2.TtSn6,IoC,b,adteseishdtordasf.FTADPNOFALBTRS--ESFRE.()Intepnofaseb,troftednofflmts,ntlntefhdyofJ,heaefrald,odisoftesegtfsnytopeb.Shf,wrinecorwnf,slbdbytearoftednadtelesetopetefgi)Frtepgfly,ehofteesldintnslrtalmsaetotmrsofsglea,adtresbyfdatcyofalssrdfmals,sspdfrontef)Frtectfly,ehofteesldintnslrttresofalmsaetotsofs,iglea,adtdesbyfdadatcyofalssrdfmals,sdaspdfrontefgastoftepsfrwhadmsadtobee,adanedctfrehrttoaep,igrstoreegp,tsedtocttohdfytdds()oebdondacdthartfrqeorartf)Aneeofasndfrtesgf,sgehpypmormroeasaseiftertadidbyatc)Artcgtecnadmtofpmp,adpstdagpmo;a]
+[DELETED: )Artttdsayknfersorefflmsrdtotednofflmtursn6,IoC,adteaspnfrogieisarnoftnpt()ormeinteflmtteseayr;a)Acedtrtfrplfrterttoa,igrstoreegp,ttisedtocttohdfytdds()ormdttrsacebdurtepsofcr9e6,IoC)Tecdfss,ntlrtnteftdyofS,etwhslpnadatoftearoednofflmtadtedroftelso,befdinteoeoftearoftedfflmtadtelesso.Tedfasdnofpcwss,aseyaspdinayetnolrtntefhdyofNr1,peaeinteoeoftegradtelessoeuntefsddintssnartofalofteidintss.Tejldtslieinisfgtebtrtoftejlclassdbytej)Tegrmydettarttoaeryttisedtocttohdfytdd)ormeadttrsacebdurtepfcr9,te6,IoC,qsasaneyi)Terdpyisidbyted,o,onartedepdinsn()oftss)Ted,o,orinpsanedcrtertpybdondacdtharrinpdursn()oftssnpotestoftelesninJ;a)Tefetoaetepywliewhtesyrsofted,o,ori)Tegrmydettarttoaenwpytsedtoctbntohdfytdds(doemnds()adttrsacebttocr9,te6,IoC,qsasaneyi)Terdpyisidbyted,o,onartedepdinsn()oftss)Ted,oeorincnpeanedcrtepybdondacdthartfrinpdursn()oftssnprtotesftelesninJ;a)Tefetoaetepywliewhtesyrsofted,o,ori)Rstoaepysdurtepsofss()ad()oftssnslbeetfmtertt]
+[DELETED: eadtrtfrplaspdinsn()oft)Dtrsfrpsfreyrsfdposs()ad()oftssnslbecdnolrth3.TelemydetoaemsfrteanofshpyorrefgfrtesefmanbfacddtrtfrplhsntbnfdfrshpybytedN3.TtSn6,IoC,b,adteseishdtordasf.DNOFP.TeIol,rtanodlwpeisntasieoftegtvsittobetepyoftes)Toeeino,ceasofp;a)Topeactpsonapetetoetteltrebdiss;a)()TometeverdbytesewhatbstotecN4.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc)""mstepsofpgp)""mstearoftednofpgascdbysn6,IoC)""msalo,d,d,b,csadisoftes,igtepsc,bte)Teleadjlbsofg)Teg,ltg,syofs,sec,set,aygladstofpci;a)Etaspdinsn6,IoC,aseinofhrenttcswhtepsofs,IoC)""msawnortopmacttosloroesypyinretoas)""msavrwohssdabdonpytobdbytes)""msanatfrteanofp,igapeo)""msavrwohsbnadac)""mstedroftedtofascdbysn6,IoC)",s,adges"msptssttsnorseb,inweorinp,onslorsycaudtotessinasnorteqsofab]
+[DELETED: )"treb"msterebrwebsteltanpetobepdbyteseadwomebdq,etttwnssaevdorcepeesaec,tersofshesadtereseofvdsswlbew,atotintes,indgteltanp)"ea"msactadtoto()ormebstofhteseorsrpywnnyorctteaed,s,orptc)()"nc"msactadbytesetednofpgasartofacesntoo)ormevswoheadtoawalastopesdpyurtetsadcsstfhintec)()""mstoonpyfrseueinamrtnbyg,i,btntldt,p,leorr)()""msg,s,p,ssade,bhteadi,i,btntldt,d,p,s,tsadayrsorisins)"tfri"msaflrttoplvstopeinontrc,s,adp,irtoceadtrtfrp)"tfrp"msaflrtfrvstostab,whistetlseofssadistebsoftdofac)"tfrq"msaflrttovsfrpdtsonscp)()"es"msteoyvrfmwmscpyisaetop)()""msanintob,artfrp,artfri,orartfrqeidpttscrfrtepeofpgigteseofr,whmyieteelptofp)()""mstessorrsfytobepdaseysdinasnorc)()"einofhre"msBes,IoseuyorLksec)()""msapnoreyceofsgpytotesN5.TtSn6,IoC,b,adteseishdtordasf.PSADDSOFTEA.Tearoednofp)Slaealpyfrseasagtotepsoftsc)Slaealpybyces,etaep]
+[DELETED: )Sld,bdontessadmsror,teltrebrorbsinalces)Sleriocsadaymstofrtnofpyonbfofadinteneofsea)S,wneyfeadp,cessadaepyinasasleascnbeedadc)M,inteenofprptb,geteisttterdctssassdbytearaft()pgp.Ass,teqgprpsmybecdtoctfept()lswncgteltreb)Myatadywoslheteprtoatfrtearadinteaspewea,whdyslbdtoteseofIoaspdbycr8,te5,IoC)Myrefmaycrtesnofapdfrshsmasw,inteonoftea,geflpeofshc,adteatadrrslbestotintes)Myeriooncsbdonaloredr)Myerioc,iglsadr,frpsofteegoe()y,pdttshcscnnytoorrnunonteseinteetcnisndbyalkoffgfrayshc)Isadadedtofer,sttotealofted,toettepsoftsc)Myerionsfrasinaewdrsofted)Myitpysdbyacrtodewtmss)Myc,arrwwhtevsa,tersoftesefralpyttmybea,admyatssofqyfrp,admyehssfra.Ehsns,ulrdorr,ayaeisadettoehfeanoftecdp)Mydeaypttosn6,IoC)Mycyotshasasaenytoeetepftsc;a)Myieameadcttoto()ormebN6.TtSn6,IoC,b,adteseishdtordasf.S.()Tearslntmeorcobemeayanularnfrtepytobeadhsbnsdtoteasoebyterga.Ternslcytoteassntttegradtertanblptt]
+[DELETED: n6,IoC,orttteaestfsorbnasotofwhteatofternmybel,etaspdinsn6,IoC)Undgttanasrncswhtsofsn()oftss,tearslieasnfrteanofpyaspdins,IoC,intesecryrofteadanb.Tearmypttesnuptote(sbeJy1btnolrtnJy1intectcrysfreyrsfrteanofpyadinsn6,IoC,slbepdnolrtr1.Frssrdtoterlofanegctofuptote()msinl,tearsttesnnolrtnsx()msprtoteedoft.Frssrdtoterlofanegcfte()ysormeinl,tearslpttesnnolrtnen()msprtotecteeoftesnslbepdinacsmraspdbyr.Tenesldetepytobeaditdltoaeavrofteetneoftepgstadslstfhtebdcgd,teadl)Tearmyehbyreestotensinsn()oftss;pdh,tttsedfmtenepsmtbemrinn)Artearpstes,tefesla)Bsslheuptosy()dstordtotes.Asrteofty()orfe()dstdmybestbytearifidinteneoft)Tearslheuptosy()dstorwtssdptsn6,IoC.Teayrtanenofnometnty()dswhtealoftedradneofternfrtertpoalvswhaebsurc;a)Tearslnytevrttwlbeadtnolrtnfe()bsdsarcgarftebspttoph()oftss)Frayssttretealofatdpgbtntldtotecsfrmeadmdsearadpgvsslfwtesepttosn()oftssnwhteenttteonadbdsewlsttoieayalterdbytetdp)Atteteaneofsnisi,tealaophtepsfrbdasors.ShplntceartesnisiN7.TtCr9,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf]
+[DELETED: .ITTOS.()Ifananblisaytegrttisarttoaepyfmanattosn6,IoC,tearslptnfteasittostfrteidpywntn(softegsalontessptw)Ifayayistoskterlofac,tearslptneofteasittostontestwenolrtnoe()mhprtotedepdinsn6,IoC,frssrdtotlofanegc)Anittostslietedetesnwlbetobsadasefrtesnadbgpspdinsn6,IoC)Frfessidtoreegpyatdontreanwa,tearslptnfteasittostnolrtnty()dsprtopgtes)Inteceofrstoaepytttegrdsasespttosn6,IoC,tearslptneofteasittostnolrtnAt2adasefrtesnadbdpsaspdinsn6,IoCN8.TtSn6,IoC,b,adteseishdtordasf.B.()Inretoasnoranittostidpttosn68or6,IoC,avgtosytepysdslstabdinamrpdbyr)Vswoddntpeorstartfrirtepsofsn6,IoC,myslstabnretoas)()Toeeslbsbgo,tearslskammofte()bsfmvshgastIoecpeasddinsn6,IoC)()Albsrdslbeodatteteadpesdintes.Tebsslbeodinpcv,addofehbdsltnadtebem.TearslherttortayadalbspttorsedfrtedN9.TtSn6,IoC,b,adteseishdtordasf.ADOFC.()Tearsladcst,adpeosfrpyw,teltr.Qsfrryslbepdbyr,e,s,adgessmyntbeudaqnfrr.Prpeonsecybeudtodeq]
+[DELETED: )WebhtebsadqyofpyodaeteseslbegntopyoflladdcpnaeorfmbshgastIoecpeadinsn6,IoC.Incnwhteadofatfrteptofayorfrsep,b,egorsyw,tepsofss61ad6,I,slaytoteettttesemybeitwhayrscdintss)Inagc,tearslntd,orgtplttt,ayilorgpontsofr,s,c,e,ornlonuspdbnenddinsn6,IoC)AlcsfrteanofnwpyogfsidinacryrslbeadbyDr3,etfrssrdtoeyrstoaephslbeadnolrtnFy1intefgc.Frcsdtontya,igbtndtotecsfrmeadmds,ctalorassnasfefgtecnofayt)Tearmyadacttoto()ormeqstofhteseorsrpywnnyorcoeeaed,s,orptcN1.TtSn6,IoC,b,adteseishN1.TtCr9,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.MEA.()Wnactfrpyhsbdtoto()ormebsinaewhtepsofsn6,IoC,aseayslstwhbrtopetepyfmbdonfsigbtntldtoc,p,a,sts,d,adptp)Seasttmergpspttoacdurtssnslpmteasodins)oftssnatltaN1.TtSn6,IoC,b,adteseishdtordasf.PNADDEOFRS--E.()Trslpealrsrgtossintso,adinwhrtt,inshfstearslpebyr,frapdofte()yrtedeoffla,orfrapdofteasmybepyardrngeseadbyted.R]
+[DELETED: durtepsoftssnslbesttodeagtocr1,te7,IoC)Ifasniscdprtoadofac,trsliyrnalbstotesgvrdebsttwerde.Bsrdordttotssnslntbesttodeurc,te7,IoC)Vrinpdinartfrinorrrqeurtepsofsn6,IoC,slntbttodeustevsrdtotertsnaspdfrinsn6,IoCN1.TtSn6,IoC,b,adteseishdtordasf.P.()Noctorayittnsetdbytecrtowmshctisgntoayoywtalinwgbytearadbytebdospttosn6,IoC.Trofactalslceteatoftectsottteonoftes.Alrsofa,h,fraybhohctbytecgpsaerdtotes)Nomrofteleorayororeeofahoftesegtsld,h,orbyayorpninttfrhmorfrhsueorbtoronhsa,u,hdore,inweorinp,ayctmeorediyoronbfofteseofI,ifmeb,t,oronbfofttinwhheisanorore;orifmeb,thonbfofayordtusteseismearc)Etaspdintsc,noororeeslieorattoieteadofacttoaprv,ortodeorattodeayvrofac)Noororeeslcewhavrorisadnovrorisatslcewhanorore,toieorattoieteadofac,ortodeorattodeavrofac)Noororeeslfltoueanonctetadintsc)Noororeeslatpykgtttepydsntmtssororaecastfhiec)D,ieorasttslntiewnr,bdunonsle,sttoteagmsrgtoteryofv)Novrorrdp,ors,oraeofav,mystabdtoonacttopepytot,iftevrorrdp,ora,orsywdfrssudinpgtessoriftessidteptpstopetesrtep]
+[DELETED: )Ngintssnslptavrfmsgdarpgtlaergtoshb,igurtepsofsn6,IoC,pgcgororsstoasea,orpginlecemsrdtotepyttistesfpdsnaslga)Shtla,cgorors,oninlecemsdsntrnbdsstobednshttoytevrorrdp,oraeorsyoftev,cnmttds)Shtla,cgororsrpninlecemsdsntoepetevrorrdp,oraeorsyoftev,whaqeadoeantebdp;a)Aywkptorwndnpdasartoftetla,cgorors,oninlecemgisaetyrrpttoapcrsr)Nopnwohssdinapcoewntehe()dsofabdsndemypeint,b,orctpspttotepsoftronbfofav)Novrmyeyanilwohssdinpcorwdinaseayori,wntehds)dsofwgabdweshilpdintes,b,orctpspttotepsoftscN1.TtSn6,IoC,b,adteseishdtordasf.ESINP.()Itisteitoftelettalpsidintepsofpgpyfrtecttsinamrttpstepcitasceinteiyoftep.Totte,tssnslaytoalshp,i)Seo,enifteororoserisedfmtednof""ursn6,I)See,enifteeewsfrano,inoreyttisedfmtednof""un6,IoC;a)Vsoraypnagonbfofav)Inaymrrgtosep,itisanuhoftepcttt)Kyattoreplgnthseoeotbyayctitwhtscrorayoelworr)Attoieaseororeetovetepyorpsoftscrorayoraelworr;o]
+[DELETED: )Kyveanaelworr)Sttodepsr,adinantoayo,clorclsspdbylworr,asssrmyietefgssonteeefnulbhoftepct)Ardorw,erolorw)Snwhorwtpyfrasdpdoft;o)Tnofe)Inantoayora,clorclsdbylworr,avrwocsanulbhoftepct,orweaeorrecsanulbftepct,mybeddpttosn6,I)V,esofv,oraypnagonbfosslrttotesyofseayflerfyds(,igbtntldtorsfsadtN1.TsatslbeinflfeadetonadarJ,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 301
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE PROCUREMENT; AMENDING SECTION 67-3501B, IDAHO CODE, TO
+3 DEFINE TERMS AND TO PROVIDE APPLICABILITY; AMENDING SECTION 67-3502,
+4 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE FORMAT AND PREPARATION
+5 OF ANNUAL BUDGET REQUESTS; AMENDING SECTION 67-9202, IDAHO CODE, TO
+6 REVISE PROVISIONS REGARDING A DECLARATION OF POLICY; AMENDING SECTION
+7 67-9203, IDAHO CODE, TO REVISE DEFINITIONS AND TO DEFINE TERMS; AMEND-
+8 ING SECTION 67-9205, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+9 POWERS AND DUTIES OF THE ADMINISTRATOR; AMENDING SECTION 67-9208, IDAHO
+10 CODE, TO REVISE PROVISIONS REGARDING SOLICITATIONS; AMENDING CHAPTER
+11 92, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-9208A,
+12 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE INTENT TO SOLICIT;
+13 AMENDING SECTION 67-9209, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+14 BIDS; AMENDING SECTION 67-9210, IDAHO CODE, TO REVISE PROVISIONS RE-
+15 GARDING THE AWARD OF CONTRACT; REPEALING SECTION 67-9211, IDAHO CODE,
+16 RELATING TO MULTIPLE AWARDS; AMENDING CHAPTER 92, TITLE 67, IDAHO CODE,
+17 BY THE ADDITION OF A NEW SECTION 67-9211, IDAHO CODE, TO ESTABLISH PRO-
+18 VISIONS REGARDING MULTIPLE AWARDS; AMENDING SECTION 67-9215, IDAHO
+19 CODE, TO PROVIDE FOR A CERTAIN EXCEPTION TO THE DISCLOSURE OF RECORDS;
+20 AMENDING SECTION 67-9230, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+21 CERTAIN PROHIBITIONS; AMENDING SECTION 67-9233, IDAHO CODE, TO REVISE
+22 PROVISIONS REGARDING ETHICS IN PROCUREMENT; AND PROVIDING AN EFFECTIVE
+23 DATE.
+24 Be It Enacted by the Legislature of the State of Idaho:
+25 SECTION 1. That Section 67-3501B, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 67-3501B. DEFINITIONS. The terms defined in this section shall apply
+28 to this chapter and shall have the following meanings, unless the context
+29 clearly indicates another meaning:
+30 (1) "Account category" means a grouping of transactions for the pur-
+31 poses of identifying expenditure classifications, including personnel
+32 costs, operating expenditures, capital outlay, and trustee and benefit pay-
+33 ments.
+34 (2) "Appropriation" means a provision of legal authority given by the
+35 legislature that permits a department, office, or institution of the state
+36 to draw moneys from the state treasury for an object or demand against the
+37 state that is specified by amount, program, account category, fund, and pe-
+38 riod.
+39 (3) "Encumbrance" means the recognition of a commitment that is a re-
+40 duction against a current year appropriation and will subsequently become an
+41 expenditure when a good or service is received.
+
+2
+1 (4) "Executive carry forward" means an increase in the current year ap-
+2 propriation resulting from an unliquidated encumbrance balance from a prior
+3 fiscal year.
+4 (5) "Fund" means a category of moneys in the treasury from which appro-
+5 priations are made and the use of which is prescribed by law.
+6 (6) "Program" means an activity or function of a department, office, or
+7 institution of the state, or a grouping thereof, for which appropriations
+8 are made and expenditures are reported.
+9 (7) "Property" has the same meaning as that term is defined in section
+10 67-9203, Idaho Code.
+11 (8) "Request for information" has the same meaning as that term is de-
+12 fined in section 67-9203, Idaho Code.
+13 (9) "Request for proposal" has the same meaning as that term is defined
+14 in section 67-9203, Idaho Code.
+15 (10) "Request for quote" has the same meaning as that term is defined in
+16 section 67-9203, Idaho Code.
+17 SECTION 2. That Section 67-3502, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-3502. FORMAT AND PREPARATION OF ANNUAL BUDGET REQUESTS -- EX-
+20 CEPTIONS FOR EMERGENCIES. (1) In the preparation of a state budget, the
+21 administrator of the division of financial management shall, not later
+22 than the fifteenth day of July, have available for all departments, offices
+23 and institutions of the state government forms necessary to prepare budget
+24 requests. Such forms, whether in electronic or written format, shall be
+25 developed by the administrator of the division and the legislative services
+26 office to provide the following information:
+27 (a) For the preceding fiscal year, each of the entities listed in this
+28 section shall report all moneys available to them regardless of source,
+29 including legislative appropriations, and their expenditures by fund
+30 and account category of all sums received from all sources, segregated
+31 as provided for on the forms;
+32 (b) For the current fiscal year, each of the entities listed in this
+33 section shall report their estimates of all moneys available to them
+34 regardless of source, including legislative appropriations, and their
+35 estimated expenditures by fund and account category of all sums re-
+36 ceived from all sources, segregated as provided for on the forms,
+37 including a statement of the purposes for which anticipated moneys are
+38 expected to be expended, and an estimated cost for each request to ac-
+39 quire property, including requests to replace existing property, that
+40 is estimated to cost two hundred fifty thousand dollars ($250,000) or
+41 more based on data collected through a request for quote or a request for
+42 information;
+43 (c) An estimate of appropriations needed for the succeeding fiscal
+44 year, showing each primary program or major objective as a separate item
+45 of the request and itemized by account category;
+46 (d) A report concerning the condition and management of programs,
+47 program performance, and progress toward accomplishing program objec-
+48 tives; and
+
+3
+1 (e) A report that discloses any known future reductions or eliminations
+2 of federal moneys reported to the division of financial management un-
+3 der section 67-1910, Idaho Code, and the agency's plan for operating if
+4 there is a reduction of ten percent (10%) or more in the federal moneys
+5 that the state agency receives; and
+6 (f) A complete draft request for proposal for the request to acquire
+7 property, including requests to replace existing property, that is es-
+8 timated to cost two hundred fifty thousand dollars ($250,000) or more
+9 and that requires a competitive bid under the provisions of chapter 92,
+10 title 67, Idaho Code.
+11 (2) The completed forms shall, not later than the first day of Septem-
+12 ber, except with special permission and agreement of the administrator of
+13 the division of financial management and the director of the legislative
+14 services office, be filed in the office of the administrator of the division
+15 of financial management and the legislative services office. The department
+16 of administration's division of public works shall, as early as practicable
+17 and in any event no later than the fifteenth day of November 15, prepare and
+18 file in the office of the governor and the legislative services office upon
+19 on the forms described in this section a report of all of the information
+20 required in this section. The judicial department shall include in its fil-
+21 ing the budget request of the judicial council as submitted by the judicial
+22 council.
+23 (3) The governor may declare that a request to acquire replacement
+24 property that is estimated to cost two hundred fifty thousand dollars
+25 ($250,000) or more and that requires a competitive bid under the provisions
+26 of chapter 92, title 67, Idaho Code, qualifies as an emergency if:
+27 (a) The requested property is identified by the department, office, or
+28 institution after the deadline provided in subsection (2) of this sec-
+29 tion;
+30 (b) The department, office, or institution provides an estimated cost
+31 for the replacement property based on data collected through a request
+32 for information provided under subsection (1)(b) of this section prior
+33 to the start of the legislative session in January; and
+34 (c) The failure to acquire the property will interfere with the statu-
+35 tory responsibilities of the department, office, or institution.
+36 (4) The governor may declare that a request to acquire new property that
+37 is estimated to cost between two hundred fifty thousand dollars ($250,000)
+38 and one million dollars ($1,000,000) and that requires a competitive bid
+39 pursuant to chapter 92, title 67, Idaho Code, qualifies as an emergency if:
+40 (a) The requested property is identified by the department, office, or
+41 institution after the deadline provided in subsection (2) of this sec-
+42 tion;
+43 (b) The department, office or institution can provide an estimated cost
+44 for the property based on data collected through a request for informa-
+45 tion provided under subsection (1)(b) of this section prior to the start
+46 of the legislative session in January; and
+47 (c) The failure to acquire the property will interfere with the statu-
+48 tory responsibilities of the department, office, or institution.
+49 (5) Requests to acquire property submitted under the provisions of sub-
+50 sections (3) and (4) of this section shall be exempt from the requirement to
+
+4
+1 provide a draft request for proposal as provided in subsection (1) of this
+2 section.
+3 (6) Draft requests for proposals for emergency requests filed pursuant
+4 to subsections (3) and (4) of this section shall be completed no later than
+5 March 31. The legislature may decline to appropriate moneys for the acquisi-
+6 tion of such property or remove funding for the same from appropriation bills
+7 if a completed draft request for proposal has not been filed for such prop-
+8 erty by the deadline.
+9 SECTION 3. That Section 67-9202, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 67-9202. DECLARATION OF POLICY. The Idaho legislature, recognizing
+12 that an offered low price is not always indicative of the greatest value,
+13 declares it to be the policy of the state:
+14 (1) To engage in open, competitive acquisitions of property; and
+15 (2) To provide a consistent process on a predictable timeline to ensure
+16 that the lowest responsible bid is secured; and
+17 (2) (3) To maximize the value received by the state with attendant bene-
+18 fits to the citizens.
+19 SECTION 4. That Section 67-9203, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 67-9203. DEFINITIONS. As used in this chapter:
+22 (1) "Acquisition" means the process of procuring property.
+23 (2) "Administrator" means the administrator of the division of pur-
+24 chasing as created by section 67-9204, Idaho Code.
+25 (3) "Agency" means all officers, departments, divisions, bureaus,
+26 boards, commissions and institutions of the state, including the public
+27 utilities commission, but excluding:
+28 (a) The legislative and judicial branches of government;
+29 (b) The governor, lieutenant governor, secretary of state, state con-
+30 troller, state treasurer, attorney general and superintendent of pub-
+31 lic instruction; and
+32 (c) Except as provided in section 67-9234, Idaho Code, a state insti-
+33 tution of higher education that complies with the provisions of section
+34 67-9225, Idaho Code.
+35 (4) "Bid" means a written offer to perform a contract to sell or other-
+36 wise supply property in response to a solicitation.
+37 (5) "Bidder" means a vendor who has submitted a bid on property to be
+38 acquired by the state.
+39 (6) "Contract" means an agreement for the acquisition of property, in-
+40 cluding a purchase order.
+41 (7) "Contractor" means a vendor who has been awarded a contract.
+42 (8) "Director" means the director of the department of administration
+43 as created by section 67-5701, Idaho Code.
+44 (9) "Environmental, social, and governance standards" means procure-
+45 ment standards that screen or score bids, in whole or in part, on subjective
+46 ethical or sustainability criteria unrelated to the specifications in a so-
+47 licitation or the qualifications of a bidder.
+
+5
+1 (10) "Lowest responsible bidder" means the responsible bidder whose bid
+2 reflects the lowest acquisition price to be paid by the state and who meets
+3 the bid qualifications, except that when specifications are valued or com-
+4 parative performance evaluations are conducted, the results of such exami-
+5 nations and the relative score of valued specifications will be weighed, as
+6 set out in the specifications, in determining the lowest acquisition price.
+7 (11) "Multiple award" means a contract awarded to two (2) or more bid-
+8 ders to furnish the same or similar property when necessary or convenient to
+9 ensure adequate delivery, service, or product compatibility.
+10 (11) (12) "Open contract" means a contract awarded by the state through
+11 the division of purchasing as a result of a competitive solicitation to one
+12 (1) or more vendors who have agreed to allow all agencies to procure speci-
+13 fied property under the terms and conditions set forth in the contract.
+14 (12) (13) "Procure" means to obtain property for state use in a manner
+15 other than by gift, including, but not limited to, purchase, lease or rent.
+16 (13) (14) "Property" means goods, services, parts, supplies and equip-
+17 ment, both tangible and intangible, including, but not limited to, designs,
+18 plans, programs, systems, techniques and any rights or interests in such
+19 property.
+20 (15) "Request for information" means a formal request to potential ven-
+21 dors to provide information on their capabilities, services, and pricing, in
+22 order to create a draft request for proposals.
+23 (16) "Request for proposal" means a formal request for vendors to sub-
+24 mit a bid, which includes the total scope of services and is the basis of the
+25 award of a contract.
+26 (17) "Request for quote" means a formal request to vendors for pricing
+27 and terms on specific property.
+28 (14) (18) "Sole source" means the only vendor from whom specific prop-
+29 erty is available to procure.
+30 (15) (19) "Solicitation" means an invitation to bid, a request for pro-
+31 posal, a request for information, or a request for quote issued pursuant to
+32 this chapter for the purpose of procuring identifying the scope of requested
+33 work, which may include the eventual procurement of property.
+34 (16) (20) "Specifications" means the standards or requirements for
+35 property to be procured as explicitly stated in a solicitation or contract.
+36 (17) (21) "State institution of higher education" means Boise state
+37 university, Idaho state university or Lewis-Clark state college.
+38 (18) (22) "Vendor" means a person or entity capable of supplying prop-
+39 erty to the state.
+40 SECTION 5. That Section 67-9205, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 67-9205. POWERS AND DUTIES OF THE ADMINISTRATOR. The administrator of
+43 the division of purchasing:
+44 (1) Shall acquire all property for state agencies according to the pro-
+45 visions of this chapter;
+46 (2) Shall acquire all property by competitive solicitation, except as
+47 otherwise provided;
+
+6
+1 (3) Shall determine, based on the specifications and matters relating
+2 to responsibility, the lowest responsible bidder or bidders in all competi-
+3 tive solicitations;
+4 (4) Shall enter into contracts and any modifications thereto for the
+5 acquisition of property on behalf of and in the name of state agencies;
+6 (5) Shall, when economically feasible and practical, consolidate so-
+7 licitations and acquire property in amounts as large as can be efficiently
+8 managed and controlled;
+9 (6) May, in the evaluation of paper product bids, give those items that
+10 meet the recycled content standards as specified by the administrator a five
+11 percent (5%) purchasing preference. As such, those qualifying paper prod-
+12 ucts may be considered to cost five percent (5%) less when choosing the low-
+13 est responsible bidder;
+14 (7) May appoint a deputy who shall have the power to act for the adminis-
+15 trator and in the administrator's place while absent, which deputy shall be
+16 bonded to the state of Idaho as prescribed by chapter 8, title 59, Idaho Code;
+17 (8) May require from any contractor the submission of a performance
+18 bond for such sum as will, in the opinion of the administrator, guarantee
+19 the faithful performance of such contract, and the amount and requirement
+20 therefor shall be set out in the specifications;
+21 (9) May enter into open contracts based on actual or estimated require-
+22 ments;
+23 (10) May enter into contracts, including leases and rentals, for peri-
+24 ods of time exceeding one (1) year, provided that such contracts contain no
+25 penalty to or restriction upon on the state in the event cancellation is ne-
+26 cessitated by a lack of funding for any such contract;
+27 (11) Is authorized and empowered to formulate rules, subject to the ap-
+28 proval of the director, to effect the provisions of this chapter;
+29 (12) May enter into negotiations for acquisitions in accordance with
+30 established rules of the division;
+31 (13) May inspect property supplied by a contractor to determine whether
+32 it meets specifications;
+33 (14) May classify, after review with the various agencies, the require-
+34 ments of the state for all property that may be acquired, and may adopt stan-
+35 dards of quality for property, and may establish specifications for acquisi-
+36 tion. Each specification shall, until revised or rescinded, apply alike in
+37 terms and effect to each future acquisition of the classified property;
+38 (15) May delegate authority pursuant to section 67-9206, Idaho Code;
+39 and
+40 (16) May carry out such acts as are necessary to enforce the provisions
+41 of this chapter; and
+42 (17) May issue a multiple award contract to two (2) or more bidders.
+43 SECTION 6. That Section 67-9208, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 67-9208. SOLICITATIONS. (1) The administrator shall not make or cause
+46 to be made any acquisition until a requisition for the property to be ac-
+47 quired has been submitted to the administrator's office by the requisition-
+48 ing agency. The requisition shall certify to the administrator's satisfac-
+49 tion that the governor approved the relevant appropriation bill pursuant to
+
+7
+1 section 67-3502, Idaho Code, or that there are sufficient funds or balance
+2 in appropriations out of which the amount of the requisition may be lawfully
+3 paid, except as provided in section 67-9221(3), Idaho Code.
+4 (2) Upon determining that an agency's requisition complies with the
+5 provisions of subsection (1) of this section, the administrator shall is-
+6 sue a solicitation for the acquisition of property as provided in section
+7 67-3502(1), Idaho Code, in the same calendar year of the approved appro-
+8 priation bill. The administrator may post the solicitation up to three (3)
+9 months before July 1 but no later than July 1 in the current calendar year.
+10 Solicitations for emergency requests for the acquisition of property as
+11 provided in section 67-3502, Idaho Code, shall be published no later than
+12 September 1. For solicitations related to the renewal of an existing con-
+13 tract of up to thirty-five (35) months in length, the administrator shall
+14 post the solicitation no later than six (6) months prior to the end of the
+15 contract. For solicitations related to the renewal of an existing contract
+16 of three (3) years or more in length, the administrator shall post the solic-
+17 itation no later than eighteen (18) months prior to the contract expiration.
+18 Notice of the solicitation shall be posted in a conspicuous manner as pre-
+19 scribed by rule. The notice shall describe the property to be acquired in
+20 sufficient detail to apprise a vendor of the exact nature of the property
+21 being sought and shall set forth the bid closing date, time and location.
+22 (3) The administrator may establish by rule exceptions to the notice
+23 provisions in subsection (2) of this section; provided however, that the
+24 procurements excepted from the notice provisions must be minor in nature.
+25 (4) After the administrator publishes the solicitation, the following
+26 schedule shall apply:
+27 (a) Bidders shall have up to sixty (60) days to respond to the solic-
+28 itation. A shorter timeline of thirty (30) or forty-five (45) days to
+29 respond may be set by the administrator if included in the notice of the
+30 solicitation;
+31 (b) The administrator shall have up to sixty (60) days to review the
+32 bids submitted pursuant section 67-9209, Idaho Code. The administrator
+33 may request an extension of no more than thirty (30) days with the ap-
+34 proval of the director and notice of the reason for the request provided
+35 to all vendors with active bids under consideration; and
+36 (c) The administrator shall notify the vendor that will be awarded a
+37 contract no later than five (5) business days after completing a review
+38 of the bids pursuant to paragraph (b) of this subsection.
+39 (5) For any solicitations that require the approval of a third party,
+40 including but not limited to the centers for medicare and medicaid services,
+41 the administrator and participating vendors shall follow the schedule pur-
+42 suant to subsection (4) of this section with the expectation that the overall
+43 solicitation and bid schedule will shift to include any additional time re-
+44 quired by the third party.
+45 (6) At the time a notice of solicitation is issued, the administrator
+46 shall also publish the process for bid analysis or scoring. Such process
+47 shall not change after the solicitation is issued.
+48 SECTION 7. That Chapter 92, Title 67, Idaho Code, be, and the same is
+49 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+50 ignated as Section 67-9208A, Idaho Code, and to read as follows:
+
+8
+1 67-9208A. INTENT TO SOLICIT. (1) If an appropriation bill is approved
+2 by the governor that includes a request to acquire property from an agency
+3 pursuant to section 67-3502, Idaho Code, the administrator shall post notice
+4 of the agency's intent to solicit for the identified property within ten (10)
+5 days of the governor's approval on the state's procurement website.
+6 (2) If any agency intends to seek the renewal of a contract, the admin-
+7 istrator shall post notice of the agency's intent to solicit on the state's
+8 procurement website no later than one (1) month prior to the deadline pro-
+9 vided in section 67-9208(2), Idaho Code, for solicitations related to the
+10 renewal of an existing contract.
+11 (3) An intent to solicit shall include the date the solicitation will be
+12 available to bidders and a schedule for the solicitation and bidding process
+13 as provided in section 67-9208, Idaho Code.
+14 (4) For future solicitations intended to replace existing property and
+15 that do not require a new appropriation, the administrator shall post notice
+16 of the agency's intent to solicit no later than thirty (30) days prior to pub-
+17 lishing the solicitation.
+18 (5) In the case of requests to acquire property that the governor des-
+19 ignates as emergencies pursuant to section 67-3502, Idaho Code, the adminis-
+20 trator shall post notice of the agency's intent to solicit no later than Au-
+21 gust 2 and a schedule for the solicitation and bid process as provided in sec-
+22 tion 67-9208, Idaho Code.
+23 SECTION 8. That Section 67-9209, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 67-9209. BIDS. (1) In response to a solicitation or an intent to so-
+26 licit issued pursuant to section 67-9208 or 67-9208A, Idaho Code, a vendor
+27 seeking to supply the property solicited shall submit a bid in a manner pre-
+28 scribed by rule.
+29 (2) Vendors who did not participate or submit a request for information
+30 under the provisions of section 67-3502, Idaho Code, may still submit a bid
+31 in response to a solicitation.
+32 (2) (3) To enhance small business bidding opportunities, the adminis-
+33 trator shall seek a minimum of three (3) bids from vendors having a signifi-
+34 cant Idaho economic presence as defined in section 67-2349, Idaho Code.
+35 (3) (4) All bids received shall be opened at the time and place spec-
+36 ified in the solicitation. The bids shall be opened in public view, and a
+37 record of each bid shall then and there be made. The administrator shall have
+38 the right to reject any and all bids pursuant to rules established for the di-
+39 vision.
+40 SECTION 9. That Section 67-9210, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 67-9210. AWARD OF CONTRACT. (1) The administrator shall award con-
+43 tracts to, and place orders for property with, the lowest responsible
+44 bidder. Qualifications for responsibility shall be prescribed by rule.
+45 However, environmental, social, and governance standards may not be used as
+46 a qualification for responsibility. Prior performance on state contracts
+47 may be used to determine qualifications.
+
+9
+1 (2) Where both the bids and quality of property offered are the same,
+2 preference shall be given to property of local and domestic production and
+3 manufacture or from bidders having a significant Idaho economic presence as
+4 defined in section 67-2349, Idaho Code. In connection with the award of any
+5 contract for the placement of any order for state printing, binding, engrav-
+6 ing or stationery work, the provisions of sections 60-101 and 60-103, Idaho
+7 Code, shall apply to the extent that the same may be inconsistent with any re-
+8 quirements contained in this section.
+9 (3) In awarding contracts, the administrator shall not discriminate
+10 against, or grant preferential treatment to, any individual or group on the
+11 basis of race, sex, color, ethnicity, or national origin unless permitted by
+12 an exception described in section 67-5909A, Idaho Code.
+13 (4) All contracts for the acquisition of new property originating from
+14 solicitations issued in a calendar year shall be awarded by December 31, ex-
+15 cept for solicitations related to emergency requests to acquire property,
+16 which shall be awarded no later than February 1 in the following calendar
+17 year. For contracts dependent on third-party approval, including but not
+18 limited to the centers for medicare and medicaid services, contract awards
+19 shall occur as soon as feasible following the completion of any third-party
+20 requirements.
+21 (5) The administrator may award a contract to two (2) or more qualified
+22 bidders to furnish the same or similar property when necessary or convenient
+23 to ensure adequate delivery, service, or product compatibility.
+24 SECTION 10. That Section 67-9211, Idaho Code, be, and the same is hereby
+25 repealed.
+26 SECTION 11. That Chapter 92, Title 67, Idaho Code, be, and the same is
+27 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+28 ignated as Section 67-9211, Idaho Code, and to read as follows:
+29 67-9211. MULTIPLE AWARDS. (1) When a contract for property has been
+30 awarded to two (2) or more bidders in accordance with the provisions of sec-
+31 tion 67-9210, Idaho Code, a state agency shall select which bidder to pur-
+32 chase the property from based on factors including but not limited to compat-
+33 ibility, price, availability, support services, delivery, and past perfor-
+34 mance.
+35 (2) State agencies that make recurring purchases pursuant to a contract
+36 awarded under this section shall perform the analysis outlined in subsection
+37 (1) of this section at least annually.
+38 SECTION 12. That Section 67-9215, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-9215. PRESERVATION AND DISCLOSURE OF RECORDS -- EXCEPTION. (1) The
+41 administrator shall preserve all records relating to solicitations in the
+42 administrator's office, and information with respect thereto, in such form
+43 as the administrator shall prescribe by rule, for a period of three (3) years
+44 after the date of final action, or for a period of time as may be prescribed
+45 by a record retention guideline schedule approved by the director. Records
+
+10
+1 preserved under the provisions of this section shall be subject to disclo-
+2 sure according to chapter 1, title 74, Idaho Code.
+3 (2) If a solicitation is canceled prior to award of a contract, the
+4 administrator shall immediately return all bids to the submitting vendors
+5 or delete bids that were received electronically. Bids returned or deleted
+6 pursuant to this subsection shall not be subject to disclosure under chapter
+7 1, title 74, Idaho Code.
+8 (3) Vendor information provided in a request for information or request
+9 for quote under the provisions of section 67-3502, Idaho Code, shall not be
+10 subject to disclosure unless the vendors respond to the relevant solicita-
+11 tion as provided for in section 67-9208, Idaho Code.
+12 SECTION 13. That Section 67-9230, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 67-9230. PROHIBITIONS. (1) No contract or any interest therein shall
+15 be transferred by the contractor to whom such contract is given to any other
+16 party without approval in writing by the administrator and by the board of
+17 examiners pursuant to section 67-1027, Idaho Code. Transfer of a contract
+18 without approval shall cause the annulment of the contract so transferred,
+19 at the option of the state. All rights of action, however, for any breach of
+20 such contract by the contracting parties are reserved to the state.
+21 (2) No member of the legislature or any officer or employee of any
+22 branch of the state government shall directly, himself, or by any other per-
+23 son in trust for him or for his use or benefit or on his account, undertake,
+24 execute, hold or enjoy, in whole or in part, any contract made or entered into
+25 by or on behalf of the state of Idaho, if made by, through, or on behalf of the
+26 department in which he is an officer or employee; or if made by, through or
+27 on behalf of any other department unless the same is made after competitive
+28 bids.
+29 (3) Except as provided in this chapter, no officer or employee shall in-
+30 fluence or attempt to influence the award of a contract to a particular ven-
+31 dor, or to deprive or attempt to deprive any vendor of a contract.
+32 (4) No officer or employee shall conspire with a vendor or its agent,
+33 and no vendor or its agent shall conspire with an officer or employee, to in-
+34 fluence or attempt to influence the award of a contract, or to deprive or at-
+35 tempt to deprive a vendor of a contract.
+36 (5) No officer or employee shall fail to use an open contract except as
+37 provided in this chapter.
+38 (6) No officer or employee shall accept property knowing that the prop-
+39 erty does not meet specifications or other acceptance criteria set forth in
+40 the contract.
+41 (7) Deprivation, influence or attempts thereat shall not include writ-
+42 ten reports, based upon on substantial evidence, sent to the administrator
+43 concerning matters relating to the responsibility of vendors.
+44 (8)(a) No vendor or related party, or subsidiary, or affiliate of a ven-
+45 dor, may submit a bid to obtain a contract to provide property to the
+46 state, if the vendor or related party, or affiliate, or subsidiary was
+47 paid for services used in preparing the specifications or if the ser-
+48 vices influenced the procurement process to prepare the specifications
+49 for the property.
+
+11
+1 (b) Nothing in this section shall prohibit a vendor from submitting a
+2 bid after providing technical assistance relating to such bid, includ-
+3 ing under the provisions of section 67-3502, Idaho Code, providing con-
+4 sulting or other services to a state agency, or participating in leg-
+5 islative committee meetings related to the property that is the subject
+6 of planned solicitation as long as:
+7 (i) Such technical assistance, consulting or other services, or
+8 participation in legislative committee meetings does not result
+9 in bid specifications to be drawn such that only the vendor or re-
+10 lated party, or affiliate or subsidiary of the vendor, can meet the
+11 bid specifications;
+12 (ii) Such technical assistance, consulting or other services,
+13 or participation in legislative committee meetings does not oth-
+14 erwise provide the vendor or related party, or affiliate or sub-
+15 sidiary of the vendor, with a quantifiable and objective advantage
+16 in the bid process; and
+17 (iii) Any work product or written documentation produced as a re-
+18 sult of the technical assistance, consulting or other services, or
+19 participation in legislative committee meeting is accessible to
+20 any requestor pursuant to a public records request.
+21 (9) No person who has served in a public office within three hundred
+22 sixty-five (365) days of a bid submission deadline may participate in the
+23 solicitation, bid, or contract process pursuant to the provisions of this
+24 chapter on behalf of a vendor.
+25 (10) No vendor may employ an individual who has served in public office,
+26 or worked in a state agency or institution, within three hundred sixty-five
+27 (365) days of winning a bid where such individual participated in the solici-
+28 tation, bid, or contract process pursuant to the provisions of this chapter.
+29 SECTION 14. That Section 67-9233, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-9233. ETHICS IN PROCUREMENT. (1) It is the intent of the legisla-
+32 ture that all persons involved in the process of procuring property for the
+33 state conduct themselves in a manner that protects the public interest and
+34 fosters confidence in the integrity of the process. To that end, this sec-
+35 tion shall apply to all such persons, including:
+36 (a) State officers, even if the officer or officer's employer is ex-
+37 cluded from the definition of "agency" under section 67-9203, Idaho
+38 Code;
+39 (b) State employees, even if the employee works for an officer, insti-
+40 tution or entity that is excluded from the definition of "agency" under
+41 section 67-9203, Idaho Code; and
+42 (c) Vendors or any person acting on behalf of a vendor.
+43 (2) In any matter relating to state procurement, it is an unethical
+44 breach of the public trust to:
+45 (a) Knowingly attempt to realize personal gain through state office or
+46 employment by any conduct inconsistent with this chapter or any other
+47 applicable law or rule;
+48 (b) Attempt to influence a state officer or employee to violate the pol-
+49 icy or provisions of this chapter or any other applicable law or rule; or
+
+12
+1 (c) Knowingly violate an applicable law or rule.
+2 (3) Subject to due process requirements, and in addition to any other
+3 administrative, civil or criminal sanctions provided by law or rule, a state
+4 employee's supervisor may impose the following sanctions on the employee for
+5 an unethical breach of the public trust:
+6 (a) A reprimand or warning, either oral or written;
+7 (b) Suspension with or without pay for a specified period of time; or
+8 (c) Termination of employment.
+9 (4) In addition to any other administrative, civil or criminal sanction
+10 provided by law or rule, a vendor who commits an unethical breach of the pub-
+11 lic trust, or whose advocate or representative commits an unethical breach
+12 of the public trust, may be disqualified pursuant to section 67-9217, Idaho
+13 Code.
+14 (5) Vendors, employees of vendors, or any person acting on behalf of
+15 vendors shall report to the secretary of state any financial expenditures
+16 over fifty dollars ($50.00), including but not limited to reimbursements for
+17 meals and travel.
+18 SECTION 15. This act shall be in full force and effect on and after July
+19 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOSEP;AGSN6,IOC,TETSADTOPEA;AGSN6OC,TOREPSRGTEFTADPFALBTR;AGSN6,IOC,TEPSRGADNOFP;AGS,IOC,TOREDSADTODET;AGSN6,IOC,TOREPSRGTSADDSOFTEA;AGSN6,I,TOREPSRGS;AGC,TE6,IOC,BYTEANOFANWSN6OC,TOEHPSRGTEITTOSGSN6,IOC,TOREPSR;AGSN6,IOC,TOREPSRGTEADOFC;RGSN6,IOCGTOMEA;AGCR9,TE6,IOCYTEANOFANWSN6,IOC,TOEHPSRGMEA;AGSN6,I,TOPEFRACNENTOTEDEOFRGSN6,IOC,TOREPSRNP;AGSN6,IOC,TORSRGESINP;ADPGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.D.Tetsddintssnslaotscradslhetefgm,ustecyisarm)"tc"msaggoftsfrtepsofigeec,igp,oge,clo,adteadbtp)""msapnofllaygnbytettpsad,o,orinoftesodwmsfmtesetyfranotorddattettissdbya,p,atc,f,adp)""msternofactttisarnatactyranadwlsybeaewnagdorseisr]
+[DELETED: )"ecyf"msanieintectyranrgfmanudeebefmaply)""msacyofmsintetyfmwhasaemeadteueofwhispdbyl)""msanayorfnofad,o,onoftes,oraggt,frwhaemeadesaer)""hstesemgastttmisddins,IoC)"tfri"hstesemgastttmisddinsn6,IoC)"tfrp"hstesemgastttmisdnsn6,IoC)"tfrq"hstesemgastttmisddin6,IoCN2.TtSn6,IoC,b,adteseishdtordasf.FTADPNOFALBTRS--ESFRE.()Intepnofaseb,troftednofflmts,ntlntefhdyofJ,heaefrald,odisoftesegtfsnytopeb.Shf,wrinecorwnf,slbdbytearoftednadtelesetopetefgi)Frtepgfly,ehofteesldintnslrtalmsaetotmrsofsglea,adtresbyfdatcyofalssrdfmals,sspdfrontef)Frtectfly,ehofteesldintnslrttresofalmsaetotsofs,iglea,adtdesbyfdadatcyofalssrdfmals,sdaspdfrontefgastoftepsfrwhadmsadtobee,adanedctfrehrttoaep,igrstoreegp,tsedtocttohdfytdds()oebdondacdthartfrqeorartf)Aneeofasndfrtesgf,sgehpypmormroeasaseiftertadidbyatc)Artcgtecnadmtofpmp,adpstdagpmo;a]
+[DELETED: )Artttdsayknfersorefflmsrdtotednofflmtursn6,IoC,adteaspnfrogieisarnoftnpt()ormeinteflmtteseayr;a)Acedtrtfrplfrterttoa,igrstoreegp,ttisedtocttohdfytdds()ormdttrsacebdurtepsofcr9e6,IoC)Tecdfss,ntlrtnteftdyofS,etwhslpnadatoftearoednofflmtadtedroftelso,befdinteoeoftearoftedfflmtadtelesso.Tedfasdnofpcwss,aseyaspdinayetnolrtntefhdyofNr1,peaeinteoeoftegradtelessoeuntefsddintssnartofalofteidintss.Tejldtslieinisfgtebtrtoftejlclassdbytej)Tegrmydettarttoaeryttisedtocttohdfytdd)ormeadttrsacebdurtepfcr9,te6,IoC,qsasaneyi)Terdpyisidbyted,o,onartedepdinsn()oftss)Ted,o,orinpsanedcrtertpybdondacdtharrinpdursn()oftssnpotestoftelesninJ;a)Tefetoaetepywliewhtesyrsofted,o,ori)Tegrmydettarttoaenwpytsedtoctbntohdfytdds(doemnds()adttrsacebttocr9,te6,IoC,qsasaneyi)Terdpyisidbyted,o,onartedepdinsn()oftss)Ted,oeorincnpeanedcrtepybdondacdthartfrinpdursn()oftssnprtotesftelesninJ;a)Tefetoaetepywliewhtesyrsofted,o,ori)Rstoaepysdurtepsofss()ad()oftssnslbeetfmtertt]
+[DELETED: eadtrtfrplaspdinsn()oft)Dtrsfrpsfreyrsfdposs()ad()oftssnslbecdnolrth3.TelemydetoaemsfrteanofshpyorrefgfrtesefmanbfacddtrtfrplhsntbnfdfrshpybytedN3.TtSn6,IoC,b,adteseishdtordasf.DNOFP.TeIol,rtanodlwpeisntasieoftegtvsittobetepyoftes)Toeeino,ceasofp;a)Topeactpsonapetetoetteltrebdiss;a)()TometeverdbytesewhatbstotecN4.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc)""mstepsofpgp)""mstearoftednofpgascdbysn6,IoC)""msalo,d,d,b,csadisoftes,igtepsc,bte)Teleadjlbsofg)Teg,ltg,syofs,sec,set,aygladstofpci;a)Etaspdinsn6,IoC,aseinofhrenttcswhtepsofs,IoC)""msawnortopmacttosloroesypyinretoas)""msavrwohssdabdonpytobdbytes)""msanatfrteanofp,igapeo)""msavrwohsbnadac)""mstedroftedtofascdbysn6,IoC)",s,adges"msptssttsnorseb,inweorinp,onslorsycaudtotessinasnorteqsofab]
+[DELETED: )"treb"msterebrwebsteltanpetobepdbyteseadwomebdq,etttwnssaevdorcepeesaec,tersofshesadtereseofvdsswlbew,atotintes,indgteltanp)"ea"msactadtoto()ormebstofhteseorsrpywnnyorctteaed,s,orptc)()"nc"msactadbytesetednofpgasartofacesntoo)ormevswoheadtoawalastopesdpyurtetsadcsstfhintec)()""mstoonpyfrseueinamrtnbyg,i,btntldt,p,leorr)()""msg,s,p,ssade,bhteadi,i,btntldt,d,p,s,tsadayrsorisins)"tfri"msaflrttoplvstopeinontrc,s,adp,irtoceadtrtfrp)"tfrp"msaflrtfrvstostab,whistetlseofssadistebsoftdofac)"tfrq"msaflrttovsfrpdtsonscp)()"es"msteoyvrfmwmscpyisaetop)()""msanintob,artfrp,artfri,orartfrqeidpttscrfrtepeofpgigteseofr,whmyieteelptofp)()""mstessorrsfytobepdaseysdinasnorc)()"einofhre"msBes,IoseuyorLksec)()""msapnoreyceofsgpytotesN5.TtSn6,IoC,b,adteseishdtordasf.PSADDSOFTEA.Tearoednofp)Slaealpyfrseasagtotepsoftsc)Slaealpybyces,etaep]
+[DELETED: )Sld,bdontessadmsror,teltrebrorbsinalces)Sleriocsadaymstofrtnofpyonbfofadinteneofsea)S,wneyfeadp,cessadaepyinasasleascnbeedadc)M,inteenofprptb,geteisttterdctssassdbytearaft()pgp.Ass,teqgprpsmybecdtoctfept()lswncgteltreb)Myatadywoslheteprtoatfrtearadinteaspewea,whdyslbdtoteseofIoaspdbycr8,te5,IoC)Myrefmaycrtesnofapdfrshsmasw,inteonoftea,geflpeofshc,adteatadrrslbestotintes)Myeriooncsbdonaloredr)Myerioc,iglsadr,frpsofteegoe()y,pdttshcscnnytoorrnunonteseinteetcnisndbyalkoffgfrayshc)Isadadedtofer,sttotealofted,toettepsoftsc)Myerionsfrasinaewdrsofted)Myitpysdbyacrtodewtmss)Myc,arrwwhtevsa,tersoftesefralpyttmybea,admyatssofqyfrp,admyehssfra.Ehsns,ulrdorr,ayaeisadettoehfeanoftecdp)Mydeaypttosn6,IoC)Mycyotshasasaenytoeetepftsc;a)Myieameadcttoto()ormebN6.TtSn6,IoC,b,adteseishdtordasf.S.()Tearslntmeorcobemeayanularnfrtepytobeadhsbnsdtoteasoebyterga.Ternslcytoteassntttegradtertanblptt]
+[DELETED: n6,IoC,orttteaestfsorbnasotofwhteatofternmybel,etaspdinsn6,IoC)Undgttanasrncswhtsofsn()oftss,tearslieasnfrteanofpyaspdins,IoC,intesecryrofteadanb.Tearmypttesnuptote(sbeJy1btnolrtnJy1intectcrysfreyrsfrteanofpyadinsn6,IoC,slbepdnolrtr1.Frssrdtoterlofanegctofuptote()msinl,tearsttesnnolrtnsx()msprtoteedoft.Frssrdtoterlofanegcfte()ysormeinl,tearslpttesnnolrtnen()msprtotecteeoftesnslbepdinacsmraspdbyr.Tenesldetepytobeaditdltoaeavrofteetneoftepgstadslstfhtebdcgd,teadl)Tearmyehbyreestotensinsn()oftss;pdh,tttsedfmtenepsmtbemrinn)Artearpstes,tefesla)Bsslheuptosy()dstordtotes.Asrteofty()orfe()dstdmybestbytearifidinteneoft)Tearslheuptosy()dstorwtssdptsn6,IoC.Teayrtanenofnometnty()dswhtealoftedradneofternfrtertpoalvswhaebsurc;a)Tearslnytevrttwlbeadtnolrtnfe()bsdsarcgarftebspttoph()oftss)Frayssttretealofatdpgbtntldtotecsfrmeadmdsearadpgvsslfwtesepttosn()oftssnwhteenttteonadbdsewlsttoieayalterdbytetdp)Atteteaneofsnisi,tealaophtepsfrbdasors.ShplntceartesnisiN7.TtCr9,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf]
+[DELETED: .ITTOS.()Ifananblisaytegrttisarttoaepyfmanattosn6,IoC,tearslptnfteasittostfrteidpywntn(softegsalontessptw)Ifayayistoskterlofac,tearslptneofteasittostontestwenolrtnoe()mhprtotedepdinsn6,IoC,frssrdtotlofanegc)Anittostslietedetesnwlbetobsadasefrtesnadbgpspdinsn6,IoC)Frfessidtoreegpyatdontreanwa,tearslptnfteasittostnolrtnty()dsprtopgtes)Inteceofrstoaepytttegrdsasespttosn6,IoC,tearslptneofteasittostnolrtnAt2adasefrtesnadbdpsaspdinsn6,IoCN8.TtSn6,IoC,b,adteseishdtordasf.B.()Inretoasnoranittostidpttosn68or6,IoC,avgtosytepysdslstabdinamrpdbyr)Vswoddntpeorstartfrirtepsofsn6,IoC,myslstabnretoas)()Toeeslbsbgo,tearslskammofte()bsfmvshgastIoecpeasddinsn6,IoC)()Albsrdslbeodatteteadpesdintes.Tebsslbeodinpcv,addofehbdsltnadtebem.TearslherttortayadalbspttorsedfrtedN9.TtSn6,IoC,b,adteseishdtordasf.ADOFC.()Tearsladcst,adpeosfrpyw,teltr.Qsfrryslbepdbyr,e,s,adgessmyntbeudaqnfrr.Prpeonsecybeudtodeq]
+[DELETED: )WebhtebsadqyofpyodaeteseslbegntopyoflladdcpnaeorfmbshgastIoecpeadinsn6,IoC.Incnwhteadofatfrteptofayorfrsep,b,egorsyw,tepsofss61ad6,I,slaytoteettttesemybeitwhayrscdintss)Inagc,tearslntd,orgtplttt,ayilorgpontsofr,s,c,e,ornlonuspdbnenddinsn6,IoC)AlcsfrteanofnwpyogfsidinacryrslbeadbyDr3,etfrssrdtoeyrstoaephslbeadnolrtnFy1intefgc.Frcsdtontya,igbtndtotecsfrmeadmds,ctalorassnasfefgtecnofayt)Tearmyadacttoto()ormeqstofhteseorsrpywnnyorcoeeaed,s,orptcN1.TtSn6,IoC,b,adteseishN1.TtCr9,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.MEA.()Wnactfrpyhsbdtoto()ormebsinaewhtepsofsn6,IoC,aseayslstwhbrtopetepyfmbdonfsigbtntldtoc,p,a,sts,d,adptp)Seasttmergpspttoacdurtssnslpmteasodins)oftssnatltaN1.TtSn6,IoC,b,adteseishdtordasf.PNADDEOFRS--E.()Trslpealrsrgtossintso,adinwhrtt,inshfstearslpebyr,frapdofte()yrtedeoffla,orfrapdofteasmybepyardrngeseadbyted.R]
+[DELETED: durtepsoftssnslbesttodeagtocr1,te7,IoC)Ifasniscdprtoadofac,trsliyrnalbstotesgvrdebsttwerde.Bsrdordttotssnslntbesttodeurc,te7,IoC)Vrinpdinartfrinorrrqeurtepsofsn6,IoC,slntbttodeustevsrdtotertsnaspdfrinsn6,IoCN1.TtSn6,IoC,b,adteseishdtordasf.P.()Noctorayittnsetdbytecrtowmshctisgntoayoywtalinwgbytearadbytebdospttosn6,IoC.Trofactalslceteatoftectsottteonoftes.Alrsofa,h,fraybhohctbytecgpsaerdtotes)Nomrofteleorayororeeofahoftesegtsld,h,orbyayorpninttfrhmorfrhsueorbtoronhsa,u,hdore,inweorinp,ayctmeorediyoronbfofteseofI,ifmeb,t,oronbfofttinwhheisanorore;orifmeb,thonbfofayordtusteseismearc)Etaspdintsc,noororeeslieorattoieteadofacttoaprv,ortodeorattodeayvrofac)Noororeeslcewhavrorisadnovrorisatslcewhanorore,toieorattoieteadofac,ortodeorattodeavrofac)Noororeeslfltoueanonctetadintsc)Noororeeslatpykgtttepydsntmtssororaecastfhiec)D,ieorasttslntiewnr,bdunonsle,sttoteagmsrgtoteryofv)Novrorrdp,ors,oraeofav,mystabdtoonacttopepytot,iftevrorrdp,ora,orsywdfrssudinpgtessoriftessidteptpstopetesrtep]
+[DELETED: )Ngintssnslptavrfmsgdarpgtlaergtoshb,igurtepsofsn6,IoC,pgcgororsstoasea,orpginlecemsrdtotepyttistesfpdsnaslga)Shtla,cgorors,oninlecemsdsntrnbdsstobednshttoytevrorrdp,oraeorsyoftev,cnmttds)Shtla,cgororsrpninlecemsdsntoepetevrorrdp,oraeorsyoftev,whaqeadoeantebdp;a)Aywkptorwndnpdasartoftetla,cgorors,oninlecemgisaetyrrpttoapcrsr)Nopnwohssdinapcoewntehe()dsofabdsndemypeint,b,orctpspttotepsoftronbfofav)Novrmyeyanilwohssdinpcorwdinaseayori,wntehds)dsofwgabdweshilpdintes,b,orctpspttotepsoftscN1.TtSn6,IoC,b,adteseishdtordasf.ESINP.()Itisteitoftelettalpsidintepsofpgpyfrtecttsinamrttpstepcitasceinteiyoftep.Totte,tssnslaytoalshp,i)Seo,enifteororoserisedfmtednof""ursn6,I)See,enifteeewsfrano,inoreyttisedfmtednof""un6,IoC;a)Vsoraypnagonbfofav)Inaymrrgtosep,itisanuhoftepcttt)Kyattoreplgnthseoeotbyayctitwhtscrorayoelworr)Attoieaseororeetovetepyorpsoftscrorayoraelworr;o]
+[DELETED: )Kyveanaelworr)Sttodepsr,adinantoayo,clorclsspdbylworr,asssrmyietefgssonteeefnulbhoftepct)Ardorw,erolorw)Snwhorwtpyfrasdpdoft;o)Tnofe)Inantoayora,clorclsdbylworr,avrwocsanulbhoftepct,orweaeorrecsanulbftepct,mybeddpttosn6,I)V,esofv,oraypnagonbfosslrttotesyofseayflerfyds(,igbtntldtorsfsadtN1.TsatslbeinflfeadetonadarJ,2]

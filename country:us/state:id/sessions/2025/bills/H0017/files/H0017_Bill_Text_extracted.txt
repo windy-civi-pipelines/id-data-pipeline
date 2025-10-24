@@ -1,0 +1,647 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 17
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO WILDFIRE RISK MITIGATION AND STABILIZATION POOL;
+3 AMENDING THE HEADING FOR CHAPTER 24, TITLE 41, IDAHO CODE; AMENDING
+4 CHAPTER 24, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+5 41-2402, IDAHO CODE, TO PROVIDE LEGISLATIVE INTENT AND A SHORT TITLE;
+6 AMENDING CHAPTER 24, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+7 TION 41-2403, IDAHO CODE, TO DEFINE TERMS; AMENDING CHAPTER 24, TITLE
+8 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2404, IDAHO CODE,
+9 TO ESTABLISH PROVISIONS REGARDING A WILDFIRE RISK MITIGATION AND STA-
+10 BILIZATION POOL, FUND, AND BOARD; AMENDING CHAPTER 24, TITLE 41, IDAHO
+11 CODE, BY THE ADDITION OF A NEW SECTION 41-2405, IDAHO CODE, TO ESTABLISH
+12 PROVISIONS REGARDING A PLAN OF OPERATION; AMENDING CHAPTER 24, TITLE
+13 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2406, IDAHO CODE, TO
+14 PROVIDE FOR POWERS AND AUTHORITY OF THE POOL; AMENDING CHAPTER 24, TITLE
+15 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2407, IDAHO CODE,
+16 TO ESTABLISH PROVISIONS REGARDING FUNDING SOURCES; AMENDING CHAPTER
+17 24, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2408,
+18 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING CERTAIN IMMUNITY AND LI-
+19 ABILITY; AMENDING SECTION 41-406, IDAHO CODE, TO PROVIDE FOR A CERTAIN
+20 DISTRIBUTION TO THE IDAHO WILDFIRE RISK MITIGATION AND STABILIZATION
+21 POOL; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That the Heading for Chapter 24, Title 41, Idaho Code, be,
+24 and the same is hereby amended to read as follows:
+25 CHAPTER 24
+26 PROPERTY INSURANCE CONTRACTS
+27 SECTION 2. That Chapter 24, Title 41, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 41-2402, Idaho Code, and to read as follows:
+30 41-2402. IDAHO WILDFIRE RISK MITIGATION AND STABILIZATION POOL ACT
+31 -- LEGISLATIVE INTENT -- SHORT TITLE. It is the intent of the legislature
+32 to assist homeowners and property owners in protecting their homes and
+33 property against wildfire risks and to reduce or mitigate wildfire risk to
+34 property owners, thereby reducing costs of property insurance, reducing
+35 or mitigating community-level wildfire risks, assisting in attracting and
+36 retaining insurers in the property marketplace, reducing concentration risk
+37 and increasing healthy competition, and promoting a stable and competitive
+38 property insurance marketplace by establishing the provisions of sections
+39 41-2402 through 41-2408, Idaho Code, which shall be known and may be cited as
+40 the "Idaho Wildfire Risk Mitigation and Stabilization Pool Act."
+2
+1 SECTION 3. That Chapter 24, Title 41, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 41-2403, Idaho Code, and to read as follows:
+4 41-2403. DEFINITIONS. For the purposes of sections 41-2402 through
+5 41-2408, Idaho Code, the following definitions apply:
+6 (1) "Act" means the Idaho wildfire risk mitigation and stabilization
+7 pool act.
+8 (2) "Board" means the board of directors of the Idaho wildfire risk mit-
+9 igation and stabilization pool.
+10 (3) "Director" means the director of the department of insurance of the
+11 state of Idaho.
+12 (4) "Insurer" means any entity that provides or is authorized to pro-
+13 vide property insurance as defined in section 41-504, Idaho Code, in this
+14 state and includes an insurance company and any other entity providing prop-
+15 erty insurance coverage in this state that is subject to state insurance reg-
+16 ulation but excludes any entity providing only casualty insurance as defined
+17 in section 41-506, Idaho Code.
+18 (5) "Participating insurer" means an insurer that participates in a
+19 program of the pool.
+20 (6) "Participation charge" means the amount set by the board to be paid
+21 by a participating insurer for a program of the pool.
+22 (7) "Plan of operation" means the plan of operation of the wildfire risk
+23 mitigation and stabilization pool.
+24 (8) "Producer" means a producer as defined in section 41-1003, Idaho
+25 Code.
+26 (9) "Target area" means the area or areas determined by the board where:
+27 (a) A substantially elevated wildfire risk is present;
+28 (b) Property coverage is difficult to obtain or retain due to wildfire
+29 risk;
+30 (c) Community wildfire mitigation would protect other property; or
+31 (d) The deconcentrating of wildfire risk would benefit the community.
+32 (10) "Wildfire risk mitigation and stabilization pool" or "pool" means
+33 an independent body corporate and politic that performs an essential govern-
+34 mental function when exercising the power conferred to it pursuant to sec-
+35 tions 41-2402 through 41-2408, Idaho Code.
+36 SECTION 4. That Chapter 24, Title 41, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 41-2404, Idaho Code, and to read as follows:
+39 41-2404. WILDFIRE RISK MITIGATION AND STABILIZATION POOL -- FUND --
+40 BOARD. (1) There is hereby established an independent public body corporate
+41 and politic to be known as the Idaho wildfire risk mitigation and stabiliza-
+42 tion pool. The pool is established to:
+43 (a) Receive funding from various sources;
+44 (b) Use the fund created pursuant to subsection (2) of this section to
+45 assist target areas and improve access to property insurance in target
+46 areas; and
+47 (c) Distribute funding to mitigate wildfire risk, including but not
+48 limited to grants, matching programs, and educational efforts.
+3
+1 (2) There is hereby created in the state treasury the wildfire risk mit-
+2 igation and stabilization fund. The fund shall consist of moneys deposited
+3 pursuant to section 41-2407, Idaho Code. Interest earned on the investment
+4 of idle moneys in the fund shall be returned to the fund.
+5 (3) The pool and any assessments imposed or collected pursuant to oper-
+6 ation of the pool shall, at all times, be free from taxation of any kind.
+7 (4)(a) The pool created pursuant to this section shall operate subject
+8 to the supervision and control of the board. The board shall consist of
+9 twelve (12) appointed members:
+10 (i) Ten (10) members shall be appointed by the director and serve
+11 at the pleasure of the director. In selecting members of the
+12 board, the director shall appoint three (3) members representing
+13 insurers, two (2) members representing property insurance produc-
+14 ers, one (1) member representing the surplus line association of
+15 Idaho board, two (2) members representing consumer interests, one
+16 (1) member representing the forest products industry, and one (1)
+17 member representing fire officials;
+18 (ii) One (1) member shall be a member of the senate appointed by
+19 the president pro tempore of the senate; and
+20 (iii) One (1) member shall be a member of the house of representa-
+21 tives appointed by the speaker of the house of representatives.
+22 (b) The director or the director's designee shall serve as an ex-offi-
+23 cio member of the board. The director may request additional ex-offi-
+24 cio members of the board, such as the director of the Idaho department of
+25 lands or the director's designee or the Idaho state fire marshal or the
+26 state fire marshal's designee.
+27 (c) The initial nonlegislative board members shall be appointed as fol-
+28 lows: three (3) of the members to serve a term of two (2) years; four
+29 (4) of the members to serve a term of four (4) years; and three (3) of
+30 the members to serve a term of six (6) years. Subsequent nonlegislative
+31 board members shall serve for a term of three (3) years. Legislative
+32 members of the board shall serve for a term of two (2) years. Vacancies
+33 shall be filled in the same manner as the original appointment pursuant
+34 to this section.
+35 SECTION 5. That Chapter 24, Title 41, Idaho Code, be, and the same is
+36 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+37 ignated as Section 41-2405, Idaho Code, and to read as follows:
+38 41-2405. PLAN OF OPERATION. (1) The board shall submit to the director
+39 a plan of operation and thereafter any amendments thereto necessary or suit-
+40 able to assure the fair, reasonable, fiscally responsible, and equitable ad-
+41 ministration of the pool.
+42 (2) The director may, after notice and hearing, approve the plan of op-
+43 eration if the director determines it to be suitable to assure the fair, rea-
+44 sonable, fiscally responsible, and equitable administration of the pool and
+45 to provide for the sharing of pool gains or losses on an equitable and propor-
+46 tionate basis.
+47 (3) The plan of operation shall become effective upon written approval
+48 by the director.
+4
+1 (4)(a) If the board fails to submit a suitable plan of operation, the
+2 director shall, after notice and hearing, adopt and promulgate a tempo-
+3 rary plan of operation.
+4 (b) The director shall amend or rescind any temporary plan of operation
+5 adopted pursuant to this subsection at the time a suitable plan of oper-
+6 ation or amendment submitted by the board becomes effective.
+7 (5) The plan of operation shall:
+8 (a) Establish procedures for handling and accounting of pool assets and
+9 moneys and for an annual fiscal reporting of such assets and moneys to
+10 the director;
+11 (b) Establish procedures for selecting an administrator and setting
+12 forth the powers and duties of the administrator;
+13 (c) Establish procedures for providing grants to citizens or communi-
+14 ties for wildfire risk mitigation. Such grant amounts shall be limited
+15 in order to assist the largest number of citizens and may require match-
+16 ing funds;
+17 (d) Establish procedures for funding property protection and for fire
+18 prevention and mitigation education and resources;
+19 (e) Study, evaluate, and advance a program or programs to promote a
+20 stable and competitive property insurance market or to equitably reduce
+21 property insurance costs associated with wildfire risk. Any program
+22 established shall:
+23 (i) Be actuarially sound with expenses not exceeding the pro-
+24 jected funding pursuant to section 41-2407, Idaho Code;
+25 (ii) Not create a governmental entity that competes either di-
+26 rectly or indirectly with the private sector; and
+27 (iii) Be created pursuant to Idaho Code;
+28 (f) Identify target areas;
+29 (g) Establish procedures for determining when an assessment from in-
+30 surers is recommended. Assessments shall only be recommended after ex-
+31 hausting all other efforts and all funds in the pool. The director shall
+32 only approve a recommended assessment that is in the best interest of
+33 the state and its citizens; and
+34 (h) Provide for any additional matters necessary for the implementa-
+35 tion and administration of the pool.
+36 SECTION 6. That Chapter 24, Title 41, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 41-2406, Idaho Code, and to read as follows:
+39 41-2406. POWERS AND AUTHORITY. (1) The pool shall have the general
+40 powers and authority granted under the laws of this state to insurance com-
+41 panies licensed to transact business, except the power to issue property
+42 coverage directly to individuals.
+43 (2) In addition, the pool shall have the specific authority to:
+44 (a) Enter into contracts as are necessary and proper to carry out the
+45 provisions and purposes authorized pursuant to this act, including the
+46 authority, with the approval of the director, to enter into contracts
+47 with similar programs of other states for the joint performance of
+48 common functions or with persons or other organizations for the perfor-
+49 mance of administrative functions;
+5
+1 (b) Sue or be sued, including taking any legal actions necessary or
+2 proper to recover any assessments and penalties for, on behalf of, or
+3 against the pool or any insurer;
+4 (c) Appoint appropriate legal, actuarial, and other committees as nec-
+5 essary to provide technical assistance in the operation of the pool,
+6 policy and other contract design, and any other function within the au-
+7 thority of the pool;
+8 (d) Borrow money to effect the purposes of the pool. Any notes or other
+9 evidence of indebtedness of the pool not in default shall be legal in-
+10 vestment;
+11 (e) Define the terms, strategies, and conditions of all its programs
+12 that attract insurers, equitably reduce costs to consumers, and stabi-
+13 lize the marketplace, in accordance with the provisions of this act; and
+14 (f) Establish rules, policies, and procedures as may be necessary or
+15 convenient for the implementation of the provisions of this act and the
+16 operation of the pool.
+17 (3) The director shall have the authority to promulgate rules, subject
+18 to legislative approval, to accomplish the provisions of this act.
+19 SECTION 7. That Chapter 24, Title 41, Idaho Code, be, and the same is
+20 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+21 ignated as Section 41-2407, Idaho Code, and to read as follows:
+22 41-2407. FUNDING. The Idaho wildfire risk mitigation and stabiliza-
+23 tion pool shall be funded from the following sources:
+24 (1) The ongoing appropriation of premium tax authorized pursuant to
+25 section 41-406(1)(e), Idaho Code;
+26 (2) Moneys from the reduced cigarette ignition propensity and fire-
+27 fighter protection act fund allocated to the state fire marshal pursuant to
+28 chapter 89, title 39, Idaho Code, not utilized for the processing, testing,
+29 enforcement, and oversight activities authorized pursuant to chapter 89,
+30 title 39, Idaho Code;
+31 (3) Excess stamping fees as approved by the director at the recommenda-
+32 tion of the surplus line association of Idaho board;
+33 (4) Grants or other contributions available for fire prevention or mit-
+34 igation, including private sector contributions;
+35 (5) Participation charges, if any, paid by participating insurers for a
+36 program as established by the board; and
+37 (6) Assessments, if any, as deemed necessary to meet the obligations of
+38 a program.
+39 SECTION 8. That Chapter 24, Title 41, Idaho Code, be, and the same is
+40 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+41 ignated as Section 41-2408, Idaho Code, and to read as follows:
+42 41-2408. IMMUNITY AND LIABILITY. (1) The board shall not be liable for
+43 any obligations of the pool. No member of the board shall be liable, and no
+44 cause of action of any nature may arise against any board member for any act
+45 or omission related to the performance of any board member's powers and du-
+46 ties pursuant to this act, unless such act or omission constitutes gross neg-
+6
+1 ligence, reckless, willful, or wanton conduct. The board may provide for in-
+2 demnification of and legal representation for its members.
+3 (2) The participation of a participating insurer in any program, the
+4 establishment of rates, forms, or procedures, and any other joint or collec-
+5 tive action required pursuant to this act shall not be grounds for any legal
+6 action, criminal or civil liability, or penalty against the pool or any of
+7 its participating insurers either jointly or separately.
+8 SECTION 9. That Section 41-406, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 41-406. DEPOSIT AND REPORT OF FEES, LICENSES AND TAXES. (1) The direc-
+11 tor shall transmit all taxes, fines and penalties collected by him to the
+12 state treasurer as provided under section 59-1014, Idaho Code. The director
+13 shall file with the state controller a statement of each deposit thus made.
+14 All such funds received shall be deposited into the department of insurance
+15 suspense account. Such funds shall be distributed as follows:
+16 (a) The director may deposit up to twenty percent (20%) of the funds
+17 received in the insurance refund account which is hereby created for
+18 the purpose of repaying overpayments of any taxes, fines, and penalties
+19 or other erroneous receipts. There is hereby appropriated out of the
+20 insurance refund account so much thereof as shall be necessary for the
+21 payment of refunds. Any unencumbered balance remaining in the insur-
+22 ance refund account on June 30 of each and every year in excess of forty
+23 thousand dollars ($40,000) shall be transferred to the general fund and
+24 the state controller is hereby authorized and directed on such dates to
+25 make such transfers unless the board of examiners, which is hereby au-
+26 thorized to do so, changes the date of transfer or sum to be transferred.
+27 (b) That portion of the premium tax, payable to the public employee re-
+28 tirement fund as provided in section 59-1394, Idaho Code, shall be dis-
+29 tributed to that fund.
+30 (c) That portion of the premium tax necessary to cover administrative
+31 costs incurred by the department in placing insurance companies or any
+32 other insurance entities into receivership or under administrative su-
+33 pervision, and such costs cannot be satisfied from the assets of these
+34 companies or entities, shall be distributed to the insurance insolvency
+35 administrative fund which is hereby created. There is hereby appro-
+36 priated out of the insurance insolvency administrative fund so much
+37 thereof as shall be necessary, but not to exceed two hundred thousand
+38 dollars ($200,000) in any one (1) fiscal year, for the payment of the
+39 department's administrative expenses incurred in carrying out such re-
+40 ceiverships or supervision. A balance of one hundred thousand dollars
+41 ($100,000) shall be maintained in this fund on June 30 of each year.
+42 (d) After all other the deductions authorized in paragraphs (b) and (c)
+43 of this subsection have been made, if the premium tax remaining exceeds
+44 forty-five million dollars ($45,000,000), one-fourth (1/4) of such ex-
+45 cess is hereby appropriated and shall be paid to the Idaho individual
+46 high risk reinsurance pool established in chapter 55, title 41, Idaho
+47 Code.
+48 (e) After the deductions authorized in paragraphs (b) through (d) of
+49 this subsection have been made, if the premium tax remaining exceeds one
+7
+1 hundred thirteen million dollars ($113,000,000), one-fourth (1/4) of
+2 such excess is hereby appropriated and shall be paid to the Idaho wild-
+3 fire risk mitigation and stabilization pool established in chapter 24,
+4 title 41, Idaho Code.
+5 (e) (f) The balance of the premium tax, fines and penalties shall be
+6 distributed to the general fund of the state of Idaho.
+7 (f) (g) All moneys received for fees, licenses and miscellaneous
+8 charges collected shall be distributed to the insurance administrative
+9 account.
+10 (2) The director shall make and file with the state controller an item-
+11 ized statement of the fees, licenses, taxes, fines and penalties collected
+12 by him during the preceding month.
+13 SECTION 10. An emergency existing therefor, which emergency is hereby
+14 declared to exist, this act shall be in full force and effect on and after
+15 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOTEIOWERKMNADSNPGTEHGFRCR2,TE4,IOC;AR2,TE4,IOC,BYTEANOFANWS,IOC,TOPELEITADASTTGCR2,TE4,IOC,BYTEANOFANWSN4,IOC,TODET;AGCR2,T,IOC,BYTEANOFANWSN4,IOCOEHPSRGAWERKMNADSNP,F,ADB;AGCR2,TE4,I,BYTEANOFANWSN4,IOC,TOESRGAPNOFO;AGCR2,T,IOC,BYTEANOFANWSN4,IOC,TEFRPSADAYOFTEP;AGCR2,T,IOC,BYTEANOFANWSN4,IOCOEHPSRGFGS;AGC,TE4,IOC,BYTEANOFANWSN4OC,TOEHPSRGCNIYADL;AGSN4,IOC,TOPEFRACNTOTEIOWERKMNADS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtteHgfrCr2,Te4,IoC,bdteseishyadtordasfR2YIECN2.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.IOWERKMNADSNPLA-LEIT--STT.Itisteitofteloathsadpyosinpgtrhsayatwersadtoreormewerktyo,tyrgcsofpyi,rrmgclwer,aginagagisintepym,rgcnrdighyc,adpgaseadcyiemebyegtepsofs2th4,IoC,whslbeknadmybecdae"oWeRkMnadSnPlA]
+[DELETED: N3.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.D.Frtepsofss42t,IoC,tefgdsa)""msteIowerkmnadsla)""mstebdofdsofteIowerkmnadsnp)""mstedroftedtofieofteofI)""msayeyttpsorisadtopepyieasddinsn4,IoC,inteadisaniecyadayoreypgpyieceintssettissttoseiernbtesayeypgoycyieasdnsn4,IoC)"gi"msanirttpsinmoftep)"nc"msteatstbytebdtobepyapgirfrapmoftep)"nofo"mstepnofonoftewernadsnp)""msaprasddinsn4,I)"ta"msteaaorasddbytebdw)Asyedwerkisp)Pyceisdttoonorrndetow)Cywemnwdptorp;o)Tedgofwerkwdbttec)"erkmnadsnp"or""mnitbyceadpcttpsanelglfnwnegteprcdtoitpttoss42th4,IoCN4.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.WERKMNADSNPL--FD-.()TeishyedanitpcbycdpctobeknasteIowerkmnadsnp.Teplisedt)Refgfmvss)Uetefdcdpttosn()oftssnttttasadieastopyieint;a)Defgtomewer,igbtndtog,mgp,adele]
+[DELETED: )Teishycdintesetytewerkmnadsnf.Tefdslctofmsdttosn4,IoC.Itedonteifiemsintefdslberdtotef)Tepladayasidorcdpttoonoftepls,atalt,befefmtnofayk)Teplcdpttotssnsloesotesnadclofteb.Tebdslctoe()adm)Tn()msslbeadbytedradsttepeofted.Insgmsoft,tedrslatte()msr,to()msrgpyiep,oe()mrrgtessleanoob,to()msrgcri,o)mrrgteftpsi,adoe(rrgfeo)Oe()mrslbeamrofteseadbeptpoteoftes;a)Oe()mrslbeamrofteheofrsadbytesrofteheofr)Tedrortedsdeslseasaneomrofteb.Tedrmyrtaleomsofteb,shastedrofteIodtosortedsdeorteIosefemlortefemsd)Teilnebdmsslbeadasf:te()oftemstoseatmofto()y;f)oftemstoseatmoffr()y;adte()oemstoseatmofsx()y.Stndmsslsefratmofte()y.Lsoftebdslsefratmofto()y.VlbefdintesemrasteolatpotssN5.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.PNOFO.()Tebdslsttotedpnofonadtrayastonyorsetoaetef,r,fyr,adeeanoftep)Tedrm,arneadh,aetepnofoniftedrdsittobesetoaetef,r,fyr,adeeanofteplaopefrtesgofplgsorlsonaneeadpeb)Tepnofonslbeeeunwnayted]
+[DELETED: )Iftebdfstostasepnofo,trs,arneadh,atadpeatypnofo)Tedrsladorrdaytypnofodpttotssnatteteasepnofonoratsdbytebdbse)Tepnofons)Ehpsfrhgadagofplasasadfranalflrgofshasadmsted)Ehpsfrsganaradshtepsaddsoftea)Ehpsfrpggstocsorcsfrwerkm.Shgtasslbelnortoatteltnrofcsadmyremgf)Ehpsfrfgpypnadfrfnadmnenadr)S,e,adaeapmorpstopeeadcepyiemtortoeyryiecsadwhwer.Aypds)Beaysdwhesntegtepdfgpttosn4,IoC)Ntceagleyttcserdyoriywhtepes;a)BecdpttoIoC)Iytta)Ehpsfrdgwnanatfmisisr.Assloyberdaregaloresadalfsintep.Tedrsyaeardatttisintebtitoeseadisc;a)PefrayalmsnyfrteinadanoftepN6.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.PSADA.()Teplslhetegsadaygdurtelsoftssetoiecsldtottb,etteprtoiepedytoi)Ina,teplslhetescayt)Eriocsasaenyadprtocyottsadpsadpttotsa,igt,whtealofted,toeriochsrpsoforssfrtejtpeonfsorwhpsororosfrtepeofaef]
+[DELETED: )Seorbes,igtgayllasnyortorrayasadpsf,onbfo,otteplorayi)Atael,a,adorcsasnytopetlaeinteonoftepyadorctd,adayorfnwnteayoftep)Bwmytoettepsoftep.Aynsoroeofisofteplntindtslbelli)Detet,s,adcsofalisptati,eyrecstoc,adsetem,inaewhtepsoftsa;a)Ehr,p,adpsasmybenyotfrteinoftepsoftsatadtnoftep)Tedrslheteaytoper,solea,toahtepsoftsaN7.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.F.TeIowerkmnadsnplslbefdfmtefgs)Teoganofpmtxadpttn4,IoC)Msfmterdceinpyadfrpnatfdadtotesefemlpttr8,te3,IoC,ntudfrtep,t,adotasadpttocr8e3,IoC)EssgfsasadbytedratternoftessleanofIob)Gsororcsaefrfepnorm,igpesrc)Pnc,ifa,pdbypgisfrmasedbyteb;a)A,ifa,asddnytomtteosopN8.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.IYADL.()Tebdslntbelefyosoftep.Nomroftebdslbel,adneofanofaynemyaeataybdmrfrayaronrdtotepeofaybdmspsaddspttotsa,usshatoroncsgsn]
+[DELETED: ,r,w,orwnc.Tebdmypefrinofadllrnfrism)Tepnofapgirinayp,ttofr,f,orp,adayorjtorceanrdpttotsatslntbegsfrayl,clorcll,orpyatteplorayospgiserjyorsN9.TtSn4,IoC,b,adteseishdtordasf.DTADRTOFF,LSADT.()Tedrslttalt,fsadpscdbyhmtotetraspdursn5,IoC.Tedlfewhtesecrastofehdttsmlshfsrdslbeddiotedtofiea.Shfsslbeddasf)Tedrmydtuptotypt()oftefdinteierdatwhishycdfepeofrgosofayt,f,adproresr.Teishyadotofterdatsomhtfasslbenyfrttofr.AyudberginteierdatonJe30ofehadeyyrinesoffdds()slbetdtoteglfdaesecrishyadadddonshdsteshtsustebdofe,whishyadtodos,cstedeoftrorsmtobet)Ttpnoftepmt,petotepceertfdaspdinsn5,IoC,slbeddtottf)Ttpnoftepmtxnytocrasidbytedtinpgiecsorarieesiorporuraes,adshcsctbesdfmteasoftsore,slbeddtoteieiefdwhishyc.Teishyadotofteieiyaefdsomfasslben,btnttoedtohdts()inayoe()fly,frteptoftsaeesidincgotshrsors.Abeofoehdtdd)slbemdintsfdonJe30ofehy)Aralortedsadinps()ad(ftssnhebnm,iftepmtxrgeemnds(,oh()ofshesishyadadslbepdtoteIoihrkrepledincr5,te4,I)Artedsadinps()th()ossnhebnm,iftepmtxrgeso]
+[DELETED: dtnmnds(,oh()ohesishyadadslbepdtoteIowerkmnadsnpledincr2e4,IoC)()Tebeoftepmt,fsadpsslbdtoteglfdofteseofI)()Almsrdfrf,lsadmscdslbeddtoteiea)Tedrslmeadfewhtesecranidstoftef,l,t,fsadpscyhmdgtepgmN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 17
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO WILDFIRE RISK MITIGATION AND STABILIZATION POOL;
+3 AMENDING THE HEADING FOR CHAPTER 24, TITLE 41, IDAHO CODE; AMENDING
+4 CHAPTER 24, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+5 41-2402, IDAHO CODE, TO PROVIDE LEGISLATIVE INTENT AND A SHORT TITLE;
+6 AMENDING CHAPTER 24, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+7 TION 41-2403, IDAHO CODE, TO DEFINE TERMS; AMENDING CHAPTER 24, TITLE
+8 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2404, IDAHO CODE,
+9 TO ESTABLISH PROVISIONS REGARDING A WILDFIRE RISK MITIGATION AND STA-
+10 BILIZATION POOL, FUND, AND BOARD; AMENDING CHAPTER 24, TITLE 41, IDAHO
+11 CODE, BY THE ADDITION OF A NEW SECTION 41-2405, IDAHO CODE, TO ESTABLISH
+12 PROVISIONS REGARDING A PLAN OF OPERATION; AMENDING CHAPTER 24, TITLE
+13 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2406, IDAHO CODE, TO
+14 PROVIDE FOR POWERS AND AUTHORITY OF THE POOL; AMENDING CHAPTER 24, TITLE
+15 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2407, IDAHO CODE,
+16 TO ESTABLISH PROVISIONS REGARDING FUNDING SOURCES; AMENDING CHAPTER
+17 24, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2408,
+18 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING CERTAIN IMMUNITY AND LI-
+19 ABILITY; AMENDING SECTION 41-406, IDAHO CODE, TO PROVIDE FOR A CERTAIN
+20 DISTRIBUTION TO THE IDAHO WILDFIRE RISK MITIGATION AND STABILIZATION
+21 POOL; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That the Heading for Chapter 24, Title 41, Idaho Code, be,
+24 and the same is hereby amended to read as follows:
+25 CHAPTER 24
+26 PROPERTY INSURANCE CONTRACTS
+27 SECTION 2. That Chapter 24, Title 41, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 41-2402, Idaho Code, and to read as follows:
+30 41-2402. IDAHO WILDFIRE RISK MITIGATION AND STABILIZATION POOL ACT
+31 -- LEGISLATIVE INTENT -- SHORT TITLE. It is the intent of the legislature
+32 to assist homeowners and property owners in protecting their homes and
+33 property against wildfire risks and to reduce or mitigate wildfire risk to
+34 property owners, thereby reducing costs of property insurance, reducing
+35 or mitigating community-level wildfire risks, assisting in attracting and
+36 retaining insurers in the property marketplace, reducing concentration risk
+37 and increasing healthy competition, and promoting a stable and competitive
+38 property insurance marketplace by establishing the provisions of sections
+39 41-2402 through 41-2408, Idaho Code, which shall be known and may be cited as
+40 the "Idaho Wildfire Risk Mitigation and Stabilization Pool Act."
+
+2
+1 SECTION 3. That Chapter 24, Title 41, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 41-2403, Idaho Code, and to read as follows:
+4 41-2403. DEFINITIONS. For the purposes of sections 41-2402 through
+5 41-2408, Idaho Code, the following definitions apply:
+6 (1) "Act" means the Idaho wildfire risk mitigation and stabilization
+7 pool act.
+8 (2) "Board" means the board of directors of the Idaho wildfire risk mit-
+9 igation and stabilization pool.
+10 (3) "Director" means the director of the department of insurance of the
+11 state of Idaho.
+12 (4) "Insurer" means any entity that provides or is authorized to pro-
+13 vide property insurance as defined in section 41-504, Idaho Code, in this
+14 state and includes an insurance company and any other entity providing prop-
+15 erty insurance coverage in this state that is subject to state insurance reg-
+16 ulation but excludes any entity providing only casualty insurance as defined
+17 in section 41-506, Idaho Code.
+18 (5) "Participating insurer" means an insurer that participates in a
+19 program of the pool.
+20 (6) "Participation charge" means the amount set by the board to be paid
+21 by a participating insurer for a program of the pool.
+22 (7) "Plan of operation" means the plan of operation of the wildfire risk
+23 mitigation and stabilization pool.
+24 (8) "Producer" means a producer as defined in section 41-1003, Idaho
+25 Code.
+26 (9) "Target area" means the area or areas determined by the board where:
+27 (a) A substantially elevated wildfire risk is present;
+28 (b) Property coverage is difficult to obtain or retain due to wildfire
+29 risk;
+30 (c) Community wildfire mitigation would protect other property; or
+31 (d) The deconcentrating of wildfire risk would benefit the community.
+32 (10) "Wildfire risk mitigation and stabilization pool" or "pool" means
+33 an independent body corporate and politic that performs an essential govern-
+34 mental function when exercising the power conferred to it pursuant to sec-
+35 tions 41-2402 through 41-2408, Idaho Code.
+36 SECTION 4. That Chapter 24, Title 41, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 41-2404, Idaho Code, and to read as follows:
+39 41-2404. WILDFIRE RISK MITIGATION AND STABILIZATION POOL -- FUND --
+40 BOARD. (1) There is hereby established an independent public body corporate
+41 and politic to be known as the Idaho wildfire risk mitigation and stabiliza-
+42 tion pool. The pool is established to:
+43 (a) Receive funding from various sources;
+44 (b) Use the fund created pursuant to subsection (2) of this section to
+45 assist target areas and improve access to property insurance in target
+46 areas; and
+47 (c) Distribute funding to mitigate wildfire risk, including but not
+48 limited to grants, matching programs, and educational efforts.
+
+3
+1 (2) There is hereby created in the state treasury the wildfire risk mit-
+2 igation and stabilization fund. The fund shall consist of moneys deposited
+3 pursuant to section 41-2407, Idaho Code. Interest earned on the investment
+4 of idle moneys in the fund shall be returned to the fund.
+5 (3) The pool and any assessments imposed or collected pursuant to oper-
+6 ation of the pool shall, at all times, be free from taxation of any kind.
+7 (4)(a) The pool created pursuant to this section shall operate subject
+8 to the supervision and control of the board. The board shall consist of
+9 twelve (12) appointed members:
+10 (i) Ten (10) members shall be appointed by the director and serve
+11 at the pleasure of the director. In selecting members of the
+12 board, the director shall appoint three (3) members representing
+13 insurers, two (2) members representing property insurance produc-
+14 ers, one (1) member representing the surplus line association of
+15 Idaho board, two (2) members representing consumer interests, one
+16 (1) member representing the forest products industry, and one (1)
+17 member representing fire officials;
+18 (ii) One (1) member shall be a member of the senate appointed by
+19 the president pro tempore of the senate; and
+20 (iii) One (1) member shall be a member of the house of representa-
+21 tives appointed by the speaker of the house of representatives.
+22 (b) The director or the director's designee shall serve as an ex-offi-
+23 cio member of the board. The director may request additional ex-offi-
+24 cio members of the board, such as the director of the Idaho department of
+25 lands or the director's designee or the Idaho state fire marshal or the
+26 state fire marshal's designee.
+27 (c) The initial nonlegislative board members shall be appointed as fol-
+28 lows: three (3) of the members to serve a term of two (2) years; four
+29 (4) of the members to serve a term of four (4) years; and three (3) of
+30 the members to serve a term of six (6) years. Subsequent nonlegislative
+31 board members shall serve for a term of three (3) years. Legislative
+32 members of the board shall serve for a term of two (2) years. Vacancies
+33 shall be filled in the same manner as the original appointment pursuant
+34 to this section.
+35 SECTION 5. That Chapter 24, Title 41, Idaho Code, be, and the same is
+36 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+37 ignated as Section 41-2405, Idaho Code, and to read as follows:
+38 41-2405. PLAN OF OPERATION. (1) The board shall submit to the director
+39 a plan of operation and thereafter any amendments thereto necessary or suit-
+40 able to assure the fair, reasonable, fiscally responsible, and equitable ad-
+41 ministration of the pool.
+42 (2) The director may, after notice and hearing, approve the plan of op-
+43 eration if the director determines it to be suitable to assure the fair, rea-
+44 sonable, fiscally responsible, and equitable administration of the pool and
+45 to provide for the sharing of pool gains or losses on an equitable and propor-
+46 tionate basis.
+47 (3) The plan of operation shall become effective upon written approval
+48 by the director.
+
+4
+1 (4)(a) If the board fails to submit a suitable plan of operation, the
+2 director shall, after notice and hearing, adopt and promulgate a tempo-
+3 rary plan of operation.
+4 (b) The director shall amend or rescind any temporary plan of operation
+5 adopted pursuant to this subsection at the time a suitable plan of oper-
+6 ation or amendment submitted by the board becomes effective.
+7 (5) The plan of operation shall:
+8 (a) Establish procedures for handling and accounting of pool assets and
+9 moneys and for an annual fiscal reporting of such assets and moneys to
+10 the director;
+11 (b) Establish procedures for selecting an administrator and setting
+12 forth the powers and duties of the administrator;
+13 (c) Establish procedures for providing grants to citizens or communi-
+14 ties for wildfire risk mitigation. Such grant amounts shall be limited
+15 in order to assist the largest number of citizens and may require match-
+16 ing funds;
+17 (d) Establish procedures for funding property protection and for fire
+18 prevention and mitigation education and resources;
+19 (e) Study, evaluate, and advance a program or programs to promote a
+20 stable and competitive property insurance market or to equitably reduce
+21 property insurance costs associated with wildfire risk. Any program
+22 established shall:
+23 (i) Be actuarially sound with expenses not exceeding the pro-
+24 jected funding pursuant to section 41-2407, Idaho Code;
+25 (ii) Not create a governmental entity that competes either di-
+26 rectly or indirectly with the private sector; and
+27 (iii) Be created pursuant to Idaho Code;
+28 (f) Identify target areas;
+29 (g) Establish procedures for determining when an assessment from in-
+30 surers is recommended. Assessments shall only be recommended after ex-
+31 hausting all other efforts and all funds in the pool. The director shall
+32 only approve a recommended assessment that is in the best interest of
+33 the state and its citizens; and
+34 (h) Provide for any additional matters necessary for the implementa-
+35 tion and administration of the pool.
+36 SECTION 6. That Chapter 24, Title 41, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 41-2406, Idaho Code, and to read as follows:
+39 41-2406. POWERS AND AUTHORITY. (1) The pool shall have the general
+40 powers and authority granted under the laws of this state to insurance com-
+41 panies licensed to transact business, except the power to issue property
+42 coverage directly to individuals.
+43 (2) In addition, the pool shall have the specific authority to:
+44 (a) Enter into contracts as are necessary and proper to carry out the
+45 provisions and purposes authorized pursuant to this act, including the
+46 authority, with the approval of the director, to enter into contracts
+47 with similar programs of other states for the joint performance of
+48 common functions or with persons or other organizations for the perfor-
+49 mance of administrative functions;
+
+5
+1 (b) Sue or be sued, including taking any legal actions necessary or
+2 proper to recover any assessments and penalties for, on behalf of, or
+3 against the pool or any insurer;
+4 (c) Appoint appropriate legal, actuarial, and other committees as nec-
+5 essary to provide technical assistance in the operation of the pool,
+6 policy and other contract design, and any other function within the au-
+7 thority of the pool;
+8 (d) Borrow money to effect the purposes of the pool. Any notes or other
+9 evidence of indebtedness of the pool not in default shall be legal in-
+10 vestment;
+11 (e) Define the terms, strategies, and conditions of all its programs
+12 that attract insurers, equitably reduce costs to consumers, and stabi-
+13 lize the marketplace, in accordance with the provisions of this act; and
+14 (f) Establish rules, policies, and procedures as may be necessary or
+15 convenient for the implementation of the provisions of this act and the
+16 operation of the pool.
+17 (3) The director shall have the authority to promulgate rules, subject
+18 to legislative approval, to accomplish the provisions of this act.
+19 SECTION 7. That Chapter 24, Title 41, Idaho Code, be, and the same is
+20 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+21 ignated as Section 41-2407, Idaho Code, and to read as follows:
+22 41-2407. FUNDING. The Idaho wildfire risk mitigation and stabiliza-
+23 tion pool shall be funded from the following sources:
+24 (1) The ongoing appropriation of premium tax authorized pursuant to
+25 section 41-406(1)(e), Idaho Code;
+26 (2) Moneys from the reduced cigarette ignition propensity and fire-
+27 fighter protection act fund allocated to the state fire marshal pursuant to
+28 chapter 89, title 39, Idaho Code, not utilized for the processing, testing,
+29 enforcement, and oversight activities authorized pursuant to chapter 89,
+30 title 39, Idaho Code;
+31 (3) Excess stamping fees as approved by the director at the recommenda-
+32 tion of the surplus line association of Idaho board;
+33 (4) Grants or other contributions available for fire prevention or mit-
+34 igation, including private sector contributions;
+35 (5) Participation charges, if any, paid by participating insurers for a
+36 program as established by the board; and
+37 (6) Assessments, if any, as deemed necessary to meet the obligations of
+38 a program.
+39 SECTION 8. That Chapter 24, Title 41, Idaho Code, be, and the same is
+40 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+41 ignated as Section 41-2408, Idaho Code, and to read as follows:
+42 41-2408. IMMUNITY AND LIABILITY. (1) The board shall not be liable for
+43 any obligations of the pool. No member of the board shall be liable, and no
+44 cause of action of any nature may arise against any board member for any act
+45 or omission related to the performance of any board member's powers and du-
+46 ties pursuant to this act, unless such act or omission constitutes gross neg-
+
+6
+1 ligence, reckless, willful, or wanton conduct. The board may provide for in-
+2 demnification of and legal representation for its members.
+3 (2) The participation of a participating insurer in any program, the
+4 establishment of rates, forms, or procedures, and any other joint or collec-
+5 tive action required pursuant to this act shall not be grounds for any legal
+6 action, criminal or civil liability, or penalty against the pool or any of
+7 its participating insurers either jointly or separately.
+8 SECTION 9. That Section 41-406, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 41-406. DEPOSIT AND REPORT OF FEES, LICENSES AND TAXES. (1) The direc-
+11 tor shall transmit all taxes, fines and penalties collected by him to the
+12 state treasurer as provided under section 59-1014, Idaho Code. The director
+13 shall file with the state controller a statement of each deposit thus made.
+14 All such funds received shall be deposited into the department of insurance
+15 suspense account. Such funds shall be distributed as follows:
+16 (a) The director may deposit up to twenty percent (20%) of the funds
+17 received in the insurance refund account which is hereby created for
+18 the purpose of repaying overpayments of any taxes, fines, and penalties
+19 or other erroneous receipts. There is hereby appropriated out of the
+20 insurance refund account so much thereof as shall be necessary for the
+21 payment of refunds. Any unencumbered balance remaining in the insur-
+22 ance refund account on June 30 of each and every year in excess of forty
+23 thousand dollars ($40,000) shall be transferred to the general fund and
+24 the state controller is hereby authorized and directed on such dates to
+25 make such transfers unless the board of examiners, which is hereby au-
+26 thorized to do so, changes the date of transfer or sum to be transferred.
+27 (b) That portion of the premium tax, payable to the public employee re-
+28 tirement fund as provided in section 59-1394, Idaho Code, shall be dis-
+29 tributed to that fund.
+30 (c) That portion of the premium tax necessary to cover administrative
+31 costs incurred by the department in placing insurance companies or any
+32 other insurance entities into receivership or under administrative su-
+33 pervision, and such costs cannot be satisfied from the assets of these
+34 companies or entities, shall be distributed to the insurance insolvency
+35 administrative fund which is hereby created. There is hereby appro-
+36 priated out of the insurance insolvency administrative fund so much
+37 thereof as shall be necessary, but not to exceed two hundred thousand
+38 dollars ($200,000) in any one (1) fiscal year, for the payment of the
+39 department's administrative expenses incurred in carrying out such re-
+40 ceiverships or supervision. A balance of one hundred thousand dollars
+41 ($100,000) shall be maintained in this fund on June 30 of each year.
+42 (d) After all other the deductions authorized in paragraphs (b) and (c)
+43 of this subsection have been made, if the premium tax remaining exceeds
+44 forty-five million dollars ($45,000,000), one-fourth (1/4) of such ex-
+45 cess is hereby appropriated and shall be paid to the Idaho individual
+46 high risk reinsurance pool established in chapter 55, title 41, Idaho
+47 Code.
+48 (e) After the deductions authorized in paragraphs (b) through (d) of
+49 this subsection have been made, if the premium tax remaining exceeds one
+
+7
+1 hundred thirteen million dollars ($113,000,000), one-fourth (1/4) of
+2 such excess is hereby appropriated and shall be paid to the Idaho wild-
+3 fire risk mitigation and stabilization pool established in chapter 24,
+4 title 41, Idaho Code.
+5 (e) (f) The balance of the premium tax, fines and penalties shall be
+6 distributed to the general fund of the state of Idaho.
+7 (f) (g) All moneys received for fees, licenses and miscellaneous
+8 charges collected shall be distributed to the insurance administrative
+9 account.
+10 (2) The director shall make and file with the state controller an item-
+11 ized statement of the fees, licenses, taxes, fines and penalties collected
+12 by him during the preceding month.
+13 SECTION 10. An emergency existing therefor, which emergency is hereby
+14 declared to exist, this act shall be in full force and effect on and after
+15 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOTEIOWERKMNADSNPGTEHGFRCR2,TE4,IOC;AR2,TE4,IOC,BYTEANOFANWS,IOC,TOPELEITADASTTGCR2,TE4,IOC,BYTEANOFANWSN4,IOC,TODET;AGCR2,T,IOC,BYTEANOFANWSN4,IOCOEHPSRGAWERKMNADSNP,F,ADB;AGCR2,TE4,I,BYTEANOFANWSN4,IOC,TOESRGAPNOFO;AGCR2,T,IOC,BYTEANOFANWSN4,IOC,TEFRPSADAYOFTEP;AGCR2,T,IOC,BYTEANOFANWSN4,IOCOEHPSRGFGS;AGC,TE4,IOC,BYTEANOFANWSN4OC,TOEHPSRGCNIYADL;AGSN4,IOC,TOPEFRACNTOTEIOWERKMNADS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtteHgfrCr2,Te4,IoC,bdteseishyadtordasfR2YIECN2.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.IOWERKMNADSNPLA-LEIT--STT.Itisteitofteloathsadpyosinpgtrhsayatwersadtoreormewerktyo,tyrgcsofpyi,rrmgclwer,aginagagisintepym,rgcnrdighyc,adpgaseadcyiemebyegtepsofs2th4,IoC,whslbeknadmybecdae"oWeRkMnadSnPlA]
+[DELETED: N3.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.D.Frtepsofss42t,IoC,tefgdsa)""msteIowerkmnadsla)""mstebdofdsofteIowerkmnadsnp)""mstedroftedtofieofteofI)""msayeyttpsorisadtopepyieasddinsn4,IoC,inteadisaniecyadayoreypgpyieceintssettissttoseiernbtesayeypgoycyieasdnsn4,IoC)"gi"msanirttpsinmoftep)"nc"msteatstbytebdtobepyapgirfrapmoftep)"nofo"mstepnofonoftewernadsnp)""msaprasddinsn4,I)"ta"msteaaorasddbytebdw)Asyedwerkisp)Pyceisdttoonorrndetow)Cywemnwdptorp;o)Tedgofwerkwdbttec)"erkmnadsnp"or""mnitbyceadpcttpsanelglfnwnegteprcdtoitpttoss42th4,IoCN4.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.WERKMNADSNPL--FD-.()TeishyedanitpcbycdpctobeknasteIowerkmnadsnp.Teplisedt)Refgfmvss)Uetefdcdpttosn()oftssnttttasadieastopyieint;a)Defgtomewer,igbtndtog,mgp,adele]
+[DELETED: )Teishycdintesetytewerkmnadsnf.Tefdslctofmsdttosn4,IoC.Itedonteifiemsintefdslberdtotef)Tepladayasidorcdpttoonoftepls,atalt,befefmtnofayk)Teplcdpttotssnsloesotesnadclofteb.Tebdslctoe()adm)Tn()msslbeadbytedradsttepeofted.Insgmsoft,tedrslatte()msr,to()msrgpyiep,oe()mrrgtessleanoob,to()msrgcri,o)mrrgteftpsi,adoe(rrgfeo)Oe()mrslbeamrofteseadbeptpoteoftes;a)Oe()mrslbeamrofteheofrsadbytesrofteheofr)Tedrortedsdeslseasaneomrofteb.Tedrmyrtaleomsofteb,shastedrofteIodtosortedsdeorteIosefemlortefemsd)Teilnebdmsslbeadasf:te()oftemstoseatmofto()y;f)oftemstoseatmoffr()y;adte()oemstoseatmofsx()y.Stndmsslsefratmofte()y.Lsoftebdslsefratmofto()y.VlbefdintesemrasteolatpotssN5.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.PNOFO.()Tebdslsttotedpnofonadtrayastonyorsetoaetef,r,fyr,adeeanoftep)Tedrm,arneadh,aetepnofoniftedrdsittobesetoaetef,r,fyr,adeeanofteplaopefrtesgofplgsorlsonaneeadpeb)Tepnofonslbeeeunwnayted]
+[DELETED: )Iftebdfstostasepnofo,trs,arneadh,atadpeatypnofo)Tedrsladorrdaytypnofodpttotssnatteteasepnofonoratsdbytebdbse)Tepnofons)Ehpsfrhgadagofplasasadfranalflrgofshasadmsted)Ehpsfrsganaradshtepsaddsoftea)Ehpsfrpggstocsorcsfrwerkm.Shgtasslbelnortoatteltnrofcsadmyremgf)Ehpsfrfgpypnadfrfnadmnenadr)S,e,adaeapmorpstopeeadcepyiemtortoeyryiecsadwhwer.Aypds)Beaysdwhesntegtepdfgpttosn4,IoC)Ntceagleyttcserdyoriywhtepes;a)BecdpttoIoC)Iytta)Ehpsfrdgwnanatfmisisr.Assloyberdaregaloresadalfsintep.Tedrsyaeardatttisintebtitoeseadisc;a)PefrayalmsnyfrteinadanoftepN6.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.PSADA.()Teplslhetegsadaygdurtelsoftssetoiecsldtottb,etteprtoiepedytoi)Ina,teplslhetescayt)Eriocsasaenyadprtocyottsadpsadpttotsa,igt,whtealofted,toeriochsrpsoforssfrtejtpeonfsorwhpsororosfrtepeofaef]
+[DELETED: )Seorbes,igtgayllasnyortorrayasadpsf,onbfo,otteplorayi)Atael,a,adorcsasnytopetlaeinteonoftepyadorctd,adayorfnwnteayoftep)Bwmytoettepsoftep.Aynsoroeofisofteplntindtslbelli)Detet,s,adcsofalisptati,eyrecstoc,adsetem,inaewhtepsoftsa;a)Ehr,p,adpsasmybenyotfrteinoftepsoftsatadtnoftep)Tedrslheteaytoper,solea,toahtepsoftsaN7.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.F.TeIowerkmnadsnplslbefdfmtefgs)Teoganofpmtxadpttn4,IoC)Msfmterdceinpyadfrpnatfdadtotesefemlpttr8,te3,IoC,ntudfrtep,t,adotasadpttocr8e3,IoC)EssgfsasadbytedratternoftessleanofIob)Gsororcsaefrfepnorm,igpesrc)Pnc,ifa,pdbypgisfrmasedbyteb;a)A,ifa,asddnytomtteosopN8.TtCr2,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.IYADL.()Tebdslntbelefyosoftep.Nomroftebdslbel,adneofanofaynemyaeataybdmrfrayaronrdtotepeofaybdmspsaddspttotsa,usshatoroncsgsn]
+[DELETED: ,r,w,orwnc.Tebdmypefrinofadllrnfrism)Tepnofapgirinayp,ttofr,f,orp,adayorjtorceanrdpttotsatslntbegsfrayl,clorcll,orpyatteplorayospgiserjyorsN9.TtSn4,IoC,b,adteseishdtordasf.DTADRTOFF,LSADT.()Tedrslttalt,fsadpscdbyhmtotetraspdursn5,IoC.Tedlfewhtesecrastofehdttsmlshfsrdslbeddiotedtofiea.Shfsslbeddasf)Tedrmydtuptotypt()oftefdinteierdatwhishycdfepeofrgosofayt,f,adproresr.Teishyadotofterdatsomhtfasslbenyfrttofr.AyudberginteierdatonJe30ofehadeyyrinesoffdds()slbetdtoteglfdaesecrishyadadddonshdsteshtsustebdofe,whishyadtodos,cstedeoftrorsmtobet)Ttpnoftepmt,petotepceertfdaspdinsn5,IoC,slbeddtottf)Ttpnoftepmtxnytocrasidbytedtinpgiecsorarieesiorporuraes,adshcsctbesdfmteasoftsore,slbeddtoteieiefdwhishyc.Teishyadotofteieiyaefdsomfasslben,btnttoedtohdts()inayoe()fly,frteptoftsaeesidincgotshrsors.Abeofoehdtdd)slbemdintsfdonJe30ofehy)Aralortedsadinps()ad(ftssnhebnm,iftepmtxrgeemnds(,oh()ofshesishyadadslbepdtoteIoihrkrepledincr5,te4,I)Artedsadinps()th()ossnhebnm,iftepmtxrgeso]
+[DELETED: dtnmnds(,oh()ohesishyadadslbepdtoteIowerkmnadsnpledincr2e4,IoC)()Tebeoftepmt,fsadpsslbdtoteglfdofteseofI)()Almsrdfrf,lsadmscdslbeddtoteiea)Tedrslmeadfewhtesecranidstoftef,l,t,fsadpscyhmdgtepgmN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

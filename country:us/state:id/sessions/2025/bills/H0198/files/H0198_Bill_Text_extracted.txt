@@ -1,0 +1,764 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 198
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO LABORATORIES; AMENDING SECTION 6-2602, IDAHO CODE, TO REVISE
+3 A STATEMENT OF PURPOSE; AMENDING SECTION 6-2603, IDAHO CODE, TO DE-
+4 FINE A TERM; REPEALING SECTION 6-2604, IDAHO CODE, RELATING TO RULES;
+5 AMENDING CHAPTER 26, TITLE 6, IDAHO CODE, BY THE ADDITION OF A NEW
+6 SECTION 6-2604, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING DEPART-
+7 MENT RESPONSIBILITY; AMENDING SECTION 6-2605, IDAHO CODE, TO REVISE
+8 PROVISIONS REGARDING LAW ENFORCEMENT AGENCY RESPONSIBILITY; AMEND-
+9 ING SECTION 6-2606, IDAHO CODE, TO REMOVE PROVISIONS REGARDING RULES;
+10 AMENDING SECTION 6-2607, IDAHO CODE, TO REMOVE A PROVISION REGARDING
+11 RULES; AMENDING SECTION 6-2608, IDAHO CODE, TO REMOVE A PROVISION RE-
+12 GARDING RULES; AMENDING CHAPTER 26, TITLE 6, IDAHO CODE, BY THE ADDITION
+13 OF A NEW SECTION 6-2609, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+14 CLEARANCE SAMPLING REQUIREMENTS; AMENDING CHAPTER 26, TITLE 6, IDAHO
+15 CODE, BY THE ADDITION OF A NEW SECTION 6-2610, IDAHO CODE, TO ESTABLISH
+16 PROVISIONS REGARDING CLEANUP STANDARDS; AMENDING CHAPTER 26, TITLE 6,
+17 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 6-2611, IDAHO CODE, TO ES-
+18 TABLISH PROVISIONS REGARDING REPORTING REQUIREMENTS; AMENDING SECTION
+19 56-1007, IDAHO CODE, TO PROVIDE THAT THE STATE LABORATORY IS AUTHORIZED
+20 TO CHARGE CERTAIN FEES; AMENDING TITLE 56, IDAHO CODE, BY THE ADDITION
+21 OF A NEW CHAPTER 22, TITLE 56, IDAHO CODE, TO PROVIDE A SHORT TITLE,
+22 TO ESTABLISH PROVISIONS REGARDING APPLICATION FOR CERTIFICATION, TO
+23 ESTABLISH PROVISIONS REGARDING CERTIFICATION FEES, AND TO ESTABLISH
+24 PROVISIONS REGARDING CERTIFICATION OVERSIGHT AND REQUIREMENTS; AMEND-
+25 ING TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 23, TITLE
+26 56, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO ESTABLISH PROVISIONS RE-
+27 GARDING REGISTRATION REQUIREMENTS, TO ESTABLISH PROVISIONS REGARDING
+28 DEPARTMENT INSPECTIONS, AND TO ESTABLISH PROVISIONS REGARDING GENERAL
+29 REQUIREMENTS; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN
+30 IDAPA 16.02.06 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVID-
+31 ING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA 16.02.13 SHALL
+32 BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVIDING THAT CERTAIN ADMIN-
+33 ISTRATIVE RULES CONTAINED IN IDAPA 16.02.24 SHALL BE NULL, VOID, AND OF
+34 NO FORCE AND EFFECT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CON-
+35 TAINED IN IDAPA 16.02.25 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT;
+36 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+37 Be It Enacted by the Legislature of the State of Idaho:
+38 SECTION 1. That Section 6-2602, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 6-2602. PURPOSE. The legislature finds that some residential prop-
+41 erties are being contaminated with hazardous chemical residues created by
+42 the manufacture of clandestine drugs. Innocent members of the public may be
+2
+1 harmed when they are exposed to chemical residues if the residential prop-
+2 erties are not decontaminated prior to any subsequent rental, sale or use of
+3 the properties. The purpose of this chapter is to protect the public health,
+4 safety and welfare by authorizing the department of health and welfare to
+5 establish establishing a program providing a process and standards for the
+6 cleanup of clandestine drug laboratories.
+7 SECTION 2. That Section 6-2603, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 6-2603. DEFINITIONS. As used in this chapter, unless the context oth-
+10 erwise requires:
+11 (1) "Clandestine drug laboratory" means the areas where controlled
+12 substances or their immediate precursors, as those terms are defined in sec-
+13 tion 37-2701, Idaho Code, have been, or were attempted to be, manufactured,
+14 processed, cooked, disposed of or stored, and all proximate areas that are
+15 likely to be contaminated as a result of such manufacturing, processing,
+16 cooking, disposing or storing.
+17 (2) "Department" means the Idaho department of health and welfare.
+18 (3) "Law enforcement agency" means any policing agency of the state or
+19 of any political subdivision of the state.
+20 (4) "Qualified industrial hygienist" means an individual who is:
+21 (a) Certified in comprehensive practice by the American board of indus-
+22 trial hygiene; or
+23 (b) Registered as a member of the association of professional indus-
+24 trial hygienists.
+25 (4) (5) "Residential property" means any building or structure to be
+26 primarily occupied by people, either as a dwelling or as a business, includ-
+27 ing a storage facility, mobile home, manufactured home or recreational vehi-
+28 cle that may be sold, leased or rented for any length of time. "Residential
+29 property" does not include any water system, sewer system, land or water out-
+30 side of a building or structure.
+31 (5) (6) "Residential property owner" means the person holding record
+32 title to residential property, as defined in this section.
+33 SECTION 3. That Section 6-2604, Idaho Code, be, and the same is hereby
+34 repealed.
+35 SECTION 4. That Chapter 26, Title 6, Idaho Code, be, and the same is
+36 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+37 ignated as Section 6-2604, Idaho Code, and to read as follows:
+38 6-2604. DEPARTMENT RESPONSIBILITY. (1) Upon notification by a law en-
+39 forcement agency or a property owner who voluntarily reports a property, the
+40 department shall place the property on the clandestine drug laboratory site
+41 property list.
+42 (2) When a property is determined by a qualified industrial hygienist
+43 to meet the cleanup standard in this chapter or the property owner submits
+44 documentation establishing that the property has been fully and lawfully de-
+45 molished, the department shall issue the property owner a dated certificate
+46 of delisting.
+3
+1 SECTION 5. That Section 6-2605, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 6-2605. LAW ENFORCEMENT AGENCY RESPONSIBILITY. Following the adop-
+4 tion of rules pursuant to section 6-2604, Idaho Code, and using a format
+5 established by the department, a A law enforcement agency, upon locating
+6 chemicals, equipment, supplies or immediate precursors indicative of a
+7 clandestine drug laboratory on a residential property, shall notify the
+8 residential property owner and the department within seventy-two (72) hours
+9 using the department-approved form and shall post a sign on the property.
+10 SECTION 6. That Section 6-2606, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 6-2606. RESIDENTIAL PROPERTY OWNER CLEANUP RESPONSIBILITY. (1) Ex-
+13 cept as otherwise provided in subsection (2) of this section, and pursuant to
+14 rules adopted as provided in this chapter, upon notification to a residen-
+15 tial property owner by a law enforcement agency that chemicals, equipment,
+16 supplies or immediate precursors indicative of a clandestine drug labora-
+17 tory have been located on the owner's residential property, the residential
+18 property owner shall meet the cleanup standards established by the de-
+19 partment. The residential property shall remain vacant from the time the
+20 residential property owner is notified, in accordance with rules adopted as
+21 provided in this chapter, of the clandestine drug laboratory until such time
+22 as the residential property owner has received a certificate issued by the
+23 department evidencing that the cleanup standards have been met.
+24 (2) A residential property owner may, at his or her option, elect to de-
+25 molish the residential property instead of meeting the cleanup standards es-
+26 tablished by the department.
+27 SECTION 7. That Section 6-2607, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 6-2607. RESIDENTIAL PROPERTY OWNER IMMUNITY. Once a residential prop-
+30 erty meets the cleanup standards established by the department pursuant to
+31 rules adopted as provided in this chapter, the residential property owner
+32 and any representative or agent of the residential property owner shall be
+33 immune from civil actions involving health claims brought by any future
+34 owner, renter or other person who occupies the residential property, and by
+35 any neighbor of such residential property, where the alleged cause of injury
+36 or loss is based upon the use of the residential property for the purposes of
+37 a clandestine drug laboratory, provided however, that such immunity shall
+38 not apply to any person alleged to have produced the clandestine drugs.
+39 SECTION 8. That Section 6-2608, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 6-2608. VOLUNTARY COMPLIANCE. Any residential property owner who
+42 chooses to voluntarily and successfully accomplish the cleanup standards
+43 established by the department pursuant to rules adopted as provided in this
+44 chapter, whether or not such owner was notified by a law enforcement agency,
+4
+1 shall be afforded the protections from civil actions provided in section
+2 6-2607, Idaho Code.
+3 SECTION 9. That Chapter 26, Title 6, Idaho Code, be, and the same is
+4 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+5 ignated as Section 6-2609, Idaho Code, and to read as follows:
+6 6-2609. CLEARANCE SAMPLING REQUIREMENTS. (1) A qualified industrial
+7 hygienist who is independent of the company or entity conducting the cleanup
+8 or analysis shall conduct sampling to verify that cleanup standards have
+9 been met. All sample collection must be conducted pursuant to this section.
+10 (2) Sample locations shall be photographed and show the floor plan of
+11 the property, and such photos shall be included in the requisite final re-
+12 port.
+13 (3) Samples shall be obtained, preserved, and handled under profes-
+14 sional standards for the types of samples and analytical testing to be
+15 conducted under the chain of custody protocol.
+16 (4) Samples shall be analyzed by a laboratory certified by the United
+17 States environmental protection agency or accredited by the American indus-
+18 trial hygiene association laboratory accreditation program for the analyte
+19 being analyzed.
+20 (5) Sampling locations shall be numerically identified, and the num-
+21 bered sampling locations shall be delineated on the floor plan, visible in
+22 photographs, and linked to samples.
+23 (6) Standard three (3) inch by three (3) inch gauze shall be used for
+24 all sampling. The gauze shall be wetted with analytical grade methanol or
+25 isopropanol and each surface wiped at least five (5) times in two (2) perpen-
+26 dicular directions, and the gauze shall be turned onto itself throughout the
+27 wiping process.
+28 (7) After sampling, the sample shall be placed in a new, clean sample
+29 container and sealed with a teflon-lined lid. The sample container shall be
+30 labeled with the site or project identification number, date, time, and sam-
+31 ple location and shall be handled by professional standards and conducted
+32 under the chain of custody protocol.
+33 (8) Discrete sampling shall be used in areas expected to have the high-
+34 est levels of contamination as identified on the department-approved form.
+35 A ten (10) centimeter by ten (10) centimeter area shall be sampled from non-
+36 porous surfaces such as floors, walls, appliances, sinks, or countertops in
+37 each room. The sample area shall be composed of no fewer than three (3) dis-
+38 crete samples.
+39 (9) All other rooms of the property with the lowest levels of contamina-
+40 tion shall be sampled using one (1) discrete sample per room.
+41 (10) A ten (10) centimeter by ten (10) centimeter area shall be sampled
+42 from the ventilation system in a location to be determined by the qualified
+43 industrial hygienist.
+44 SECTION 10. That Chapter 26, Title 6, Idaho Code, be, and the same is
+45 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+46 ignated as Section 6-2610, Idaho Code, and to read as follows:
+5
+1 6-2610. CLEANUP STANDARDS. The following cleanup standards must be
+2 met:
+3 (1) A level of methamphetamine that does not exceed a concentration of
+4 one-tenth (0.1) of a microgram per one hundred (100) square centimeters as
+5 demonstrated by clearance sampling conducted by a qualified industrial hy-
+6 gienist.
+7 (2) If a porous surface has a level of methamphetamine that does not
+8 exceed a concentration of five-tenths (0.5) of a microgram per one hundred
+9 (100) square centimeters as demonstrated by clearance sampling conducted by
+10 a qualified industrial hygienist, an adequate coating or sealant appropri-
+11 ate to the material may be used as a method to meet the cleanup standard.
+12 (3) Standards may be established for the cleanup of other controlled
+13 substances found in clandestine drug laboratories on an individual basis,
+14 based on an inventory of chemicals found, and after consultation with the de-
+15 partment, the property owner, law enforcement, and a qualified industrial
+16 hygienist.
+17 SECTION 11. That Chapter 26, Title 6, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 6-2611, Idaho Code, and to read as follows:
+20 6-2611. REPORTING REQUIREMENTS. (1) For a property to be delisted, the
+21 property owner must provide the department with an original or certified
+22 copy of the final report that includes the following from a qualified indus-
+23 trial hygienist:
+24 (a) The property description, including physical street address, city,
+25 zip code, legal description, ownership, and number and type of struc-
+26 tures present;
+27 (b) Documentation of sampling procedures and analytical results from a
+28 laboratory as specified in this chapter; and
+29 (c) A qualified industrial hygienist statement of qualifications, in-
+30 cluding professional certification or documentation, and a signed cer-
+31 tification stating: "I certify that the cleanup standard established
+32 by Idaho Code has been met as evidenced by testing I conducted."
+33 (2) If the property owner chooses to demolish the property, documenta-
+34 tion shall be provided to the department showing that the structure was com-
+35 pletely and lawfully demolished and disposed of complying with local, state,
+36 and federal laws and regulations.
+37 SECTION 12. That Section 56-1007, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 56-1007. COLLECTION OF FEES FOR SERVICES. The department of health and
+40 welfare is hereby authorized to charge and collect reasonable fees, estab-
+41 lished by rule, for any service rendered by the department. The fee may be
+42 determined by a sliding scale according to income or available assets. The
+43 department is hereby authorized to require information concerning the total
+44 income and assets of each person receiving services in order to determine the
+45 amount of the fee to be charged. The state laboratory is authorized to charge
+46 testing fees at market rates that do not disadvantage entities offering sim-
+47 ilar services.
+6
+1 SECTION 13. That Title 56, Idaho Code, be, and the same is hereby
+2 amended by the addition thereto of a NEW CHAPTER, to be known and designated
+3 as Chapter 22, Title 56, Idaho Code, and to read as follows:
+4 CHAPTER 22
+5 DRINKING WATER LABORATORY CERTIFICATION PROGRAM
+6 56-2201. SHORT TITLE. This chapter shall be known and may be cited as
+7 the "Drinking Water Laboratory Certification Program."
+8 56-2202. APPLICATION FOR CERTIFICATION. (1) An application for drink-
+9 ing water certification, listing methods approved by the department of envi-
+10 ronmental quality, shall be submitted annually by laboratories seeking cer-
+11 tification on a form approved by the department of health and welfare.
+12 (2) Applications for renewal and supporting documentation requested by
+13 the department of health and welfare must be received by the department at
+14 least thirty (30) days before the current certificate expires.
+15 (3) A laboratory seeking to change methods or to add analytes prior to
+16 annual reapplication shall submit an amended application and provide sup-
+17 porting documentation requested by the department of health and welfare.
+18 Laboratories submitting an amended application shall be subject to an addi-
+19 tional base fee charge.
+20 (4) All certifications shall be valid for one (1) year from the date of
+21 issuance.
+22 56-2203. CERTIFICATION FEES. (1) Laboratories requesting chemistry
+23 certification shall be charged a base fee of one hundred dollars ($100) per
+24 discipline and twenty dollars ($20.00) per analyte per method.
+25 (2) Laboratories requesting microbiology certification shall be
+26 charged a fee of one hundred fifty dollars ($150).
+27 (3) Out-of-state laboratories requesting chemistry certification
+28 shall be charged a base fee of two hundred dollars ($200) per discipline and
+29 twenty dollars ($20.00) per analyte per method.
+30 (4) Out-of-state laboratories requesting microbiology certification
+31 shall be charged a fee of three hundred dollars ($300).
+32 (5) New laboratories requesting certification will be charged a non-
+33 refundable application fee of two hundred fifty dollars ($250) per disci-
+34 pline listed on the completed application form.
+35 56-2204. CERTIFICATION OVERSIGHT AND REQUIREMENTS. (1) Qualified
+36 representatives of the department of health and welfare are authorized to
+37 audit the premises and operations of all certified laboratories to determine
+38 the adequacy of the laboratory to perform drinking water compliance testing.
+39 On-site audits shall occur a minimum of every three (3) years or more fre-
+40 quently at the discretion of the department. Departmental representatives
+41 shall issue a written report of audit findings, list items requiring a lab-
+42 oratory response, and specify the response time frame required to maintain
+43 certification.
+44 (2) Test results shall be submitted in a format approved by the depart-
+45 ment of environmental quality and shall be reported to the department of en-
+46 vironmental quality, or the department's designee, no later than ten (10)
+7
+1 business days after the completion of testing or upon receipt of results from
+2 subcontracted laboratories.
+3 (3) As soon as feasible, a laboratory shall notify the department of
+4 environmental quality, or the department's designee, of any nitrate and ni-
+5 trate level exceeding the current maximum contaminant level. Notification
+6 shall also be made for any other regulated chemical or radiological contam-
+7 inant that exceeds four (4) times the maximum contaminant level. Notifica-
+8 tion requirements apply to any samples subcontracted to another laboratory.
+9 (4) A laboratory shall notify the department of environmental quality,
+10 or the department's designee, of any total coliform positive result by the
+11 end of the day, unless the positive result is obtained after the department
+12 of environmental quality is closed and the department of environmental qual-
+13 ity does not have either an after-hours phone line or an alternative notifi-
+14 cation procedure, in which case the laboratory shall notify the department
+15 of environmental quality before the end of the next business day.
+16 SECTION 14. That Title 56, Idaho Code, be, and the same is hereby
+17 amended by the addition thereto of a NEW CHAPTER, to be known and designated
+18 as Chapter 23, Title 56, Idaho Code, and to read as follows:
+19 CHAPTER 23
+20 QUALITY ASSURANCE FOR CLINICAL LABORATORIES
+21 56-2301. SHORT TITLE. This chapter shall be known and may be cited as
+22 the "Quality Assurance for Clinical Laboratories."
+23 56-2302. REGISTRATION REQUIREMENTS. (1) A clinical laboratory shall
+24 register with the department of health and welfare on a department form prior
+25 to accepting specimens for testing.
+26 (2) Registered clinical laboratories shall submit a completed regis-
+27 tration form every two (2) years and indicate any changes in laboratory oper-
+28 ations.
+29 (3) To be registered, a clinical laboratory shall submit evidence of
+30 certification from one (1) of the following:
+31 (a) The centers for medicare and medicaid services (CMS) clinical labo-
+32 ratory improvement amendments certification program;
+33 (b) An agency approved by CMS as an accreditation program; or
+34 (c) Other certification programs approved by the department of health
+35 and welfare.
+36 (4) The following laboratories and facilities are excluded from com-
+37 pliance with this chapter:
+38 (a) Teaching, research, forensic, and pre-employment drug screening
+39 laboratories, if test results are not used for diagnosis or treatment;
+40 (b) Prosthetic dental laboratories; and
+41 (c) Facilities performing skin testing solely for the detection of al-
+42 lergies and sensitivities.
+43 56-2303. DEPARTMENT INSPECTIONS. Qualified representatives of the
+44 department of health and welfare are authorized to inspect any registered
+45 clinical laboratory to determine the adequacy of the supervision, staffing,
+46 and quality assurance program.
+8
+1 56-2304. GENERAL REQUIREMENTS. (1) A clinical laboratory shall have
+2 adequate space, equipment, and supplies to perform the services offered by
+3 the laboratory with accuracy, precision, and safety.
+4 (2) Practitioners legally authorized to diagnose, treat, and prescribe
+5 are authorized to order both waived and nonwaived tests and receive results.
+6 Laboratory directors are authorized to order the waived tests listed on an
+7 approved registration form and receive results.
+8 (3) Clinical laboratories shall satisfactorily participate in profi-
+9 ciency testing programs approved by the department of health and welfare and
+10 ensure all proficiency testing results are available to the department.
+11 (4) Clinical laboratories shall:
+12 (a) Identify the person responsible for performing a procedure;
+13 (b) Maintain testing records for at least two (2) years and ensure that
+14 test reports are readily accessible upon request; and
+15 (c) Identify specimens referred to other certified laboratories and
+16 identify the reference laboratory by name and address.
+17 SECTION 15. The rules contained in IDAPA 16.02.06, Idaho Department
+18 of Health and Welfare, relating to Quality Assurance for Clinical Labo-
+19 ratories, shall be null, void, and of no force and effect on and after the
+20 effective date of this act.
+21 SECTION 16. The rules contained in IDAPA 16.02.13, Idaho Department
+22 of Health and Welfare, relating to State of Idaho Drinking Water Laboratory
+23 Certification Program, shall be null, void, and of no force and effect on and
+24 after the effective date of this act.
+25 SECTION 17. The rules contained in IDAPA 16.02.24, Idaho Department of
+26 Health and Welfare, relating to Clandestine Drug Laboratory Cleanup, shall
+27 be null, void, and of no force and effect on and after the effective date of
+28 this act.
+29 SECTION 18. The rules contained in IDAPA 16.02.25, Idaho Department of
+30 Health and Welfare, relating to State Laboratory Fees, shall be null, void,
+31 and of no force and effect on and after the effective date of this act.
+32 SECTION 19. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOL;AGSN6,IOC,TORSTOFP;AGSN6,IOC,TODEAT;RGSN6,IOC,RGTORGCR2,TE6,IOC,BYTEANOFANN6,IOC,TOEHPSRGDTR;AGSN6,IOC,TORSRGLWETAYR;AGSN6,IOC,TOREPSRGRGSN6,IOC,TOREAPNR;AGSN6,IOC,TOREAPNRGR;AGCR2,TE6,IOC,BYTEAFANWSN6,IOC,TOEHPSRESGR;AGCR2,TE6,I,BYTEANOFANWSN6,IOC,TOESRGCPS;AGCR2,TE6OC,BYTEANOFANWSN6,IOC,TOEHPSRGRGR;AGS,IOC,TOPETTTESELYISAOCECNF;AGTE5,IOC,BYTEAFANWCR2,TE5,IOC,TOPEASTTOEHPSRGANFRC,THPSRGCNF,ADTOESRGCNOTADR;AGTE5,IOC,BYTEANOFANWCR2,T,IOC,TOPEASTT,TOEHPSRGRNR,TOEHPSRTI,ADTOEHPSRGG;PGTTCNAERSCDIA16SLBEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA13SEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA14SLBEN,V,ADOOFEADE;PGTTCNAERSCDINIA15SLBEN,V,ADOFNOFEADEDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.P.Telefsttserlpsaebgcdwhhsclrscdbemeofced.Itmsoftepcmyb]
+[DELETED: dwntyaeedtoclrsifterlpsaentddprtoaystr,seorueoep.TepeoftscristopttepchyadwebyagtedtofhhadwethegapmpgapsadssfrtpofcedglN2.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc,ustectoer)"edgl"msteaswecsortriep,astetsaeddinsn3,IoC,heb,orweadtob,m,c,ddofors,adalpeasttaytobecdasartofshm,p,dgors)""msteIodtofhhadw)"weta"msaypgayofteseofayplsnoftes)"dilh"msanilwoi)CdincepebyteAnbdofilh;o)Rdasamrofteanofplilh)()"lp"msaybgorsetobyodbyp,erasadgorasab,igasef,meh,mdheorrlvettmybes,ldorrdfraylhoft.""dsntieaywrs,srs,ldorwroeofabgors)()"lpyo"mstepnhgretorlp,asddintssN3.TtSn6,IoC,b,adteseishN4.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.DTR.()Unnnbyalwetayorapyorwovyrsap,ttslpetepyontecedglysyl)Wnapyisddbyaqdilhomttecpsdintscrortepyorsnegtttepyhsbnfyadlyd,tedtslietepyoraddcfd]
+[DELETED: N5.TtSn6,IoC,b,adteseishdtordasf.LWETAYR.Fgteanofrspttosn6,IoC,adugafdbyted,aAlweta,unl,e,ssoriepsieofedglyonarlp,slnytlpyoradtedtwnso()hgteddfmadslptasnontepN6.TtSn6,IoC,b,adteseishdtordasf.RLPYORCPR.()Etasoepdinsn()oftss,adpttsadaspdintsc,unnntoarlpyorbyalwetayttc,esoriepsieofacedglyhebnldonteosrlp,teryorslmttecpssedbyted.Terlpyslrnvtfmtetetlpyorisn,inaewhrsadadintsc,oftecedglyulshtsterlpyorhsrdaceidbyttegtttecpsshebnm)Arlpyorm,athsorhro,ettodhterlpyidofmgtecpssedbytedN7.TtSn6,IoC,b,adteseishdtordasf.RLPYORI.Oearlpymstecpssedbytedtpttsadaspdintsc,terlpyodayreoratofterlpyorslbefmclasighhcsbtbyayf,rrororpnwoosterlp,adbynrofshrlp,weteadceofirlsisbdunteueofterlpyfrtepsocedgl,pdh,ttshiystaytoaypnadtohepdtecedN8.TtSn6,IoC,b,adteseishdtordasf.VYC.Ayrlpyorwstovyadsyahtecpsdbytedtpttorsadaspdint,wrorntshorwsndbyalweta]
+[DELETED: lbeadtepsfmclaspdins,IoCN9.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.CESGR.()Aqditwoisitoftecyoreycgtecrasslctsgtovyttcpsshnm.Alsecnmtbecdpttotss)Selsslbepdadswtefrpnoep,adshpsslbeidintereflr)Ssslbeo,p,adhdurplssfrtetsofssadaltgtobdurtecnofcyp)SsslbeadbyalycdbyteUselpnayoradbyteAnilheanlyanpmfrteaga)Sglsslbenyi,adtendsglsslbeddontefrp,vei,adldtos)Sdte()ihbyte()ihgeslbeudfls.Tegeslbewdwhalgemloladehsewdatltfe()tsinto()prd,adtegeslbetdooiftttgp)Ars,teseslbepdinan,cnsradsdwhatdl.Tesecrslbdwhteseorptinn,d,t,adselnadslbehdbyplssadcrtecnofcyp)Desgslbeudinasedtohetehtlsofcnasidonteddftn()crbytn()craaslbesdfmnsssshasf,w,a,s,orcsihr.Teseaaslbecdofnofrtnte()des)Alorrsoftepywhteltlsofcnslbesdugoe()deseprr)Atn()crbytn()craaslbesmtevnsminalntobeddbyteqlhN1.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf]
+[DELETED: .CPS.Tefgcpssmtb)Allofmettdsntedacnoh()ofammproehd()secsadbycesgcdbyaqdilh)Ifapssehsallofmettdsndacnoffs()ofammproeh)secsasddbycesgcdbqdilh,anaecgorstaetotemlmybeudasamdtomttecps)Ssmybeedfrtecpoforcsfdincedglsonanilbdonaniyofcsf,adarcnwhted,tepyo,lwe,adaqdiN1.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.RGR.()Frapytobed,tyormtpetedtwhanolorcyofteflrtttistefgfmaqdilh)Tepyd,igplsta,cpc,lld,o,adnradteofssp)Dnofsgpsadalrsfmyassdintsc;a)Aqdilhtstofq,igplcnord,adasdcns:"IcytttecpsdeyIoCehsbnmtasedbytgIc)Iftepyorcstodhtep,dnslbepdtotedtsgtttesewscyadlyddadddofcgwhl,sdfllsadrN1.TtSn5,IoC,b,adteseishdtordasf.CNOFFSFRS.Tedtofhhaeishyadtoceadctref,edbyr,frayserdbyted.Tefemybdbyasgseagtoieoraea.Ttishyadtoreincgteteadasofehpnrgssinortodettoftefetobec.Teselyisadtocgfsatmtrsttdontdeesogsrs]
+[DELETED: N1.TtTe5,IoC,b,adteseishdbyteantoofaNWC,tobeknaddsCr2,Te5,IoC,adtordasfR2GWRLYCNP.STT.Tscrslbeknadmybecdae"gWrLyCnP.ANFRC.()Ananfrdgwrc,lgmsadbytedtofelq,slbesdaybylssgcnonafmadbytedtofhhadw)Asfrrladsgdnrdbedtofhhadwemtberdbytedtatty()dsbetectcee)Alysgtocemsortoadasprtlrnslstanadanadpesgdnrdbytedtofhhadwssganadanslbesttoanalbefec)Alcsslbevdfroe()yrfmtedeo.CNF.()Lsrgcnslbecdabefeofoehdds()peadtyds()praeprm)Lsrgmycnslbdafeofoehdfyds()Oelsrgcyclbecdabefeoftohdds()prdeayds()praeprm)Oelsrgmyclbecdafeoftehdds()Nwlsrgcnwlbecdaneanfeoftohdfyds()prdeldontecdanf.CNOTADR.()Qsoftedtofhhadweaeadtttepsadosofalcdlstodeayoftelytopmdgwrceteasslorammofeyte()ysormefyattednofted.Dlrlieawnrtofatf,ltisrgalyr,adsytereteferdtom)Ttrsslbesdinaftadbytedtofelqyadslberdtotedtofelq,ortedsd,nolrtntn(]
+[DELETED: sdsartecnoftgorunrtofrsfdl)Assnasf,alyslnytedtolq,ortedsd,ofayneadnellegtectmmctl.Nlaobemefrayorrdclorrlctttesfr()tstemmctl.Nnrsaytoaysssdtoarl)Alyslnytedtofelqrtedsd,ofaytlcmpertbytdofted,ustepertisodartedfelqyiscdadtedtofelqydsntheeranaspeleoranaennp,inwhcetelyslnytedfelqybeteedoftentbsdN1.TtTe5,IoC,b,adteseishdbyteantoofaNWC,tobeknaddsCr2,Te5,IoC,adtordasfR2YAEFRCLL.STT.Tscrslbeknadmybecdae"yAefrClL.RNR.()Acllysrwhtedtofhhadweonadtfmpoagssfrt)Rdcllsslstacdrnfmeyto()ysadieaycsinlyo)Tober,acllyslsteeonfmoe()oftef)Tecsfrmeadmdss()cllyitascnp)AnayadbyCSasananp;o)Orcnpsadbytedtofhdw)Tefglsadfsaeedfmcewhtsc)T,r,f,adptdgs,ifttrsaentudfrdsort)Pcdll;a)Fspgsntgsyfrtednofasads.DTI.Qdrsofttofhhadweaeadtoitayrllytodeteayoftes,sdqyaep]
+[DELETED: .GLR.()Acllyslhes,e,adsstopmtessodbelywha,p,ads)Pslyadtod,t,adpeadtoorbhwdadndtsadrerydsaeadtoortewdtsldonadrnfmadrer)Cllsslsypeinpytgpsadbytedtofhhadweaealpytgrsaeaetoted)Cllss)Iytepnrefrpgap)Mntgrsfratltto()ysadeettrsaeryaeunr;a)IyssrdtoorcdlsayterelybyneadaN1.TerscdinIA1,IoDfHhadW,rgtoQyAefrClL,slben,v,adofnofeadetonadartedeoftsaN1.TerscdinIA1,IoDfHhadW,rgtoSeofIoDgWrLnP,slben,v,adofnofeadetonarteeedeoftsaN1.TerscdinIA1,IoDtohadW,rgtoCeDgLyC,sen,v,adofnofeadetonadarteeedeosaN1.TerscdinIA1,IoDtohadW,rgtoSeLyF,slben,vdofnofeadetonadarteeedeoftsaN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 198
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO LABORATORIES; AMENDING SECTION 6-2602, IDAHO CODE, TO REVISE
+3 A STATEMENT OF PURPOSE; AMENDING SECTION 6-2603, IDAHO CODE, TO DE-
+4 FINE A TERM; REPEALING SECTION 6-2604, IDAHO CODE, RELATING TO RULES;
+5 AMENDING CHAPTER 26, TITLE 6, IDAHO CODE, BY THE ADDITION OF A NEW
+6 SECTION 6-2604, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING DEPART-
+7 MENT RESPONSIBILITY; AMENDING SECTION 6-2605, IDAHO CODE, TO REVISE
+8 PROVISIONS REGARDING LAW ENFORCEMENT AGENCY RESPONSIBILITY; AMEND-
+9 ING SECTION 6-2606, IDAHO CODE, TO REMOVE PROVISIONS REGARDING RULES;
+10 AMENDING SECTION 6-2607, IDAHO CODE, TO REMOVE A PROVISION REGARDING
+11 RULES; AMENDING SECTION 6-2608, IDAHO CODE, TO REMOVE A PROVISION RE-
+12 GARDING RULES; AMENDING CHAPTER 26, TITLE 6, IDAHO CODE, BY THE ADDITION
+13 OF A NEW SECTION 6-2609, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+14 CLEARANCE SAMPLING REQUIREMENTS; AMENDING CHAPTER 26, TITLE 6, IDAHO
+15 CODE, BY THE ADDITION OF A NEW SECTION 6-2610, IDAHO CODE, TO ESTABLISH
+16 PROVISIONS REGARDING CLEANUP STANDARDS; AMENDING CHAPTER 26, TITLE 6,
+17 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 6-2611, IDAHO CODE, TO ES-
+18 TABLISH PROVISIONS REGARDING REPORTING REQUIREMENTS; AMENDING SECTION
+19 56-1007, IDAHO CODE, TO PROVIDE THAT THE STATE LABORATORY IS AUTHORIZED
+20 TO CHARGE CERTAIN FEES; AMENDING TITLE 56, IDAHO CODE, BY THE ADDITION
+21 OF A NEW CHAPTER 22, TITLE 56, IDAHO CODE, TO PROVIDE A SHORT TITLE,
+22 TO ESTABLISH PROVISIONS REGARDING APPLICATION FOR CERTIFICATION, TO
+23 ESTABLISH PROVISIONS REGARDING CERTIFICATION FEES, AND TO ESTABLISH
+24 PROVISIONS REGARDING CERTIFICATION OVERSIGHT AND REQUIREMENTS; AMEND-
+25 ING TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 23, TITLE
+26 56, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO ESTABLISH PROVISIONS RE-
+27 GARDING REGISTRATION REQUIREMENTS, TO ESTABLISH PROVISIONS REGARDING
+28 DEPARTMENT INSPECTIONS, AND TO ESTABLISH PROVISIONS REGARDING GENERAL
+29 REQUIREMENTS; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN
+30 IDAPA 16.02.06 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVID-
+31 ING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA 16.02.13 SHALL
+32 BE NULL, VOID, AND OF NO FORCE AND EFFECT; PROVIDING THAT CERTAIN ADMIN-
+33 ISTRATIVE RULES CONTAINED IN IDAPA 16.02.24 SHALL BE NULL, VOID, AND OF
+34 NO FORCE AND EFFECT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CON-
+35 TAINED IN IDAPA 16.02.25 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT;
+36 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+37 Be It Enacted by the Legislature of the State of Idaho:
+38 SECTION 1. That Section 6-2602, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 6-2602. PURPOSE. The legislature finds that some residential prop-
+41 erties are being contaminated with hazardous chemical residues created by
+42 the manufacture of clandestine drugs. Innocent members of the public may be
+
+2
+1 harmed when they are exposed to chemical residues if the residential prop-
+2 erties are not decontaminated prior to any subsequent rental, sale or use of
+3 the properties. The purpose of this chapter is to protect the public health,
+4 safety and welfare by authorizing the department of health and welfare to
+5 establish establishing a program providing a process and standards for the
+6 cleanup of clandestine drug laboratories.
+7 SECTION 2. That Section 6-2603, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 6-2603. DEFINITIONS. As used in this chapter, unless the context oth-
+10 erwise requires:
+11 (1) "Clandestine drug laboratory" means the areas where controlled
+12 substances or their immediate precursors, as those terms are defined in sec-
+13 tion 37-2701, Idaho Code, have been, or were attempted to be, manufactured,
+14 processed, cooked, disposed of or stored, and all proximate areas that are
+15 likely to be contaminated as a result of such manufacturing, processing,
+16 cooking, disposing or storing.
+17 (2) "Department" means the Idaho department of health and welfare.
+18 (3) "Law enforcement agency" means any policing agency of the state or
+19 of any political subdivision of the state.
+20 (4) "Qualified industrial hygienist" means an individual who is:
+21 (a) Certified in comprehensive practice by the American board of indus-
+22 trial hygiene; or
+23 (b) Registered as a member of the association of professional indus-
+24 trial hygienists.
+25 (4) (5) "Residential property" means any building or structure to be
+26 primarily occupied by people, either as a dwelling or as a business, includ-
+27 ing a storage facility, mobile home, manufactured home or recreational vehi-
+28 cle that may be sold, leased or rented for any length of time. "Residential
+29 property" does not include any water system, sewer system, land or water out-
+30 side of a building or structure.
+31 (5) (6) "Residential property owner" means the person holding record
+32 title to residential property, as defined in this section.
+33 SECTION 3. That Section 6-2604, Idaho Code, be, and the same is hereby
+34 repealed.
+35 SECTION 4. That Chapter 26, Title 6, Idaho Code, be, and the same is
+36 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+37 ignated as Section 6-2604, Idaho Code, and to read as follows:
+38 6-2604. DEPARTMENT RESPONSIBILITY. (1) Upon notification by a law en-
+39 forcement agency or a property owner who voluntarily reports a property, the
+40 department shall place the property on the clandestine drug laboratory site
+41 property list.
+42 (2) When a property is determined by a qualified industrial hygienist
+43 to meet the cleanup standard in this chapter or the property owner submits
+44 documentation establishing that the property has been fully and lawfully de-
+45 molished, the department shall issue the property owner a dated certificate
+46 of delisting.
+
+3
+1 SECTION 5. That Section 6-2605, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 6-2605. LAW ENFORCEMENT AGENCY RESPONSIBILITY. Following the adop-
+4 tion of rules pursuant to section 6-2604, Idaho Code, and using a format
+5 established by the department, a A law enforcement agency, upon locating
+6 chemicals, equipment, supplies or immediate precursors indicative of a
+7 clandestine drug laboratory on a residential property, shall notify the
+8 residential property owner and the department within seventy-two (72) hours
+9 using the department-approved form and shall post a sign on the property.
+10 SECTION 6. That Section 6-2606, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 6-2606. RESIDENTIAL PROPERTY OWNER CLEANUP RESPONSIBILITY. (1) Ex-
+13 cept as otherwise provided in subsection (2) of this section, and pursuant to
+14 rules adopted as provided in this chapter, upon notification to a residen-
+15 tial property owner by a law enforcement agency that chemicals, equipment,
+16 supplies or immediate precursors indicative of a clandestine drug labora-
+17 tory have been located on the owner's residential property, the residential
+18 property owner shall meet the cleanup standards established by the de-
+19 partment. The residential property shall remain vacant from the time the
+20 residential property owner is notified, in accordance with rules adopted as
+21 provided in this chapter, of the clandestine drug laboratory until such time
+22 as the residential property owner has received a certificate issued by the
+23 department evidencing that the cleanup standards have been met.
+24 (2) A residential property owner may, at his or her option, elect to de-
+25 molish the residential property instead of meeting the cleanup standards es-
+26 tablished by the department.
+27 SECTION 7. That Section 6-2607, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 6-2607. RESIDENTIAL PROPERTY OWNER IMMUNITY. Once a residential prop-
+30 erty meets the cleanup standards established by the department pursuant to
+31 rules adopted as provided in this chapter, the residential property owner
+32 and any representative or agent of the residential property owner shall be
+33 immune from civil actions involving health claims brought by any future
+34 owner, renter or other person who occupies the residential property, and by
+35 any neighbor of such residential property, where the alleged cause of injury
+36 or loss is based upon the use of the residential property for the purposes of
+37 a clandestine drug laboratory, provided however, that such immunity shall
+38 not apply to any person alleged to have produced the clandestine drugs.
+39 SECTION 8. That Section 6-2608, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 6-2608. VOLUNTARY COMPLIANCE. Any residential property owner who
+42 chooses to voluntarily and successfully accomplish the cleanup standards
+43 established by the department pursuant to rules adopted as provided in this
+44 chapter, whether or not such owner was notified by a law enforcement agency,
+
+4
+1 shall be afforded the protections from civil actions provided in section
+2 6-2607, Idaho Code.
+3 SECTION 9. That Chapter 26, Title 6, Idaho Code, be, and the same is
+4 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+5 ignated as Section 6-2609, Idaho Code, and to read as follows:
+6 6-2609. CLEARANCE SAMPLING REQUIREMENTS. (1) A qualified industrial
+7 hygienist who is independent of the company or entity conducting the cleanup
+8 or analysis shall conduct sampling to verify that cleanup standards have
+9 been met. All sample collection must be conducted pursuant to this section.
+10 (2) Sample locations shall be photographed and show the floor plan of
+11 the property, and such photos shall be included in the requisite final re-
+12 port.
+13 (3) Samples shall be obtained, preserved, and handled under profes-
+14 sional standards for the types of samples and analytical testing to be
+15 conducted under the chain of custody protocol.
+16 (4) Samples shall be analyzed by a laboratory certified by the United
+17 States environmental protection agency or accredited by the American indus-
+18 trial hygiene association laboratory accreditation program for the analyte
+19 being analyzed.
+20 (5) Sampling locations shall be numerically identified, and the num-
+21 bered sampling locations shall be delineated on the floor plan, visible in
+22 photographs, and linked to samples.
+23 (6) Standard three (3) inch by three (3) inch gauze shall be used for
+24 all sampling. The gauze shall be wetted with analytical grade methanol or
+25 isopropanol and each surface wiped at least five (5) times in two (2) perpen-
+26 dicular directions, and the gauze shall be turned onto itself throughout the
+27 wiping process.
+28 (7) After sampling, the sample shall be placed in a new, clean sample
+29 container and sealed with a teflon-lined lid. The sample container shall be
+30 labeled with the site or project identification number, date, time, and sam-
+31 ple location and shall be handled by professional standards and conducted
+32 under the chain of custody protocol.
+33 (8) Discrete sampling shall be used in areas expected to have the high-
+34 est levels of contamination as identified on the department-approved form.
+35 A ten (10) centimeter by ten (10) centimeter area shall be sampled from non-
+36 porous surfaces such as floors, walls, appliances, sinks, or countertops in
+37 each room. The sample area shall be composed of no fewer than three (3) dis-
+38 crete samples.
+39 (9) All other rooms of the property with the lowest levels of contamina-
+40 tion shall be sampled using one (1) discrete sample per room.
+41 (10) A ten (10) centimeter by ten (10) centimeter area shall be sampled
+42 from the ventilation system in a location to be determined by the qualified
+43 industrial hygienist.
+44 SECTION 10. That Chapter 26, Title 6, Idaho Code, be, and the same is
+45 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+46 ignated as Section 6-2610, Idaho Code, and to read as follows:
+
+5
+1 6-2610. CLEANUP STANDARDS. The following cleanup standards must be
+2 met:
+3 (1) A level of methamphetamine that does not exceed a concentration of
+4 one-tenth (0.1) of a microgram per one hundred (100) square centimeters as
+5 demonstrated by clearance sampling conducted by a qualified industrial hy-
+6 gienist.
+7 (2) If a porous surface has a level of methamphetamine that does not
+8 exceed a concentration of five-tenths (0.5) of a microgram per one hundred
+9 (100) square centimeters as demonstrated by clearance sampling conducted by
+10 a qualified industrial hygienist, an adequate coating or sealant appropri-
+11 ate to the material may be used as a method to meet the cleanup standard.
+12 (3) Standards may be established for the cleanup of other controlled
+13 substances found in clandestine drug laboratories on an individual basis,
+14 based on an inventory of chemicals found, and after consultation with the de-
+15 partment, the property owner, law enforcement, and a qualified industrial
+16 hygienist.
+17 SECTION 11. That Chapter 26, Title 6, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 6-2611, Idaho Code, and to read as follows:
+20 6-2611. REPORTING REQUIREMENTS. (1) For a property to be delisted, the
+21 property owner must provide the department with an original or certified
+22 copy of the final report that includes the following from a qualified indus-
+23 trial hygienist:
+24 (a) The property description, including physical street address, city,
+25 zip code, legal description, ownership, and number and type of struc-
+26 tures present;
+27 (b) Documentation of sampling procedures and analytical results from a
+28 laboratory as specified in this chapter; and
+29 (c) A qualified industrial hygienist statement of qualifications, in-
+30 cluding professional certification or documentation, and a signed cer-
+31 tification stating: "I certify that the cleanup standard established
+32 by Idaho Code has been met as evidenced by testing I conducted."
+33 (2) If the property owner chooses to demolish the property, documenta-
+34 tion shall be provided to the department showing that the structure was com-
+35 pletely and lawfully demolished and disposed of complying with local, state,
+36 and federal laws and regulations.
+37 SECTION 12. That Section 56-1007, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 56-1007. COLLECTION OF FEES FOR SERVICES. The department of health and
+40 welfare is hereby authorized to charge and collect reasonable fees, estab-
+41 lished by rule, for any service rendered by the department. The fee may be
+42 determined by a sliding scale according to income or available assets. The
+43 department is hereby authorized to require information concerning the total
+44 income and assets of each person receiving services in order to determine the
+45 amount of the fee to be charged. The state laboratory is authorized to charge
+46 testing fees at market rates that do not disadvantage entities offering sim-
+47 ilar services.
+
+6
+1 SECTION 13. That Title 56, Idaho Code, be, and the same is hereby
+2 amended by the addition thereto of a NEW CHAPTER, to be known and designated
+3 as Chapter 22, Title 56, Idaho Code, and to read as follows:
+4 CHAPTER 22
+5 DRINKING WATER LABORATORY CERTIFICATION PROGRAM
+6 56-2201. SHORT TITLE. This chapter shall be known and may be cited as
+7 the "Drinking Water Laboratory Certification Program."
+8 56-2202. APPLICATION FOR CERTIFICATION. (1) An application for drink-
+9 ing water certification, listing methods approved by the department of envi-
+10 ronmental quality, shall be submitted annually by laboratories seeking cer-
+11 tification on a form approved by the department of health and welfare.
+12 (2) Applications for renewal and supporting documentation requested by
+13 the department of health and welfare must be received by the department at
+14 least thirty (30) days before the current certificate expires.
+15 (3) A laboratory seeking to change methods or to add analytes prior to
+16 annual reapplication shall submit an amended application and provide sup-
+17 porting documentation requested by the department of health and welfare.
+18 Laboratories submitting an amended application shall be subject to an addi-
+19 tional base fee charge.
+20 (4) All certifications shall be valid for one (1) year from the date of
+21 issuance.
+22 56-2203. CERTIFICATION FEES. (1) Laboratories requesting chemistry
+23 certification shall be charged a base fee of one hundred dollars ($100) per
+24 discipline and twenty dollars ($20.00) per analyte per method.
+25 (2) Laboratories requesting microbiology certification shall be
+26 charged a fee of one hundred fifty dollars ($150).
+27 (3) Out-of-state laboratories requesting chemistry certification
+28 shall be charged a base fee of two hundred dollars ($200) per discipline and
+29 twenty dollars ($20.00) per analyte per method.
+30 (4) Out-of-state laboratories requesting microbiology certification
+31 shall be charged a fee of three hundred dollars ($300).
+32 (5) New laboratories requesting certification will be charged a non-
+33 refundable application fee of two hundred fifty dollars ($250) per disci-
+34 pline listed on the completed application form.
+35 56-2204. CERTIFICATION OVERSIGHT AND REQUIREMENTS. (1) Qualified
+36 representatives of the department of health and welfare are authorized to
+37 audit the premises and operations of all certified laboratories to determine
+38 the adequacy of the laboratory to perform drinking water compliance testing.
+39 On-site audits shall occur a minimum of every three (3) years or more fre-
+40 quently at the discretion of the department. Departmental representatives
+41 shall issue a written report of audit findings, list items requiring a lab-
+42 oratory response, and specify the response time frame required to maintain
+43 certification.
+44 (2) Test results shall be submitted in a format approved by the depart-
+45 ment of environmental quality and shall be reported to the department of en-
+46 vironmental quality, or the department's designee, no later than ten (10)
+
+7
+1 business days after the completion of testing or upon receipt of results from
+2 subcontracted laboratories.
+3 (3) As soon as feasible, a laboratory shall notify the department of
+4 environmental quality, or the department's designee, of any nitrate and ni-
+5 trate level exceeding the current maximum contaminant level. Notification
+6 shall also be made for any other regulated chemical or radiological contam-
+7 inant that exceeds four (4) times the maximum contaminant level. Notifica-
+8 tion requirements apply to any samples subcontracted to another laboratory.
+9 (4) A laboratory shall notify the department of environmental quality,
+10 or the department's designee, of any total coliform positive result by the
+11 end of the day, unless the positive result is obtained after the department
+12 of environmental quality is closed and the department of environmental qual-
+13 ity does not have either an after-hours phone line or an alternative notifi-
+14 cation procedure, in which case the laboratory shall notify the department
+15 of environmental quality before the end of the next business day.
+16 SECTION 14. That Title 56, Idaho Code, be, and the same is hereby
+17 amended by the addition thereto of a NEW CHAPTER, to be known and designated
+18 as Chapter 23, Title 56, Idaho Code, and to read as follows:
+19 CHAPTER 23
+20 QUALITY ASSURANCE FOR CLINICAL LABORATORIES
+21 56-2301. SHORT TITLE. This chapter shall be known and may be cited as
+22 the "Quality Assurance for Clinical Laboratories."
+23 56-2302. REGISTRATION REQUIREMENTS. (1) A clinical laboratory shall
+24 register with the department of health and welfare on a department form prior
+25 to accepting specimens for testing.
+26 (2) Registered clinical laboratories shall submit a completed regis-
+27 tration form every two (2) years and indicate any changes in laboratory oper-
+28 ations.
+29 (3) To be registered, a clinical laboratory shall submit evidence of
+30 certification from one (1) of the following:
+31 (a) The centers for medicare and medicaid services (CMS) clinical labo-
+32 ratory improvement amendments certification program;
+33 (b) An agency approved by CMS as an accreditation program; or
+34 (c) Other certification programs approved by the department of health
+35 and welfare.
+36 (4) The following laboratories and facilities are excluded from com-
+37 pliance with this chapter:
+38 (a) Teaching, research, forensic, and pre-employment drug screening
+39 laboratories, if test results are not used for diagnosis or treatment;
+40 (b) Prosthetic dental laboratories; and
+41 (c) Facilities performing skin testing solely for the detection of al-
+42 lergies and sensitivities.
+43 56-2303. DEPARTMENT INSPECTIONS. Qualified representatives of the
+44 department of health and welfare are authorized to inspect any registered
+45 clinical laboratory to determine the adequacy of the supervision, staffing,
+46 and quality assurance program.
+
+8
+1 56-2304. GENERAL REQUIREMENTS. (1) A clinical laboratory shall have
+2 adequate space, equipment, and supplies to perform the services offered by
+3 the laboratory with accuracy, precision, and safety.
+4 (2) Practitioners legally authorized to diagnose, treat, and prescribe
+5 are authorized to order both waived and nonwaived tests and receive results.
+6 Laboratory directors are authorized to order the waived tests listed on an
+7 approved registration form and receive results.
+8 (3) Clinical laboratories shall satisfactorily participate in profi-
+9 ciency testing programs approved by the department of health and welfare and
+10 ensure all proficiency testing results are available to the department.
+11 (4) Clinical laboratories shall:
+12 (a) Identify the person responsible for performing a procedure;
+13 (b) Maintain testing records for at least two (2) years and ensure that
+14 test reports are readily accessible upon request; and
+15 (c) Identify specimens referred to other certified laboratories and
+16 identify the reference laboratory by name and address.
+17 SECTION 15. The rules contained in IDAPA 16.02.06, Idaho Department
+18 of Health and Welfare, relating to Quality Assurance for Clinical Labo-
+19 ratories, shall be null, void, and of no force and effect on and after the
+20 effective date of this act.
+21 SECTION 16. The rules contained in IDAPA 16.02.13, Idaho Department
+22 of Health and Welfare, relating to State of Idaho Drinking Water Laboratory
+23 Certification Program, shall be null, void, and of no force and effect on and
+24 after the effective date of this act.
+25 SECTION 17. The rules contained in IDAPA 16.02.24, Idaho Department of
+26 Health and Welfare, relating to Clandestine Drug Laboratory Cleanup, shall
+27 be null, void, and of no force and effect on and after the effective date of
+28 this act.
+29 SECTION 18. The rules contained in IDAPA 16.02.25, Idaho Department of
+30 Health and Welfare, relating to State Laboratory Fees, shall be null, void,
+31 and of no force and effect on and after the effective date of this act.
+32 SECTION 19. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOL;AGSN6,IOC,TORSTOFP;AGSN6,IOC,TODEAT;RGSN6,IOC,RGTORGCR2,TE6,IOC,BYTEANOFANN6,IOC,TOEHPSRGDTR;AGSN6,IOC,TORSRGLWETAYR;AGSN6,IOC,TOREPSRGRGSN6,IOC,TOREAPNR;AGSN6,IOC,TOREAPNRGR;AGCR2,TE6,IOC,BYTEAFANWSN6,IOC,TOEHPSRESGR;AGCR2,TE6,I,BYTEANOFANWSN6,IOC,TOESRGCPS;AGCR2,TE6OC,BYTEANOFANWSN6,IOC,TOEHPSRGRGR;AGS,IOC,TOPETTTESELYISAOCECNF;AGTE5,IOC,BYTEAFANWCR2,TE5,IOC,TOPEASTTOEHPSRGANFRC,THPSRGCNF,ADTOESRGCNOTADR;AGTE5,IOC,BYTEANOFANWCR2,T,IOC,TOPEASTT,TOEHPSRGRNR,TOEHPSRTI,ADTOEHPSRGG;PGTTCNAERSCDIA16SLBEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA13SEN,V,ADOFNOFEADE;PGTTCNAERSCDINIA14SLBEN,V,ADOOFEADE;PGTTCNAERSCDINIA15SLBEN,V,ADOFNOFEADEDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.P.Telefsttserlpsaebgcdwhhsclrscdbemeofced.Itmsoftepcmyb]
+[DELETED: dwntyaeedtoclrsifterlpsaentddprtoaystr,seorueoep.TepeoftscristopttepchyadwebyagtedtofhhadwethegapmpgapsadssfrtpofcedglN2.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc,ustectoer)"edgl"msteaswecsortriep,astetsaeddinsn3,IoC,heb,orweadtob,m,c,ddofors,adalpeasttaytobecdasartofshm,p,dgors)""msteIodtofhhadw)"weta"msaypgayofteseofayplsnoftes)"dilh"msanilwoi)CdincepebyteAnbdofilh;o)Rdasamrofteanofplilh)()"lp"msaybgorsetobyodbyp,erasadgorasab,igasef,meh,mdheorrlvettmybes,ldorrdfraylhoft.""dsntieaywrs,srs,ldorwroeofabgors)()"lpyo"mstepnhgretorlp,asddintssN3.TtSn6,IoC,b,adteseishN4.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.DTR.()Unnnbyalwetayorapyorwovyrsap,ttslpetepyontecedglysyl)Wnapyisddbyaqdilhomttecpsdintscrortepyorsnegtttepyhsbnfyadlyd,tedtslietepyoraddcfd]
+[DELETED: N5.TtSn6,IoC,b,adteseishdtordasf.LWETAYR.Fgteanofrspttosn6,IoC,adugafdbyted,aAlweta,unl,e,ssoriepsieofedglyonarlp,slnytlpyoradtedtwnso()hgteddfmadslptasnontepN6.TtSn6,IoC,b,adteseishdtordasf.RLPYORCPR.()Etasoepdinsn()oftss,adpttsadaspdintsc,unnntoarlpyorbyalwetayttc,esoriepsieofacedglyhebnldonteosrlp,teryorslmttecpssedbyted.Terlpyslrnvtfmtetetlpyorisn,inaewhrsadadintsc,oftecedglyulshtsterlpyorhsrdaceidbyttegtttecpsshebnm)Arlpyorm,athsorhro,ettodhterlpyidofmgtecpssedbytedN7.TtSn6,IoC,b,adteseishdtordasf.RLPYORI.Oearlpymstecpssedbytedtpttsadaspdintsc,terlpyodayreoratofterlpyorslbefmclasighhcsbtbyayf,rrororpnwoosterlp,adbynrofshrlp,weteadceofirlsisbdunteueofterlpyfrtepsocedgl,pdh,ttshiystaytoaypnadtohepdtecedN8.TtSn6,IoC,b,adteseishdtordasf.VYC.Ayrlpyorwstovyadsyahtecpsdbytedtpttorsadaspdint,wrorntshorwsndbyalweta]
+[DELETED: lbeadtepsfmclaspdins,IoCN9.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.CESGR.()Aqditwoisitoftecyoreycgtecrasslctsgtovyttcpsshnm.Alsecnmtbecdpttotss)Selsslbepdadswtefrpnoep,adshpsslbeidintereflr)Ssslbeo,p,adhdurplssfrtetsofssadaltgtobdurtecnofcyp)SsslbeadbyalycdbyteUselpnayoradbyteAnilheanlyanpmfrteaga)Sglsslbenyi,adtendsglsslbeddontefrp,vei,adldtos)Sdte()ihbyte()ihgeslbeudfls.Tegeslbewdwhalgemloladehsewdatltfe()tsinto()prd,adtegeslbetdooiftttgp)Ars,teseslbepdinan,cnsradsdwhatdl.Tesecrslbdwhteseorptinn,d,t,adselnadslbehdbyplssadcrtecnofcyp)Desgslbeudinasedtohetehtlsofcnasidonteddftn()crbytn()craaslbesdfmnsssshasf,w,a,s,orcsihr.Teseaaslbecdofnofrtnte()des)Alorrsoftepywhteltlsofcnslbesdugoe()deseprr)Atn()crbytn()craaslbesmtevnsminalntobeddbyteqlhN1.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf]
+[DELETED: .CPS.Tefgcpssmtb)Allofmettdsntedacnoh()ofammproehd()secsadbycesgcdbyaqdilh)Ifapssehsallofmettdsndacnoffs()ofammproeh)secsasddbycesgcdbqdilh,anaecgorstaetotemlmybeudasamdtomttecps)Ssmybeedfrtecpoforcsfdincedglsonanilbdonaniyofcsf,adarcnwhted,tepyo,lwe,adaqdiN1.TtCr2,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.RGR.()Frapytobed,tyormtpetedtwhanolorcyofteflrtttistefgfmaqdilh)Tepyd,igplsta,cpc,lld,o,adnradteofssp)Dnofsgpsadalrsfmyassdintsc;a)Aqdilhtstofq,igplcnord,adasdcns:"IcytttecpsdeyIoCehsbnmtasedbytgIc)Iftepyorcstodhtep,dnslbepdtotedtsgtttesewscyadlyddadddofcgwhl,sdfllsadrN1.TtSn5,IoC,b,adteseishdtordasf.CNOFFSFRS.Tedtofhhaeishyadtoceadctref,edbyr,frayserdbyted.Tefemybdbyasgseagtoieoraea.Ttishyadtoreincgteteadasofehpnrgssinortodettoftefetobec.Teselyisadtocgfsatmtrsttdontdeesogsrs]
+[DELETED: N1.TtTe5,IoC,b,adteseishdbyteantoofaNWC,tobeknaddsCr2,Te5,IoC,adtordasfR2GWRLYCNP.STT.Tscrslbeknadmybecdae"gWrLyCnP.ANFRC.()Ananfrdgwrc,lgmsadbytedtofelq,slbesdaybylssgcnonafmadbytedtofhhadw)Asfrrladsgdnrdbedtofhhadwemtberdbytedtatty()dsbetectcee)Alysgtocemsortoadasprtlrnslstanadanadpesgdnrdbytedtofhhadwssganadanslbesttoanalbefec)Alcsslbevdfroe()yrfmtedeo.CNF.()Lsrgcnslbecdabefeofoehdds()peadtyds()praeprm)Lsrgmycnslbdafeofoehdfyds()Oelsrgcyclbecdabefeoftohdds()prdeayds()praeprm)Oelsrgmyclbecdafeoftehdds()Nwlsrgcnwlbecdaneanfeoftohdfyds()prdeldontecdanf.CNOTADR.()Qsoftedtofhhadweaeadtttepsadosofalcdlstodeayoftelytopmdgwrceteasslorammofeyte()ysormefyattednofted.Dlrlieawnrtofatf,ltisrgalyr,adsytereteferdtom)Ttrsslbesdinaftadbytedtofelqyadslberdtotedtofelq,ortedsd,nolrtntn(]
+[DELETED: sdsartecnoftgorunrtofrsfdl)Assnasf,alyslnytedtolq,ortedsd,ofayneadnellegtectmmctl.Nlaobemefrayorrdclorrlctttesfr()tstemmctl.Nnrsaytoaysssdtoarl)Alyslnytedtofelqrtedsd,ofaytlcmpertbytdofted,ustepertisodartedfelqyiscdadtedtofelqydsntheeranaspeleoranaennp,inwhcetelyslnytedfelqybeteedoftentbsdN1.TtTe5,IoC,b,adteseishdbyteantoofaNWC,tobeknaddsCr2,Te5,IoC,adtordasfR2YAEFRCLL.STT.Tscrslbeknadmybecdae"yAefrClL.RNR.()Acllysrwhtedtofhhadweonadtfmpoagssfrt)Rdcllsslstacdrnfmeyto()ysadieaycsinlyo)Tober,acllyslsteeonfmoe()oftef)Tecsfrmeadmdss()cllyitascnp)AnayadbyCSasananp;o)Orcnpsadbytedtofhdw)Tefglsadfsaeedfmcewhtsc)T,r,f,adptdgs,ifttrsaentudfrdsort)Pcdll;a)Fspgsntgsyfrtednofasads.DTI.Qdrsofttofhhadweaeadtoitayrllytodeteayoftes,sdqyaep]
+[DELETED: .GLR.()Acllyslhes,e,adsstopmtessodbelywha,p,ads)Pslyadtod,t,adpeadtoorbhwdadndtsadrerydsaeadtoortewdtsldonadrnfmadrer)Cllsslsypeinpytgpsadbytedtofhhadweaealpytgrsaeaetoted)Cllss)Iytepnrefrpgap)Mntgrsfratltto()ysadeettrsaeryaeunr;a)IyssrdtoorcdlsayterelybyneadaN1.TerscdinIA1,IoDfHhadW,rgtoQyAefrClL,slben,v,adofnofeadetonadartedeoftsaN1.TerscdinIA1,IoDfHhadW,rgtoSeofIoDgWrLnP,slben,v,adofnofeadetonarteeedeoftsaN1.TerscdinIA1,IoDtohadW,rgtoCeDgLyC,sen,v,adofnofeadetonadarteeedeosaN1.TerscdinIA1,IoDtohadW,rgtoSeLyF,slben,vdofnofeadetonadarteeedeoftsaN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

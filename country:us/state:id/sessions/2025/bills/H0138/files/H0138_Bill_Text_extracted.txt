@@ -1,0 +1,350 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 138
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING SECTION 56-267, IDAHO CODE, TO PROVIDE CER-
+3 TAIN CONDITIONS FOR IMPLEMENTATION OF MEDICAID ELIGIBILITY EXPANSION,
+4 TO REQUIRE NOTIFICATION TO THE LEGISLATURE, AND TO PROVIDE FOR CONDI-
+5 TIONAL TERMINATION OF MEDICAID ELIGIBILITY EXPANSION; AND DECLARING AN
+6 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 56-267, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 56-267. MEDICAID ELIGIBILITY EXPANSION. (1) Notwithstanding any pro-
+11 vision of law or federal waiver to the contrary, the state shall amend its
+12 state plan to expand not implement or execute any state plan that expands
+13 medicaid eligibility to include those persons under sixty-five (65) years of
+14 age whose modified adjusted gross income is one hundred thirty-three percent
+15 (133%) of the federal poverty level or below and who are not otherwise eligi-
+16 ble for any other coverage under the state plan, in accordance with sections
+17 1902(a)(10)(A)(i)(VIII) and 1902(e)(14) of the social security act. on and
+18 after July 1, 2026, unless all of the following conditions are met:
+19 (a) Federal financial participation for persons identified in this
+20 subsection remains at the ninety percent (90%) federal commitment de-
+21 scribed in section 1905(y) of the social security act;
+22 (b) The department has, with federal approval if necessary, imple-
+23 mented work requirements for able-bodied adults enrolled in medicaid
+24 in which no individual shall be eligible to participate in the medicaid
+25 program unless the individual is:
+26 (i) Working twenty (20) hours or more per week, averaged monthly;
+27 (ii) Participating in and complying with the requirements of a
+28 work program twenty (20) hours or more per week, as determined by
+29 the department;
+30 (iii) Volunteering twenty (20) hours or more per week, as deter-
+31 mined by the department;
+32 (iv) Meeting any combination of working and participating in a
+33 work program for a total of twenty (20) hours or more per week, as
+34 determined by the department; or
+35 (v) Participating and complying with the requirements of a work-
+36 fare program, unless the individual is:
+37 1. Younger than nineteen (19) years of age;
+38 2. Older than sixty-four (64) years of age;
+39 3. Medically certified as physically or mentally unfit for
+40 employment;
+41 4. Pregnant;
+2
+1 5. A parent or caretaker responsible for the care of a depen-
+2 dent child younger than six (6) years of age;
+3 6. A parent or caretaker personally providing the care for
+4 a dependent child with a serious medical condition or with a
+5 disability, as determined by the department;
+6 7. Receiving unemployment compensation and complying with
+7 work requirements as part of the federal-state unemployment
+8 compensation system; or
+9 8. Participating in a drug addiction or alcohol treatment
+10 and rehabilitation program;
+11 (c) The department has, with federal approval if necessary, allowed
+12 persons eligible for medicaid under this section who have a modified
+13 adjusted gross income at or above one hundred percent (100%) of the fed-
+14 eral poverty level to receive the advance premium tax credit to purchase
+15 a qualified health plan through the Idaho health insurance exchange
+16 established by chapter 61, title 41, Idaho Code, instead of enrolling in
+17 medicaid, except that a person may choose to enroll in medicaid instead
+18 of receiving the advance premium tax credit to purchase a qualified
+19 health plan;
+20 (d) The department implements an enrollment cap, with federal approval
+21 if necessary, that limits enrollment at any given time for persons iden-
+22 tified in this subsection to the lower of:
+23 (i) Fifty thousand (50,000) persons; or
+24 (ii) A total represented by the sum of adults enrolled in medicaid
+25 who are disabled or over sixty-five (65) years of age;
+26 (e) The department has maintained a medicaid improper payment rate of
+27 five percent (5%) or less, as confirmed by biennial majority votes of
+28 both the senate and the house of representatives health and welfare com-
+29 mittees, based on a review that shall include but is not limited to data
+30 provided by the department to those committees and to the United States
+31 department of health and human services;
+32 (f) The department has, with federal approval if necessary, suspended
+33 requirements to renew eligibility automatically based on available in-
+34 formation and to use pre-populated forms;
+35 (g) The department has, with federal approval if necessary, imple-
+36 mented a lifetime benefit limit of thirty-six (36) months for persons
+37 identified in this subsection counting only time spent in that eligi-
+38 bility category;
+39 (h) The department has, with federal approval if necessary, imple-
+40 mented biannual redetermination for persons identified in this subsec-
+41 tion;
+42 (i) The department has, with federal approval if necessary, limited
+43 hospital presumptive eligibility determinations to children and preg-
+44 nant women;
+45 (j) The department implements a policy requiring that no funds shall be
+46 used to fulfill any contract or commercial transaction with any health
+47 care provider or health care facility under the terms of which such
+48 health care provider or health care facility agrees to provide services
+49 prohibited under section 18-1506C, Idaho Code; and
+3
+1 (k) The department implements a policy requiring that no funds shall be
+2 used to fulfill any gender reassignment procedures, including treat-
+3 ment and surgery for any resident eighteen (18) years of age or older.
+4 Should a court impose the requirements of gender reassignment for
+5 medicaid participants, it shall be considered a violation of the condi-
+6 tions of the state plan.
+7 (2) No later than ninety (90) days after approval of this act October
+8 1, 2025, the department shall submit any necessary state plan amendments
+9 or waiver requests to the United States department of health and human
+10 services, centers for medicare and medicaid services to implement the pro-
+11 visions of this section. The department is required and authorized to take
+12 all actions necessary to implement the provisions of this section as soon as
+13 practicable. The department is required to notify the senate and the house
+14 of representatives health and welfare committees within thirty (30) days of
+15 the submission, approval, rejection, or withdrawal of any federal waiver
+16 request or state plan amendment submitted to carry out the provisions of this
+17 section. In the event that any conditions for eligibility expansion under
+18 subsection (1) of this section are not met by July 1, 2026, the department
+19 shall terminate eligibility for persons described in subsection (1) of this
+20 section no later than October 1, 2026. In the event that all conditions
+21 required for eligibility expansion under subsection (1) of this section are
+22 met by July 1, 2026, but are not met at any point thereafter, the department
+23 shall terminate eligibility for persons described in subsection (1) of this
+24 section within ninety (90) days after the date such conditions are not met.
+25 (3) An individual is exempt from the provisions of this section if the
+26 individual is an American Indian or Alaska native who is eligible for ser-
+27 vices through the Indian health service or through a tribal program pursuant
+28 to the Indian self-determination and education assistance act or the Indian
+29 health care improvement act.
+30 (3) Eligibility for medicaid as described in this section shall not be
+31 delayed if the centers for medicare and medicaid services fail to approve any
+32 waivers of the state plan for which the department applies, nor shall such
+33 eligibility be delayed while the department is considering or negotiating
+34 any waivers to the state plan. The department shall not implement any waiver
+35 that would result in a reduction in federal financial participation for per-
+36 sons identified in subsection (1) of this section below the ninety percent
+37 (90%) commitment described in section 1905(y) of the social security act.
+38 (4) If section 1905(y) of the social security act is held unlawful or
+39 unconstitutional by the United States supreme court, then the legislature
+40 shall declare this section to be null, void, and of no force and effect.
+41 (5) If federal financial participation for persons identified in sub-
+42 section (1) of this section is reduced below the ninety percent (90%) commit-
+43 ment described in section 1905(y) of the social security act, then the senate
+44 and house of representatives health and welfare committees shall, as soon as
+45 practicable, review the effects of such reduction and make a recommendation
+46 to the legislature as to whether medicaid eligibility expansion should re-
+47 main in effect. The review and recommendation described in this subsection
+48 shall be conducted by the date of adjournment of the regular legislative ses-
+49 sion following the date of reduction in federal financial participation.
+50 (6) The department:
+4
+1 (a) Shall place all persons participating in medicaid pursuant to
+2 this section in a care management program authorized under section
+3 56-265(5), Idaho Code, or in another managed care program to improve the
+4 quality of their care, to the extent possible; and
+5 (b) Is authorized to seek any federal approval necessary to implement
+6 the provisions of this subsection.
+7 (7) No later than January 31 in the 2023 legislative session, the sen-
+8 ate and house of representatives health and welfare committees shall review
+9 all fiscal, health, and other impacts of medicaid eligibility expansion pur-
+10 suant to this section and shall make a recommendation to the legislature as
+11 to whether such expansion should remain in effect.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOM;AGSN5,IOC,TOPECNCSFRINOFMDEYEORENNTOTEL,ADTOPEFRCLTNOFMDEYE;ADDGAYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.MDEYE.()Ngaypnoflworflwrtotec,tesesladiepntoedntitoreeaysepnttedeytoietepsurse()ysoewemdadgsieisoehdtep)ofteflpyllorbwadwoaentoeeefrayorceurtesep,inaewhs)ad1)ofteslsya.onarJy1,2,usaloftefgcsaem)Flflpnfrpsidintnrsattenypt()flctddinsn1)ofteslsya)Tedth,whflalifn,idwkrsfradasedinmnwhnoilslbeeetopeintemmusteili)Wgty()hsormeprw,adm)Pginadcgwhtersofkpmty()hsormeprw,asddbed)Vgty()hsormeprw,asddbyted)Mgaycnofwgadpginkpmfratlofty()hsormeprw,adbyted;o)Pgadcgwhtersofawep,usteili.Yrtnnn()ysofa.Ortnsr()ysofa.Mycdaspyormyutf.P]
+[DELETED: .Aptorcrrefrteceofadtcdyrtnsx()ysofa.Aptorcrpypgtecefdtcdwhassmlcnorwh,asddbyted.Rgutcnadcgwkrsasptoftefeuns;o.Pginadganoraltdrnp)Tedth,whflalifn,aseefrmdurtssnwoheamdgsieatoraeoehdpt()ofteflpylltoreteaepmtxcttopqdhhpnthteIohhieedbycr6,te4,IoC,idofegi,etttapnmycetoelinmdifrgteaepmtxcttopeaqhp)Tedtisanetc,whflafn,ttlsetataygntefrpsidintssntotelro)Fytd()p;o)Atlrdbytesmofasedinmoaeddororse()ysofa)Tedthsmdamdirptreoept()orl,ascdbyblmyvsohteseadteheofrshhadwec,bdonarwttsliebtisntldtoddbytedttotecsadtoteUdStofhhadhns)Tedth,whflalifn,sstorweyaybdonaeinadtouepdf)Tedth,whflalifn,idalebtltoftx()msfrpdintssncgoytestintteyc)Tedth,whflalifn,idblrnfrpsidintss)Tedth,whflalifn,llpeeydstocnadptw)Tedtisapyrgttnofsslbdtoflayctorcltnwhayheprorhhcefyurtetsofwhshceprorhhcefyastopesdursn1,IoC;a]
+[DELETED: )Tedtisapyrgttnofsslbdtoflaygrrtp,igttadsyfrayrten()ysofaeorodactietersofgrrtfdp,itslbecdavnoftecsoftesep)Nolrtnny()dsaraloftsatO,2,tedtslstaynysepnarwrrstoteUdSsdtofhhadh,csfrmeadmdsstoittepsoftss.Tedtisrdadadtotlasnytoittepsoftssnassna.Tedtisrdtonyteseadtehfrshhadwecswnty()dsoes,a,r,orwlofayflwtorsepnatsdtocyottepsoft.Inteetttaycsfreyenun()oftssnaentmtbyJy1,2,tedlteeyfrpsddinsn()oftnnolrtnOr1,2.Inteetttalcdfreyenursn()oftssnatbyJy1,2,btaentmtatayptt,tedlteeyfrpsddinsn()oftnwnny()dsartedeshcsaentm)AnilisetfmtepsoftssniftlisanAnInorAanewoiseefrssthteInhhseorthatlpmpoteInsnadenaeatorteIhceita)Eyfrmdasddintssnslntbdiftecsfrmeadmdssfltoaeasoftesepnfrwhtedta,nrslsybeddwetedtiscgornywstotesep.Tedtslntitaywtwdrtinarninflflpnfrpsidinsn()oftssnbwtenyp)ctddinsn1)ofteslsya)Ifsn1)ofteslsyatishdulolbyteUdSssec,tntelldetssntoben,v,adofnofeade)Ifflflpnfrpsidinsn()oftssnisrdbwtenypt()ctddinsn1)ofteslsya,tntesdheofrshhadwecss,assna,rwteesofshrnadmearoteleastowrmdeyensdrnine.Terwadrnddintsslbecdbytedeofatofterrlesnfgtedeofrninflflp)Ted]
+[DELETED: )Slpealpspginmdpttssninacemtpmadurs,IoC,orinarmdcepmtoietyoftrc,toteetp;a)Isadtoskayflalnytoiepsoftss)NolrtnJy31inte23les,teseadheofrshhadwecsslrlf,h,adorisofmdeyenpttotssnadslmearntoteleaowrshensdrnineN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 138
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING SECTION 56-267, IDAHO CODE, TO PROVIDE CER-
+3 TAIN CONDITIONS FOR IMPLEMENTATION OF MEDICAID ELIGIBILITY EXPANSION,
+4 TO REQUIRE NOTIFICATION TO THE LEGISLATURE, AND TO PROVIDE FOR CONDI-
+5 TIONAL TERMINATION OF MEDICAID ELIGIBILITY EXPANSION; AND DECLARING AN
+6 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 56-267, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 56-267. MEDICAID ELIGIBILITY EXPANSION. (1) Notwithstanding any pro-
+11 vision of law or federal waiver to the contrary, the state shall amend its
+12 state plan to expand not implement or execute any state plan that expands
+13 medicaid eligibility to include those persons under sixty-five (65) years of
+14 age whose modified adjusted gross income is one hundred thirty-three percent
+15 (133%) of the federal poverty level or below and who are not otherwise eligi-
+16 ble for any other coverage under the state plan, in accordance with sections
+17 1902(a)(10)(A)(i)(VIII) and 1902(e)(14) of the social security act. on and
+18 after July 1, 2026, unless all of the following conditions are met:
+19 (a) Federal financial participation for persons identified in this
+20 subsection remains at the ninety percent (90%) federal commitment de-
+21 scribed in section 1905(y) of the social security act;
+22 (b) The department has, with federal approval if necessary, imple-
+23 mented work requirements for able-bodied adults enrolled in medicaid
+24 in which no individual shall be eligible to participate in the medicaid
+25 program unless the individual is:
+26 (i) Working twenty (20) hours or more per week, averaged monthly;
+27 (ii) Participating in and complying with the requirements of a
+28 work program twenty (20) hours or more per week, as determined by
+29 the department;
+30 (iii) Volunteering twenty (20) hours or more per week, as deter-
+31 mined by the department;
+32 (iv) Meeting any combination of working and participating in a
+33 work program for a total of twenty (20) hours or more per week, as
+34 determined by the department; or
+35 (v) Participating and complying with the requirements of a work-
+36 fare program, unless the individual is:
+37 1. Younger than nineteen (19) years of age;
+38 2. Older than sixty-four (64) years of age;
+39 3. Medically certified as physically or mentally unfit for
+40 employment;
+41 4. Pregnant;
+
+2
+1 5. A parent or caretaker responsible for the care of a depen-
+2 dent child younger than six (6) years of age;
+3 6. A parent or caretaker personally providing the care for
+4 a dependent child with a serious medical condition or with a
+5 disability, as determined by the department;
+6 7. Receiving unemployment compensation and complying with
+7 work requirements as part of the federal-state unemployment
+8 compensation system; or
+9 8. Participating in a drug addiction or alcohol treatment
+10 and rehabilitation program;
+11 (c) The department has, with federal approval if necessary, allowed
+12 persons eligible for medicaid under this section who have a modified
+13 adjusted gross income at or above one hundred percent (100%) of the fed-
+14 eral poverty level to receive the advance premium tax credit to purchase
+15 a qualified health plan through the Idaho health insurance exchange
+16 established by chapter 61, title 41, Idaho Code, instead of enrolling in
+17 medicaid, except that a person may choose to enroll in medicaid instead
+18 of receiving the advance premium tax credit to purchase a qualified
+19 health plan;
+20 (d) The department implements an enrollment cap, with federal approval
+21 if necessary, that limits enrollment at any given time for persons iden-
+22 tified in this subsection to the lower of:
+23 (i) Fifty thousand (50,000) persons; or
+24 (ii) A total represented by the sum of adults enrolled in medicaid
+25 who are disabled or over sixty-five (65) years of age;
+26 (e) The department has maintained a medicaid improper payment rate of
+27 five percent (5%) or less, as confirmed by biennial majority votes of
+28 both the senate and the house of representatives health and welfare com-
+29 mittees, based on a review that shall include but is not limited to data
+30 provided by the department to those committees and to the United States
+31 department of health and human services;
+32 (f) The department has, with federal approval if necessary, suspended
+33 requirements to renew eligibility automatically based on available in-
+34 formation and to use pre-populated forms;
+35 (g) The department has, with federal approval if necessary, imple-
+36 mented a lifetime benefit limit of thirty-six (36) months for persons
+37 identified in this subsection counting only time spent in that eligi-
+38 bility category;
+39 (h) The department has, with federal approval if necessary, imple-
+40 mented biannual redetermination for persons identified in this subsec-
+41 tion;
+42 (i) The department has, with federal approval if necessary, limited
+43 hospital presumptive eligibility determinations to children and preg-
+44 nant women;
+45 (j) The department implements a policy requiring that no funds shall be
+46 used to fulfill any contract or commercial transaction with any health
+47 care provider or health care facility under the terms of which such
+48 health care provider or health care facility agrees to provide services
+49 prohibited under section 18-1506C, Idaho Code; and
+
+3
+1 (k) The department implements a policy requiring that no funds shall be
+2 used to fulfill any gender reassignment procedures, including treat-
+3 ment and surgery for any resident eighteen (18) years of age or older.
+4 Should a court impose the requirements of gender reassignment for
+5 medicaid participants, it shall be considered a violation of the condi-
+6 tions of the state plan.
+7 (2) No later than ninety (90) days after approval of this act October
+8 1, 2025, the department shall submit any necessary state plan amendments
+9 or waiver requests to the United States department of health and human
+10 services, centers for medicare and medicaid services to implement the pro-
+11 visions of this section. The department is required and authorized to take
+12 all actions necessary to implement the provisions of this section as soon as
+13 practicable. The department is required to notify the senate and the house
+14 of representatives health and welfare committees within thirty (30) days of
+15 the submission, approval, rejection, or withdrawal of any federal waiver
+16 request or state plan amendment submitted to carry out the provisions of this
+17 section. In the event that any conditions for eligibility expansion under
+18 subsection (1) of this section are not met by July 1, 2026, the department
+19 shall terminate eligibility for persons described in subsection (1) of this
+20 section no later than October 1, 2026. In the event that all conditions
+21 required for eligibility expansion under subsection (1) of this section are
+22 met by July 1, 2026, but are not met at any point thereafter, the department
+23 shall terminate eligibility for persons described in subsection (1) of this
+24 section within ninety (90) days after the date such conditions are not met.
+25 (3) An individual is exempt from the provisions of this section if the
+26 individual is an American Indian or Alaska native who is eligible for ser-
+27 vices through the Indian health service or through a tribal program pursuant
+28 to the Indian self-determination and education assistance act or the Indian
+29 health care improvement act.
+30 (3) Eligibility for medicaid as described in this section shall not be
+31 delayed if the centers for medicare and medicaid services fail to approve any
+32 waivers of the state plan for which the department applies, nor shall such
+33 eligibility be delayed while the department is considering or negotiating
+34 any waivers to the state plan. The department shall not implement any waiver
+35 that would result in a reduction in federal financial participation for per-
+36 sons identified in subsection (1) of this section below the ninety percent
+37 (90%) commitment described in section 1905(y) of the social security act.
+38 (4) If section 1905(y) of the social security act is held unlawful or
+39 unconstitutional by the United States supreme court, then the legislature
+40 shall declare this section to be null, void, and of no force and effect.
+41 (5) If federal financial participation for persons identified in sub-
+42 section (1) of this section is reduced below the ninety percent (90%) commit-
+43 ment described in section 1905(y) of the social security act, then the senate
+44 and house of representatives health and welfare committees shall, as soon as
+45 practicable, review the effects of such reduction and make a recommendation
+46 to the legislature as to whether medicaid eligibility expansion should re-
+47 main in effect. The review and recommendation described in this subsection
+48 shall be conducted by the date of adjournment of the regular legislative ses-
+49 sion following the date of reduction in federal financial participation.
+50 (6) The department:
+
+4
+1 (a) Shall place all persons participating in medicaid pursuant to
+2 this section in a care management program authorized under section
+3 56-265(5), Idaho Code, or in another managed care program to improve the
+4 quality of their care, to the extent possible; and
+5 (b) Is authorized to seek any federal approval necessary to implement
+6 the provisions of this subsection.
+7 (7) No later than January 31 in the 2023 legislative session, the sen-
+8 ate and house of representatives health and welfare committees shall review
+9 all fiscal, health, and other impacts of medicaid eligibility expansion pur-
+10 suant to this section and shall make a recommendation to the legislature as
+11 to whether such expansion should remain in effect.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOM;AGSN5,IOC,TOPECNCSFRINOFMDEYEORENNTOTEL,ADTOPEFRCLTNOFMDEYE;ADDGAYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.MDEYE.()Ngaypnoflworflwrtotec,tesesladiepntoedntitoreeaysepnttedeytoietepsurse()ysoewemdadgsieisoehdtep)ofteflpyllorbwadwoaentoeeefrayorceurtesep,inaewhs)ad1)ofteslsya.onarJy1,2,usaloftefgcsaem)Flflpnfrpsidintnrsattenypt()flctddinsn1)ofteslsya)Tedth,whflalifn,idwkrsfradasedinmnwhnoilslbeeetopeintemmusteili)Wgty()hsormeprw,adm)Pginadcgwhtersofkpmty()hsormeprw,asddbed)Vgty()hsormeprw,asddbyted)Mgaycnofwgadpginkpmfratlofty()hsormeprw,adbyted;o)Pgadcgwhtersofawep,usteili.Yrtnnn()ysofa.Ortnsr()ysofa.Mycdaspyormyutf.P]
+[DELETED: .Aptorcrrefrteceofadtcdyrtnsx()ysofa.Aptorcrpypgtecefdtcdwhassmlcnorwh,asddbyted.Rgutcnadcgwkrsasptoftefeuns;o.Pginadganoraltdrnp)Tedth,whflalifn,aseefrmdurtssnwoheamdgsieatoraeoehdpt()ofteflpylltoreteaepmtxcttopqdhhpnthteIohhieedbycr6,te4,IoC,idofegi,etttapnmycetoelinmdifrgteaepmtxcttopeaqhp)Tedtisanetc,whflafn,ttlsetataygntefrpsidintssntotelro)Fytd()p;o)Atlrdbytesmofasedinmoaeddororse()ysofa)Tedthsmdamdirptreoept()orl,ascdbyblmyvsohteseadteheofrshhadwec,bdonarwttsliebtisntldtoddbytedttotecsadtoteUdStofhhadhns)Tedth,whflalifn,sstorweyaybdonaeinadtouepdf)Tedth,whflalifn,idalebtltoftx()msfrpdintssncgoytestintteyc)Tedth,whflalifn,idblrnfrpsidintss)Tedth,whflalifn,llpeeydstocnadptw)Tedtisapyrgttnofsslbdtoflayctorcltnwhayheprorhhcefyurtetsofwhshceprorhhcefyastopesdursn1,IoC;a]
+[DELETED: )Tedtisapyrgttnofsslbdtoflaygrrtp,igttadsyfrayrten()ysofaeorodactietersofgrrtfdp,itslbecdavnoftecsoftesep)Nolrtnny()dsaraloftsatO,2,tedtslstaynysepnarwrrstoteUdSsdtofhhadh,csfrmeadmdsstoittepsoftss.Tedtisrdadadtotlasnytoittepsoftssnassna.Tedtisrdtonyteseadtehfrshhadwecswnty()dsoes,a,r,orwlofayflwtorsepnatsdtocyottepsoft.Inteetttaycsfreyenun()oftssnaentmtbyJy1,2,tedlteeyfrpsddinsn()oftnnolrtnOr1,2.Inteetttalcdfreyenursn()oftssnatbyJy1,2,btaentmtatayptt,tedlteeyfrpsddinsn()oftnwnny()dsartedeshcsaentm)AnilisetfmtepsoftssniftlisanAnInorAanewoiseefrssthteInhhseorthatlpmpoteInsnadenaeatorteIhceita)Eyfrmdasddintssnslntbdiftecsfrmeadmdssfltoaeasoftesepnfrwhtedta,nrslsybeddwetedtiscgornywstotesep.Tedtslntitaywtwdrtinarninflflpnfrpsidinsn()oftssnbwtenyp)ctddinsn1)ofteslsya)Ifsn1)ofteslsyatishdulolbyteUdSssec,tntelldetssntoben,v,adofnofeade)Ifflflpnfrpsidinsn()oftssnisrdbwtenypt()ctddinsn1)ofteslsya,tntesdheofrshhadwecss,assna,rwteesofshrnadmearoteleastowrmdeyensdrnine.Terwadrnddintsslbecdbytedeofatofterrlesnfgtedeofrninflflp)Ted]
+[DELETED: )Slpealpspginmdpttssninacemtpmadurs,IoC,orinarmdcepmtoietyoftrc,toteetp;a)Isadtoskayflalnytoiepsoftss)NolrtnJy31inte23les,teseadheofrshhadwecsslrlf,h,adorisofmdeyenpttotssnadslmearntoteleaowrshensdrnineN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

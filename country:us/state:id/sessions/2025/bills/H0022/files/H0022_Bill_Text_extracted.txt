@@ -1,0 +1,515 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 22
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-202, IDAHO CODE, TO PROVIDE
+3 FOR CERTAIN DATA SECURITY COMPLIANCE TRAINING; AND DECLARING AN EMER-
+4 GENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 49-202, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 49-202. DUTIES OF DEPARTMENT. (1) All registration and driver's li-
+9 cense records in the office of the department shall be public records and
+10 open to inspection by the public during normal business hours, except for
+11 those records declared by law to be for the confidential use of the depart-
+12 ment, or those records containing personal information subject to restric-
+13 tions or conditions regarding disclosure. If the department has contracted
+14 for a service to be provided by another entity, an additional fee shall be
+15 charged by that contractor whether the service is rendered during normal
+16 business hours, other than normal business hours or on weekends.
+17 (2) In addition to other fees required by law to be collected by the de-
+18 partment, the department shall collect the following:
+19 (a) For certifying a copy of any record pertaining to any vehicle li-
+20 cense, any certificate of title, or any driver's license ....... $14.00
+21 (b) For issuing every Idaho certificate of title .............. $14.00
+22 (c) For furnishing a duplicate copy of any Idaho certificate
+23 of title ................................................... $14.00
+24 (d) For issuance or transfer of every certificate of title on a new or
+25 used vehicle or other titled vehicle in an expedited manner (rush ti-
+26 tles), in addition to any other fee required by this section .... $26.00
+27 (e) For recording a transitional ownership document, in addition to any
+28 other fee required by this section ........................... $26.00
+29 (f) For furnishing a replacement of any receipt
+30 of registration ............................................. $5.00
+31 (g) For furnishing copies of registration or ownership of motor vehi-
+32 cles or driver's license records, per vehicle registration, accident
+33 report records, title or per driver's license record ........... $7.00
+34 Additional contractor fee, not to exceed ...................... $4.00
+35 (h) For services in searching files of vehicle or other
+36 registrations, vehicle titles, or driver's licenses per hour .. $18.00
+37 (i) Placing "stop" cards in vehicle registration or title
+38 files, each ................................................ $21.00
+39 (j) For issuance of an assigned or replacement vehicle
+40 identification number (VIN) ................................. $18.00
+2
+1 (k) For a vehicle identification number (VIN) inspection whether con-
+2 ducted by a city or county peace officer or any other peace officer or
+3 designated agent of the state of Idaho, per inspection .......... $5.00
+4 (l) For all replacement registration stickers, each ........... $2.00
+5 (m) For issuing letters of temporary vehicle clearance
+6 to Idaho-based motor carriers ............................... $18.00
+7 (n) For all sample license plates, each .......................$21.00
+8 (o) For filing release of liability statements ................ $3.50
+9 (p) For safety and insurance programs for each vehicle operated
+10 by a motor carrier ........................................... $3.00
+11 A lesser amount may be set by rule of the board.
+12 (3) The fees required in this section shall not apply when the service
+13 is furnished to any federal, state, county or city peace officer when such
+14 service is required in the performance of their duties as peace officers.
+15 (4) The department may enter into agreements with private companies or
+16 public entities to provide the services for which a fee is collected in sub-
+17 section (2)(g) of this section. Such private contractor shall collect the
+18 fee prescribed and remit the fee to the department. The contractor shall
+19 also collect and retain the additional fee charged for his services.
+20 (5)(a) The department shall pay three dollars ($3.00) of the fee col-
+21 lected by a county assessor or other authorized agent of the department
+22 as provided in subsection (2)(a) through (f) of this section, and four
+23 dollars ($4.00) as provided in subsection (2)(g) of this section, to
+24 the county assessor or sheriff of the county or authorized agent of
+25 the department collecting such fee, which shall be deposited with the
+26 county treasurer and credited to the county current expense fund when
+27 collected by the county. When fees are collected by the department or an
+28 authorized agent of the department, such fees shall be deposited with
+29 the issuing entity. The remainder of the fees collected as provided in
+30 that subsection shall be paid by the department to the state treasurer
+31 and placed in the state highway account.
+32 (b) The fee collected under subsection (2)(k) of this section for a VIN
+33 inspection shall be placed in the city general fund if conducted by a
+34 city peace officer, in the county current expense fund if conducted by a
+35 county peace officer, shall be retained by the special agent authorized
+36 to perform the inspection, or paid to the state treasurer and placed to
+37 the credit of the Idaho state police if conducted by the Idaho state po-
+38 lice or in the state highway account if conducted by the department.
+39 (c) The fee collected under subsection (2)(o) of this section for fil-
+40 ing release of liability statements shall be retained by the county as-
+41 sessor of the county collecting such fee and shall be deposited with the
+42 county treasurer and credited to the county current expense fund. Any
+43 fees collected by the department for filing release of liability state-
+44 ments shall be retained by the department. However, the fees provided
+45 for in subsection (2)(o) of this section shall not apply when a transac-
+46 tion is filed electronically with the department.
+47 (d) The fee in subsection (2)(m) of this section shall not apply when
+48 the Idaho-based motor carrier or its representative obtains and prints
+49 the document using internet access.
+3
+1 (e) The fee collected under subsection (2)(p) of this section for mo-
+2 tor carriers shall be paid by the department to the state treasurer and
+3 placed in the state highway account. The director and the director of
+4 the Idaho state police shall jointly determine the amount to be trans-
+5 ferred from the state highway account to the law enforcement fund for
+6 motor carrier safety programs conducted by the Idaho state police pur-
+7 suant to the provisions of section 67-2901A, Idaho Code.
+8 (6) The department as often as practicable may provide to law enforce-
+9 ment agencies the record of suspensions and revocations of driver licenses
+10 via the public safety and security information system (ILETS).
+11 (7) The department shall provide the forms prescribed in chapter 5 of
+12 this title, shall receive and file in its office in Ada county all instru-
+13 ments required in chapter 5 of this title to be filed with the department,
+14 shall prescribe a uniform method of numbering certificates of title, and
+15 shall maintain in the department indices for such certificates of title. All
+16 indices shall be by motor or identification number and alphabetical by name
+17 of the owner.
+18 (8) The department shall file each registration received under a
+19 distinctive registration number assigned to the vehicle and to the owner
+20 thereof.
+21 (9) The department shall not renew a driver's license or identification
+22 card when fees required by law have not been paid or where fees for past pe-
+23 riods are due, owing and unpaid including insufficient fund checks, until
+24 those fees have been paid.
+25 (10) The department shall not grant the registration of a vehicle when:
+26 (a) The applicant is not entitled to registration under the provisions
+27 of this title; or
+28 (b) The applicant has neglected or refused to furnish the department
+29 with the information required in the appropriate form or reasonable ad-
+30 ditional information required by the department; or
+31 (c) The fees required by law have not been paid, or where fees for past
+32 registration periods are due, owing and unpaid including insufficient
+33 fund checks.
+34 (11) The department or its authorized agents have the authority to re-
+35 quest any person to submit to medical, vision, highway, or written examina-
+36 tions, to protect the safety of the public upon the highways. The depart-
+37 ment or its authorized agents may exercise such authority based upon evi-
+38 dence which may include, but is not limited to, observations made.
+39 (12) The department shall revoke the registration of any vehicle:
+40 (a) Which the department shall determine is unsafe or unfit to be oper-
+41 ated or is not equipped as required by law;
+42 (b) Whenever the person to whom the registration card or registration
+43 plate has been issued shall make or permit to be made any unlawful use of
+44 the same or permit their use by a person not entitled thereto;
+45 (c) For any violation of vehicle registration requirements by the owner
+46 or operator in the current or past registration periods;
+47 (d) Whenever a motor carrier requests revocation, or whenever an inter-
+48 state carrier's federal operating authority has been revoked;
+49 (e) For failure of the owner or operator to file the reports required
+50 or nonpayment of audit assessments or fees assessed against the owner by
+4
+1 the department or the state tax commission pursuant to audit under the
+2 provisions of section 49-439, Idaho Code;
+3 (f) Identified by any city or county administering a program estab-
+4 lished by ordinance for the inspection and readjustment of motor vehi-
+5 cles (which program is part of an approved state implementation plan
+6 adopted by both the state and federal governments under 42 U.S.C. 7410)
+7 as having failed to comply with an ordinance requiring motor vehicle
+8 emission inspection and readjustment; provided that no vehicle shall be
+9 identified to the department under this subsection unless:
+10 (i) The city or county certifies to the department that the owner
+11 of the motor vehicle has been given notice and had the opportunity
+12 for a hearing concerning compliance with the ordinance and has ex-
+13 hausted all remedies and appeals from any determination made at
+14 such hearing; and
+15 (ii) The city or county reimburses the department for all direct
+16 costs associated with the registration revocation procedure.
+17 (13) The department shall not reregister or permit a vehicle to oper-
+18 ate on a special trip permit until all fees, penalties and interest have been
+19 paid.
+20 (14) The department shall institute educational programs, demonstra-
+21 tions, exhibits and displays.
+22 (15) The department shall cancel a driver's license or identification
+23 card when fees required by law have not been paid or where fees are due, owing
+24 and unpaid including insufficient fund checks, until those fees have been
+25 paid.
+26 (16) The department shall examine persons and vehicles by written,
+27 oral, vision and skills tests without compulsion except as provided by law.
+28 (17) The department shall employ expert and special help as needed in
+29 the department.
+30 (18) The department shall compile accident statistics and disseminate
+31 information relating to those statistics.
+32 (19) The department shall cooperate with the United States in the elimi-
+33 nation of road hazards, whether of a physical, visual or mental character.
+34 (20) The department shall place and maintain traffic-control devices,
+35 conforming to the board's manual and specifications, upon all state highways
+36 as it shall deem necessary to indicate and to carry out the provisions of this
+37 title or to regulate, warn, or guide traffic. No local authority shall place
+38 or maintain any traffic-control device upon any highway under the jurisdic-
+39 tion of the department except by the latter's permission. The placement and
+40 maintenance of such a traffic-control device by a local authority shall be
+41 made according to the board's manual and specifications for a uniform system
+42 of traffic-control devices.
+43 (21) The department may conduct an investigation of any bridge or other
+44 elevated structure constituting a part of a highway, and, if it shall find
+45 that the structure cannot with safety to itself withstand vehicles travel-
+46 ing at a speed otherwise permissible under this title, shall determine and
+47 declare the maximum speed of vehicles which the structure can safely with-
+48 stand, and shall cause or permit suitable signs stating the maximum speed to
+49 be erected and maintained before each end of the structure.
+5
+1 (22) Whenever the department shall determine on the basis of an engi-
+2 neering and traffic investigation that slow speeds on any highway or part of
+3 a highway impede the normal and reasonable movement of traffic, the depart-
+4 ment may determine and declare a minimum speed limit below which no person
+5 shall drive a vehicle except when necessary for safe operation or in compli-
+6 ance with law, and that limit shall be effective when posted upon appropriate
+7 fixed or variable signs.
+8 (23) The department shall regulate or prohibit the use of any con-
+9 trolled-access highway by any class or kind of traffic which is found to be
+10 incompatible with the normal and safe movement of traffic.
+11 (24) The department shall erect and maintain traffic-control devices on
+12 controlled-access highways on which any prohibitions are applicable.
+13 (25) The department and local authorities are authorized to determine
+14 those portions of any highway under their respective jurisdictions where
+15 overtaking and passing or driving on the left side of the roadway would be
+16 especially hazardous and may by appropriate signs or markings on the roadway
+17 indicate the beginning and end of those zones and when signs or markings are
+18 in place and clearly visible to an ordinarily observant person, every driver
+19 of a vehicle shall obey those directions.
+20 (26) The department and local authorities in their respective juris-
+21 dictions may in their discretion issue special permits authorizing the
+22 operation upon a highway of traction engines or tractors having movable
+23 tracks with transverse corrugations upon the periphery of the movable tracks
+24 or farm tractors or other farm machinery, the operation of which upon a high-
+25 way would otherwise be prohibited under this title or title 40, Idaho Code.
+26 (27) The department and local highway authorities within their respec-
+27 tive jurisdictions may place official traffic-control devices prohibiting,
+28 limiting or restricting the stopping, standing or parking of vehicles on any
+29 highway where such stopping, standing or parking is dangerous to those using
+30 the highway or where the stopping, standing or parking of vehicles unduly in-
+31 terferes with the free movement of traffic thereon.
+32 (28) On any informational material printed after July 1, 1995, by or at
+33 the order of the department and distributed to counties, school districts
+34 or individuals for the purpose of assisting a person to successfully pass
+35 a driver's license test, the department shall include material about the
+36 state's open range law and responsibilities, liabilities and obligations of
+37 drivers driving in the open range.
+38 (29) All employees, agents, and contractors of the department who have
+39 access to the source systems used by the division of motor vehicles shall be
+40 required to complete data security compliance training and to pass a federal
+41 bureau of investigation criminal background check. The department shall ad-
+42 minister access to and provide for the training required pursuant to this
+43 subsection.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YTNADDECNAGTOMRV;AGSN4,IOC,TOPRCNDASYCET;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DSOFD.()Alrnaddslersinteoeoftedtslbepcrsantoinbytepcdgnlbsh,etfersddbylwtobefrteclueofted,orterscgplinsttorsorcsrgd.Iftedthscrasetobepdbyare,analfeslbdbyttcrwrteseisrddgnsh,ortnnlbshsoronw)Inantoorfsrdbylwtobecdbyted,tedtslcttef)Frcgacyofayrdpgtoayvel,ayceoft,oraydsle..$)FrigeyIoceofte..$)FrfgadecyofayIocfte..$)Frieortrofeyceofteonanwodveorortdveinanedmr(ht,inantoayorferdbytssn..$)Frrgatlopd,inantoarferdbytssn..$)Frfgartofayrfrn..$)Frfgcsofrnoropofmrvsordsler,prver,atr,teorprdslerd..$lcrf,nttoed..$)Frssinsgfsofveoro,vet,ordslsprhr..$)Pg""csinvernort,eh..$)Frieofanadorrtvnnr()..$]
+[DELETED: )Fraveinnr()inwrcdbyacyorcypeororayorpeorodatofteseofI,prin..$)Fralrtrns,eh..$)FriglsoftyvecoIdmrcs..$)Fralselep,eh.)Frfgreoflyss..$)Frsyadiepsfrehveoyamrcr..$lratmybestbyreofteb)Tefsrdintssnslntaywntessfdtoayf,s,cyorcypeorwnseisrdintepeoftrdsaspeo)Tedtmyerioaswhpecsocestopetessfrwhafeiscdinsn()oftss.Shpecrslcttepdadrttefetoted.Tecrsoctadrntealfecdfrhss)Tedtslpyteds()oftefecdbyacyarororadatoftedspdinsn()th()oftss,adfs()aspdinsn()oftss,tecyarorsfoftecyoradatoedtcgshf,whslbeddwhtytradcdtotecycteefdwdbytec.Wnfsaecdbytedtoradatofted,shfsslbeddweige.Terroftefscdaspditsnslbepdbytedttotesetdpdintesehya)Tefecdursn()oftssnfraVnslbepdintecyglfdifcdbyypeo,intecycteefdifcdbyypeo,slberdbyteslataopmtei,orpdtotesetradpdtectofteIosepeifcdbyteIosepeorintesehyatifcdbyted)Tefecdursn()oftssnfrfgreoflyssslberdbytecyaroftecycgshfeadslbeddwhtytradcdtotecycteef.Ascdbytedtfrfgreoflyssslberdbyted.H,tefsprinsn()oftssnslntaywnatnisfdeywhted)Tefeinsn()oftssnslntayweIdmrcrorisreosadpedtugita]
+[DELETED: )Tefecdursn()oftssnfrmrcsslbepdbytedttotesetradintesehya.TedradtedroeIosepesljydeteattobetdfmtesehyattotelwetfdfrcrsypscdbyteIosepepttotepsofsn6,IoC)Tedtasonaspemypetolwetasterdofssadrsofdrlatepcsyadsyinsm()Tedtslpetefspdincr5ost,slreadfeinisoeinAacyalisrdincr5oftstetobefdwhtedlpeaummdofngcsoft,almnintedtisfrshcsoft.Asslbebymrorinnradalbynfteo)Tedtslfeehrnrdurernnradtoteveadtoteo)Tedtslntrwadsleoridwnfsrdbylwhentbnpdorwefsfrptpsaed,ogadudigitfdc,uefshebnp)Tedtslntgtternofavew)Teatisntedtornurtepftst;o)Teathsndorrdtofhtedhteinrdinteaefmorrealinrdbyted;o)Tefsrdbylwhentbnp,orwefsfrpnpsaed,ogadudigidc)Tedtorisadasheteaytortaypntosttom,v,h,orwne,topttesyoftepcunteh.Tedtorisadasmyeeshaybduneewhmyi,btisntldt,osm)Tedtslreternofayv)Whtedtsldeisueoruttobeodorisntedasrdbyl)Wrtepntowmterncdorrehsbnidslmeorpttobemeayulueoeseorpttruebyapnntedt)Frayvnofvernrsbyteororintectorptrnp)Wramrcrrsr,orwraniecsflogayhsbnr)Frfeofteororortofetersrrntofatasorfsadatteorb]
+[DELETED: edtortesetxcnpttoaturtsofsn4,IoC)Idbyaycyorcyagapmedbyoefrteinadrtofmrvs(hpmisptofanadseinpdbybhteseadflgsur42U.7shgfdtocywhanoergmrvninadr;pdttnoveslbdtotedturtssnu)Tecyorcycstotedtttteoftemrvehsbngnneadhdteorahgcgcewhteoeadhsedalrsadasfmaydnmeahh;a)Tecyorcyrstedtfraldsadwhternrnp)Tedtslntrrorptavetooeonasltpptulalf,psaditheb)Tedtslieelp,d,esadd)Tedtslcladsleoridwnfsrdbylwhentbnpdorwefsaed,odudigitfdc,ultefsheb)Tedtsleepsadvsbyw,vnadsstswtcnetaspdbyl)Tedtsleyetadslhpasndied)Tedtslceatssaddnrgtotes)TedtslcewhteUdSsinteenofrdh,wrofap,vlormlc)Tedtslpeadmntldgtotebsmlads,unalsehsitsldmnytoieadtocyottepsofteortor,w,orget.Nollayslprmnaytldeunayhyurtejnoftedtetbytelsp.Teptaeofshatldebyallayslbeagtotebsmladssfraumsftld)Tedtmyctaninofaybeorodsecgaptofah,a,ifitslfttesectwhsytoifwdvstgatasdoepeurtst,sldeaetemmsdofvswhtesecnsyw,adslceorptsesssgtemmsdteedadmdbeehedoftes]
+[DELETED: )Wrtedtsldeontebsofanegadtcinttswssonayhyorptohyietenladremtoft,tedtmydeaddeammsdltbwwhnopldeaveetwnnyfrseonorincewhl,adttltslbeeewnpdunadorves)Tedtslreorptteueofaycshybyaycsorkdoftcwhisfdtobewhtenladsemtoft)Tedtsletadmntldsoshsonwhaypsaea)Tedtadllasaeadtodepsofayhyurtrrejswgadpgordgonteltseofterywdbyhsadmybyaessormsonteretebgadedoftezsadwnssormsanpeadcyvetoanoyotp,eydfavesloyted)Tedtadllasintrrejsmyintrdnieslpsagtnunahyoftnesortshgmswhtecsuntepyoftemetrfmtsororfmm,teonofwhunahywdoebepdurtsteorte4,IoC)Tedtadllhyaswntrrejsmypeoltldspgorrgtes,sgorpgofvsonayweshs,sgorpgisdstoteuehyorwetes,sgorpgofvsuyiswhtefemtoftct)OnayilmlpdarJy1,1,byoraeoroftedtadddtoc,sldrisfrtepeofagapntosypdslet,tedtsliemlattsonrelwadr,lsadososdginteonr)Ale,a,adcsoftedtwohstotesessudbytednofmrvsslbdtocedasycetgadtopsafuofinclbdc.TedtslarastoadpefrtetgrdpttotN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 22
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-202, IDAHO CODE, TO PROVIDE
+3 FOR CERTAIN DATA SECURITY COMPLIANCE TRAINING; AND DECLARING AN EMER-
+4 GENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 49-202, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 49-202. DUTIES OF DEPARTMENT. (1) All registration and driver's li-
+9 cense records in the office of the department shall be public records and
+10 open to inspection by the public during normal business hours, except for
+11 those records declared by law to be for the confidential use of the depart-
+12 ment, or those records containing personal information subject to restric-
+13 tions or conditions regarding disclosure. If the department has contracted
+14 for a service to be provided by another entity, an additional fee shall be
+15 charged by that contractor whether the service is rendered during normal
+16 business hours, other than normal business hours or on weekends.
+17 (2) In addition to other fees required by law to be collected by the de-
+18 partment, the department shall collect the following:
+19 (a) For certifying a copy of any record pertaining to any vehicle li-
+20 cense, any certificate of title, or any driver's license ....... $14.00
+21 (b) For issuing every Idaho certificate of title .............. $14.00
+22 (c) For furnishing a duplicate copy of any Idaho certificate
+23 of title ................................................... $14.00
+24 (d) For issuance or transfer of every certificate of title on a new or
+25 used vehicle or other titled vehicle in an expedited manner (rush ti-
+26 tles), in addition to any other fee required by this section .... $26.00
+27 (e) For recording a transitional ownership document, in addition to any
+28 other fee required by this section ........................... $26.00
+29 (f) For furnishing a replacement of any receipt
+30 of registration ............................................. $5.00
+31 (g) For furnishing copies of registration or ownership of motor vehi-
+32 cles or driver's license records, per vehicle registration, accident
+33 report records, title or per driver's license record ........... $7.00
+34 Additional contractor fee, not to exceed ...................... $4.00
+35 (h) For services in searching files of vehicle or other
+36 registrations, vehicle titles, or driver's licenses per hour .. $18.00
+37 (i) Placing "stop" cards in vehicle registration or title
+38 files, each ................................................ $21.00
+39 (j) For issuance of an assigned or replacement vehicle
+40 identification number (VIN) ................................. $18.00
+
+2
+1 (k) For a vehicle identification number (VIN) inspection whether con-
+2 ducted by a city or county peace officer or any other peace officer or
+3 designated agent of the state of Idaho, per inspection .......... $5.00
+4 (l) For all replacement registration stickers, each ........... $2.00
+5 (m) For issuing letters of temporary vehicle clearance
+6 to Idaho-based motor carriers ............................... $18.00
+7 (n) For all sample license plates, each .......................$21.00
+8 (o) For filing release of liability statements ................ $3.50
+9 (p) For safety and insurance programs for each vehicle operated
+10 by a motor carrier ........................................... $3.00
+11 A lesser amount may be set by rule of the board.
+12 (3) The fees required in this section shall not apply when the service
+13 is furnished to any federal, state, county or city peace officer when such
+14 service is required in the performance of their duties as peace officers.
+15 (4) The department may enter into agreements with private companies or
+16 public entities to provide the services for which a fee is collected in sub-
+17 section (2)(g) of this section. Such private contractor shall collect the
+18 fee prescribed and remit the fee to the department. The contractor shall
+19 also collect and retain the additional fee charged for his services.
+20 (5)(a) The department shall pay three dollars ($3.00) of the fee col-
+21 lected by a county assessor or other authorized agent of the department
+22 as provided in subsection (2)(a) through (f) of this section, and four
+23 dollars ($4.00) as provided in subsection (2)(g) of this section, to
+24 the county assessor or sheriff of the county or authorized agent of
+25 the department collecting such fee, which shall be deposited with the
+26 county treasurer and credited to the county current expense fund when
+27 collected by the county. When fees are collected by the department or an
+28 authorized agent of the department, such fees shall be deposited with
+29 the issuing entity. The remainder of the fees collected as provided in
+30 that subsection shall be paid by the department to the state treasurer
+31 and placed in the state highway account.
+32 (b) The fee collected under subsection (2)(k) of this section for a VIN
+33 inspection shall be placed in the city general fund if conducted by a
+34 city peace officer, in the county current expense fund if conducted by a
+35 county peace officer, shall be retained by the special agent authorized
+36 to perform the inspection, or paid to the state treasurer and placed to
+37 the credit of the Idaho state police if conducted by the Idaho state po-
+38 lice or in the state highway account if conducted by the department.
+39 (c) The fee collected under subsection (2)(o) of this section for fil-
+40 ing release of liability statements shall be retained by the county as-
+41 sessor of the county collecting such fee and shall be deposited with the
+42 county treasurer and credited to the county current expense fund. Any
+43 fees collected by the department for filing release of liability state-
+44 ments shall be retained by the department. However, the fees provided
+45 for in subsection (2)(o) of this section shall not apply when a transac-
+46 tion is filed electronically with the department.
+47 (d) The fee in subsection (2)(m) of this section shall not apply when
+48 the Idaho-based motor carrier or its representative obtains and prints
+49 the document using internet access.
+
+3
+1 (e) The fee collected under subsection (2)(p) of this section for mo-
+2 tor carriers shall be paid by the department to the state treasurer and
+3 placed in the state highway account. The director and the director of
+4 the Idaho state police shall jointly determine the amount to be trans-
+5 ferred from the state highway account to the law enforcement fund for
+6 motor carrier safety programs conducted by the Idaho state police pur-
+7 suant to the provisions of section 67-2901A, Idaho Code.
+8 (6) The department as often as practicable may provide to law enforce-
+9 ment agencies the record of suspensions and revocations of driver licenses
+10 via the public safety and security information system (ILETS).
+11 (7) The department shall provide the forms prescribed in chapter 5 of
+12 this title, shall receive and file in its office in Ada county all instru-
+13 ments required in chapter 5 of this title to be filed with the department,
+14 shall prescribe a uniform method of numbering certificates of title, and
+15 shall maintain in the department indices for such certificates of title. All
+16 indices shall be by motor or identification number and alphabetical by name
+17 of the owner.
+18 (8) The department shall file each registration received under a
+19 distinctive registration number assigned to the vehicle and to the owner
+20 thereof.
+21 (9) The department shall not renew a driver's license or identification
+22 card when fees required by law have not been paid or where fees for past pe-
+23 riods are due, owing and unpaid including insufficient fund checks, until
+24 those fees have been paid.
+25 (10) The department shall not grant the registration of a vehicle when:
+26 (a) The applicant is not entitled to registration under the provisions
+27 of this title; or
+28 (b) The applicant has neglected or refused to furnish the department
+29 with the information required in the appropriate form or reasonable ad-
+30 ditional information required by the department; or
+31 (c) The fees required by law have not been paid, or where fees for past
+32 registration periods are due, owing and unpaid including insufficient
+33 fund checks.
+34 (11) The department or its authorized agents have the authority to re-
+35 quest any person to submit to medical, vision, highway, or written examina-
+36 tions, to protect the safety of the public upon the highways. The depart-
+37 ment or its authorized agents may exercise such authority based upon evi-
+38 dence which may include, but is not limited to, observations made.
+39 (12) The department shall revoke the registration of any vehicle:
+40 (a) Which the department shall determine is unsafe or unfit to be oper-
+41 ated or is not equipped as required by law;
+42 (b) Whenever the person to whom the registration card or registration
+43 plate has been issued shall make or permit to be made any unlawful use of
+44 the same or permit their use by a person not entitled thereto;
+45 (c) For any violation of vehicle registration requirements by the owner
+46 or operator in the current or past registration periods;
+47 (d) Whenever a motor carrier requests revocation, or whenever an inter-
+48 state carrier's federal operating authority has been revoked;
+49 (e) For failure of the owner or operator to file the reports required
+50 or nonpayment of audit assessments or fees assessed against the owner by
+
+4
+1 the department or the state tax commission pursuant to audit under the
+2 provisions of section 49-439, Idaho Code;
+3 (f) Identified by any city or county administering a program estab-
+4 lished by ordinance for the inspection and readjustment of motor vehi-
+5 cles (which program is part of an approved state implementation plan
+6 adopted by both the state and federal governments under 42 U.S.C. 7410)
+7 as having failed to comply with an ordinance requiring motor vehicle
+8 emission inspection and readjustment; provided that no vehicle shall be
+9 identified to the department under this subsection unless:
+10 (i) The city or county certifies to the department that the owner
+11 of the motor vehicle has been given notice and had the opportunity
+12 for a hearing concerning compliance with the ordinance and has ex-
+13 hausted all remedies and appeals from any determination made at
+14 such hearing; and
+15 (ii) The city or county reimburses the department for all direct
+16 costs associated with the registration revocation procedure.
+17 (13) The department shall not reregister or permit a vehicle to oper-
+18 ate on a special trip permit until all fees, penalties and interest have been
+19 paid.
+20 (14) The department shall institute educational programs, demonstra-
+21 tions, exhibits and displays.
+22 (15) The department shall cancel a driver's license or identification
+23 card when fees required by law have not been paid or where fees are due, owing
+24 and unpaid including insufficient fund checks, until those fees have been
+25 paid.
+26 (16) The department shall examine persons and vehicles by written,
+27 oral, vision and skills tests without compulsion except as provided by law.
+28 (17) The department shall employ expert and special help as needed in
+29 the department.
+30 (18) The department shall compile accident statistics and disseminate
+31 information relating to those statistics.
+32 (19) The department shall cooperate with the United States in the elimi-
+33 nation of road hazards, whether of a physical, visual or mental character.
+34 (20) The department shall place and maintain traffic-control devices,
+35 conforming to the board's manual and specifications, upon all state highways
+36 as it shall deem necessary to indicate and to carry out the provisions of this
+37 title or to regulate, warn, or guide traffic. No local authority shall place
+38 or maintain any traffic-control device upon any highway under the jurisdic-
+39 tion of the department except by the latter's permission. The placement and
+40 maintenance of such a traffic-control device by a local authority shall be
+41 made according to the board's manual and specifications for a uniform system
+42 of traffic-control devices.
+43 (21) The department may conduct an investigation of any bridge or other
+44 elevated structure constituting a part of a highway, and, if it shall find
+45 that the structure cannot with safety to itself withstand vehicles travel-
+46 ing at a speed otherwise permissible under this title, shall determine and
+47 declare the maximum speed of vehicles which the structure can safely with-
+48 stand, and shall cause or permit suitable signs stating the maximum speed to
+49 be erected and maintained before each end of the structure.
+
+5
+1 (22) Whenever the department shall determine on the basis of an engi-
+2 neering and traffic investigation that slow speeds on any highway or part of
+3 a highway impede the normal and reasonable movement of traffic, the depart-
+4 ment may determine and declare a minimum speed limit below which no person
+5 shall drive a vehicle except when necessary for safe operation or in compli-
+6 ance with law, and that limit shall be effective when posted upon appropriate
+7 fixed or variable signs.
+8 (23) The department shall regulate or prohibit the use of any con-
+9 trolled-access highway by any class or kind of traffic which is found to be
+10 incompatible with the normal and safe movement of traffic.
+11 (24) The department shall erect and maintain traffic-control devices on
+12 controlled-access highways on which any prohibitions are applicable.
+13 (25) The department and local authorities are authorized to determine
+14 those portions of any highway under their respective jurisdictions where
+15 overtaking and passing or driving on the left side of the roadway would be
+16 especially hazardous and may by appropriate signs or markings on the roadway
+17 indicate the beginning and end of those zones and when signs or markings are
+18 in place and clearly visible to an ordinarily observant person, every driver
+19 of a vehicle shall obey those directions.
+20 (26) The department and local authorities in their respective juris-
+21 dictions may in their discretion issue special permits authorizing the
+22 operation upon a highway of traction engines or tractors having movable
+23 tracks with transverse corrugations upon the periphery of the movable tracks
+24 or farm tractors or other farm machinery, the operation of which upon a high-
+25 way would otherwise be prohibited under this title or title 40, Idaho Code.
+26 (27) The department and local highway authorities within their respec-
+27 tive jurisdictions may place official traffic-control devices prohibiting,
+28 limiting or restricting the stopping, standing or parking of vehicles on any
+29 highway where such stopping, standing or parking is dangerous to those using
+30 the highway or where the stopping, standing or parking of vehicles unduly in-
+31 terferes with the free movement of traffic thereon.
+32 (28) On any informational material printed after July 1, 1995, by or at
+33 the order of the department and distributed to counties, school districts
+34 or individuals for the purpose of assisting a person to successfully pass
+35 a driver's license test, the department shall include material about the
+36 state's open range law and responsibilities, liabilities and obligations of
+37 drivers driving in the open range.
+38 (29) All employees, agents, and contractors of the department who have
+39 access to the source systems used by the division of motor vehicles shall be
+40 required to complete data security compliance training and to pass a federal
+41 bureau of investigation criminal background check. The department shall ad-
+42 minister access to and provide for the training required pursuant to this
+43 subsection.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YTNADDECNAGTOMRV;AGSN4,IOC,TOPRCNDASYCET;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.DSOFD.()Alrnaddslersinteoeoftedtslbepcrsantoinbytepcdgnlbsh,etfersddbylwtobefrteclueofted,orterscgplinsttorsorcsrgd.Iftedthscrasetobepdbyare,analfeslbdbyttcrwrteseisrddgnsh,ortnnlbshsoronw)Inantoorfsrdbylwtobecdbyted,tedtslcttef)Frcgacyofayrdpgtoayvel,ayceoft,oraydsle..$)FrigeyIoceofte..$)FrfgadecyofayIocfte..$)Frieortrofeyceofteonanwodveorortdveinanedmr(ht,inantoayorferdbytssn..$)Frrgatlopd,inantoarferdbytssn..$)Frfgartofayrfrn..$)Frfgcsofrnoropofmrvsordsler,prver,atr,teorprdslerd..$lcrf,nttoed..$)Frssinsgfsofveoro,vet,ordslsprhr..$)Pg""csinvernort,eh..$)Frieofanadorrtvnnr()..$]
+[DELETED: )Fraveinnr()inwrcdbyacyorcypeororayorpeorodatofteseofI,prin..$)Fralrtrns,eh..$)FriglsoftyvecoIdmrcs..$)Fralselep,eh.)Frfgreoflyss..$)Frsyadiepsfrehveoyamrcr..$lratmybestbyreofteb)Tefsrdintssnslntaywntessfdtoayf,s,cyorcypeorwnseisrdintepeoftrdsaspeo)Tedtmyerioaswhpecsocestopetessfrwhafeiscdinsn()oftss.Shpecrslcttepdadrttefetoted.Tecrsoctadrntealfecdfrhss)Tedtslpyteds()oftefecdbyacyarororadatoftedspdinsn()th()oftss,adfs()aspdinsn()oftss,tecyarorsfoftecyoradatoedtcgshf,whslbeddwhtytradcdtotecycteefdwdbytec.Wnfsaecdbytedtoradatofted,shfsslbeddweige.Terroftefscdaspditsnslbepdbytedttotesetdpdintesehya)Tefecdursn()oftssnfraVnslbepdintecyglfdifcdbyypeo,intecycteefdifcdbyypeo,slberdbyteslataopmtei,orpdtotesetradpdtectofteIosepeifcdbyteIosepeorintesehyatifcdbyted)Tefecdursn()oftssnfrfgreoflyssslberdbytecyaroftecycgshfeadslbeddwhtytradcdtotecycteef.Ascdbytedtfrfgreoflyssslberdbyted.H,tefsprinsn()oftssnslntaywnatnisfdeywhted)Tefeinsn()oftssnslntayweIdmrcrorisreosadpedtugita]
+[DELETED: )Tefecdursn()oftssnfrmrcsslbepdbytedttotesetradintesehya.TedradtedroeIosepesljydeteattobetdfmtesehyattotelwetfdfrcrsypscdbyteIosepepttotepsofsn6,IoC)Tedtasonaspemypetolwetasterdofssadrsofdrlatepcsyadsyinsm()Tedtslpetefspdincr5ost,slreadfeinisoeinAacyalisrdincr5oftstetobefdwhtedlpeaummdofngcsoft,almnintedtisfrshcsoft.Asslbebymrorinnradalbynfteo)Tedtslfeehrnrdurernnradtoteveadtoteo)Tedtslntrwadsleoridwnfsrdbylwhentbnpdorwefsfrptpsaed,ogadudigitfdc,uefshebnp)Tedtslntgtternofavew)Teatisntedtornurtepftst;o)Teathsndorrdtofhtedhteinrdinteaefmorrealinrdbyted;o)Tefsrdbylwhentbnp,orwefsfrpnpsaed,ogadudigidc)Tedtorisadasheteaytortaypntosttom,v,h,orwne,topttesyoftepcunteh.Tedtorisadasmyeeshaybduneewhmyi,btisntldt,osm)Tedtslreternofayv)Whtedtsldeisueoruttobeodorisntedasrdbyl)Wrtepntowmterncdorrehsbnidslmeorpttobemeayulueoeseorpttruebyapnntedt)Frayvnofvernrsbyteororintectorptrnp)Wramrcrrsr,orwraniecsflogayhsbnr)Frfeofteororortofetersrrntofatasorfsadatteorb]
+[DELETED: edtortesetxcnpttoaturtsofsn4,IoC)Idbyaycyorcyagapmedbyoefrteinadrtofmrvs(hpmisptofanadseinpdbybhteseadflgsur42U.7shgfdtocywhanoergmrvninadr;pdttnoveslbdtotedturtssnu)Tecyorcycstotedtttteoftemrvehsbngnneadhdteorahgcgcewhteoeadhsedalrsadasfmaydnmeahh;a)Tecyorcyrstedtfraldsadwhternrnp)Tedtslntrrorptavetooeonasltpptulalf,psaditheb)Tedtslieelp,d,esadd)Tedtslcladsleoridwnfsrdbylwhentbnpdorwefsaed,odudigitfdc,ultefsheb)Tedtsleepsadvsbyw,vnadsstswtcnetaspdbyl)Tedtsleyetadslhpasndied)Tedtslceatssaddnrgtotes)TedtslcewhteUdSsinteenofrdh,wrofap,vlormlc)Tedtslpeadmntldgtotebsmlads,unalsehsitsldmnytoieadtocyottepsofteortor,w,orget.Nollayslprmnaytldeunayhyurtejnoftedtetbytelsp.Teptaeofshatldebyallayslbeagtotebsmladssfraumsftld)Tedtmyctaninofaybeorodsecgaptofah,a,ifitslfttesectwhsytoifwdvstgatasdoepeurtst,sldeaetemmsdofvswhtesecnsyw,adslceorptsesssgtemmsdteedadmdbeehedoftes]
+[DELETED: )Wrtedtsldeontebsofanegadtcinttswssonayhyorptohyietenladremtoft,tedtmydeaddeammsdltbwwhnopldeaveetwnnyfrseonorincewhl,adttltslbeeewnpdunadorves)Tedtslreorptteueofaycshybyaycsorkdoftcwhisfdtobewhtenladsemtoft)Tedtsletadmntldsoshsonwhaypsaea)Tedtadllasaeadtodepsofayhyurtrrejswgadpgordgonteltseofterywdbyhsadmybyaessormsonteretebgadedoftezsadwnssormsanpeadcyvetoanoyotp,eydfavesloyted)Tedtadllasintrrejsmyintrdnieslpsagtnunahyoftnesortshgmswhtecsuntepyoftemetrfmtsororfmm,teonofwhunahywdoebepdurtsteorte4,IoC)Tedtadllhyaswntrrejsmypeoltldspgorrgtes,sgorpgofvsonayweshs,sgorpgisdstoteuehyorwetes,sgorpgofvsuyiswhtefemtoftct)OnayilmlpdarJy1,1,byoraeoroftedtadddtoc,sldrisfrtepeofagapntosypdslet,tedtsliemlattsonrelwadr,lsadososdginteonr)Ale,a,adcsoftedtwohstotesessudbytednofmrvsslbdtocedasycetgadtopsafuofinclbdc.TedtslarastoadpefrtetgrdpttotN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

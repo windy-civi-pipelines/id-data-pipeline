@@ -1,0 +1,936 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1088
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PSYCHOLOGISTS; AMENDING SECTION 54-2302, IDAHO CODE, TO DE-
+3 FINE A TERM; AMENDING SECTION 54-2304, IDAHO CODE, TO PROVIDE A RE-
+4 QUIREMENT FOR THE BOARD OF PSYCHOLOGIST EXAMINERS; AMENDING SECTION
+5 54-2305, IDAHO CODE, TO PROVIDE FOR COLLABORATION; AMENDING SECTION
+6 54-2307, IDAHO CODE, TO PROVIDE FOR A FINGERPRINT-BASED CRIMINAL HIS-
+7 TORY BACKGROUND CHECK AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+8 SECTION 54-2312, IDAHO CODE, TO PROVIDE FOR A FINGERPRINT-BASED CRIM-
+9 INAL HISTORY BACKGROUND CHECK; AMENDING SECTION 54-2312A, IDAHO CODE,
+10 TO PROVIDE FOR A FINGERPRINT-BASED CRIMINAL HISTORY BACKGROUND CHECK;
+11 REPEALING SECTION 54-2313, IDAHO CODE, RELATING TO THE UNAUTHORIZED
+12 PRACTICE OF MEDICINE; AMENDING SECTION 54-2316, IDAHO CODE, TO RE-
+13 VISE PROVISIONS REGARDING PRESCRIPTIVE AUTHORITY; AMENDING SECTION
+14 54-2317, IDAHO CODE, TO REVISE PROVISIONS REGARDING PRESCRIPTIVE AU-
+15 THORITY PROVISIONAL CERTIFICATION; AMENDING SECTION 54-2318, IDAHO
+16 CODE, TO REVISE PROVISIONS REGARDING CERTIFICATION FOR PRESCRIPTIVE
+17 AUTHORITY; REPEALING SECTION 54-2320, IDAHO CODE, RELATING TO AN AD-
+18 VISORY PANEL TO REVIEW AND ADVISE THE BOARD ON PROPOSED PRESCRIPTIVE
+19 RULES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+20 Be It Enacted by the Legislature of the State of Idaho:
+21 SECTION 1. That Section 54-2302, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 54-2302. DEFINITIONS. Within the meaning For the purposes of this
+24 chapter, the following definitions apply:
+25 (1) "Department" means the department of self-governing agencies of
+26 the state of Idaho.
+27 (2) "Board" means the Idaho state board of psychologist examiners.
+28 (3) "Collaborative agreement" means a written agreement between a li-
+29 censed psychologist who is applying for provisional prescriptive authority
+30 or gaining prescriptive authority experience with pediatric or geriatric
+31 patients and a collaborative prescriber that outlines the nature of the
+32 collaborative relationship, including but not limited to frequency of col-
+33 laborative consultation and procedures for emergency situations.
+34 (4) "Collaborative prescriber" means a physician, advanced practice
+35 registered nurse, pharmacist, or prescribing psychologist with a minimum of
+36 two (2) years of experience in the management of psychotropic medication who
+37 is licensed pursuant to this title or an equivalent licensing provision of
+38 the law of another state in good standing.
+39 (3) (5) "Division administrator" means the chief administrative offi-
+40 cer of the division of occupational and professional licenses.
+41 (4) (6) "Licensed medical provider" means a physician or physician as-
+42 sistant licensed pursuant to chapter 18, title 54, Idaho Code, or an advanced
+2
+1 practice registered nurse licensed pursuant to chapter 14, title 54, Idaho
+2 Code.
+3 (5) (7) "Person" means a human individual.
+4 (6) (8) "Psychological services" means any services to which the words
+5 "psychological," "psychologist" or "psychology" are applied by the person
+6 rendering or offering to render them or to the "practice of psychology" as
+7 defined in subsection (7) (9) of this section.
+8 (7) (9) "Practice of psychology" means the application of established
+9 principles of learning, motivation, perception, thinking, and emotional
+10 relationships to problems of personnel evaluation, group relations, and
+11 behavior adjustment. The application of said principles includes, but is
+12 not restricted to, counseling and the use of psychotherapeutic measures
+13 with persons or groups to eliminate symptomatic, maladaptive or undesired
+14 behavior so as to enhance interpersonal relationships in the areas of work,
+15 family, school, and personal relationships; measuring and testing of per-
+16 sonality, intelligence, aptitudes, emotions, public opinion, attitudes,
+17 and skills; diagnosing and treating mental and emotional disorders or dis-
+18 abilities; and doing research on problems relating to human behavior.
+19 (8) (10) A person represents himself to be a psychologist when he
+20 "Psychologist" means any person who holds himself out to the public by any
+21 title or description incorporating the words "psychological," "psycholo-
+22 gist" or "psychology" or offers to render or renders psychological services
+23 for remuneration.
+24 (9) (11) "Service extender" means a person who has earned a doctoral de-
+25 gree in psychology, the equivalent to a master's degree in psychology while
+26 in a psychology doctoral program, or a master's degree in a mental health
+27 field and who is permitted to provide psychological services under the su-
+28 pervision of a licensed psychologist.
+29 (10) (12) "Temporary permit" means a document issued by the board to a
+30 psychologist licensed in another state authorizing the individual to prac-
+31 tice psychology in Idaho for a limited period as set forth in this chapter and
+32 rules of the board.
+33 SECTION 2. That Section 54-2304, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 54-2304. ESTABLISHMENT OF BOARD OF PSYCHOLOGIST EXAMINERS. There is
+36 hereby created in the division of occupational and professional licenses an
+37 Idaho state board of psychologist examiners as follows:
+38 (1) Said board shall consist of four (4) licensed psychologist members
+39 and one (1) public member who is not a practitioner or spouse of a practi-
+40 tioner in any health care field and who is not a convicted felon and who has
+41 not been an applicant for licensure as a psychologist, who are citizens of
+42 the United States, residents of the state of Idaho, and appointed by the
+43 governor for four (4) year terms. The psychologist members' terms shall be
+44 staggered such that only one (1) term expires June 30 of each year.
+45 (2) Each psychologist board member shall be licensed under this chap-
+46 ter.
+47 (3) When the term of each psychologist member of the board ends, the
+48 governor shall appoint his successor for a term of four (4) years. The gover-
+49 nor may consider recommendations for appointment to the board from the Idaho
+3
+1 psychological association and from any individual residing in this state.
+2 Any vacancy occurring on the board shall be filled by the governor by ap-
+3 pointment for the unexpired term. Board members shall serve at the pleasure
+4 of the governor.
+5 (4) At all times, the board shall have at least one (1) member who is en-
+6 gaged primarily in rendering services in psychology and at least one (1) mem-
+7 ber who is engaged primarily in teaching, training, or research in psychol-
+8 ogy.
+9 (5) At all times, the board shall have at least one (1) member who has
+10 completed a master's of science in clinical psychopharmacology degree.
+11 (5) (6) No board member shall serve more than two (2) consecutive terms.
+12 (6) (7) Each board member shall be compensated as provided by section
+13 59-509(n), Idaho Code.
+14 (7) (8) The board shall annually in the month of July, hold a meeting,
+15 and elect a chairman and vice chairman. The board shall meet at such other
+16 times as deemed necessary and advisable by the chairman, or by a majority of
+17 its members, or by the governor. Reasonable notice of all meetings shall be
+18 given as required by law. A majority of the board shall constitute a quorum
+19 at any meeting or hearing.
+20 SECTION 3. That Section 54-2305, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 54-2305. BOARD OF PSYCHOLOGIST EXAMINERS -- POWERS. The board of psy-
+23 chologist examiners shall have the following powers:
+24 (1) To pass upon the qualifications and fitness of applicants for li-
+25 censes, reciprocal licenses, certification and provisional certification
+26 of prescriptive authority; and, at its option, to adopt and revise rules re-
+27 quiring applicants to pass examinations relating to their qualifications as
+28 a prerequisite to the issuance of licenses.
+29 (2) To adopt and, from time to time, revise such rules in accordance
+30 with the provisions of chapter 52, title 67, Idaho Code, and not inconsis-
+31 tent with the law as may be necessary to carry into effect the provisions of
+32 this chapter. Such rules shall include, but need not be limited to, a code
+33 of ethics for psychologists in the state consistent with the current, and as
+34 future amended, ethical standards for psychologists of the American psycho-
+35 logical association and the educational and professional qualifications of
+36 applicants for licensing under this chapter.
+37 (3) To examine for, deny, approve, issue, revoke, suspend and renew the
+38 licenses, permits, and certifications of psychologists, service extenders,
+39 and psychologist applicants pursuant to this chapter, and to conduct hear-
+40 ings in connection therewith.
+41 (4) To conduct hearings upon complaints concerning violations of the
+42 provisions of, and the rules adopted pursuant to, this chapter and cause the
+43 prosecution and enjoinder of all such violations.
+44 (5) The board, or its duly appointed hearing officer, shall have the
+45 power in any disciplinary proceeding under this chapter to administer oaths,
+46 take depositions of witnesses within or without the state in the manner pro-
+47 vided by law in civil cases, and may apply to any district court of this state
+48 for a subpoena to require the attendance of such witnesses and the produc-
+49 tion of such books, records, and papers as it deems necessary. The fees and
+4
+1 mileage of the witnesses shall be the same as that allowed in district courts
+2 in criminal cases, which fees and mileage shall be paid in the same manner as
+3 other expenses of the board are paid. In any case of disobedience to, or ne-
+4 glect of, any subpoena or subpoena duces tecum served upon any person, or the
+5 refusal of any witness to testify to any matter regarding which he may be law-
+6 fully interrogated, it shall be the duty of any district court in this state,
+7 on application by the board, to compel compliance with the subpoena by pro-
+8 ceedings for contempt, as in the case of disobedience of the requirements of
+9 the subpoena issued from such court for refusal to testify therein. The li-
+10 censed person accused in such proceedings shall have the same right of sub-
+11 poena.
+12 (6) Proceedings before the board and judicial review of the action of
+13 the board shall be governed by the provisions of chapter 52, title 67, Idaho
+14 Code.
+15 (7) To authorize, by written agreement, the division of occupational
+16 and professional licenses as agent to act in its interest.
+17 (8) To adopt a rule requiring continuing education as a condition of
+18 continued licensure and certification.
+19 (9) To adopt rules allowing for a temporary permit to individuals li-
+20 censed as psychologists in another state authorizing such individuals to
+21 practice psychology in Idaho for a period not to exceed thirty (30) days pur-
+22 suant to such terms and requirements as set forth in the rules.
+23 (10) To establish by rule an inactive license status.
+24 (11) To establish by rule the standards and requirements for the use of
+25 communication technology in the practice of psychology, including supervi-
+26 sion and collaborative agreements.
+27 (12) To establish by rule certification and provisional certification
+28 of prescriptive authority pursuant to sections 54-2316 through 54-2319,
+29 Idaho Code.
+30 (13) To establish by rule a limited formulary or formularies for pre-
+31 scribing use by holders of certification and provisional certification of
+32 prescriptive authority.
+33 (14) To establish by rule the permitting of service extenders.
+34 SECTION 4. That Section 54-2307, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 54-2307. QUALIFICATIONS FOR LICENSE -- APPLICANTS FOR WHOM AN EXAM-
+37 INATION MAY BE REQUIRED. An applicant shall be qualified for a license to
+38 practice psychology provided proof satisfactory to the board has been re-
+39 ceived showing:
+40 (1) That the applicant has not been convicted, found guilty, or
+41 received a withheld judgment or suspended sentence in this state or in
+42 any other state of a crime deemed relevant in accordance with section
+43 67-9411(1), Idaho Code; and
+44 (2) Either one of the following:
+45 (a) Graduation from an accredited college or university with a doc-
+46 toral degree in psychology and two (2) years of supervised experience
+47 acceptable to the board, one (1) year of which may include a predoctoral
+48 practicum or internship and one (1) of which must be postdoctoral; or
+5
+1 (b) Graduation from an accredited college or university with a doctoral
+2 degree in a field related to psychology, provided experience and train-
+3 ing are acceptable to the board; and
+4 (3) Successful passage of an examination, if such examination is re-
+5 quired by the rules duly adopted by the board; and
+6 (4) That the applicant has submitted to a fingerprint-based criminal
+7 history background check in accordance with section 67-9411A, Idaho Code;
+8 and
+9 (4) (5) Receipt of a completed application accompanied by an applica-
+10 tion fee as established by board rules not to exceed three hundred dollars
+11 ($300), and when an examination is required a processing fee of twenty-five
+12 dollars ($25.00) payable to the division of occupational and professional
+13 licenses. The fee for any required examination or reexamination shall be
+14 submitted directly to the national examining entity. The application fee
+15 and the processing fee are not refundable.
+16 SECTION 5. That Section 54-2312, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 54-2312. QUALIFICATIONS FOR LICENSE -- ENDORSEMENT. The board may
+19 recommend the granting of a license to any person who is licensed or certi-
+20 fied by a regulatory board of psychologists in the United States or Canada
+21 where such certification or licensure was based on a doctoral degree and who:
+22 (1) Submits a complete application, including the application fee and
+23 a license fee not to exceed three hundred dollars ($300) as established by
+24 board rule;
+25 (2) Has not been convicted, found guilty, or received a withheld judg-
+26 ment or suspended sentence in this state or in any other state of a crime
+27 deemed relevant in accordance with section 67-9411(1), Idaho Code;
+28 (3) Has submitted to a fingerprint-based criminal history background
+29 check in accordance with section 67-9411A, Idaho Code;
+30 (3) (4) Has not had a certification or license revoked, suspended or
+31 otherwise sanctioned; and
+32 (4) (5) Has certified under oath that they have reviewed and will abide
+33 by the laws and rules governing the practice of psychology in Idaho and the
+34 code of ethics of the American psychological association and either:
+35 (a) Holds a current certificate of professional qualification in psy-
+36 chology or holds a certificate of professional standing issued by a na-
+37 tional credentialing entity approved by the board by rule; or
+38 (b) Meets the requirements of section 54-2307(2), Idaho Code, and board
+39 rules relating to endorsement and educational and credentialing re-
+40 quirements for licensure.
+41 SECTION 6. That Section 54-2312A, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 54-2312A. SENIOR PSYCHOLOGIST. The board may grant a license to any
+44 person who submits a completed application, including the application fee
+45 and a license fee not to exceed three hundred dollars ($300) as established
+46 by board rule, and who:
+6
+1 (1) Has not been convicted, found guilty, or received a withheld judg-
+2 ment or suspended sentence in this state or in any other state of a crime
+3 deemed relevant in accordance with section 67-9411(1), Idaho Code;
+4 (2) Has submitted to a fingerprint-based criminal history background
+5 check in accordance with section 67-9411A, Idaho Code;
+6 (2) (3) Has maintained a valid psychology license based on a doctoral
+7 degree in the United States or Canada for a period of not less than twenty
+8 (20) years;
+9 (3) (4) Has a documented record of psychology practice for five (5) of
+10 the last seven (7) years immediately prior to the date of application;
+11 (4) (5) Has a documented record of meeting the continuing education re-
+12 quirement of the jurisdiction where they practiced for not less than five (5)
+13 calendar years immediately prior to the date of application;
+14 (5) (6) Has not been the subject of any disciplinary action within the
+15 last seven (7) years prior to application or has never voluntarily surren-
+16 dered a license to practice psychology in any jurisdiction; and
+17 (6) (7) Has certified under oath that he has reviewed and will abide by
+18 the laws and rules governing the practice of psychology in Idaho and the code
+19 of ethics of the American psychological association.
+20 SECTION 7. That Section 54-2313, Idaho Code, be, and the same is hereby
+21 repealed.
+22 SECTION 8. That Section 54-2316, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 54-2316. PRESCRIPTIVE AUTHORITY. (1) No psychologist licensed under
+25 this chapter shall issue a prescription without valid certification or pro-
+26 visional certification of prescriptive authority issued pursuant to section
+27 54-2317, 54-2318 or 54-2319, Idaho Code.
+28 (2) Psychologists licensed under this chapter who hold a certification
+29 or a provisional certification of prescriptive authority shall prescribe
+30 only those drugs or controlled substances that are:
+31 (a) Recognized in or customarily used in the diagnosis, treatment and
+32 management of individuals with psychiatric, mental, cognitive, ner-
+33 vous, emotional or behavioral disorders;
+34 (b) Relevant to the practice of psychology or other procedures directly
+35 related thereto; and
+36 (c) Within the scope of the psychologist's license and certification of
+37 prescriptive authority.
+38 (3) A psychologist who holds provisional certification of prescriptive
+39 authority may prescribe only under the direct supervision of a supervis-
+40 ing physician pursuant to a collaborative agreement with at least one (1)
+41 collaborative prescriber who meets the requirements of section 54-2317(6)
+42 54-2302(4), Idaho Code.
+43 (4) A psychologist who issues a prescription to a patient pursuant
+44 to this section shall collaborate with the patient's licensed medical
+45 provider.
+46 (5) All prescriptions issued pursuant to this section shall comply with
+47 all applicable federal and state laws, rules and regulations and rules of the
+48 board.
+7
+1 (6) No psychologist may prescribe for a pediatric or geriatric patient
+2 without meeting all requirements of this chapter, including the provisions
+3 of section 57-2318(2) 54-2318(2), Idaho Code.
+4 (7) No person licensed under this chapter shall accept any payment, di-
+5 rectly or indirectly:
+6 (a) From any person licensed as a health care provider under title 54,
+7 Idaho Code, whose license does not permit the writing of prescriptions,
+8 for writing a prescription or dispensing a prescription drug to a pa-
+9 tient;
+10 (b) From any person who holds himself or herself out as a health care
+11 provider in any form who is not licensed under title 54, Idaho Code; or
+12 (c) From any business or professional entity regardless of the form of
+13 its organization, for writing a prescription or dispensing a prescrip-
+14 tion drug to a patient unless such entity is authorized to conduct busi-
+15 ness under chapter 17, title 54, Idaho Code, or licensed as a licensed
+16 health care provider or health care facility or is otherwise approved by
+17 the board.
+18 (8) The restriction contained in subsection (7) of this section shall
+19 not prevent a person licensed under this chapter from accepting payment from
+20 any such person who is a patient, or for services provided to a patient or to
+21 someone the patient is legally obligated to support or from any insurer or
+22 other entity authorized under the laws of this state to provide insurance or
+23 pay benefits on behalf of a self-insured plan or government program.
+24 SECTION 9. That Section 54-2317, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 54-2317. PRESCRIPTIVE AUTHORITY -- PROVISIONAL CERTIFICATION. To
+27 qualify for provisional certification of prescriptive authority, a psychol-
+28 ogist licensed under this chapter shall meet such standards as prescribed by
+29 rule of the board. At a minimum, these standards shall include:
+30 (1) A current license to practice psychology in Idaho;
+31 (2) A doctorate degree in psychology awarded by an accredited program
+32 within a United States department of education-approved, regionally ac-
+33 credited institution of higher education an institution of higher education
+34 that is accredited by a regional accrediting organization recognized by the
+35 United States department of education;
+36 (3) A master's degree in clinical psychopharmacology awarded by an
+37 accredited program within a United States department of education-approved,
+38 regionally accredited institution of higher education American psycho-
+39 logical association-designated program or a program that satisfies the
+40 requirements to become an American psychological association-designated
+41 program within an institution of higher education that is accredited by a
+42 regional accrediting organization recognized by the United States depart-
+43 ment of education. The didactic portion of the education shall be at least
+44 two (2) years of full-time education, or the equivalent thereof, and shall be
+45 substantially equivalent to the education required of an advanced practice
+46 psychiatric nurse practitioner in this state as determined by the insti-
+47 tution that offers both clinical psychopharmacology and psychiatric nurse
+48 practitioner degrees. The necessary prerequisites for the education shall
+49 be determined by the institution that offers the degrees and, in the insti-
+8
+1 tution's judgment, shall include sufficient biomedical education to ensure
+2 the necessary knowledge and skills to prescribe psychotropic medications in
+3 a safe and effective manner. The program shall satisfy the requirements to
+4 become designated a post-doctoral education and training program in clin-
+5 ical psychopharmacology by the American psychological association. The
+6 program must be established and administered by biomedically trained edu-
+7 cators and must demonstrate that all content is covered and that students
+8 achieve clinical competency in all areas, and shall include at a minimum:.
+9 (a) Basic science:
+10 (i) Anatomy;
+11 (ii) Physiology;
+12 (iii) Biochemistry;
+13 (b) Neurosciences:
+14 (i) Neuroanatomy;
+15 (ii) Neurophysiology;
+16 (iii) Neurochemistry;
+17 (c) Physical assessments and laboratory exams:
+18 (i) Physical assessment;
+19 (ii) Laboratory and radiological assessment;
+20 (iii) Medical terminology and documentation;
+21 (d) Clinical medicine and pathophysiology:
+22 (i) Pathophysiology with particular emphasis on cardiac, renal,
+23 hepatic, neurologic, gastrointestinal, hematologic, dermato-
+24 logic and endocrine systems;
+25 (ii) Clinical medicine with particular emphasis on signs, symp-
+26 toms and treatment of disease states with behavioral, cognitive
+27 and emotional manifestations or comorbidities;
+28 (iii) Differential diagnosis;
+29 (iv) Clinical correlations -- the illustration of the content of
+30 this domain through case study;
+31 (v) Substance-related and co-occurring disorders;
+32 (vi) Chronic pain management;
+33 (e) Clinical and research pharmacology and psychopharmacology:
+34 (i) Pharmacology;
+35 (ii) Clinical pharmacology;
+36 (iii) Pharmacogenetics;
+37 (iv) Psychopharmacology;
+38 (v) Developmental psychopharmacology;
+39 (vi) Issues of diversity in pharmacological practice -- lifespan
+40 related to drug metabolism;
+41 (f) Clinical pharmacotherapeutics:
+42 (i) Combined therapies -- psychotherapy/pharmacotherapy inter-
+43 actions;
+44 (ii) Computer-based aids to practice;
+45 (iii) Pharmacoepidemiology;
+46 (g) Research:
+47 (i) Methodology and design of psychopharmacology research;
+48 (ii) Interpretation and evaluation of research;
+49 (iii) Federal food and drug administration drug development and
+50 regulatory processes; and
+9
+1 (h) Professional, ethical, and legal issues:
+2 (i) Application of existing law, standards and guidelines to
+3 pharmacological practice; and
+4 (ii) Relationship with pharmaceutical industry:
+5 1. Conflicts of interest;
+6 2. Evaluation of pharmaceutical marketing practices; and
+7 3. Critical consumer;
+8 (4) Clinical experience that is sufficient to attain competency in
+9 the psychopharmacological treatment of a diverse patient population under
+10 the direction of qualified practitioners including, but not limited to,
+11 licensed physicians and prescribing psychologists as determined by the in-
+12 stitution offering the clinical psychopharmacology degree;
+13 (5) A passing score on an examination developed by a nationally recog-
+14 nized body and approved by the board; and
+15 (6) Supervision agreements with board-certified psychiatrists, neu-
+16 rologists, family medicine physicians, or other physicians with a minimum
+17 of two (2) years of experience in the management of psychotropic medication
+18 who are licensed under chapter 18, title 54, Idaho Code, or an equivalent li-
+19 censing provision of the law of an adjoining state. A written collaborative
+20 agreement entered into with at least one (1) collaborative prescriber and
+21 provided to the board upon request.
+22 SECTION 10. That Section 54-2318, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 54-2318. PRESCRIPTIVE AUTHORITY -- CERTIFICATION. (1) An applicant
+25 for certification of prescriptive authority may be granted such certifi-
+26 cation by the board if the applicant possesses provisional certification
+27 of prescriptive authority and has successfully completed two (2) years of
+28 satisfactory prescribing as attested to by the supervising physician or
+29 physicians a collaborative prescriber participating in a collaborative
+30 agreement.
+31 (2) An applicant for certification of prescriptive authority who seeks
+32 to prescribe specialize in prescribing for pediatric or geriatric patients
+33 shall have completed at least one (1) year of satisfactory prescribing,
+34 which may be part of a two (2) year collaborative agreement, to such patient
+35 populations as attested to by a supervising physician or supervising physi-
+36 cians with collaborative prescriber who participates in a collaborative
+37 agreement and who has specialized training and experience in treating such
+38 patient populations. For the purposes of this section, "specialization"
+39 means to see twenty-five (25) or more pediatric or geriatric patients in a
+40 single calendar year.
+41 (3) The board shall develop rules to effect the purposes of sections
+42 54-2316 through 54-2319, Idaho Code. Such rules shall include educational
+43 and training standards necessary to qualify for certification of prescrip-
+44 tive authority, application and testing procedures, and fees for an applica-
+45 tion, provisional certification, certification, and renewal of certifica-
+46 tion. Such fees shall not exceed six hundred dollars ($600) each.
+47 SECTION 11. That Section 54-2320, Idaho Code, be, and the same is hereby
+48 repealed.
+10
+1 SECTION 12. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOP;AGSN5,IOC,TODEAT;AGSN5,IOC,TOPEARTFRTEBDOFPTE;AGS,IOC,TOPEFRC;AGS,IOC,TOPEFRAFDCLHYBDCKADTOMETLC;AN5,IOC,TOPEFRAFDCLHYBDC;AGSN5,IOCOPEFRAFDCLHYBDCGSN5,IOC,RGTOTEUEOFM;AGSN5,IOC,TOREPSRGPEA;AGS,IOC,TOREPSRGPEAYPLC;AGSN5,I,TOREPSRGCNFRP;RGSN5,IOC,RGTOANAYPLTORWADAETEBDONPDP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.D.WntemgFrtepsoft,tefgdsa)""mstedtofsgasoeseofI)""msteIosebdofpte)"ea"msawnatbnaldptwoisagfrplpearggpeayeewhpcorgsadaceprttosteneofter,igbtntldtofyofcecnadpsfreys)"ep"msap,adpdn,p,orpgptwhammoo()ysofeeintemtofpcmnwsldpttotsteoranetlgpnoelwofarseingds)()"na"mstecfaeoroftednofoladpll)()"dmlp"msapnorpnatldpttocr1,te5,IoC,orana]
+[DELETED: erdneldpttocr1,te5,I)()""msahni)()"ls"msaysstowhtew"""or""aeadbytepgorogtorrtmortote"eofp"adinsn()()oftss)()"eofp"msteanofesofl,m,p,t,adestopsofple,gpr,ara.Teanofsdpsi,btitrdt,cgadteueofpcmhpsorgstoees,meorursoastoeeilrsinteasofw,s,adplr;mgadtgofp,i,a,e,pco,ads;dgadtgmladeldsord;addgrhonpsrgtohnb)()Apnrshftobeaptwnh"msaypnwohshfottotepcbyaeordnigtews""""or""orostorrorrsplsrr)()"ee"msapnwohsedadldeinp,teettoamsdeinpywnapydlp,oramsdeinamlhdadwoispdtopeplssurtesnofaldp)()"yp"msadtidbytebdtotldinarseagteiltopepyinIofraldpdasstfhintscrasoftebN2.TtSn5,IoC,b,adteseishdtordasf.ETOFBDOFPTE.Teiycdintednofoladpllsaosebdofptesasf)Sdbdslctoffr()ldptmdoe()pcmrwoisntaprorseofaprinayhhcefdadwoisntacdfnadwohtbnanatfrleasap,woaecsoeUdS,rsofteseofI,adadbytrfrfr()yrt.Teptm'tsslbdshttoyoe()tmesJe30ofehy)Ehptbdmrslbeldurtsc)Wntetmofehptmroftebde,trslathssrfratmoffr()y.TegrmycrrsfrattotebdfmteI]
+[DELETED: lanadfmayilrgintssyvyogontebdslbefdbytegrbyatfrteudt.Bdmsslseattepfteg)Atalt,tebdslheatltoe()mrwoisedpyinrgssinpyadatltoe()mrwoisedpyint,t,orrhinp)Atalt,tebdslheatltoe()mrwohdamsofseinclpyd)()Nobdmrslsemetnto()cet)()Ehbdmrslbecdaspdbys,IoC)()TebdslayintemhofJ,hdamdetacnadvec.Tebdslmtatshosasddnyadaebytec,orbyamyosm,orbyteg.Reneofalmsslbnasrdbyl.AmyoftebdslceaqtaymgorhN3.TtSn5,IoC,b,adteseishdtordasf.BDOFPTES--P.Tebdofptesslhetefgp)Topsunteqsadfsofasfrl,rll,cnadplcfpea;a,atiso,toatadrersrgastopsesrgtotrqsapetoteieofl)Toata,fmtetot,reshrsinahtepsofcr5,te6,IoC,adntitwhtelwasmybenytocyioettepsosc.Shrssli,btndntbeldt,acfesfrpsintesectwhtec,adaea,elssfrpsofteAnplanadteeladplqsosfrlgurtsc)Toeef,d,a,i,r,sdadrwt,p,adcsofp,seedptaspttotsc,adtocthsincnt)Tocthsuncscgvsoftso,adtersadptt,tscradcetnaderofalshv)Teb,orisdyadhgo,slhetrinaydypgurtscrtoaroedsofwswnorwtteseintemrpdbylwinclc,admyaytoaydtctoftssrasatoreteaeofshwsadtepnofshb,r,adpsasitdsn.Tefsa]
+[DELETED: eoftewsslbeteseasttadindtcnclc,whfsadmeslbepdintesemraresoftebdaep.Inayceofdet,ornto,aysaorsadstmsdunayp,ortlofaywstotytoaymrrgwhhemybelyi,itslbetedyofaydtctintssnanbyteb,toclcewhtesabypsfrc,asinteceofdeoftersoesaidfmshctfrrltotyt.Teldpnadinshpsslhetesertofs)Psbetebdadjlrwofteanoebdslbegdbytepsofcr5,te6,I)Toa,bywna,tednofodpllsasattoatinisi)Toatarergcgenasacnodleadc)ToatrsagfratypttoisldaspsinarseagshistepyinIofrapdnttoedty()dspttoshtsadrsasstfhinter)Toehbyreanieles)Toehbyretessadrsfrteueontyintepeofp,igsnadcea)Toehbyrecnadplcfpeaypttoss56th5oC)Toehbyrealdfyorfsfrpguebyhsofcnadplcnoea)ToehbyretepgofseeN4.TtSn5,IoC,b,adteseishdtordasf.QSFRLE--ASFRWMANENMYBER.Anatslbeqdfraletepypdpfsytotebdhsbnrds)Ttteathsntbnc,fdg,odawdjtorsdseintsseoriyorseofaceddrtinaewhs,IoC;a)Eroeoftef)Gnfmanadceoruywhadldeinpyadto()ysofsdeetoteb,oe()yrofwhmyieapmoripadoe()ofwhmtbep;o]
+[DELETED: )Gnfmanadceoruywhadeinafdrdtop,pdeeadtgaeaetoteb;a)Slpeofane,ifshenisrdbytersdyadbyteb;a)Ttteathssdtoafdcybdckinaewhsn6,IoC)()Rtofacdanadbyananfeasedbybdrsnttoedtehdd,adwnanenisrdapgfeofts()petotednofoladp.Tefefrayrdenorrnslbddytotenlege.TeanfdtepgfeaentrN5.TtSn5,IoC,b,adteseishdtordasf.QSFRLE--E.TebdmdteggofaletoaypnwoisldorcdbyarybdofpsinteUdSsorCeshcnorlewsbdonadldeadw)Ssacea,igteanfealefenttoedtehdds()asedbdr)Hsntbnc,fdg,orrdawdjtorsdseintsseorinayorseofacdrtinaewhsn6,IoC)Hssdtoafdclhybkinaewhsn6,IoC)()Hsnthdacnorler,sdoes;a)()HscdurohtttyherdadwlaytelsadrsggtepeofpyinIoadteofesofteAnplanade)Hsactceofplqninpyorhsaceofplsgidbyanlcgeyadbytebdbyr;o)Mstersofsn5,IoC,adbsrgtoetadeladcgrsfrlN6.TtSn5,IoC,b,adteseishdtordasf.SRP.Tebdmygtaletoanwossacda,igteanfdalefenttoedtehdds()aseybdr,adw]
+[DELETED: )Hsntbnc,fdg,orrdawdjtorsdseintsseorinayorseofacdrtinaewhsn6,IoC)Hssdtoafdclhybkinaewhsn6,IoC)()HsmdavdpylebdonadeinteUdSsorCafrapdofntlstnt)y)()Hsaddrdofpypefrfe()oeltsn()ysiyprtotedeofa)()Hsaddrdofmgtecgenrtoftejnwetypdfrntlstnfe(rysiyprtotedeofa)()Hsntbntestofaydyanwnttsn()ysprtoanorhsnrvysdaletopepyinayj;a)()HscdurohtthehsrdadwlaebelsadrsggtepeofpyinIoadtecfesofteAnplaN7.TtSn5,IoC,b,adteseishN8.TtSn5,IoC,b,adteseishdtordasf.PEA.()Noptlduscrslieapnwtvdcnorplcnofpeayidpttos,58or5,IoC)Psldurtscrwohdacraplcnofpeayslpytedsorcdsstta)Rdinorcyudinted,ttatofiswhp,m,c,n,elorbld)Rttotepeofpyororpsddt;a)Wnteseoftepsleadcnoea)Aptwohsplcnofpymypeoyurtedtsnofasgpnpttoaceatwhatltoe(eprwomstersofsn5,IoC)Aptwoisapntoaptpotssnslcewhtepsldm)Alpsidpttotssnslcywlaefladsel,rsadrsadrsoft]
+[DELETED: )Noptmypefrapcorgcptmgalrsoftsc,igtepfsn5)5,IoC)Nopnldurtscrslatayp,dyori)Fmaypnldasahhceprurte5oC,weledsntpttewgofprwgapnordgapndgtoap)Fmaypnwohshforhfotasahhcrinayfmwoisntldurte5,IoC;o)Fmaybsorpleyrsoftefmoso,frwgapnordgapndgtoaptussheyisadtoctbsurcr1,te5,IoC,orldasalhceprorhhcefyorisoeadbeb)Terncdinsn()oftssnstptapnldurtscrfmagptfyshpnwoisap,orfrsspdtoaptorteteptislyodtostorfmayiroreyadurtelsoftssetopeieoybsonbfofasdpnorgtpN9.TtSn5,IoC,b,adteseishdtordasf.PEAY--PLC.Tyfrplcnofpea,aptldurtscrslmtshssaspdbeofteb.Atam,tesssli)ActletopepyinI)AdedeinpyadbyanadpnaUdSsdtofe,ryadinofhrenaninofhretisadbyarlagonrdbytdSsdtofe)AmsdeinclpyadbyadpmwnaUdSsdtofeyadinofhrenAnpladpmorapmttsststobeanAnplamwnaninofhrenttisadbylagonrdbyteUdSsdtofe.Tedcpnofteenslbeatlo()ysoffee,orteett,adslbyettoteenrdofanadpcneprintsseasddbyteinttosbhclpyadpcnrd.Tenypsfrteenseddbyteinttostedsa,intei]
+[DELETED: sj,sliestblentoeenykeadsstopepcmsiseadeem.TepmslsytersteddaplenadtgpminclpybyteAnpla.Tmmtbeedadadbybytdesadmtdettalctiscdadttseclcyinala,adslieatam)Bcs)A)P)B)N)N)N)N)Plasadlye)Pla)Lyadrla)Mltyadd)Clmeadp)Pywhpresonc,r,n,g,h,dcadees)Clmewhpresons,ssadttofdesswhb,cdelmsorc)Dld)Clcs--teinoftectosdnthces)Sdadcgd)Ccpnm)Cladrhpyadp)P)Clp)P)P)Dlp)Isofdyinplpe--ldtodgm)Clp)Cdts--pyi)Cdastop)P)R)Myaddnofpyrnadenofr)Flfdaddgandgdtayp;a]
+[DELETED: )P,e,adlli)Anofegl,ssadgstlp;a)Rpwhpli.Csofi.Enofplmgp;a.Clc)Cleettissttoancyieplttofadeptpnuednofqdpsi,btntldtdpsadpgpsasddbyteinogteclpyd)Apgseonanenddbyanyrdbyadadbyteb;a)Snaswhbdp,n,fymep,ororpswhamfto()ysofeeintemtofpcmoaeldurcr1,te5,IoC,oranetlgpnoftelwofanags.Awnctediowhatltoe()cepradtotebdunrN1.TtSn5,IoC,b,adteseishdtordasf.PEAY--C.()Anarcnofpeaymybegdshcnbytebdifteatpsplcfpeayadhssycdto()ysoypgasadtobytesgpnosaceprpginac)Anatfrcnofpeaywosopeseinpgfrpcorgcplhecdatltoe()yrofsyphmybeptofato()yrcea,toshpsasadtobyasgpnorsgpsweprwopsinactadwohssdtgadeeintgstp.Frtepsoftss,"stosete()ormepcorgcpsinecry)Tebdsldprstoettepsofs6th5,IoC.Shrsslieedtgssnytoqyfrcnofpea,anadtgp,adfsfrana,plc,c,adrlofc.Shfsslntedsxhdds()eN1.TtSn5,IoC,b,adteseish]
+[DELETED: N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1088
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PSYCHOLOGISTS; AMENDING SECTION 54-2302, IDAHO CODE, TO DE-
+3 FINE A TERM; AMENDING SECTION 54-2304, IDAHO CODE, TO PROVIDE A RE-
+4 QUIREMENT FOR THE BOARD OF PSYCHOLOGIST EXAMINERS; AMENDING SECTION
+5 54-2305, IDAHO CODE, TO PROVIDE FOR COLLABORATION; AMENDING SECTION
+6 54-2307, IDAHO CODE, TO PROVIDE FOR A FINGERPRINT-BASED CRIMINAL HIS-
+7 TORY BACKGROUND CHECK AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+8 SECTION 54-2312, IDAHO CODE, TO PROVIDE FOR A FINGERPRINT-BASED CRIM-
+9 INAL HISTORY BACKGROUND CHECK; AMENDING SECTION 54-2312A, IDAHO CODE,
+10 TO PROVIDE FOR A FINGERPRINT-BASED CRIMINAL HISTORY BACKGROUND CHECK;
+11 REPEALING SECTION 54-2313, IDAHO CODE, RELATING TO THE UNAUTHORIZED
+12 PRACTICE OF MEDICINE; AMENDING SECTION 54-2316, IDAHO CODE, TO RE-
+13 VISE PROVISIONS REGARDING PRESCRIPTIVE AUTHORITY; AMENDING SECTION
+14 54-2317, IDAHO CODE, TO REVISE PROVISIONS REGARDING PRESCRIPTIVE AU-
+15 THORITY PROVISIONAL CERTIFICATION; AMENDING SECTION 54-2318, IDAHO
+16 CODE, TO REVISE PROVISIONS REGARDING CERTIFICATION FOR PRESCRIPTIVE
+17 AUTHORITY; REPEALING SECTION 54-2320, IDAHO CODE, RELATING TO AN AD-
+18 VISORY PANEL TO REVIEW AND ADVISE THE BOARD ON PROPOSED PRESCRIPTIVE
+19 RULES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+20 Be It Enacted by the Legislature of the State of Idaho:
+21 SECTION 1. That Section 54-2302, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 54-2302. DEFINITIONS. Within the meaning For the purposes of this
+24 chapter, the following definitions apply:
+25 (1) "Department" means the department of self-governing agencies of
+26 the state of Idaho.
+27 (2) "Board" means the Idaho state board of psychologist examiners.
+28 (3) "Collaborative agreement" means a written agreement between a li-
+29 censed psychologist who is applying for provisional prescriptive authority
+30 or gaining prescriptive authority experience with pediatric or geriatric
+31 patients and a collaborative prescriber that outlines the nature of the
+32 collaborative relationship, including but not limited to frequency of col-
+33 laborative consultation and procedures for emergency situations.
+34 (4) "Collaborative prescriber" means a physician, advanced practice
+35 registered nurse, pharmacist, or prescribing psychologist with a minimum of
+36 two (2) years of experience in the management of psychotropic medication who
+37 is licensed pursuant to this title or an equivalent licensing provision of
+38 the law of another state in good standing.
+39 (3) (5) "Division administrator" means the chief administrative offi-
+40 cer of the division of occupational and professional licenses.
+41 (4) (6) "Licensed medical provider" means a physician or physician as-
+42 sistant licensed pursuant to chapter 18, title 54, Idaho Code, or an advanced
+
+2
+1 practice registered nurse licensed pursuant to chapter 14, title 54, Idaho
+2 Code.
+3 (5) (7) "Person" means a human individual.
+4 (6) (8) "Psychological services" means any services to which the words
+5 "psychological," "psychologist" or "psychology" are applied by the person
+6 rendering or offering to render them or to the "practice of psychology" as
+7 defined in subsection (7) (9) of this section.
+8 (7) (9) "Practice of psychology" means the application of established
+9 principles of learning, motivation, perception, thinking, and emotional
+10 relationships to problems of personnel evaluation, group relations, and
+11 behavior adjustment. The application of said principles includes, but is
+12 not restricted to, counseling and the use of psychotherapeutic measures
+13 with persons or groups to eliminate symptomatic, maladaptive or undesired
+14 behavior so as to enhance interpersonal relationships in the areas of work,
+15 family, school, and personal relationships; measuring and testing of per-
+16 sonality, intelligence, aptitudes, emotions, public opinion, attitudes,
+17 and skills; diagnosing and treating mental and emotional disorders or dis-
+18 abilities; and doing research on problems relating to human behavior.
+19 (8) (10) A person represents himself to be a psychologist when he
+20 "Psychologist" means any person who holds himself out to the public by any
+21 title or description incorporating the words "psychological," "psycholo-
+22 gist" or "psychology" or offers to render or renders psychological services
+23 for remuneration.
+24 (9) (11) "Service extender" means a person who has earned a doctoral de-
+25 gree in psychology, the equivalent to a master's degree in psychology while
+26 in a psychology doctoral program, or a master's degree in a mental health
+27 field and who is permitted to provide psychological services under the su-
+28 pervision of a licensed psychologist.
+29 (10) (12) "Temporary permit" means a document issued by the board to a
+30 psychologist licensed in another state authorizing the individual to prac-
+31 tice psychology in Idaho for a limited period as set forth in this chapter and
+32 rules of the board.
+33 SECTION 2. That Section 54-2304, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 54-2304. ESTABLISHMENT OF BOARD OF PSYCHOLOGIST EXAMINERS. There is
+36 hereby created in the division of occupational and professional licenses an
+37 Idaho state board of psychologist examiners as follows:
+38 (1) Said board shall consist of four (4) licensed psychologist members
+39 and one (1) public member who is not a practitioner or spouse of a practi-
+40 tioner in any health care field and who is not a convicted felon and who has
+41 not been an applicant for licensure as a psychologist, who are citizens of
+42 the United States, residents of the state of Idaho, and appointed by the
+43 governor for four (4) year terms. The psychologist members' terms shall be
+44 staggered such that only one (1) term expires June 30 of each year.
+45 (2) Each psychologist board member shall be licensed under this chap-
+46 ter.
+47 (3) When the term of each psychologist member of the board ends, the
+48 governor shall appoint his successor for a term of four (4) years. The gover-
+49 nor may consider recommendations for appointment to the board from the Idaho
+
+3
+1 psychological association and from any individual residing in this state.
+2 Any vacancy occurring on the board shall be filled by the governor by ap-
+3 pointment for the unexpired term. Board members shall serve at the pleasure
+4 of the governor.
+5 (4) At all times, the board shall have at least one (1) member who is en-
+6 gaged primarily in rendering services in psychology and at least one (1) mem-
+7 ber who is engaged primarily in teaching, training, or research in psychol-
+8 ogy.
+9 (5) At all times, the board shall have at least one (1) member who has
+10 completed a master's of science in clinical psychopharmacology degree.
+11 (5) (6) No board member shall serve more than two (2) consecutive terms.
+12 (6) (7) Each board member shall be compensated as provided by section
+13 59-509(n), Idaho Code.
+14 (7) (8) The board shall annually in the month of July, hold a meeting,
+15 and elect a chairman and vice chairman. The board shall meet at such other
+16 times as deemed necessary and advisable by the chairman, or by a majority of
+17 its members, or by the governor. Reasonable notice of all meetings shall be
+18 given as required by law. A majority of the board shall constitute a quorum
+19 at any meeting or hearing.
+20 SECTION 3. That Section 54-2305, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 54-2305. BOARD OF PSYCHOLOGIST EXAMINERS -- POWERS. The board of psy-
+23 chologist examiners shall have the following powers:
+24 (1) To pass upon the qualifications and fitness of applicants for li-
+25 censes, reciprocal licenses, certification and provisional certification
+26 of prescriptive authority; and, at its option, to adopt and revise rules re-
+27 quiring applicants to pass examinations relating to their qualifications as
+28 a prerequisite to the issuance of licenses.
+29 (2) To adopt and, from time to time, revise such rules in accordance
+30 with the provisions of chapter 52, title 67, Idaho Code, and not inconsis-
+31 tent with the law as may be necessary to carry into effect the provisions of
+32 this chapter. Such rules shall include, but need not be limited to, a code
+33 of ethics for psychologists in the state consistent with the current, and as
+34 future amended, ethical standards for psychologists of the American psycho-
+35 logical association and the educational and professional qualifications of
+36 applicants for licensing under this chapter.
+37 (3) To examine for, deny, approve, issue, revoke, suspend and renew the
+38 licenses, permits, and certifications of psychologists, service extenders,
+39 and psychologist applicants pursuant to this chapter, and to conduct hear-
+40 ings in connection therewith.
+41 (4) To conduct hearings upon complaints concerning violations of the
+42 provisions of, and the rules adopted pursuant to, this chapter and cause the
+43 prosecution and enjoinder of all such violations.
+44 (5) The board, or its duly appointed hearing officer, shall have the
+45 power in any disciplinary proceeding under this chapter to administer oaths,
+46 take depositions of witnesses within or without the state in the manner pro-
+47 vided by law in civil cases, and may apply to any district court of this state
+48 for a subpoena to require the attendance of such witnesses and the produc-
+49 tion of such books, records, and papers as it deems necessary. The fees and
+
+4
+1 mileage of the witnesses shall be the same as that allowed in district courts
+2 in criminal cases, which fees and mileage shall be paid in the same manner as
+3 other expenses of the board are paid. In any case of disobedience to, or ne-
+4 glect of, any subpoena or subpoena duces tecum served upon any person, or the
+5 refusal of any witness to testify to any matter regarding which he may be law-
+6 fully interrogated, it shall be the duty of any district court in this state,
+7 on application by the board, to compel compliance with the subpoena by pro-
+8 ceedings for contempt, as in the case of disobedience of the requirements of
+9 the subpoena issued from such court for refusal to testify therein. The li-
+10 censed person accused in such proceedings shall have the same right of sub-
+11 poena.
+12 (6) Proceedings before the board and judicial review of the action of
+13 the board shall be governed by the provisions of chapter 52, title 67, Idaho
+14 Code.
+15 (7) To authorize, by written agreement, the division of occupational
+16 and professional licenses as agent to act in its interest.
+17 (8) To adopt a rule requiring continuing education as a condition of
+18 continued licensure and certification.
+19 (9) To adopt rules allowing for a temporary permit to individuals li-
+20 censed as psychologists in another state authorizing such individuals to
+21 practice psychology in Idaho for a period not to exceed thirty (30) days pur-
+22 suant to such terms and requirements as set forth in the rules.
+23 (10) To establish by rule an inactive license status.
+24 (11) To establish by rule the standards and requirements for the use of
+25 communication technology in the practice of psychology, including supervi-
+26 sion and collaborative agreements.
+27 (12) To establish by rule certification and provisional certification
+28 of prescriptive authority pursuant to sections 54-2316 through 54-2319,
+29 Idaho Code.
+30 (13) To establish by rule a limited formulary or formularies for pre-
+31 scribing use by holders of certification and provisional certification of
+32 prescriptive authority.
+33 (14) To establish by rule the permitting of service extenders.
+34 SECTION 4. That Section 54-2307, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 54-2307. QUALIFICATIONS FOR LICENSE -- APPLICANTS FOR WHOM AN EXAM-
+37 INATION MAY BE REQUIRED. An applicant shall be qualified for a license to
+38 practice psychology provided proof satisfactory to the board has been re-
+39 ceived showing:
+40 (1) That the applicant has not been convicted, found guilty, or
+41 received a withheld judgment or suspended sentence in this state or in
+42 any other state of a crime deemed relevant in accordance with section
+43 67-9411(1), Idaho Code; and
+44 (2) Either one of the following:
+45 (a) Graduation from an accredited college or university with a doc-
+46 toral degree in psychology and two (2) years of supervised experience
+47 acceptable to the board, one (1) year of which may include a predoctoral
+48 practicum or internship and one (1) of which must be postdoctoral; or
+
+5
+1 (b) Graduation from an accredited college or university with a doctoral
+2 degree in a field related to psychology, provided experience and train-
+3 ing are acceptable to the board; and
+4 (3) Successful passage of an examination, if such examination is re-
+5 quired by the rules duly adopted by the board; and
+6 (4) That the applicant has submitted to a fingerprint-based criminal
+7 history background check in accordance with section 67-9411A, Idaho Code;
+8 and
+9 (4) (5) Receipt of a completed application accompanied by an applica-
+10 tion fee as established by board rules not to exceed three hundred dollars
+11 ($300), and when an examination is required a processing fee of twenty-five
+12 dollars ($25.00) payable to the division of occupational and professional
+13 licenses. The fee for any required examination or reexamination shall be
+14 submitted directly to the national examining entity. The application fee
+15 and the processing fee are not refundable.
+16 SECTION 5. That Section 54-2312, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 54-2312. QUALIFICATIONS FOR LICENSE -- ENDORSEMENT. The board may
+19 recommend the granting of a license to any person who is licensed or certi-
+20 fied by a regulatory board of psychologists in the United States or Canada
+21 where such certification or licensure was based on a doctoral degree and who:
+22 (1) Submits a complete application, including the application fee and
+23 a license fee not to exceed three hundred dollars ($300) as established by
+24 board rule;
+25 (2) Has not been convicted, found guilty, or received a withheld judg-
+26 ment or suspended sentence in this state or in any other state of a crime
+27 deemed relevant in accordance with section 67-9411(1), Idaho Code;
+28 (3) Has submitted to a fingerprint-based criminal history background
+29 check in accordance with section 67-9411A, Idaho Code;
+30 (3) (4) Has not had a certification or license revoked, suspended or
+31 otherwise sanctioned; and
+32 (4) (5) Has certified under oath that they have reviewed and will abide
+33 by the laws and rules governing the practice of psychology in Idaho and the
+34 code of ethics of the American psychological association and either:
+35 (a) Holds a current certificate of professional qualification in psy-
+36 chology or holds a certificate of professional standing issued by a na-
+37 tional credentialing entity approved by the board by rule; or
+38 (b) Meets the requirements of section 54-2307(2), Idaho Code, and board
+39 rules relating to endorsement and educational and credentialing re-
+40 quirements for licensure.
+41 SECTION 6. That Section 54-2312A, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 54-2312A. SENIOR PSYCHOLOGIST. The board may grant a license to any
+44 person who submits a completed application, including the application fee
+45 and a license fee not to exceed three hundred dollars ($300) as established
+46 by board rule, and who:
+
+6
+1 (1) Has not been convicted, found guilty, or received a withheld judg-
+2 ment or suspended sentence in this state or in any other state of a crime
+3 deemed relevant in accordance with section 67-9411(1), Idaho Code;
+4 (2) Has submitted to a fingerprint-based criminal history background
+5 check in accordance with section 67-9411A, Idaho Code;
+6 (2) (3) Has maintained a valid psychology license based on a doctoral
+7 degree in the United States or Canada for a period of not less than twenty
+8 (20) years;
+9 (3) (4) Has a documented record of psychology practice for five (5) of
+10 the last seven (7) years immediately prior to the date of application;
+11 (4) (5) Has a documented record of meeting the continuing education re-
+12 quirement of the jurisdiction where they practiced for not less than five (5)
+13 calendar years immediately prior to the date of application;
+14 (5) (6) Has not been the subject of any disciplinary action within the
+15 last seven (7) years prior to application or has never voluntarily surren-
+16 dered a license to practice psychology in any jurisdiction; and
+17 (6) (7) Has certified under oath that he has reviewed and will abide by
+18 the laws and rules governing the practice of psychology in Idaho and the code
+19 of ethics of the American psychological association.
+20 SECTION 7. That Section 54-2313, Idaho Code, be, and the same is hereby
+21 repealed.
+22 SECTION 8. That Section 54-2316, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 54-2316. PRESCRIPTIVE AUTHORITY. (1) No psychologist licensed under
+25 this chapter shall issue a prescription without valid certification or pro-
+26 visional certification of prescriptive authority issued pursuant to section
+27 54-2317, 54-2318 or 54-2319, Idaho Code.
+28 (2) Psychologists licensed under this chapter who hold a certification
+29 or a provisional certification of prescriptive authority shall prescribe
+30 only those drugs or controlled substances that are:
+31 (a) Recognized in or customarily used in the diagnosis, treatment and
+32 management of individuals with psychiatric, mental, cognitive, ner-
+33 vous, emotional or behavioral disorders;
+34 (b) Relevant to the practice of psychology or other procedures directly
+35 related thereto; and
+36 (c) Within the scope of the psychologist's license and certification of
+37 prescriptive authority.
+38 (3) A psychologist who holds provisional certification of prescriptive
+39 authority may prescribe only under the direct supervision of a supervis-
+40 ing physician pursuant to a collaborative agreement with at least one (1)
+41 collaborative prescriber who meets the requirements of section 54-2317(6)
+42 54-2302(4), Idaho Code.
+43 (4) A psychologist who issues a prescription to a patient pursuant
+44 to this section shall collaborate with the patient's licensed medical
+45 provider.
+46 (5) All prescriptions issued pursuant to this section shall comply with
+47 all applicable federal and state laws, rules and regulations and rules of the
+48 board.
+
+7
+1 (6) No psychologist may prescribe for a pediatric or geriatric patient
+2 without meeting all requirements of this chapter, including the provisions
+3 of section 57-2318(2) 54-2318(2), Idaho Code.
+4 (7) No person licensed under this chapter shall accept any payment, di-
+5 rectly or indirectly:
+6 (a) From any person licensed as a health care provider under title 54,
+7 Idaho Code, whose license does not permit the writing of prescriptions,
+8 for writing a prescription or dispensing a prescription drug to a pa-
+9 tient;
+10 (b) From any person who holds himself or herself out as a health care
+11 provider in any form who is not licensed under title 54, Idaho Code; or
+12 (c) From any business or professional entity regardless of the form of
+13 its organization, for writing a prescription or dispensing a prescrip-
+14 tion drug to a patient unless such entity is authorized to conduct busi-
+15 ness under chapter 17, title 54, Idaho Code, or licensed as a licensed
+16 health care provider or health care facility or is otherwise approved by
+17 the board.
+18 (8) The restriction contained in subsection (7) of this section shall
+19 not prevent a person licensed under this chapter from accepting payment from
+20 any such person who is a patient, or for services provided to a patient or to
+21 someone the patient is legally obligated to support or from any insurer or
+22 other entity authorized under the laws of this state to provide insurance or
+23 pay benefits on behalf of a self-insured plan or government program.
+24 SECTION 9. That Section 54-2317, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 54-2317. PRESCRIPTIVE AUTHORITY -- PROVISIONAL CERTIFICATION. To
+27 qualify for provisional certification of prescriptive authority, a psychol-
+28 ogist licensed under this chapter shall meet such standards as prescribed by
+29 rule of the board. At a minimum, these standards shall include:
+30 (1) A current license to practice psychology in Idaho;
+31 (2) A doctorate degree in psychology awarded by an accredited program
+32 within a United States department of education-approved, regionally ac-
+33 credited institution of higher education an institution of higher education
+34 that is accredited by a regional accrediting organization recognized by the
+35 United States department of education;
+36 (3) A master's degree in clinical psychopharmacology awarded by an
+37 accredited program within a United States department of education-approved,
+38 regionally accredited institution of higher education American psycho-
+39 logical association-designated program or a program that satisfies the
+40 requirements to become an American psychological association-designated
+41 program within an institution of higher education that is accredited by a
+42 regional accrediting organization recognized by the United States depart-
+43 ment of education. The didactic portion of the education shall be at least
+44 two (2) years of full-time education, or the equivalent thereof, and shall be
+45 substantially equivalent to the education required of an advanced practice
+46 psychiatric nurse practitioner in this state as determined by the insti-
+47 tution that offers both clinical psychopharmacology and psychiatric nurse
+48 practitioner degrees. The necessary prerequisites for the education shall
+49 be determined by the institution that offers the degrees and, in the insti-
+
+8
+1 tution's judgment, shall include sufficient biomedical education to ensure
+2 the necessary knowledge and skills to prescribe psychotropic medications in
+3 a safe and effective manner. The program shall satisfy the requirements to
+4 become designated a post-doctoral education and training program in clin-
+5 ical psychopharmacology by the American psychological association. The
+6 program must be established and administered by biomedically trained edu-
+7 cators and must demonstrate that all content is covered and that students
+8 achieve clinical competency in all areas, and shall include at a minimum:.
+9 (a) Basic science:
+10 (i) Anatomy;
+11 (ii) Physiology;
+12 (iii) Biochemistry;
+13 (b) Neurosciences:
+14 (i) Neuroanatomy;
+15 (ii) Neurophysiology;
+16 (iii) Neurochemistry;
+17 (c) Physical assessments and laboratory exams:
+18 (i) Physical assessment;
+19 (ii) Laboratory and radiological assessment;
+20 (iii) Medical terminology and documentation;
+21 (d) Clinical medicine and pathophysiology:
+22 (i) Pathophysiology with particular emphasis on cardiac, renal,
+23 hepatic, neurologic, gastrointestinal, hematologic, dermato-
+24 logic and endocrine systems;
+25 (ii) Clinical medicine with particular emphasis on signs, symp-
+26 toms and treatment of disease states with behavioral, cognitive
+27 and emotional manifestations or comorbidities;
+28 (iii) Differential diagnosis;
+29 (iv) Clinical correlations -- the illustration of the content of
+30 this domain through case study;
+31 (v) Substance-related and co-occurring disorders;
+32 (vi) Chronic pain management;
+33 (e) Clinical and research pharmacology and psychopharmacology:
+34 (i) Pharmacology;
+35 (ii) Clinical pharmacology;
+36 (iii) Pharmacogenetics;
+37 (iv) Psychopharmacology;
+38 (v) Developmental psychopharmacology;
+39 (vi) Issues of diversity in pharmacological practice -- lifespan
+40 related to drug metabolism;
+41 (f) Clinical pharmacotherapeutics:
+42 (i) Combined therapies -- psychotherapy/pharmacotherapy inter-
+43 actions;
+44 (ii) Computer-based aids to practice;
+45 (iii) Pharmacoepidemiology;
+46 (g) Research:
+47 (i) Methodology and design of psychopharmacology research;
+48 (ii) Interpretation and evaluation of research;
+49 (iii) Federal food and drug administration drug development and
+50 regulatory processes; and
+
+9
+1 (h) Professional, ethical, and legal issues:
+2 (i) Application of existing law, standards and guidelines to
+3 pharmacological practice; and
+4 (ii) Relationship with pharmaceutical industry:
+5 1. Conflicts of interest;
+6 2. Evaluation of pharmaceutical marketing practices; and
+7 3. Critical consumer;
+8 (4) Clinical experience that is sufficient to attain competency in
+9 the psychopharmacological treatment of a diverse patient population under
+10 the direction of qualified practitioners including, but not limited to,
+11 licensed physicians and prescribing psychologists as determined by the in-
+12 stitution offering the clinical psychopharmacology degree;
+13 (5) A passing score on an examination developed by a nationally recog-
+14 nized body and approved by the board; and
+15 (6) Supervision agreements with board-certified psychiatrists, neu-
+16 rologists, family medicine physicians, or other physicians with a minimum
+17 of two (2) years of experience in the management of psychotropic medication
+18 who are licensed under chapter 18, title 54, Idaho Code, or an equivalent li-
+19 censing provision of the law of an adjoining state. A written collaborative
+20 agreement entered into with at least one (1) collaborative prescriber and
+21 provided to the board upon request.
+22 SECTION 10. That Section 54-2318, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 54-2318. PRESCRIPTIVE AUTHORITY -- CERTIFICATION. (1) An applicant
+25 for certification of prescriptive authority may be granted such certifi-
+26 cation by the board if the applicant possesses provisional certification
+27 of prescriptive authority and has successfully completed two (2) years of
+28 satisfactory prescribing as attested to by the supervising physician or
+29 physicians a collaborative prescriber participating in a collaborative
+30 agreement.
+31 (2) An applicant for certification of prescriptive authority who seeks
+32 to prescribe specialize in prescribing for pediatric or geriatric patients
+33 shall have completed at least one (1) year of satisfactory prescribing,
+34 which may be part of a two (2) year collaborative agreement, to such patient
+35 populations as attested to by a supervising physician or supervising physi-
+36 cians with collaborative prescriber who participates in a collaborative
+37 agreement and who has specialized training and experience in treating such
+38 patient populations. For the purposes of this section, "specialization"
+39 means to see twenty-five (25) or more pediatric or geriatric patients in a
+40 single calendar year.
+41 (3) The board shall develop rules to effect the purposes of sections
+42 54-2316 through 54-2319, Idaho Code. Such rules shall include educational
+43 and training standards necessary to qualify for certification of prescrip-
+44 tive authority, application and testing procedures, and fees for an applica-
+45 tion, provisional certification, certification, and renewal of certifica-
+46 tion. Such fees shall not exceed six hundred dollars ($600) each.
+47 SECTION 11. That Section 54-2320, Idaho Code, be, and the same is hereby
+48 repealed.
+
+10
+1 SECTION 12. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOP;AGSN5,IOC,TODEAT;AGSN5,IOC,TOPEARTFRTEBDOFPTE;AGS,IOC,TOPEFRC;AGS,IOC,TOPEFRAFDCLHYBDCKADTOMETLC;AN5,IOC,TOPEFRAFDCLHYBDC;AGSN5,IOCOPEFRAFDCLHYBDCGSN5,IOC,RGTOTEUEOFM;AGSN5,IOC,TOREPSRGPEA;AGS,IOC,TOREPSRGPEAYPLC;AGSN5,I,TOREPSRGCNFRP;RGSN5,IOC,RGTOANAYPLTORWADAETEBDONPDP;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.D.WntemgFrtepsoft,tefgdsa)""mstedtofsgasoeseofI)""msteIosebdofpte)"ea"msawnatbnaldptwoisagfrplpearggpeayeewhpcorgsadaceprttosteneofter,igbtntldtofyofcecnadpsfreys)"ep"msap,adpdn,p,orpgptwhammoo()ysofeeintemtofpcmnwsldpttotsteoranetlgpnoelwofarseingds)()"na"mstecfaeoroftednofoladpll)()"dmlp"msapnorpnatldpttocr1,te5,IoC,orana]
+[DELETED: erdneldpttocr1,te5,I)()""msahni)()"ls"msaysstowhtew"""or""aeadbytepgorogtorrtmortote"eofp"adinsn()()oftss)()"eofp"msteanofesofl,m,p,t,adestopsofple,gpr,ara.Teanofsdpsi,btitrdt,cgadteueofpcmhpsorgstoees,meorursoastoeeilrsinteasofw,s,adplr;mgadtgofp,i,a,e,pco,ads;dgadtgmladeldsord;addgrhonpsrgtohnb)()Apnrshftobeaptwnh"msaypnwohshfottotepcbyaeordnigtews""""or""orostorrorrsplsrr)()"ee"msapnwohsedadldeinp,teettoamsdeinpywnapydlp,oramsdeinamlhdadwoispdtopeplssurtesnofaldp)()"yp"msadtidbytebdtotldinarseagteiltopepyinIofraldpdasstfhintscrasoftebN2.TtSn5,IoC,b,adteseishdtordasf.ETOFBDOFPTE.Teiycdintednofoladpllsaosebdofptesasf)Sdbdslctoffr()ldptmdoe()pcmrwoisntaprorseofaprinayhhcefdadwoisntacdfnadwohtbnanatfrleasap,woaecsoeUdS,rsofteseofI,adadbytrfrfr()yrt.Teptm'tsslbdshttoyoe()tmesJe30ofehy)Ehptbdmrslbeldurtsc)Wntetmofehptmroftebde,trslathssrfratmoffr()y.TegrmycrrsfrattotebdfmteI]
+[DELETED: lanadfmayilrgintssyvyogontebdslbefdbytegrbyatfrteudt.Bdmsslseattepfteg)Atalt,tebdslheatltoe()mrwoisedpyinrgssinpyadatltoe()mrwoisedpyint,t,orrhinp)Atalt,tebdslheatltoe()mrwohdamsofseinclpyd)()Nobdmrslsemetnto()cet)()Ehbdmrslbecdaspdbys,IoC)()TebdslayintemhofJ,hdamdetacnadvec.Tebdslmtatshosasddnyadaebytec,orbyamyosm,orbyteg.Reneofalmsslbnasrdbyl.AmyoftebdslceaqtaymgorhN3.TtSn5,IoC,b,adteseishdtordasf.BDOFPTES--P.Tebdofptesslhetefgp)Topsunteqsadfsofasfrl,rll,cnadplcfpea;a,atiso,toatadrersrgastopsesrgtotrqsapetoteieofl)Toata,fmtetot,reshrsinahtepsofcr5,te6,IoC,adntitwhtelwasmybenytocyioettepsosc.Shrssli,btndntbeldt,acfesfrpsintesectwhtec,adaea,elssfrpsofteAnplanadteeladplqsosfrlgurtsc)Toeef,d,a,i,r,sdadrwt,p,adcsofp,seedptaspttotsc,adtocthsincnt)Tocthsuncscgvsoftso,adtersadptt,tscradcetnaderofalshv)Teb,orisdyadhgo,slhetrinaydypgurtscrtoaroedsofwswnorwtteseintemrpdbylwinclc,admyaytoaydtctoftssrasatoreteaeofshwsadtepnofshb,r,adpsasitdsn.Tefsa]
+[DELETED: eoftewsslbeteseasttadindtcnclc,whfsadmeslbepdintesemraresoftebdaep.Inayceofdet,ornto,aysaorsadstmsdunayp,ortlofaywstotytoaymrrgwhhemybelyi,itslbetedyofaydtctintssnanbyteb,toclcewhtesabypsfrc,asinteceofdeoftersoesaidfmshctfrrltotyt.Teldpnadinshpsslhetesertofs)Psbetebdadjlrwofteanoebdslbegdbytepsofcr5,te6,I)Toa,bywna,tednofodpllsasattoatinisi)Toatarergcgenasacnodleadc)ToatrsagfratypttoisldaspsinarseagshistepyinIofrapdnttoedty()dspttoshtsadrsasstfhinter)Toehbyreanieles)Toehbyretessadrsfrteueontyintepeofp,igsnadcea)Toehbyrecnadplcfpeaypttoss56th5oC)Toehbyrealdfyorfsfrpguebyhsofcnadplcnoea)ToehbyretepgofseeN4.TtSn5,IoC,b,adteseishdtordasf.QSFRLE--ASFRWMANENMYBER.Anatslbeqdfraletepypdpfsytotebdhsbnrds)Ttteathsntbnc,fdg,odawdjtorsdseintsseoriyorseofaceddrtinaewhs,IoC;a)Eroeoftef)Gnfmanadceoruywhadldeinpyadto()ysofsdeetoteb,oe()yrofwhmyieapmoripadoe()ofwhmtbep;o]
+[DELETED: )Gnfmanadceoruywhadeinafdrdtop,pdeeadtgaeaetoteb;a)Slpeofane,ifshenisrdbytersdyadbyteb;a)Ttteathssdtoafdcybdckinaewhsn6,IoC)()Rtofacdanadbyananfeasedbybdrsnttoedtehdd,adwnanenisrdapgfeofts()petotednofoladp.Tefefrayrdenorrnslbddytotenlege.TeanfdtepgfeaentrN5.TtSn5,IoC,b,adteseishdtordasf.QSFRLE--E.TebdmdteggofaletoaypnwoisldorcdbyarybdofpsinteUdSsorCeshcnorlewsbdonadldeadw)Ssacea,igteanfealefenttoedtehdds()asedbdr)Hsntbnc,fdg,orrdawdjtorsdseintsseorinayorseofacdrtinaewhsn6,IoC)Hssdtoafdclhybkinaewhsn6,IoC)()Hsnthdacnorler,sdoes;a)()HscdurohtttyherdadwlaytelsadrsggtepeofpyinIoadteofesofteAnplanade)Hsactceofplqninpyorhsaceofplsgidbyanlcgeyadbytebdbyr;o)Mstersofsn5,IoC,adbsrgtoetadeladcgrsfrlN6.TtSn5,IoC,b,adteseishdtordasf.SRP.Tebdmygtaletoanwossacda,igteanfdalefenttoedtehdds()aseybdr,adw]
+[DELETED: )Hsntbnc,fdg,orrdawdjtorsdseintsseorinayorseofacdrtinaewhsn6,IoC)Hssdtoafdclhybkinaewhsn6,IoC)()HsmdavdpylebdonadeinteUdSsorCafrapdofntlstnt)y)()Hsaddrdofpypefrfe()oeltsn()ysiyprtotedeofa)()Hsaddrdofmgtecgenrtoftejnwetypdfrntlstnfe(rysiyprtotedeofa)()Hsntbntestofaydyanwnttsn()ysprtoanorhsnrvysdaletopepyinayj;a)()HscdurohtthehsrdadwlaebelsadrsggtepeofpyinIoadtecfesofteAnplaN7.TtSn5,IoC,b,adteseishN8.TtSn5,IoC,b,adteseishdtordasf.PEA.()Noptlduscrslieapnwtvdcnorplcnofpeayidpttos,58or5,IoC)Psldurtscrwohdacraplcnofpeayslpytedsorcdsstta)Rdinorcyudinted,ttatofiswhp,m,c,n,elorbld)Rttotepeofpyororpsddt;a)Wnteseoftepsleadcnoea)Aptwohsplcnofpymypeoyurtedtsnofasgpnpttoaceatwhatltoe(eprwomstersofsn5,IoC)Aptwoisapntoaptpotssnslcewhtepsldm)Alpsidpttotssnslcywlaefladsel,rsadrsadrsoft]
+[DELETED: )Noptmypefrapcorgcptmgalrsoftsc,igtepfsn5)5,IoC)Nopnldurtscrslatayp,dyori)Fmaypnldasahhceprurte5oC,weledsntpttewgofprwgapnordgapndgtoap)Fmaypnwohshforhfotasahhcrinayfmwoisntldurte5,IoC;o)Fmaybsorpleyrsoftefmoso,frwgapnordgapndgtoaptussheyisadtoctbsurcr1,te5,IoC,orldasalhceprorhhcefyorisoeadbeb)Terncdinsn()oftssnstptapnldurtscrfmagptfyshpnwoisap,orfrsspdtoaptorteteptislyodtostorfmayiroreyadurtelsoftssetopeieoybsonbfofasdpnorgtpN9.TtSn5,IoC,b,adteseishdtordasf.PEAY--PLC.Tyfrplcnofpea,aptldurtscrslmtshssaspdbeofteb.Atam,tesssli)ActletopepyinI)AdedeinpyadbyanadpnaUdSsdtofe,ryadinofhrenaninofhretisadbyarlagonrdbytdSsdtofe)AmsdeinclpyadbyadpmwnaUdSsdtofeyadinofhrenAnpladpmorapmttsststobeanAnplamwnaninofhrenttisadbylagonrdbyteUdSsdtofe.Tedcpnofteenslbeatlo()ysoffee,orteett,adslbyettoteenrdofanadpcneprintsseasddbyteinttosbhclpyadpcnrd.Tenypsfrteenseddbyteinttostedsa,intei]
+[DELETED: sj,sliestblentoeenykeadsstopepcmsiseadeem.TepmslsytersteddaplenadtgpminclpybyteAnpla.Tmmtbeedadadbybytdesadmtdettalctiscdadttseclcyinala,adslieatam)Bcs)A)P)B)N)N)N)N)Plasadlye)Pla)Lyadrla)Mltyadd)Clmeadp)Pywhpresonc,r,n,g,h,dcadees)Clmewhpresons,ssadttofdesswhb,cdelmsorc)Dld)Clcs--teinoftectosdnthces)Sdadcgd)Ccpnm)Cladrhpyadp)P)Clp)P)P)Dlp)Isofdyinplpe--ldtodgm)Clp)Cdts--pyi)Cdastop)P)R)Myaddnofpyrnadenofr)Flfdaddgandgdtayp;a]
+[DELETED: )P,e,adlli)Anofegl,ssadgstlp;a)Rpwhpli.Csofi.Enofplmgp;a.Clc)Cleettissttoancyieplttofadeptpnuednofqdpsi,btntldtdpsadpgpsasddbyteinogteclpyd)Apgseonanenddbyanyrdbyadadbyteb;a)Snaswhbdp,n,fymep,ororpswhamfto()ysofeeintemtofpcmoaeldurcr1,te5,IoC,oranetlgpnoftelwofanags.Awnctediowhatltoe()cepradtotebdunrN1.TtSn5,IoC,b,adteseishdtordasf.PEAY--C.()Anarcnofpeaymybegdshcnbytebdifteatpsplcfpeayadhssycdto()ysoypgasadtobytesgpnosaceprpginac)Anatfrcnofpeaywosopeseinpgfrpcorgcplhecdatltoe()yrofsyphmybeptofato()yrcea,toshpsasadtobyasgpnorsgpsweprwopsinactadwohssdtgadeeintgstp.Frtepsoftss,"stosete()ormepcorgcpsinecry)Tebdsldprstoettepsofs6th5,IoC.Shrsslieedtgssnytoqyfrcnofpea,anadtgp,adfsfrana,plc,c,adrlofc.Shfsslntedsxhdds()eN1.TtSn5,IoC,b,adteseish]
+[DELETED: N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

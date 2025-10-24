@@ -1,0 +1,316 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 464
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE STATE DEPARTMENT OF EDUCATION; APPRO-
+3 PRIATING ADDITIONAL MONEYS TO THE STATE DEPARTMENT OF EDUCATION FOR
+4 FISCAL YEAR 2026; AUTHORIZING ADDITIONAL FULL-TIME EQUIVALENT POSI-
+5 TIONS FOR FISCAL YEAR 2026; REQUIRING DATA SHARING; PROVIDING FEDERAL
+6 FUNDING RESTRICTIONS; REQUIRING A REPORT ON UNDERPERFORMING CHARTER
+7 SCHOOLS; REQUIRING A REPORT FOR THE BUILDING CAPACITY PROJECT; AMENDING
+8 SECTION 30 OF HOUSE BILL NO. 251, AS ENACTED BY THE FIRST REGULAR SESSION
+9 OF THE SIXTY-EIGHTH IDAHO LEGISLATURE, TO REQUIRE PARTICIPATION IN THE
+10 STATE PROCUREMENT PROCESS; AMENDING SECTION 15 OF HOUSE BILL NO. 341, AS
+11 ENACTED BY THE FIRST REGULAR SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLA-
+12 TURE, TO REQUIRE PARTICIPATION IN THE STATE PROCUREMENT PROCESS; PRO-
+13 VIDING FOR CONDITIONS, LIMITATIONS, AND RESTRICTIONS; PROVIDING REAP-
+14 PROPRIATION AUTHORITY; APPROPRIATING ADDITIONAL MONEYS TO THE STATE
+15 DEPARTMENT OF EDUCATION FOR THE STUDENT SERVICES PROGRAM FOR FISCAL
+16 YEAR 2025; AND DECLARING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. In addition to any other appropriation provided by law,
+19 there is hereby appropriated to the State Department of Education for the
+20 Student Services Program the following amounts to be expended according to
+21 the designated expense classes from the listed funds for the period July 1,
+22 2025, through June 30, 2026:
+23 FOR
+24 FOR FOR FOR TRUSTEE AND
+25 PERSONNEL OPERATING CAPITAL BENEFIT
+26 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+27 FROM:
+28 General
+29 Fund $39,100 $267,300 $1,500 $307,900
+30 Public Charter School Authorizers
+31 Fund $300,000 300,000
+32 School Bus Camera
+33 Fund 6,800 6,800
+34 American Rescue Plan
+35 Fund 89,900 174,100 264,000
+36 Federal Grant
+37 Fund 136,700 1,429,500 4,500 0 1,570,700
+38 TOTAL $265,700 $1,870,900 $6,000 $306,800 $2,449,400
+2
+1 SECTION 2. FTP AUTHORIZATION. In addition to any other authorization
+2 provided by law, the full-time equivalent position authorization provided
+3 to the State Department of Education is hereby increased by one (1.00) for
+4 the period July 1, 2025, through June 30, 2026.
+5 SECTION 3. DATA SHARING. The State Department of Education and the Of-
+6 fice of the State Board of Education shall partner to provide a monthly data
+7 file to the Budget and Policy Analysis Division of the Legislative Services
+8 Office using data stored in the Idaho System for Educational Excellence.
+9 Each data file shall be provided no later than the 10th day of each month in
+10 an electronic spreadsheet format that allows for analysis, formulas, and
+11 report building. The final format and content of the data file shall be de-
+12 termined by Budget and Policy Analysis Division of the Legislative Services
+13 Office. Data that could identify a student's special status and that is pro-
+14 tected for privacy concerns should be omitted, and an alternative data point
+15 should be provided when possible.
+16 SECTION 4. FEDERAL FUNDING RESTRICTIONS. Pursuant to Section
+17 67-3511(2), Idaho Code, legislative appropriations shall not be transferred
+18 from one fund to another fund unless expressly approved by the Legislature.
+19 Appropriations made pursuant to this act contingent on anticipated federal
+20 funding, grants, or programs shall not be supplanted by state funds in the
+21 event of any reduction or elimination of such federal support without leg-
+22 islative approval. The agency receiving the appropriation shall take all
+23 necessary actions to ensure that the state is not obligated to replace lost
+24 federal funds. Pursuant to Section 67-1917, Idaho Code, the agency will
+25 submit an inventory of federal funds utilized by the agency. State funds ap-
+26 propriated to satisfy match requirements for federal funds shall be reverted
+27 to the maximum extent possible if federal funds requiring match are reduced
+28 or eliminated. The agency shall promptly notify the Budget and Policy Anal-
+29 ysis Division of the Legislative Services Office of any significant changes
+30 related to federal funding, grants, or programs. This does not apply to
+31 standard federal funding adjustments that take place within an agency's cost
+32 allocation plan or indirect expenditure plan for indirect costs and agency
+33 support staff, FMAP adjustments, or entitlement programs.
+34 SECTION 5. UNDERPERFORMING CHARTER SCHOOLS. The State Department of
+35 Education shall provide a report to the Budget and Policy Analysis Division
+36 of the Legislative Services Office on the performance status of each charter
+37 school that received financial support for being considered as underper-
+38 forming. The report shall be submitted no later than January 5, 2026.
+39 SECTION 6. BUILDING CAPACITY PROJECT. The State Department of Educa-
+40 tion shall provide a report to the Budget and Policy Analysis Division of the
+41 Legislative Services Office on the performance status of each school partic-
+42 ipating in the building capacity project. The report shall be submitted no
+43 later than January 5, 2026.
+44 SECTION 7. That Section 30 of House Bill No. 251, as enacted by the
+45 First Regular Session of the Sixty-eighth Idaho Legislature, be, and the
+3
+1 same is hereby amended to read as follows:
+2 SECTION 30. ACQUISITIONS. Consistent with the provisions
+3 of Chapter 92, Title 67, Idaho Code, and funding provided in
+4 Section 5 of this act, the State Department of Education is
+5 encouraged required to engage in open, competitive acquisition
+6 processes. The State Department of Education shall provide a re-
+7 port to the Joint Finance-Appropriations Committee by December 1,
+8 2025, on all contracts signed during fiscal year 2025 for property
+9 valued at more than $25,000. The report shall include for each
+10 contract: (a) the amount; (b) the duration; (c) the parties; (d)
+11 the subject; (e) whether the contract was awarded as a result of an
+12 open, competitive acquisition process or as a sole source or other
+13 noncompetitive procurement pursuant to Section 67-9221, Idaho
+14 Code; and (f) the rationale for signing any sole source or other
+15 noncompetitive procurements.
+16 SECTION 8. That Section 15 of House Bill No. 341, as enacted by the
+17 First Regular Session of the Sixty-eighth Idaho Legislature, be, and the
+18 same is hereby amended to read as follows:
+19 SECTION 15. ACQUISITIONS. Consistent with the provisions of
+20 Chapter 92, Title 67, Idaho Code, the State Department of Education
+21 is encouraged required to engage in open, competitive acquisition
+22 processes. The State Department of Education shall provide a re-
+23 port to the Joint Finance-Appropriations Committee by December 1,
+24 2025, on all contracts signed during fiscal year 2025 for property
+25 valued at more than $25,000. The report shall include for each
+26 contract: (a) the amount; (b) the duration; (c) the parties; (d)
+27 the subject; (e) whether the contract was awarded as a result of an
+28 open, competitive acquisition process or as a sole source or other
+29 noncompetitive procurement pursuant to Section 67-9221, Idaho
+30 Code; and (f) the rationale for signing any sole source or other
+31 noncompetitive procurements.
+32 SECTION 9. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+33 made pursuant to this act are subject to the conditions, limitations, and re-
+34 strictions specified in this act.
+35 SECTION 10. REAPPROPRIATION AUTHORITY. There is hereby reappropriated
+36 to the State Department of Education any unexpended and unencumbered bal-
+37 ances appropriated to the State Department of Education in the Administra-
+38 tion Program from the General Fund for the purpose of an office remodel for
+39 fiscal year 2025, in an amount not to exceed $800,000 from the General Fund to
+40 be used for nonrecurring expenditures related to the office remodel for the
+41 period July 1, 2025 through June 30, 2026. The Office of the State Controller
+42 shall confirm the reappropriation amount, by fund, expense classes, and pro-
+43 gram, with the Legislative Service Office prior to processing the reappro-
+44 priation authorized herein.
+4
+1 SECTION 11. In addition to the appropriation made in Section 1, Chap-
+2 ter 291, Laws of 2024, and any other appropriation provided by law, there
+3 is hereby appropriated to the State Department of Education for the Student
+4 Services Program $33,600 from the School Bus Camera Fund to be expended for
+5 trustee and benefit payments for the period July 1, 2024, through June 30,
+6 2025.
+7 SECTION 12. An emergency existing therefor, which emergency is hereby
+8 declared to exist, Section 11 of this act shall be in full force and effect on
+9 and after passage and approval, and Sections 1 through 10 of this act shall be
+10 in full force and effect on and after July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YASCNAGTOTEANTOTESEDTOFE;AGALMSTOTESEDTOFENFLYR2;AGALFEETPSFRFLYR2;RGDAS;PGFGR;RGARTONUGC;RGARTFRTEBGCYP;AN30OFHEBLN.2,ASEDBYTEFTRRSFTESHIOL,TOREPNINTEPTP;AGSN15OFHEBLN.3,ADBYTEFTRRSNOFTESHIOL,TOREPNINTESEPTP;PGFRC,L,ADR;PGRNA;AGALMSTOTESTOFENFRTESTSSPMFRFR2;ADDGANEYADPGEEDeItEdbyteLeofteSeofIN1.InantoayoranpdbyleishyadtoteSeDtofEnfrttSsPmtefgastobeedagteddeecsfmteldfsfrtepdJy1,thJe3,2RFRFRTEALOGCSESOYPST0$0$0$cCrSlA03lBsC06nReP0102lG0104010$0$0$0$]
+[DELETED: N2.FPA.Inantoayoradbyl,tefeetpnanpoteSeDtofEnishyidbyoe()fepdJy1,2,thJe3,2N3.DAS.TeSeDtofEnadteOeofteSeBdofEnslprtopeamydetoteBtadPyAsDnofteLeSeugdasdinteIoSmfrElEhdafeslbepdnolrtnte1hdyofehmhinecstftttasfra,f,atb.TeflftadctoftedafeslbeddbyBtadPyAsDnofteLeS.Dattcdiyassslssadttispdfrpycssdbeo,adanaedapdbepdwnpN4.FLFGR.PttoS,IoC,leasslntbetmoefdtoarfduseyadbyteLsmepttotsatctonadf,g,orpsslntbesdbysefsinttofayrnorenofshflstwtlea.Teayrgteanslteayastoeettteseisntodtorellf.PttoSn6,IoC,teaywtaniyofflfsudbytea.Sefsadtosymhrsfrflfsslberotemmetpeifflfsrgmhaerre.TeayslpynyteBtadPyAsDnofteLeSsOeofaystcdtoflf,g,orp.Tsdsntaytdflfgastttepewnanascnpnoriteepnfritcsadats,FPa,oretpN5.UGCRS.TeSeDtonslpearttoteBtadPyAsDfteLeSsOeontepessofehclttrdflstfrbgcdasu.TertslbesdnolrtnJy5,2N6.BGCYP.TeSeDtofEnslpearttoteBtadPyAsDnofteSsOeontepessofehslpgintebgcyp.TertslbesdnrtnJy5,2N7.TtSn30ofHeBlN.2,asedbyttRrSnofteShIoL,b,adt]
+[DELETED: eishyadtordasfN3.A.CtwhtepfCr9,Te6,IoC,adfgpdin5oftsa,teSeDtofEnidrdtoeeino,cea.TeSeDtofEnslpearttoteJtFsCebyDr1,onalcssddgflyr25frpdatmetn$.Tertsliefre:()tea;()ted;()tep;(es;()wrtectwsadasartofa,ceanpsorasaseseoroeptpttoSn6,I;ad()terefrsgayseseoroepN8.TtSn15ofHeBlN.3,asedbyttRrSnofteShIoL,b,adteishyadtordasfN1.A.Ctwhtepsor9,Te6,IoC,teSeDtofEsedrdtoeeino,cea.TeSeDtofEnslpearttoteJtFsCebyDr1,onalcssddgflyr25frpdatmetn$.Tertsliefre:()tea;()ted;()tep;(es;()wrtectwsadasartofa,ceanpsorasaseseoroeptpttoSn6,I;ad()terefrsgayseseoroepN9.C,L,ADR.Aepttotsataesttotec,l,adrssdintsaN1.RNA.TeishyroteSeDtofEnayudadudbsadtoteSeDtofEninteAnPmfmteGlFdfrtepeofanoerlflyr2,inanatnttoed$0fmteGlFdteudfrngesrdtoteoerlfrtdJy1,25thJe3,2.TeOeofteSeClcmterna,byf,eec,adp,whteLeSeOeprtopgternadh]
+[DELETED: N1.InantoteanmeinSn1,Cr2,Lsof2,adayoranpdbyl,tshyadtoteSeDtofEnfrteSsPm$0fmteSlBsCaFdtobeedfeadbtpsfrtepdJy1,2,thJe3N1.Aneyegt,wheyishdtoe,Sn11oftsatslbeinflfeadetodarpeada,adSs1th10oftsatslbnflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 464
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE STATE DEPARTMENT OF EDUCATION; APPRO-
+3 PRIATING ADDITIONAL MONEYS TO THE STATE DEPARTMENT OF EDUCATION FOR
+4 FISCAL YEAR 2026; AUTHORIZING ADDITIONAL FULL-TIME EQUIVALENT POSI-
+5 TIONS FOR FISCAL YEAR 2026; REQUIRING DATA SHARING; PROVIDING FEDERAL
+6 FUNDING RESTRICTIONS; REQUIRING A REPORT ON UNDERPERFORMING CHARTER
+7 SCHOOLS; REQUIRING A REPORT FOR THE BUILDING CAPACITY PROJECT; AMENDING
+8 SECTION 30 OF HOUSE BILL NO. 251, AS ENACTED BY THE FIRST REGULAR SESSION
+9 OF THE SIXTY-EIGHTH IDAHO LEGISLATURE, TO REQUIRE PARTICIPATION IN THE
+10 STATE PROCUREMENT PROCESS; AMENDING SECTION 15 OF HOUSE BILL NO. 341, AS
+11 ENACTED BY THE FIRST REGULAR SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLA-
+12 TURE, TO REQUIRE PARTICIPATION IN THE STATE PROCUREMENT PROCESS; PRO-
+13 VIDING FOR CONDITIONS, LIMITATIONS, AND RESTRICTIONS; PROVIDING REAP-
+14 PROPRIATION AUTHORITY; APPROPRIATING ADDITIONAL MONEYS TO THE STATE
+15 DEPARTMENT OF EDUCATION FOR THE STUDENT SERVICES PROGRAM FOR FISCAL
+16 YEAR 2025; AND DECLARING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. In addition to any other appropriation provided by law,
+19 there is hereby appropriated to the State Department of Education for the
+20 Student Services Program the following amounts to be expended according to
+21 the designated expense classes from the listed funds for the period July 1,
+22 2025, through June 30, 2026:
+23 FOR
+24 FOR FOR FOR TRUSTEE AND
+25 PERSONNEL OPERATING CAPITAL BENEFIT
+26 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+27 FROM:
+28 General
+29 Fund $39,100 $267,300 $1,500 $307,900
+30 Public Charter School Authorizers
+31 Fund $300,000 300,000
+32 School Bus Camera
+33 Fund 6,800 6,800
+34 American Rescue Plan
+35 Fund 89,900 174,100 264,000
+36 Federal Grant
+37 Fund 136,700 1,429,500 4,500 0 1,570,700
+38 TOTAL $265,700 $1,870,900 $6,000 $306,800 $2,449,400
+
+2
+1 SECTION 2. FTP AUTHORIZATION. In addition to any other authorization
+2 provided by law, the full-time equivalent position authorization provided
+3 to the State Department of Education is hereby increased by one (1.00) for
+4 the period July 1, 2025, through June 30, 2026.
+5 SECTION 3. DATA SHARING. The State Department of Education and the Of-
+6 fice of the State Board of Education shall partner to provide a monthly data
+7 file to the Budget and Policy Analysis Division of the Legislative Services
+8 Office using data stored in the Idaho System for Educational Excellence.
+9 Each data file shall be provided no later than the 10th day of each month in
+10 an electronic spreadsheet format that allows for analysis, formulas, and
+11 report building. The final format and content of the data file shall be de-
+12 termined by Budget and Policy Analysis Division of the Legislative Services
+13 Office. Data that could identify a student's special status and that is pro-
+14 tected for privacy concerns should be omitted, and an alternative data point
+15 should be provided when possible.
+16 SECTION 4. FEDERAL FUNDING RESTRICTIONS. Pursuant to Section
+17 67-3511(2), Idaho Code, legislative appropriations shall not be transferred
+18 from one fund to another fund unless expressly approved by the Legislature.
+19 Appropriations made pursuant to this act contingent on anticipated federal
+20 funding, grants, or programs shall not be supplanted by state funds in the
+21 event of any reduction or elimination of such federal support without leg-
+22 islative approval. The agency receiving the appropriation shall take all
+23 necessary actions to ensure that the state is not obligated to replace lost
+24 federal funds. Pursuant to Section 67-1917, Idaho Code, the agency will
+25 submit an inventory of federal funds utilized by the agency. State funds ap-
+26 propriated to satisfy match requirements for federal funds shall be reverted
+27 to the maximum extent possible if federal funds requiring match are reduced
+28 or eliminated. The agency shall promptly notify the Budget and Policy Anal-
+29 ysis Division of the Legislative Services Office of any significant changes
+30 related to federal funding, grants, or programs. This does not apply to
+31 standard federal funding adjustments that take place within an agency's cost
+32 allocation plan or indirect expenditure plan for indirect costs and agency
+33 support staff, FMAP adjustments, or entitlement programs.
+34 SECTION 5. UNDERPERFORMING CHARTER SCHOOLS. The State Department of
+35 Education shall provide a report to the Budget and Policy Analysis Division
+36 of the Legislative Services Office on the performance status of each charter
+37 school that received financial support for being considered as underper-
+38 forming. The report shall be submitted no later than January 5, 2026.
+39 SECTION 6. BUILDING CAPACITY PROJECT. The State Department of Educa-
+40 tion shall provide a report to the Budget and Policy Analysis Division of the
+41 Legislative Services Office on the performance status of each school partic-
+42 ipating in the building capacity project. The report shall be submitted no
+43 later than January 5, 2026.
+44 SECTION 7. That Section 30 of House Bill No. 251, as enacted by the
+45 First Regular Session of the Sixty-eighth Idaho Legislature, be, and the
+
+3
+1 same is hereby amended to read as follows:
+2 SECTION 30. ACQUISITIONS. Consistent with the provisions
+3 of Chapter 92, Title 67, Idaho Code, and funding provided in
+4 Section 5 of this act, the State Department of Education is
+5 encouraged required to engage in open, competitive acquisition
+6 processes. The State Department of Education shall provide a re-
+7 port to the Joint Finance-Appropriations Committee by December 1,
+8 2025, on all contracts signed during fiscal year 2025 for property
+9 valued at more than $25,000. The report shall include for each
+10 contract: (a) the amount; (b) the duration; (c) the parties; (d)
+11 the subject; (e) whether the contract was awarded as a result of an
+12 open, competitive acquisition process or as a sole source or other
+13 noncompetitive procurement pursuant to Section 67-9221, Idaho
+14 Code; and (f) the rationale for signing any sole source or other
+15 noncompetitive procurements.
+16 SECTION 8. That Section 15 of House Bill No. 341, as enacted by the
+17 First Regular Session of the Sixty-eighth Idaho Legislature, be, and the
+18 same is hereby amended to read as follows:
+19 SECTION 15. ACQUISITIONS. Consistent with the provisions of
+20 Chapter 92, Title 67, Idaho Code, the State Department of Education
+21 is encouraged required to engage in open, competitive acquisition
+22 processes. The State Department of Education shall provide a re-
+23 port to the Joint Finance-Appropriations Committee by December 1,
+24 2025, on all contracts signed during fiscal year 2025 for property
+25 valued at more than $25,000. The report shall include for each
+26 contract: (a) the amount; (b) the duration; (c) the parties; (d)
+27 the subject; (e) whether the contract was awarded as a result of an
+28 open, competitive acquisition process or as a sole source or other
+29 noncompetitive procurement pursuant to Section 67-9221, Idaho
+30 Code; and (f) the rationale for signing any sole source or other
+31 noncompetitive procurements.
+32 SECTION 9. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+33 made pursuant to this act are subject to the conditions, limitations, and re-
+34 strictions specified in this act.
+35 SECTION 10. REAPPROPRIATION AUTHORITY. There is hereby reappropriated
+36 to the State Department of Education any unexpended and unencumbered bal-
+37 ances appropriated to the State Department of Education in the Administra-
+38 tion Program from the General Fund for the purpose of an office remodel for
+39 fiscal year 2025, in an amount not to exceed $800,000 from the General Fund to
+40 be used for nonrecurring expenditures related to the office remodel for the
+41 period July 1, 2025 through June 30, 2026. The Office of the State Controller
+42 shall confirm the reappropriation amount, by fund, expense classes, and pro-
+43 gram, with the Legislative Service Office prior to processing the reappro-
+44 priation authorized herein.
+
+4
+1 SECTION 11. In addition to the appropriation made in Section 1, Chap-
+2 ter 291, Laws of 2024, and any other appropriation provided by law, there
+3 is hereby appropriated to the State Department of Education for the Student
+4 Services Program $33,600 from the School Bus Camera Fund to be expended for
+5 trustee and benefit payments for the period July 1, 2024, through June 30,
+6 2025.
+7 SECTION 12. An emergency existing therefor, which emergency is hereby
+8 declared to exist, Section 11 of this act shall be in full force and effect on
+9 and after passage and approval, and Sections 1 through 10 of this act shall be
+10 in full force and effect on and after July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YASCNAGTOTEANTOTESEDTOFE;AGALMSTOTESEDTOFENFLYR2;AGALFEETPSFRFLYR2;RGDAS;PGFGR;RGARTONUGC;RGARTFRTEBGCYP;AN30OFHEBLN.2,ASEDBYTEFTRRSFTESHIOL,TOREPNINTEPTP;AGSN15OFHEBLN.3,ADBYTEFTRRSNOFTESHIOL,TOREPNINTESEPTP;PGFRC,L,ADR;PGRNA;AGALMSTOTESTOFENFRTESTSSPMFRFR2;ADDGANEYADPGEEDeItEdbyteLeofteSeofIN1.InantoayoranpdbyleishyadtoteSeDtofEnfrttSsPmtefgastobeedagteddeecsfmteldfsfrtepdJy1,thJe3,2RFRFRTEALOGCSESOYPST0$0$0$cCrSlA03lBsC06nReP0102lG0104010$0$0$0$]
+[DELETED: N2.FPA.Inantoayoradbyl,tefeetpnanpoteSeDtofEnishyidbyoe()fepdJy1,2,thJe3,2N3.DAS.TeSeDtofEnadteOeofteSeBdofEnslprtopeamydetoteBtadPyAsDnofteLeSeugdasdinteIoSmfrElEhdafeslbepdnolrtnte1hdyofehmhinecstftttasfra,f,atb.TeflftadctoftedafeslbeddbyBtadPyAsDnofteLeS.Dattcdiyassslssadttispdfrpycssdbeo,adanaedapdbepdwnpN4.FLFGR.PttoS,IoC,leasslntbetmoefdtoarfduseyadbyteLsmepttotsatctonadf,g,orpsslntbesdbysefsinttofayrnorenofshflstwtlea.Teayrgteanslteayastoeettteseisntodtorellf.PttoSn6,IoC,teaywtaniyofflfsudbytea.Sefsadtosymhrsfrflfsslberotemmetpeifflfsrgmhaerre.TeayslpynyteBtadPyAsDnofteLeSsOeofaystcdtoflf,g,orp.Tsdsntaytdflfgastttepewnanascnpnoriteepnfritcsadats,FPa,oretpN5.UGCRS.TeSeDtonslpearttoteBtadPyAsDfteLeSsOeontepessofehclttrdflstfrbgcdasu.TertslbesdnolrtnJy5,2N6.BGCYP.TeSeDtofEnslpearttoteBtadPyAsDnofteSsOeontepessofehslpgintebgcyp.TertslbesdnrtnJy5,2N7.TtSn30ofHeBlN.2,asedbyttRrSnofteShIoL,b,adt]
+[DELETED: eishyadtordasfN3.A.CtwhtepfCr9,Te6,IoC,adfgpdin5oftsa,teSeDtofEnidrdtoeeino,cea.TeSeDtofEnslpearttoteJtFsCebyDr1,onalcssddgflyr25frpdatmetn$.Tertsliefre:()tea;()ted;()tep;(es;()wrtectwsadasartofa,ceanpsorasaseseoroeptpttoSn6,I;ad()terefrsgayseseoroepN8.TtSn15ofHeBlN.3,asedbyttRrSnofteShIoL,b,adteishyadtordasfN1.A.Ctwhtepsor9,Te6,IoC,teSeDtofEsedrdtoeeino,cea.TeSeDtofEnslpearttoteJtFsCebyDr1,onalcssddgflyr25frpdatmetn$.Tertsliefre:()tea;()ted;()tep;(es;()wrtectwsadasartofa,ceanpsorasaseseoroeptpttoSn6,I;ad()terefrsgayseseoroepN9.C,L,ADR.Aepttotsataesttotec,l,adrssdintsaN1.RNA.TeishyroteSeDtofEnayudadudbsadtoteSeDtofEninteAnPmfmteGlFdfrtepeofanoerlflyr2,inanatnttoed$0fmteGlFdteudfrngesrdtoteoerlfrtdJy1,25thJe3,2.TeOeofteSeClcmterna,byf,eec,adp,whteLeSeOeprtopgternadh]
+[DELETED: N1.InantoteanmeinSn1,Cr2,Lsof2,adayoranpdbyl,tshyadtoteSeDtofEnfrteSsPm$0fmteSlBsCaFdtobeedfeadbtpsfrtepdJy1,2,thJe3N1.Aneyegt,wheyishdtoe,Sn11oftsatslbeinflfeadetodarpeada,adSs1th10oftsatslbnflfeadetonadarJy1,2]

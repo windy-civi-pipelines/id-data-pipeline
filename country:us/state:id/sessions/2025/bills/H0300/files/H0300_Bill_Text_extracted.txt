@@ -1,0 +1,497 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 300
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO BROADBAND; AMENDING SECTION 40-516, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING LEGISLATIVE INTENT FOR THE DIG ONCE POLICY; AMENDING
+4 SECTION 40-517, IDAHO CODE, TO DEFINE A TERM AND TO REVISE A DEFINITION;
+5 AMENDING SECTION 40-518, IDAHO CODE, TO REVISE PROVISIONS REGARDING DIG
+6 ONCE POLICY NOTIFICATION AND PROJECT IDENTIFICATION; AMENDING SECTION
+7 40-520, IDAHO CODE, TO REVISE PROVISIONS REGARDING RIGHTS-OF-WAY FOR
+8 BROADBAND; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 40-516, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 40-516. LEGISLATIVE INTENT: DIG ONCE POLICY. (1) It is the intent of
+13 the legislature to recognize that the citizens of the state live and work in
+14 a data-driven society and that the connectivity in Idaho's urban and rural
+15 areas are key for a thriving Idaho economy. Broadband is a vital component in
+16 accomplishing connectivity throughout Idaho.
+17 (2) The legislature recognizes and hereby declares that broadband ser-
+18 vice throughout the entire state is in the overall public interest for the
+19 state of Idaho in furtherance of the social and economic development of the
+20 state, and the use of highway rights-of-way to support broadband infrastruc-
+21 ture and a "Dig Once Policy" furthers the overall public interest.
+22 (3) It is the intent of the legislature that the Idaho transportation
+23 department develop rules, standards, and policies consistent with the "Dig
+24 Once Policy" to facilitate the expansion of broadband with the cost-effi-
+25 cient, orderly, and coordinated installation of broadband infrastructure on
+26 highway rights-of-way and during roadway construction.
+27 (4) It is also the intent of the legislature that single county-wide
+28 highway districts formed pursuant to chapter 14, title 40, Idaho Code, de-
+29 velop nondiscriminatory and competitively neutral rules, standards, and
+30 policies consistent with the "Dig Once Policy" to facilitate the expansion
+31 of broadband with the cost-efficient, orderly, and coordinated installation
+32 of broadband infrastructure on highway rights-of-way and during roadway
+33 construction.
+34 SECTION 2. That Section 40-517, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 40-517. DEFINITIONS. As used in sections 40-515 through 40-520, Idaho
+37 Code:
+38 (1) "Broadband" means wide bandwidth communication transmissions al-
+39 lowing high speed internet access with an ability to simultaneously trans-
+40 port multiple signals and traffic types at a minimum transmission speed of
+2
+1 one hundred (100) megabits per second for downloads and twenty (20) megabits
+2 per second for uploads.
+3 (2) "Broadband infrastructure" means networks of deployed telecommu-
+4 nications equipment, conduit, and technologies necessary to provide broad-
+5 band and other advanced telecommunications services to wholesalers or end
+6 users, including but not limited to private homes, businesses, commercial
+7 establishments, schools, or public institutions.
+8 (3) "Broadband provider" means any entity that:
+9 (a) Provides broadband services, including but not limited to a
+10 telecommunications provider, cable service provider, broadband
+11 provider, cellular provider, political subdivision that provides
+12 broadband services, electric cooperative that provides broadband
+13 services, electric utility that provides broadband services, state
+14 government entity that provides broadband services, tribal government
+15 that provides broadband services, or internet service provider; or
+16 (b) Builds broadband infrastructure, including but not limited to a
+17 port, nonprofit organization, or private-public partnership estab-
+18 lished for the purpose of expanding broadband in the state.
+19 (4) "Department" means the Idaho transportation department.
+20 (5) "Dig Once Policy" means a policy or practice that minimizes the
+21 number and scale of excavations or construction and costs when installing
+22 broadband infrastructure in highway rights-of-way.
+23 (6) "District" means a single county-wide highway district formed pur-
+24 suant to chapter 14, title 40, Idaho Code.
+25 (6) (7) "Highway" means a road that is part of the state or district
+26 highway system.
+27 (7) (8) "Longitudinal access" means access to or use of any part of a
+28 right-of-way of a highway that extends generally parallel to the right-of-
+29 way for a total of one hundred (100) or more linear feet.
+30 SECTION 3. That Section 40-518, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 40-518. DIG ONCE POLICY NOTIFICATION AND PROJECT IDENTIFICATION. (1)
+33 The department and district shall develop on a competitively neutral basis
+34 a registry of broadband providers interested in installing broadband infra-
+35 structure along a highway. The department and district shall update the reg-
+36 istry no less than once per year.
+37 (2) The department and district shall identify potential projects man-
+38 aged by the department or district, either self-performed by the department
+39 or district or performed under contract, on highways under the department's
+40 or district's jurisdiction for which notice under subsection (3) of this
+41 section is required. Potential projects eligible for identification shall
+42 include projects that involve the construction of underground infrastruc-
+43 ture, road construction, or other work that will result in longitudinal
+44 access that could reasonably include, or prepare for, the installation of
+45 broadband infrastructure consistent with the "Dig Once Policy."
+46 (3) For each project identified under subsection (2) of this section,
+47 the department or district shall timely notify the broadband providers on
+48 the registry established under subsection (1) of this section:
+3
+1 (a) That the project has been identified as suitable for coordination
+2 with broadband providers;
+3 (b) Of the broadband provider's opportunity to coordinate with the de-
+4 partment or district to accommodate the installation of broadband in-
+5 frastructure; and
+6 (c) Of the process for submitting a statement of interest to coordinate
+7 with the department or district on the project.
+8 (4) The department or district shall provide each broadband provider
+9 that receives a notice under subsection (3) of this section no less than
+10 thirty (30) days from the date the notice is issued to submit to the depart-
+11 ment or district a statement of interest to coordinate with the department
+12 or district.
+13 (5) For each project for which the department or district provides no-
+14 tice under this section, the department or district shall engage with each
+15 broadband provider that submits a statement of interest to determine whether
+16 accommodation of installation of broadband infrastructure is appropriate.
+17 (6) The department or district shall make the final determination of
+18 the suitability of a project to include installation of broadband infra-
+19 structure and may prescribe any conditions, requirements, restrictions,
+20 or other provisions in furtherance of the "Dig Once Policy." Conditions,
+21 requirements, restrictions, or provisions prescribed pursuant to this
+22 subsection may include but need not be limited to liability provisions, re-
+23 quirements related to the financial responsibilities for future relocation
+24 of broadband infrastructure if relocation is necessary, and indemnifica-
+25 tion provisions. The department or district may deny the installation of
+26 broadband infrastructure if the installation hinders or obstructs highway
+27 construction, maintenance, or operational safety, is contrary to statute or
+28 rule, or unduly delays or interferes with construction, maintenance, joint
+29 trenching projects, or the repair or construction of water, wastewater,
+30 electrical, or gas line facilities.
+31 (7) The department may install conduit for its own use where appro-
+32 priate or in support of expanding broadband infrastructure in the state of
+33 Idaho.
+34 (8) The department and district shall promulgate and follow rules for
+35 carrying out the provisions of this section that are nondiscriminatory, neu-
+36 tral, fair, and objective as between all broadband providers and that pro-
+37 mote competition among broadband providers. Rules shall include, at a mini-
+38 mum:
+39 (a) Procedures consistent with the "Dig Once Policy" for processing and
+40 reviewing statements of interest received from a broadband provider by
+41 the department or district. Consistent with the "Dig Once Policy," the
+42 department or district shall issue rules that will restrict speculative
+43 practices that may unduly impact and congest the department's rights-
+44 of-way;
+45 (b) A requirement that a broadband provider shall be charged for the
+46 actual cost incurred by the department or district as a result of the
+47 installation of a broadband provider's broadband infrastructure. If
+48 there is more than one (1) broadband provider installing broadband
+49 infrastructure, then each broadband provider shall share equally in
+50 the common charges of the installation of broadband infrastructure,
+4
+1 including but not limited to trenching, boring, traffic controls, and
+2 make-ready costs;
+3 (c) Criteria for identifying projects that would be suitable for the
+4 placement of broadband infrastructure;
+5 (d) Criteria for the installation of the department's own conduit.
+6 Rules may allow use of such conduit by broadband providers;
+7 (e) Procedures and forms for permitting processes; and
+8 (f) A contested case administrative appeals process, pursuant to the
+9 Idaho administrative procedure act, chapter 52, title 67, Idaho Code.
+10 (9) The department or district may not grant any longitudinal access
+11 under this section that results in a significant compromise of the safe, ef-
+12 ficient, and convenient use of a highway for the traveling public.
+13 SECTION 4. That Section 40-520, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 40-520. RIGHTS-OF-WAY FOR BROADBAND. (1) Except as provided in sub-
+16 section (5) of this section, the department or district shall allow a broad-
+17 band provider longitudinal use and access to the rights-of-way of a highway
+18 for the installation, operation, and maintenance of broadband infrastruc-
+19 ture.
+20 (2) The department or district shall enter into a license agreement
+21 with a broadband provider and issue a permit before granting it any longi-
+22 tudinal access under this section. Except as specifically provided by the
+23 agreement, a property interest in a right-of-way may not be granted under the
+24 provisions of this section. An agreement entered into by the department or
+25 district under this section:
+26 (a) Shall include terms and conditions that are nondiscriminatory as
+27 among broadband providers and are consistent with the public policy
+28 promoting the expansion of broadband infrastructure in Idaho, such as
+29 liability provisions, requirements related to the financial responsi-
+30 bilities for future relocation of underground broadband infrastructure
+31 if relocation is necessary, and indemnification provisions;
+32 (b) Shall specify maintenance responsibilities for broadband infra-
+33 structure being placed;
+34 (c) May require that the department be allowed to utilize the broadband
+35 infrastructure only for public safety warnings, road condition notifi-
+36 cations, and amber alerts to motorists on highways;
+37 (d) May With respect to the department, the agreement may require that
+38 the broadband provider install conduit for nonexclusive use, in which
+39 the cost of the project shall be shared proportionally. Alternatively,
+40 if the department requires the broadband provider to install only one
+41 (1) conduit of equal or smaller size of the conduit being installed ex-
+42 clusively for internal department purposes, then the department shall
+43 be responsible only for the costs of the additional materials and labor
+44 for the installation of its own conduit. The department must keep all
+45 documents and records regarding the internal use of the conduit and make
+46 public such documents if requested. The department may not allow the
+47 use of its internal conduit to any other entity. If the department al-
+48 lows the use of internal conduit to another entity, then the department
+49 shall reimburse the broadband provider for half of the project costs;
+5
+1 (e) Shall specify that the broadband provider shall own its broadband
+2 infrastructure; and
+3 (f) Shall specify that the use of the rights-of-way shall be nonexclu-
+4 sive.
+5 (3) A broadband provider shall be responsible for the costs of in-
+6 stalling its own broadband infrastructure on the department's or the
+7 district's right-of-way. If there is more than one (1) broadband provider
+8 installing broadband infrastructure at the same project, then the broadband
+9 provider is responsible for its pro rata share of the cost.
+10 (4) The department shall require the same fees from a broadband
+11 provider under this section for longitudinal access to the right-of-way as
+12 a public utility defined under section 61-129, Idaho Code. However, fees
+13 charged to a cable provider shall be in accordance with applicable federal
+14 law.
+15 (5) The department or district may not grant any longitudinal access
+16 under this section that results in a significant compromise of the safe, ef-
+17 ficient, and convenient use of a highway for the traveling public.
+18 (6) The department may install conduit for its own use where appro-
+19 priate or in support of expanding broadband infrastructure in the state of
+20 Idaho.
+21 (7) The department and district shall promulgate rules:
+22 (a) Governing the installation, operation, and maintenance of broad-
+23 band infrastructure granted longitudinal access pursuant to this sec-
+24 tion;
+25 (b) Specifying the procedures for establishing an agreement for longi-
+26 tudinal access for a broadband provider;
+27 (c) Specifying criteria for the installation of the department's own
+28 conduit and use of such conduit by broadband providers consistent with
+29 this section. The provisions of this paragraph shall apply only to the
+30 department; and
+31 (d) Providing for the relocation or removal of broadband infrastruc-
+32 ture for needed changes to a highway on the interstate system.
+33 (8) Nothing in section 40-515, Idaho Code, through this section is in-
+34 tended to preempt, diminish, or otherwise limit the authority of the depart-
+35 ment or district over public rights-of-way.
+36 SECTION 5. An emergency existing therefor, which emergency is hereby
+37 declared to exist, this act shall be in full force and effect on and after
+38 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOB;AGSN4,IOC,TOREPSRGLEITFRTEDGOEP;AN4,IOC,TODEATMADTOREADGSN4,IOC,TOREPSRGDEPYNNADPTI;AGS,IOC,TOREPSRGRYF;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.LEI:DGOEP.()ItisteitoeletoretttecsofteseleadwkidnsyadtttecyinIsunadrsaekyfratgIoe.BdisavlctigcyttI)TelersadhydsttbdsettteeeseisinteolpcitfrteofIoinfeoftesladecdtoft,adteueofhyrytostbdieada"gOeP"fsteolpci)ItisteitoftelettteIottdpr,s,adpsctwhte"eP"tofeteenofbdwhtec,o,adcdinofbdieoyryaddgryc)Itisaoteitoftelettsecydsfdpttocr1,te4,IoC,dpnyadcynlr,s,asctwhte"gOeP"tofeteefbdwhtec,o,adcdifbdieonhyryaddgrN2.TtSn4,IoC,b,adteseishdtordasf.D.Asudinss45th4,I)""mswebhcntsaghhsditaswhanaytosyttmessadtctsatammtnsdo]
+[DELETED: ehd()msprsdfrdsadty()mrsdfru)"di"msnsofddtse,c,adtsnytopebdadoradtssstowsore,igbtntldtopeh,b,c,s,orpci)"dp"msayeyt)Psbds,igbtntldtosp,cesep,b,crp,plsnttpds,eccettpsb,ecuyttpsbds,steyttpsbds,tlgtpsbds,oritsep;o)Bsbdi,igbtntldto,nto,orpcppedfrtepeofegbdintes)""msteIotnd)"gOeP"msapyorpettmstradseofesorcnadcswnidieinhyr)""msasecehydtfdpttocr1,te4,IoC)()""msardttisptofteseordys)()"la"msastoorueofayptofyofahyttesgypltoteryfratlofoehd()ormelrfN3.TtSn4,IoC,b,adteseishdtordasf.DGOEPYNNADPTI.(edtaddtsldponacynlbryofbdpsidinigbdieagah.Tedtaddtslueterynolstnoepry)Tedtaddtsliyplpsmdbytedtord,ersdbytedrdtorpdurc,onhsurtedrdsjnfrwhneursn()oftnisr.Plpseefrinsepsttietecnofudi,rdc,ororwkttwlrtinlsttcdryi,orpef,teinodiectwhte"gOeP)Frehptidursn()oftssedtordtsltynytebdpsoeryedursn()oftss]
+[DELETED: )Tttepthsbnidassefrchbdp)Oftebdpsoytocewhtedtordttoaeteinofbdi;a)Oftepsfrsgastofittochtedtordtontep)Tedtordtslpeehbdptrsaneursn()oftssnnolsty()dsfmtedeteneisidtosttotedtordtastofittocewhtedrd)Frehptfrwhtedtordtpsneurtss,tedtordtsleewhedprttssastofittodewnofinofbdieisa)Tedtordtslmetefldnoesyofapttoieinofbdieadmypeayc,r,rrorpsinfeofte"gOeP"C,r,orpspdpttotnmyiebtndntbeldtolyp,rsrdtoteflrsfrferfbdieifrnisn,adinp.Tedtordtmydyteinodieifteinhsorosh,m,orols,iscytoseo,oruydsoriswhc,m,jgp,orterrorcnofw,w,orgslef)Tedtmyilctfrisonueweaeorinstofegbdieinteseo)Tedtaddtslpeadfwrsfgottepsoftssnttaen,n,f,adoeasbnalbdpsadttpecnagbdp.Rssli,atam)Psctwhte"gOeP"frpgagssofitrdfmabdprbedtord.Ctwhte"gOeP"ttordtsliersttwlrtssttmyuyitadcttedsr)Artttabdprslbecdfrtlctidbytedtordtasartoftnofabdpsbdi.Ieismetnoe()bdprigb,tnehbdprslseeyiecncsofteinofbdi]
+[DELETED: gbtntldtot,b,tcc,ayc)Cafrigpsttwdbesefrttofbdi)Cafrteinoftedsoncsmyawueofshctbybdp)Psadfsfrpgp;a)Acdceaeasp,pttotoaepea,cr5,te6,IoC)Tedtordtmyntgtayllartssnttrsinastceoftes,e,adctueofahyfrtetgpN4.TtSn4,IoC,b,adteseishdtordasf.RYFRB.()Etaspdinsn()oftss,tedtordtslawabdprllueadastoteryofahrtei,o,admeofbdi)Tedtordtslerioaleahabdpradieaptbeggitayllasurtss.Etassypdbyt,apyitinarymyntbegdurtsoftss.Anatediobytedtoturtss)SlietsadcsttaenyagbdpsadaectwhtepcpgteenofbdieinI,shayp,rsrdtoteflrsfrfernofudbdifrnisn,adinp)Slsymersfrbdiebgp)Myretttedtbeadtouetebeoyfrpcsyw,rdcnn,adarastomsonh)MyWhrttoted,teatmyretebdprilctfrneu,inwectofteptslbesdp.Aftedtrstebdprtoiloyo)ctofelorsrseoftectbgideyfrildtp,tntedtsereoyfrtecsoftealmsadlrteinofisonc.Tedtmtkpasadrsrgteilueoftectadmcshdsifr.Tedtmyntawteofisilcttoayore.Iftedtasteueofilcttoare,tntedlretebdprfrhfofteptc]
+[DELETED: )Slsytttebdprslonisb;a)Slsyttteueofteryslben)Abdprslberefrtecsofigisonbdieontedsortsr.Ifteismetnoe()bdpgbdieattesep,tntebrisrefrisporaseoftec)Tedtslretesefsfmabrurtssnfrllastoteryapcuyddursn6,IoC.H,fdtoaceprslbeinaewhaef)Tedtordtmyntgtayllartssnttrsinastceoftes,e,adctueofahyfrtetgp)Tedtmyilctfrisonueweaeorinstofegbdieinteseo)Tedtaddtslper)Ggtei,o,admeofbdiegdllaspttotss)Sgtepsfreganatfrllasfrabdp)Sgcafrteinoftedsotadueofshctbybdpsctwss.Tepsoftsphslayoytot;a)Pgfrternorrlofbdiefrndcstoahyonteies)Nginsn4,IoC,thtssnisidtop,d,oroeltteayoftedtordtorpcrN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 300
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO BROADBAND; AMENDING SECTION 40-516, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING LEGISLATIVE INTENT FOR THE DIG ONCE POLICY; AMENDING
+4 SECTION 40-517, IDAHO CODE, TO DEFINE A TERM AND TO REVISE A DEFINITION;
+5 AMENDING SECTION 40-518, IDAHO CODE, TO REVISE PROVISIONS REGARDING DIG
+6 ONCE POLICY NOTIFICATION AND PROJECT IDENTIFICATION; AMENDING SECTION
+7 40-520, IDAHO CODE, TO REVISE PROVISIONS REGARDING RIGHTS-OF-WAY FOR
+8 BROADBAND; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 40-516, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 40-516. LEGISLATIVE INTENT: DIG ONCE POLICY. (1) It is the intent of
+13 the legislature to recognize that the citizens of the state live and work in
+14 a data-driven society and that the connectivity in Idaho's urban and rural
+15 areas are key for a thriving Idaho economy. Broadband is a vital component in
+16 accomplishing connectivity throughout Idaho.
+17 (2) The legislature recognizes and hereby declares that broadband ser-
+18 vice throughout the entire state is in the overall public interest for the
+19 state of Idaho in furtherance of the social and economic development of the
+20 state, and the use of highway rights-of-way to support broadband infrastruc-
+21 ture and a "Dig Once Policy" furthers the overall public interest.
+22 (3) It is the intent of the legislature that the Idaho transportation
+23 department develop rules, standards, and policies consistent with the "Dig
+24 Once Policy" to facilitate the expansion of broadband with the cost-effi-
+25 cient, orderly, and coordinated installation of broadband infrastructure on
+26 highway rights-of-way and during roadway construction.
+27 (4) It is also the intent of the legislature that single county-wide
+28 highway districts formed pursuant to chapter 14, title 40, Idaho Code, de-
+29 velop nondiscriminatory and competitively neutral rules, standards, and
+30 policies consistent with the "Dig Once Policy" to facilitate the expansion
+31 of broadband with the cost-efficient, orderly, and coordinated installation
+32 of broadband infrastructure on highway rights-of-way and during roadway
+33 construction.
+34 SECTION 2. That Section 40-517, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 40-517. DEFINITIONS. As used in sections 40-515 through 40-520, Idaho
+37 Code:
+38 (1) "Broadband" means wide bandwidth communication transmissions al-
+39 lowing high speed internet access with an ability to simultaneously trans-
+40 port multiple signals and traffic types at a minimum transmission speed of
+
+2
+1 one hundred (100) megabits per second for downloads and twenty (20) megabits
+2 per second for uploads.
+3 (2) "Broadband infrastructure" means networks of deployed telecommu-
+4 nications equipment, conduit, and technologies necessary to provide broad-
+5 band and other advanced telecommunications services to wholesalers or end
+6 users, including but not limited to private homes, businesses, commercial
+7 establishments, schools, or public institutions.
+8 (3) "Broadband provider" means any entity that:
+9 (a) Provides broadband services, including but not limited to a
+10 telecommunications provider, cable service provider, broadband
+11 provider, cellular provider, political subdivision that provides
+12 broadband services, electric cooperative that provides broadband
+13 services, electric utility that provides broadband services, state
+14 government entity that provides broadband services, tribal government
+15 that provides broadband services, or internet service provider; or
+16 (b) Builds broadband infrastructure, including but not limited to a
+17 port, nonprofit organization, or private-public partnership estab-
+18 lished for the purpose of expanding broadband in the state.
+19 (4) "Department" means the Idaho transportation department.
+20 (5) "Dig Once Policy" means a policy or practice that minimizes the
+21 number and scale of excavations or construction and costs when installing
+22 broadband infrastructure in highway rights-of-way.
+23 (6) "District" means a single county-wide highway district formed pur-
+24 suant to chapter 14, title 40, Idaho Code.
+25 (6) (7) "Highway" means a road that is part of the state or district
+26 highway system.
+27 (7) (8) "Longitudinal access" means access to or use of any part of a
+28 right-of-way of a highway that extends generally parallel to the right-of-
+29 way for a total of one hundred (100) or more linear feet.
+30 SECTION 3. That Section 40-518, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 40-518. DIG ONCE POLICY NOTIFICATION AND PROJECT IDENTIFICATION. (1)
+33 The department and district shall develop on a competitively neutral basis
+34 a registry of broadband providers interested in installing broadband infra-
+35 structure along a highway. The department and district shall update the reg-
+36 istry no less than once per year.
+37 (2) The department and district shall identify potential projects man-
+38 aged by the department or district, either self-performed by the department
+39 or district or performed under contract, on highways under the department's
+40 or district's jurisdiction for which notice under subsection (3) of this
+41 section is required. Potential projects eligible for identification shall
+42 include projects that involve the construction of underground infrastruc-
+43 ture, road construction, or other work that will result in longitudinal
+44 access that could reasonably include, or prepare for, the installation of
+45 broadband infrastructure consistent with the "Dig Once Policy."
+46 (3) For each project identified under subsection (2) of this section,
+47 the department or district shall timely notify the broadband providers on
+48 the registry established under subsection (1) of this section:
+
+3
+1 (a) That the project has been identified as suitable for coordination
+2 with broadband providers;
+3 (b) Of the broadband provider's opportunity to coordinate with the de-
+4 partment or district to accommodate the installation of broadband in-
+5 frastructure; and
+6 (c) Of the process for submitting a statement of interest to coordinate
+7 with the department or district on the project.
+8 (4) The department or district shall provide each broadband provider
+9 that receives a notice under subsection (3) of this section no less than
+10 thirty (30) days from the date the notice is issued to submit to the depart-
+11 ment or district a statement of interest to coordinate with the department
+12 or district.
+13 (5) For each project for which the department or district provides no-
+14 tice under this section, the department or district shall engage with each
+15 broadband provider that submits a statement of interest to determine whether
+16 accommodation of installation of broadband infrastructure is appropriate.
+17 (6) The department or district shall make the final determination of
+18 the suitability of a project to include installation of broadband infra-
+19 structure and may prescribe any conditions, requirements, restrictions,
+20 or other provisions in furtherance of the "Dig Once Policy." Conditions,
+21 requirements, restrictions, or provisions prescribed pursuant to this
+22 subsection may include but need not be limited to liability provisions, re-
+23 quirements related to the financial responsibilities for future relocation
+24 of broadband infrastructure if relocation is necessary, and indemnifica-
+25 tion provisions. The department or district may deny the installation of
+26 broadband infrastructure if the installation hinders or obstructs highway
+27 construction, maintenance, or operational safety, is contrary to statute or
+28 rule, or unduly delays or interferes with construction, maintenance, joint
+29 trenching projects, or the repair or construction of water, wastewater,
+30 electrical, or gas line facilities.
+31 (7) The department may install conduit for its own use where appro-
+32 priate or in support of expanding broadband infrastructure in the state of
+33 Idaho.
+34 (8) The department and district shall promulgate and follow rules for
+35 carrying out the provisions of this section that are nondiscriminatory, neu-
+36 tral, fair, and objective as between all broadband providers and that pro-
+37 mote competition among broadband providers. Rules shall include, at a mini-
+38 mum:
+39 (a) Procedures consistent with the "Dig Once Policy" for processing and
+40 reviewing statements of interest received from a broadband provider by
+41 the department or district. Consistent with the "Dig Once Policy," the
+42 department or district shall issue rules that will restrict speculative
+43 practices that may unduly impact and congest the department's rights-
+44 of-way;
+45 (b) A requirement that a broadband provider shall be charged for the
+46 actual cost incurred by the department or district as a result of the
+47 installation of a broadband provider's broadband infrastructure. If
+48 there is more than one (1) broadband provider installing broadband
+49 infrastructure, then each broadband provider shall share equally in
+50 the common charges of the installation of broadband infrastructure,
+
+4
+1 including but not limited to trenching, boring, traffic controls, and
+2 make-ready costs;
+3 (c) Criteria for identifying projects that would be suitable for the
+4 placement of broadband infrastructure;
+5 (d) Criteria for the installation of the department's own conduit.
+6 Rules may allow use of such conduit by broadband providers;
+7 (e) Procedures and forms for permitting processes; and
+8 (f) A contested case administrative appeals process, pursuant to the
+9 Idaho administrative procedure act, chapter 52, title 67, Idaho Code.
+10 (9) The department or district may not grant any longitudinal access
+11 under this section that results in a significant compromise of the safe, ef-
+12 ficient, and convenient use of a highway for the traveling public.
+13 SECTION 4. That Section 40-520, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 40-520. RIGHTS-OF-WAY FOR BROADBAND. (1) Except as provided in sub-
+16 section (5) of this section, the department or district shall allow a broad-
+17 band provider longitudinal use and access to the rights-of-way of a highway
+18 for the installation, operation, and maintenance of broadband infrastruc-
+19 ture.
+20 (2) The department or district shall enter into a license agreement
+21 with a broadband provider and issue a permit before granting it any longi-
+22 tudinal access under this section. Except as specifically provided by the
+23 agreement, a property interest in a right-of-way may not be granted under the
+24 provisions of this section. An agreement entered into by the department or
+25 district under this section:
+26 (a) Shall include terms and conditions that are nondiscriminatory as
+27 among broadband providers and are consistent with the public policy
+28 promoting the expansion of broadband infrastructure in Idaho, such as
+29 liability provisions, requirements related to the financial responsi-
+30 bilities for future relocation of underground broadband infrastructure
+31 if relocation is necessary, and indemnification provisions;
+32 (b) Shall specify maintenance responsibilities for broadband infra-
+33 structure being placed;
+34 (c) May require that the department be allowed to utilize the broadband
+35 infrastructure only for public safety warnings, road condition notifi-
+36 cations, and amber alerts to motorists on highways;
+37 (d) May With respect to the department, the agreement may require that
+38 the broadband provider install conduit for nonexclusive use, in which
+39 the cost of the project shall be shared proportionally. Alternatively,
+40 if the department requires the broadband provider to install only one
+41 (1) conduit of equal or smaller size of the conduit being installed ex-
+42 clusively for internal department purposes, then the department shall
+43 be responsible only for the costs of the additional materials and labor
+44 for the installation of its own conduit. The department must keep all
+45 documents and records regarding the internal use of the conduit and make
+46 public such documents if requested. The department may not allow the
+47 use of its internal conduit to any other entity. If the department al-
+48 lows the use of internal conduit to another entity, then the department
+49 shall reimburse the broadband provider for half of the project costs;
+
+5
+1 (e) Shall specify that the broadband provider shall own its broadband
+2 infrastructure; and
+3 (f) Shall specify that the use of the rights-of-way shall be nonexclu-
+4 sive.
+5 (3) A broadband provider shall be responsible for the costs of in-
+6 stalling its own broadband infrastructure on the department's or the
+7 district's right-of-way. If there is more than one (1) broadband provider
+8 installing broadband infrastructure at the same project, then the broadband
+9 provider is responsible for its pro rata share of the cost.
+10 (4) The department shall require the same fees from a broadband
+11 provider under this section for longitudinal access to the right-of-way as
+12 a public utility defined under section 61-129, Idaho Code. However, fees
+13 charged to a cable provider shall be in accordance with applicable federal
+14 law.
+15 (5) The department or district may not grant any longitudinal access
+16 under this section that results in a significant compromise of the safe, ef-
+17 ficient, and convenient use of a highway for the traveling public.
+18 (6) The department may install conduit for its own use where appro-
+19 priate or in support of expanding broadband infrastructure in the state of
+20 Idaho.
+21 (7) The department and district shall promulgate rules:
+22 (a) Governing the installation, operation, and maintenance of broad-
+23 band infrastructure granted longitudinal access pursuant to this sec-
+24 tion;
+25 (b) Specifying the procedures for establishing an agreement for longi-
+26 tudinal access for a broadband provider;
+27 (c) Specifying criteria for the installation of the department's own
+28 conduit and use of such conduit by broadband providers consistent with
+29 this section. The provisions of this paragraph shall apply only to the
+30 department; and
+31 (d) Providing for the relocation or removal of broadband infrastruc-
+32 ture for needed changes to a highway on the interstate system.
+33 (8) Nothing in section 40-515, Idaho Code, through this section is in-
+34 tended to preempt, diminish, or otherwise limit the authority of the depart-
+35 ment or district over public rights-of-way.
+36 SECTION 5. An emergency existing therefor, which emergency is hereby
+37 declared to exist, this act shall be in full force and effect on and after
+38 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YWSADMSCNAGTOB;AGSN4,IOC,TOREPSRGLEITFRTEDGOEP;AN4,IOC,TODEATMADTOREADGSN4,IOC,TOREPSRGDEPYNNADPTI;AGS,IOC,TOREPSRGRYF;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishdtordasf.LEI:DGOEP.()ItisteitoeletoretttecsofteseleadwkidnsyadtttecyinIsunadrsaekyfratgIoe.BdisavlctigcyttI)TelersadhydsttbdsettteeeseisinteolpcitfrteofIoinfeoftesladecdtoft,adteueofhyrytostbdieada"gOeP"fsteolpci)ItisteitoftelettteIottdpr,s,adpsctwhte"eP"tofeteenofbdwhtec,o,adcdinofbdieoyryaddgryc)Itisaoteitoftelettsecydsfdpttocr1,te4,IoC,dpnyadcynlr,s,asctwhte"gOeP"tofeteefbdwhtec,o,adcdifbdieonhyryaddgrN2.TtSn4,IoC,b,adteseishdtordasf.D.Asudinss45th4,I)""mswebhcntsaghhsditaswhanaytosyttmessadtctsatammtnsdo]
+[DELETED: ehd()msprsdfrdsadty()mrsdfru)"di"msnsofddtse,c,adtsnytopebdadoradtssstowsore,igbtntldtopeh,b,c,s,orpci)"dp"msayeyt)Psbds,igbtntldtosp,cesep,b,crp,plsnttpds,eccettpsb,ecuyttpsbds,steyttpsbds,tlgtpsbds,oritsep;o)Bsbdi,igbtntldto,nto,orpcppedfrtepeofegbdintes)""msteIotnd)"gOeP"msapyorpettmstradseofesorcnadcswnidieinhyr)""msasecehydtfdpttocr1,te4,IoC)()""msardttisptofteseordys)()"la"msastoorueofayptofyofahyttesgypltoteryfratlofoehd()ormelrfN3.TtSn4,IoC,b,adteseishdtordasf.DGOEPYNNADPTI.(edtaddtsldponacynlbryofbdpsidinigbdieagah.Tedtaddtslueterynolstnoepry)Tedtaddtsliyplpsmdbytedtord,ersdbytedrdtorpdurc,onhsurtedrdsjnfrwhneursn()oftnisr.Plpseefrinsepsttietecnofudi,rdc,ororwkttwlrtinlsttcdryi,orpef,teinodiectwhte"gOeP)Frehptidursn()oftssedtordtsltynytebdpsoeryedursn()oftss]
+[DELETED: )Tttepthsbnidassefrchbdp)Oftebdpsoytocewhtedtordttoaeteinofbdi;a)Oftepsfrsgastofittochtedtordtontep)Tedtordtslpeehbdptrsaneursn()oftssnnolsty()dsfmtedeteneisidtosttotedtordtastofittocewhtedrd)Frehptfrwhtedtordtpsneurtss,tedtordtsleewhedprttssastofittodewnofinofbdieisa)Tedtordtslmetefldnoesyofapttoieinofbdieadmypeayc,r,rrorpsinfeofte"gOeP"C,r,orpspdpttotnmyiebtndntbeldtolyp,rsrdtoteflrsfrferfbdieifrnisn,adinp.Tedtordtmydyteinodieifteinhsorosh,m,orols,iscytoseo,oruydsoriswhc,m,jgp,orterrorcnofw,w,orgslef)Tedtmyilctfrisonueweaeorinstofegbdieinteseo)Tedtaddtslpeadfwrsfgottepsoftssnttaen,n,f,adoeasbnalbdpsadttpecnagbdp.Rssli,atam)Psctwhte"gOeP"frpgagssofitrdfmabdprbedtord.Ctwhte"gOeP"ttordtsliersttwlrtssttmyuyitadcttedsr)Artttabdprslbecdfrtlctidbytedtordtasartoftnofabdpsbdi.Ieismetnoe()bdprigb,tnehbdprslseeyiecncsofteinofbdi]
+[DELETED: gbtntldtot,b,tcc,ayc)Cafrigpsttwdbesefrttofbdi)Cafrteinoftedsoncsmyawueofshctbybdp)Psadfsfrpgp;a)Acdceaeasp,pttotoaepea,cr5,te6,IoC)Tedtordtmyntgtayllartssnttrsinastceoftes,e,adctueofahyfrtetgpN4.TtSn4,IoC,b,adteseishdtordasf.RYFRB.()Etaspdinsn()oftss,tedtordtslawabdprllueadastoteryofahrtei,o,admeofbdi)Tedtordtslerioaleahabdpradieaptbeggitayllasurtss.Etassypdbyt,apyitinarymyntbegdurtsoftss.Anatediobytedtoturtss)SlietsadcsttaenyagbdpsadaectwhtepcpgteenofbdieinI,shayp,rsrdtoteflrsfrfernofudbdifrnisn,adinp)Slsymersfrbdiebgp)Myretttedtbeadtouetebeoyfrpcsyw,rdcnn,adarastomsonh)MyWhrttoted,teatmyretebdprilctfrneu,inwectofteptslbesdp.Aftedtrstebdprtoiloyo)ctofelorsrseoftectbgideyfrildtp,tntedtsereoyfrtecsoftealmsadlrteinofisonc.Tedtmtkpasadrsrgteilueoftectadmcshdsifr.Tedtmyntawteofisilcttoayore.Iftedtasteueofilcttoare,tntedlretebdprfrhfofteptc]
+[DELETED: )Slsytttebdprslonisb;a)Slsyttteueofteryslben)Abdprslberefrtecsofigisonbdieontedsortsr.Ifteismetnoe()bdpgbdieattesep,tntebrisrefrisporaseoftec)Tedtslretesefsfmabrurtssnfrllastoteryapcuyddursn6,IoC.H,fdtoaceprslbeinaewhaef)Tedtordtmyntgtayllartssnttrsinastceoftes,e,adctueofahyfrtetgp)Tedtmyilctfrisonueweaeorinstofegbdieinteseo)Tedtaddtslper)Ggtei,o,admeofbdiegdllaspttotss)Sgtepsfreganatfrllasfrabdp)Sgcafrteinoftedsotadueofshctbybdpsctwss.Tepsoftsphslayoytot;a)Pgfrternorrlofbdiefrndcstoahyonteies)Nginsn4,IoC,thtssnisidtop,d,oroeltteayoftedtordtorpcrN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

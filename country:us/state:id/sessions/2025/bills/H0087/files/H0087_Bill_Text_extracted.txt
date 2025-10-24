@@ -1,0 +1,554 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 87
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO PREARRANGED FUNERAL PLANS; AMENDING SECTION 54-1142, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING AUTHORITY IN ABSENCE OF OR UN-
+4 COVERED PROVISIONS IN A PREARRANGED FUNERAL PLAN; AMENDING SECTION
+5 15-5-306, IDAHO CODE, TO REVISE PROVISIONS REGARDING TERMINATION OF
+6 GUARDIANSHIP FOR INCAPACITATED PERSON; AMENDING SECTION 15-5-425,
+7 IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AND DECLARING AN EMER-
+8 GENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 54-1142, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 54-1142. AUTHORITY IN ABSENCE OF OR UNCOVERED PROVISIONS IN A PREAR-
+13 RANGED FUNERAL PLAN. (1) If the decedent has not made a prearranged funeral
+14 plan as set forth in section 54-1139, Idaho Code, or to the extent any pro-
+15 visions relating to the disposition of the person's remains are not clearly
+16 covered in a prearranged funeral plan, the right to control the disposition
+17 of the remains of a deceased person or to determine provisions not clearly
+18 covered in a prearranged funeral plan vests in, and devolves upon, the fol-
+19 lowing in the order named:
+20 (a) The person designated in a written document executed by the dece-
+21 dent and acknowledged in the same manner as required for instruments
+22 conveying real property, and subject to such limitations, restric-
+23 tions, or directions, as may be set forth in such document, or the
+24 person designated by the decedent as authorized to direct disposition
+25 as listed on the decedent's United States department of defense record
+26 of emergency data, DD form 93 or its successor form, if the decedent died
+27 while serving in military service as described in 10 U.S.C. 1481(a)(1)
+28 through (8) in any branch of the United States armed forces, United
+29 States reserve forces or national guard;
+30 (b) The person designated as agent under a durable power of attorney for
+31 health care executed by the decedent, unless such durable power of at-
+32 torney for health care contains express and clear language denying such
+33 right;
+34 (c) The person designated in a durable power of attorney executed by the
+35 decedent, if such power of attorney contains express and clear language
+36 granting such right to the agent named in such power of attorney;
+37 (d) The person acting as guardian of the decedent at the time of the
+38 decedent's death, or if no guardian was then acting, the person acting
+39 as conservator of the decedent at the time of the decedent's death;
+40 (d) (e) The competent surviving spouse of the decedent;
+41 (e) (f) A majority of the competent surviving adult children of the
+42 decedent, provided that less than one-half (1/2) of the competent sur-
+2
+1 viving adult children shall be vested with the right to control the
+2 disposition of the remains of the decedent if they have used reasonable
+3 efforts to notify all other competent surviving adult children of their
+4 instructions to dispose of the decedent's remains and are not aware of
+5 any opposition to those instructions on the part of more than one-half
+6 (1/2) of all competent surviving adult children;
+7 (f) (g) The competent surviving parents or parent of the decedent, pro-
+8 vided that if one (1) of the competent surviving parents is absent, the
+9 remaining competent surviving parent shall be vested with the right to
+10 control the disposition of the remains of the decedent after reasonable
+11 efforts have been made and are unsuccessful in locating the absent com-
+12 petent surviving parent;
+13 (g) (h) The person appointed by a court of competent jurisdiction as the
+14 personal representative or administrator of the estate of the decedent;
+15 (h) (i) The person nominated as the personal representative of the es-
+16 tate of the decedent in the will of the decedent;
+17 (i) (j) The competent adult person or persons entitled to inherit from
+18 the decedent under the intestate succession laws of the state of Idaho,
+19 respectively in the next degree of kinship, provided that if there is
+20 more than one (1) competent surviving adult person of the same degree of
+21 kinship, the majority of those persons, and provided further that less
+22 than the majority of competent surviving adult persons of the same de-
+23 gree of kinship shall be vested with the right to control the disposi-
+24 tion of the remains of the decedent if those persons have used reason-
+25 able efforts to notify all other competent surviving adult persons of
+26 the same degree of kinship of their instructions to dispose of the dece-
+27 dent's remains and are not aware of any opposition to those instructions
+28 on the part of one-half (1/2) or more of all competent surviving adult
+29 persons of the same degree of kinship;.
+30 (j) If the persons listed above fail to exercise their right to dispose
+31 of the remains of the deceased person within forty (40) days of the death
+32 of the deceased person, the person acting as guardian of the ward at the
+33 time of the ward's death, or if no guardian was then acting, the person
+34 acting as conservator of the protected person at the time of the pro-
+35 tected person's death, has the authority to dispose of the deceased per-
+36 son's remains, including cremation of the remains.
+37 (2) If any person to whom the right of control has vested pursuant to
+38 the foregoing has been charged with first or second degree murder or volun-
+39 tary manslaughter in connection with the decedent's death, and those charges
+40 are known to the funeral director or cemetery authority, the right of con-
+41 trol is relinquished and passed on to the next qualifying person as listed
+42 above as if the charged person did not exist; provided however, that if the
+43 charges against such person are dropped, or if such person is acquitted of
+44 the charges, the right of control is returned to the person.
+45 (3) For purposes of this section:
+46 (a) "Adult" means an individual who is eighteen (18) years of age or
+47 older;
+48 (b) "Child" means a natural or adopted child of the decedent;
+3
+1 (c) "Competent" means the individual has not been declared incompetent
+2 by a court of law or has been declared competent by a court of law after a
+3 prior declaration of incompetence;
+4 (d) "Durable power of attorney" means a power of attorney described in
+5 section 15-12-102, Idaho Code, or any similar document properly exe-
+6 cuted under the laws of another jurisdiction;
+7 (e) "Durable power of attorney for health care" means the document de-
+8 scribed in chapter 45, title 39, Idaho Code, or any similar document
+9 properly executed under the laws of another jurisdiction;
+10 (f) "Will" means any testamentary device that is valid under the Idaho
+11 probate code, including, but not limited to, sections 15-2-503, 15-2-
+12 504 and 15-2-506, Idaho Code, whether or not originally executed in, or
+13 under the laws of, the state of Idaho.
+14 (4)(a) A cemetery authority or licensed funeral director or a licensed
+15 hospital or its authorized personnel may permit or assist in, and a
+16 physician may perform, an autopsy of any remains of a decedent in its
+17 custody:
+18 (i) If the decedent, prior to his death, authorizes an autopsy
+19 in his will or in another written instrument, including, but not
+20 limited to, a durable power of attorney for health care; or
+21 (ii) Upon the receipt of a written authorization signed by, tele-
+22 grammed from, or received by facsimile transmission from a person
+23 representing himself to be the person who is entitled under this
+24 section to control the disposition of the remains of the decedent,
+25 or to be a coroner or any other duly authorized public officer; or
+26 (iii) Upon the receipt of an oral authorization obtained by tele-
+27 phone and recorded on tape or other recording device from a person
+28 representing himself to be the person who is entitled under this
+29 section to control the disposition of the remains of the decedent,
+30 or to be a coroner or any other duly authorized public officer.
+31 (b) A cemetery authority or a licensed funeral director of a licensed
+32 hospital or its authorized personnel is not liable for permitting or as-
+33 sisting, and a physician is not liable for performing, an autopsy pur-
+34 suant to the authorization provided in paragraph (a) of this subsection
+35 unless he has actual notice that such representation is untrue at the
+36 time the autopsy is performed. If such authorization is contained in
+37 a will, the autopsy may be performed regardless of the validity of the
+38 will in other respects and regardless of whether the will may not be of-
+39 fered for, or admitted to, probate until a later date.
+40 (c) This subsection shall not authorize the obtaining of an oral autho-
+41 rization by telephone, recorded on tape or other recording device, for
+42 the autopsy of a deceased person if it is made known to the physician who
+43 is to perform the autopsy that the deceased person was, at the time of
+44 his death, a member of a religion or group that opposes autopsies.
+45 (5) Persons designated in subsection (1) of this section have a direct
+46 and tangible interest in the death certificate of a decedent pursuant to sec-
+47 tion 39-270(b), Idaho Code.
+48 (6) Notwithstanding any other provision of law to the contrary, if the
+49 decedent is cremated and the person or persons vested with the right to con-
+50 trol the disposition of his remains pursuant to this section does not claim
+4
+1 the remains within one (1) year following his death or fails to exercise con-
+2 trol over the remains for a period of at least one (1) year, a funeral direc-
+3 tor or mortician may lawfully provide for the disposition of the remains in
+4 a manner consistent with respectful funeral home end-of-life processes when
+5 the deceased was indigent or has no next of kin or legal representative to
+6 make final disposition decisions. A funeral director or crematory authority
+7 shall maintain records of the location and date of such disposition for at
+8 least ten (10) years. This subsection shall not apply to unclaimed remains
+9 of veterans as provided for in section 54-1144, Idaho Code.
+10 SECTION 2. That Section 15-5-306, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 15-5-306. TERMINATION OF GUARDIANSHIP FOR INCAPACITATED PERSON. (1)
+13 Subject to subsection (2) of this section, the authority and responsibility
+14 of a guardian for an incapacitated person terminates upon the death of the
+15 guardian or ward, the determination of incapacity of the guardian, or upon
+16 removal or resignation as provided in section 15-5-307 of this part. Testa-
+17 mentary appointment under an informally probated will terminates if the will
+18 is later denied probate in a formal proceeding. Termination does not affect
+19 his liability for prior acts nor his obligation to account for funds and as-
+20 sets of his ward.
+21 (2) If the conditions set forth in a guardian has the right to control
+22 the disposition of the remains of a deceased person or to determine provi-
+23 sions not clearly covered in a prearranged funeral plan pursuant to section
+24 54-1142(1)(j) exist, Idaho Code, then the guardianship shall continue as set
+25 forth in that section.
+26 SECTION 3. That Section 15-5-425, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 15-5-425. DISTRIBUTIVE DUTIES AND POWERS OF CONSERVATOR. (a) A con-
+29 servator may expend or distribute income or principal of the estate without
+30 court authorization or confirmation for the support, education, care or ben-
+31 efit of the protected person and his dependents in accordance with the fol-
+32 lowing principles:
+33 (1) The conservator is to consider recommendations relating to the ap-
+34 propriate standard of support, education and benefit for the protected
+35 person made by a parent or guardian, if any. He may not be surcharged for
+36 sums paid to persons or organizations actually furnishing support, ed-
+37 ucation or care to the protected person pursuant to the recommendations
+38 of a parent or guardian of the protected person, unless he knows that the
+39 parent or guardian is deriving personal financial benefit therefrom,
+40 including relief from any personal duty of support, or unless the rec-
+41 ommendations are clearly not in the best interests of the protected per-
+42 son.
+43 (2) The conservator is to expend or distribute sums reasonably neces-
+44 sary for the support, education, care or benefit of the protected per-
+45 son with due regard to (A) the size of the estate, the probable duration
+46 of the conservatorship and the likelihood that the protected person, at
+47 some future time, may be fully able to manage his affairs and the estate
+5
+1 which has been conserved for him; (B) the accustomed standard of living
+2 of the protected person and members of his household; (C) other funds or
+3 sources used for the support of the protected person.
+4 (3) The conservator may expend funds of the estate for the support of
+5 persons legally dependent on the protected person and others who are
+6 members of the protected person's household who are unable to support
+7 themselves, and who are in need of support.
+8 (4) Funds expended under this subsection may be paid by the conservator
+9 to any person, including the protected person to reimburse for expendi-
+10 tures which the conservator might have made, or in advance for services
+11 to be rendered to the protected person when it is reasonable to expect
+12 that they will be performed and where advance payments are customary or
+13 reasonably necessary under the circumstances.
+14 (5) A conservator, in discharging the responsibilities conferred by
+15 court order and this part, shall implement the principles described in
+16 section 15-5-408(a) of this code.
+17 (b) If the estate is ample to provide for the purposes implicit in the
+18 distributions authorized by the preceding subsections, a conservator for a
+19 protected person other than a minor has power to make gifts to charity and
+20 other objects as the protected person might have been expected to make, in
+21 amounts which do not exceed in total for any year twenty percent (20%) of the
+22 income from the estate.
+23 (c) When a minor who has not been adjudged disabled under subsection (b)
+24 of section 15-5-401 of this part attains his majority, his conservator, af-
+25 ter meeting all prior claims and expenses of administration, shall pay over
+26 and distribute all funds and properties to the former protected person as
+27 soon as possible.
+28 (d) When the conservator is satisfied that a protected person's dis-
+29 ability (other than minority) has ceased, the conservator, after meeting all
+30 prior claims and expenses of administration, shall pay over and distribute
+31 all funds and properties to the former protected person as soon as possible.
+32 (e) If a protected person dies, the conservator shall deliver to the
+33 court for safekeeping any will of the deceased protected person which may
+34 have come into his possession, inform the executor or a beneficiary named
+35 therein that he has done so, and retain the estate for delivery to a duly ap-
+36 pointed personal representative of the decedent or other persons entitled
+37 thereto. If after forty (40) days from the death of the protected person no
+38 other person has been appointed personal representative and no application
+39 or petition for appointment is before the court, the conservator may apply
+40 to exercise the powers and duties of a personal representative so that he
+41 may proceed to administer and distribute the decedent's estate without ad-
+42 ditional or further appointment. Upon application for an order granting the
+43 powers of a personal representative to a conservator, after notice to any
+44 person demanding notice under section 15-3-204 of this code and to any per-
+45 son nominated executor in any will of which the applicant is aware, the court
+46 may order the conferral of the power upon determining that there is no objec-
+47 tion, and indorse the letters of the conservator to note that the formerly
+48 protected person is deceased and that the conservator has acquired all of the
+49 powers and duties of a personal representative. The making and entry of an
+50 order under this section shall have the effect of an order of appointment of a
+6
+1 personal representative as provided in section 15-3-308 and parts 6 through
+2 10 of chapter 3 except that the estate in the name of the conservator, af-
+3 ter administration, may be distributed to the decedent's successors without
+4 prior re-transfer to the conservator as personal representative.
+5 (f) During the period between the death of a protected person and the
+6 appointment of a personal representative for the protected person's estate,
+7 or the conferral of the powers of a personal representative upon the conser-
+8 vator as provided in this section, the person acting as conservator at the
+9 time of the deceased protected person's death shall have the duties and pow-
+10 ers of a temporary conservator as set forth in section 15-5-407A, Idaho Code,
+11 and the powers set forth in section 54-1142(1)(j), Idaho Code.
+12 SECTION 4. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.8YJ,RSADANCNAGTOPDFLP;AGSN5,I,TOREPSRGAYINAEOFORUDPSINAPDFLP;AGS,IOC,TOREPSRGTNOPFRIDP;AGSN1OC,TOPEACTCER;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.AYINAEOFORUDPSINAPDFLP.()Iftedthsntmeapdfnasstfhinsn5,IoC,ortoteetaypsrgtotednoftepsrsaentcdinapdflp,terttocltedftersofaddpnortodepsntcdinapdflpnvsi,addsu,tefginteorn)Tepnddinawndtedbytedtadadintesemrasrdfrigrlp,adsttoshl,r,ord,asmybestfhinshd,ortnddbytedtasadtodtdsldontedsUdSsdtofderfeyd,DDfm93orissrf,iftedtdesginmyseasddin10U.1h()inaybhofteUdSsadf,Usrefsornlg)Tepnddasaturadeprofayfhceedbyted,usshdeprofayfrhhcecsesadcrledgs)Tepnddinadeprofayedbyt,ifshprofaycsesadcrlgshrttoteatndinshprofa)Tepnagasgnoftedtatteteoftsd,orifnognwstna,tepnascroftedtatteteoftedsd)()Tectsgseofted)()Amyoftectsgatcnoft,pdttlstnof()oftects]
+[DELETED: gatcnslbevdwhterttocltnoftersoftedtiftyheudrstonyalorctsgatcnoftstodeoftedsrsadaentaeoyontoteisonteptofmetno)ofalctsgatc)()Tectsgpsorptofted,pdttifoe()oftectsgpsisa,tgctsgptslbevdwhterttltednoftersoftedtarrshebnmeadaeulinlgteatctsgp)()Tepnadbyactofctjnastlreorarofteeeofted)()Tepnndasteplreofteeeoftedtintewlofted)()TectatpnorpsedtoitfedturteiesnlsofteseofIyintentdeofk,pdttifteietnoe()ctsgatpnoftesedeo,temyoftep,adpdfrttlntemyofctsgatpsoftesedeofkpslbevdwhterttocltednoftersoftedtiftepsheudreestonyalorctsgatpsoesedeofkpoftristodeoftedsrsadaentaeofayontoteinteptofof()ormeofalctsgasoftesedeofk)Iftepsldaefltoeetrrttodftersofteddpnwnfy()dsoftedfteddp,tepnagasgnoftewdatteoftewsd,orifnognwstna,tepgascroftepdpnatteteoftepdpsd,hsteaytodeofteddpsr,igcnofter)Ifaypntowmtertofclhsvdpttefghsbncdwhftorsddemrorvymrincnwhtedsd,adtecekntotefldrorcya,tertofclisrdadpdontotentqgpnasleasiftecdpnddnte;pdh,ttiftsatshpnaed,orifshpnisadoec,tertofclisrdtotep)Frpsoftss)""msanilwoisen()ysofaeo)""msanloradcdofted]
+[DELETED: )""msteilhsntbnddiyactoflworhsbnddctbyactoflwarrdnofi)"eprofa"msaprofayddin1,IoC,oraysrdtpyedurtelsofarj)"eprofayfrhhc"mstedtddincr4,te3,IoC,oraysrdyedurtelsofarj)""msaytydettisvdurteIec,i,btntldt,ss1,14ad1,IoC,wrorntoyedi,ortelso,teseofI)Acyayorldfldrorallorisadplmyptorati,adnmyp,anayofayrsofadtini)Ifted,prtohsd,asananhswlorinarwni,i,btndt,adeprofayfrhhc;o)Untertofawnansdb,tdf,orrdbyfetnfmapghftobetepnwoisedurtntocltednoftersoftedrtobeacrorayordyadpco;o)Untertofanolanodbyteadrdonteororrgdefmapghftobetepnwoisedurtntocltednoftersoftedrtobeacrorayordyadpco)Acyayoraldfldrofallorisadplisntlefrpgora,adapnisntlefrp,anaypttoteanpdinph()oftssshehsalnettshrnisueatteteayisp.Ifshaniscdiw,teaymybepdrsoftevyoftlinorrsadrsofwrtewlmyntbeodf,oradt,peulalrd)Tssnslntaeteogofanolanbyt,rdonteororrgd,feayofaddpnifitismekntotepnwstopmteayttteddpnw,atteteosd,amrofarnorgpttosa)Psddinsn()oftssnheaddteitintedhceofadtpttosn3,IoC)Ngayorpnoflwtotec,ifttiscdadtepnorpsvdwhterttocltednofhsrspttotssndsntc]
+[DELETED: erswnoe()yrfghsdhorfstoeeclortersfrapdofatltoe()y,afldrormnmylypefrtednoftersimrctwhrlflheeepsweddwsitorhsnontofknorllretefldnd.Afldrorcyalmnrsoftelnaddeofshdnfrattn()y.Tssnslntaytoudrfvsaspdfrinsn5,IoCN2.TtSn1,IoC,b,adteseishdtordasf.TNOFGPFRIDP.(ttosn()oftss,teayadrfagnfranidpntsuntedhoftnorw,tednofiyofteg,orulorrnaspdinsn17oftsp.Tyaturaniypdwltsiftewslrddpeinaflp.Tndsntaslyfrprasnrhsontoatfrfsadasofhsw)Iftecsstfhinagnhsterttocednoftersofaddpnortodepsntcycdinapdflpnpttos)e,IoC,tntegpslceasshinttsN3.TtSn1,IoC,b,adteseishdtordasf.DEDSADPSOFC.()Acrmyedordeieorplofteeewtanorcnfrtes,e,ceorbtoftepdpnadhsdsinaewhtefgp)Tecristocrrsrgtoteaesdofs,enadbtfrtepnmebyaptorg,ifa.Hemyntbesdfspdtopsorosayfgs,enorcetotepdpnpttoterfaptorgnoftepdp,usheksttttorgnisdgplflbttgrffmaypldyofs,orustersaecyntintebtisoftepdp)Tecristoedordessrynyfrtes,e,ceorbtoftepdpnwhderdto()teseoftee,tepedftecpadteldtttepdp,aefet,mybefyaetomehsasadtee]
+[DELETED: hhsbncdfrh;()teadsdoflftepdpnadmsofhsh;()orfsosudfrtestoftepdp)Tecrmyedfsofteeefrtestoslydtontepdpnadoswoasoftepdpshdwoaeuetos,adwoaeinndofs)Fsedurtssnmybepdbytecoayp,igtepdpntorefreswhtecrmthem,orinaefrsoberdtotepdpnwnitisretoettywlbepdadweaepsaecyoynyurtec)Ac,indgterscdbtoradtsp,slittepsddin1)oftsc)Ifteeeisaetopefrtepsitintsadbytepgs,acrfrdpnortnamrhsprtomegstocyarosastepdpnmthebnedtom,iswhdontedintlfrayyrtypt()oftefmtee)Wnamrwohsntbnadddursn(fsn11oftsptashsm,hsc,armgalprcsadesofa,slpyoddealfsadpstotefrpdpnanasp)Wntecrissdttapdpsdy(rtnm)hsc,tec,armgarcsadesofa,slpyoraddlfsadpstotefrpdpnassnasp)Ifapdpnd,tecrsldrtottfrsgaywlofteddpdpnwhmeceiohsp,imteerorabynntthehsdes,adrnteeefrdytoadyadplreoftedtororpse.Ifarfy()dsfmtedhoftepdpnnrpnhsbnadplreadnoarpnfratisbetec,tecrmyaoeetepsaddsofaplresotthypdtoaraddetedseewtalorfra.Unanfranorggtsofaplretoac,arnetoandgneursn14oftsceadtoaypnnderinaywlofwhteatisa,tecyorteclofteprundgttteisnoo,adietelsoftecrtonetttefdpnisddadtttecrhsadaloftsaddsofaplr.Temgadeyofarurtssnslheteetofanorofatof]
+[DELETED: lreaspdinsn18adps6t0ofcr3etttteeeinteneoftec,ara,mybeddtotedssswrrrtotecrasplr)Dgtepdbntedhofapdpnadttofaplrefrtepdpsertecloftepsofaplreuntecraspdintss,tepnagascratteofteddpdpsdhslhetedsadpsofatycrasstfhinsn1,IoCdtepsstfhinsn5,IoCN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 87
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO PREARRANGED FUNERAL PLANS; AMENDING SECTION 54-1142, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING AUTHORITY IN ABSENCE OF OR UN-
+4 COVERED PROVISIONS IN A PREARRANGED FUNERAL PLAN; AMENDING SECTION
+5 15-5-306, IDAHO CODE, TO REVISE PROVISIONS REGARDING TERMINATION OF
+6 GUARDIANSHIP FOR INCAPACITATED PERSON; AMENDING SECTION 15-5-425,
+7 IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AND DECLARING AN EMER-
+8 GENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 54-1142, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 54-1142. AUTHORITY IN ABSENCE OF OR UNCOVERED PROVISIONS IN A PREAR-
+13 RANGED FUNERAL PLAN. (1) If the decedent has not made a prearranged funeral
+14 plan as set forth in section 54-1139, Idaho Code, or to the extent any pro-
+15 visions relating to the disposition of the person's remains are not clearly
+16 covered in a prearranged funeral plan, the right to control the disposition
+17 of the remains of a deceased person or to determine provisions not clearly
+18 covered in a prearranged funeral plan vests in, and devolves upon, the fol-
+19 lowing in the order named:
+20 (a) The person designated in a written document executed by the dece-
+21 dent and acknowledged in the same manner as required for instruments
+22 conveying real property, and subject to such limitations, restric-
+23 tions, or directions, as may be set forth in such document, or the
+24 person designated by the decedent as authorized to direct disposition
+25 as listed on the decedent's United States department of defense record
+26 of emergency data, DD form 93 or its successor form, if the decedent died
+27 while serving in military service as described in 10 U.S.C. 1481(a)(1)
+28 through (8) in any branch of the United States armed forces, United
+29 States reserve forces or national guard;
+30 (b) The person designated as agent under a durable power of attorney for
+31 health care executed by the decedent, unless such durable power of at-
+32 torney for health care contains express and clear language denying such
+33 right;
+34 (c) The person designated in a durable power of attorney executed by the
+35 decedent, if such power of attorney contains express and clear language
+36 granting such right to the agent named in such power of attorney;
+37 (d) The person acting as guardian of the decedent at the time of the
+38 decedent's death, or if no guardian was then acting, the person acting
+39 as conservator of the decedent at the time of the decedent's death;
+40 (d) (e) The competent surviving spouse of the decedent;
+41 (e) (f) A majority of the competent surviving adult children of the
+42 decedent, provided that less than one-half (1/2) of the competent sur-
+
+2
+1 viving adult children shall be vested with the right to control the
+2 disposition of the remains of the decedent if they have used reasonable
+3 efforts to notify all other competent surviving adult children of their
+4 instructions to dispose of the decedent's remains and are not aware of
+5 any opposition to those instructions on the part of more than one-half
+6 (1/2) of all competent surviving adult children;
+7 (f) (g) The competent surviving parents or parent of the decedent, pro-
+8 vided that if one (1) of the competent surviving parents is absent, the
+9 remaining competent surviving parent shall be vested with the right to
+10 control the disposition of the remains of the decedent after reasonable
+11 efforts have been made and are unsuccessful in locating the absent com-
+12 petent surviving parent;
+13 (g) (h) The person appointed by a court of competent jurisdiction as the
+14 personal representative or administrator of the estate of the decedent;
+15 (h) (i) The person nominated as the personal representative of the es-
+16 tate of the decedent in the will of the decedent;
+17 (i) (j) The competent adult person or persons entitled to inherit from
+18 the decedent under the intestate succession laws of the state of Idaho,
+19 respectively in the next degree of kinship, provided that if there is
+20 more than one (1) competent surviving adult person of the same degree of
+21 kinship, the majority of those persons, and provided further that less
+22 than the majority of competent surviving adult persons of the same de-
+23 gree of kinship shall be vested with the right to control the disposi-
+24 tion of the remains of the decedent if those persons have used reason-
+25 able efforts to notify all other competent surviving adult persons of
+26 the same degree of kinship of their instructions to dispose of the dece-
+27 dent's remains and are not aware of any opposition to those instructions
+28 on the part of one-half (1/2) or more of all competent surviving adult
+29 persons of the same degree of kinship;.
+30 (j) If the persons listed above fail to exercise their right to dispose
+31 of the remains of the deceased person within forty (40) days of the death
+32 of the deceased person, the person acting as guardian of the ward at the
+33 time of the ward's death, or if no guardian was then acting, the person
+34 acting as conservator of the protected person at the time of the pro-
+35 tected person's death, has the authority to dispose of the deceased per-
+36 son's remains, including cremation of the remains.
+37 (2) If any person to whom the right of control has vested pursuant to
+38 the foregoing has been charged with first or second degree murder or volun-
+39 tary manslaughter in connection with the decedent's death, and those charges
+40 are known to the funeral director or cemetery authority, the right of con-
+41 trol is relinquished and passed on to the next qualifying person as listed
+42 above as if the charged person did not exist; provided however, that if the
+43 charges against such person are dropped, or if such person is acquitted of
+44 the charges, the right of control is returned to the person.
+45 (3) For purposes of this section:
+46 (a) "Adult" means an individual who is eighteen (18) years of age or
+47 older;
+48 (b) "Child" means a natural or adopted child of the decedent;
+
+3
+1 (c) "Competent" means the individual has not been declared incompetent
+2 by a court of law or has been declared competent by a court of law after a
+3 prior declaration of incompetence;
+4 (d) "Durable power of attorney" means a power of attorney described in
+5 section 15-12-102, Idaho Code, or any similar document properly exe-
+6 cuted under the laws of another jurisdiction;
+7 (e) "Durable power of attorney for health care" means the document de-
+8 scribed in chapter 45, title 39, Idaho Code, or any similar document
+9 properly executed under the laws of another jurisdiction;
+10 (f) "Will" means any testamentary device that is valid under the Idaho
+11 probate code, including, but not limited to, sections 15-2-503, 15-2-
+12 504 and 15-2-506, Idaho Code, whether or not originally executed in, or
+13 under the laws of, the state of Idaho.
+14 (4)(a) A cemetery authority or licensed funeral director or a licensed
+15 hospital or its authorized personnel may permit or assist in, and a
+16 physician may perform, an autopsy of any remains of a decedent in its
+17 custody:
+18 (i) If the decedent, prior to his death, authorizes an autopsy
+19 in his will or in another written instrument, including, but not
+20 limited to, a durable power of attorney for health care; or
+21 (ii) Upon the receipt of a written authorization signed by, tele-
+22 grammed from, or received by facsimile transmission from a person
+23 representing himself to be the person who is entitled under this
+24 section to control the disposition of the remains of the decedent,
+25 or to be a coroner or any other duly authorized public officer; or
+26 (iii) Upon the receipt of an oral authorization obtained by tele-
+27 phone and recorded on tape or other recording device from a person
+28 representing himself to be the person who is entitled under this
+29 section to control the disposition of the remains of the decedent,
+30 or to be a coroner or any other duly authorized public officer.
+31 (b) A cemetery authority or a licensed funeral director of a licensed
+32 hospital or its authorized personnel is not liable for permitting or as-
+33 sisting, and a physician is not liable for performing, an autopsy pur-
+34 suant to the authorization provided in paragraph (a) of this subsection
+35 unless he has actual notice that such representation is untrue at the
+36 time the autopsy is performed. If such authorization is contained in
+37 a will, the autopsy may be performed regardless of the validity of the
+38 will in other respects and regardless of whether the will may not be of-
+39 fered for, or admitted to, probate until a later date.
+40 (c) This subsection shall not authorize the obtaining of an oral autho-
+41 rization by telephone, recorded on tape or other recording device, for
+42 the autopsy of a deceased person if it is made known to the physician who
+43 is to perform the autopsy that the deceased person was, at the time of
+44 his death, a member of a religion or group that opposes autopsies.
+45 (5) Persons designated in subsection (1) of this section have a direct
+46 and tangible interest in the death certificate of a decedent pursuant to sec-
+47 tion 39-270(b), Idaho Code.
+48 (6) Notwithstanding any other provision of law to the contrary, if the
+49 decedent is cremated and the person or persons vested with the right to con-
+50 trol the disposition of his remains pursuant to this section does not claim
+
+4
+1 the remains within one (1) year following his death or fails to exercise con-
+2 trol over the remains for a period of at least one (1) year, a funeral direc-
+3 tor or mortician may lawfully provide for the disposition of the remains in
+4 a manner consistent with respectful funeral home end-of-life processes when
+5 the deceased was indigent or has no next of kin or legal representative to
+6 make final disposition decisions. A funeral director or crematory authority
+7 shall maintain records of the location and date of such disposition for at
+8 least ten (10) years. This subsection shall not apply to unclaimed remains
+9 of veterans as provided for in section 54-1144, Idaho Code.
+10 SECTION 2. That Section 15-5-306, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 15-5-306. TERMINATION OF GUARDIANSHIP FOR INCAPACITATED PERSON. (1)
+13 Subject to subsection (2) of this section, the authority and responsibility
+14 of a guardian for an incapacitated person terminates upon the death of the
+15 guardian or ward, the determination of incapacity of the guardian, or upon
+16 removal or resignation as provided in section 15-5-307 of this part. Testa-
+17 mentary appointment under an informally probated will terminates if the will
+18 is later denied probate in a formal proceeding. Termination does not affect
+19 his liability for prior acts nor his obligation to account for funds and as-
+20 sets of his ward.
+21 (2) If the conditions set forth in a guardian has the right to control
+22 the disposition of the remains of a deceased person or to determine provi-
+23 sions not clearly covered in a prearranged funeral plan pursuant to section
+24 54-1142(1)(j) exist, Idaho Code, then the guardianship shall continue as set
+25 forth in that section.
+26 SECTION 3. That Section 15-5-425, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 15-5-425. DISTRIBUTIVE DUTIES AND POWERS OF CONSERVATOR. (a) A con-
+29 servator may expend or distribute income or principal of the estate without
+30 court authorization or confirmation for the support, education, care or ben-
+31 efit of the protected person and his dependents in accordance with the fol-
+32 lowing principles:
+33 (1) The conservator is to consider recommendations relating to the ap-
+34 propriate standard of support, education and benefit for the protected
+35 person made by a parent or guardian, if any. He may not be surcharged for
+36 sums paid to persons or organizations actually furnishing support, ed-
+37 ucation or care to the protected person pursuant to the recommendations
+38 of a parent or guardian of the protected person, unless he knows that the
+39 parent or guardian is deriving personal financial benefit therefrom,
+40 including relief from any personal duty of support, or unless the rec-
+41 ommendations are clearly not in the best interests of the protected per-
+42 son.
+43 (2) The conservator is to expend or distribute sums reasonably neces-
+44 sary for the support, education, care or benefit of the protected per-
+45 son with due regard to (A) the size of the estate, the probable duration
+46 of the conservatorship and the likelihood that the protected person, at
+47 some future time, may be fully able to manage his affairs and the estate
+
+5
+1 which has been conserved for him; (B) the accustomed standard of living
+2 of the protected person and members of his household; (C) other funds or
+3 sources used for the support of the protected person.
+4 (3) The conservator may expend funds of the estate for the support of
+5 persons legally dependent on the protected person and others who are
+6 members of the protected person's household who are unable to support
+7 themselves, and who are in need of support.
+8 (4) Funds expended under this subsection may be paid by the conservator
+9 to any person, including the protected person to reimburse for expendi-
+10 tures which the conservator might have made, or in advance for services
+11 to be rendered to the protected person when it is reasonable to expect
+12 that they will be performed and where advance payments are customary or
+13 reasonably necessary under the circumstances.
+14 (5) A conservator, in discharging the responsibilities conferred by
+15 court order and this part, shall implement the principles described in
+16 section 15-5-408(a) of this code.
+17 (b) If the estate is ample to provide for the purposes implicit in the
+18 distributions authorized by the preceding subsections, a conservator for a
+19 protected person other than a minor has power to make gifts to charity and
+20 other objects as the protected person might have been expected to make, in
+21 amounts which do not exceed in total for any year twenty percent (20%) of the
+22 income from the estate.
+23 (c) When a minor who has not been adjudged disabled under subsection (b)
+24 of section 15-5-401 of this part attains his majority, his conservator, af-
+25 ter meeting all prior claims and expenses of administration, shall pay over
+26 and distribute all funds and properties to the former protected person as
+27 soon as possible.
+28 (d) When the conservator is satisfied that a protected person's dis-
+29 ability (other than minority) has ceased, the conservator, after meeting all
+30 prior claims and expenses of administration, shall pay over and distribute
+31 all funds and properties to the former protected person as soon as possible.
+32 (e) If a protected person dies, the conservator shall deliver to the
+33 court for safekeeping any will of the deceased protected person which may
+34 have come into his possession, inform the executor or a beneficiary named
+35 therein that he has done so, and retain the estate for delivery to a duly ap-
+36 pointed personal representative of the decedent or other persons entitled
+37 thereto. If after forty (40) days from the death of the protected person no
+38 other person has been appointed personal representative and no application
+39 or petition for appointment is before the court, the conservator may apply
+40 to exercise the powers and duties of a personal representative so that he
+41 may proceed to administer and distribute the decedent's estate without ad-
+42 ditional or further appointment. Upon application for an order granting the
+43 powers of a personal representative to a conservator, after notice to any
+44 person demanding notice under section 15-3-204 of this code and to any per-
+45 son nominated executor in any will of which the applicant is aware, the court
+46 may order the conferral of the power upon determining that there is no objec-
+47 tion, and indorse the letters of the conservator to note that the formerly
+48 protected person is deceased and that the conservator has acquired all of the
+49 powers and duties of a personal representative. The making and entry of an
+50 order under this section shall have the effect of an order of appointment of a
+
+6
+1 personal representative as provided in section 15-3-308 and parts 6 through
+2 10 of chapter 3 except that the estate in the name of the conservator, af-
+3 ter administration, may be distributed to the decedent's successors without
+4 prior re-transfer to the conservator as personal representative.
+5 (f) During the period between the death of a protected person and the
+6 appointment of a personal representative for the protected person's estate,
+7 or the conferral of the powers of a personal representative upon the conser-
+8 vator as provided in this section, the person acting as conservator at the
+9 time of the deceased protected person's death shall have the duties and pow-
+10 ers of a temporary conservator as set forth in section 15-5-407A, Idaho Code,
+11 and the powers set forth in section 54-1142(1)(j), Idaho Code.
+12 SECTION 4. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.8YJ,RSADANCNAGTOPDFLP;AGSN5,I,TOREPSRGAYINAEOFORUDPSINAPDFLP;AGS,IOC,TOREPSRGTNOPFRIDP;AGSN1OC,TOPEACTCER;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.AYINAEOFORUDPSINAPDFLP.()Iftedthsntmeapdfnasstfhinsn5,IoC,ortoteetaypsrgtotednoftepsrsaentcdinapdflp,terttocltedftersofaddpnortodepsntcdinapdflpnvsi,addsu,tefginteorn)Tepnddinawndtedbytedtadadintesemrasrdfrigrlp,adsttoshl,r,ord,asmybestfhinshd,ortnddbytedtasadtodtdsldontedsUdSsdtofderfeyd,DDfm93orissrf,iftedtdesginmyseasddin10U.1h()inaybhofteUdSsadf,Usrefsornlg)Tepnddasaturadeprofayfhceedbyted,usshdeprofayfrhhcecsesadcrledgs)Tepnddinadeprofayedbyt,ifshprofaycsesadcrlgshrttoteatndinshprofa)Tepnagasgnoftedtatteteoftsd,orifnognwstna,tepnascroftedtatteteoftedsd)()Tectsgseofted)()Amyoftectsgatcnoft,pdttlstnof()oftects]
+[DELETED: gatcnslbevdwhterttocltnoftersoftedtiftyheudrstonyalorctsgatcnoftstodeoftedsrsadaentaeoyontoteisonteptofmetno)ofalctsgatc)()Tectsgpsorptofted,pdttifoe()oftectsgpsisa,tgctsgptslbevdwhterttltednoftersoftedtarrshebnmeadaeulinlgteatctsgp)()Tepnadbyactofctjnastlreorarofteeeofted)()Tepnndasteplreofteeeoftedtintewlofted)()TectatpnorpsedtoitfedturteiesnlsofteseofIyintentdeofk,pdttifteietnoe()ctsgatpnoftesedeo,temyoftep,adpdfrttlntemyofctsgatpsoftesedeofkpslbevdwhterttocltednoftersoftedtiftepsheudreestonyalorctsgatpsoesedeofkpoftristodeoftedsrsadaentaeofayontoteinteptofof()ormeofalctsgasoftesedeofk)Iftepsldaefltoeetrrttodftersofteddpnwnfy()dsoftedfteddp,tepnagasgnoftewdatteoftewsd,orifnognwstna,tepgascroftepdpnatteteoftepdpsd,hsteaytodeofteddpsr,igcnofter)Ifaypntowmtertofclhsvdpttefghsbncdwhftorsddemrorvymrincnwhtedsd,adtecekntotefldrorcya,tertofclisrdadpdontotentqgpnasleasiftecdpnddnte;pdh,ttiftsatshpnaed,orifshpnisadoec,tertofclisrdtotep)Frpsoftss)""msanilwoisen()ysofaeo)""msanloradcdofted]
+[DELETED: )""msteilhsntbnddiyactoflworhsbnddctbyactoflwarrdnofi)"eprofa"msaprofayddin1,IoC,oraysrdtpyedurtelsofarj)"eprofayfrhhc"mstedtddincr4,te3,IoC,oraysrdyedurtelsofarj)""msaytydettisvdurteIec,i,btntldt,ss1,14ad1,IoC,wrorntoyedi,ortelso,teseofI)Acyayorldfldrorallorisadplmyptorati,adnmyp,anayofayrsofadtini)Ifted,prtohsd,asananhswlorinarwni,i,btndt,adeprofayfrhhc;o)Untertofawnansdb,tdf,orrdbyfetnfmapghftobetepnwoisedurtntocltednoftersoftedrtobeacrorayordyadpco;o)Untertofanolanodbyteadrdonteororrgdefmapghftobetepnwoisedurtntocltednoftersoftedrtobeacrorayordyadpco)Acyayoraldfldrofallorisadplisntlefrpgora,adapnisntlefrp,anaypttoteanpdinph()oftssshehsalnettshrnisueatteteayisp.Ifshaniscdiw,teaymybepdrsoftevyoftlinorrsadrsofwrtewlmyntbeodf,oradt,peulalrd)Tssnslntaeteogofanolanbyt,rdonteororrgd,feayofaddpnifitismekntotepnwstopmteayttteddpnw,atteteosd,amrofarnorgpttosa)Psddinsn()oftssnheaddteitintedhceofadtpttosn3,IoC)Ngayorpnoflwtotec,ifttiscdadtepnorpsvdwhterttocltednofhsrspttotssndsntc]
+[DELETED: erswnoe()yrfghsdhorfstoeeclortersfrapdofatltoe()y,afldrormnmylypefrtednoftersimrctwhrlflheeepsweddwsitorhsnontofknorllretefldnd.Afldrorcyalmnrsoftelnaddeofshdnfrattn()y.Tssnslntaytoudrfvsaspdfrinsn5,IoCN2.TtSn1,IoC,b,adteseishdtordasf.TNOFGPFRIDP.(ttosn()oftss,teayadrfagnfranidpntsuntedhoftnorw,tednofiyofteg,orulorrnaspdinsn17oftsp.Tyaturaniypdwltsiftewslrddpeinaflp.Tndsntaslyfrprasnrhsontoatfrfsadasofhsw)Iftecsstfhinagnhsterttocednoftersofaddpnortodepsntcycdinapdflpnpttos)e,IoC,tntegpslceasshinttsN3.TtSn1,IoC,b,adteseishdtordasf.DEDSADPSOFC.()Acrmyedordeieorplofteeewtanorcnfrtes,e,ceorbtoftepdpnadhsdsinaewhtefgp)Tecristocrrsrgtoteaesdofs,enadbtfrtepnmebyaptorg,ifa.Hemyntbesdfspdtopsorosayfgs,enorcetotepdpnpttoterfaptorgnoftepdp,usheksttttorgnisdgplflbttgrffmaypldyofs,orustersaecyntintebtisoftepdp)Tecristoedordessrynyfrtes,e,ceorbtoftepdpnwhderdto()teseoftee,tepedftecpadteldtttepdp,aefet,mybefyaetomehsasadtee]
+[DELETED: hhsbncdfrh;()teadsdoflftepdpnadmsofhsh;()orfsosudfrtestoftepdp)Tecrmyedfsofteeefrtestoslydtontepdpnadoswoasoftepdpshdwoaeuetos,adwoaeinndofs)Fsedurtssnmybepdbytecoayp,igtepdpntorefreswhtecrmthem,orinaefrsoberdtotepdpnwnitisretoettywlbepdadweaepsaecyoynyurtec)Ac,indgterscdbtoradtsp,slittepsddin1)oftsc)Ifteeeisaetopefrtepsitintsadbytepgs,acrfrdpnortnamrhsprtomegstocyarosastepdpnmthebnedtom,iswhdontedintlfrayyrtypt()oftefmtee)Wnamrwohsntbnadddursn(fsn11oftsptashsm,hsc,armgalprcsadesofa,slpyoddealfsadpstotefrpdpnanasp)Wntecrissdttapdpsdy(rtnm)hsc,tec,armgarcsadesofa,slpyoraddlfsadpstotefrpdpnassnasp)Ifapdpnd,tecrsldrtottfrsgaywlofteddpdpnwhmeceiohsp,imteerorabynntthehsdes,adrnteeefrdytoadyadplreoftedtororpse.Ifarfy()dsfmtedhoftepdpnnrpnhsbnadplreadnoarpnfratisbetec,tecrmyaoeetepsaddsofaplresotthypdtoaraddetedseewtalorfra.Unanfranorggtsofaplretoac,arnetoandgneursn14oftsceadtoaypnnderinaywlofwhteatisa,tecyorteclofteprundgttteisnoo,adietelsoftecrtonetttefdpnisddadtttecrhsadaloftsaddsofaplr.Temgadeyofarurtssnslheteetofanorofatof]
+[DELETED: lreaspdinsn18adps6t0ofcr3etttteeeinteneoftec,ara,mybeddtotedssswrrrtotecrasplr)Dgtepdbntedhofapdpnadttofaplrefrtepdpsertecloftepsofaplreuntecraspdintss,tepnagascratteofteddpdpsdhslhetedsadpsofatycrasstfhinsn1,IoCdtepsstfhinsn5,IoCN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

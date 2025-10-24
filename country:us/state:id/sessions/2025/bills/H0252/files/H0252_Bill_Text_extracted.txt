@@ -1,0 +1,645 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 252
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO UNAUTHORIZED WORKERS; AMENDING TITLE 44, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW CHAPTER 3, TITLE 44, IDAHO CODE, TO DEFINE TERMS, TO PRO-
+4 HIBIT THE EMPLOYMENT OF CERTAIN PERSONS AND TO REQUIRE THE VERIFICATION
+5 OF LEGAL EMPLOYMENT STATUS OF WORKERS, TO PROVIDE FOR ACTIONS BY THE AT-
+6 TORNEY GENERAL, TO PROVIDE FOR VIOLATIONS, TO PROVIDE FOR DEFENSES, TO
+7 PROVIDE FOR EXCLUSIONS FROM LIABILITY, TO PROVIDE FOR INTERPRETATION,
+8 AND TO PROVIDE FOR EXCLUSIONS; AND DECLARING AN EMERGENCY AND PROVIDING
+9 AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Title 44, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 3, Title 44, Idaho Code, and to read as follows:
+14 CHAPTER 3
+15 VERIFYING LEGAL EMPLOYMENT STATUS OF WORKERS
+16 44-301. DEFINITIONS. As used in this chapter:
+17 (1) "Alien" means any person who is not a citizen or national of the
+18 United States as described in 8 U.S.C. 1101 et seq.
+19 (2) "Director" means the director of the Idaho department of labor or
+20 the director's designated agent.
+21 (3) "E-verify" or "e-verify program" means the electronic verifica-
+22 tion of federal employment authorization program of the illegal immigration
+23 reform and immigrant responsibility act, 8 U.S.C. 1324a, operated by the
+24 United States department of homeland security.
+25 (4) "Employee" means any person directed, allowed, or permitted to per-
+26 form labor or service of any kind by an employer. For the purposes of this
+27 chapter, the employees of an independent contractor working for a business
+28 entity shall not be regarded as the employees of the business entity.
+29 (5) "Employer" means any individual, person, corporation, depart-
+30 ment, board, bureau, agency, commission, division, office, company, firm,
+31 partnership, council, or committee of the state government, public benefit
+32 corporation, public authority, political subdivision of the state, or other
+33 business entity that employs or seeks to employ an individual or individuals
+34 and that registers with the secretary of state.
+35 (6) "Federal work authorization program" means any of the electronic
+36 verification of work authorization programs operated by the United States
+37 department of homeland security or an equivalent federal work authorization
+38 program operated by the United States department of homeland security to
+39 verify information of newly hired employees under 8 U.S.C. 1324a.
+40 (7) "Knowingly" means, with respect to conduct or to a circumstance de-
+41 scribed by a statute defining an offense, that a person is aware by docu-
+2
+1 mentation or action that the person's conduct is of that nature or that the
+2 circumstance exists. "Knowingly" includes the failure to request or review
+3 documentation of an employee's legal status or authorization to work.
+4 (8) "Lawful presence" or "lawfully present" means a person shall be re-
+5 garded as an alien unlawfully present in the United States only if the per-
+6 son's unlawful immigration status has been verified by the federal govern-
+7 ment pursuant to 8 U.S.C. 1373(c). No officer of this state or any political
+8 subdivision of this state shall attempt to independently make a final deter-
+9 mination of an alien's immigration status. An alien possessing self-identi-
+10 fication in any of the following forms is entitled to the presumption that he
+11 is an alien lawfully present in the United States:
+12 (a) A valid, unexpired Idaho driver's license;
+13 (b) A valid, unexpired Idaho identification card issued pursuant to the
+14 provisions of section 49-2442, Idaho Code;
+15 (c) A valid tribal enrollment card or other form of tribal identifica-
+16 tion bearing a photograph or other biometric identifier;
+17 (d) Any valid United States federal or state government-issued identi-
+18 fication document bearing a photograph or other biometric identifier,
+19 if issued by an entity that requires proof of lawful presence in the
+20 United States before issuance;
+21 (e) A foreign passport with an unexpired United States visa and a corre-
+22 sponding stamp or notation by the United States department of homeland
+23 security indicating the bearer's admission to the United States; or
+24 (f) A foreign passport issued by a visa waiver program designated coun-
+25 try with the corresponding entry stamp and unexpired duration of stay
+26 annotation or an I-94W form by the United States department of homeland
+27 security indicating the bearer's admission to the United States.
+28 (9) "License" means any permit, certificate, approval, registration,
+29 charter, or similar form of authorization that is required by law and that is
+30 issued for the purpose of operating a business in this state.
+31 (10) "Unauthorized worker" means a person who does not have the legal
+32 right to be employed or is employed in violation of law or an alien who is not
+33 authorized to work in the United States as defined in 8 U.S.C. 1324a(h)(3).
+34 44-302. UNAUTHORIZED WORKERS OR ALIENS -- EMPLOYMENT PROHIBITED. (1)
+35 It is unlawful for any employer to knowingly employ, hire, recruit, or re-
+36 fer, either for the employer itself or on behalf of another, for private or
+37 public employment within the state an unauthorized worker who is not duly au-
+38 thorized to be employed by law. No business entity, employer, or public em-
+39 ployer may knowingly employ, hire for employment, or continue to employ an
+40 unauthorized alien to perform work within the state of Idaho. "Knowingly
+41 employ, hire for employment, or continue to employ an unauthorized alien"
+42 means the actions described in 8 U.S.C. 1324a.
+43 (2) Employers are required to verify an employee's legal status or au-
+44 thorization to work after employing the individual within the first three
+45 (3) days after the employee's first day of work for pay has elapsed or by no
+46 later than the first day of work for pay if the employee will work for fewer
+47 than three (3) days.
+48 (3) For the purpose of this chapter, proof of legal status or authoriza-
+49 tion to work includes but is not limited to a valid social security card, a
+3
+1 valid immigration or nonimmigration visa with photo identification, a valid
+2 birth certificate, a valid passport, a valid photo identification card is-
+3 sued by a government agency, a valid work permit or supervision permit autho-
+4 rized by the Idaho department of labor, a valid permit issued by the United
+5 States department of justice, or another valid document providing evidence
+6 of legal residence or authorization to work in the United States.
+7 (4) For the purpose of enforcing the provisions of this chapter and
+8 notwithstanding any other provision of law to the contrary, the director may
+9 access information maintained by any state agency, including but not limited
+10 to the Idaho department of labor and the Idaho state department of trans-
+11 portation, for the limited purpose of confirming the validity of a worker's
+12 legal status or authorization to work. The director shall promulgate rules,
+13 subject to legislative approval, in accordance with chapter 52, title 67,
+14 Idaho Code, to safeguard against the release of any confidential or identi-
+15 fying information that is not necessary for the limited purpose of enforcing
+16 the provisions of this chapter.
+17 (5) On and after January 1, 2026, every business entity and employer
+18 in this state shall enroll in the e-verify program and shall thereafter, ac-
+19 cording to the federal statutes and regulations governing e-verify, verify
+20 the employment eligibility of new hires through e-verify. A business en-
+21 tity or employer that uses e-verify to verify the work authorization of an
+22 employee shall not be considered to have violated this section with respect
+23 to the employment of that employee.
+24 (6) As a condition for the award of any contract, grant, or incentive
+25 by this state, any political subdivision of the state, or any state-funded
+26 entity to a business entity or employer that employs one (1) or more employ-
+27 ees, the business entity or employer shall provide documentation establish-
+28 ing that the business entity or employer is enrolled in the e-verify pro-
+29 gram. During the performance of the contract, the business entity or em-
+30 ployer shall participate in the e-verify program and shall verify every em-
+31 ployee that is required to be verified according to the applicable federal
+32 rules and regulations.
+33 (7) No subcontractor on a project paid for by contract, grant, or in-
+34 centive by this state, any political subdivision of the state, or any state-
+35 funded entity may knowingly employ, hire for employment, or continue to em-
+36 ploy an unauthorized alien. Such a subcontractor shall enroll in the e-ver-
+37 ify program prior to performing any work on the project and shall verify ev-
+38 ery employee that is required to be verified according to the applicable fed-
+39 eral rules and regulations.
+40 (8) Compliance with this section may be verified by state authorities
+41 or law enforcement at any time to ensure a contractual agreement as provided
+42 for in this section is being met.
+43 44-303. ACTIONS BY ATTORNEY GENERAL. (1) The attorney general may
+44 bring a civil complaint in any court of competent jurisdiction to enforce the
+45 requirements of this chapter.
+46 (2) Any resident of this state may petition the attorney general to
+47 bring an enforcement action against a specific business entity or employer
+48 by means of a written, signed petition. A valid petition shall include an
+49 allegation that describes the alleged violator or violators, as well as
+4
+1 the action constituting the violation, and the date and location where the
+2 violation occurred. A petition that alleges a violation on the basis of
+3 national origin, ethnicity, or race shall be considered invalid and may not
+4 be acted upon. The attorney general shall respond to any petition under
+5 this subsection within sixty (60) days of receiving the petition, either by
+6 filing a civil complaint in a court of competent jurisdiction or by inform-
+7 ing the petitioner in writing that the attorney general has determined that
+8 filing a civil complaint is not warranted.
+9 44-304. VIOLATIONS. (1) In any court proceedings, the determination
+10 of whether an employee is an unauthorized alien shall be made by the fed-
+11 eral government, pursuant to 8 U.S.C. 1373(c). The court shall consider only
+12 the federal government's determination when deciding whether an employee is
+13 an unauthorized alien. The court may take judicial notice of any verifica-
+14 tion of an individual's immigration status previously provided by the fed-
+15 eral government and may request the federal government to provide further
+16 automated or testimonial verification.
+17 (2)(a) Upon the first violation of section 44-302(6), Idaho Code, by
+18 any business entity or employer awarded a contract by the state, any
+19 political subdivision of the state, or any state-funded entity, the
+20 business entity or employer shall be considered in breach of contract
+21 and the state, political subdivision, or state-funded entity may ter-
+22 minate the contract after providing notice and an opportunity to be
+23 heard. Upon application by the state entity, political subdivision,
+24 or state-funded entity, the attorney general may bring an action to
+25 suspend the business licenses and permits of the business entity or
+26 employer for a period not to exceed sixty (60) days, according to the
+27 procedures described in this section. The court shall order the busi-
+28 ness entity or employer to file a signed, sworn affidavit with the
+29 attorney general within three (3) days after the order is issued by the
+30 court stating that the business entity or employer has terminated the
+31 employment of every unauthorized alien and that the business entity or
+32 employer will not knowingly or intentionally employ an unauthorized
+33 alien in this state.
+34 (b) Upon a second or subsequent violation of section 44-302(6), Idaho
+35 Code, by any business entity or employer awarded a contract by the
+36 state, any political subdivision, or any state-funded entity, the busi-
+37 ness entity or employer shall be considered in breach of contract and
+38 the state, political subdivision, or state-funded entity shall ter-
+39 minate the contract after providing notice and an opportunity to be
+40 heard. Upon application by the state entity, political subdivision, or
+41 state-funded entity, the attorney general may bring an action to perma-
+42 nently revoke the business licenses and permits of the business entity
+43 or employer.
+44 (3)(a) Upon the first violation of section 44-302(7), Idaho Code, by
+45 a subcontractor, the state or political subdivision of the state may
+46 bar the subcontractor from doing business with the state, any politi-
+47 cal subdivision of the state, or any state-funded entity, or with any
+48 contractor who contracts with the state, any political subdivision of
+49 the state, or any state-funded entity, after providing notice and an op-
+5
+1 portunity to be heard. Upon application by the state entity, political
+2 subdivision, or state-funded entity, the attorney general may bring an
+3 action to suspend the business licenses and permits of the subcontrac-
+4 tor for a period not to exceed sixty (60) days. The court shall order
+5 the subcontractor to file a signed, sworn affidavit with the attorney
+6 general within three (3) days after the order is issued by the court
+7 stating that the subcontractor has terminated the employment of every
+8 unauthorized alien and that the subcontractor will not knowingly or
+9 intentionally employ an unauthorized alien in this state.
+10 (b) Upon a second or subsequent violation of section 44-302(7), Idaho
+11 Code, by a subcontractor and upon application by the state entity, po-
+12 litical subdivision, or state-funded entity, the attorney general may
+13 bring an action to permanently suspend the business licenses of the
+14 business entity or employer.
+15 (4) Upon a finding by a court of competent jurisdiction that a business
+16 entity or employer knowingly violated the provisions of section 44-302(5),
+17 Idaho Code, for the first time, the court shall:
+18 (a) Order the business entity or employer to terminate the employment
+19 of every unauthorized alien;
+20 (b) Subject the business entity or employer to a three (3) year proba-
+21 tionary period throughout the state. During the probationary period,
+22 the business entity or employer shall file quarterly reports with the
+23 attorney general of each new employee who is hired by the business en-
+24 tity or employer in the state;
+25 (c) Order the business entity or employer to file a signed, sworn af-
+26 fidavit with the attorney general within three (3) days after the or-
+27 der is issued by the court stating that the business entity or employer
+28 has terminated the employment of every unauthorized alien and that the
+29 business entity or employer will not knowingly or intentionally employ
+30 an unauthorized alien in this state; and
+31 (d) Direct the applicable state, county, or municipal governing bodies
+32 to suspend any business licenses and permits of the business entity or
+33 employer for a period not to exceed ten (10) business days specific to
+34 the business location where the unauthorized alien performed work.
+35 (5) For a second violation of section 44-302(5), Idaho Code, by a
+36 business entity or employer, the court shall direct the applicable state,
+37 county, or municipal governing body to permanently revoke any business li-
+38 censes and permits held by the business entity or employer specific to the
+39 business location where the unauthorized alien performed work. Upon receipt
+40 of the order and notwithstanding any other law, the appropriate agencies
+41 shall immediately revoke the licenses and permits held by the business en-
+42 tity or employer.
+43 (6) For a third or subsequent violation of section 44-302(5), Idaho
+44 Code, the court shall direct the applicable governing bodies to permanently
+45 suspend any business licenses and permits of the business entity or employer
+46 throughout the state.
+47 (7) The suspension of a business license or permit pursuant to subsec-
+48 tion (2)(a), (3)(a), or (4)(d) of this section shall terminate one (1) busi-
+49 ness day after a legal representative of the business entity, employer, or
+50 subcontractor submits to the court a signed, sworn affidavit stating that
+6
+1 the business entity, employer, or subcontractor is in compliance with the
+2 provisions of this chapter, along with a copy of the memorandum of under-
+3 standing issued at the time of enrollment in the e-verify program.
+4 (8) If an employee of any agency of the state or any political subdi-
+5 vision of the state fails to suspend the business licenses or permits of any
+6 business entity or employer as a result of a violation of this chapter, the
+7 agency shall be deemed to have violated section 44-302(1), Idaho Code, and
+8 may be compelled to enforce this chapter by a writ of mandamus brought by the
+9 attorney general in any court of competent jurisdiction.
+10 (9) The secretary of state shall promulgate rules, subject to legisla-
+11 tive approval, in accordance with chapter 52, title 67, Idaho Code, as neces-
+12 sary to provide for the suspension, reinstatement, and cancellation of busi-
+13 ness licenses required under this chapter.
+14 44-305. DEFENSES. (1) This chapter may not be construed to deny any
+15 procedural mechanisms or legal defenses included in the e-verify program or
+16 any other federal work authorization program. A business entity, employer,
+17 subcontractor, or other person that establishes that it has complied in good
+18 faith with section 44-302(5), Idaho Code, establishes an affirmative de-
+19 fense that the business entity, employer, or subcontractor did not knowingly
+20 hire or employ an unauthorized alien.
+21 (2) It is an affirmative defense to a violation of section 44-302(1),
+22 Idaho Code, that a business entity or employer was entrapped. To claim en-
+23 trapment, the business entity or employer must admit by testimony or other
+24 evidence the substantial elements of the violation. A business entity or em-
+25 ployer who asserts an entrapment defense has the burden of proving by clear
+26 and convincing evidence the following:
+27 (a) The idea of committing the violation started with law enforcement
+28 officers or their agents rather than with the business entity or em-
+29 ployer;
+30 (b) The law enforcement officers or their agents urged and induced the
+31 business entity or employer to commit the violation; and
+32 (c) The business entity or employer was not already predisposed to com-
+33 mit the violation before the law enforcement officers or their agents
+34 urged and induced the employer to commit the violation.
+35 44-306. EXCLUSIONS FROM LIABILITY. (1) A contractor of any tier shall
+36 not be liable under this chapter when its direct subcontractor violates sec-
+37 tion 44-302, Idaho Code, if the contractor receives a sworn affidavit from
+38 the subcontractor signed before a notary that the direct subcontractor, in
+39 good faith, has complied with respect to verifying each employee's eligibil-
+40 ity for employment, unless the contractor knows the direct subcontractor is
+41 violating this section.
+42 (2) Any business entity or employer that terminates the employment of
+43 an employee to comply with this chapter shall not be liable for any claims
+44 made against the business entity or employer by the terminated employee if
+45 such termination is made without regard to the race, ethnicity, or national
+46 origin of the employee.
+7
+1 44-307. INTERPRETATION. The provisions of this chapter shall be in-
+2 terpreted consistently with 8 U.S.C. 1324a and any applicable federal rules
+3 and regulations.
+4 44-308. EXCLUSIONS. This chapter does not apply to the relationship
+5 between a party and the employees of an independent contractor performing
+6 work for the party and does not apply to casual domestic labor performed
+7 within a household.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOUDW;AGTE4,IOC,BYTEANOFANWCR3,TE4,IOC,TODET,TOPTTEETOFCNPSADTORETEVFLLETSSOFW,TOPEFRASBYTEAYG,TOPEFRV,TOPEFRD,TEFRESFML,TOPEFRIDTOPEFRE;ADDGANEYADPNEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr3,Te4,IoC,adtordasfRGLLETSSOFW.D.Asudintsc)""msaypnwoisntacnornloftdSsasddin8U.11ets)""mstedrofteIodtoflroedsdda)""or"yp"msteecvnoffletanpmofteilimaditrya,8U.1,odbytdSsdtofhds)""msaypnd,a,orpdtopmlrorseofaykdbyane.Frtepsoft,teesofanitcrwgfrabyslntberdasteesoftebse)""msayi,p,c,d,b,b,a,c,d,o,c,f,c,orceofteseg,pcb,pca,plsnoftes,oroseyttesorsstoeyaniloridttrswhtesyofs)"lwkanp"msayofteenofwkanpsodbyteUdStofhdsyoranetflwkamodbyteUdSsdtofhdsytyinofnyhdesur8U.1)""m,whrttoctortoaceddbyasedgano,ttapnisaebyd]
+[DELETED: norantttepsctisofttneortttee.""istefetortorrnofanesllssorantow)"lp"or"yp"msapnslberdasananuyptinteUdSsoyiftepsulinsshsbnvdbyteflgtptto8U.1.Nooroftsseoraypnoftsseslattoiymeafldnofanasins.AnanpgsninayoftefgfsisedtotepntthsananlyptinteUdS)Av,udIodsl)Av,udIoincdidpttotsofsn4,IoC)Avdtletcdororfmoftlinbgaphororbci)AyvdUdSsflorsegdindtbgaphororbcifidbyaneyttrspfofllpeintdSsbei)AfnptwhanudUdSsvaadacgspornnbyteUdSsdtofhyigtebsantoteUdS;o)AfnptidbyavawrpmddcywhtecgeyspaduddnofsnoranIWfmbyteUdSsdtofhyigtebsantoteUdS)""msayp,c,a,r,orsrfmofanttisrdbylwadttidfrtepeofogabsintss)"dw"msapnwodsnthetelttobeedorisedinvnoflworananwoisndtowkinteUdSsasddin8U.1.UDWSORAS--ETP.(tisulfrayertokye,h,r,orr,erfrteeriforonbfofa,frpeocetwnteseanudwrwoisntdyadtobeedbyl.Nobse,e,orpcermykye,hefre,orcetoeyadantopmwkwnteseofI.",hefre,orcetoeyanudasteasddin8U.1)Esaerdtovyanesllssorantowkaregteilwnteftt)dsarteesftdyofwkfrpyhsedorbynrtnteftdyofwkfrpyifteeewlwkfrfnte()d)Frtepeoftsc,pfofllssorantowkisbtisntldtoavdslsyc,]
+[DELETED: dinornnvawhpoi,avhc,avdp,avdpoincdidbyagta,avdwkptorsnptadbyteIodtofl,avdptidbyteUsdtofj,orarvddtpgefllreorantowkinteUdS)Frtepeofegtepsoftscragayorpnoflwtotec,tedrmsinmdbyaysea,igbtntloteIodtoflradteIosedtoft,frteldpeofcgtevyofawlssorantow.Tedrslperttolea,inaewhcr5,te6oC,tosdattereofaycloriginttisntnyfrteldpeofeepsoftsc)OnadarJy1,2,eybseyadentsseslelinteeypmadslt,agtoteflssadrsgge,veeteyofnwhsthe.Abseyorerttuseytovytewkanofaeslntbecdtohevdtssnwhroteetoftte)Asacnfrteadofayc,g,oriytss,ayplsnoftes,oraysytoabseyorerttesoe()ormee,tebseyorerslpednegtttebseyorerisedinteeyp.Dgtepeoftec,tebseyorerslpeinteeypmadslvyeyeettisrdtobevdagtoteaefsadr)Nosronaptpdfrbyc,g,oriebytss,ayplsnoftes,oraysdeymykye,hefre,orcetoeyanuda.Shasrslelinteeypmprtopgaywkonteptadslvyeyeettisrdtobevdagtoteaeflrsadr)Cewhtssnmybevdbysearlwetataytetoeeaclatasprintssnisbgm.ASBYAYG.()Teayglmgaclctinayctofctjntoeetsoftsc)Ayrtoftssemypnteaygltganetanatascbseyoreymsofaw,sdp.Avdpnslieanttdsteadvrorv,aswla]
+[DELETED: eancgtev,adtedeadlnwetno.Apnttasavnontebsolo,e,orreslbecdidadmyneadu.Teayglslrdtoaypnussnwnsy()dsofrgtep,erbgaclctinactofctjnorbyigteprinwgttteayglhsddtgaclctisntw.V.()Inayctp,tedfwraneeisanudanslbemebyteflg,ptto8U.1.Tectslcroeflgsdnwndgwraneeinuda.Tectmytejlneofayvnofanisinsspypdbyteflgtadmyrtteflgttopefdortlv)Unteftvnofsn4,IoC,bybseyoreradactbytes,alsnoftes,oraysde,tseyorerslbecdinbhofcdtes,pls,orsdeymytetectarpgneadanoytob.Unanbytesee,plsrsde,teayglmybganantdtebslsadpsoftebseyorfrapdnttoedsy()d,agtotsddintss.Tectslortebseyorertofeas,snatwhtyglwnte()dsarteorisidbyttsgtttebseyorerhstdttofeyudanadtttebseyorwlntkyoriyeyanunintss)Unasdorstvnofsn4,I,byaybseyoreradactbyt,aypls,oraysde,tebseyorerslbecdinbhofctaes,pls,orsdeysltetectarpgneadanoytob.Unanbytesee,pls,ode,teayglmybganantopyretebslsadpsoftebsere)Unteftvnofsn4,IoC,bs,teseorplsnoftesemrtesrfmdgbswhtes,ayplsnoftes,oraysde,orwharwocswhtes,ayplsnoes,oraysde,arpgneadano]
+[DELETED: ytobeh.Unanbytesee,p,orsde,teayglmybgantosdtebslsadpsoftesrfrapdnttoedsy()d.Tectsloesrtofeas,snatwhtealwnte()dsarteorisidbytecgtttesrhstdteetofedanadtttesrwlntkyoyeyanudanintss)Unasdorstvnofsn4,I,byasradunanbytesee,pls,orsde,teayglmganantopysdtebslsoftseyore)Unafgbyactofctjnttabyorerkyvdtepsofsn4oC,frteftt,tects)Ortebseyorertoteteefeyuda)Sttebseyorertoate()yrpypdtttes.Dgtepypebseyorerslfeqyrswhtyglofehnweewoishdbytebseyorerintes)Ortebseyorertofeas,snatwhteayglwnte()dsarteorisidbytectsgtttebseyorestdteetofeyudanadtttseyorerwlntkyoriyenudanintss;a)Dtteaes,c,ormlggbosdaybslsadpsoftebseyorfrapdnttoedtn()bsdssctebslnweteudanpdw)Frasdvnofsn4,IoC,byseyore,tectsldtteaes,ormlggbytopyreaybslsadpshdbytebseyorersctotslnweteudanpdw.Unrfteoradngayorl,teaealiyretelsadpshdbytebseyore)Fratdorstvnofsn4,I,tectsldtteaeggbstopdaybslsadpsoftebseyorettes)Tesnofabsleorptpttosn(,(,or()oftssnslteoe()bsdyarallreoftebse,e,orsstotectas,snatsgt]
+[DELETED: ebse,e,orsrisincewhtsoftsc,agwhacyoftemmofugidatteteofetinteeyp)Ifaneeofayayofteseorayplsnoftesefstosdtebslsorpsofaseyorerasartofavnoftsc,tyslbeddtohevdsn4,IoC,aybecdtoeetscrbyawtofmsbtbytyglinayctofctj)Tesyofseslper,sttolea,inaewhcr5,te6,IoC,asnytopefrtes,r,adcnofbslsrdurtsc.D.()Tscrmyntbecdtodyalmsorlldsidinteeypmoyorflwkanp.Abse,e,ororpnttesttithscdinghwhsn4,IoC,esanaedetttebse,e,orsrddntkeoreyanuda)Itisanaedetoavnofsn4oC,ttabseyorerwse.Tocme,tebseyorermtatbytyoroeteslesoftev.Abseyorerwoasanetdehstebnofpgbycdcgeetef)Teiaofcgtevnsdwhlwesortrasrrtnwhtebseyore)Telwetosortrasudadidtseyorertocttev;a)Tebseyorerwsntaypdtocttevnbetelwetosortradadidteertocttev.ESFML.()Acrofaytrstbeleurtscrwnisdtsrvssn4,IoC,iftecrrsasnatfesrsdbeanytttedts,idf,hscdwhrttovgeheseyfre,ustecrkstedtsrigtss)Aybseyorertttsteetoneetocywhtscrslntbelefrayceattebseyorerbytetdeeihtnismewtrdtoter,e,ornnoftee]
+[DELETED: .I.Tepsoftscrslbeidcywh8U.1aadayaeflrdr.E.TscrdsntaytoternapyadteesofanitcrpkfrtepyaddsntaytocldclrpnahN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 252
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO UNAUTHORIZED WORKERS; AMENDING TITLE 44, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW CHAPTER 3, TITLE 44, IDAHO CODE, TO DEFINE TERMS, TO PRO-
+4 HIBIT THE EMPLOYMENT OF CERTAIN PERSONS AND TO REQUIRE THE VERIFICATION
+5 OF LEGAL EMPLOYMENT STATUS OF WORKERS, TO PROVIDE FOR ACTIONS BY THE AT-
+6 TORNEY GENERAL, TO PROVIDE FOR VIOLATIONS, TO PROVIDE FOR DEFENSES, TO
+7 PROVIDE FOR EXCLUSIONS FROM LIABILITY, TO PROVIDE FOR INTERPRETATION,
+8 AND TO PROVIDE FOR EXCLUSIONS; AND DECLARING AN EMERGENCY AND PROVIDING
+9 AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Title 44, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 3, Title 44, Idaho Code, and to read as follows:
+14 CHAPTER 3
+15 VERIFYING LEGAL EMPLOYMENT STATUS OF WORKERS
+16 44-301. DEFINITIONS. As used in this chapter:
+17 (1) "Alien" means any person who is not a citizen or national of the
+18 United States as described in 8 U.S.C. 1101 et seq.
+19 (2) "Director" means the director of the Idaho department of labor or
+20 the director's designated agent.
+21 (3) "E-verify" or "e-verify program" means the electronic verifica-
+22 tion of federal employment authorization program of the illegal immigration
+23 reform and immigrant responsibility act, 8 U.S.C. 1324a, operated by the
+24 United States department of homeland security.
+25 (4) "Employee" means any person directed, allowed, or permitted to per-
+26 form labor or service of any kind by an employer. For the purposes of this
+27 chapter, the employees of an independent contractor working for a business
+28 entity shall not be regarded as the employees of the business entity.
+29 (5) "Employer" means any individual, person, corporation, depart-
+30 ment, board, bureau, agency, commission, division, office, company, firm,
+31 partnership, council, or committee of the state government, public benefit
+32 corporation, public authority, political subdivision of the state, or other
+33 business entity that employs or seeks to employ an individual or individuals
+34 and that registers with the secretary of state.
+35 (6) "Federal work authorization program" means any of the electronic
+36 verification of work authorization programs operated by the United States
+37 department of homeland security or an equivalent federal work authorization
+38 program operated by the United States department of homeland security to
+39 verify information of newly hired employees under 8 U.S.C. 1324a.
+40 (7) "Knowingly" means, with respect to conduct or to a circumstance de-
+41 scribed by a statute defining an offense, that a person is aware by docu-
+
+2
+1 mentation or action that the person's conduct is of that nature or that the
+2 circumstance exists. "Knowingly" includes the failure to request or review
+3 documentation of an employee's legal status or authorization to work.
+4 (8) "Lawful presence" or "lawfully present" means a person shall be re-
+5 garded as an alien unlawfully present in the United States only if the per-
+6 son's unlawful immigration status has been verified by the federal govern-
+7 ment pursuant to 8 U.S.C. 1373(c). No officer of this state or any political
+8 subdivision of this state shall attempt to independently make a final deter-
+9 mination of an alien's immigration status. An alien possessing self-identi-
+10 fication in any of the following forms is entitled to the presumption that he
+11 is an alien lawfully present in the United States:
+12 (a) A valid, unexpired Idaho driver's license;
+13 (b) A valid, unexpired Idaho identification card issued pursuant to the
+14 provisions of section 49-2442, Idaho Code;
+15 (c) A valid tribal enrollment card or other form of tribal identifica-
+16 tion bearing a photograph or other biometric identifier;
+17 (d) Any valid United States federal or state government-issued identi-
+18 fication document bearing a photograph or other biometric identifier,
+19 if issued by an entity that requires proof of lawful presence in the
+20 United States before issuance;
+21 (e) A foreign passport with an unexpired United States visa and a corre-
+22 sponding stamp or notation by the United States department of homeland
+23 security indicating the bearer's admission to the United States; or
+24 (f) A foreign passport issued by a visa waiver program designated coun-
+25 try with the corresponding entry stamp and unexpired duration of stay
+26 annotation or an I-94W form by the United States department of homeland
+27 security indicating the bearer's admission to the United States.
+28 (9) "License" means any permit, certificate, approval, registration,
+29 charter, or similar form of authorization that is required by law and that is
+30 issued for the purpose of operating a business in this state.
+31 (10) "Unauthorized worker" means a person who does not have the legal
+32 right to be employed or is employed in violation of law or an alien who is not
+33 authorized to work in the United States as defined in 8 U.S.C. 1324a(h)(3).
+34 44-302. UNAUTHORIZED WORKERS OR ALIENS -- EMPLOYMENT PROHIBITED. (1)
+35 It is unlawful for any employer to knowingly employ, hire, recruit, or re-
+36 fer, either for the employer itself or on behalf of another, for private or
+37 public employment within the state an unauthorized worker who is not duly au-
+38 thorized to be employed by law. No business entity, employer, or public em-
+39 ployer may knowingly employ, hire for employment, or continue to employ an
+40 unauthorized alien to perform work within the state of Idaho. "Knowingly
+41 employ, hire for employment, or continue to employ an unauthorized alien"
+42 means the actions described in 8 U.S.C. 1324a.
+43 (2) Employers are required to verify an employee's legal status or au-
+44 thorization to work after employing the individual within the first three
+45 (3) days after the employee's first day of work for pay has elapsed or by no
+46 later than the first day of work for pay if the employee will work for fewer
+47 than three (3) days.
+48 (3) For the purpose of this chapter, proof of legal status or authoriza-
+49 tion to work includes but is not limited to a valid social security card, a
+
+3
+1 valid immigration or nonimmigration visa with photo identification, a valid
+2 birth certificate, a valid passport, a valid photo identification card is-
+3 sued by a government agency, a valid work permit or supervision permit autho-
+4 rized by the Idaho department of labor, a valid permit issued by the United
+5 States department of justice, or another valid document providing evidence
+6 of legal residence or authorization to work in the United States.
+7 (4) For the purpose of enforcing the provisions of this chapter and
+8 notwithstanding any other provision of law to the contrary, the director may
+9 access information maintained by any state agency, including but not limited
+10 to the Idaho department of labor and the Idaho state department of trans-
+11 portation, for the limited purpose of confirming the validity of a worker's
+12 legal status or authorization to work. The director shall promulgate rules,
+13 subject to legislative approval, in accordance with chapter 52, title 67,
+14 Idaho Code, to safeguard against the release of any confidential or identi-
+15 fying information that is not necessary for the limited purpose of enforcing
+16 the provisions of this chapter.
+17 (5) On and after January 1, 2026, every business entity and employer
+18 in this state shall enroll in the e-verify program and shall thereafter, ac-
+19 cording to the federal statutes and regulations governing e-verify, verify
+20 the employment eligibility of new hires through e-verify. A business en-
+21 tity or employer that uses e-verify to verify the work authorization of an
+22 employee shall not be considered to have violated this section with respect
+23 to the employment of that employee.
+24 (6) As a condition for the award of any contract, grant, or incentive
+25 by this state, any political subdivision of the state, or any state-funded
+26 entity to a business entity or employer that employs one (1) or more employ-
+27 ees, the business entity or employer shall provide documentation establish-
+28 ing that the business entity or employer is enrolled in the e-verify pro-
+29 gram. During the performance of the contract, the business entity or em-
+30 ployer shall participate in the e-verify program and shall verify every em-
+31 ployee that is required to be verified according to the applicable federal
+32 rules and regulations.
+33 (7) No subcontractor on a project paid for by contract, grant, or in-
+34 centive by this state, any political subdivision of the state, or any state-
+35 funded entity may knowingly employ, hire for employment, or continue to em-
+36 ploy an unauthorized alien. Such a subcontractor shall enroll in the e-ver-
+37 ify program prior to performing any work on the project and shall verify ev-
+38 ery employee that is required to be verified according to the applicable fed-
+39 eral rules and regulations.
+40 (8) Compliance with this section may be verified by state authorities
+41 or law enforcement at any time to ensure a contractual agreement as provided
+42 for in this section is being met.
+43 44-303. ACTIONS BY ATTORNEY GENERAL. (1) The attorney general may
+44 bring a civil complaint in any court of competent jurisdiction to enforce the
+45 requirements of this chapter.
+46 (2) Any resident of this state may petition the attorney general to
+47 bring an enforcement action against a specific business entity or employer
+48 by means of a written, signed petition. A valid petition shall include an
+49 allegation that describes the alleged violator or violators, as well as
+
+4
+1 the action constituting the violation, and the date and location where the
+2 violation occurred. A petition that alleges a violation on the basis of
+3 national origin, ethnicity, or race shall be considered invalid and may not
+4 be acted upon. The attorney general shall respond to any petition under
+5 this subsection within sixty (60) days of receiving the petition, either by
+6 filing a civil complaint in a court of competent jurisdiction or by inform-
+7 ing the petitioner in writing that the attorney general has determined that
+8 filing a civil complaint is not warranted.
+9 44-304. VIOLATIONS. (1) In any court proceedings, the determination
+10 of whether an employee is an unauthorized alien shall be made by the fed-
+11 eral government, pursuant to 8 U.S.C. 1373(c). The court shall consider only
+12 the federal government's determination when deciding whether an employee is
+13 an unauthorized alien. The court may take judicial notice of any verifica-
+14 tion of an individual's immigration status previously provided by the fed-
+15 eral government and may request the federal government to provide further
+16 automated or testimonial verification.
+17 (2)(a) Upon the first violation of section 44-302(6), Idaho Code, by
+18 any business entity or employer awarded a contract by the state, any
+19 political subdivision of the state, or any state-funded entity, the
+20 business entity or employer shall be considered in breach of contract
+21 and the state, political subdivision, or state-funded entity may ter-
+22 minate the contract after providing notice and an opportunity to be
+23 heard. Upon application by the state entity, political subdivision,
+24 or state-funded entity, the attorney general may bring an action to
+25 suspend the business licenses and permits of the business entity or
+26 employer for a period not to exceed sixty (60) days, according to the
+27 procedures described in this section. The court shall order the busi-
+28 ness entity or employer to file a signed, sworn affidavit with the
+29 attorney general within three (3) days after the order is issued by the
+30 court stating that the business entity or employer has terminated the
+31 employment of every unauthorized alien and that the business entity or
+32 employer will not knowingly or intentionally employ an unauthorized
+33 alien in this state.
+34 (b) Upon a second or subsequent violation of section 44-302(6), Idaho
+35 Code, by any business entity or employer awarded a contract by the
+36 state, any political subdivision, or any state-funded entity, the busi-
+37 ness entity or employer shall be considered in breach of contract and
+38 the state, political subdivision, or state-funded entity shall ter-
+39 minate the contract after providing notice and an opportunity to be
+40 heard. Upon application by the state entity, political subdivision, or
+41 state-funded entity, the attorney general may bring an action to perma-
+42 nently revoke the business licenses and permits of the business entity
+43 or employer.
+44 (3)(a) Upon the first violation of section 44-302(7), Idaho Code, by
+45 a subcontractor, the state or political subdivision of the state may
+46 bar the subcontractor from doing business with the state, any politi-
+47 cal subdivision of the state, or any state-funded entity, or with any
+48 contractor who contracts with the state, any political subdivision of
+49 the state, or any state-funded entity, after providing notice and an op-
+
+5
+1 portunity to be heard. Upon application by the state entity, political
+2 subdivision, or state-funded entity, the attorney general may bring an
+3 action to suspend the business licenses and permits of the subcontrac-
+4 tor for a period not to exceed sixty (60) days. The court shall order
+5 the subcontractor to file a signed, sworn affidavit with the attorney
+6 general within three (3) days after the order is issued by the court
+7 stating that the subcontractor has terminated the employment of every
+8 unauthorized alien and that the subcontractor will not knowingly or
+9 intentionally employ an unauthorized alien in this state.
+10 (b) Upon a second or subsequent violation of section 44-302(7), Idaho
+11 Code, by a subcontractor and upon application by the state entity, po-
+12 litical subdivision, or state-funded entity, the attorney general may
+13 bring an action to permanently suspend the business licenses of the
+14 business entity or employer.
+15 (4) Upon a finding by a court of competent jurisdiction that a business
+16 entity or employer knowingly violated the provisions of section 44-302(5),
+17 Idaho Code, for the first time, the court shall:
+18 (a) Order the business entity or employer to terminate the employment
+19 of every unauthorized alien;
+20 (b) Subject the business entity or employer to a three (3) year proba-
+21 tionary period throughout the state. During the probationary period,
+22 the business entity or employer shall file quarterly reports with the
+23 attorney general of each new employee who is hired by the business en-
+24 tity or employer in the state;
+25 (c) Order the business entity or employer to file a signed, sworn af-
+26 fidavit with the attorney general within three (3) days after the or-
+27 der is issued by the court stating that the business entity or employer
+28 has terminated the employment of every unauthorized alien and that the
+29 business entity or employer will not knowingly or intentionally employ
+30 an unauthorized alien in this state; and
+31 (d) Direct the applicable state, county, or municipal governing bodies
+32 to suspend any business licenses and permits of the business entity or
+33 employer for a period not to exceed ten (10) business days specific to
+34 the business location where the unauthorized alien performed work.
+35 (5) For a second violation of section 44-302(5), Idaho Code, by a
+36 business entity or employer, the court shall direct the applicable state,
+37 county, or municipal governing body to permanently revoke any business li-
+38 censes and permits held by the business entity or employer specific to the
+39 business location where the unauthorized alien performed work. Upon receipt
+40 of the order and notwithstanding any other law, the appropriate agencies
+41 shall immediately revoke the licenses and permits held by the business en-
+42 tity or employer.
+43 (6) For a third or subsequent violation of section 44-302(5), Idaho
+44 Code, the court shall direct the applicable governing bodies to permanently
+45 suspend any business licenses and permits of the business entity or employer
+46 throughout the state.
+47 (7) The suspension of a business license or permit pursuant to subsec-
+48 tion (2)(a), (3)(a), or (4)(d) of this section shall terminate one (1) busi-
+49 ness day after a legal representative of the business entity, employer, or
+50 subcontractor submits to the court a signed, sworn affidavit stating that
+
+6
+1 the business entity, employer, or subcontractor is in compliance with the
+2 provisions of this chapter, along with a copy of the memorandum of under-
+3 standing issued at the time of enrollment in the e-verify program.
+4 (8) If an employee of any agency of the state or any political subdi-
+5 vision of the state fails to suspend the business licenses or permits of any
+6 business entity or employer as a result of a violation of this chapter, the
+7 agency shall be deemed to have violated section 44-302(1), Idaho Code, and
+8 may be compelled to enforce this chapter by a writ of mandamus brought by the
+9 attorney general in any court of competent jurisdiction.
+10 (9) The secretary of state shall promulgate rules, subject to legisla-
+11 tive approval, in accordance with chapter 52, title 67, Idaho Code, as neces-
+12 sary to provide for the suspension, reinstatement, and cancellation of busi-
+13 ness licenses required under this chapter.
+14 44-305. DEFENSES. (1) This chapter may not be construed to deny any
+15 procedural mechanisms or legal defenses included in the e-verify program or
+16 any other federal work authorization program. A business entity, employer,
+17 subcontractor, or other person that establishes that it has complied in good
+18 faith with section 44-302(5), Idaho Code, establishes an affirmative de-
+19 fense that the business entity, employer, or subcontractor did not knowingly
+20 hire or employ an unauthorized alien.
+21 (2) It is an affirmative defense to a violation of section 44-302(1),
+22 Idaho Code, that a business entity or employer was entrapped. To claim en-
+23 trapment, the business entity or employer must admit by testimony or other
+24 evidence the substantial elements of the violation. A business entity or em-
+25 ployer who asserts an entrapment defense has the burden of proving by clear
+26 and convincing evidence the following:
+27 (a) The idea of committing the violation started with law enforcement
+28 officers or their agents rather than with the business entity or em-
+29 ployer;
+30 (b) The law enforcement officers or their agents urged and induced the
+31 business entity or employer to commit the violation; and
+32 (c) The business entity or employer was not already predisposed to com-
+33 mit the violation before the law enforcement officers or their agents
+34 urged and induced the employer to commit the violation.
+35 44-306. EXCLUSIONS FROM LIABILITY. (1) A contractor of any tier shall
+36 not be liable under this chapter when its direct subcontractor violates sec-
+37 tion 44-302, Idaho Code, if the contractor receives a sworn affidavit from
+38 the subcontractor signed before a notary that the direct subcontractor, in
+39 good faith, has complied with respect to verifying each employee's eligibil-
+40 ity for employment, unless the contractor knows the direct subcontractor is
+41 violating this section.
+42 (2) Any business entity or employer that terminates the employment of
+43 an employee to comply with this chapter shall not be liable for any claims
+44 made against the business entity or employer by the terminated employee if
+45 such termination is made without regard to the race, ethnicity, or national
+46 origin of the employee.
+
+7
+1 44-307. INTERPRETATION. The provisions of this chapter shall be in-
+2 terpreted consistently with 8 U.S.C. 1324a and any applicable federal rules
+3 and regulations.
+4 44-308. EXCLUSIONS. This chapter does not apply to the relationship
+5 between a party and the employees of an independent contractor performing
+6 work for the party and does not apply to casual domestic labor performed
+7 within a household.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOUDW;AGTE4,IOC,BYTEANOFANWCR3,TE4,IOC,TODET,TOPTTEETOFCNPSADTORETEVFLLETSSOFW,TOPEFRASBYTEAYG,TOPEFRV,TOPEFRD,TEFRESFML,TOPEFRIDTOPEFRE;ADDGANEYADPNEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr3,Te4,IoC,adtordasfRGLLETSSOFW.D.Asudintsc)""msaypnwoisntacnornloftdSsasddin8U.11ets)""mstedrofteIodtoflroedsdda)""or"yp"msteecvnoffletanpmofteilimaditrya,8U.1,odbytdSsdtofhds)""msaypnd,a,orpdtopmlrorseofaykdbyane.Frtepsoft,teesofanitcrwgfrabyslntberdasteesoftebse)""msayi,p,c,d,b,b,a,c,d,o,c,f,c,orceofteseg,pcb,pca,plsnoftes,oroseyttesorsstoeyaniloridttrswhtesyofs)"lwkanp"msayofteenofwkanpsodbyteUdStofhdsyoranetflwkamodbyteUdSsdtofhdsytyinofnyhdesur8U.1)""m,whrttoctortoaceddbyasedgano,ttapnisaebyd]
+[DELETED: norantttepsctisofttneortttee.""istefetortorrnofanesllssorantow)"lp"or"yp"msapnslberdasananuyptinteUdSsoyiftepsulinsshsbnvdbyteflgtptto8U.1.Nooroftsseoraypnoftsseslattoiymeafldnofanasins.AnanpgsninayoftefgfsisedtotepntthsananlyptinteUdS)Av,udIodsl)Av,udIoincdidpttotsofsn4,IoC)Avdtletcdororfmoftlinbgaphororbci)AyvdUdSsflorsegdindtbgaphororbcifidbyaneyttrspfofllpeintdSsbei)AfnptwhanudUdSsvaadacgspornnbyteUdSsdtofhyigtebsantoteUdS;o)AfnptidbyavawrpmddcywhtecgeyspaduddnofsnoranIWfmbyteUdSsdtofhyigtebsantoteUdS)""msayp,c,a,r,orsrfmofanttisrdbylwadttidfrtepeofogabsintss)"dw"msapnwodsnthetelttobeedorisedinvnoflworananwoisndtowkinteUdSsasddin8U.1.UDWSORAS--ETP.(tisulfrayertokye,h,r,orr,erfrteeriforonbfofa,frpeocetwnteseanudwrwoisntdyadtobeedbyl.Nobse,e,orpcermykye,hefre,orcetoeyadantopmwkwnteseofI.",hefre,orcetoeyanudasteasddin8U.1)Esaerdtovyanesllssorantowkaregteilwnteftt)dsarteesftdyofwkfrpyhsedorbynrtnteftdyofwkfrpyifteeewlwkfrfnte()d)Frtepeoftsc,pfofllssorantowkisbtisntldtoavdslsyc,]
+[DELETED: dinornnvawhpoi,avhc,avdp,avdpoincdidbyagta,avdwkptorsnptadbyteIodtofl,avdptidbyteUsdtofj,orarvddtpgefllreorantowkinteUdS)Frtepeofegtepsoftscragayorpnoflwtotec,tedrmsinmdbyaysea,igbtntloteIodtoflradteIosedtoft,frteldpeofcgtevyofawlssorantow.Tedrslperttolea,inaewhcr5,te6oC,tosdattereofaycloriginttisntnyfrteldpeofeepsoftsc)OnadarJy1,2,eybseyadentsseslelinteeypmadslt,agtoteflssadrsgge,veeteyofnwhsthe.Abseyorerttuseytovytewkanofaeslntbecdtohevdtssnwhroteetoftte)Asacnfrteadofayc,g,oriytss,ayplsnoftes,oraysytoabseyorerttesoe()ormee,tebseyorerslpednegtttebseyorerisedinteeyp.Dgtepeoftec,tebseyorerslpeinteeypmadslvyeyeettisrdtobevdagtoteaefsadr)Nosronaptpdfrbyc,g,oriebytss,ayplsnoftes,oraysdeymykye,hefre,orcetoeyanuda.Shasrslelinteeypmprtopgaywkonteptadslvyeyeettisrdtobevdagtoteaeflrsadr)Cewhtssnmybevdbysearlwetataytetoeeaclatasprintssnisbgm.ASBYAYG.()Teayglmgaclctinayctofctjntoeetsoftsc)Ayrtoftssemypnteaygltganetanatascbseyoreymsofaw,sdp.Avdpnslieanttdsteadvrorv,aswla]
+[DELETED: eancgtev,adtedeadlnwetno.Apnttasavnontebsolo,e,orreslbecdidadmyneadu.Teayglslrdtoaypnussnwnsy()dsofrgtep,erbgaclctinactofctjnorbyigteprinwgttteayglhsddtgaclctisntw.V.()Inayctp,tedfwraneeisanudanslbemebyteflg,ptto8U.1.Tectslcroeflgsdnwndgwraneeinuda.Tectmytejlneofayvnofanisinsspypdbyteflgtadmyrtteflgttopefdortlv)Unteftvnofsn4,IoC,bybseyoreradactbytes,alsnoftes,oraysde,tseyorerslbecdinbhofcdtes,pls,orsdeymytetectarpgneadanoytob.Unanbytesee,plsrsde,teayglmybganantdtebslsadpsoftebseyorfrapdnttoedsy()d,agtotsddintss.Tectslortebseyorertofeas,snatwhtyglwnte()dsarteorisidbyttsgtttebseyorerhstdttofeyudanadtttebseyorwlntkyoriyeyanunintss)Unasdorstvnofsn4,I,byaybseyoreradactbyt,aypls,oraysde,tebseyorerslbecdinbhofctaes,pls,orsdeysltetectarpgneadanoytob.Unanbytesee,pls,ode,teayglmybganantopyretebslsadpsoftebsere)Unteftvnofsn4,IoC,bs,teseorplsnoftesemrtesrfmdgbswhtes,ayplsnoftes,oraysde,orwharwocswhtes,ayplsnoes,oraysde,arpgneadano]
+[DELETED: ytobeh.Unanbytesee,p,orsde,teayglmybgantosdtebslsadpsoftesrfrapdnttoedsy()d.Tectsloesrtofeas,snatwhtealwnte()dsarteorisidbytecgtttesrhstdteetofedanadtttesrwlntkyoyeyanudanintss)Unasdorstvnofsn4,I,byasradunanbytesee,pls,orsde,teayglmganantopysdtebslsoftseyore)Unafgbyactofctjnttabyorerkyvdtepsofsn4oC,frteftt,tects)Ortebseyorertoteteefeyuda)Sttebseyorertoate()yrpypdtttes.Dgtepypebseyorerslfeqyrswhtyglofehnweewoishdbytebseyorerintes)Ortebseyorertofeas,snatwhteayglwnte()dsarteorisidbytectsgtttebseyorestdteetofeyudanadtttseyorerwlntkyoriyenudanintss;a)Dtteaes,c,ormlggbosdaybslsadpsoftebseyorfrapdnttoedtn()bsdssctebslnweteudanpdw)Frasdvnofsn4,IoC,byseyore,tectsldtteaes,ormlggbytopyreaybslsadpshdbytebseyorersctotslnweteudanpdw.Unrfteoradngayorl,teaealiyretelsadpshdbytebseyore)Fratdorstvnofsn4,I,tectsldtteaeggbstopdaybslsadpsoftebseyorettes)Tesnofabsleorptpttosn(,(,or()oftssnslteoe()bsdyarallreoftebse,e,orsstotectas,snatsgt]
+[DELETED: ebse,e,orsrisincewhtsoftsc,agwhacyoftemmofugidatteteofetinteeyp)Ifaneeofayayofteseorayplsnoftesefstosdtebslsorpsofaseyorerasartofavnoftsc,tyslbeddtohevdsn4,IoC,aybecdtoeetscrbyawtofmsbtbytyglinayctofctj)Tesyofseslper,sttolea,inaewhcr5,te6,IoC,asnytopefrtes,r,adcnofbslsrdurtsc.D.()Tscrmyntbecdtodyalmsorlldsidinteeypmoyorflwkanp.Abse,e,ororpnttesttithscdinghwhsn4,IoC,esanaedetttebse,e,orsrddntkeoreyanuda)Itisanaedetoavnofsn4oC,ttabseyorerwse.Tocme,tebseyorermtatbytyoroeteslesoftev.Abseyorerwoasanetdehstebnofpgbycdcgeetef)Teiaofcgtevnsdwhlwesortrasrrtnwhtebseyore)Telwetosortrasudadidtseyorertocttev;a)Tebseyorerwsntaypdtocttevnbetelwetosortradadidteertocttev.ESFML.()Acrofaytrstbeleurtscrwnisdtsrvssn4,IoC,iftecrrsasnatfesrsdbeanytttedts,idf,hscdwhrttovgeheseyfre,ustecrkstedtsrigtss)Aybseyorertttsteetoneetocywhtscrslntbelefrayceattebseyorerbytetdeeihtnismewtrdtoter,e,ornnoftee]
+[DELETED: .I.Tepsoftscrslbeidcywh8U.1aadayaeflrdr.E.TscrdsntaytoternapyadteesofanitcrpkfrtepyaddsntaytocldclrpnahN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

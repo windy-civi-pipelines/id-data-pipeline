@@ -1,0 +1,984 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 174
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; REPEALING CHAPTER 18, TITLE 49, IDAHO CODE,
+3 RELATING TO TOWING AND STORAGE OF MOTOR VEHICLES; AMENDING TITLE 49,
+4 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 18, TITLE 49, IDAHO CODE,
+5 TO PROHIBIT VEHICLE ABANDONMENT, TO PROVIDE FOR PRESUMED RESPONSIBIL-
+6 ITY, TO PROVIDE FOR REMOVAL OF STOLEN VEHICLES, TO PROVIDE FOR REMOVAL
+7 DUE TO ACCIDENT, ARREST, OR EXTRAORDINARY CIRCUMSTANCES, TO PROVIDE
+8 FOR REMOVAL OF ROADSIDE ABANDONED VEHICLES, TO PROVIDE FOR REMOVAL AND
+9 BOOTING OF UNAUTHORIZED AND ABANDONED VEHICLES FROM REAL PROPERTY, TO
+10 PROVIDE FOR TOWED VEHICLE REMOVAL AND NOTIFICATION REQUIREMENTS, TO
+11 PROVIDE FOR DECLARATIONS OF OPPOSITION, TO PROVIDE FOR A TOW PROCE-
+12 DURE HEARING, TO ESTABLISH PROVISIONS REGARDING CHARGES NOT OTHERWISE
+13 PROVIDED FOR, TO PROVIDE FOR THE CLAIMING OF VEHICLES AND REFUSAL TO
+14 RELEASE A VEHICLE, TO PROVIDE FOR A STATE POLICE-AUTHORIZED TOW LIST AND
+15 CERTAIN BACKGROUND CHECKS, TO PROVIDE FOR LOCAL GOVERNMENT TOW LISTS,
+16 TO PROVIDE FOR FEES, STORAGE, AND ACCESS TO VEHICLES, TO PROVIDE FOR
+17 FEES RELATED TO INFORMATION REQUESTS, TO ESTABLISH AN ABANDONED VEHICLE
+18 TRUST ACCOUNT, AND TO PROVIDE FOR UNIFORMITY THROUGHOUT THE STATE AND
+19 PREEMPTION; AMENDING SECTION 45-805, IDAHO CODE, TO PROVIDE A CORRECT
+20 CODE REFERENCE; AND PROVIDING AN EFFECTIVE DATE.
+21 Be It Enacted by the Legislature of the State of Idaho:
+22 SECTION 1. That Chapter 18, Title 49, Idaho Code, be, and the same is
+23 hereby repealed.
+24 SECTION 2. That Title 49, Idaho Code, be, and the same is hereby amended
+25 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+26 ter 18, Title 49, Idaho Code, and to read as follows:
+27 CHAPTER 18
+28 TOWING AND STORAGE OF MOTOR VEHICLES
+29 49-1801. ABANDONMENT PROHIBITED. (1) No person shall abandon a vehi-
+30 cle upon any highway.
+31 (2) No person shall abandon a vehicle upon public or private property
+32 without the express or implied consent of the owner or person in lawful pos-
+33 session or control of the property.
+34 49-1802. PRESUMED RESPONSIBILITY. (1) The abandonment of any vehicle
+35 shall create a prima facie presumption that the last registered owner of
+36 record is responsible for the abandonment and is thereby liable for the costs
+37 incurred in the removal, storage, and disposition of the vehicle, less any
+38 amount received from the disposition of the vehicle.
+39 (2) The owner of any vehicle removed pursuant to this chapter is
+40 presumed responsible for the vehicle and is thereby liable for the costs
+2
+1 incurred in the removal, storage, and disposition of the vehicle, less any
+2 amounts received from the disposition of the vehicle.
+3 (3) If a vehicle is found abandoned or found under extraordinary cir-
+4 cumstances and is removed at the direction of any authorized officer and is
+5 not redeemed by the owner or lienholder within seven (7) days of the tow, the
+6 last registered owner of record is guilty of a traffic infraction, unless the
+7 owner has filed a release of liability with the department pursuant to sec-
+8 tion 49-526, Idaho Code, in which case the transferee shown on the release of
+9 liability shall be guilty of a traffic infraction.
+10 (4) Vehicles towed under the provisions of this chapter cannot be dis-
+11 posed of without a title or a junk certificate.
+12 (5) If a law enforcement agency places a call or requests a tow company
+13 to remove a vehicle, it shall be classified as a law enforcement-directed tow
+14 and the provisions of this chapter shall apply.
+15 49-1803. REMOVAL OF STOLEN VEHICLES. (1) Any authorized officer, upon
+16 discovery of a vehicle reported as stolen and not recovered, may cause it to
+17 be taken to and stored in an authorized impound yard in the custody of a tow
+18 company.
+19 (2) Within forty-eight (48) hours, excluding weekends and holidays, of
+20 the time that the vehicle is taken into custody and is stored pursuant to this
+21 section, the agency of which the officer is an agent shall make a reason-
+22 able effort to obtain the vehicle owner information from the agency that the
+23 stolen vehicle report was filed with and contact the owner by email or phone.
+24 If contact is made and no action is taken by the owner or insurance company
+25 within seven (7) days or no contact is made within forty-eight (48) hours,
+26 the agency shall give written notice by certified mail to the registered and
+27 legal owners of the vehicle, if known. The notice shall state:
+28 (a) That the vehicle has been taken into custody and stored;
+29 (b) The location of storage of the vehicle;
+30 (c) The identification of the officer;
+31 (d) A description of the vehicle, including make, year, model, identi-
+32 fication number, license number, and state of registration; and
+33 (e) The statutory authority for storage.
+34 (3) If the vehicle is not claimed within thirty (30) days, it shall be
+35 considered stolen and not recovered and treated as an abandoned vehicle,
+36 subject to the provisions of section 49-1807, Idaho Code. The storage time
+37 accrued under this section may be added to the storage time required through
+38 the abandoned vehicle process, pursuant to section 49-1814(3), Idaho Code,
+39 if the vehicle was stored at a tow company facility during the stolen vehicle
+40 investigation and notification process.
+41 49-1804. REMOVAL OF ACCIDENTS -- DRIVER ARRESTS -- VEHICLES FOUND UN-
+42 DER EXTRAORDINARY CIRCUMSTANCES. Any authorized officer who dispatches a
+43 call to request the removal of a vehicle under the authority of this chapter
+44 or the provisions of section 49-662, Idaho Code, as the result of an acci-
+45 dent, the driver being arrested, or other extraordinary circumstances may
+46 immediately cause the vehicle to be placed in the custody of a tow company.
+3
+1 49-1805. REMOVAL OF ROADSIDE ABANDONED VEHICLES. (1) Upon discovery
+2 of an abandoned vehicle other than under extraordinary circumstances, an
+3 authorized officer shall attach on the vehicle, in plain view, a notice that
+4 the vehicle will be towed away after forty-eight (48) hours. The notice
+5 shall contain:
+6 (a) The name of the officer who prepared the notice;
+7 (b) The name of the agency employing the officer;
+8 (c) The time and date of attaching the notice;
+9 (d) The time and date after which the vehicle will be removed; and
+10 (e) The telephone number and address of the agency where further infor-
+11 mation can be obtained.
+12 (2) A reasonable attempt shall be made to notify the owner of any vehi-
+13 cle that has current license plates and registration as shown on the records
+14 of the department prior to the expiration of the forty-eight (48) hour no-
+15 tice period. Such notice shall include the location of the vehicle and the
+16 time and date of intent to remove the vehicle. The inability of an officer to
+17 notify the owner shall not preclude the removal of the vehicle at the expira-
+18 tion of the forty-eight (48) hour period provided for in this section.
+19 49-1806. REMOVAL OR BOOTING OF UNAUTHORIZED AND ABANDONED VEHICLES
+20 FROM REAL PROPERTY. (1) Any person having possession or control of real prop-
+21 erty who finds an unauthorized vehicle standing on his property is permitted
+22 to have the vehicle removed or booted if there is posted on or near the prop-
+23 erty in a clearly conspicuous location, in large print, a sign or notice that
+24 unauthorized vehicles will be removed or booted at the owner's expense and
+25 designating the name of the towing firm. Unauthorized vehicles need not meet
+26 the provisions of section 49-102(2), Idaho Code, in this instance.
+27 (2) Any person having possession or control of real property who finds
+28 an abandoned vehicle standing on his property when the property is not posted
+29 as set out in subsection (1) of this section may contact a tow company to re-
+30 move the vehicle. The tow company shall have the person having possession
+31 or control of the property sign a release form to the tow company identifying
+32 himself as the person having possession or control of real property, identi-
+33 fying the vehicle being removed, and taking responsibility for the removal
+34 of the vehicle.
+35 (3) No vehicle shall be considered unauthorized and subject to removal
+36 or booting pursuant to the provisions of this subsection solely on the basis
+37 of the vehicle having expired or improper vehicle registration. All other
+38 provisions of this chapter shall be complied with.
+39 49-1807. TOWED VEHICLE REMOVAL AND NOTIFICATION REQUIREMENTS. (1)
+40 Whenever a vehicle is towed pursuant to sections 49-1803 through 49-1806,
+41 Idaho Code, the following procedures shall be followed:
+42 (a) Law enforcement shall:
+43 (i) At the time of tow, except for vehicles towed under section
+44 49-1806, Idaho Code, complete a notice form containing at least
+45 the following information:
+46 1. A complete vehicle description, including license plate
+47 number, if available, and vehicle identification number;
+48 2. The time, date, and reason for the tow;
+4
+1 3. The name of the law enforcement agency directing the tow
+2 and the case number assigned;
+3 4. The name and badge number of the authorized officer;
+4 5. The name, address, and telephone number of the tow com-
+5 pany;
+6 6. The storage location of the vehicle; and
+7 7. The signature of the tow truck operator taking receipt of
+8 the vehicle and contents;
+9 (ii) Provide a copy of the notice pursuant to subparagraph (i) of
+10 this paragraph to the tow company to authorize towing of the vehi-
+11 cle. A copy shall be provided to the legal or registered owner at
+12 the scene, if applicable. The notification provided pursuant to
+13 subparagraph (i) of this paragraph shall be in addition to all no-
+14 tices required for vehicle disposal procedures contained in this
+15 chapter;
+16 (iii) Not delegate authorization of the towing of vehicles as de-
+17 scribed in this chapter to a nongovernmental entity; and
+18 (iv) Report the tow in the Idaho public safety and security infor-
+19 mation system;
+20 (b) The tow company shall:
+21 (i) Report the tow in the department's towed vehicle portal
+22 within one (1) business day of the tow, excluding weekends and hol-
+23 idays, pursuant to applicable procedures; and
+24 (ii) Apply to the department for a title or junk certificate after
+25 thirty (30) days from the date of first notification as long as the
+26 following conditions have been met:
+27 1. The vehicle has not been claimed;
+28 2. No declaration of opposition was received or the declara-
+29 tion of opposition timeline has elapsed; or
+30 3. If a tow procedure hearing was conducted, it was deter-
+31 mined in the favor of the agency; and
+32 (c) The department shall:
+33 (i) Provide the title and insurance information the department
+34 has on record when the tow company enters the tow record into the
+35 portal;
+36 (ii) Notify the vehicle's owners and lienholders on record using:
+37 1. If the owner or lienholder signed up for electronic noti-
+38 fications:
+39 (A) Within one (1) business day of the tow company re-
+40 porting a tow in the portal, an electronic notifica-
+41 tion;
+42 (B) If the vehicle is not claimed within five (5) busi-
+43 ness days after being reported in the portal, a second
+44 notice by first class mail; and
+45 (C) If the vehicle is not claimed within fifteen (15)
+46 business days after being reported in the portal, a
+47 third notice by first class mail; or
+48 2. If the owner or lienholder has not signed up for elec-
+49 tronic notifications:
+5
+1 (A) Within one (1) business day after a tow company re-
+2 ports a tow in the portal, notification by first class
+3 mail; and
+4 (B) If the vehicle is not claimed within ten (10) busi-
+5 ness days after being reported in the portal, a second
+6 notice by first class mail; and
+7 (iii) Issue a title or junk certificate to the towing company clear
+8 of any liens after thirty (30) days from the date of first notifi-
+9 cation if all applicable procedures of this chapter were followed
+10 and the conditions of paragraph (b)(ii) of this subsection have
+11 been met.
+12 (2) The notifications in subsection (1)(c) of this section shall in-
+13 clude the following information:
+14 (a) A description of the vehicle that includes, if available, the make,
+15 model, year, vehicle identification number, and license plate number;
+16 (b) The name, address, and telephone number of the tow company;
+17 (c) The date, time, and reason for tow;
+18 (d) The location of the place of storage;
+19 (e) The amount owed for towing;
+20 (f) The daily rate for storage;
+21 (g) The right to a tow procedure hearing pursuant to section 49-1809,
+22 Idaho Code;
+23 (h) The right to claim personal property; and
+24 (i) The right to file a declaration of opposition pursuant to section
+25 49-1808, Idaho Code.
+26 49-1808. DECLARATION OF OPPOSITION. (1) In the event that the legal
+27 or registered owner of a vehicle towed under the provisions of this chapter
+28 wishes to dispute the fees, claim, disposition, or other issues related to
+29 the possessory lienholder, the owner may file a declaration of opposition
+30 with the department.
+31 (2) The declaration of opposition must be received by the department
+32 within twenty (20) calendar days after the date of the first notification
+33 sent by the department pursuant to section 49-1807(1)(c), Idaho Code.
+34 (3) The declaration of opposition shall give the declarant ten (10)
+35 calendar days after the date the declaration was filed with the department to
+36 file legal action against the possessory lienholder.
+37 (4) If the declarant files a legal action against the possessory lien-
+38 holder, the disposition of the vehicle shall be paused pending the outcome of
+39 the court proceedings.
+40 (5) The declarant may be liable for court costs if a judgment is entered
+41 in favor of the possessory lienholder.
+42 49-1809. TOW PROCEDURE HEARING. (1) Whenever an authorized officer
+43 initiates the tow or storage of a vehicle pursuant to the provisions of sec-
+44 tions 49-1804 and 49-1805, Idaho Code, the agency authorizing the tow or
+45 storage shall provide the vehicle's registered and legal owners of record or
+46 their agents with the opportunity for a tow procedure hearing to determine
+47 the validity of the storage.
+6
+1 (2) In order to receive a tow procedure hearing, the owners or their
+2 agents must send a request for hearing in writing, to the department, within
+3 ten (10) calendar days of the date of the initial notice, pursuant to sec-
+4 tion 49-1807(1)(c), Idaho Code. Any such hearing shall be conducted within
+5 forty-eight (48) hours of the request, excluding weekends and holidays. The
+6 public agency may authorize its own officer or employee to conduct the hear-
+7 ing, as long as the hearing officer is not the same person who directed the
+8 storage of the vehicle.
+9 (3) Failure of either the titled or legal owner or his agent to request
+10 or to attend a scheduled hearing shall satisfy the tow procedure hearing re-
+11 quirement as to that person.
+12 (4) The provisions of this section shall not apply to vehicles removed
+13 from posted property pursuant to section 49-1806, Idaho Code.
+14 (5) The agency employing the person who authorized the tow shall be re-
+15 sponsible for the costs incurred for towing and storage if it is determined
+16 in the hearing that reasonable cause for the tow and storage cannot be estab-
+17 lished.
+18 49-1810. CHARGES NOT OTHERWISE PROVIDED FOR. Every tow company in the
+19 process of towing, removing, or impounding a vehicle as directed by an autho-
+20 rized officer, except vehicles towed as part of an investigation or that are
+21 suspected stolen, shall upon request of the owner or his authorized agent re-
+22 lease the vehicle at the scene. If the vehicle is attached to the tow truck,
+23 or otherwise in tow, the regular, scheduled tow fee may be charged. When the
+24 vehicle is not yet in tow at the time of request, the release must be made,
+25 and no charge may be assessed except a customary and reasonable charge for
+26 mileage one way from the towing company's place of storage to the scene plus
+27 the usual fee for the tow truck operator. If the authorized fee is not ten-
+28 dered by the owner or his agent, the towing operator may complete the im-
+29 poundment, towing, or removal, as authorized.
+30 49-1811. CLAIMING OF VEHICLE -- REFUSAL TO RELEASE VEHICLE. (1) The
+31 owner or lienholder of any vehicle removed or booted under the provisions
+32 of this chapter, except those vehicles impounded for investigation or sus-
+33 pected stolen, may take possession of the vehicle at any time prior to dispo-
+34 sition by proving ownership and paying the costs relative to towing and stor-
+35 ing or booting the vehicle.
+36 (2) Unauthorized removal of any vehicle towed or booted under the pro-
+37 visions of this chapter without payment in full of all charges and costs that
+38 have been incurred under the provisions of this chapter shall be a misde-
+39 meanor, and the vehicle may be recovered and returned to the place of stor-
+40 age.
+41 (3) Nothing in this chapter shall be construed to abate any cause of ac-
+42 tion that a lienholder has against the owner of an abandoned vehicle.
+43 (4) Any insurer having a claim made against it pertaining to any vehicle
+44 removed or booted under the provisions of this chapter, except those vehi-
+45 cles impounded for investigation or suspected stolen, may take possession of
+46 the vehicle at any time prior to the settlement of such claim following de-
+47 termination by such insurer that the vehicle has been determined by such in-
+48 surer to be a total loss, obtaining verbal consent of the owner and by paying
+7
+1 the lawfully entitled costs relative to towing and storing the vehicle. The
+2 insurer holding facility shall allow the vehicle owner or his representative
+3 access to the vehicle upon the vehicle owner or his representative provid-
+4 ing evidence of ownership. Personal property, including items not attached
+5 or related to the vehicle, must be returned to the vehicle owner pursuant
+6 to section 49-1814(4), Idaho Code. If no total loss settlement is reached,
+7 the insurer shall return the vehicle to a mutually agreed upon location. Any
+8 holding facility that releases a vehicle pursuant to the provisions of this
+9 subsection shall be held harmless for the release of such vehicle. The in-
+10 surer shall provide the location and telephone number of the insurer holding
+11 facility to the vehicle owner or his representative.
+12 (5) Any towing company that tows a vehicle pursuant to this chapter
+13 shall take the vehicle to such place as the owner or his authorized agent
+14 with a power of attorney may reasonably request. If such a request is not
+15 received, the towing company shall take the vehicle to its nearest place of
+16 safe storage. The towing company shall not be entitled to recover any stor-
+17 age fees, impound fees, unauthorized repair fees, or other fees, except the
+18 scheduled tow fee, if the towing company:
+19 (a) Removes the vehicle to a place other than as directed by the officer
+20 or as reasonably requested by the owner or his authorized agent with a
+21 power of attorney;
+22 (b) After removing the vehicle, refuses to release the vehicle to the
+23 owner, his authorized agent, insurance representative, or lienholder
+24 for any reason other than the refusal of the owner, authorized agent,
+25 insurance representative, or lienholder to pay the fees to which the
+26 towing company is lawfully entitled. The refusal of the owner, his
+27 authorized agent, insurance representative, or lienholder to pay fees
+28 to which the towing company is not entitled pursuant to this subsection
+29 shall not be cause for the tow company to refuse to release the vehicle;
+30 or
+31 (c) Performs repairs or makes improvements, for any reason, without a
+32 signed work order or recorded verbal consent from the owner, his autho-
+33 rized agent, insurance representative, or lienholder.
+34 (6) Upon release of the vehicle to the legal or registered owner, autho-
+35 rized agent, or insurance representative, the towing company shall provide
+36 an itemized statement containing the following:
+37 (a) The location from which the vehicle was towed;
+38 (b) The storage location of the vehicle;
+39 (c) The name, address, and telephone number of the tow company;
+40 (d) The year, make, and model of the vehicle towed;
+41 (e) The license plate number of the vehicle towed;
+42 (f) The itemized cost of towing and recovery charges; and
+43 (g) The daily storage charge and number of days stored.
+44 49-1812. IDAHO STATE POLICE AUTHORIZED TOW LIST -- BACKGROUND
+45 CHECKS. The Idaho state police shall establish and maintain an authorized
+46 tow list. To determine the suitability of applicants for inclusion on the
+47 Idaho state police-authorized tow list, the Idaho state police shall require
+48 every applicant towing firm owner, driver, and operator to provide informa-
+49 tion and fingerprints necessary to obtain criminal history information from
+8
+1 the Idaho state police bureau of criminal identification and the federal bu-
+2 reau of investigation. The cost of taking and processing such fingerprints
+3 shall be the responsibility of the applicant. Pursuant to section 67-3008,
+4 Idaho Code, the Idaho state police shall submit a set of fingerprints ob-
+5 tained from the applicant and the required fees to the Idaho state police
+6 bureau of criminal identification for a criminal records check of state and
+7 national databases. The Idaho state police may receive criminal history
+8 information from the Idaho state police bureau of criminal identification
+9 and from the federal bureau of investigation for the purpose of evaluating
+10 the fitness of applicants for inclusion on the Idaho state police-authorized
+11 tow list.
+12 49-1813. LOCAL GOVERNMENT TOW LISTS. Any county or city, including any
+13 law enforcement agency of a county or city, that maintains an authorized tow
+14 list shall document and make publicly available the qualifications to be
+15 added to or removed from such tow list.
+16 49-1814. FEES, STORAGE, AND ACCESS TO VEHICLE. (1) Whenever a vehi-
+17 cle has been towed under the provisions of this chapter, reasonable efforts
+18 shall be made to secure and prevent further damage to the vehicle being
+19 stored.
+20 (2) A towing company shall furnish its rate sheet to the department for
+21 law enforcement-directed tows. The department shall make the rate sheet
+22 available to the public and the rate sheet shall also be posted at the towing
+23 company's place of business and be made available upon request to consumers.
+24 Tow fees shall not vary based on the value of the vehicle and a charge more
+25 than what is reflected on the rate sheet for any service shall be deemed ex-
+26 cessive.
+27 (3) The maximum storage limit shall not exceed sixty (60) days from the
+28 date of tow. If the tow was reported in the portal within one (1) business
+29 day, excluding weekends and holidays, storage fees may begin from the date of
+30 tow. If the tow was not reported in the portal within one (1) business day,
+31 excluding weekends and holidays, storage fees shall not begin accumulating
+32 until the tow is reported in the portal by the towing company.
+33 (4) Any vehicle stored under the provisions of this chapter, except ve-
+34 hicles being stored as part of a law enforcement investigation, shall:
+35 (a) Be made available for physical inspection by the legal or regis-
+36 tered owner, authorized agent with a valid power of attorney, or insur-
+37 ance representative during reasonable business hours at no additional
+38 charge; and
+39 (b) Have no lien attached to any personal property in or on the vehi-
+40 cle. Personal property in or on the vehicle shall be given to the regis-
+41 tered owner or the owner's authorized agent, if such agent has a valid
+42 power of attorney, during reasonable business hours at no additional
+43 charge, upon demand. The possessory lienholder shall not be responsi-
+44 ble for personal property not attached to the vehicle after any vehicle
+45 has been disposed of pursuant to this chapter.
+9
+1 49-1815. FEE TO ACCOMPANY INFORMATION REQUEST. Upon entering the
+2 towed vehicle information into the portal, the department shall receive a
+3 fee in accordance with section 49-202(2)(g), Idaho Code.
+4 49-1816. ABANDONED VEHICLE TRUST ACCOUNT -- APPROPRIATION AND
+5 USE. (1) There is hereby established in the state treasury the abandoned
+6 vehicle trust account. There shall be set aside, paid into, and credited to
+7 the fund the fees authorized under section 31-3201F, Idaho Code, collected
+8 by the district courts.
+9 (2) Moneys deposited in the abandoned vehicle trust account are hereby
+10 continuously appropriated to the department for the purposes of satisfying
+11 allowable claims and reimbursing the costs of administering the provisions
+12 of this chapter.
+13 (3) Each fee collected by the district courts pursuant to section
+14 31-3201F, Idaho Code, shall be distributed as follows:
+15 (a) Seventy-five dollars ($75.00) to the law enforcement agency that
+16 directed the tow of the vehicle involved in the infraction; and
+17 (b) Seventy-five dollars ($75.00) to the towing company that towed the
+18 vehicle involved in the infraction.
+19 (4) Fees shall be distributed to law enforcement agencies and towing
+20 companies on a monthly basis.
+21 49-1817. PROVISIONS OF SECTIONS UNIFORM THROUGHOUT STATE. The provi-
+22 sions of this chapter shall be applicable and uniform throughout the state
+23 and in all political subdivisions. No local or state authority shall enact
+24 or enforce any ordinance, rule, or regulation in conflict with the provi-
+25 sions of this chapter.
+26 SECTION 3. That Section 45-805, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 45-805. LIENS FOR SERVICES ON OR CARING FOR PROPERTY. (a) Every person
+29 who, while lawfully in possession of an article of personal property, ren-
+30 ders any service to the owner thereof, by labor, or skill, employed for the
+31 protection, improvement, safekeeping, or carriage thereof, has a special
+32 lien thereon, dependent on possession, for the compensation, if any, which
+33 is due him from the owner, for such service. If the liens as herein provided
+34 are not paid within sixty (60) days after the work is done, service rendered
+35 or materials supplied, the person in whose favor such special lien is cre-
+36 ated may proceed to sell the property at a public auction after giving ten
+37 (10) days' public notice of the sale by advertising in some newspaper pub-
+38 lished in the county where the property is situated, or if there is no news-
+39 paper published in the county then by posting notices of the sale in three
+40 (3) of the most public places in the county for ten (10) days previous to such
+41 sale. The person shall also send the notice of auction to the owner or owners
+42 of the property and to the holder or holders of a perfected security interest
+43 in the property as provided in subsection (c) of this section. The person who
+44 is about to render any service to the owner of an article of personal prop-
+45 erty by labor or skill employed for the protection, improvement, safekeeping
+46 or carriage thereof may take priority over a prior perfected security inter-
+47 est by, before commencing any such service, giving notice of the intention
+10
+1 to render such service to any holder of a prior perfected security interest
+2 at least three (3) days before rendering such service. If the holder of the
+3 security interest does not notify said person, within three (3) days that it
+4 does not consent to the performance of such services, then the person render-
+5 ing such service may proceed and the lien provided for herein shall attach to
+6 the property as a superior lien. The provisions of this section shall not ap-
+7 ply to a motor vehicle subject to the provisions of sections 49-1809 through
+8 49-1818 chapter 18, title 49, Idaho Code.
+9 (b) Livery or boarding or feed stable proprietors, and persons pastur-
+10 ing livestock of any kind, have a lien, dependent on possession, for their
+11 compensation in caring for, boarding, feeding or pasturing such livestock.
+12 If the liens as herein provided are not paid within sixty (60) days after the
+13 work is done, service rendered, or feed or pasturing supplied, the person in
+14 whose favor such special lien is created may proceed to sell the property at
+15 a licensed public livestock auction market, or if the lien is on equines, to
+16 sell the animals at a sale offered to the public, after giving ten (10) days'
+17 notice to the owner or owners of the livestock and the state brand inspector.
+18 The information contained in such notice shall be verified and contain the
+19 following:
+20 (1) The time, place and date of the licensed public livestock auction
+21 market, or in the case of equines, the time, place and date of the sale
+22 offered to the public;
+23 (2) The name, address and phone number of the person claiming the lien;
+24 (3) The name, address and phone number of the owner or owners of the
+25 livestock upon which the lien has been placed;
+26 (4) The number, breed and current brand of the livestock upon which the
+27 lien has been placed; and
+28 (5) A statement by the lienor that the requirements of this section have
+29 been met.
+30 (c) Notices provided in subsections (a) and (b) of this section shall
+31 be made by personal service or by certified or registered mail to the last
+32 known address of the owner or owners and any holder of a prior perfected secu-
+33 rity interest. The proceeds of the sale must be applied to the discharge of
+34 any prior perfected security interest, the lien created by this section and
+35 costs; the remainder, if any, must be paid over to the owner.
+36 SECTION 4. This act shall be in full force and effect on and after Jan-
+37 uary 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YTNADDECNAGTOMRV;RGCR1,TE4,IOCGTOTGADSEOFMRV;AGTE4OC,BYTEANOFANWCR1,TE4,IOCOPTVEA,TOPEFRPDR,TOPEFRRLOFSNV,TOPEFRRETOA,A,OREYC,TOPRRLOFREADV,TOPEFRRLAGOFUDADADVSFMRLP,TEFRTDVERLADNNR,TEFRDSOFO,TOPEFRATWPEH,TOEHPSRGCSNTODF,TOPEFRTECGOFVSADRLTEAV,TOPEFRASEPDTWLTANBDC,TOPEFRLLGTTWLOPEFRF,S,ADASTOV,TOPEFSRDTOINR,TOEHANADVTA,ADTOPEFRUYTTTESEA;AGSN4,IOC,TOPEACER;ADPGANEEDeItEdbyteLeofteSeofIN1.TtCr1,Te4,IoC,b,adteseiyrN2.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr1,Te4,IoC,adtordasfR1GADSEOFMRV.ATP.()Nopnslanaveunayh)Nopnslanaveunpcorpeptteesoridctofteororpninllpnorcloftep.PDR.()Teatofayvlceapafepnttteltrdorodisrefrteatadistylefrtecdinter,s,addnoftev,lsatrdfmtednoftev)Teorofayverdpttotscridrefrteveadistylefrtec]
+[DELETED: dinter,s,addnoftev,lsasrdfmtednoftev)Ifaveisfdadorfdureycsadisrdattednofayadoraditrdbyteororlrwnsn()dsoftet,ttrdorofrdisgyofatci,ustrhsfdareoflywhtedtpttosn4,IoC,inwhcetetesnontereoyslbegyofatci)Vstdurtepsoftscrctbeddofwtateorajkc)Ifalwetaypsaclorrsatwcoreav,itslbecdasalwedtdtepsoftscrsla.RLOFSNV.()Ayado,uyofaverdassnadntr,myceittetntoadsdinanadidydintecyofat)Wnft()h,egwsadh,oetettteveistniocyadissdpttot,teayofwhteorisanatslmeareettoonteveorinfmteaytttnvertwsfdwhadctteorbyelorpfctismeadnoanistnbyteororiecnsn()dsornoctismewnft()heayslgewnnebycdmltoterdalosoftev,ifk.Tenesls)Tttevehsbntniocyads)Telnofseoftev)Teinofteo)Adnoftev,igm,y,m,inn,len,adseofr;a)Tesyayfrs)Ifteveisntcdwnty()d,itslbdsnadntrdadtdasanadvttotepsofsn4,IoC.Tesetdurtssnmybeadtoteseterdteadvep,pttosn4,IoCftevewssdatatwcyfydgtesnvnadnnp.RLOFAS--DRAS--VSFDUREYC.Ayadorwodsltortterlofaveurteayoftscrtepsofsn4,IoC,astertofana,tedrbga,ororeycsmycetevetobepdintecyofatwc]
+[DELETED: .RLOFREADV.()Undfanadveortnureyc,adorslahontev,inpnv,anetevewlbetdayarft()h.Tenlc)Teneofteorwopdten)Teneofteayegteo)Teteaddeofagten)Teteaddearwhtevewlber;a)Tetenradasofteaywefrincnbeo)Areatslbemetonyteorofayvetthsctlepsadrnassnonterftedtprtoteenofteft()hrnep.Shneslietelnofteveadteaddeofittoretev.Teiyofanortyteorslntpeterlofteveatteenofteft()hrpdpdfrintss.RLORBGOFUDADADVMRLP.()Aypnhgpnorclofrlpywofsanudvesgonhspyispoheteverdorbdifteispdonornrtepyinacycsl,inlep,asnornetdvswlberdorbdatteoseeagteneoftetgf.Udvsndntmepsofsn4,IoC,intsi)Aypnhgpnorclofrlpywofnadvesgonhspywntepyisntpsstotinsn()oftssnmyctatwcytoretev.Tetwcyslhetepnhgprcloftepysnarefmtotetwcyifastepnhgpnorclofrlp,igtevebgr,adtgryfrterftev)Noveslbecdudadsttorrbgpttotepsoftssnsyontebftevehgedorirver.Alosoftscrslbecdw.TDVERLADNNR.(raveistdpttoss43th4oC,tefgpsslbef)Lwets)Atteteoft,etfrvstdurs,IoC,ceanefmcgatlefgi.Aceved,iglep,ifa,adveinn.Tet,d,adrnfrtet]
+[DELETED: .Teneoftelwetaydgtetdtecenra.Teneadbenrofteado.Ten,a,adtenroftetwc.Teselnoftev;a.Teseoftetwtkortgrtoeveadc)Peacyoftenepttosh()osphtotetwcytoaetgoftev.Acyslbepdtotellorrdoraes,ifa.Tennpdptth()oftsphslbeinantoalnsrdfrvedlpscdint)Ntdeanoftetgofvsasddintscrtoanle;a)RttetwinteIopcsyadsyins)Tetwcys)Rttetwintedstdvepnoe()bsdyoftet,egwsadh,pttoaep;a)Aytotedtfrateorjkceay()dsfmtedeofftnnaslgastgcshebnm.Tevehsntbnc.Nodnofonwsrdortednofontehse;o.Ifatwpehgwsc,itwsddintefroftea;a)Tedts)Peteteadieintedsonrdwntetwcyestetwrdiot)Nytevsosadlsonrdu.Ifteororlrsdupfrecn)Wnoe()bsdyoftetwcyrgatwintep,anecn)Ifteveisntcdwnfe()bsdsarbgrdintep,asebyftcsm;a)Ifteveisntcdwnfn(sdsarbgrdintep,dnebyftcsm;o.Ifteororlrhsntsdupfrecn]
+[DELETED: )Wnoe()bsdyaratwcyrsatwintep,nnbyftc;a)Ifteveisntcdwntn()bsdsarbgrdintep,asebyftcsm;a)Ieateorjkcetotetgcycfaylsarty()dsfmtedeofftnnifalaepsoftscrwefdtecsofph()oftssnhnm)Tensinsn()oftssnslietefgi)Adnoftevetti,ifa,tem,y,veinn,adlepen)Ten,a,adtenroftetwc)Ted,t,adrnfrt)Telnoftepeofs)Teatodfrt)Tedyrefrs)Terttoatwpehgpttosn4oC)Terttocmplp;a)Terttofeadnofonpttos,IoC.DNOFO.()Inteettttelrrdorofavetdurtepsoftscstodetef,c,d,ororisrdtepyl,teormyfeadnofohted)Tednofonmtberdbytednty()crdsartedeofteftntbytedtpttosn4,IoC)Tednofonslgetedttn(rdsartedetednwsfdwhtedttellanattepyl)Iftedtfsallanattepyl,tednofteveslbepdpgteoeoectp)Tedtmybelefrctcsifajtisenfroftepyl.TWPEH.()Wranadostetworseofavepttotepsofss44ad4,IoC,teayagtetwoeslpetevsrdadllosofrdoraswhteoyfratwpehgtodevyoftes]
+[DELETED: )Inortoreatwpeh,teosortsmtsdartfrhginw,toted,wn()crdsoftedeofteiln,pttosn4,IoC.Ayshhgslbecdwt()hsofter,egwsadh.Tcaymyaeisonororeetoctteh,aslgastehgorisnttesepnwoddteoftev)Feofertetdorllororhsattorrtoadasdhgslsytetwpehgrtastottp)Tepsoftssnslntaytovsrmpdpypttosn4,IoC)Teayegtepnwoadtetwslberefrtecsidfrtgadseifitisdntehgttrecefrtetwadsectbee.CSNTOEPDF.Eytwcyintsoft,r,origaveasddbyanado,etvstdasptofaninorttads,slunrtofteororhsadatreteveattes.Ifteveisadtotetwtroeint,ter,sdtwfemybec.Wnteisntytintwatteteofr,teremtbemdnocemybeadetacyadrecefeoewyfmtetgcspeofsetotesepeulfefrtetwtko.Ifteadfeisnttdbyteororhsa,tetgormycetei,t,orr,asa.CGOFVE--RLTOREV.()Trorlrofayverdorbdurtepftsc,ettevsidfrinorsds,mytepnofteveatayteprtodnbypgopadpgtecsretotgadsgorbgtev)Udrlofayvetdorbdurtepsoftscrwtptinflofalcsadcstebnidurtepsoftscrslbeam,adtevemyberdadrdtotepeofs)Ngintscrslbecdtoaeayceofanttalrhsatteorofanadv)Ayirhgacmmeatitpgtoayvdorbdurtepsoftsc,ettevsidfrinorsds,mytepnoeveatayteprtotestofshcmfgdnbyshirtttevehsbnddbyshirtobeatll,ogvlctofteoradbyp]
+[DELETED: elyedcsretotgadsgtev.Trhgfyslawteveororhsrstoteveunteveororhsrepgeeofo.Plp,igisntarrdtotev,mtberdtoteveorposn4,IoC.Ifnotllsstisreirslrntevetoamyadunl.Agfyttrsavepttotepsoftnslbehdhsfrtereofshv.Teirslpetelnadtenrofteirhytoteveororhsr)Aytgcytttsavepttotscltetevetoshpeasteororhsadahaprofaymyryr.Ifshartisn,tetgcysltetevetoisntpeoes.Tetgcyslntbeedtorraysef,idf,udrrf,ororf,ettdtwf,iftetgc)Rstevetoapeortnasddbyteorasryrdbyteororhsadatwhrofa)Arrgtev,rstoretevetot,hsada,ier,orlrayrnortnterlofteo,adaer,orlrtopytefstowhtgcyislye.Terlofteo,hda,ier,orlrtopyfowhtetgcyisntedpttotsslntbecefrtetwcytoretoretev)Psrsormsi,frayr,wtdwkororrdvlctfmteo,hsada,ier,orl)Unreoftevetotellorrdo,ada,orier,tetgcyslpnidstcgtef)Telnfmwhtevewst)Teselnoftev)Ten,a,adtenroftetwc)Tey,m,admloftevet)Telepenroftevet)Teidctoftgadryc;a)Tedyseceadnrofdss.IOSEPEADTWLT--B.TeIosepeslehadmnanawl.Todetesyofasfrinontosepdtwl,teIosepeslryattgfmo,d,adortopeinadfsnytoonclhyinf]
+[DELETED: eIosepebuofclinadteflbuofi.Tectoftgadpgshflbeteryoftea.Pttosn6oC,teIosepeslstastoffsodfmteatadterdfstoteIosepuofclinfraclrsckofseald.TeIosepemyreclhnfmteIosepebuofclidfmteflbuofinfrtepeofeefsofasfrinonteIosepwl.LLGTTWL.Aycyorc,igawetayofacyorc,ttmsanadttsldtadmepyaeteqstobdtoorrdfmshtwl.F,S,ADASTOV.()Wravehsbntdurtepsoftsc,reelbemetoseadptfrdetoteveb)Atgcyslfhisresttotedtfwedt.Tedtslmeteresetotepcadterestslaobepdattetspeofbsadbemeaeunrttocwfsslntvybdonteveofteveadacemnwtisrdonterestfrayseslbedde)Temmseltslntedsy()dsfmteoft.Iftetwwsrdinteplwnoe()b,egwsadh,sefsmybnfmtedeo.Iftetwwsntrdinteplwnoe()bsdgwsadh,sefsslntbnaltetwisrdinteplbytetgc)Ayvesdurtepsoftsc,etvsbgsdasptofalweti,s)Bemeaefrplinbytellorrdo,adatwhavdprofa,orieredgrebshsatnoa;a)Henolnadtoayplpyinorontev.Plpyinoronteveslbegntoterdororteosada,ifshathsavrofa,dgrebshsatnoa,und.Tepylrslntberefrplpyntadtotevearayvsbnddofpttotsc]
+[DELETED: .FETOAYINR.Unegtdveiniotep,tedtslreeinaewhsn4,IoC.ADVETTAT--ANA.()Teishyedintesetyteaetta.Teslbesta,pdi,adcdtefdtefsadursn3,IoC,cytedtc)Msddinteadvettataehyadtotedtfrtepsofsecsadrgtecsofagtepftsc)Ehfecdbytedtcspttos,IoC,slbeddasf)Seds()totelwetaytdtetwofteveidintei;a)Seds()totetgcytttdteidintei)Fsslbeddtolwetasadtsonamyb.PSOFSSUMTTS.Tepsoftscrslbeaeadumtttesdinalpls.Nollorseayslereeayo,r,orrninctwhtepsoftscN3.TtSn4,IoC,b,adteseishdtordasf.LSFRSSONORCGFRP.()Eyp,welyinpnofanaeofplp,rsaysetoteort,byl,ors,edfrt,i,s,orcet,hsasnt,dtonp,frtec,ifa,wsdehmfmteo,frshs.Iftelsashnpentpdwnsy()dsartewkisd,serrmss,tepninwefrshsllniscdmypdtosltepyatapcanarggt)d'pcneoftesebyaginsenrpdintecywetepyiss,orifteisnonrpdintecytnbypgnsofteseint)oftemtpcpsintecyfrtn()dspstos.Tepnslaosdteneofantoteororoftepyadtotehrorhsofapdsyintepyaspdinsn()oftss.Tepnwsattorraysetoteorofanaeofplpybylrorsledfrtep,i,srcetfmytepyoraprpdsyitb,becgayshs,ggneoftei]
+[DELETED: orrshsetoayhrofaprpdsyitltte()dsbergshs.Iftehroftyitdsntnysdp,wnte()dsttisntcttotepeofshs,tntepnrgshsemypdadtelnpdfrhnslahtepyasasrl.Tepsoftssnslntaytoamrvesttotepsofss49t8cr1,te4,IoC)Lyorbgorfdsep,adpspglkofayk,heal,dtonp,frtnincgf,b,fgorpgshlftelsashnpdaentpdwnsy()dsartkisd,ser,orfdorpgs,tepniefrshsllniscdmypdtosltepyaldpclkanm,oriftelnisone,tlteasataseodtotep,arggtn()detoteororosoftelkadtesebdieincdinshneslbevdadcnt)Tet,peaddeofteldpclka,orinteceofe,tet,peaddeoftesdtotep)Ten,asadpenroftepncgtel)Ten,asadpenrofteororosoftkunwhtelnhsbnp)Ten,bdadctbdoftelkunwhtnhsbnp;a)Astbytelrtttersoftssnhnm)Nspdinss()ad()oftssnsemebyplseorbycdorrdmltotelnasofteororosadayhrofaprpdsyi.Tepsoftesemtbeadtotedeoyprpdsyi,telncdbytssna;ter,ifa,mtbepdortoteoN4.TsatslbeinflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 174
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; REPEALING CHAPTER 18, TITLE 49, IDAHO CODE,
+3 RELATING TO TOWING AND STORAGE OF MOTOR VEHICLES; AMENDING TITLE 49,
+4 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 18, TITLE 49, IDAHO CODE,
+5 TO PROHIBIT VEHICLE ABANDONMENT, TO PROVIDE FOR PRESUMED RESPONSIBIL-
+6 ITY, TO PROVIDE FOR REMOVAL OF STOLEN VEHICLES, TO PROVIDE FOR REMOVAL
+7 DUE TO ACCIDENT, ARREST, OR EXTRAORDINARY CIRCUMSTANCES, TO PROVIDE
+8 FOR REMOVAL OF ROADSIDE ABANDONED VEHICLES, TO PROVIDE FOR REMOVAL AND
+9 BOOTING OF UNAUTHORIZED AND ABANDONED VEHICLES FROM REAL PROPERTY, TO
+10 PROVIDE FOR TOWED VEHICLE REMOVAL AND NOTIFICATION REQUIREMENTS, TO
+11 PROVIDE FOR DECLARATIONS OF OPPOSITION, TO PROVIDE FOR A TOW PROCE-
+12 DURE HEARING, TO ESTABLISH PROVISIONS REGARDING CHARGES NOT OTHERWISE
+13 PROVIDED FOR, TO PROVIDE FOR THE CLAIMING OF VEHICLES AND REFUSAL TO
+14 RELEASE A VEHICLE, TO PROVIDE FOR A STATE POLICE-AUTHORIZED TOW LIST AND
+15 CERTAIN BACKGROUND CHECKS, TO PROVIDE FOR LOCAL GOVERNMENT TOW LISTS,
+16 TO PROVIDE FOR FEES, STORAGE, AND ACCESS TO VEHICLES, TO PROVIDE FOR
+17 FEES RELATED TO INFORMATION REQUESTS, TO ESTABLISH AN ABANDONED VEHICLE
+18 TRUST ACCOUNT, AND TO PROVIDE FOR UNIFORMITY THROUGHOUT THE STATE AND
+19 PREEMPTION; AMENDING SECTION 45-805, IDAHO CODE, TO PROVIDE A CORRECT
+20 CODE REFERENCE; AND PROVIDING AN EFFECTIVE DATE.
+21 Be It Enacted by the Legislature of the State of Idaho:
+22 SECTION 1. That Chapter 18, Title 49, Idaho Code, be, and the same is
+23 hereby repealed.
+24 SECTION 2. That Title 49, Idaho Code, be, and the same is hereby amended
+25 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+26 ter 18, Title 49, Idaho Code, and to read as follows:
+27 CHAPTER 18
+28 TOWING AND STORAGE OF MOTOR VEHICLES
+29 49-1801. ABANDONMENT PROHIBITED. (1) No person shall abandon a vehi-
+30 cle upon any highway.
+31 (2) No person shall abandon a vehicle upon public or private property
+32 without the express or implied consent of the owner or person in lawful pos-
+33 session or control of the property.
+34 49-1802. PRESUMED RESPONSIBILITY. (1) The abandonment of any vehicle
+35 shall create a prima facie presumption that the last registered owner of
+36 record is responsible for the abandonment and is thereby liable for the costs
+37 incurred in the removal, storage, and disposition of the vehicle, less any
+38 amount received from the disposition of the vehicle.
+39 (2) The owner of any vehicle removed pursuant to this chapter is
+40 presumed responsible for the vehicle and is thereby liable for the costs
+
+2
+1 incurred in the removal, storage, and disposition of the vehicle, less any
+2 amounts received from the disposition of the vehicle.
+3 (3) If a vehicle is found abandoned or found under extraordinary cir-
+4 cumstances and is removed at the direction of any authorized officer and is
+5 not redeemed by the owner or lienholder within seven (7) days of the tow, the
+6 last registered owner of record is guilty of a traffic infraction, unless the
+7 owner has filed a release of liability with the department pursuant to sec-
+8 tion 49-526, Idaho Code, in which case the transferee shown on the release of
+9 liability shall be guilty of a traffic infraction.
+10 (4) Vehicles towed under the provisions of this chapter cannot be dis-
+11 posed of without a title or a junk certificate.
+12 (5) If a law enforcement agency places a call or requests a tow company
+13 to remove a vehicle, it shall be classified as a law enforcement-directed tow
+14 and the provisions of this chapter shall apply.
+15 49-1803. REMOVAL OF STOLEN VEHICLES. (1) Any authorized officer, upon
+16 discovery of a vehicle reported as stolen and not recovered, may cause it to
+17 be taken to and stored in an authorized impound yard in the custody of a tow
+18 company.
+19 (2) Within forty-eight (48) hours, excluding weekends and holidays, of
+20 the time that the vehicle is taken into custody and is stored pursuant to this
+21 section, the agency of which the officer is an agent shall make a reason-
+22 able effort to obtain the vehicle owner information from the agency that the
+23 stolen vehicle report was filed with and contact the owner by email or phone.
+24 If contact is made and no action is taken by the owner or insurance company
+25 within seven (7) days or no contact is made within forty-eight (48) hours,
+26 the agency shall give written notice by certified mail to the registered and
+27 legal owners of the vehicle, if known. The notice shall state:
+28 (a) That the vehicle has been taken into custody and stored;
+29 (b) The location of storage of the vehicle;
+30 (c) The identification of the officer;
+31 (d) A description of the vehicle, including make, year, model, identi-
+32 fication number, license number, and state of registration; and
+33 (e) The statutory authority for storage.
+34 (3) If the vehicle is not claimed within thirty (30) days, it shall be
+35 considered stolen and not recovered and treated as an abandoned vehicle,
+36 subject to the provisions of section 49-1807, Idaho Code. The storage time
+37 accrued under this section may be added to the storage time required through
+38 the abandoned vehicle process, pursuant to section 49-1814(3), Idaho Code,
+39 if the vehicle was stored at a tow company facility during the stolen vehicle
+40 investigation and notification process.
+41 49-1804. REMOVAL OF ACCIDENTS -- DRIVER ARRESTS -- VEHICLES FOUND UN-
+42 DER EXTRAORDINARY CIRCUMSTANCES. Any authorized officer who dispatches a
+43 call to request the removal of a vehicle under the authority of this chapter
+44 or the provisions of section 49-662, Idaho Code, as the result of an acci-
+45 dent, the driver being arrested, or other extraordinary circumstances may
+46 immediately cause the vehicle to be placed in the custody of a tow company.
+
+3
+1 49-1805. REMOVAL OF ROADSIDE ABANDONED VEHICLES. (1) Upon discovery
+2 of an abandoned vehicle other than under extraordinary circumstances, an
+3 authorized officer shall attach on the vehicle, in plain view, a notice that
+4 the vehicle will be towed away after forty-eight (48) hours. The notice
+5 shall contain:
+6 (a) The name of the officer who prepared the notice;
+7 (b) The name of the agency employing the officer;
+8 (c) The time and date of attaching the notice;
+9 (d) The time and date after which the vehicle will be removed; and
+10 (e) The telephone number and address of the agency where further infor-
+11 mation can be obtained.
+12 (2) A reasonable attempt shall be made to notify the owner of any vehi-
+13 cle that has current license plates and registration as shown on the records
+14 of the department prior to the expiration of the forty-eight (48) hour no-
+15 tice period. Such notice shall include the location of the vehicle and the
+16 time and date of intent to remove the vehicle. The inability of an officer to
+17 notify the owner shall not preclude the removal of the vehicle at the expira-
+18 tion of the forty-eight (48) hour period provided for in this section.
+19 49-1806. REMOVAL OR BOOTING OF UNAUTHORIZED AND ABANDONED VEHICLES
+20 FROM REAL PROPERTY. (1) Any person having possession or control of real prop-
+21 erty who finds an unauthorized vehicle standing on his property is permitted
+22 to have the vehicle removed or booted if there is posted on or near the prop-
+23 erty in a clearly conspicuous location, in large print, a sign or notice that
+24 unauthorized vehicles will be removed or booted at the owner's expense and
+25 designating the name of the towing firm. Unauthorized vehicles need not meet
+26 the provisions of section 49-102(2), Idaho Code, in this instance.
+27 (2) Any person having possession or control of real property who finds
+28 an abandoned vehicle standing on his property when the property is not posted
+29 as set out in subsection (1) of this section may contact a tow company to re-
+30 move the vehicle. The tow company shall have the person having possession
+31 or control of the property sign a release form to the tow company identifying
+32 himself as the person having possession or control of real property, identi-
+33 fying the vehicle being removed, and taking responsibility for the removal
+34 of the vehicle.
+35 (3) No vehicle shall be considered unauthorized and subject to removal
+36 or booting pursuant to the provisions of this subsection solely on the basis
+37 of the vehicle having expired or improper vehicle registration. All other
+38 provisions of this chapter shall be complied with.
+39 49-1807. TOWED VEHICLE REMOVAL AND NOTIFICATION REQUIREMENTS. (1)
+40 Whenever a vehicle is towed pursuant to sections 49-1803 through 49-1806,
+41 Idaho Code, the following procedures shall be followed:
+42 (a) Law enforcement shall:
+43 (i) At the time of tow, except for vehicles towed under section
+44 49-1806, Idaho Code, complete a notice form containing at least
+45 the following information:
+46 1. A complete vehicle description, including license plate
+47 number, if available, and vehicle identification number;
+48 2. The time, date, and reason for the tow;
+
+4
+1 3. The name of the law enforcement agency directing the tow
+2 and the case number assigned;
+3 4. The name and badge number of the authorized officer;
+4 5. The name, address, and telephone number of the tow com-
+5 pany;
+6 6. The storage location of the vehicle; and
+7 7. The signature of the tow truck operator taking receipt of
+8 the vehicle and contents;
+9 (ii) Provide a copy of the notice pursuant to subparagraph (i) of
+10 this paragraph to the tow company to authorize towing of the vehi-
+11 cle. A copy shall be provided to the legal or registered owner at
+12 the scene, if applicable. The notification provided pursuant to
+13 subparagraph (i) of this paragraph shall be in addition to all no-
+14 tices required for vehicle disposal procedures contained in this
+15 chapter;
+16 (iii) Not delegate authorization of the towing of vehicles as de-
+17 scribed in this chapter to a nongovernmental entity; and
+18 (iv) Report the tow in the Idaho public safety and security infor-
+19 mation system;
+20 (b) The tow company shall:
+21 (i) Report the tow in the department's towed vehicle portal
+22 within one (1) business day of the tow, excluding weekends and hol-
+23 idays, pursuant to applicable procedures; and
+24 (ii) Apply to the department for a title or junk certificate after
+25 thirty (30) days from the date of first notification as long as the
+26 following conditions have been met:
+27 1. The vehicle has not been claimed;
+28 2. No declaration of opposition was received or the declara-
+29 tion of opposition timeline has elapsed; or
+30 3. If a tow procedure hearing was conducted, it was deter-
+31 mined in the favor of the agency; and
+32 (c) The department shall:
+33 (i) Provide the title and insurance information the department
+34 has on record when the tow company enters the tow record into the
+35 portal;
+36 (ii) Notify the vehicle's owners and lienholders on record using:
+37 1. If the owner or lienholder signed up for electronic noti-
+38 fications:
+39 (A) Within one (1) business day of the tow company re-
+40 porting a tow in the portal, an electronic notifica-
+41 tion;
+42 (B) If the vehicle is not claimed within five (5) busi-
+43 ness days after being reported in the portal, a second
+44 notice by first class mail; and
+45 (C) If the vehicle is not claimed within fifteen (15)
+46 business days after being reported in the portal, a
+47 third notice by first class mail; or
+48 2. If the owner or lienholder has not signed up for elec-
+49 tronic notifications:
+
+5
+1 (A) Within one (1) business day after a tow company re-
+2 ports a tow in the portal, notification by first class
+3 mail; and
+4 (B) If the vehicle is not claimed within ten (10) busi-
+5 ness days after being reported in the portal, a second
+6 notice by first class mail; and
+7 (iii) Issue a title or junk certificate to the towing company clear
+8 of any liens after thirty (30) days from the date of first notifi-
+9 cation if all applicable procedures of this chapter were followed
+10 and the conditions of paragraph (b)(ii) of this subsection have
+11 been met.
+12 (2) The notifications in subsection (1)(c) of this section shall in-
+13 clude the following information:
+14 (a) A description of the vehicle that includes, if available, the make,
+15 model, year, vehicle identification number, and license plate number;
+16 (b) The name, address, and telephone number of the tow company;
+17 (c) The date, time, and reason for tow;
+18 (d) The location of the place of storage;
+19 (e) The amount owed for towing;
+20 (f) The daily rate for storage;
+21 (g) The right to a tow procedure hearing pursuant to section 49-1809,
+22 Idaho Code;
+23 (h) The right to claim personal property; and
+24 (i) The right to file a declaration of opposition pursuant to section
+25 49-1808, Idaho Code.
+26 49-1808. DECLARATION OF OPPOSITION. (1) In the event that the legal
+27 or registered owner of a vehicle towed under the provisions of this chapter
+28 wishes to dispute the fees, claim, disposition, or other issues related to
+29 the possessory lienholder, the owner may file a declaration of opposition
+30 with the department.
+31 (2) The declaration of opposition must be received by the department
+32 within twenty (20) calendar days after the date of the first notification
+33 sent by the department pursuant to section 49-1807(1)(c), Idaho Code.
+34 (3) The declaration of opposition shall give the declarant ten (10)
+35 calendar days after the date the declaration was filed with the department to
+36 file legal action against the possessory lienholder.
+37 (4) If the declarant files a legal action against the possessory lien-
+38 holder, the disposition of the vehicle shall be paused pending the outcome of
+39 the court proceedings.
+40 (5) The declarant may be liable for court costs if a judgment is entered
+41 in favor of the possessory lienholder.
+42 49-1809. TOW PROCEDURE HEARING. (1) Whenever an authorized officer
+43 initiates the tow or storage of a vehicle pursuant to the provisions of sec-
+44 tions 49-1804 and 49-1805, Idaho Code, the agency authorizing the tow or
+45 storage shall provide the vehicle's registered and legal owners of record or
+46 their agents with the opportunity for a tow procedure hearing to determine
+47 the validity of the storage.
+
+6
+1 (2) In order to receive a tow procedure hearing, the owners or their
+2 agents must send a request for hearing in writing, to the department, within
+3 ten (10) calendar days of the date of the initial notice, pursuant to sec-
+4 tion 49-1807(1)(c), Idaho Code. Any such hearing shall be conducted within
+5 forty-eight (48) hours of the request, excluding weekends and holidays. The
+6 public agency may authorize its own officer or employee to conduct the hear-
+7 ing, as long as the hearing officer is not the same person who directed the
+8 storage of the vehicle.
+9 (3) Failure of either the titled or legal owner or his agent to request
+10 or to attend a scheduled hearing shall satisfy the tow procedure hearing re-
+11 quirement as to that person.
+12 (4) The provisions of this section shall not apply to vehicles removed
+13 from posted property pursuant to section 49-1806, Idaho Code.
+14 (5) The agency employing the person who authorized the tow shall be re-
+15 sponsible for the costs incurred for towing and storage if it is determined
+16 in the hearing that reasonable cause for the tow and storage cannot be estab-
+17 lished.
+18 49-1810. CHARGES NOT OTHERWISE PROVIDED FOR. Every tow company in the
+19 process of towing, removing, or impounding a vehicle as directed by an autho-
+20 rized officer, except vehicles towed as part of an investigation or that are
+21 suspected stolen, shall upon request of the owner or his authorized agent re-
+22 lease the vehicle at the scene. If the vehicle is attached to the tow truck,
+23 or otherwise in tow, the regular, scheduled tow fee may be charged. When the
+24 vehicle is not yet in tow at the time of request, the release must be made,
+25 and no charge may be assessed except a customary and reasonable charge for
+26 mileage one way from the towing company's place of storage to the scene plus
+27 the usual fee for the tow truck operator. If the authorized fee is not ten-
+28 dered by the owner or his agent, the towing operator may complete the im-
+29 poundment, towing, or removal, as authorized.
+30 49-1811. CLAIMING OF VEHICLE -- REFUSAL TO RELEASE VEHICLE. (1) The
+31 owner or lienholder of any vehicle removed or booted under the provisions
+32 of this chapter, except those vehicles impounded for investigation or sus-
+33 pected stolen, may take possession of the vehicle at any time prior to dispo-
+34 sition by proving ownership and paying the costs relative to towing and stor-
+35 ing or booting the vehicle.
+36 (2) Unauthorized removal of any vehicle towed or booted under the pro-
+37 visions of this chapter without payment in full of all charges and costs that
+38 have been incurred under the provisions of this chapter shall be a misde-
+39 meanor, and the vehicle may be recovered and returned to the place of stor-
+40 age.
+41 (3) Nothing in this chapter shall be construed to abate any cause of ac-
+42 tion that a lienholder has against the owner of an abandoned vehicle.
+43 (4) Any insurer having a claim made against it pertaining to any vehicle
+44 removed or booted under the provisions of this chapter, except those vehi-
+45 cles impounded for investigation or suspected stolen, may take possession of
+46 the vehicle at any time prior to the settlement of such claim following de-
+47 termination by such insurer that the vehicle has been determined by such in-
+48 surer to be a total loss, obtaining verbal consent of the owner and by paying
+
+7
+1 the lawfully entitled costs relative to towing and storing the vehicle. The
+2 insurer holding facility shall allow the vehicle owner or his representative
+3 access to the vehicle upon the vehicle owner or his representative provid-
+4 ing evidence of ownership. Personal property, including items not attached
+5 or related to the vehicle, must be returned to the vehicle owner pursuant
+6 to section 49-1814(4), Idaho Code. If no total loss settlement is reached,
+7 the insurer shall return the vehicle to a mutually agreed upon location. Any
+8 holding facility that releases a vehicle pursuant to the provisions of this
+9 subsection shall be held harmless for the release of such vehicle. The in-
+10 surer shall provide the location and telephone number of the insurer holding
+11 facility to the vehicle owner or his representative.
+12 (5) Any towing company that tows a vehicle pursuant to this chapter
+13 shall take the vehicle to such place as the owner or his authorized agent
+14 with a power of attorney may reasonably request. If such a request is not
+15 received, the towing company shall take the vehicle to its nearest place of
+16 safe storage. The towing company shall not be entitled to recover any stor-
+17 age fees, impound fees, unauthorized repair fees, or other fees, except the
+18 scheduled tow fee, if the towing company:
+19 (a) Removes the vehicle to a place other than as directed by the officer
+20 or as reasonably requested by the owner or his authorized agent with a
+21 power of attorney;
+22 (b) After removing the vehicle, refuses to release the vehicle to the
+23 owner, his authorized agent, insurance representative, or lienholder
+24 for any reason other than the refusal of the owner, authorized agent,
+25 insurance representative, or lienholder to pay the fees to which the
+26 towing company is lawfully entitled. The refusal of the owner, his
+27 authorized agent, insurance representative, or lienholder to pay fees
+28 to which the towing company is not entitled pursuant to this subsection
+29 shall not be cause for the tow company to refuse to release the vehicle;
+30 or
+31 (c) Performs repairs or makes improvements, for any reason, without a
+32 signed work order or recorded verbal consent from the owner, his autho-
+33 rized agent, insurance representative, or lienholder.
+34 (6) Upon release of the vehicle to the legal or registered owner, autho-
+35 rized agent, or insurance representative, the towing company shall provide
+36 an itemized statement containing the following:
+37 (a) The location from which the vehicle was towed;
+38 (b) The storage location of the vehicle;
+39 (c) The name, address, and telephone number of the tow company;
+40 (d) The year, make, and model of the vehicle towed;
+41 (e) The license plate number of the vehicle towed;
+42 (f) The itemized cost of towing and recovery charges; and
+43 (g) The daily storage charge and number of days stored.
+44 49-1812. IDAHO STATE POLICE AUTHORIZED TOW LIST -- BACKGROUND
+45 CHECKS. The Idaho state police shall establish and maintain an authorized
+46 tow list. To determine the suitability of applicants for inclusion on the
+47 Idaho state police-authorized tow list, the Idaho state police shall require
+48 every applicant towing firm owner, driver, and operator to provide informa-
+49 tion and fingerprints necessary to obtain criminal history information from
+
+8
+1 the Idaho state police bureau of criminal identification and the federal bu-
+2 reau of investigation. The cost of taking and processing such fingerprints
+3 shall be the responsibility of the applicant. Pursuant to section 67-3008,
+4 Idaho Code, the Idaho state police shall submit a set of fingerprints ob-
+5 tained from the applicant and the required fees to the Idaho state police
+6 bureau of criminal identification for a criminal records check of state and
+7 national databases. The Idaho state police may receive criminal history
+8 information from the Idaho state police bureau of criminal identification
+9 and from the federal bureau of investigation for the purpose of evaluating
+10 the fitness of applicants for inclusion on the Idaho state police-authorized
+11 tow list.
+12 49-1813. LOCAL GOVERNMENT TOW LISTS. Any county or city, including any
+13 law enforcement agency of a county or city, that maintains an authorized tow
+14 list shall document and make publicly available the qualifications to be
+15 added to or removed from such tow list.
+16 49-1814. FEES, STORAGE, AND ACCESS TO VEHICLE. (1) Whenever a vehi-
+17 cle has been towed under the provisions of this chapter, reasonable efforts
+18 shall be made to secure and prevent further damage to the vehicle being
+19 stored.
+20 (2) A towing company shall furnish its rate sheet to the department for
+21 law enforcement-directed tows. The department shall make the rate sheet
+22 available to the public and the rate sheet shall also be posted at the towing
+23 company's place of business and be made available upon request to consumers.
+24 Tow fees shall not vary based on the value of the vehicle and a charge more
+25 than what is reflected on the rate sheet for any service shall be deemed ex-
+26 cessive.
+27 (3) The maximum storage limit shall not exceed sixty (60) days from the
+28 date of tow. If the tow was reported in the portal within one (1) business
+29 day, excluding weekends and holidays, storage fees may begin from the date of
+30 tow. If the tow was not reported in the portal within one (1) business day,
+31 excluding weekends and holidays, storage fees shall not begin accumulating
+32 until the tow is reported in the portal by the towing company.
+33 (4) Any vehicle stored under the provisions of this chapter, except ve-
+34 hicles being stored as part of a law enforcement investigation, shall:
+35 (a) Be made available for physical inspection by the legal or regis-
+36 tered owner, authorized agent with a valid power of attorney, or insur-
+37 ance representative during reasonable business hours at no additional
+38 charge; and
+39 (b) Have no lien attached to any personal property in or on the vehi-
+40 cle. Personal property in or on the vehicle shall be given to the regis-
+41 tered owner or the owner's authorized agent, if such agent has a valid
+42 power of attorney, during reasonable business hours at no additional
+43 charge, upon demand. The possessory lienholder shall not be responsi-
+44 ble for personal property not attached to the vehicle after any vehicle
+45 has been disposed of pursuant to this chapter.
+
+9
+1 49-1815. FEE TO ACCOMPANY INFORMATION REQUEST. Upon entering the
+2 towed vehicle information into the portal, the department shall receive a
+3 fee in accordance with section 49-202(2)(g), Idaho Code.
+4 49-1816. ABANDONED VEHICLE TRUST ACCOUNT -- APPROPRIATION AND
+5 USE. (1) There is hereby established in the state treasury the abandoned
+6 vehicle trust account. There shall be set aside, paid into, and credited to
+7 the fund the fees authorized under section 31-3201F, Idaho Code, collected
+8 by the district courts.
+9 (2) Moneys deposited in the abandoned vehicle trust account are hereby
+10 continuously appropriated to the department for the purposes of satisfying
+11 allowable claims and reimbursing the costs of administering the provisions
+12 of this chapter.
+13 (3) Each fee collected by the district courts pursuant to section
+14 31-3201F, Idaho Code, shall be distributed as follows:
+15 (a) Seventy-five dollars ($75.00) to the law enforcement agency that
+16 directed the tow of the vehicle involved in the infraction; and
+17 (b) Seventy-five dollars ($75.00) to the towing company that towed the
+18 vehicle involved in the infraction.
+19 (4) Fees shall be distributed to law enforcement agencies and towing
+20 companies on a monthly basis.
+21 49-1817. PROVISIONS OF SECTIONS UNIFORM THROUGHOUT STATE. The provi-
+22 sions of this chapter shall be applicable and uniform throughout the state
+23 and in all political subdivisions. No local or state authority shall enact
+24 or enforce any ordinance, rule, or regulation in conflict with the provi-
+25 sions of this chapter.
+26 SECTION 3. That Section 45-805, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 45-805. LIENS FOR SERVICES ON OR CARING FOR PROPERTY. (a) Every person
+29 who, while lawfully in possession of an article of personal property, ren-
+30 ders any service to the owner thereof, by labor, or skill, employed for the
+31 protection, improvement, safekeeping, or carriage thereof, has a special
+32 lien thereon, dependent on possession, for the compensation, if any, which
+33 is due him from the owner, for such service. If the liens as herein provided
+34 are not paid within sixty (60) days after the work is done, service rendered
+35 or materials supplied, the person in whose favor such special lien is cre-
+36 ated may proceed to sell the property at a public auction after giving ten
+37 (10) days' public notice of the sale by advertising in some newspaper pub-
+38 lished in the county where the property is situated, or if there is no news-
+39 paper published in the county then by posting notices of the sale in three
+40 (3) of the most public places in the county for ten (10) days previous to such
+41 sale. The person shall also send the notice of auction to the owner or owners
+42 of the property and to the holder or holders of a perfected security interest
+43 in the property as provided in subsection (c) of this section. The person who
+44 is about to render any service to the owner of an article of personal prop-
+45 erty by labor or skill employed for the protection, improvement, safekeeping
+46 or carriage thereof may take priority over a prior perfected security inter-
+47 est by, before commencing any such service, giving notice of the intention
+
+10
+1 to render such service to any holder of a prior perfected security interest
+2 at least three (3) days before rendering such service. If the holder of the
+3 security interest does not notify said person, within three (3) days that it
+4 does not consent to the performance of such services, then the person render-
+5 ing such service may proceed and the lien provided for herein shall attach to
+6 the property as a superior lien. The provisions of this section shall not ap-
+7 ply to a motor vehicle subject to the provisions of sections 49-1809 through
+8 49-1818 chapter 18, title 49, Idaho Code.
+9 (b) Livery or boarding or feed stable proprietors, and persons pastur-
+10 ing livestock of any kind, have a lien, dependent on possession, for their
+11 compensation in caring for, boarding, feeding or pasturing such livestock.
+12 If the liens as herein provided are not paid within sixty (60) days after the
+13 work is done, service rendered, or feed or pasturing supplied, the person in
+14 whose favor such special lien is created may proceed to sell the property at
+15 a licensed public livestock auction market, or if the lien is on equines, to
+16 sell the animals at a sale offered to the public, after giving ten (10) days'
+17 notice to the owner or owners of the livestock and the state brand inspector.
+18 The information contained in such notice shall be verified and contain the
+19 following:
+20 (1) The time, place and date of the licensed public livestock auction
+21 market, or in the case of equines, the time, place and date of the sale
+22 offered to the public;
+23 (2) The name, address and phone number of the person claiming the lien;
+24 (3) The name, address and phone number of the owner or owners of the
+25 livestock upon which the lien has been placed;
+26 (4) The number, breed and current brand of the livestock upon which the
+27 lien has been placed; and
+28 (5) A statement by the lienor that the requirements of this section have
+29 been met.
+30 (c) Notices provided in subsections (a) and (b) of this section shall
+31 be made by personal service or by certified or registered mail to the last
+32 known address of the owner or owners and any holder of a prior perfected secu-
+33 rity interest. The proceeds of the sale must be applied to the discharge of
+34 any prior perfected security interest, the lien created by this section and
+35 costs; the remainder, if any, must be paid over to the owner.
+36 SECTION 4. This act shall be in full force and effect on and after Jan-
+37 uary 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YTNADDECNAGTOMRV;RGCR1,TE4,IOCGTOTGADSEOFMRV;AGTE4OC,BYTEANOFANWCR1,TE4,IOCOPTVEA,TOPEFRPDR,TOPEFRRLOFSNV,TOPEFRRETOA,A,OREYC,TOPRRLOFREADV,TOPEFRRLAGOFUDADADVSFMRLP,TEFRTDVERLADNNR,TEFRDSOFO,TOPEFRATWPEH,TOEHPSRGCSNTODF,TOPEFRTECGOFVSADRLTEAV,TOPEFRASEPDTWLTANBDC,TOPEFRLLGTTWLOPEFRF,S,ADASTOV,TOPEFSRDTOINR,TOEHANADVTA,ADTOPEFRUYTTTESEA;AGSN4,IOC,TOPEACER;ADPGANEEDeItEdbyteLeofteSeofIN1.TtCr1,Te4,IoC,b,adteseiyrN2.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr1,Te4,IoC,adtordasfR1GADSEOFMRV.ATP.()Nopnslanaveunayh)Nopnslanaveunpcorpeptteesoridctofteororpninllpnorcloftep.PDR.()Teatofayvlceapafepnttteltrdorodisrefrteatadistylefrtecdinter,s,addnoftev,lsatrdfmtednoftev)Teorofayverdpttotscridrefrteveadistylefrtec]
+[DELETED: dinter,s,addnoftev,lsasrdfmtednoftev)Ifaveisfdadorfdureycsadisrdattednofayadoraditrdbyteororlrwnsn()dsoftet,ttrdorofrdisgyofatci,ustrhsfdareoflywhtedtpttosn4,IoC,inwhcetetesnontereoyslbegyofatci)Vstdurtepsoftscrctbeddofwtateorajkc)Ifalwetaypsaclorrsatwcoreav,itslbecdasalwedtdtepsoftscrsla.RLOFSNV.()Ayado,uyofaverdassnadntr,myceittetntoadsdinanadidydintecyofat)Wnft()h,egwsadh,oetettteveistniocyadissdpttot,teayofwhteorisanatslmeareettoonteveorinfmteaytttnvertwsfdwhadctteorbyelorpfctismeadnoanistnbyteororiecnsn()dsornoctismewnft()heayslgewnnebycdmltoterdalosoftev,ifk.Tenesls)Tttevehsbntniocyads)Telnofseoftev)Teinofteo)Adnoftev,igm,y,m,inn,len,adseofr;a)Tesyayfrs)Ifteveisntcdwnty()d,itslbdsnadntrdadtdasanadvttotepsofsn4,IoC.Tesetdurtssnmybeadtoteseterdteadvep,pttosn4,IoCftevewssdatatwcyfydgtesnvnadnnp.RLOFAS--DRAS--VSFDUREYC.Ayadorwodsltortterlofaveurteayoftscrtepsofsn4,IoC,astertofana,tedrbga,ororeycsmycetevetobepdintecyofatwc]
+[DELETED: .RLOFREADV.()Undfanadveortnureyc,adorslahontev,inpnv,anetevewlbetdayarft()h.Tenlc)Teneofteorwopdten)Teneofteayegteo)Teteaddeofagten)Teteaddearwhtevewlber;a)Tetenradasofteaywefrincnbeo)Areatslbemetonyteorofayvetthsctlepsadrnassnonterftedtprtoteenofteft()hrnep.Shneslietelnofteveadteaddeofittoretev.Teiyofanortyteorslntpeterlofteveatteenofteft()hrpdpdfrintss.RLORBGOFUDADADVMRLP.()Aypnhgpnorclofrlpywofsanudvesgonhspyispoheteverdorbdifteispdonornrtepyinacycsl,inlep,asnornetdvswlberdorbdatteoseeagteneoftetgf.Udvsndntmepsofsn4,IoC,intsi)Aypnhgpnorclofrlpywofnadvesgonhspywntepyisntpsstotinsn()oftssnmyctatwcytoretev.Tetwcyslhetepnhgprcloftepysnarefmtotetwcyifastepnhgpnorclofrlp,igtevebgr,adtgryfrterftev)Noveslbecdudadsttorrbgpttotepsoftssnsyontebftevehgedorirver.Alosoftscrslbecdw.TDVERLADNNR.(raveistdpttoss43th4oC,tefgpsslbef)Lwets)Atteteoft,etfrvstdurs,IoC,ceanefmcgatlefgi.Aceved,iglep,ifa,adveinn.Tet,d,adrnfrtet]
+[DELETED: .Teneoftelwetaydgtetdtecenra.Teneadbenrofteado.Ten,a,adtenroftetwc.Teselnoftev;a.Teseoftetwtkortgrtoeveadc)Peacyoftenepttosh()osphtotetwcytoaetgoftev.Acyslbepdtotellorrdoraes,ifa.Tennpdptth()oftsphslbeinantoalnsrdfrvedlpscdint)Ntdeanoftetgofvsasddintscrtoanle;a)RttetwinteIopcsyadsyins)Tetwcys)Rttetwintedstdvepnoe()bsdyoftet,egwsadh,pttoaep;a)Aytotedtfrateorjkceay()dsfmtedeofftnnaslgastgcshebnm.Tevehsntbnc.Nodnofonwsrdortednofontehse;o.Ifatwpehgwsc,itwsddintefroftea;a)Tedts)Peteteadieintedsonrdwntetwcyestetwrdiot)Nytevsosadlsonrdu.Ifteororlrsdupfrecn)Wnoe()bsdyoftetwcyrgatwintep,anecn)Ifteveisntcdwnfe()bsdsarbgrdintep,asebyftcsm;a)Ifteveisntcdwnfn(sdsarbgrdintep,dnebyftcsm;o.Ifteororlrhsntsdupfrecn]
+[DELETED: )Wnoe()bsdyaratwcyrsatwintep,nnbyftc;a)Ifteveisntcdwntn()bsdsarbgrdintep,asebyftcsm;a)Ieateorjkcetotetgcycfaylsarty()dsfmtedeofftnnifalaepsoftscrwefdtecsofph()oftssnhnm)Tensinsn()oftssnslietefgi)Adnoftevetti,ifa,tem,y,veinn,adlepen)Ten,a,adtenroftetwc)Ted,t,adrnfrt)Telnoftepeofs)Teatodfrt)Tedyrefrs)Terttoatwpehgpttosn4oC)Terttocmplp;a)Terttofeadnofonpttos,IoC.DNOFO.()Inteettttelrrdorofavetdurtepsoftscstodetef,c,d,ororisrdtepyl,teormyfeadnofohted)Tednofonmtberdbytednty()crdsartedeofteftntbytedtpttosn4,IoC)Tednofonslgetedttn(rdsartedetednwsfdwhtedttellanattepyl)Iftedtfsallanattepyl,tednofteveslbepdpgteoeoectp)Tedtmybelefrctcsifajtisenfroftepyl.TWPEH.()Wranadostetworseofavepttotepsofss44ad4,IoC,teayagtetwoeslpetevsrdadllosofrdoraswhteoyfratwpehgtodevyoftes]
+[DELETED: )Inortoreatwpeh,teosortsmtsdartfrhginw,toted,wn()crdsoftedeofteiln,pttosn4,IoC.Ayshhgslbecdwt()hsofter,egwsadh.Tcaymyaeisonororeetoctteh,aslgastehgorisnttesepnwoddteoftev)Feofertetdorllororhsattorrtoadasdhgslsytetwpehgrtastottp)Tepsoftssnslntaytovsrmpdpypttosn4,IoC)Teayegtepnwoadtetwslberefrtecsidfrtgadseifitisdntehgttrecefrtetwadsectbee.CSNTOEPDF.Eytwcyintsoft,r,origaveasddbyanado,etvstdasptofaninorttads,slunrtofteororhsadatreteveattes.Ifteveisadtotetwtroeint,ter,sdtwfemybec.Wnteisntytintwatteteofr,teremtbemdnocemybeadetacyadrecefeoewyfmtetgcspeofsetotesepeulfefrtetwtko.Ifteadfeisnttdbyteororhsa,tetgormycetei,t,orr,asa.CGOFVE--RLTOREV.()Trorlrofayverdorbdurtepftsc,ettevsidfrinorsds,mytepnofteveatayteprtodnbypgopadpgtecsretotgadsgorbgtev)Udrlofayvetdorbdurtepsoftscrwtptinflofalcsadcstebnidurtepsoftscrslbeam,adtevemyberdadrdtotepeofs)Ngintscrslbecdtoaeayceofanttalrhsatteorofanadv)Ayirhgacmmeatitpgtoayvdorbdurtepsoftsc,ettevsidfrinorsds,mytepnoeveatayteprtotestofshcmfgdnbyshirtttevehsbnddbyshirtobeatll,ogvlctofteoradbyp]
+[DELETED: elyedcsretotgadsgtev.Trhgfyslawteveororhsrstoteveunteveororhsrepgeeofo.Plp,igisntarrdtotev,mtberdtoteveorposn4,IoC.Ifnotllsstisreirslrntevetoamyadunl.Agfyttrsavepttotepsoftnslbehdhsfrtereofshv.Teirslpetelnadtenrofteirhytoteveororhsr)Aytgcytttsavepttotscltetevetoshpeasteororhsadahaprofaymyryr.Ifshartisn,tetgcysltetevetoisntpeoes.Tetgcyslntbeedtorraysef,idf,udrrf,ororf,ettdtwf,iftetgc)Rstevetoapeortnasddbyteorasryrdbyteororhsadatwhrofa)Arrgtev,rstoretevetot,hsada,ier,orlrayrnortnterlofteo,adaer,orlrtopytefstowhtgcyislye.Terlofteo,hda,ier,orlrtopyfowhtetgcyisntedpttotsslntbecefrtetwcytoretoretev)Psrsormsi,frayr,wtdwkororrdvlctfmteo,hsada,ier,orl)Unreoftevetotellorrdo,ada,orier,tetgcyslpnidstcgtef)Telnfmwhtevewst)Teselnoftev)Ten,a,adtenroftetwc)Tey,m,admloftevet)Telepenroftevet)Teidctoftgadryc;a)Tedyseceadnrofdss.IOSEPEADTWLT--B.TeIosepeslehadmnanawl.Todetesyofasfrinontosepdtwl,teIosepeslryattgfmo,d,adortopeinadfsnytoonclhyinf]
+[DELETED: eIosepebuofclinadteflbuofi.Tectoftgadpgshflbeteryoftea.Pttosn6oC,teIosepeslstastoffsodfmteatadterdfstoteIosepuofclinfraclrsckofseald.TeIosepemyreclhnfmteIosepebuofclidfmteflbuofinfrtepeofeefsofasfrinonteIosepwl.LLGTTWL.Aycyorc,igawetayofacyorc,ttmsanadttsldtadmepyaeteqstobdtoorrdfmshtwl.F,S,ADASTOV.()Wravehsbntdurtepsoftsc,reelbemetoseadptfrdetoteveb)Atgcyslfhisresttotedtfwedt.Tedtslmeteresetotepcadterestslaobepdattetspeofbsadbemeaeunrttocwfsslntvybdonteveofteveadacemnwtisrdonterestfrayseslbedde)Temmseltslntedsy()dsfmteoft.Iftetwwsrdinteplwnoe()b,egwsadh,sefsmybnfmtedeo.Iftetwwsntrdinteplwnoe()bsdgwsadh,sefsslntbnaltetwisrdinteplbytetgc)Ayvesdurtepsoftsc,etvsbgsdasptofalweti,s)Bemeaefrplinbytellorrdo,adatwhavdprofa,orieredgrebshsatnoa;a)Henolnadtoayplpyinorontev.Plpyinoronteveslbegntoterdororteosada,ifshathsavrofa,dgrebshsatnoa,und.Tepylrslntberefrplpyntadtotevearayvsbnddofpttotsc]
+[DELETED: .FETOAYINR.Unegtdveiniotep,tedtslreeinaewhsn4,IoC.ADVETTAT--ANA.()Teishyedintesetyteaetta.Teslbesta,pdi,adcdtefdtefsadursn3,IoC,cytedtc)Msddinteadvettataehyadtotedtfrtepsofsecsadrgtecsofagtepftsc)Ehfecdbytedtcspttos,IoC,slbeddasf)Seds()totelwetaytdtetwofteveidintei;a)Seds()totetgcytttdteidintei)Fsslbeddtolwetasadtsonamyb.PSOFSSUMTTS.Tepsoftscrslbeaeadumtttesdinalpls.Nollorseayslereeayo,r,orrninctwhtepsoftscN3.TtSn4,IoC,b,adteseishdtordasf.LSFRSSONORCGFRP.()Eyp,welyinpnofanaeofplp,rsaysetoteort,byl,ors,edfrt,i,s,orcet,hsasnt,dtonp,frtec,ifa,wsdehmfmteo,frshs.Iftelsashnpentpdwnsy()dsartewkisd,serrmss,tepninwefrshsllniscdmypdtosltepyatapcanarggt)d'pcneoftesebyaginsenrpdintecywetepyiss,orifteisnonrpdintecytnbypgnsofteseint)oftemtpcpsintecyfrtn()dspstos.Tepnslaosdteneofantoteororoftepyadtotehrorhsofapdsyintepyaspdinsn()oftss.Tepnwsattorraysetoteorofanaeofplpybylrorsledfrtep,i,srcetfmytepyoraprpdsyitb,becgayshs,ggneoftei]
+[DELETED: orrshsetoayhrofaprpdsyitltte()dsbergshs.Iftehroftyitdsntnysdp,wnte()dsttisntcttotepeofshs,tntepnrgshsemypdadtelnpdfrhnslahtepyasasrl.Tepsoftssnslntaytoamrvesttotepsofss49t8cr1,te4,IoC)Lyorbgorfdsep,adpspglkofayk,heal,dtonp,frtnincgf,b,fgorpgshlftelsashnpdaentpdwnsy()dsartkisd,ser,orfdorpgs,tepniefrshsllniscdmypdtosltepyaldpclkanm,oriftelnisone,tlteasataseodtotep,arggtn()detoteororosoftelkadtesebdieincdinshneslbevdadcnt)Tet,peaddeofteldpclka,orinteceofe,tet,peaddeoftesdtotep)Ten,asadpenroftepncgtel)Ten,asadpenrofteororosoftkunwhtelnhsbnp)Ten,bdadctbdoftelkunwhtnhsbnp;a)Astbytelrtttersoftssnhnm)Nspdinss()ad()oftssnsemebyplseorbycdorrdmltotelnasofteororosadayhrofaprpdsyi.Tepsoftesemtbeadtotedeoyprpdsyi,telncdbytssna;ter,ifa,mtbepdortoteoN4.TsatslbeinflfeadetonadarJy1,2]

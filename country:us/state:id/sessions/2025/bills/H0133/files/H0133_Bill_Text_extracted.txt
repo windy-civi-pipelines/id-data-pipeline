@@ -1,0 +1,1105 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 133
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO TOBACCO PRODUCTS AND ELECTRONIC SMOKING DEVICES; AMENDING SEC-
+3 TION 39-5502, IDAHO CODE, TO DEFINE TERMS AND TO REVISE A DEFINITION;
+4 REPEALING SECTION 39-5508, IDAHO CODE, RELATING TO RULES AND REGULA-
+5 TIONS; AMENDING CHAPTER 55, TITLE 39, IDAHO CODE, BY THE ADDITION OF
+6 A NEW SECTION 39-5508, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+7 POSTING OF SIGNS; AMENDING SECTION 39-5702, IDAHO CODE, TO DEFINE TERMS
+8 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 39-5704, IDAHO
+9 CODE, TO REVISE PROVISIONS REGARDING PERMITTING OF TOBACCO PRODUCTS OR
+10 ELECTRONIC SMOKING DEVICE RETAILERS; AMENDING SECTION 39-5706, IDAHO
+11 CODE, TO REMOVE OBSOLETE LANGUAGE AND TO MAKE A TECHNICAL CORRECTION;
+12 AMENDING SECTION 39-5708, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+13 CIVIL PENALTIES FOR VIOLATIONS OF PERMIT; AMENDING SECTION 39-5710,
+14 IDAHO CODE, TO REVISE PROVISIONS REGARDING CONDUCT OF ENFORCEMENT
+15 ACTIONS; REPEALING SECTION 39-5712, IDAHO CODE, RELATING TO SEVERABIL-
+16 ITY; AMENDING SECTION 39-5717, IDAHO CODE, TO PROVIDE A CORRECT CODE
+17 REFERENCE; AMENDING SECTION 39-8421, IDAHO CODE, TO PROVIDE A CORRECT
+18 CODE REFERENCE; AMENDING SECTION 56-227F, IDAHO CODE, TO PROVIDE A
+19 CORRECT CODE REFERENCE; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES
+20 CONTAINED IN IDAPA 16.07.25 SHALL BE NULL, VOID, AND OF NO FORCE AND
+21 EFFECT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA
+22 16.02.23 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING
+23 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+24 Be It Enacted by the Legislature of the State of Idaho:
+25 SECTION 1. That Section 39-5502, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 39-5502. DEFINITIONS. As used in this chapter:
+28 (1) "Auditorium" means a public building where an audience sits and any
+29 corridors, hallways or lobbies adjacent thereto.
+30 (2) "Bar" means any indoor area open to the public operated primarily
+31 for the sale and service of alcoholic beverages for on-premises consumption
+32 and where: (a) the service of food is incidental to the consumption of such
+33 beverages, or (b) no person under the age of twenty-one (21) years is permit-
+34 ted except as provided in section 23-943, Idaho Code, as it pertains to em-
+35 ployees, musicians and singers, and all public entrances are clearly posted
+36 with signs warning patrons that it is a smoking facility and that persons un-
+37 der twenty-one (21) years of age are not permitted. "Bar" does not include
+38 any area within a restaurant.
+39 (3) "Bar within a restaurant" means a bar that:
+40 (a) Is physically isolated from all parts of the restaurant by solid
+41 floor to ceiling walls;
+2
+1 (b) Has a separate outside public entrance that is not shared with the
+2 restaurant;
+3 (c) Does not have any windows that can be opened or doorways connecting
+4 it to the restaurant, either directly or through any public place, in-
+5 cluding lobbies, hallways, or passageways that the public uses. The bar
+6 may be connected through means not available for public use; and
+7 (d) Does not require restaurant patrons to pass through the bar or any
+8 indoor public place connected to the bar to access restrooms or other
+9 facilities or accommodations of the restaurant.
+10 (4) "Bowling alley" means a place of business with at least two (2)
+11 bowling lanes on its premises that is operated for public entertainment.
+12 (5) "Educational facility" means any room, hall, or building that
+13 is used for instruction or is supportive of instruction, including class-
+14 rooms, libraries, auditoriums, gymnasiums, lounges, study areas, re-
+15 strooms, halls, registration areas, and bookstores of any private or public
+16 preschool, kindergarten, elementary school, junior high or intermediate
+17 school, high school, vocational school, college, or university.
+18 (3) (6) "Employer" means any person, partnership, limited liability
+19 company, association, corporation or nonprofit entity that employs one (1)
+20 or more persons, including the legislative, executive and judicial branches
+21 of state government; any county, city, or any other political subdivision of
+22 the state; or any other separate unit of state or local government.
+23 (7) "Enclosed" means the space between a floor and ceiling being sur-
+24 rounded on all sides at any time by solid walls, windows, or similar struc-
+25 tures, not including doors, that extend from the floor to the ceiling.
+26 (8) "Incidental service of food" means only serving food that is low-
+27 risk and non-potentially hazardous food.
+28 (4) (9) "Indoor shopping mall" means an indoor facility located at
+29 least fifty (50) feet from any public street or highway and housing no less
+30 than ten (10) retail establishments.
+31 (10) "Person in charge" or "proprietor" means any person, or agent of
+32 such person, who ultimately controls, governs, or directs the activities
+33 within a public place. The term does not mean the owner of the property
+34 unless such owner ultimately governs, controls, or directs the activities
+35 within the public place.
+36 (5) (11) "Public meeting" means all meetings open to the public.
+37 (6) (12) "Public place" means any enclosed indoor place of business,
+38 commerce, banking, financial service or other service-related activity,
+39 whether publicly or privately owned and whether operated for profit or not,
+40 to which persons not employed at the public place have general and regular
+41 access or which the public uses including:
+42 (a) Buildings, offices, shops or restrooms;
+43 (b) Waiting rooms for means of transportation or common carriers;
+44 (c) Restaurants;
+45 (d) Theaters, auditoriums, museums or art galleries;
+46 (e) Hospitals, libraries, indoor shopping malls, indoor sports arenas,
+47 concert halls, or airport passenger terminals, and within twenty (20)
+48 feet of public entrances and exits to such facilities;
+3
+1 (f) Public or private elementary or secondary school buildings and ed-
+2 ucational facilities and within twenty (20) feet of entrances and exits
+3 of such buildings or facilities;
+4 (g) Retail stores, grocery stores or arcades;
+5 (h) Barbershops, hair salons or laundromats;
+6 (i) Sports or fitness facilities;
+7 (j) Common areas of nursing homes, resorts, hotels, motels, bed and
+8 breakfast lodging facilities and other similar lodging facilities, in-
+9 cluding lobbies, hallways, restaurants and other designated dining ar-
+10 eas and restrooms of any of these;
+11 (k) Any child care facility subject to licensure under the laws of
+12 Idaho, including those operated in private homes, when any child cared
+13 for under that license is present;
+14 (l) Public means of mass transportation, including vans, trains,
+15 taxicabs, airplanes, buses, boats, and limousines when passengers are
+16 present. The term does not include private noncommercial vehicles; and
+17 (m) Any public place not exempted by section 39-5503, Idaho Code.
+18 (7) (13) "Publicly-owned building or office" means any enclosed indoor
+19 place or portion of a place owned, leased or rented by any state, county or
+20 municipal government, or by any agency supported by appropriation of, or
+21 by contracts or grants from, funds derived from the collection of federal,
+22 state, municipal or county taxes.
+23 (8) (14) "Restaurant" means an eating establishment including, but not
+24 limited to, coffee shops, cafes, cafeterias, and private and public school
+25 cafeterias, which gives or offers for sale food to the public, guests, or em-
+26 ployees, as well as kitchens and catering facilities in which food is pre-
+27 pared on the premises for serving elsewhere. The term "restaurant" shall in-
+28 clude a bar area within a restaurant.
+29 (9) (15) "Smoking" includes the possession of any lighted tobacco prod-
+30 uct in any form.
+31 (10) (16) "Smoking area" means a designated area in which smoking is
+32 permitted.
+33 (17) "Tobacco products" means any substance that contains tobacco, in-
+34 cluding cigarettes, cigars, pipes, snuff, smoking tobacco, tobacco paper,
+35 or smokeless tobacco. It is presumed that a lighted cigarette, cigar, or
+36 pipe contains tobacco.
+37 SECTION 2. That Section 39-5508, Idaho Code, be, and the same is hereby
+38 repealed.
+39 SECTION 3. That Chapter 55, Title 39, Idaho Code, be, and the same is
+40 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+41 ignated as Section 39-5508, Idaho Code, and to read as follows:
+42 39-5508. POSTING OF SIGNS. Signs shall be appropriately sized, con-
+43 spicuous, legible with letters at least one (1) inch in height, unobscured,
+44 and placed at a height and location easily seen and read by persons entering
+45 or within the posted area. Signs may contain information such as the inter-
+46 national smoking and no smoking symbols and references to this chapter.
+4
+1 SECTION 4. That Section 39-5702, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-5702. DEFINITIONS. The terms used in this chapter are defined as
+4 follows:
+5 (1) "Business" means any company, partnership, firm, sole proprietor-
+6 ship, association, corporation, organization, or other legal entity, or a
+7 representative of the foregoing entities.
+8 (2) "Delivery sale" means to distribute tobacco products or electronic
+9 smoking devices to a consumer in a state where either:
+10 (a) The individual submits the order for such sale by means of a
+11 telephonic or other method of voice transmission, data transfer via
+12 computer networks, including the internet and other online services, or
+13 facsimile, or the mails; or
+14 (b) The tobacco products or electronic smoking devices are delivered by
+15 use of the mails or a delivery service.
+16 (3) "Delivery service" means any person who is engaged in the commer-
+17 cial delivery of letters, packages or other containers.
+18 (4) "Department" means the state department of health and welfare or
+19 its duly authorized representative.
+20 (5) "Distribute" means to give, deliver, sell, offer to give, offer to
+21 deliver, offer to sell or cause any person to do the same or hire any person to
+22 do the same.
+23 (6) "Location" means the street address where tobacco or electronic
+24 smoking device products are sold or the uniform resource locator for re-
+25 tailers who sell tobacco or electronic smoking products exclusively via the
+26 internet.
+27 (6) (7) "Minor" means a person under twenty-one (21) years of age.
+28 (7) (8) "Minor-exempt permit" means a permittee location whose rev-
+29 enues from the sale of alcoholic beverages for on-site consumption comprises
+30 at least fifty-five percent (55%) of total revenues, or whose products and
+31 services are primarily obscene, pornographic, profane, or sexually ori-
+32 ented, is exempt from inspections assisted by a minor, if minors are not
+33 allowed in the location and such prohibition is posted clearly on all en-
+34 trance doors.
+35 (8) (9) "Permit" means a permit issued by the department for the sale or
+36 distribution of tobacco products or electronic smoking devices.
+37 (10) "Permit endorsement" means a sale or delivery method used by the
+38 permittee to sell tobacco or electronic smoking device products, including
+39 delivery sales, delivery service, and direct sales.
+40 (9) (11) "Permittee" means the holder of a valid permit for the sale or
+41 distribution of tobacco products or electronic smoking devices.
+42 (10) (12) "Photographic identification" means state, district, terri-
+43 torial, possession, provincial, national or other equivalent government
+44 driver's license, identification card or military card, in all cases bearing
+45 a photograph and a date of birth, or a valid passport.
+46 (11) (13) "Random, unannounced inspection" means an inspection of re-
+47 tail outlets by a law enforcement agency or by the department, with or with-
+48 out the assistance of a minor, to monitor compliance of this chapter.
+5
+1 (12) (14) "Seller" means the person who physically sells or distributes
+2 tobacco products or electronic smoking devices.
+3 (13) (15)(a) "Tobacco product or electronic smoking device" means:
+4 (i) Any substance containing, made of, or derived from tobacco
+5 or nicotine that is intended for human consumption or is likely to
+6 be consumed, whether inhaled, absorbed, or ingested by any other
+7 means, including but not limited to cigarettes, cigars, pipes,
+8 snuff, smoking or chewing tobacco, snus, tobacco papers, or smoke-
+9 less tobacco;
+10 (ii) Any electronic smoking device that may be used to deliver an
+11 aerosolized or a vaporized substance to the person inhaling from
+12 the device, including but not limited to an electronic cigarette,
+13 an electronic cigar, an electronic pipe, a vape pen, or an elec-
+14 tronic hookah, or any component, part, or accessory of such a
+15 device, or any substance intended to be aerosolized or vaporized
+16 during use of the device, whether or not the substance contains
+17 nicotine, or any heated or lighted device intended to be used for
+18 inhalation; or
+19 (iii) Any components, parts, or accessories of a tobacco product
+20 or an electronic smoking device, whether or not they contain to-
+21 bacco or nicotine, including but not limited to filters, rolling
+22 papers, blunt or hemp wraps, and pipes, whether manufactured,
+23 distributed, marketed, or sold as an electronic cigarette, elec-
+24 tronic cigar, electronic hookah, or vape pen, or under any other
+25 product name or descriptor.
+26 (b) The term "tobacco product or electronic smoking device" does not
+27 include drugs, devices, or combinations of products authorized for sale
+28 by the United States food and drug administration as those terms are de-
+29 fined in the federal food, drug, and cosmetic act.
+30 (14) (16) "Vending machine" means any mechanical, electronic, or other
+31 similar device which that, upon the insertion of tokens, money or any other
+32 form of payment, dispenses tobacco products or electronic smoking devices.
+33 (15) (17) "Vendor-assisted sales" means any sale or distribution in
+34 which the customer has no access to the product except through the assistance
+35 of the seller.
+36 (16) (18) "Without a permit" means a business that has failed to obtain a
+37 permit or a business whose permit is suspended or revoked.
+38 SECTION 5. That Section 39-5704, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 39-5704. PERMITTING OF TOBACCO PRODUCTS OR ELECTRONIC SMOKING DEVICES
+41 RETAILERS. (1) It shall be unlawful to sell or distribute or offer tobacco
+42 products or electronic smoking devices for sale or distribution at retail
+43 or to possess tobacco products or electronic smoking devices with the in-
+44 tention of selling at retail without having first obtained a tobacco product
+45 or electronic smoking device permit from the department, which shall be the
+46 only retail tobacco product or electronic smoking device permit or license
+47 required. Provided however, this section shall not be deemed to require a
+48 wholesaler or manufacturer's representative or employees who, in the course
+6
+1 of their employment, stock shelves and replenish tobacco products or elec-
+2 tronic smoking devices at a permittee's place of business to obtain a permit.
+3 (2) The department shall administer the permitting of tobacco product
+4 or electronic smoking device retailers and shall be authorized to ensure
+5 compliance with this chapter. The department may promulgate rules in com-
+6 pliance with chapter 52, title 67, Idaho Code, regarding permitting of
+7 tobacco product or electronic smoking device retailers, inspections, and
+8 compliance checks, effective training, and employment practices under this
+9 chapter.
+10 (3) Permits shall be issued annually for each permanent business loca-
+11 tion to ensure compliance with the requirements of this chapter. A copy of
+12 this chapter, rules adopted by the department, appropriate signage required
+13 by this chapter, and any other materials deemed necessary shall be provided
+14 with each permit issued.
+15 (4) A separate permit must be obtained for each place of business and is
+16 nontransferable to another person, business, or location.
+17 (5) Permittees may display the permit in a prominent location. The ap-
+18 plicant shall select one (1) or more permit endorsements and make the permit
+19 available upon request.
+20 (6) A permittee may display a sign in each location within a place of
+21 business where tobacco products or electronic smoking devices are sold or
+22 distributed. A sign may be clearly visible to the customer and the seller and
+23 shall state: "STATE LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS OR ELECTRONIC
+24 SMOKING DEVICES TO PERSONS UNDER THE AGE OF TWENTY-ONE (21) YEARS. PROOF OF
+25 AGE REQUIRED. ANYONE WHO SELLS OR DISTRIBUTES TOBACCO PRODUCTS OR ELECTRONIC
+26 SMOKING DEVICES TO A PERSON UNDER THE AGE OF TWENTY-ONE (21) YEARS IS SUBJECT
+27 TO STRICT FINES AND PENALTIES. PERSONS UNDER THE AGE OF TWENTY-ONE (21) YEARS
+28 ARE SUBJECT TO FINES AND PENALTIES."
+29 (7) Permittees are responsible to educate employees as to the require-
+30 ments of this chapter and retain forms signed by each employee stating that
+31 the employee understands such requirements.
+32 (8) It shall be unlawful for the permittee to allow employees who are
+33 minors to sell or distribute tobacco products or electronic smoking devices,
+34 except as provided in this subsection. Employees who are minors may possess
+35 but not sell or distribute tobacco products or electronic smoking devices
+36 in the course of employment, for such duties as stocking shelves or carrying
+37 purchases to customers' vehicles, and employees who are eighteen (18) years
+38 to twenty (20) years of age may sell or distribute tobacco products or elec-
+39 tronic smoking devices in the course and scope of their employment.
+40 (9) A permit shall be closed when the permittee closes the business, no
+41 longer sells tobacco or electronic smoking device products, moves to a dif-
+42 ferent physical location, or sells the business.
+43 (10) A permit shall be revoked when it is determined that a permit was
+44 fraudulently obtained to avoid penalties on an existing permit.
+45 (11) All permits expire annually at midnight on December 31 unless re-
+46 newed. The department shall mail notice of renewal for permits at least
+47 ninety (90) days prior to expiration.
+48 SECTION 6. That Section 39-5706, Idaho Code, be, and the same is hereby
+49 amended to read as follows:
+7
+1 39-5706. VENDOR-ASSISTED SALES. (1) It shall be unlawful to sell or
+2 distribute tobacco products or electronic smoking devices by any means other
+3 than vendor-assisted sales where the customer has no access to the product
+4 except through the assistance of the seller.
+5 (2) On and after January 1, 2020, it It shall be unlawful to sell or
+6 distribute tobacco products or electronic smoking devices from vending ma-
+7 chines or self-service displays.
+8 (3) Stores with tobacco products or electronic smoking devices com-
+9 prising at least seventy-five percent (75%) of total merchandise are exempt
+10 from requiring vendor-assisted sales, if minors are not allowed in the store
+11 and such prohibition is posted clearly on all entrance doors.
+12 SECTION 7. That Section 39-5708, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-5708. CIVIL PENALTIES FOR VIOLATIONS OF PERMIT. (1) Any permittee
+15 who fails to comply with any part of this chapter or any current state or lo-
+16 cal law or rule or regulation regarding the sale or distribution of tobacco
+17 products or electronic smoking devices shall be subject to a civil penalty as
+18 provided in this section or have their permit suspended, pursuant to compli-
+19 ance with the contested case provisions of the Idaho administrative proce-
+20 dure act, chapter 52, title 67, Idaho Code, or both.
+21 (2) If a seller who is not a permittee violates section 39-5705, Idaho
+22 Code, and sells or distributes tobacco products or electronic smoking de-
+23 vices to a minor, then the seller shall be fined one hundred dollars ($100).
+24 (3) In the case of a first violation, the permittee shall be notified in
+25 writing of penalties to be levied for further violations.
+26 (4) In the case of a second violation, the permittee shall be fined two
+27 hundred dollars ($200) and shall be notified in writing of penalties to be
+28 levied for further violations. For a violation of section 39-5705, Idaho
+29 Code, the permittee shall not be fined if the permittee can show that a train-
+30 ing program was in place for the employee and that the permittee has a form
+31 signed by that employee on file stating that the employee understands the
+32 tobacco product or electronic smoking device laws dealing with minors and
+33 the unlawful purchase of tobacco products or electronic smoking devices, but
+34 the permittee shall be notified in writing of penalties to be levied for any
+35 further violations. If no such training is in place, the permittee shall be
+36 fined two hundred dollars ($200).
+37 (5) In the case of a third violation in a two (2) year period, the per-
+38 mittee shall be fined two hundred dollars ($200) and the permit may be sus-
+39 pended for up to seven (7) days. If the violation is by an employee, at the
+40 same location, who was involved in any previous citation for violation, the
+41 permittee shall be fined four hundred dollars ($400). Effective training
+42 and employment practices by the permittee, as determined by the department,
+43 shall be a mitigating factor in determining permit suspension. Evidence of
+44 mitigating factors shall be submitted to the department within ten (10) days
+45 of the date of violation. Tobacco product or electronic smoking device re-
+46 tailers must remove all tobacco products or electronic smoking devices from
+47 all areas accessible to or visible to the public while the permit is sus-
+48 pended.
+8
+1 (6) In the case of four (4) or more violations within a two (2) year pe-
+2 riod, the permittee shall be fined four hundred dollars ($400) and the permit
+3 shall be revoked until such time that the permittee demonstrates an effec-
+4 tive training plan to the department, but in no case shall the revocation be
+5 for less than thirty (30) days. Tobacco product or electronic smoking de-
+6 vice retailers must remove all tobacco products or electronic smoking de-
+7 vices from all areas accessible to or visible to the public while the permit
+8 is revoked.
+9 (7) All moneys collected for violations pursuant to this section shall
+10 be remitted to the prevention of minors' access to tobacco products or elec-
+11 tronic smoking devices fund created in section 39-5711, Idaho Code.
+12 (8) All fines shall be paid in full prior to renewal of a permit and
+13 within ten (10) days of the date of the violation.
+14 SECTION 8. That Section 39-5710, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 39-5710. CONDUCT OF ENFORCEMENT ACTIONS. (1) It is the intent of the
+17 legislature that law enforcement agencies, the attorney general, and the de-
+18 partment shall enforce this chapter and rules promulgated pursuant thereto
+19 in a manner that can reasonably be expected to significantly reduce the ex-
+20 tent to which tobacco products and electronic smoking devices are sold or
+21 distributed to minors.
+22 (2) Law enforcement agencies may conduct random, unannounced inspec-
+23 tions at locations where tobacco products or electronic smoking devices are
+24 sold or distributed to ensure compliance with this chapter. A copy of all ci-
+25 tations issued under this chapter shall be submitted to the department.
+26 (3) The department shall conduct at least one (1) random, unannounced
+27 inspection per year at all locations where tobacco products or electronic
+28 smoking devices are sold or distributed at retail to ensure compliance with
+29 this chapter. The department shall conduct inspections for minor-exempt
+30 permittees without the assistance of a minor. The department shall conduct
+31 inspections for all other permittees with the assistance of a minor. Each
+32 year, the department shall conduct random, unannounced inspections equal to
+33 the number of permittees on the last day of the calendar year multiplied by
+34 the violation percentage rate reported for the previous year multiplied by
+35 a factor of ten (10). In no instance will the number of inspections exceed
+36 twice the number of permittees. Local law enforcement agencies are encour-
+37 aged to contract with the department to perform these required inspections.
+38 (4) Minors may assist with random, unannounced inspections, provided
+39 that minors under the age of eighteen (18) years must have the written con-
+40 sent of a parent or legal guardian. When assisting with these inspections,
+41 minors shall not provide false identification or make any false statement
+42 regarding their age.
+43 (5) Citizens may file a written complaint of noncompliance of this
+44 chapter with the department, or with a law enforcement agency. Permit hold-
+45 ers under 26 U.S.C. 5712 may file written complaints relating to delivery
+46 sales to the department or the attorney general's offices. Complaints shall
+47 be investigated and the proper enforcement actions taken.
+9
+1 (6) Within a reasonable time, not later than two (2) business days after
+2 an inspection has occurred, a representative of the business inspected shall
+3 be informed in writing of the results of the inspection.
+4 (7) The attorney general or his designee, or any person who holds a per-
+5 mit under 26 U.S.C. 5712, may bring an action in district court in Idaho to
+6 prevent or restrain violations of this chapter by any person or by any person
+7 controlling such person.
+8 SECTION 9. That Section 39-5712, Idaho Code, be, and the same is hereby
+9 repealed.
+10 SECTION 10. That Section 39-5717, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 39-5717. SHIPPING REQUIREMENTS -- TOBACCO PRODUCTS OR ELECTRONIC
+13 SMOKING DEVICES. Each permittee who mails or ships tobacco products or
+14 electronic smoking devices in connection with a delivery sale order shall
+15 include as part of the shipping documents a clear and conspicuous statement
+16 providing as follows:
+17 TOBACCO PRODUCTS OR ELECTRONIC SMOKING DEVICES: IDAHO LAW PRO-
+18 HIBITS SHIPPING TO INDIVIDUALS UNDER THE AGE OF TWENTY-ONE (21)
+19 YEARS AND REQUIRES THE PAYMENT OF TAXES PURSUANT TO CHAPTER 25, TI-
+20 TLE 63, IDAHO CODE. PERSONS VIOLATING THIS LAW MAY BE CIVILLY AND
+21 CRIMINALLY LIABLE.
+22 Anyone who delivers any such container distributes tobacco products or
+23 electronic smoking devices as defined in section 39-5702(5), Idaho Code, and
+24 is subject to the terms and requirements of this chapter. If a permittee tak-
+25 ing a delivery sale order also delivers the tobacco products or electronic
+26 smoking devices without using a third-party delivery service, the permittee
+27 shall comply with all the requirements of vendor-assisted sales as defined
+28 in section 39-5702(15) 39-5702(17), Idaho Code.
+29 SECTION 11. That Section 39-8421, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 39-8421. DEFINITIONS. As used in sections 39-8420 through 39-8425,
+32 Idaho Code:
+33 (1) The definitions set forth in section 39-8402, Idaho Code, of the
+34 Idaho tobacco master settlement agreement complementary act, and in this
+35 section, apply to sections 39-8420 through 39-8425, Idaho Code.
+36 (2) "Cigarette rolling machine" means any machine or device that has
+37 the capability to produce at least one hundred fifty (150) cigarettes in less
+38 than thirty (30) minutes.
+39 (3) "Cigarette rolling machine operator" means any person who owns or
+40 leases or otherwise has available for use a cigarette rolling machine and
+41 makes such a machine available for use by another person in a commercial
+42 setting in order to manufacture a cigarette. No person shall be deemed a
+43 cigarette rolling machine operator based solely upon that person's manufac-
+44 ture, sale, enabling, disabling, or repair of a cigarette rolling machine.
+45 (4) "Minor" has the same meaning as that term is defined in section
+46 39-5702(6) 39-5702(7), Idaho Code.
+10
+1 (5) "Person" means natural persons, corporations both foreign and do-
+2 mestic, trusts, partnerships both limited and general, incorporated or un-
+3 incorporated associations, companies, business entities, and any other le-
+4 gal entity, or any other group associated in fact although not a legal en-
+5 tity.
+6 (6) "Tobacco products" means any substance that contains tobacco,
+7 including but not limited to cigarettes, cigars, pipes, snuff, smoking to-
+8 bacco, tobacco papers, or smokeless tobacco.
+9 SECTION 12. That Section 56-227F, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 56-227F. PUBLIC ASSISTANCE BENEFIT CARDS -- PROHIBITED USES. (1) Any
+12 recipient of public assistance is prohibited from using public assistance
+13 benefit cards or cash obtained with public assistance benefit cards:
+14 (a) For the purpose of participating in any of the activities described
+15 under chapters 38 and 49, title 18, Idaho Code, or authorized pursuant
+16 to any state-tribal gaming compact under section 67-429A, Idaho Code;
+17 (b) For the purpose of pari-mutuel betting authorized under chapter 25,
+18 title 54, Idaho Code;
+19 (c) To purchase lottery tickets or shares authorized under chapter 74,
+20 title 67, Idaho Code;
+21 (d) For the purpose of participating in or purchasing tattoo, branding
+22 or body piercing services as defined in section 18-1523, Idaho Code;
+23 (e) To purchase cigarettes as defined in section 39-7802(d), Idaho
+24 Code, or tobacco products or electronic smoking devices as defined in
+25 section 39-5702(13) 39-5702(15), Idaho Code;
+26 (f) To purchase any items regulated under title 23, Idaho Code;
+27 (g) For the purpose of adult entertainment at venues with performances
+28 that contain sexually oriented material where minors under the age of
+29 eighteen (18) years are prohibited; or
+30 (h) For the purpose of purchasing or participating in any activities in
+31 any location listed in subsection (2) of this section.
+32 (2) The following businesses are required to comply with the provisions
+33 of this section:
+34 (a) Any establishment or business licensed under chapter 9, title 23,
+35 Idaho Code;
+36 (b) State liquor stores defined under section 23-902, Idaho Code, with
+37 the exception of special distributors as referenced in chapter 3, title
+38 23, Idaho Code;
+39 (c) Any business or agency that issues or underwrites bail bonds as de-
+40 fined in section 41-1038(3), Idaho Code;
+41 (d) Gambling establishments licensed under Idaho law;
+42 (e) Any business or establishment that offers tattoo, body piercing or
+43 branding services as defined in section 18-1523, Idaho Code;
+44 (f) Adult entertainment venues with performances that contain sexually
+45 oriented material where minors under the age of eighteen (18) years are
+46 prohibited; and
+47 (g) Any establishment where persons under the age of eighteen (18)
+48 years are not permitted.
+11
+1 (3) The department shall notify any business determined to be in viola-
+2 tion of the provisions of subsection (2) of this section and the licensing
+3 authority of any such business, if applicable, that such business has con-
+4 tinued to allow the use of a public assistance benefit card in violation of
+5 subsection (2) of this section. The department may require the Idaho quest
+6 electronic benefits transfer (EBT) card business identification number
+7 (BIN) be disabled at any business found to be in violation of subsection (2)
+8 of this section. Any business in violation of subsection (2) of this section
+9 may also be required to deny all public assistance cash transactions made
+10 with an Idaho quest EBT card at any automated teller machine (ATM) located
+11 in their establishment. All costs associated with disabling the BIN and ATM
+12 will be the responsibility of such business owner.
+13 (4) Only the recipient, an eligible member of the recipient's house-
+14 hold or the recipient's authorized representative may use a public assis-
+15 tance benefit card or the benefit, and such use shall only be for the re-
+16 spective benefit program purposes. The recipient shall not sell, attempt to
+17 sell, exchange or donate a public assistance benefit card or any benefits to
+18 any other person or entity.
+19 (5) A violation of subsection (1) or (4) of this section by a recipient
+20 constitutes a misdemeanor.
+21 (a) The department shall notify all recipients of public assistance
+22 benefit cards that any violation of subsection (1) or (4) of this sec-
+23 tion could result in legal proceedings and forfeiture of all cash public
+24 assistance.
+25 (b) Whenever the department has confirmed that a person has violated
+26 subsection (1) or (4) of this section, the department shall notify the
+27 person in writing that the violation could result in legal proceedings
+28 and forfeiture of all cash public assistance.
+29 (6) As used in this section, "public assistance" or "public assistance
+30 benefit" means benefits provided to a recipient pursuant to the temporary
+31 assistance for families in Idaho (TAFI) program on an Idaho quest EBT card
+32 account.
+33 (7) This section shall be enforced by the director of the department of
+34 health and welfare in cooperation with local law enforcement and prosecuting
+35 agencies.
+36 SECTION 13. The rules contained in IDAPA 16.07.25, Department of Health
+37 and Welfare, relating to Prevention of Minors' Access to Tobacco or Elec-
+38 tronic Smoking Device Products, shall be null, void, and of no force and ef-
+39 fect on and after July 1, 2025.
+40 SECTION 14. The rules contained in IDAPA 16.02.23, Department of Health
+41 and Welfare, relating to Indoor Smoking, shall be null, void, and of no force
+42 and effect on and after July 1, 2025.
+43 SECTION 15. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after
+45 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOTOPSADECSGD;AGSN3,IOC,TODETSADTOREADGSN3,IOC,RGTORSADR;AGCR5,TE3,IOC,BYTEANONWSN3,IOC,TOEHPSRGOFS;AGSN3,IOC,TODETDTOMETLC;AGSN3,I,TOREPSRGPGOFTOPSOCSGDER;AGSN3,I,TOREOELEADTOMEATLCGSN3,IOC,TOREPSRLPSFRVSOFP;AGSN3OC,TOREPSRGCTOFE;RGSN3,IOC,RGTOS;AGSN3,IOC,TOPEACTC;AGSN3,IOC,TOPEACER;AGSN5,IOC,TOPETCER;PGTTCNAERDINIA15SLBEN,V,ADOFNOFEA;PGTTCNAERSCDINI3SLBEN,V,ADOFNOFEADE;ADDNEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.D.Asudintsc)""msapcbgweanaessada,hsorlsatt)""msayiraaontotepcodprteseadseofacbsfroscdw:()teseoffdisiltotecnofs,or()nopnurteaeofte()ysispdetaspdinsn2,IoC,asitpstoe,msads,adalpcesaecyphsswgpsttitisasgfyadttpsurte()ysofaeaentp.""dsntiyaawnar)"rwnar"msabrt)Ispyidfmalpsoftertbysrtocgw]
+[DELETED: )Hsaseoepceettisntsdwht)Dsntheaywsttcnbeodordscttoter,erdyorthaypcp,igl,h,orpstttepcu.Tebybecdthmsntaefrpcu;a)Dsntrertpstopsthtebrorarpcpecdtotebrtoasrsorosorasofter)"ga"msapeofbswhatltto(glsonispsttisodfrpce)"lf"msayr,h,orbgtsudfrinorisseofi,igc,l,a,g,l,sya,r,h,rna,adbsofaypeorp,k,eys,jrhhori,hhs,vls,c,oru)()""msayp,p,ldl,a,cnornteyttesoe(rmep,igtel,eeadjlbfseg;ayc,c,orayorplsnoes;orayorseutofseorllg)""mstesebnafradcgbgsdonalssataytebysdw,w,orsrs,ntigd,ttedfmtefrtotec)"lseoff"msoysgfdttislkadnyhsf)()"rsgm"msanirfyldatfy()ftfmaypcstorhyadhgnolntn()rle)"ninc"or""msayp,oratohp,wouyc,g,ordsteanapcp.Tetmdsntmnteoroftepsshoruyg,c,ordsteantepcp)()"cm"msalmsontotep)()"cp"msayedirpeofb,b,flseororsdarpyorpyodadwrodfrptornowhpsntedattepcpehegladrsorwhtepcusi)B,o,ssorr)Wgrsfrmsoftnorcnc)R)T,a,msoratg)H,l,irsgm,irssath,oratprt,adwnty(tofpcesadestoshf]
+[DELETED: )Pcorpeeyorsyslbsadelfsadwnty()ftofesadefshbsorf)Rls,gyssora)B,hrssorl)Ssorfsf)Cnasofngh,r,h,m,bdatlgfsadorsrlgf,igl,h,rsadordddgasadrsofayoft)Aycdcefysttoleurtelso,igteodinpeh,wnaycdcrurttleisp)Pcmsofmst,igv,t,a,b,b,adlswnpsa.Tetmdsntiepenlv;a)Aypcpentedbysn3,IoC)()"dbgoro"msayedieorpnofapeo,ldorrdbyays,cyolg,orbyayaysdbyano,oycsorgsf,fsddfmtecnoff,mlorcyt)()""msanegeti,btndt,ces,c,c,adpeadpcs,whgsorosfrsefdtotep,g,ore,aswlasksadcgfsinwhfdispdontepsfrsge.Tetm""slieabraawnar)()""istepnofayldtoptinayf)()"ga"msaddaainwhsgi)"op"msaysettcst,igc,c,p,s,sgt,toprsst.Itispdttaldc,c,oecstN2.TtSn3,IoC,b,adteseishN3.TtCr5,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.PGOFS.Ssslbeays,c,lewhlsatltoe()ihinh,udpdatahtadlneysnadrdbypserwntepda.Ssmycninshasteilsgadnosgssadrstotsc]
+[DELETED: N4.TtSn3,IoC,b,adteseishdtordasf.D.Tetsudintscraedda)""msayc,p,f,sep,a,c,o,ororlle,oreoftefge)"ys"mstodetopsoregdstoacrinasewee)Teilssteorfrshsebymsofcorormdofvet,datrvrn,igteitadoroes,o,ortem;o)Tetopsorecsgdsaeddbeoftemsoradys)"ys"msaypnwoisedintecldyofl,psororc)""mstesedtofhhadweosdyadr)""mstog,d,s,ortog,ort,ortoslorceaypntodoteseorheaypntotes)""mstestaswetooregdepsaesdorteumrelrfrrswosltoorecsgpseyvat)()""msapnurte()ysofa)()"tp"msapelnwersfmteseofacbsfroecnctltfept()oftlr,orwepsasaepyo,p,p,orsyo,isetfmisadbyam,ifmsaendintelnadshpnispdcyonaleed)()""msaptidbytedtfrteseonoftopsorecsgd)"te"msaseordymdudbytetosltoorecsgdep,iys,dys,addts)()""mstehrofavdptfrteseonoftopsorecsgd)()"ci"mss,d,t,p,p,nlororetgsl,incdormyc,inalcsbphadadeofb,oravdp)()",udi"msaninofrlosbyalwetayorbyted,whorwtteaeofam,tomrceoftsc]
+[DELETED: )()""mstepnwopyssordopsorecsgd)()"optorecsgd"m)Aysec,meo,orddfmtrnettisidfrhncnorislytec,wri,a,oridbyayo,igbtntldtoc,c,p,sgorcgt,s,top,orsst)Ayecsgdettmybeudtodradoravdsetotepnigfed,igbtntldtoaneccnecc,anecp,avep,oranech,orayc,p,orayofsh,orayseidtobeadorvgueofted,wrornttesec,orayhdorlddeidtobeudf;o)Ayc,p,orasofatopranecsgd,wrornttycntoorn,igbtntldtof,r,btorhpw,adp,wrm,m,orsdasanecc,ecc,ech,orvep,orurayotneord)Tetm"optorecsgd"dsned,d,orcsofpsadfrsyteUdSsfdaddganastetsaeddinteflf,d,adcca)()"gm"msaym,e,orordewht,unteinoft,myorayomofp,dstopsorecsgd)()"ds"msayseordnihtecrhsnoastoteptetthteaftes)()"tap"msabstthsfdtoontorabsweptissdorrN5.TtSn3,IoC,b,adteseishdtordasf.PGOFTOPSORECSGD.()Itslbeultoslordeorortsorecsgdsfrseordnatrrtopstopsorecsgdswhteinofsgatrlwthgftodatoprecsgdeptfmted,whslbetyrltoptorecsgdeptorl.Pdh,tssnslntbeddtorerormsreoresw,intec]
+[DELETED: ftre,skssadrhtopsorecsgdsatapspeofbstoonap)Tedtslartepgoftoprecsgdersadslbeadtoeewhtsc.Tedtmypersincewhcr5,te6,IoC,rgpgooptorecsgder,i,aec,eet,adetpsurt)Psslbeidayfrehptbslntoeecewhtersoftsc.Acyosc,rsadbyted,aeserytsc,adayormsddnyslbephehpti)Aseptmtbeodfrehpeofbsadietoarp,b,orl)Psmydyteptinaptl.Teatslstoe()ormeptesadmetepeunr)Apemydyasninehlnwnapeoswetopsorecsgdsaesdo.Asnmybecyvetotecradtesrals:"ELWPSTESEOFTOPSOREGDSTOPSURTEAEOFTE()Y.PFOER.AEWOSSORDSTOPSOREGDSTOAPNURTEAEOFTE()YSISSOSTFSADP.PSURTEAEOFTE()YESTTOFSADP)Psaeretoeeesastotersoftscradrnfssdbyeheesgteeeusshr)Itslbeulfrtepetoaweswoastoslordetopsorecsgdtaspdintss.Eswoaemsmyptntslordetopsorecsgdnteceofe,frshdsassgssorcstoc'v,adeswoaeen()yoty()ysofaemyslordetopsorecsgdsinteceadseoftre)Aptslbecdwntepecsteb,nrsstoorecsgdep,mstoadtpll,orssteb)Aptslberdwnitisddttaptwyodtoadpsonanegp)AlpseeayatmtonDr31usr.Tedtslmlneofrlfrpsatly()dsprtoeN6.TtSn3,IoC,b,adteseishdtordasf]
+[DELETED: .VDS.()Itslbeultosloetopsorecsgdsbyaymsonvdsswetecrhsnoastoteptthteaeoftes)OnadarJy1,2,itItslbeultosloetopsorecsgdsfmvgmsorsed)Sswhtopsorecsgdscgatltsept()oftlmeaeemrgvds,ifmsaentadintesdshpnispdcyonaleedN7.TtSn3,IoC,b,adteseishdtordasf.CLPSFRVSOFP.()Aypofstocywhayptoftscrorayctseorlllworreorrnrgteseordnoftsorecsgdsslbesttoaclpyadintssnorhetrpts,pttocewhtecdcepsofteIoaepea,cr5,te6,IoC,orb)Ifasrwoisntapevssn3,I,adssordstopsorecsgdstoam,tntesrslbefdoehdds()Inteceofaftv,tepeslbendigofpstobeldfrfrv)Inteceofasdv,tepeslbefdtdds()adslbendinwgofpstobdfrfrv.Fravnofsn3,I,tepeslntbefdiftepecnswttatgpmwsinpefrteeeadtttepehsafdbytteeonfesgttteeeustoptorecsgdelsdgwhmsaeulpeoftopsorecsgd,bepeslbendinwgofpstobeldfrarv.Ifnoshtgisinp,tepeslbdtohdds()Inteceofatdvninato()yrp,tepeslbefdtohdds()adteptmybesdfruptosn()d.Iftevnisbyane,attel,wowsidinaypscnfrv,teslbefdfrhdds(.Eetdetpsbytep,asddbytedlbeamgfrindgpts.Eeogfsslbesdtotedtwntn()dftedeofv.Toptorecsgdersmtrealtopsorecsgdsflasaetoorvetotepcweteptiss]
+[DELETED: )Inteceoffr()ormevswnato()yrp,tepeslbefdfrhdds()adteplberdulshtetttepedsaneetgpntoted,btinnoceslternbrlstnty()d.Toptorecsgdersmtrealtopsorecsgdsfmalasaetoorvetotepcwetepsr)Almscdfrvspttotssnserdtotepnofm'astotopsorecsgdsfdcdinsn3,IoC)Alfsslbepdinflprtorlofaptantn()dsoftedeoftevN8.TtSn3,IoC,b,adteseishdtordasf.CTOFETA.()Itisteitoftettlweta,teayg,adtedtsleetscradrspdpttnamrttcnrybeedtosyreteettowhtopsadecsgdsaesdodtom)Lwetasmyctr,udisatlswetopsorecsgdsadorddtoeecewhtsc.Acyofalcsidurtscrslbesdtoted)Tedtslctatltoe()r,unpryratallswetopsoregdsaesdorddatrltoeecewsc.Tedtslctisfrmswtteaeofam.Tedtslcsfralorpswhteaeofam.E,tedtslctr,udiseltenrofpsonteltdyoftecryrmdbevnpererdfrtepsyrmdbfroftn(.Innoiewltenrofiseetenrofpllwetasaeedtoctwhtedttopmterdi)Msmyatwhr,udi,ptmsurteaeofen()ysmthetewnctofaptorllg.Wnagwhteisslntpefeinormeayfesgtra)Csmyfeawnctofneoftrwhted,orwhalweta.Pthsur26U.52myfewncsrgtodstotedtorteaygso.Csseidadtepretast]
+[DELETED: )Wnaret,ntlrtnto()bsdsaninhso,areoftebsidseidinwgoftersoftei)Teayglorhsd,oraypnwohsaptur26U.5,mybgananindtctinIottorrnvsoftscrbyaypnorbyaypgshpN9.TtSn3,IoC,b,adteseishN1.TtSn3,IoC,b,adteseishdtordasf.SGRS--TOPSOREGD.EhpewomsorsstopsocsgdsincnwhadyseorseasptoftesgdsacradcssgasfOPSORECSGD:IOLWPSSGTOISURTEAEOFTE(SADRSTEPTOFTSPTTOCR2,TE6,IOC.PSVGTSLWMYBECYAYLewodsayshcrdstopsocsgdsasddinsn3,IoC,assttotetsadrsoftsc.Ifapetgadyseoraodstetopsoregdswtugatydys,teplcywhaltersofvdssasdnsn3)3,IoCN1.TtSn3,IoC,b,adteseishdtordasf.D.Asudinss30th3oC)Tedsstfhinsn3,IoC,oftotomrstatcya,adint,aytoss30th3,IoC)"ergm"msaymeordetthecytopeatltoehdfy()csinlnty()m)"ergmeo"msaypnwoososoroehsaefrueacergmeasshameaefruebyarpninacginortomeac.Nopnslbeddergmeorbdsyunttpsm,s,e,d,orrrofacergm)""hstesemgastttmisddins)3,IoC]
+[DELETED: )""msnlp,csbhfnadd,t,psbhldadg,idoruda,c,bse,adayorlle,orayorgpadinftahntalle)"op"msaysettcstgbtntldtoc,c,p,s,sgt,top,orsstN1.TtSn5,IoC,b,adteseishdtordasf.PCAEBTCS--PDU.()Atofpcaeispdfmugpcatcsorchodwhpcaebtc)Frtepeofpginayofteasdrcs38ad4,te1,IoC,oradpoayslggctursn6,IoC)Frtepeofplbgadurcr2e5,IoC)Topelytsorssadurcr7e6,IoC)Frtepeofpginorpgt,brbypgssasddinsn1,IoC)Topecsasddinsn3,I,ortopsorecsgdsasddin3)3,IoC)Topeayisrdurte2,IoC)Frtepeofatetatvswhptcnsyodmlwemsurteaeon()ysaep;o)Frtepeofpgorpginayasiylnldinsn()oftss)Tefgbsaerdtocywhtepftss)Ayetorbsldurcr9,te2oC)Selrssddursn2,IoC,weenofsldsasrdincr3,t,IoC)Aybsorayttisorusblbsasddinsn4,IoC)GgesldurIol)Aybsoretttost,bypgogssasddinsn1,IoC)Atetvswhpsttcnsdmlwemsurteaeofen()ysa;a)Ayetwepsurteaeofen(saentp]
+[DELETED: )Tedtslnyaybsddtobeinvnoftepsofsn()oftssnadtelyofayshb,ifa,ttshbshscdtoawteueofapcaebtcdinvnon()oftss.TedtmyreteIoqcbstr()cdbsinn)beddataybsfdtobeinvnofsn(ftss.Aybsinvnofsn()oftssyaoberdtodyalpcaechtsmhanIoqtETcdatayadtrme()lntre.AlcsadwhdgteBNadAlbeteryofshbso)Oyter,aneemroftershdortersadremyueapcaebtcdorteb,adshuesloybefrterebtpmp.Tertslnts,att,eeordeapcaebtcdoraybstyorpnore)Avnofsn()or()oftssnbyarsam)Tedtslnyalrsofpcatcsttayvnofsn()or()oftssncdrtinllpsadfeofalchp)Wrtedthscdttapnhsvn()or()oftss,tedtslnytninwgtttevncdrtinllpdfeofalchpca)Asudintss,"ca"or"ca"msbspdtoartpttotetefrfsinIo()pmonanIoqtETc)TssnslbeedbytedroftedtohadweincnwhlllwetadpN1.TerscdinIA1,DtofHdW,rgtoPnofM'AstoToorEcSgDeP,slben,v,adofnofeadetonadarJy1,2N1.TerscdinIA1,DtofHdW,rgtoIrS,slben,v,adofnofdetonadarJy1,2N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 133
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO TOBACCO PRODUCTS AND ELECTRONIC SMOKING DEVICES; AMENDING SEC-
+3 TION 39-5502, IDAHO CODE, TO DEFINE TERMS AND TO REVISE A DEFINITION;
+4 REPEALING SECTION 39-5508, IDAHO CODE, RELATING TO RULES AND REGULA-
+5 TIONS; AMENDING CHAPTER 55, TITLE 39, IDAHO CODE, BY THE ADDITION OF
+6 A NEW SECTION 39-5508, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+7 POSTING OF SIGNS; AMENDING SECTION 39-5702, IDAHO CODE, TO DEFINE TERMS
+8 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 39-5704, IDAHO
+9 CODE, TO REVISE PROVISIONS REGARDING PERMITTING OF TOBACCO PRODUCTS OR
+10 ELECTRONIC SMOKING DEVICE RETAILERS; AMENDING SECTION 39-5706, IDAHO
+11 CODE, TO REMOVE OBSOLETE LANGUAGE AND TO MAKE A TECHNICAL CORRECTION;
+12 AMENDING SECTION 39-5708, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+13 CIVIL PENALTIES FOR VIOLATIONS OF PERMIT; AMENDING SECTION 39-5710,
+14 IDAHO CODE, TO REVISE PROVISIONS REGARDING CONDUCT OF ENFORCEMENT
+15 ACTIONS; REPEALING SECTION 39-5712, IDAHO CODE, RELATING TO SEVERABIL-
+16 ITY; AMENDING SECTION 39-5717, IDAHO CODE, TO PROVIDE A CORRECT CODE
+17 REFERENCE; AMENDING SECTION 39-8421, IDAHO CODE, TO PROVIDE A CORRECT
+18 CODE REFERENCE; AMENDING SECTION 56-227F, IDAHO CODE, TO PROVIDE A
+19 CORRECT CODE REFERENCE; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES
+20 CONTAINED IN IDAPA 16.07.25 SHALL BE NULL, VOID, AND OF NO FORCE AND
+21 EFFECT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA
+22 16.02.23 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING
+23 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+24 Be It Enacted by the Legislature of the State of Idaho:
+25 SECTION 1. That Section 39-5502, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 39-5502. DEFINITIONS. As used in this chapter:
+28 (1) "Auditorium" means a public building where an audience sits and any
+29 corridors, hallways or lobbies adjacent thereto.
+30 (2) "Bar" means any indoor area open to the public operated primarily
+31 for the sale and service of alcoholic beverages for on-premises consumption
+32 and where: (a) the service of food is incidental to the consumption of such
+33 beverages, or (b) no person under the age of twenty-one (21) years is permit-
+34 ted except as provided in section 23-943, Idaho Code, as it pertains to em-
+35 ployees, musicians and singers, and all public entrances are clearly posted
+36 with signs warning patrons that it is a smoking facility and that persons un-
+37 der twenty-one (21) years of age are not permitted. "Bar" does not include
+38 any area within a restaurant.
+39 (3) "Bar within a restaurant" means a bar that:
+40 (a) Is physically isolated from all parts of the restaurant by solid
+41 floor to ceiling walls;
+
+2
+1 (b) Has a separate outside public entrance that is not shared with the
+2 restaurant;
+3 (c) Does not have any windows that can be opened or doorways connecting
+4 it to the restaurant, either directly or through any public place, in-
+5 cluding lobbies, hallways, or passageways that the public uses. The bar
+6 may be connected through means not available for public use; and
+7 (d) Does not require restaurant patrons to pass through the bar or any
+8 indoor public place connected to the bar to access restrooms or other
+9 facilities or accommodations of the restaurant.
+10 (4) "Bowling alley" means a place of business with at least two (2)
+11 bowling lanes on its premises that is operated for public entertainment.
+12 (5) "Educational facility" means any room, hall, or building that
+13 is used for instruction or is supportive of instruction, including class-
+14 rooms, libraries, auditoriums, gymnasiums, lounges, study areas, re-
+15 strooms, halls, registration areas, and bookstores of any private or public
+16 preschool, kindergarten, elementary school, junior high or intermediate
+17 school, high school, vocational school, college, or university.
+18 (3) (6) "Employer" means any person, partnership, limited liability
+19 company, association, corporation or nonprofit entity that employs one (1)
+20 or more persons, including the legislative, executive and judicial branches
+21 of state government; any county, city, or any other political subdivision of
+22 the state; or any other separate unit of state or local government.
+23 (7) "Enclosed" means the space between a floor and ceiling being sur-
+24 rounded on all sides at any time by solid walls, windows, or similar struc-
+25 tures, not including doors, that extend from the floor to the ceiling.
+26 (8) "Incidental service of food" means only serving food that is low-
+27 risk and non-potentially hazardous food.
+28 (4) (9) "Indoor shopping mall" means an indoor facility located at
+29 least fifty (50) feet from any public street or highway and housing no less
+30 than ten (10) retail establishments.
+31 (10) "Person in charge" or "proprietor" means any person, or agent of
+32 such person, who ultimately controls, governs, or directs the activities
+33 within a public place. The term does not mean the owner of the property
+34 unless such owner ultimately governs, controls, or directs the activities
+35 within the public place.
+36 (5) (11) "Public meeting" means all meetings open to the public.
+37 (6) (12) "Public place" means any enclosed indoor place of business,
+38 commerce, banking, financial service or other service-related activity,
+39 whether publicly or privately owned and whether operated for profit or not,
+40 to which persons not employed at the public place have general and regular
+41 access or which the public uses including:
+42 (a) Buildings, offices, shops or restrooms;
+43 (b) Waiting rooms for means of transportation or common carriers;
+44 (c) Restaurants;
+45 (d) Theaters, auditoriums, museums or art galleries;
+46 (e) Hospitals, libraries, indoor shopping malls, indoor sports arenas,
+47 concert halls, or airport passenger terminals, and within twenty (20)
+48 feet of public entrances and exits to such facilities;
+
+3
+1 (f) Public or private elementary or secondary school buildings and ed-
+2 ucational facilities and within twenty (20) feet of entrances and exits
+3 of such buildings or facilities;
+4 (g) Retail stores, grocery stores or arcades;
+5 (h) Barbershops, hair salons or laundromats;
+6 (i) Sports or fitness facilities;
+7 (j) Common areas of nursing homes, resorts, hotels, motels, bed and
+8 breakfast lodging facilities and other similar lodging facilities, in-
+9 cluding lobbies, hallways, restaurants and other designated dining ar-
+10 eas and restrooms of any of these;
+11 (k) Any child care facility subject to licensure under the laws of
+12 Idaho, including those operated in private homes, when any child cared
+13 for under that license is present;
+14 (l) Public means of mass transportation, including vans, trains,
+15 taxicabs, airplanes, buses, boats, and limousines when passengers are
+16 present. The term does not include private noncommercial vehicles; and
+17 (m) Any public place not exempted by section 39-5503, Idaho Code.
+18 (7) (13) "Publicly-owned building or office" means any enclosed indoor
+19 place or portion of a place owned, leased or rented by any state, county or
+20 municipal government, or by any agency supported by appropriation of, or
+21 by contracts or grants from, funds derived from the collection of federal,
+22 state, municipal or county taxes.
+23 (8) (14) "Restaurant" means an eating establishment including, but not
+24 limited to, coffee shops, cafes, cafeterias, and private and public school
+25 cafeterias, which gives or offers for sale food to the public, guests, or em-
+26 ployees, as well as kitchens and catering facilities in which food is pre-
+27 pared on the premises for serving elsewhere. The term "restaurant" shall in-
+28 clude a bar area within a restaurant.
+29 (9) (15) "Smoking" includes the possession of any lighted tobacco prod-
+30 uct in any form.
+31 (10) (16) "Smoking area" means a designated area in which smoking is
+32 permitted.
+33 (17) "Tobacco products" means any substance that contains tobacco, in-
+34 cluding cigarettes, cigars, pipes, snuff, smoking tobacco, tobacco paper,
+35 or smokeless tobacco. It is presumed that a lighted cigarette, cigar, or
+36 pipe contains tobacco.
+37 SECTION 2. That Section 39-5508, Idaho Code, be, and the same is hereby
+38 repealed.
+39 SECTION 3. That Chapter 55, Title 39, Idaho Code, be, and the same is
+40 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+41 ignated as Section 39-5508, Idaho Code, and to read as follows:
+42 39-5508. POSTING OF SIGNS. Signs shall be appropriately sized, con-
+43 spicuous, legible with letters at least one (1) inch in height, unobscured,
+44 and placed at a height and location easily seen and read by persons entering
+45 or within the posted area. Signs may contain information such as the inter-
+46 national smoking and no smoking symbols and references to this chapter.
+
+4
+1 SECTION 4. That Section 39-5702, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-5702. DEFINITIONS. The terms used in this chapter are defined as
+4 follows:
+5 (1) "Business" means any company, partnership, firm, sole proprietor-
+6 ship, association, corporation, organization, or other legal entity, or a
+7 representative of the foregoing entities.
+8 (2) "Delivery sale" means to distribute tobacco products or electronic
+9 smoking devices to a consumer in a state where either:
+10 (a) The individual submits the order for such sale by means of a
+11 telephonic or other method of voice transmission, data transfer via
+12 computer networks, including the internet and other online services, or
+13 facsimile, or the mails; or
+14 (b) The tobacco products or electronic smoking devices are delivered by
+15 use of the mails or a delivery service.
+16 (3) "Delivery service" means any person who is engaged in the commer-
+17 cial delivery of letters, packages or other containers.
+18 (4) "Department" means the state department of health and welfare or
+19 its duly authorized representative.
+20 (5) "Distribute" means to give, deliver, sell, offer to give, offer to
+21 deliver, offer to sell or cause any person to do the same or hire any person to
+22 do the same.
+23 (6) "Location" means the street address where tobacco or electronic
+24 smoking device products are sold or the uniform resource locator for re-
+25 tailers who sell tobacco or electronic smoking products exclusively via the
+26 internet.
+27 (6) (7) "Minor" means a person under twenty-one (21) years of age.
+28 (7) (8) "Minor-exempt permit" means a permittee location whose rev-
+29 enues from the sale of alcoholic beverages for on-site consumption comprises
+30 at least fifty-five percent (55%) of total revenues, or whose products and
+31 services are primarily obscene, pornographic, profane, or sexually ori-
+32 ented, is exempt from inspections assisted by a minor, if minors are not
+33 allowed in the location and such prohibition is posted clearly on all en-
+34 trance doors.
+35 (8) (9) "Permit" means a permit issued by the department for the sale or
+36 distribution of tobacco products or electronic smoking devices.
+37 (10) "Permit endorsement" means a sale or delivery method used by the
+38 permittee to sell tobacco or electronic smoking device products, including
+39 delivery sales, delivery service, and direct sales.
+40 (9) (11) "Permittee" means the holder of a valid permit for the sale or
+41 distribution of tobacco products or electronic smoking devices.
+42 (10) (12) "Photographic identification" means state, district, terri-
+43 torial, possession, provincial, national or other equivalent government
+44 driver's license, identification card or military card, in all cases bearing
+45 a photograph and a date of birth, or a valid passport.
+46 (11) (13) "Random, unannounced inspection" means an inspection of re-
+47 tail outlets by a law enforcement agency or by the department, with or with-
+48 out the assistance of a minor, to monitor compliance of this chapter.
+
+5
+1 (12) (14) "Seller" means the person who physically sells or distributes
+2 tobacco products or electronic smoking devices.
+3 (13) (15)(a) "Tobacco product or electronic smoking device" means:
+4 (i) Any substance containing, made of, or derived from tobacco
+5 or nicotine that is intended for human consumption or is likely to
+6 be consumed, whether inhaled, absorbed, or ingested by any other
+7 means, including but not limited to cigarettes, cigars, pipes,
+8 snuff, smoking or chewing tobacco, snus, tobacco papers, or smoke-
+9 less tobacco;
+10 (ii) Any electronic smoking device that may be used to deliver an
+11 aerosolized or a vaporized substance to the person inhaling from
+12 the device, including but not limited to an electronic cigarette,
+13 an electronic cigar, an electronic pipe, a vape pen, or an elec-
+14 tronic hookah, or any component, part, or accessory of such a
+15 device, or any substance intended to be aerosolized or vaporized
+16 during use of the device, whether or not the substance contains
+17 nicotine, or any heated or lighted device intended to be used for
+18 inhalation; or
+19 (iii) Any components, parts, or accessories of a tobacco product
+20 or an electronic smoking device, whether or not they contain to-
+21 bacco or nicotine, including but not limited to filters, rolling
+22 papers, blunt or hemp wraps, and pipes, whether manufactured,
+23 distributed, marketed, or sold as an electronic cigarette, elec-
+24 tronic cigar, electronic hookah, or vape pen, or under any other
+25 product name or descriptor.
+26 (b) The term "tobacco product or electronic smoking device" does not
+27 include drugs, devices, or combinations of products authorized for sale
+28 by the United States food and drug administration as those terms are de-
+29 fined in the federal food, drug, and cosmetic act.
+30 (14) (16) "Vending machine" means any mechanical, electronic, or other
+31 similar device which that, upon the insertion of tokens, money or any other
+32 form of payment, dispenses tobacco products or electronic smoking devices.
+33 (15) (17) "Vendor-assisted sales" means any sale or distribution in
+34 which the customer has no access to the product except through the assistance
+35 of the seller.
+36 (16) (18) "Without a permit" means a business that has failed to obtain a
+37 permit or a business whose permit is suspended or revoked.
+38 SECTION 5. That Section 39-5704, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 39-5704. PERMITTING OF TOBACCO PRODUCTS OR ELECTRONIC SMOKING DEVICES
+41 RETAILERS. (1) It shall be unlawful to sell or distribute or offer tobacco
+42 products or electronic smoking devices for sale or distribution at retail
+43 or to possess tobacco products or electronic smoking devices with the in-
+44 tention of selling at retail without having first obtained a tobacco product
+45 or electronic smoking device permit from the department, which shall be the
+46 only retail tobacco product or electronic smoking device permit or license
+47 required. Provided however, this section shall not be deemed to require a
+48 wholesaler or manufacturer's representative or employees who, in the course
+
+6
+1 of their employment, stock shelves and replenish tobacco products or elec-
+2 tronic smoking devices at a permittee's place of business to obtain a permit.
+3 (2) The department shall administer the permitting of tobacco product
+4 or electronic smoking device retailers and shall be authorized to ensure
+5 compliance with this chapter. The department may promulgate rules in com-
+6 pliance with chapter 52, title 67, Idaho Code, regarding permitting of
+7 tobacco product or electronic smoking device retailers, inspections, and
+8 compliance checks, effective training, and employment practices under this
+9 chapter.
+10 (3) Permits shall be issued annually for each permanent business loca-
+11 tion to ensure compliance with the requirements of this chapter. A copy of
+12 this chapter, rules adopted by the department, appropriate signage required
+13 by this chapter, and any other materials deemed necessary shall be provided
+14 with each permit issued.
+15 (4) A separate permit must be obtained for each place of business and is
+16 nontransferable to another person, business, or location.
+17 (5) Permittees may display the permit in a prominent location. The ap-
+18 plicant shall select one (1) or more permit endorsements and make the permit
+19 available upon request.
+20 (6) A permittee may display a sign in each location within a place of
+21 business where tobacco products or electronic smoking devices are sold or
+22 distributed. A sign may be clearly visible to the customer and the seller and
+23 shall state: "STATE LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS OR ELECTRONIC
+24 SMOKING DEVICES TO PERSONS UNDER THE AGE OF TWENTY-ONE (21) YEARS. PROOF OF
+25 AGE REQUIRED. ANYONE WHO SELLS OR DISTRIBUTES TOBACCO PRODUCTS OR ELECTRONIC
+26 SMOKING DEVICES TO A PERSON UNDER THE AGE OF TWENTY-ONE (21) YEARS IS SUBJECT
+27 TO STRICT FINES AND PENALTIES. PERSONS UNDER THE AGE OF TWENTY-ONE (21) YEARS
+28 ARE SUBJECT TO FINES AND PENALTIES."
+29 (7) Permittees are responsible to educate employees as to the require-
+30 ments of this chapter and retain forms signed by each employee stating that
+31 the employee understands such requirements.
+32 (8) It shall be unlawful for the permittee to allow employees who are
+33 minors to sell or distribute tobacco products or electronic smoking devices,
+34 except as provided in this subsection. Employees who are minors may possess
+35 but not sell or distribute tobacco products or electronic smoking devices
+36 in the course of employment, for such duties as stocking shelves or carrying
+37 purchases to customers' vehicles, and employees who are eighteen (18) years
+38 to twenty (20) years of age may sell or distribute tobacco products or elec-
+39 tronic smoking devices in the course and scope of their employment.
+40 (9) A permit shall be closed when the permittee closes the business, no
+41 longer sells tobacco or electronic smoking device products, moves to a dif-
+42 ferent physical location, or sells the business.
+43 (10) A permit shall be revoked when it is determined that a permit was
+44 fraudulently obtained to avoid penalties on an existing permit.
+45 (11) All permits expire annually at midnight on December 31 unless re-
+46 newed. The department shall mail notice of renewal for permits at least
+47 ninety (90) days prior to expiration.
+48 SECTION 6. That Section 39-5706, Idaho Code, be, and the same is hereby
+49 amended to read as follows:
+
+7
+1 39-5706. VENDOR-ASSISTED SALES. (1) It shall be unlawful to sell or
+2 distribute tobacco products or electronic smoking devices by any means other
+3 than vendor-assisted sales where the customer has no access to the product
+4 except through the assistance of the seller.
+5 (2) On and after January 1, 2020, it It shall be unlawful to sell or
+6 distribute tobacco products or electronic smoking devices from vending ma-
+7 chines or self-service displays.
+8 (3) Stores with tobacco products or electronic smoking devices com-
+9 prising at least seventy-five percent (75%) of total merchandise are exempt
+10 from requiring vendor-assisted sales, if minors are not allowed in the store
+11 and such prohibition is posted clearly on all entrance doors.
+12 SECTION 7. That Section 39-5708, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-5708. CIVIL PENALTIES FOR VIOLATIONS OF PERMIT. (1) Any permittee
+15 who fails to comply with any part of this chapter or any current state or lo-
+16 cal law or rule or regulation regarding the sale or distribution of tobacco
+17 products or electronic smoking devices shall be subject to a civil penalty as
+18 provided in this section or have their permit suspended, pursuant to compli-
+19 ance with the contested case provisions of the Idaho administrative proce-
+20 dure act, chapter 52, title 67, Idaho Code, or both.
+21 (2) If a seller who is not a permittee violates section 39-5705, Idaho
+22 Code, and sells or distributes tobacco products or electronic smoking de-
+23 vices to a minor, then the seller shall be fined one hundred dollars ($100).
+24 (3) In the case of a first violation, the permittee shall be notified in
+25 writing of penalties to be levied for further violations.
+26 (4) In the case of a second violation, the permittee shall be fined two
+27 hundred dollars ($200) and shall be notified in writing of penalties to be
+28 levied for further violations. For a violation of section 39-5705, Idaho
+29 Code, the permittee shall not be fined if the permittee can show that a train-
+30 ing program was in place for the employee and that the permittee has a form
+31 signed by that employee on file stating that the employee understands the
+32 tobacco product or electronic smoking device laws dealing with minors and
+33 the unlawful purchase of tobacco products or electronic smoking devices, but
+34 the permittee shall be notified in writing of penalties to be levied for any
+35 further violations. If no such training is in place, the permittee shall be
+36 fined two hundred dollars ($200).
+37 (5) In the case of a third violation in a two (2) year period, the per-
+38 mittee shall be fined two hundred dollars ($200) and the permit may be sus-
+39 pended for up to seven (7) days. If the violation is by an employee, at the
+40 same location, who was involved in any previous citation for violation, the
+41 permittee shall be fined four hundred dollars ($400). Effective training
+42 and employment practices by the permittee, as determined by the department,
+43 shall be a mitigating factor in determining permit suspension. Evidence of
+44 mitigating factors shall be submitted to the department within ten (10) days
+45 of the date of violation. Tobacco product or electronic smoking device re-
+46 tailers must remove all tobacco products or electronic smoking devices from
+47 all areas accessible to or visible to the public while the permit is sus-
+48 pended.
+
+8
+1 (6) In the case of four (4) or more violations within a two (2) year pe-
+2 riod, the permittee shall be fined four hundred dollars ($400) and the permit
+3 shall be revoked until such time that the permittee demonstrates an effec-
+4 tive training plan to the department, but in no case shall the revocation be
+5 for less than thirty (30) days. Tobacco product or electronic smoking de-
+6 vice retailers must remove all tobacco products or electronic smoking de-
+7 vices from all areas accessible to or visible to the public while the permit
+8 is revoked.
+9 (7) All moneys collected for violations pursuant to this section shall
+10 be remitted to the prevention of minors' access to tobacco products or elec-
+11 tronic smoking devices fund created in section 39-5711, Idaho Code.
+12 (8) All fines shall be paid in full prior to renewal of a permit and
+13 within ten (10) days of the date of the violation.
+14 SECTION 8. That Section 39-5710, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 39-5710. CONDUCT OF ENFORCEMENT ACTIONS. (1) It is the intent of the
+17 legislature that law enforcement agencies, the attorney general, and the de-
+18 partment shall enforce this chapter and rules promulgated pursuant thereto
+19 in a manner that can reasonably be expected to significantly reduce the ex-
+20 tent to which tobacco products and electronic smoking devices are sold or
+21 distributed to minors.
+22 (2) Law enforcement agencies may conduct random, unannounced inspec-
+23 tions at locations where tobacco products or electronic smoking devices are
+24 sold or distributed to ensure compliance with this chapter. A copy of all ci-
+25 tations issued under this chapter shall be submitted to the department.
+26 (3) The department shall conduct at least one (1) random, unannounced
+27 inspection per year at all locations where tobacco products or electronic
+28 smoking devices are sold or distributed at retail to ensure compliance with
+29 this chapter. The department shall conduct inspections for minor-exempt
+30 permittees without the assistance of a minor. The department shall conduct
+31 inspections for all other permittees with the assistance of a minor. Each
+32 year, the department shall conduct random, unannounced inspections equal to
+33 the number of permittees on the last day of the calendar year multiplied by
+34 the violation percentage rate reported for the previous year multiplied by
+35 a factor of ten (10). In no instance will the number of inspections exceed
+36 twice the number of permittees. Local law enforcement agencies are encour-
+37 aged to contract with the department to perform these required inspections.
+38 (4) Minors may assist with random, unannounced inspections, provided
+39 that minors under the age of eighteen (18) years must have the written con-
+40 sent of a parent or legal guardian. When assisting with these inspections,
+41 minors shall not provide false identification or make any false statement
+42 regarding their age.
+43 (5) Citizens may file a written complaint of noncompliance of this
+44 chapter with the department, or with a law enforcement agency. Permit hold-
+45 ers under 26 U.S.C. 5712 may file written complaints relating to delivery
+46 sales to the department or the attorney general's offices. Complaints shall
+47 be investigated and the proper enforcement actions taken.
+
+9
+1 (6) Within a reasonable time, not later than two (2) business days after
+2 an inspection has occurred, a representative of the business inspected shall
+3 be informed in writing of the results of the inspection.
+4 (7) The attorney general or his designee, or any person who holds a per-
+5 mit under 26 U.S.C. 5712, may bring an action in district court in Idaho to
+6 prevent or restrain violations of this chapter by any person or by any person
+7 controlling such person.
+8 SECTION 9. That Section 39-5712, Idaho Code, be, and the same is hereby
+9 repealed.
+10 SECTION 10. That Section 39-5717, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 39-5717. SHIPPING REQUIREMENTS -- TOBACCO PRODUCTS OR ELECTRONIC
+13 SMOKING DEVICES. Each permittee who mails or ships tobacco products or
+14 electronic smoking devices in connection with a delivery sale order shall
+15 include as part of the shipping documents a clear and conspicuous statement
+16 providing as follows:
+17 TOBACCO PRODUCTS OR ELECTRONIC SMOKING DEVICES: IDAHO LAW PRO-
+18 HIBITS SHIPPING TO INDIVIDUALS UNDER THE AGE OF TWENTY-ONE (21)
+19 YEARS AND REQUIRES THE PAYMENT OF TAXES PURSUANT TO CHAPTER 25, TI-
+20 TLE 63, IDAHO CODE. PERSONS VIOLATING THIS LAW MAY BE CIVILLY AND
+21 CRIMINALLY LIABLE.
+22 Anyone who delivers any such container distributes tobacco products or
+23 electronic smoking devices as defined in section 39-5702(5), Idaho Code, and
+24 is subject to the terms and requirements of this chapter. If a permittee tak-
+25 ing a delivery sale order also delivers the tobacco products or electronic
+26 smoking devices without using a third-party delivery service, the permittee
+27 shall comply with all the requirements of vendor-assisted sales as defined
+28 in section 39-5702(15) 39-5702(17), Idaho Code.
+29 SECTION 11. That Section 39-8421, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 39-8421. DEFINITIONS. As used in sections 39-8420 through 39-8425,
+32 Idaho Code:
+33 (1) The definitions set forth in section 39-8402, Idaho Code, of the
+34 Idaho tobacco master settlement agreement complementary act, and in this
+35 section, apply to sections 39-8420 through 39-8425, Idaho Code.
+36 (2) "Cigarette rolling machine" means any machine or device that has
+37 the capability to produce at least one hundred fifty (150) cigarettes in less
+38 than thirty (30) minutes.
+39 (3) "Cigarette rolling machine operator" means any person who owns or
+40 leases or otherwise has available for use a cigarette rolling machine and
+41 makes such a machine available for use by another person in a commercial
+42 setting in order to manufacture a cigarette. No person shall be deemed a
+43 cigarette rolling machine operator based solely upon that person's manufac-
+44 ture, sale, enabling, disabling, or repair of a cigarette rolling machine.
+45 (4) "Minor" has the same meaning as that term is defined in section
+46 39-5702(6) 39-5702(7), Idaho Code.
+
+10
+1 (5) "Person" means natural persons, corporations both foreign and do-
+2 mestic, trusts, partnerships both limited and general, incorporated or un-
+3 incorporated associations, companies, business entities, and any other le-
+4 gal entity, or any other group associated in fact although not a legal en-
+5 tity.
+6 (6) "Tobacco products" means any substance that contains tobacco,
+7 including but not limited to cigarettes, cigars, pipes, snuff, smoking to-
+8 bacco, tobacco papers, or smokeless tobacco.
+9 SECTION 12. That Section 56-227F, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 56-227F. PUBLIC ASSISTANCE BENEFIT CARDS -- PROHIBITED USES. (1) Any
+12 recipient of public assistance is prohibited from using public assistance
+13 benefit cards or cash obtained with public assistance benefit cards:
+14 (a) For the purpose of participating in any of the activities described
+15 under chapters 38 and 49, title 18, Idaho Code, or authorized pursuant
+16 to any state-tribal gaming compact under section 67-429A, Idaho Code;
+17 (b) For the purpose of pari-mutuel betting authorized under chapter 25,
+18 title 54, Idaho Code;
+19 (c) To purchase lottery tickets or shares authorized under chapter 74,
+20 title 67, Idaho Code;
+21 (d) For the purpose of participating in or purchasing tattoo, branding
+22 or body piercing services as defined in section 18-1523, Idaho Code;
+23 (e) To purchase cigarettes as defined in section 39-7802(d), Idaho
+24 Code, or tobacco products or electronic smoking devices as defined in
+25 section 39-5702(13) 39-5702(15), Idaho Code;
+26 (f) To purchase any items regulated under title 23, Idaho Code;
+27 (g) For the purpose of adult entertainment at venues with performances
+28 that contain sexually oriented material where minors under the age of
+29 eighteen (18) years are prohibited; or
+30 (h) For the purpose of purchasing or participating in any activities in
+31 any location listed in subsection (2) of this section.
+32 (2) The following businesses are required to comply with the provisions
+33 of this section:
+34 (a) Any establishment or business licensed under chapter 9, title 23,
+35 Idaho Code;
+36 (b) State liquor stores defined under section 23-902, Idaho Code, with
+37 the exception of special distributors as referenced in chapter 3, title
+38 23, Idaho Code;
+39 (c) Any business or agency that issues or underwrites bail bonds as de-
+40 fined in section 41-1038(3), Idaho Code;
+41 (d) Gambling establishments licensed under Idaho law;
+42 (e) Any business or establishment that offers tattoo, body piercing or
+43 branding services as defined in section 18-1523, Idaho Code;
+44 (f) Adult entertainment venues with performances that contain sexually
+45 oriented material where minors under the age of eighteen (18) years are
+46 prohibited; and
+47 (g) Any establishment where persons under the age of eighteen (18)
+48 years are not permitted.
+
+11
+1 (3) The department shall notify any business determined to be in viola-
+2 tion of the provisions of subsection (2) of this section and the licensing
+3 authority of any such business, if applicable, that such business has con-
+4 tinued to allow the use of a public assistance benefit card in violation of
+5 subsection (2) of this section. The department may require the Idaho quest
+6 electronic benefits transfer (EBT) card business identification number
+7 (BIN) be disabled at any business found to be in violation of subsection (2)
+8 of this section. Any business in violation of subsection (2) of this section
+9 may also be required to deny all public assistance cash transactions made
+10 with an Idaho quest EBT card at any automated teller machine (ATM) located
+11 in their establishment. All costs associated with disabling the BIN and ATM
+12 will be the responsibility of such business owner.
+13 (4) Only the recipient, an eligible member of the recipient's house-
+14 hold or the recipient's authorized representative may use a public assis-
+15 tance benefit card or the benefit, and such use shall only be for the re-
+16 spective benefit program purposes. The recipient shall not sell, attempt to
+17 sell, exchange or donate a public assistance benefit card or any benefits to
+18 any other person or entity.
+19 (5) A violation of subsection (1) or (4) of this section by a recipient
+20 constitutes a misdemeanor.
+21 (a) The department shall notify all recipients of public assistance
+22 benefit cards that any violation of subsection (1) or (4) of this sec-
+23 tion could result in legal proceedings and forfeiture of all cash public
+24 assistance.
+25 (b) Whenever the department has confirmed that a person has violated
+26 subsection (1) or (4) of this section, the department shall notify the
+27 person in writing that the violation could result in legal proceedings
+28 and forfeiture of all cash public assistance.
+29 (6) As used in this section, "public assistance" or "public assistance
+30 benefit" means benefits provided to a recipient pursuant to the temporary
+31 assistance for families in Idaho (TAFI) program on an Idaho quest EBT card
+32 account.
+33 (7) This section shall be enforced by the director of the department of
+34 health and welfare in cooperation with local law enforcement and prosecuting
+35 agencies.
+36 SECTION 13. The rules contained in IDAPA 16.07.25, Department of Health
+37 and Welfare, relating to Prevention of Minors' Access to Tobacco or Elec-
+38 tronic Smoking Device Products, shall be null, void, and of no force and ef-
+39 fect on and after July 1, 2025.
+40 SECTION 14. The rules contained in IDAPA 16.02.23, Department of Health
+41 and Welfare, relating to Indoor Smoking, shall be null, void, and of no force
+42 and effect on and after July 1, 2025.
+43 SECTION 15. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after
+45 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOTOPSADECSGD;AGSN3,IOC,TODETSADTOREADGSN3,IOC,RGTORSADR;AGCR5,TE3,IOC,BYTEANONWSN3,IOC,TOEHPSRGOFS;AGSN3,IOC,TODETDTOMETLC;AGSN3,I,TOREPSRGPGOFTOPSOCSGDER;AGSN3,I,TOREOELEADTOMEATLCGSN3,IOC,TOREPSRLPSFRVSOFP;AGSN3OC,TOREPSRGCTOFE;RGSN3,IOC,RGTOS;AGSN3,IOC,TOPEACTC;AGSN3,IOC,TOPEACER;AGSN5,IOC,TOPETCER;PGTTCNAERDINIA15SLBEN,V,ADOFNOFEA;PGTTCNAERSCDINI3SLBEN,V,ADOFNOFEADE;ADDNEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.D.Asudintsc)""msapcbgweanaessada,hsorlsatt)""msayiraaontotepcodprteseadseofacbsfroscdw:()teseoffdisiltotecnofs,or()nopnurteaeofte()ysispdetaspdinsn2,IoC,asitpstoe,msads,adalpcesaecyphsswgpsttitisasgfyadttpsurte()ysofaeaentp.""dsntiyaawnar)"rwnar"msabrt)Ispyidfmalpsoftertbysrtocgw]
+[DELETED: )Hsaseoepceettisntsdwht)Dsntheaywsttcnbeodordscttoter,erdyorthaypcp,igl,h,orpstttepcu.Tebybecdthmsntaefrpcu;a)Dsntrertpstopsthtebrorarpcpecdtotebrtoasrsorosorasofter)"ga"msapeofbswhatltto(glsonispsttisodfrpce)"lf"msayr,h,orbgtsudfrinorisseofi,igc,l,a,g,l,sya,r,h,rna,adbsofaypeorp,k,eys,jrhhori,hhs,vls,c,oru)()""msayp,p,ldl,a,cnornteyttesoe(rmep,igtel,eeadjlbfseg;ayc,c,orayorplsnoes;orayorseutofseorllg)""mstesebnafradcgbgsdonalssataytebysdw,w,orsrs,ntigd,ttedfmtefrtotec)"lseoff"msoysgfdttislkadnyhsf)()"rsgm"msanirfyldatfy()ftfmaypcstorhyadhgnolntn()rle)"ninc"or""msayp,oratohp,wouyc,g,ordsteanapcp.Tetmdsntmnteoroftepsshoruyg,c,ordsteantepcp)()"cm"msalmsontotep)()"cp"msayedirpeofb,b,flseororsdarpyorpyodadwrodfrptornowhpsntedattepcpehegladrsorwhtepcusi)B,o,ssorr)Wgrsfrmsoftnorcnc)R)T,a,msoratg)H,l,irsgm,irssath,oratprt,adwnty(tofpcesadestoshf]
+[DELETED: )Pcorpeeyorsyslbsadelfsadwnty()ftofesadefshbsorf)Rls,gyssora)B,hrssorl)Ssorfsf)Cnasofngh,r,h,m,bdatlgfsadorsrlgf,igl,h,rsadordddgasadrsofayoft)Aycdcefysttoleurtelso,igteodinpeh,wnaycdcrurttleisp)Pcmsofmst,igv,t,a,b,b,adlswnpsa.Tetmdsntiepenlv;a)Aypcpentedbysn3,IoC)()"dbgoro"msayedieorpnofapeo,ldorrdbyays,cyolg,orbyayaysdbyano,oycsorgsf,fsddfmtecnoff,mlorcyt)()""msanegeti,btndt,ces,c,c,adpeadpcs,whgsorosfrsefdtotep,g,ore,aswlasksadcgfsinwhfdispdontepsfrsge.Tetm""slieabraawnar)()""istepnofayldtoptinayf)()"ga"msaddaainwhsgi)"op"msaysettcst,igc,c,p,s,sgt,toprsst.Itispdttaldc,c,oecstN2.TtSn3,IoC,b,adteseishN3.TtCr5,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.PGOFS.Ssslbeays,c,lewhlsatltoe()ihinh,udpdatahtadlneysnadrdbypserwntepda.Ssmycninshasteilsgadnosgssadrstotsc]
+[DELETED: N4.TtSn3,IoC,b,adteseishdtordasf.D.Tetsudintscraedda)""msayc,p,f,sep,a,c,o,ororlle,oreoftefge)"ys"mstodetopsoregdstoacrinasewee)Teilssteorfrshsebymsofcorormdofvet,datrvrn,igteitadoroes,o,ortem;o)Tetopsorecsgdsaeddbeoftemsoradys)"ys"msaypnwoisedintecldyofl,psororc)""mstesedtofhhadweosdyadr)""mstog,d,s,ortog,ort,ortoslorceaypntodoteseorheaypntotes)""mstestaswetooregdepsaesdorteumrelrfrrswosltoorecsgpseyvat)()""msapnurte()ysofa)()"tp"msapelnwersfmteseofacbsfroecnctltfept()oftlr,orwepsasaepyo,p,p,orsyo,isetfmisadbyam,ifmsaendintelnadshpnispdcyonaleed)()""msaptidbytedtfrteseonoftopsorecsgd)"te"msaseordymdudbytetosltoorecsgdep,iys,dys,addts)()""mstehrofavdptfrteseonoftopsorecsgd)()"ci"mss,d,t,p,p,nlororetgsl,incdormyc,inalcsbphadadeofb,oravdp)()",udi"msaninofrlosbyalwetayorbyted,whorwtteaeofam,tomrceoftsc]
+[DELETED: )()""mstepnwopyssordopsorecsgd)()"optorecsgd"m)Aysec,meo,orddfmtrnettisidfrhncnorislytec,wri,a,oridbyayo,igbtntldtoc,c,p,sgorcgt,s,top,orsst)Ayecsgdettmybeudtodradoravdsetotepnigfed,igbtntldtoaneccnecc,anecp,avep,oranech,orayc,p,orayofsh,orayseidtobeadorvgueofted,wrornttesec,orayhdorlddeidtobeudf;o)Ayc,p,orasofatopranecsgd,wrornttycntoorn,igbtntldtof,r,btorhpw,adp,wrm,m,orsdasanecc,ecc,ech,orvep,orurayotneord)Tetm"optorecsgd"dsned,d,orcsofpsadfrsyteUdSsfdaddganastetsaeddinteflf,d,adcca)()"gm"msaym,e,orordewht,unteinoft,myorayomofp,dstopsorecsgd)()"ds"msayseordnihtecrhsnoastoteptetthteaftes)()"tap"msabstthsfdtoontorabsweptissdorrN5.TtSn3,IoC,b,adteseishdtordasf.PGOFTOPSORECSGD.()Itslbeultoslordeorortsorecsgdsfrseordnatrrtopstopsorecsgdswhteinofsgatrlwthgftodatoprecsgdeptfmted,whslbetyrltoptorecsgdeptorl.Pdh,tssnslntbeddtorerormsreoresw,intec]
+[DELETED: ftre,skssadrhtopsorecsgdsatapspeofbstoonap)Tedtslartepgoftoprecsgdersadslbeadtoeewhtsc.Tedtmypersincewhcr5,te6,IoC,rgpgooptorecsgder,i,aec,eet,adetpsurt)Psslbeidayfrehptbslntoeecewhtersoftsc.Acyosc,rsadbyted,aeserytsc,adayormsddnyslbephehpti)Aseptmtbeodfrehpeofbsadietoarp,b,orl)Psmydyteptinaptl.Teatslstoe()ormeptesadmetepeunr)Apemydyasninehlnwnapeoswetopsorecsgdsaesdo.Asnmybecyvetotecradtesrals:"ELWPSTESEOFTOPSOREGDSTOPSURTEAEOFTE()Y.PFOER.AEWOSSORDSTOPSOREGDSTOAPNURTEAEOFTE()YSISSOSTFSADP.PSURTEAEOFTE()YESTTOFSADP)Psaeretoeeesastotersoftscradrnfssdbyeheesgteeeusshr)Itslbeulfrtepetoaweswoastoslordetopsorecsgdtaspdintss.Eswoaemsmyptntslordetopsorecsgdnteceofe,frshdsassgssorcstoc'v,adeswoaeen()yoty()ysofaemyslordetopsorecsgdsinteceadseoftre)Aptslbecdwntepecsteb,nrsstoorecsgdep,mstoadtpll,orssteb)Aptslberdwnitisddttaptwyodtoadpsonanegp)AlpseeayatmtonDr31usr.Tedtslmlneofrlfrpsatly()dsprtoeN6.TtSn3,IoC,b,adteseishdtordasf]
+[DELETED: .VDS.()Itslbeultosloetopsorecsgdsbyaymsonvdsswetecrhsnoastoteptthteaeoftes)OnadarJy1,2,itItslbeultosloetopsorecsgdsfmvgmsorsed)Sswhtopsorecsgdscgatltsept()oftlmeaeemrgvds,ifmsaentadintesdshpnispdcyonaleedN7.TtSn3,IoC,b,adteseishdtordasf.CLPSFRVSOFP.()Aypofstocywhayptoftscrorayctseorlllworreorrnrgteseordnoftsorecsgdsslbesttoaclpyadintssnorhetrpts,pttocewhtecdcepsofteIoaepea,cr5,te6,IoC,orb)Ifasrwoisntapevssn3,I,adssordstopsorecsgdstoam,tntesrslbefdoehdds()Inteceofaftv,tepeslbendigofpstobeldfrfrv)Inteceofasdv,tepeslbefdtdds()adslbendinwgofpstobdfrfrv.Fravnofsn3,I,tepeslntbefdiftepecnswttatgpmwsinpefrteeeadtttepehsafdbytteeonfesgttteeeustoptorecsgdelsdgwhmsaeulpeoftopsorecsgd,bepeslbendinwgofpstobeldfrarv.Ifnoshtgisinp,tepeslbdtohdds()Inteceofatdvninato()yrp,tepeslbefdtohdds()adteptmybesdfruptosn()d.Iftevnisbyane,attel,wowsidinaypscnfrv,teslbefdfrhdds(.Eetdetpsbytep,asddbytedlbeamgfrindgpts.Eeogfsslbesdtotedtwntn()dftedeofv.Toptorecsgdersmtrealtopsorecsgdsflasaetoorvetotepcweteptiss]
+[DELETED: )Inteceoffr()ormevswnato()yrp,tepeslbefdfrhdds()adteplberdulshtetttepedsaneetgpntoted,btinnoceslternbrlstnty()d.Toptorecsgdersmtrealtopsorecsgdsfmalasaetoorvetotepcwetepsr)Almscdfrvspttotssnserdtotepnofm'astotopsorecsgdsfdcdinsn3,IoC)Alfsslbepdinflprtorlofaptantn()dsoftedeoftevN8.TtSn3,IoC,b,adteseishdtordasf.CTOFETA.()Itisteitoftettlweta,teayg,adtedtsleetscradrspdpttnamrttcnrybeedtosyreteettowhtopsadecsgdsaesdodtom)Lwetasmyctr,udisatlswetopsorecsgdsadorddtoeecewhtsc.Acyofalcsidurtscrslbesdtoted)Tedtslctatltoe()r,unpryratallswetopsoregdsaesdorddatrltoeecewsc.Tedtslctisfrmswtteaeofam.Tedtslcsfralorpswhteaeofam.E,tedtslctr,udiseltenrofpsonteltdyoftecryrmdbevnpererdfrtepsyrmdbfroftn(.Innoiewltenrofiseetenrofpllwetasaeedtoctwhtedttopmterdi)Msmyatwhr,udi,ptmsurteaeofen()ysmthetewnctofaptorllg.Wnagwhteisslntpefeinormeayfesgtra)Csmyfeawnctofneoftrwhted,orwhalweta.Pthsur26U.52myfewncsrgtodstotedtorteaygso.Csseidadtepretast]
+[DELETED: )Wnaret,ntlrtnto()bsdsaninhso,areoftebsidseidinwgoftersoftei)Teayglorhsd,oraypnwohsaptur26U.5,mybgananindtctinIottorrnvsoftscrbyaypnorbyaypgshpN9.TtSn3,IoC,b,adteseishN1.TtSn3,IoC,b,adteseishdtordasf.SGRS--TOPSOREGD.EhpewomsorsstopsocsgdsincnwhadyseorseasptoftesgdsacradcssgasfOPSORECSGD:IOLWPSSGTOISURTEAEOFTE(SADRSTEPTOFTSPTTOCR2,TE6,IOC.PSVGTSLWMYBECYAYLewodsayshcrdstopsocsgdsasddinsn3,IoC,assttotetsadrsoftsc.Ifapetgadyseoraodstetopsoregdswtugatydys,teplcywhaltersofvdssasdnsn3)3,IoCN1.TtSn3,IoC,b,adteseishdtordasf.D.Asudinss30th3oC)Tedsstfhinsn3,IoC,oftotomrstatcya,adint,aytoss30th3,IoC)"ergm"msaymeordetthecytopeatltoehdfy()csinlnty()m)"ergmeo"msaypnwoososoroehsaefrueacergmeasshameaefruebyarpninacginortomeac.Nopnslbeddergmeorbdsyunttpsm,s,e,d,orrrofacergm)""hstesemgastttmisddins)3,IoC]
+[DELETED: )""msnlp,csbhfnadd,t,psbhldadg,idoruda,c,bse,adayorlle,orayorgpadinftahntalle)"op"msaysettcstgbtntldtoc,c,p,s,sgt,top,orsstN1.TtSn5,IoC,b,adteseishdtordasf.PCAEBTCS--PDU.()Atofpcaeispdfmugpcatcsorchodwhpcaebtc)Frtepeofpginayofteasdrcs38ad4,te1,IoC,oradpoayslggctursn6,IoC)Frtepeofplbgadurcr2e5,IoC)Topelytsorssadurcr7e6,IoC)Frtepeofpginorpgt,brbypgssasddinsn1,IoC)Topecsasddinsn3,I,ortopsorecsgdsasddin3)3,IoC)Topeayisrdurte2,IoC)Frtepeofatetatvswhptcnsyodmlwemsurteaeon()ysaep;o)Frtepeofpgorpginayasiylnldinsn()oftss)Tefgbsaerdtocywhtepftss)Ayetorbsldurcr9,te2oC)Selrssddursn2,IoC,weenofsldsasrdincr3,t,IoC)Aybsorayttisorusblbsasddinsn4,IoC)GgesldurIol)Aybsoretttost,bypgogssasddinsn1,IoC)Atetvswhpsttcnsdmlwemsurteaeofen()ysa;a)Ayetwepsurteaeofen(saentp]
+[DELETED: )Tedtslnyaybsddtobeinvnoftepsofsn()oftssnadtelyofayshb,ifa,ttshbshscdtoawteueofapcaebtcdinvnon()oftss.TedtmyreteIoqcbstr()cdbsinn)beddataybsfdtobeinvnofsn(ftss.Aybsinvnofsn()oftssyaoberdtodyalpcaechtsmhanIoqtETcdatayadtrme()lntre.AlcsadwhdgteBNadAlbeteryofshbso)Oyter,aneemroftershdortersadremyueapcaebtcdorteb,adshuesloybefrterebtpmp.Tertslnts,att,eeordeapcaebtcdoraybstyorpnore)Avnofsn()or()oftssnbyarsam)Tedtslnyalrsofpcatcsttayvnofsn()or()oftssncdrtinllpsadfeofalchp)Wrtedthscdttapnhsvn()or()oftss,tedtslnytninwgtttevncdrtinllpdfeofalchpca)Asudintss,"ca"or"ca"msbspdtoartpttotetefrfsinIo()pmonanIoqtETc)TssnslbeedbytedroftedtohadweincnwhlllwetadpN1.TerscdinIA1,DtofHdW,rgtoPnofM'AstoToorEcSgDeP,slben,v,adofnofeadetonadarJy1,2N1.TerscdinIA1,DtofHdW,rgtoIrS,slben,v,adofnofdetonadarJy1,2N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

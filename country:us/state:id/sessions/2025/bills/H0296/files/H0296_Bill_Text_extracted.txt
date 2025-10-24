@@ -1,0 +1,295 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 296
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO FOREIGN ADVERSARIES; PROVIDING LEGISLATIVE INTENT; AMENDING TI-
+3 TLE 57, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 21, TITLE 57, IDAHO
+4 CODE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS PROHIBITING INVESTMENTS
+5 IN FOREIGN ADVERSARIES, TO ESTABLISH PROVISIONS TO REQUIRE CERTAIN DI-
+6 VESTMENTS, TO ESTABLISH PROVISIONS REGARDING A STATE INVESTMENT AUDIT,
+7 AND TO PROVIDE FOR CERTAIN LIMITATIONS; PROVIDING SEVERABILITY; AND
+8 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. LEGISLATIVE INTENT. The Foreign Adversary Divestment Act
+11 will ensure that the State of Idaho's public investment dollars are not
+12 put at risk in countries of concern and do not fund the development of the
+13 military technologies and surveillance tools of foreign adversaries that
+14 impede the furthering of the State of Idaho's interests and the interests of
+15 the United States of America, by requiring the divestment of public pension
+16 dollars and university endowment funds from countries of concern.
+17 SECTION 2. That Title 57, Idaho Code, be, and the same is hereby amended
+18 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+19 ter 21, Title 57, Idaho Code, and to read as follows:
+20 CHAPTER 21
+21 THE FOREIGN ADVERSARY DIVESTMENT ACT
+22 57-2101. DEFINITIONS. As used in this chapter:
+23 (1) "Company" means any sole proprietorship, organization, associa-
+24 tion, corporation, partnership, joint venture, limited partnership, lim-
+25 ited liability partnership, limited liability company, or other entity or
+26 business association, including wholly owned subsidiaries, majority-owned
+27 subsidiaries, parent companies, or affiliates of those entities or business
+28 associations, that exist for the purpose of making profit.
+29 (2) "Divestment" means the sale or otherwise contractual end of any
+30 current or planned investments.
+31 (3) "Domicile" means either the country in which a company is regis-
+32 tered, where the company's affairs are primarily completed, or where the ma-
+33 jority of ownership share is held.
+34 (4) "Foreign adversary" means any foreign country, foreign government,
+35 or foreign government person engaged in a long-term pattern of serious in-
+36 stances of conduct significantly adverse to the national security of the
+37 United States or security and safety of United States persons as determined
+38 in 15 CFR 791.4. The list of foreign adversaries provided in 15 CFR 791.4,
+39 as it existed on January 1, 2025, includes the People's Republic of China,
+40 including the Hong Kong special administrative region, the Republic of Cuba,
+2
+1 the Islamic Republic of Iran, the Democratic People's Republic of Korea, the
+2 Russian Federation, and the Venezuelan regime of Nicolás Maduro.
+3 (5) "Governmental entity" means the state of Idaho, any state agency,
+4 any political subdivision within the state of Idaho, any public institution
+5 of higher education within the state of Idaho, any local government within
+6 the state of Idaho, any taxing district within the state of Idaho, or any
+7 agency or organization controlled by such entities.
+8 (6) "Investment" means any transfer of funds in any active or passive
+9 structure, whether direct or indirect, that seeks to generate revenue or ac-
+10 complish any other gain, including any non-monetary gain.
+11 (7) "Official government capacity" means any role in a government or
+12 its subsidiaries, whether elected or appointed.
+13 (8) "State-managed fund" means any short-term or long-term investment
+14 structure that is managed, run, controlled, or otherwise overseen by any
+15 governmental entity that such governmental entity has primary discretion
+16 over or vested interest in. This definition shall apply to any fund that
+17 is managed by a third-party entity, such as a fiduciary, but subject to the
+18 purview or direction of a governmental entity and populated with any funds
+19 from such governmental entity. This shall include but is not limited to:
+20 (a) Public pension funds, public retirement funds, or other funds that
+21 are sponsored, maintained, or contributed to or required to be con-
+22 tributed to by any governmental entity;
+23 (b) Investment funds, rainy day funds, savings accounts, or other in-
+24 vestment structures of any governmental entity; and
+25 (c) University or college endowments, trusts, or other investment
+26 structures that constitute, wholly or in part, a public institution of
+27 higher education's investable assets.
+28 (9) "State-owned enterprise" means any company owned or controlled,
+29 wholly or in part, by a government or by individuals acting in official gov-
+30 ernment capacities in any form.
+31 (10) "Total divestment" means reducing the value of investments that
+32 are prohibited under the provisions of this chapter to no more than five-hun-
+33 dredths percent (0.05%) of the market value of all assets under management by
+34 a state-managed fund.
+35 57-2102. INVESTMENTS IN FOREIGN ADVERSARIES PROHIBITED. (1) All
+36 state-managed funds are prohibited from holding investments in any foreign
+37 adversary, state-owned enterprise of a foreign adversary, company domiciled
+38 within a foreign adversary, or company owned or controlled by a foreign ad-
+39 versary, state-owned enterprise of a foreign adversary, company domiciled
+40 within a foreign adversary, or any other entity within a foreign adversary.
+41 (2) All state-managed funds are prohibited from investing or deposit-
+42 ing public funds in any bank that is domiciled or has its principal place of
+43 business in a foreign adversary.
+44 57-2103. REQUIRED DIVESTMENT. All state-managed funds shall immedi-
+45 ately in good faith begin divestment of any holdings prohibited by the provi-
+46 sions of this chapter and shall complete total divestment of all such prohib-
+47 ited holdings no later than June 30, 2026.
+3
+1 57-2104. STATE INVESTMENT AUDIT. No later than January 1, 2026, the
+2 state treasurer investment advisory board shall investigate and identify
+3 all companies that are state-owned enterprises of, are domiciled within,
+4 the primary affairs of which are conducted within, or the majority owner-
+5 ship shares of which is held within a foreign adversary and include those
+6 companies in a list of restricted companies to be distributed to each
+7 state-managed fund. To identify such companies, the state treasurer invest-
+8 ment advisory board's investigation shall include but not be limited to the
+9 following:
+10 (1) Reviewing publicly available information regarding companies that
+11 are state-owned enterprises of, are domiciled within, the primary affairs
+12 of which are conducted within, or the majority ownership shares of which
+13 are held within a foreign adversary, including information provided by non-
+14 profit organizations, research firms, or governmental entities;
+15 (2) Contacting asset managers and fund managers contracted by a state-
+16 managed fund that invest in companies and in funds that are state-owned en-
+17 terprises of, are domiciled within, the primary affairs of which are con-
+18 ducted within, or the majority ownership shares of which are held within a
+19 foreign adversary;
+20 (3) Contacting other institutional investors that have divested from
+21 or engaged with companies that are state-owned enterprises of, are domiciled
+22 within, the primary affairs of which are conducted within, or the majority
+23 ownership shares of which are held within a foreign adversary; and
+24 (4) Retaining independent research firms to identify companies that
+25 are directly or indirectly investment holdings of a state or local fund that
+26 are state-owned enterprises of, are domiciled within, the primary affairs
+27 of which are conducted within, or the majority ownership shares of which are
+28 held within a foreign adversary.
+29 57-2105. LIMITATIONS. Nothing in this chapter shall be construed to
+30 limit, inhibit, conflict, impede, or otherwise interfere with required fi-
+31 nancial safeguards, fiduciary requirements, or other sound investment cri-
+32 teria that any state-managed fund is subject to that are unrelated to divest-
+33 ment from foreign adversaries or required to comply with any applicable fed-
+34 eral law.
+35 SECTION 3. SEVERABILITY. The provisions of this act are hereby declared
+36 to be severable and if any provision of this act or the application of such
+37 provision to any person or circumstance is declared invalid for any reason,
+38 such declaration shall not affect the validity of the remaining portions of
+39 this act.
+40 SECTION 4. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOFNA;PGLEI;AGTE5,IOC,BYTEANOFANWCR2,TE5,I,TODET,TOEHPSPGINFNA,TOEHPSTORECND,TOEHPSRGASEITADTOPEFRCNL;PGS;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.TeFnAyDtAleettteSeofIspcitdsaentatrkincsofcnaddontfdtedtoftytsadsetsoffnastetefgofteSeofIsisadteisoeUdSsofA,byrgtedtofpcpsaduyetfsfmcsofcN2.TtTe5,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te5,IoC,adtordasfR2EFNAYDTA.D.Asudintsc)""msaysep,o,a,c,p,jtv,ldp,ldlyp,ldlyc,ororeyosa,igwyods,m,ptc,orasofteesorb,ttetfrtepeofmgp)""msteseoroecledofatorpdi)""msertecyinwhacyisr,wetecsasaepyc,orwetemyofopseish)"na"msayfnc,fngrfngtpnedinalmpnofssisofctsyaetotenlsyoftdSsorsyadsyofUdSspsasdn15CR7.Teltoffnaspdin15CR7sitedonJy1,2,istePsRcofCgteHgKgslaer,teRcofC]
+[DELETED: eIcRcofI,teDcPsRcofK,tnF,adteVnreofNsM)"le"msteseofI,ayseayplsnwnteseofI,aypcifhrenwnteseofI,ayllgtweseofI,aytgdtwnteseofI,orayoroncdbyshe)""msaytroffsinayaeorp,wrdtori,ttsstogereorahayorg,igaynyg)"lgtc"msayreinagtoss,wredora)"df"msaysmorlmiettism,r,c,oroeonbyaleyttshgleyhspydrorvditi.Tsdnslaytoayfdtsmdbyatye,shasaf,btsttotwordnofagleyadpdwhayfmshgle.Tssliebtisntldt)Pcpnf,pcrtf,ororfstes,m,orcdtoorrdtobecdtobyaygle)Itf,rydyf,ssa,ororitssofaygle;a)Uyorcee,t,ororisttc,wyorinp,apcinoresiea)"de"msaycyodorcyorinp,byagtorbyisaginolgtcsinayf)"ld"msrgteveofistepdurtepsoftscrtonometnfspt()oftemtveofalasurmtbsdf.ISINFNASP.()Adfsaepdfmhgisinayf,sdeeofafna,cydnafna,orcyodorcdbyafna,sdeeofafna,cydnafna,orayoreywnafna)Alsdfsaepdfmigordgpcfsinaybkttisddorhsisplpeosinafna.RDD.AlsdfssliyingdfhbndtofayhspdbytepsoftscradslcetldtofalshpdhsnolrtnJe3,2]
+[DELETED: .SEITA.NolrtnJy1,2,tetritaybdslieadilcsttaesdeso,aeddwepyasofwhaecdw,ortemyopssofwhishdwnafnayadietsinaltofrdcstobeddtoedf.Toiyshc,tesetritaybsinsliebtntbeldtot)Rgpyaeinrgcstesdeso,aeddw,tepyafwhaecdw,ortemyopssofwehdwnafna,iginpdbynto,rhf,orgle)Cgatmsadfdmscdbyasdfdttitincsadinfsttaesdeso,aeddw,tepyasofwhaecdw,ortemyopssofwhaehdwnna)Cgorilisttheddfredwhcsttaesdeso,aed,tepyasofwhaecdw,ortempssofwhaehdwnafna;a)Rgitrhfstoiycstedyoriyithsofaseorllfdtesdeso,aeddw,tepyafwhaecdw,ortemyopssofwhadwnafna.L.Ngintscrslbecdt,i,c,i,oroeiewhrdfls,fyr,ororsditcattaysdfdissttottaeudtodtfmfnasorrdtocywhayaefllN3.S.TepsoftsataehydobeseadifaypnoftsatorteanofsntoaypnorceisddidfrayrhdnslntattevyoftergpsosaN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 296
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO FOREIGN ADVERSARIES; PROVIDING LEGISLATIVE INTENT; AMENDING TI-
+3 TLE 57, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 21, TITLE 57, IDAHO
+4 CODE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS PROHIBITING INVESTMENTS
+5 IN FOREIGN ADVERSARIES, TO ESTABLISH PROVISIONS TO REQUIRE CERTAIN DI-
+6 VESTMENTS, TO ESTABLISH PROVISIONS REGARDING A STATE INVESTMENT AUDIT,
+7 AND TO PROVIDE FOR CERTAIN LIMITATIONS; PROVIDING SEVERABILITY; AND
+8 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. LEGISLATIVE INTENT. The Foreign Adversary Divestment Act
+11 will ensure that the State of Idaho's public investment dollars are not
+12 put at risk in countries of concern and do not fund the development of the
+13 military technologies and surveillance tools of foreign adversaries that
+14 impede the furthering of the State of Idaho's interests and the interests of
+15 the United States of America, by requiring the divestment of public pension
+16 dollars and university endowment funds from countries of concern.
+17 SECTION 2. That Title 57, Idaho Code, be, and the same is hereby amended
+18 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+19 ter 21, Title 57, Idaho Code, and to read as follows:
+20 CHAPTER 21
+21 THE FOREIGN ADVERSARY DIVESTMENT ACT
+22 57-2101. DEFINITIONS. As used in this chapter:
+23 (1) "Company" means any sole proprietorship, organization, associa-
+24 tion, corporation, partnership, joint venture, limited partnership, lim-
+25 ited liability partnership, limited liability company, or other entity or
+26 business association, including wholly owned subsidiaries, majority-owned
+27 subsidiaries, parent companies, or affiliates of those entities or business
+28 associations, that exist for the purpose of making profit.
+29 (2) "Divestment" means the sale or otherwise contractual end of any
+30 current or planned investments.
+31 (3) "Domicile" means either the country in which a company is regis-
+32 tered, where the company's affairs are primarily completed, or where the ma-
+33 jority of ownership share is held.
+34 (4) "Foreign adversary" means any foreign country, foreign government,
+35 or foreign government person engaged in a long-term pattern of serious in-
+36 stances of conduct significantly adverse to the national security of the
+37 United States or security and safety of United States persons as determined
+38 in 15 CFR 791.4. The list of foreign adversaries provided in 15 CFR 791.4,
+39 as it existed on January 1, 2025, includes the People's Republic of China,
+40 including the Hong Kong special administrative region, the Republic of Cuba,
+
+2
+1 the Islamic Republic of Iran, the Democratic People's Republic of Korea, the
+2 Russian Federation, and the Venezuelan regime of Nicolás Maduro.
+3 (5) "Governmental entity" means the state of Idaho, any state agency,
+4 any political subdivision within the state of Idaho, any public institution
+5 of higher education within the state of Idaho, any local government within
+6 the state of Idaho, any taxing district within the state of Idaho, or any
+7 agency or organization controlled by such entities.
+8 (6) "Investment" means any transfer of funds in any active or passive
+9 structure, whether direct or indirect, that seeks to generate revenue or ac-
+10 complish any other gain, including any non-monetary gain.
+11 (7) "Official government capacity" means any role in a government or
+12 its subsidiaries, whether elected or appointed.
+13 (8) "State-managed fund" means any short-term or long-term investment
+14 structure that is managed, run, controlled, or otherwise overseen by any
+15 governmental entity that such governmental entity has primary discretion
+16 over or vested interest in. This definition shall apply to any fund that
+17 is managed by a third-party entity, such as a fiduciary, but subject to the
+18 purview or direction of a governmental entity and populated with any funds
+19 from such governmental entity. This shall include but is not limited to:
+20 (a) Public pension funds, public retirement funds, or other funds that
+21 are sponsored, maintained, or contributed to or required to be con-
+22 tributed to by any governmental entity;
+23 (b) Investment funds, rainy day funds, savings accounts, or other in-
+24 vestment structures of any governmental entity; and
+25 (c) University or college endowments, trusts, or other investment
+26 structures that constitute, wholly or in part, a public institution of
+27 higher education's investable assets.
+28 (9) "State-owned enterprise" means any company owned or controlled,
+29 wholly or in part, by a government or by individuals acting in official gov-
+30 ernment capacities in any form.
+31 (10) "Total divestment" means reducing the value of investments that
+32 are prohibited under the provisions of this chapter to no more than five-hun-
+33 dredths percent (0.05%) of the market value of all assets under management by
+34 a state-managed fund.
+35 57-2102. INVESTMENTS IN FOREIGN ADVERSARIES PROHIBITED. (1) All
+36 state-managed funds are prohibited from holding investments in any foreign
+37 adversary, state-owned enterprise of a foreign adversary, company domiciled
+38 within a foreign adversary, or company owned or controlled by a foreign ad-
+39 versary, state-owned enterprise of a foreign adversary, company domiciled
+40 within a foreign adversary, or any other entity within a foreign adversary.
+41 (2) All state-managed funds are prohibited from investing or deposit-
+42 ing public funds in any bank that is domiciled or has its principal place of
+43 business in a foreign adversary.
+44 57-2103. REQUIRED DIVESTMENT. All state-managed funds shall immedi-
+45 ately in good faith begin divestment of any holdings prohibited by the provi-
+46 sions of this chapter and shall complete total divestment of all such prohib-
+47 ited holdings no later than June 30, 2026.
+
+3
+1 57-2104. STATE INVESTMENT AUDIT. No later than January 1, 2026, the
+2 state treasurer investment advisory board shall investigate and identify
+3 all companies that are state-owned enterprises of, are domiciled within,
+4 the primary affairs of which are conducted within, or the majority owner-
+5 ship shares of which is held within a foreign adversary and include those
+6 companies in a list of restricted companies to be distributed to each
+7 state-managed fund. To identify such companies, the state treasurer invest-
+8 ment advisory board's investigation shall include but not be limited to the
+9 following:
+10 (1) Reviewing publicly available information regarding companies that
+11 are state-owned enterprises of, are domiciled within, the primary affairs
+12 of which are conducted within, or the majority ownership shares of which
+13 are held within a foreign adversary, including information provided by non-
+14 profit organizations, research firms, or governmental entities;
+15 (2) Contacting asset managers and fund managers contracted by a state-
+16 managed fund that invest in companies and in funds that are state-owned en-
+17 terprises of, are domiciled within, the primary affairs of which are con-
+18 ducted within, or the majority ownership shares of which are held within a
+19 foreign adversary;
+20 (3) Contacting other institutional investors that have divested from
+21 or engaged with companies that are state-owned enterprises of, are domiciled
+22 within, the primary affairs of which are conducted within, or the majority
+23 ownership shares of which are held within a foreign adversary; and
+24 (4) Retaining independent research firms to identify companies that
+25 are directly or indirectly investment holdings of a state or local fund that
+26 are state-owned enterprises of, are domiciled within, the primary affairs
+27 of which are conducted within, or the majority ownership shares of which are
+28 held within a foreign adversary.
+29 57-2105. LIMITATIONS. Nothing in this chapter shall be construed to
+30 limit, inhibit, conflict, impede, or otherwise interfere with required fi-
+31 nancial safeguards, fiduciary requirements, or other sound investment cri-
+32 teria that any state-managed fund is subject to that are unrelated to divest-
+33 ment from foreign adversaries or required to comply with any applicable fed-
+34 eral law.
+35 SECTION 3. SEVERABILITY. The provisions of this act are hereby declared
+36 to be severable and if any provision of this act or the application of such
+37 provision to any person or circumstance is declared invalid for any reason,
+38 such declaration shall not affect the validity of the remaining portions of
+39 this act.
+40 SECTION 4. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YWSADMSCNAGTOFNA;PGLEI;AGTE5,IOC,BYTEANOFANWCR2,TE5,I,TODET,TOEHPSPGINFNA,TOEHPSTORECND,TOEHPSRGASEITADTOPEFRCNL;PGS;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.TeFnAyDtAleettteSeofIspcitdsaentatrkincsofcnaddontfdtedtoftytsadsetsoffnastetefgofteSeofIsisadteisoeUdSsofA,byrgtedtofpcpsaduyetfsfmcsofcN2.TtTe5,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr2,Te5,IoC,adtordasfR2EFNAYDTA.D.Asudintsc)""msaysep,o,a,c,p,jtv,ldp,ldlyp,ldlyc,ororeyosa,igwyods,m,ptc,orasofteesorb,ttetfrtepeofmgp)""msteseoroecledofatorpdi)""msertecyinwhacyisr,wetecsasaepyc,orwetemyofopseish)"na"msayfnc,fngrfngtpnedinalmpnofssisofctsyaetotenlsyoftdSsorsyadsyofUdSspsasdn15CR7.Teltoffnaspdin15CR7sitedonJy1,2,istePsRcofCgteHgKgslaer,teRcofC]
+[DELETED: eIcRcofI,teDcPsRcofK,tnF,adteVnreofNsM)"le"msteseofI,ayseayplsnwnteseofI,aypcifhrenwnteseofI,ayllgtweseofI,aytgdtwnteseofI,orayoroncdbyshe)""msaytroffsinayaeorp,wrdtori,ttsstogereorahayorg,igaynyg)"lgtc"msayreinagtoss,wredora)"df"msaysmorlmiettism,r,c,oroeonbyaleyttshgleyhspydrorvditi.Tsdnslaytoayfdtsmdbyatye,shasaf,btsttotwordnofagleyadpdwhayfmshgle.Tssliebtisntldt)Pcpnf,pcrtf,ororfstes,m,orcdtoorrdtobecdtobyaygle)Itf,rydyf,ssa,ororitssofaygle;a)Uyorcee,t,ororisttc,wyorinp,apcinoresiea)"de"msaycyodorcyorinp,byagtorbyisaginolgtcsinayf)"ld"msrgteveofistepdurtepsoftscrtonometnfspt()oftemtveofalasurmtbsdf.ISINFNASP.()Adfsaepdfmhgisinayf,sdeeofafna,cydnafna,orcyodorcdbyafna,sdeeofafna,cydnafna,orayoreywnafna)Alsdfsaepdfmigordgpcfsinaybkttisddorhsisplpeosinafna.RDD.AlsdfssliyingdfhbndtofayhspdbytepsoftscradslcetldtofalshpdhsnolrtnJe3,2]
+[DELETED: .SEITA.NolrtnJy1,2,tetritaybdslieadilcsttaesdeso,aeddwepyasofwhaecdw,ortemyopssofwhishdwnafnayadietsinaltofrdcstobeddtoedf.Toiyshc,tesetritaybsinsliebtntbeldtot)Rgpyaeinrgcstesdeso,aeddw,tepyafwhaecdw,ortemyopssofwehdwnafna,iginpdbynto,rhf,orgle)Cgatmsadfdmscdbyasdfdttitincsadinfsttaesdeso,aeddw,tepyasofwhaecdw,ortemyopssofwhaehdwnna)Cgorilisttheddfredwhcsttaesdeso,aed,tepyasofwhaecdw,ortempssofwhaehdwnafna;a)Rgitrhfstoiycstedyoriyithsofaseorllfdtesdeso,aeddw,tepyafwhaecdw,ortemyopssofwhadwnafna.L.Ngintscrslbecdt,i,c,i,oroeiewhrdfls,fyr,ororsditcattaysdfdissttottaeudtodtfmfnasorrdtocywhayaefllN3.S.TepsoftsataehydobeseadifaypnoftsatorteanofsntoaypnorceisddidfrayrhdnslntattevyoftergpsosaN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

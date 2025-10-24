@@ -1,0 +1,281 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 33
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC NOTICES; AMENDING CHAPTER 1, TITLE 60, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 60-106B, IDAHO CODE, TO PROVIDE FOR ELECTRONIC
+4 PUBLICATION; AMENDING SECTION 60-109A, IDAHO CODE, TO REVISE PROVI-
+5 SIONS REGARDING LEGAL NOTICE PUBLICATION BY FIRST CLASS MAIL; REPEALING
+6 SECTION 60-106B, IDAHO CODE, RELATED TO ELECTRONIC PUBLICATION; AMEND-
+7 ING CHAPTER 1, TITLE 60, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+8 60-106B, IDAHO CODE, TO PROVIDE FOR ELECTRONIC PUBLICATION; AND DECLAR-
+9 ING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 1, Title 60, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 60-106B, Idaho Code, and to read as follows:
+14 60-106B. ELECTRONIC PUBLICATION. (1) Notwithstanding any provision
+15 of law to the contrary, any person, governmental entity, or business or other
+16 entity required or permitted under the laws of the state of Idaho to pub-
+17 lish notices, publications, or other information in a newspaper may instead
+18 electronically publish such notices, publications, or other information
+19 on the state controller's website. If all requirements of this section are
+20 met, notices, publications, or other information electronically published
+21 pursuant to this section shall have the same legal effect as notices, publi-
+22 cations, or other information published in a newspaper pursuant to section
+23 60-106, Idaho Code.
+24 (2) The minimum publishing dates and duration requirements under the
+25 laws of the state of Idaho for publishing notices, publications, or other in-
+26 formation in a print newspaper shall apply equally to notices, publications,
+27 or other information electronically published pursuant to this section.
+28 (3) A governmental entity that electronically publishes any notice,
+29 publication, or other information pursuant to this section shall:
+30 (a) Comply with all advance notice requirements regarding the number of
+31 days of advance notice required prior to government action; and
+32 (b) Comply with the agenda requirements provided in section 74-204,
+33 Idaho Code.
+34 (4) The state controller shall facilitate the receipt, storage, and
+35 publication of notices, publications, and other information that are pub-
+36 lished pursuant to this section and ensure that the same are accessible to
+37 the public free of charge. To fulfill the requirements of this section, the
+38 state controller may adopt a staggered implementation schedule, allowing
+39 for the phased inclusion of specific categories of notices, publications,
+40 or other information as the program progresses, provided that the state
+41 controller shall ensure that the electronic publication program is capa-
+42 ble of the receipt, storage, and publication of all notices, publications,
+2
+1 and other information authorized to be electronically published under this
+2 section, with the exception of electronic publications by governmental en-
+3 tities related to public works projects or the disposal of surplus property
+4 owned by a governmental entity, no later than January 1, 2026, and that it is
+5 fully operational for the receipt, storage, and publication of all notices,
+6 publications, and other information authorized for electronic publication
+7 under this section no later than January 1, 2027. The state controller
+8 shall, by January 1, 2027, implement functionality on its website to allow
+9 users to subscribe to receive electronic notifications of public meeting
+10 notices of governmental entities, with the ability to filter such notices
+11 by the location of the public meeting and the location of any project site
+12 address required by law to be included in a public meeting notice.
+13 (5) As used in this section:
+14 (a) "Electronically publish" or "electronic publication" means the
+15 posting of digital information on the state controller's website in the
+16 manner provided in this section.
+17 (b) "Governmental entity" has the same meaning provided in section
+18 74-403, Idaho Code, and shall include all taxing districts in the state.
+19 (6) This section does not relieve a governmental entity of the duty to
+20 mail any notice required to be mailed by the laws of the state of Idaho.
+21 SECTION 2. That Section 60-109A, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 60-109A. PUBLICATION BY FIRST CLASS MAIL. Any notice required by law
+24 to be published by any regional board, commission, department, or author-
+25 ity created by or pursuant to statute; or by any county, city, school dis-
+26 trict, special district, any joint district, or other political subdivision
+27 of the state of Idaho may be published by mailing such notice by first class
+28 mail, postage prepaid, to the residents of such jurisdiction; provided, how-
+29 ever, that publication by mail as provided for herein, shall constitute le-
+30 gal notice only if the cost of mailing, including preparation, materials and
+31 postage, is less than the cost of other publication required by law. Notice
+32 may be included with regularly occurring mailings such as utility billing.
+33 Proof of such mailing shall be by sworn affidavit of the duly constituted of-
+34 ficers of the body publishing the notice.
+35 SECTION 3. That Section 60-106B, Idaho Code, be, and the same is hereby
+36 repealed.
+37 SECTION 4. That Chapter 1, Title 60, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 60-106B, Idaho Code, and to read as follows:
+40 60-106B. ELECTRONIC PUBLICATION. (1) Notwithstanding any provision
+41 of law to the contrary, any person, governmental entity, or business or other
+42 entity required or permitted under the laws of the state of Idaho to pub-
+43 lish notices, publications, or other information in a newspaper may instead
+44 electronically publish such notices, publications, or other information
+45 on the state controller's website. If all requirements of this section are
+46 met, notices, publications, or other information electronically published
+3
+1 pursuant to this section shall have the same legal effect as notices, publi-
+2 cations, or other information published in a newspaper pursuant to section
+3 60-106, Idaho Code.
+4 (2) The minimum publishing dates and duration requirements under the
+5 laws of the state of Idaho for publishing notices, publications, or other in-
+6 formation in a print newspaper shall apply equally to notices, publications,
+7 or other information electronically published pursuant to this section.
+8 (3) A governmental entity that electronically publishes any notice,
+9 publication, or other information pursuant to this section shall:
+10 (a) Comply with all advance notice requirements regarding the number of
+11 days of advance notice required prior to government action; and
+12 (b) Comply with the agenda requirements provided in section 74-204,
+13 Idaho Code.
+14 (4) The state controller shall facilitate the receipt, storage, and
+15 publication of notices, publications, and other information that are pub-
+16 lished pursuant to this section and ensure that the same are accessible
+17 to the public free of charge. The state controller shall implement func-
+18 tionality on its website to allow users to subscribe to receive electronic
+19 notifications of public meeting notices of governmental entities, with the
+20 ability to filter such notices by the location of the public meeting and the
+21 location of any project site address required by law to be included in a pub-
+22 lic meeting notice.
+23 (5) As used in this section:
+24 (a) "Electronically publish" or "electronic publication" means the
+25 posting of digital information on the state controller's website in the
+26 manner provided in this section.
+27 (b) "Governmental entity" has the same meaning provided in section
+28 74-403, Idaho Code, and shall include all taxing districts in the state.
+29 (6) This section does not relieve a governmental entity of the duty to
+30 mail any notice required to be mailed by the laws of the state of Idaho.
+31 SECTION 5. An emergency existing therefor, which emergency is hereby
+32 declared to exist, Sections 1 and 2 of this act shall be in full force and ef-
+33 fect on and after passage and approval, and Sections 3 and 4 of this act shall
+34 be in full force and effect on and after January 1, 2027.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YSEASCNAGTOPCN;AGCR1,TE6,IOC,BYTNOFANWSN6,IOC,TOPEFRE;AGSN6,IOC,TOREPSRGLLNEPNBYFTCSM;RN6,IOC,RDTOECP;AGCR1,TE6,IOC,BYTEANOFANWS,IOC,TOPEFRECP;ADDGANEYADPGEEDeItEdbyteLeofteSeofIN1.TtCr1,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ECP.()Ngaypflwtotec,ayp,gle,orbsoroyrdorpdurtelsofteseofIotophn,p,ororininanrmyiyphshn,p,ororintesecsw.Ifalrsoftssna,n,p,ororineypttotssnslheteselletasn,p,ororinpdinanrpttos,IoC)TemmpgdsaddnrsurtsofteseofIofrpgn,p,ororininaptnrslayeyton,prorineypdpttotss)Agleytteypsayn,ororinpttotssns)Cywhalaenersrgtenrosofaenerdprtogta;a)Cywhteaarspdinsn7oC)Tesecrslfeter,s,anofn,p,adorinttaepdpttotssnadeettteseaeaetepcfeofc.Tofltersoftss,tecrmyatasdins,artepdinofsccsofn,prorinastepmp,pdtttesrsleettteecpnpmisceofter,s,adpnofaln,p]
+[DELETED: dorinadtobeeypdurt,whteenofecpsbyglesrdtopcwspsortedlofsspdbyagle,nolrtnJy1,2,adttitiyolfrter,s,adpnofaln,adorinadfrecprtssnnolrtnJy1,2.Tesec,byJy1,2,itfyoniswetoastosetoreecnsofpcmsofgle,whteaytofrshnytelnoftepcmgadtelnofayptssrdbylwtobeidinapcmgn)Asudintss)"yp"or"cp"mstgofdlinontesecsweintrpdintss)"le"hstesemgpdins,IoC,adsliealtgdsintes)TssndsntreagleyoftedytlaynerdtobemdbytelsofteseofIN2.TtSn6,IoC,b,adteseishdtordasf.PNBYFTCSM.Aynerdbylobepdbyayrlb,c,d,oraycdbyorpttos;orbyayc,c,sld,sld,ayjtd,ororplsfteseofIomybepdbymgshnebyftc,pep,totersofshj;p,h,ttpnbymlaspdfrh,slcellneoyiftectofm,igp,msa,islstntectoforpnrdbyl.NybeidwhryogmsshasuybfofshmgslbebysnatoftedycdosoftebypgtenN3.TtSn6,IoC,b,adteseishN4.TtCr1,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ECP.()Ngaypflwtotec,ayp,gle,orbsoroyrdorpdurtelsofteseofIotophn,p,ororininanrmyiyphshn,p,ororintesecsw.Ifalrsoftssna,n,p,ororineyp]
+[DELETED: ttotssnslheteselletasn,p,ororinpdinanrpttos,IoC)TemmpgdsaddnrsurtsofteseofIofrpgn,p,ororininaptnrslayeyton,prorineypdpttotss)Agleytteypsayn,ororinpttotssns)Cywhalaenersrgtenrosofaenerdprtogta;a)Cywhteaarspdinsn7oC)Tesecrslfeter,s,anofn,p,adorinttaepdpttotssnadeettteseaeaotepcfeofc.Tesecrslitfyoniswetoawustosetoreesofpcmgnsofgle,whtytofrshnsbytelnoftepcmgadtnofayptseasrdbylwtobeidinapcmgn)Asudintss)"yp"or"cp"mstgofdlinontesecsweintrpdintss)"le"hstesemgpdins,IoC,adsliealtgdsintes)TssndsntreagleyoftedytlaynerdtobemdbytelsofteseofIN5.Aneyegt,wheyishdtoe,Ss1ad2oftsatslbeinflfeadetonadarpeada,adSs3ad4oftsatseinflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 33
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC NOTICES; AMENDING CHAPTER 1, TITLE 60, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 60-106B, IDAHO CODE, TO PROVIDE FOR ELECTRONIC
+4 PUBLICATION; AMENDING SECTION 60-109A, IDAHO CODE, TO REVISE PROVI-
+5 SIONS REGARDING LEGAL NOTICE PUBLICATION BY FIRST CLASS MAIL; REPEALING
+6 SECTION 60-106B, IDAHO CODE, RELATED TO ELECTRONIC PUBLICATION; AMEND-
+7 ING CHAPTER 1, TITLE 60, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+8 60-106B, IDAHO CODE, TO PROVIDE FOR ELECTRONIC PUBLICATION; AND DECLAR-
+9 ING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 1, Title 60, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 60-106B, Idaho Code, and to read as follows:
+14 60-106B. ELECTRONIC PUBLICATION. (1) Notwithstanding any provision
+15 of law to the contrary, any person, governmental entity, or business or other
+16 entity required or permitted under the laws of the state of Idaho to pub-
+17 lish notices, publications, or other information in a newspaper may instead
+18 electronically publish such notices, publications, or other information
+19 on the state controller's website. If all requirements of this section are
+20 met, notices, publications, or other information electronically published
+21 pursuant to this section shall have the same legal effect as notices, publi-
+22 cations, or other information published in a newspaper pursuant to section
+23 60-106, Idaho Code.
+24 (2) The minimum publishing dates and duration requirements under the
+25 laws of the state of Idaho for publishing notices, publications, or other in-
+26 formation in a print newspaper shall apply equally to notices, publications,
+27 or other information electronically published pursuant to this section.
+28 (3) A governmental entity that electronically publishes any notice,
+29 publication, or other information pursuant to this section shall:
+30 (a) Comply with all advance notice requirements regarding the number of
+31 days of advance notice required prior to government action; and
+32 (b) Comply with the agenda requirements provided in section 74-204,
+33 Idaho Code.
+34 (4) The state controller shall facilitate the receipt, storage, and
+35 publication of notices, publications, and other information that are pub-
+36 lished pursuant to this section and ensure that the same are accessible to
+37 the public free of charge. To fulfill the requirements of this section, the
+38 state controller may adopt a staggered implementation schedule, allowing
+39 for the phased inclusion of specific categories of notices, publications,
+40 or other information as the program progresses, provided that the state
+41 controller shall ensure that the electronic publication program is capa-
+42 ble of the receipt, storage, and publication of all notices, publications,
+
+2
+1 and other information authorized to be electronically published under this
+2 section, with the exception of electronic publications by governmental en-
+3 tities related to public works projects or the disposal of surplus property
+4 owned by a governmental entity, no later than January 1, 2026, and that it is
+5 fully operational for the receipt, storage, and publication of all notices,
+6 publications, and other information authorized for electronic publication
+7 under this section no later than January 1, 2027. The state controller
+8 shall, by January 1, 2027, implement functionality on its website to allow
+9 users to subscribe to receive electronic notifications of public meeting
+10 notices of governmental entities, with the ability to filter such notices
+11 by the location of the public meeting and the location of any project site
+12 address required by law to be included in a public meeting notice.
+13 (5) As used in this section:
+14 (a) "Electronically publish" or "electronic publication" means the
+15 posting of digital information on the state controller's website in the
+16 manner provided in this section.
+17 (b) "Governmental entity" has the same meaning provided in section
+18 74-403, Idaho Code, and shall include all taxing districts in the state.
+19 (6) This section does not relieve a governmental entity of the duty to
+20 mail any notice required to be mailed by the laws of the state of Idaho.
+21 SECTION 2. That Section 60-109A, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 60-109A. PUBLICATION BY FIRST CLASS MAIL. Any notice required by law
+24 to be published by any regional board, commission, department, or author-
+25 ity created by or pursuant to statute; or by any county, city, school dis-
+26 trict, special district, any joint district, or other political subdivision
+27 of the state of Idaho may be published by mailing such notice by first class
+28 mail, postage prepaid, to the residents of such jurisdiction; provided, how-
+29 ever, that publication by mail as provided for herein, shall constitute le-
+30 gal notice only if the cost of mailing, including preparation, materials and
+31 postage, is less than the cost of other publication required by law. Notice
+32 may be included with regularly occurring mailings such as utility billing.
+33 Proof of such mailing shall be by sworn affidavit of the duly constituted of-
+34 ficers of the body publishing the notice.
+35 SECTION 3. That Section 60-106B, Idaho Code, be, and the same is hereby
+36 repealed.
+37 SECTION 4. That Chapter 1, Title 60, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 60-106B, Idaho Code, and to read as follows:
+40 60-106B. ELECTRONIC PUBLICATION. (1) Notwithstanding any provision
+41 of law to the contrary, any person, governmental entity, or business or other
+42 entity required or permitted under the laws of the state of Idaho to pub-
+43 lish notices, publications, or other information in a newspaper may instead
+44 electronically publish such notices, publications, or other information
+45 on the state controller's website. If all requirements of this section are
+46 met, notices, publications, or other information electronically published
+
+3
+1 pursuant to this section shall have the same legal effect as notices, publi-
+2 cations, or other information published in a newspaper pursuant to section
+3 60-106, Idaho Code.
+4 (2) The minimum publishing dates and duration requirements under the
+5 laws of the state of Idaho for publishing notices, publications, or other in-
+6 formation in a print newspaper shall apply equally to notices, publications,
+7 or other information electronically published pursuant to this section.
+8 (3) A governmental entity that electronically publishes any notice,
+9 publication, or other information pursuant to this section shall:
+10 (a) Comply with all advance notice requirements regarding the number of
+11 days of advance notice required prior to government action; and
+12 (b) Comply with the agenda requirements provided in section 74-204,
+13 Idaho Code.
+14 (4) The state controller shall facilitate the receipt, storage, and
+15 publication of notices, publications, and other information that are pub-
+16 lished pursuant to this section and ensure that the same are accessible
+17 to the public free of charge. The state controller shall implement func-
+18 tionality on its website to allow users to subscribe to receive electronic
+19 notifications of public meeting notices of governmental entities, with the
+20 ability to filter such notices by the location of the public meeting and the
+21 location of any project site address required by law to be included in a pub-
+22 lic meeting notice.
+23 (5) As used in this section:
+24 (a) "Electronically publish" or "electronic publication" means the
+25 posting of digital information on the state controller's website in the
+26 manner provided in this section.
+27 (b) "Governmental entity" has the same meaning provided in section
+28 74-403, Idaho Code, and shall include all taxing districts in the state.
+29 (6) This section does not relieve a governmental entity of the duty to
+30 mail any notice required to be mailed by the laws of the state of Idaho.
+31 SECTION 5. An emergency existing therefor, which emergency is hereby
+32 declared to exist, Sections 1 and 2 of this act shall be in full force and ef-
+33 fect on and after passage and approval, and Sections 3 and 4 of this act shall
+34 be in full force and effect on and after January 1, 2027.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YSEASCNAGTOPCN;AGCR1,TE6,IOC,BYTNOFANWSN6,IOC,TOPEFRE;AGSN6,IOC,TOREPSRGLLNEPNBYFTCSM;RN6,IOC,RDTOECP;AGCR1,TE6,IOC,BYTEANOFANWS,IOC,TOPEFRECP;ADDGANEYADPGEEDeItEdbyteLeofteSeofIN1.TtCr1,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ECP.()Ngaypflwtotec,ayp,gle,orbsoroyrdorpdurtelsofteseofIotophn,p,ororininanrmyiyphshn,p,ororintesecsw.Ifalrsoftssna,n,p,ororineypttotssnslheteselletasn,p,ororinpdinanrpttos,IoC)TemmpgdsaddnrsurtsofteseofIofrpgn,p,ororininaptnrslayeyton,prorineypdpttotss)Agleytteypsayn,ororinpttotssns)Cywhalaenersrgtenrosofaenerdprtogta;a)Cywhteaarspdinsn7oC)Tesecrslfeter,s,anofn,p,adorinttaepdpttotssnadeettteseaeaetepcfeofc.Tofltersoftss,tecrmyatasdins,artepdinofsccsofn,prorinastepmp,pdtttesrsleettteecpnpmisceofter,s,adpnofaln,p]
+[DELETED: dorinadtobeeypdurt,whteenofecpsbyglesrdtopcwspsortedlofsspdbyagle,nolrtnJy1,2,adttitiyolfrter,s,adpnofaln,adorinadfrecprtssnnolrtnJy1,2.Tesec,byJy1,2,itfyoniswetoastosetoreecnsofpcmsofgle,whteaytofrshnytelnoftepcmgadtelnofayptssrdbylwtobeidinapcmgn)Asudintss)"yp"or"cp"mstgofdlinontesecsweintrpdintss)"le"hstesemgpdins,IoC,adsliealtgdsintes)TssndsntreagleyoftedytlaynerdtobemdbytelsofteseofIN2.TtSn6,IoC,b,adteseishdtordasf.PNBYFTCSM.Aynerdbylobepdbyayrlb,c,d,oraycdbyorpttos;orbyayc,c,sld,sld,ayjtd,ororplsfteseofIomybepdbymgshnebyftc,pep,totersofshj;p,h,ttpnbymlaspdfrh,slcellneoyiftectofm,igp,msa,islstntectoforpnrdbyl.NybeidwhryogmsshasuybfofshmgslbebysnatoftedycdosoftebypgtenN3.TtSn6,IoC,b,adteseishN4.TtCr1,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.ECP.()Ngaypflwtotec,ayp,gle,orbsoroyrdorpdurtelsofteseofIotophn,p,ororininanrmyiyphshn,p,ororintesecsw.Ifalrsoftssna,n,p,ororineyp]
+[DELETED: ttotssnslheteselletasn,p,ororinpdinanrpttos,IoC)TemmpgdsaddnrsurtsofteseofIofrpgn,p,ororininaptnrslayeyton,prorineypdpttotss)Agleytteypsayn,ororinpttotssns)Cywhalaenersrgtenrosofaenerdprtogta;a)Cywhteaarspdinsn7oC)Tesecrslfeter,s,anofn,p,adorinttaepdpttotssnadeettteseaeaotepcfeofc.Tesecrslitfyoniswetoawustosetoreesofpcmgnsofgle,whtytofrshnsbytelnoftepcmgadtnofayptseasrdbylwtobeidinapcmgn)Asudintss)"yp"or"cp"mstgofdlinontesecsweintrpdintss)"le"hstesemgpdins,IoC,adsliealtgdsintes)TssndsntreagleyoftedytlaynerdtobemdbytelsofteseofIN5.Aneyegt,wheyishdtoe,Ss1ad2oftsatslbeinflfeadetonadarpeada,adSs3ad4oftsatseinflfeadetonadarJy1,2]

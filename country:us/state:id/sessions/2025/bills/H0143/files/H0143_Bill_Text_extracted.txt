@@ -1,0 +1,451 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 143
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO COUNTIES AND COUNTY LAW; AMENDING SECTION 31-4401A, IDAHO CODE,
+3 TO DEFINE A TERM AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+4 31-4402, IDAHO CODE, TO PROVIDE CERTAIN AUTHORITY TO A BOARD OF COUNTY
+5 COMMISSIONERS AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION
+6 31-4407, IDAHO CODE, TO PROVIDE A CODE REFERENCE AND TO MAKE A TECH-
+7 NICAL CORRECTION; AMENDING SECTION 31-4407A, IDAHO CODE, TO REVISE A
+8 PROVISION REGARDING PROCEDURES FOR CHANGES IN STATUS OF MAJOR WASTE
+9 GENERATORS AND MUNICIPALITIES AND TO MAKE TECHNICAL CORRECTIONS; AND
+10 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 31-4401A, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 31-4401A. DEFINITIONS. In this chapter:
+15 (1) "Flow control" means any method or system under which a governmen-
+16 tal entity, by ordinance, regulation, or other official directive, compels
+17 solid waste haulers to process or dispose of waste at a designated facility.
+18 (1) (2) "Major solid waste generator" means any person who generates
+19 two per cent percent (2%) or more of the total solid waste originating in any
+20 county.
+21 (2) (3) "Person" means any natural person, firm, corporation, or other
+22 entity, but does not include a municipality, a state agency or a state educa-
+23 tional institution.
+24 (3) (4) "Significant effect" means any change in the amount of solid
+25 waste to be sent to any waste disposal site which that exceeds either five per
+26 cent percent (5%) of the total monthly amount of waste disposal at any par-
+27 ticular solid waste disposal site during the most recent calendar year, or
+28 five per cent percent (5%) of the projected processing capacity of any new
+29 solid waste disposal site.
+30 (4) (5) "State agency" means each state board, commission, department
+31 or officer authorized by law to make rules or to determine contested cases.
+32 (5) (6) "State educational institution" means a public educational fa-
+33 cility or institution regulated by the state board of education or the board
+34 of regents of the university of Idaho.
+35 (6) (7) "System" means lands, sites, facilities, equipment and man-
+36 power necessary for collection, transportation, storage, treatment, pro-
+37 cessing, reuse, recycling or other means necessary for the disposal of solid
+38 waste.
+39 (7) (8) "Waste processing facility" means any waste disposal site or
+40 any public work at which solid waste is compacted, incinerated, or otherwise
+41 treated prior to disposal. It shall not include the placement of portable
+2
+1 collection facilities or similar equipment used solely to facilitate col-
+2 lection of solid waste.
+3 SECTION 2. That Section 31-4402, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 31-4402. AUTHORITY OF COUNTY COMMISSIONERS. (1) The board of county
+6 commissioners in each of the several counties is hereby authorized to ac-
+7 quire, establish, maintain and operate such solid waste disposal systems
+8 as are necessary and to provide reasonable and convenient access to such
+9 disposal systems by all the citizens of the county. For the purpose of estab-
+10 lishing systems for solid waste disposal, the board of county commissioners
+11 may purchase, lease, condemn or receive as gifts such areas as are suitable,
+12 or the board may exchange land with any other unit or units of government
+13 under such terms as are mutually advantageous. In order that a county may
+14 acquire sites or systems as expeditiously and advantageously as possible,
+15 a county may use funds from current revenues, may use funds made available
+16 through the issuance of bonds, or may use funds made available from county
+17 building construction funds, and the provisions of chapter 10, title 31,
+18 Idaho Code, are hereby made applicable for the acquisition of solid waste
+19 disposal systems and a. A solid waste disposal system is declared to be a
+20 public building within the definition of chapter 10, title 31, Idaho Code,
+21 except that notwithstanding any other provisions of law, no board of county
+22 commissioners or other public authority shall be required to contract out
+23 the establishment, acquisition, operation or maintenance of a solid waste
+24 disposal system, but if it should elect to do so, it may waive the giving of
+25 a bond or other security in connection with such contract upon such terms
+26 and conditions as it deems appropriate, and provided further that any county
+27 may itself, without contracting out to any other party, establish, acquire,
+28 operate and maintain a solid waste disposal system.
+29 (2) The board of county commissioners may enact flow control measures
+30 to protect public investment in solid waste facilities and systems, to re-
+31 duce county liabilities, to avoid the creation of publicly funded assets
+32 that cannot be fully utilized, to ensure waste management is facilitated in
+33 an environmentally compliant manner, and to promote public health.
+34 (3) Notwithstanding any other provision of law to the contrary, flow
+35 control measures pursuant to this section shall only be enacted after the
+36 county completes an independent study by a qualified professional demon-
+37 strating that flow control is necessary to achieve the goals provided for
+38 in subsection (2) of this section. Counties that are members of a regional
+39 solid waste or domestic septage disposal district pursuant to chapter 49,
+40 title 31, Idaho Code, are exempt from the provisions of this subsection. The
+41 study shall include:
+42 (a) A comprehensive financial impact analysis of potential economic
+43 impacts on county-funded solid waste facilities if flow control is
+44 not enacted. Such analysis shall include revenue projections for the
+45 facility under various scenarios, including with and without flow con-
+46 trol, demonstrating the anticipated return on public investment;
+47 (b) A comparative cost-benefit analysis illustrating the costs and
+48 benefits of implementing flow control versus allowing unrestricted
+49 disposal options. Such comparative analysis shall evaluate the facil-
+3
+1 ity's long-term sustainability and predict maintenance and operational
+2 costs relative to expected revenues under flow control. Special empha-
+3 sis shall be put on identifying how flow control can help prevent the
+4 creation of stranded assets such as facilities or infrastructure that
+5 are underutilized or abandoned that will result in sunk costs or unre-
+6 coverable investments funded by public moneys;
+7 (c) A liability and risk mitigation evaluation of potential liabili-
+8 ties associated with the solid waste system under scenarios where flow
+9 control is enacted and is not enacted. Such evaluation shall assess
+10 risks related to underutilized capacity, unrecouped capital invest-
+11 ments, and the financial burden of maintaining idle facilities if waste
+12 is diverted to other disposal locations, including facilities outside
+13 of the county;
+14 (d) A compliance verification assessment verifying that waste gener-
+15 ated within the county is not sent to facilities that are noncompliant
+16 with federal, state, or local regulations. Such assessment shall in-
+17 clude an analysis of the regulatory compliance of any facilities out-
+18 side of the county that might otherwise receive waste from the county,
+19 ensuring that flow control is implemented only to prevent waste from be-
+20 ing diverted to noncompliant facilities, which could pose risks to pub-
+21 lic health and the environment;
+22 (e) A regulatory and environmental impact assessment, including doc-
+23 umentation on how flow control supports the county's commitment to
+24 responsible waste management practices that meet or exceed regulatory
+25 standards for public health and environmental protection, including
+26 air, soil, and water quality; and
+27 (f) A comprehensive alternative analysis review of other potential
+28 measures that may be used to achieve the same goals as provided for
+29 in subsection (2) of this section, including any available compliant
+30 facilities outside the county. The analysis shall provide a detailed
+31 explanation for why the alternatives may be more or less effective or
+32 feasible than flow control in protecting public investment in solid
+33 waste facilities and systems, reducing county liabilities, avoiding
+34 the creation of publicly funded assets that cannot be fully utilized,
+35 ensuring waste management is facilitated in an environmentally compli-
+36 ant manner, and promoting public health.
+37 (4) Upon completion of the study provided for in subsection (3) of this
+38 section, it shall be presented in a public forum before any final decision is
+39 made on flow control measures to ensure transparency and to provide oppor-
+40 tunities for public comment. The board of county commissioners shall pro-
+41 vide adequate notice of such public process, including public access to the
+42 study's findings, to allow citizens to participate and offer input.
+43 SECTION 3. That Section 31-4407, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 31-4407. EXISTING AND FUTURE MUNICIPAL FACILITIES TO CONFORM TO
+46 CHAPTER. Solid waste disposal facilities now in existence or hereafter es-
+47 tablished and maintained and/or operated by any city shall conform in the
+48 same manner as county solid waste disposal facilities as provided in section
+49 sections 34-4402 and 31-4405, Idaho Code.
+4
+1 SECTION 4. That Section 31-4407A, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 31-4407A. CHANGES IN STATUS OF MAJOR WASTE GENERATORS AND MUNICIPALI-
+4 TIES -- PROCEDURES. (1) Major solid waste generators and municipalities op-
+5 erating solid waste collection or disposal systems pursuant to the authority
+6 conferred by law or desiring to initiate or abandon such systems shall con-
+7 form to the procedures and standards set forth in this section before tak-
+8 ing any action which that would significantly affect the amount or distribu-
+9 tion of solid waste within any county. The board of county commissioners of
+10 any county may waive operation of the procedure called for in this section by
+11 passage of a resolution indicating their its intent to do so.
+12 (2) Whenever a county shall propose proposes the establishment of a new
+13 solid waste processing facility within the boundaries of the county or in
+14 conjunction with adjoining counties, it shall give notice to the public and
+15 all municipalities within its boundaries that it intends to establish a pro-
+16 cessing facility. In conjunction with the notice, the county shall provide
+17 a copy of a feasibility study prepared by a licensed professional engineer
+18 concerning the proposed processing facility which that shall address the es-
+19 timated capital cost of the facility, the estimated costs of operation of the
+20 facility, and the estimated life span of the facility. The notice shall be
+21 provided to potentially affected municipalities at least one hundred eighty
+22 (180) days prior to the scheduled initiation of construction of any solid
+23 waste processing facility.
+24 (3) Within ninety (90) days of receipt of the notice, each affected mu-
+25 nicipality shall respond to the notice provided by the county, indicating in
+26 its response the intention of the municipality to participate in the use of
+27 the proposed facility or to develop or continue operation of an independent
+28 solid waste processing facility of its own for the projected duration of the
+29 proposed county project.
+30 (4) Pursuant to the responses received from affected municipalities,
+31 the county proposing development of the solid waste processing facility may
+32 tender contracts to participating municipalities assuring the availabil-
+33 ity of waste disposal capacity at the proposed facility for any duration
+34 promised by contract and securing commitments from the municipalities to
+35 participate in use of the facility for the duration of its projected life.
+36 The contracts shall not constitute guarantees of costs or duration of ser-
+37 viceability of the proposed facility. The contracts may provide for annual
+38 adjustments to reflect changes in the relative contribution rates of mu-
+39 nicipalities to the waste stream feeding the disposal facility. No capital
+40 contribution obligation shall extend beyond fifteen (15) years. Additional
+41 contracts for capital participation may be proposed and entered into after
+42 the expiration of the initial agreement.
+43 (5) Any municipality which that indicates its intent not to participate
+44 in a proposed facility shall be barred from later participation without the
+45 consent of the board of county commissioners and without payment of a capital
+46 contribution adequate to finance the cost of additional capacity adequate to
+47 accommodate the waste stream generated within the municipality. The amount
+48 and method of payment of the capital contribution shall be established by the
+49 board of county commissioners.
+5
+1 (6) Any municipality which that elects to participate in a given solid
+2 waste processing facility, but later elects to withdraw from said project,
+3 may do so, but shall remain obligated for any capital costs incurred in its
+4 behalf, but may receive partial credit for operational economies created by
+5 its withdrawal. The burden of proof of the extent of operational economies
+6 shall rest upon the withdrawing municipality.
+7 (7) Major solid waste generators located outside participating munic-
+8 ipalities shall be treated in the same manner as municipalities concerning
+9 commitments to waste facility capacity. Boards of county commissioners are
+10 authorized to enter into contracts with major solid waste generators for the
+11 expected duration of operation of any solid waste processing facility.
+12 SECTION 5. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YLLGTCNAGTOCSADCYL;AGSN3,IOCODEATMADTOMETLC;AGS,IOC,TOPECNAYTOABDOFCSADTOMEATLC;AGS,IOC,TOPEACEREADTOMEATLC;AGSN3,IOC,TORENRGPSFRCSINSSOFMRWSADMSADTOMETLC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.D.Intsc)"wc"msaymdorsmurwhagle,byo,r,ororold,cdwehstopsordeofweataddf)()"rsdweg"msaypnwogoprctpt()ormeoftetlsdweogina)()""msaynlp,f,c,oro,btdsntieam,aseayoraseeli)()"te"msayceinteatofsetobesttoaywedlsewhtteserfeptpt()oftetlmyatofwedlatayprsdwedlsedgtemtrtcry,oeprctpt()oftepdpgcyofayndwedls)()"ea"msehseb,c,droradbylwtomersortodecdc)()"eeli"msapcelfyorinrdbytesebdofenortebfrsofteuyofI)()""msl,s,f,etadmrnyfrc,t,s,t,p,r,rgorormsnyfrtedlofs)()"epgf"msaywedlseoypcwkatwhsdweisc,i,orodprtod.Itslntieteptofp]
+[DELETED: nfsorsretudsytofecnofsdwN2.TtSn3,IoC,b,adteseishdtordasf.AYOFCYC.()Tebdofcsinehofteslcsishyadtoa,e,mnadoeshsdwedlssaenyadtopereadctastoslssbyaltecsoftec.Frtepeofegssfrsdwed,tebdofcycyp,l,cnorreasgsshasasaesrtebdmyeeldwhayorutorusofgrshtsasaemya.Inorttacymessorssaseyadayaspcymyuefsfmctr,myuefsmeahteieofb,ormyuefsmeaefmcgcnf,adtepsofcr1,te3oC,aehymeaefrteanofsdwlssada.Asdwedlsmisddtobecbgwntednofcr1,te3,IoCtttngayorpsofl,nobdofcsororpcayslberdtoctoee,a,onormeofasdwls,btifitsdettodos,itmyweteggobdororsyincnwhshctunshtdcsasitdsa,adpdfrttaycyi,wtcgottoayorp,e,aeadmnasdwedls)Tebdofcycsmyetfwclmoptpcitinsdwefsads,torecyl,toadtecnofpyfdatctbefyu,toeewemtisfdineyctm,adtopepch)Ngayorpnoflwtotec,flmspttotssnsloybeedartycsanitsybyaqdpldgttfwclisnytoaetegspdfnsn()oftss.Csttaemsofardweordcsedldtpttocr4e3,IoC,aeetfmtepsoftss.Tysli)Aceflitasofplesoncdsdwefsiffwclite.Shasslierepsfrtyurvss,igwhadwtfwc,dgteadrnonpci)Acectasigtecsasofigfwclvsagulo.Shceassleetef]
+[DELETED: slmsyadptmeadosretoedrsurfwc.Slesslbeptonighwfwclcnhppttnofsdasshasfsorieteudoradttwlrtinskcsorueisfdbypcm)Alyadrkmnenofpllsadwhtesdwesmurssweflisedadisnte.Shenslasrdtoudc,udcli,adteflbnofmgiefsifwsddtoordll,igfsoftec)Acevnatvgttwegdwntecyisntsttofsttaenhf,s,orllr.Shatslieanasofteryceofayfsoeoftecyttmtoerewefmtecgttfwclisidoytoptwefmbgddtontf,whcdperstopchhadtee)Aryadelita,igdnonhwfwclsstecscttewemtpsttmtoredrsfrpchhadelp,i,s,adwrq;a)Aceaeasrwoforpsttmybeudtoaetesegsaspdfnsn()oftss,igayaecsoetec.Teasslpeadnfrwyteasmybemeorlseeoetnfwclinpgpcitinsefsads,rgcyl,aecnofpyfdasttctbefyugwemtisfdinaneyctm,adpgpch)Uncnoftesypdfrinsn()oft,itslbepdinapcfmbeayfldnieonfwclmstoeetyadtopeosfrpcc.Tebdofcycsslpeaeneofshpcp,igpcastotsf,toawcstopeadoriN3.TtSn3,IoC,b,adteseishdtordasf.EGADFEMLFSTOCMT.Sdwedlfsnwineeorhredadmdarodbyaycyslcmintemrascysdwedlfsaspdinss32ad3,IoC]
+[DELETED: N4.TtSn3,IoC,b,adteseishdtordasf.CSINSSOFMRWEGSADMS--P.()Mrsdwegsadmsogsdwecnordlsspttoteadbylwordgtoieoranshssslcmtotepsadssstfhintssnbetgayanwhttwdsyatteatordnofsdwewnayc.Tebdofcycsoycymyweonoftepecdfrintssnbeofarnigtrisittodos)Wracyslpepsteetofandwepgfywntebsoftecyorinwhagc,itslgenetotepcalmswnisbsttitistoehapgf.Incnwhten,tecyslpcyofafysypdbyaldplegtepdpgfywhttslasteedclctoftef,teedcsofonoft,adteedlesnoftef.Teneslbdtopyadmsatltoehde)dsprtotesdinofcnofaysepgf)Wnny()dsofrtoften,ehadmyslrdtotenepdbytec,igisreteinoftemytopeinteueoepdfyortodporceonofanidwepgfyofisonfrtepddnoftdcyp)Pttotersrdfmadmecypgdtoftesdwepgfymrcstopgmsagteayofwedlcyattepdfyfrayddbyctadsgcsfmtemsteinueoftefyfrtednofispdlecsslntcegsofcsordnofsyoftepdf.Tecsmypefrastortcsinterecnrsofmstotewesmfgtedlf.Nocnonsledbdfn()y.Asfrclpnmybepdadedioaeenofteila)Aymywhttisisitnttopnapdfyslbebdfmlrpnwtttoftebdofcycsadwtptofacnaetofetectofalcyaetetewesmgdwntem.Teadmdofptofteclcnslbeedbytdofcyc]
+[DELETED: )Aymywhttestopeinagnsepgf,btlrestowwfmsdpydos,btslrnodfrayclcsidini,btmyreplctfrolescdbsw.Tebnofpfofteetofolelrtuntewgm)Mrsdwegsldoepgmsslbetdintesemrasmscstowefyc.BsofcycsadtoeriocswhmrsdwegsfrtddnofonofaysdwepgfN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 143
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO COUNTIES AND COUNTY LAW; AMENDING SECTION 31-4401A, IDAHO CODE,
+3 TO DEFINE A TERM AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+4 31-4402, IDAHO CODE, TO PROVIDE CERTAIN AUTHORITY TO A BOARD OF COUNTY
+5 COMMISSIONERS AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION
+6 31-4407, IDAHO CODE, TO PROVIDE A CODE REFERENCE AND TO MAKE A TECH-
+7 NICAL CORRECTION; AMENDING SECTION 31-4407A, IDAHO CODE, TO REVISE A
+8 PROVISION REGARDING PROCEDURES FOR CHANGES IN STATUS OF MAJOR WASTE
+9 GENERATORS AND MUNICIPALITIES AND TO MAKE TECHNICAL CORRECTIONS; AND
+10 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 31-4401A, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 31-4401A. DEFINITIONS. In this chapter:
+15 (1) "Flow control" means any method or system under which a governmen-
+16 tal entity, by ordinance, regulation, or other official directive, compels
+17 solid waste haulers to process or dispose of waste at a designated facility.
+18 (1) (2) "Major solid waste generator" means any person who generates
+19 two per cent percent (2%) or more of the total solid waste originating in any
+20 county.
+21 (2) (3) "Person" means any natural person, firm, corporation, or other
+22 entity, but does not include a municipality, a state agency or a state educa-
+23 tional institution.
+24 (3) (4) "Significant effect" means any change in the amount of solid
+25 waste to be sent to any waste disposal site which that exceeds either five per
+26 cent percent (5%) of the total monthly amount of waste disposal at any par-
+27 ticular solid waste disposal site during the most recent calendar year, or
+28 five per cent percent (5%) of the projected processing capacity of any new
+29 solid waste disposal site.
+30 (4) (5) "State agency" means each state board, commission, department
+31 or officer authorized by law to make rules or to determine contested cases.
+32 (5) (6) "State educational institution" means a public educational fa-
+33 cility or institution regulated by the state board of education or the board
+34 of regents of the university of Idaho.
+35 (6) (7) "System" means lands, sites, facilities, equipment and man-
+36 power necessary for collection, transportation, storage, treatment, pro-
+37 cessing, reuse, recycling or other means necessary for the disposal of solid
+38 waste.
+39 (7) (8) "Waste processing facility" means any waste disposal site or
+40 any public work at which solid waste is compacted, incinerated, or otherwise
+41 treated prior to disposal. It shall not include the placement of portable
+
+2
+1 collection facilities or similar equipment used solely to facilitate col-
+2 lection of solid waste.
+3 SECTION 2. That Section 31-4402, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 31-4402. AUTHORITY OF COUNTY COMMISSIONERS. (1) The board of county
+6 commissioners in each of the several counties is hereby authorized to ac-
+7 quire, establish, maintain and operate such solid waste disposal systems
+8 as are necessary and to provide reasonable and convenient access to such
+9 disposal systems by all the citizens of the county. For the purpose of estab-
+10 lishing systems for solid waste disposal, the board of county commissioners
+11 may purchase, lease, condemn or receive as gifts such areas as are suitable,
+12 or the board may exchange land with any other unit or units of government
+13 under such terms as are mutually advantageous. In order that a county may
+14 acquire sites or systems as expeditiously and advantageously as possible,
+15 a county may use funds from current revenues, may use funds made available
+16 through the issuance of bonds, or may use funds made available from county
+17 building construction funds, and the provisions of chapter 10, title 31,
+18 Idaho Code, are hereby made applicable for the acquisition of solid waste
+19 disposal systems and a. A solid waste disposal system is declared to be a
+20 public building within the definition of chapter 10, title 31, Idaho Code,
+21 except that notwithstanding any other provisions of law, no board of county
+22 commissioners or other public authority shall be required to contract out
+23 the establishment, acquisition, operation or maintenance of a solid waste
+24 disposal system, but if it should elect to do so, it may waive the giving of
+25 a bond or other security in connection with such contract upon such terms
+26 and conditions as it deems appropriate, and provided further that any county
+27 may itself, without contracting out to any other party, establish, acquire,
+28 operate and maintain a solid waste disposal system.
+29 (2) The board of county commissioners may enact flow control measures
+30 to protect public investment in solid waste facilities and systems, to re-
+31 duce county liabilities, to avoid the creation of publicly funded assets
+32 that cannot be fully utilized, to ensure waste management is facilitated in
+33 an environmentally compliant manner, and to promote public health.
+34 (3) Notwithstanding any other provision of law to the contrary, flow
+35 control measures pursuant to this section shall only be enacted after the
+36 county completes an independent study by a qualified professional demon-
+37 strating that flow control is necessary to achieve the goals provided for
+38 in subsection (2) of this section. Counties that are members of a regional
+39 solid waste or domestic septage disposal district pursuant to chapter 49,
+40 title 31, Idaho Code, are exempt from the provisions of this subsection. The
+41 study shall include:
+42 (a) A comprehensive financial impact analysis of potential economic
+43 impacts on county-funded solid waste facilities if flow control is
+44 not enacted. Such analysis shall include revenue projections for the
+45 facility under various scenarios, including with and without flow con-
+46 trol, demonstrating the anticipated return on public investment;
+47 (b) A comparative cost-benefit analysis illustrating the costs and
+48 benefits of implementing flow control versus allowing unrestricted
+49 disposal options. Such comparative analysis shall evaluate the facil-
+
+3
+1 ity's long-term sustainability and predict maintenance and operational
+2 costs relative to expected revenues under flow control. Special empha-
+3 sis shall be put on identifying how flow control can help prevent the
+4 creation of stranded assets such as facilities or infrastructure that
+5 are underutilized or abandoned that will result in sunk costs or unre-
+6 coverable investments funded by public moneys;
+7 (c) A liability and risk mitigation evaluation of potential liabili-
+8 ties associated with the solid waste system under scenarios where flow
+9 control is enacted and is not enacted. Such evaluation shall assess
+10 risks related to underutilized capacity, unrecouped capital invest-
+11 ments, and the financial burden of maintaining idle facilities if waste
+12 is diverted to other disposal locations, including facilities outside
+13 of the county;
+14 (d) A compliance verification assessment verifying that waste gener-
+15 ated within the county is not sent to facilities that are noncompliant
+16 with federal, state, or local regulations. Such assessment shall in-
+17 clude an analysis of the regulatory compliance of any facilities out-
+18 side of the county that might otherwise receive waste from the county,
+19 ensuring that flow control is implemented only to prevent waste from be-
+20 ing diverted to noncompliant facilities, which could pose risks to pub-
+21 lic health and the environment;
+22 (e) A regulatory and environmental impact assessment, including doc-
+23 umentation on how flow control supports the county's commitment to
+24 responsible waste management practices that meet or exceed regulatory
+25 standards for public health and environmental protection, including
+26 air, soil, and water quality; and
+27 (f) A comprehensive alternative analysis review of other potential
+28 measures that may be used to achieve the same goals as provided for
+29 in subsection (2) of this section, including any available compliant
+30 facilities outside the county. The analysis shall provide a detailed
+31 explanation for why the alternatives may be more or less effective or
+32 feasible than flow control in protecting public investment in solid
+33 waste facilities and systems, reducing county liabilities, avoiding
+34 the creation of publicly funded assets that cannot be fully utilized,
+35 ensuring waste management is facilitated in an environmentally compli-
+36 ant manner, and promoting public health.
+37 (4) Upon completion of the study provided for in subsection (3) of this
+38 section, it shall be presented in a public forum before any final decision is
+39 made on flow control measures to ensure transparency and to provide oppor-
+40 tunities for public comment. The board of county commissioners shall pro-
+41 vide adequate notice of such public process, including public access to the
+42 study's findings, to allow citizens to participate and offer input.
+43 SECTION 3. That Section 31-4407, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 31-4407. EXISTING AND FUTURE MUNICIPAL FACILITIES TO CONFORM TO
+46 CHAPTER. Solid waste disposal facilities now in existence or hereafter es-
+47 tablished and maintained and/or operated by any city shall conform in the
+48 same manner as county solid waste disposal facilities as provided in section
+49 sections 34-4402 and 31-4405, Idaho Code.
+
+4
+1 SECTION 4. That Section 31-4407A, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 31-4407A. CHANGES IN STATUS OF MAJOR WASTE GENERATORS AND MUNICIPALI-
+4 TIES -- PROCEDURES. (1) Major solid waste generators and municipalities op-
+5 erating solid waste collection or disposal systems pursuant to the authority
+6 conferred by law or desiring to initiate or abandon such systems shall con-
+7 form to the procedures and standards set forth in this section before tak-
+8 ing any action which that would significantly affect the amount or distribu-
+9 tion of solid waste within any county. The board of county commissioners of
+10 any county may waive operation of the procedure called for in this section by
+11 passage of a resolution indicating their its intent to do so.
+12 (2) Whenever a county shall propose proposes the establishment of a new
+13 solid waste processing facility within the boundaries of the county or in
+14 conjunction with adjoining counties, it shall give notice to the public and
+15 all municipalities within its boundaries that it intends to establish a pro-
+16 cessing facility. In conjunction with the notice, the county shall provide
+17 a copy of a feasibility study prepared by a licensed professional engineer
+18 concerning the proposed processing facility which that shall address the es-
+19 timated capital cost of the facility, the estimated costs of operation of the
+20 facility, and the estimated life span of the facility. The notice shall be
+21 provided to potentially affected municipalities at least one hundred eighty
+22 (180) days prior to the scheduled initiation of construction of any solid
+23 waste processing facility.
+24 (3) Within ninety (90) days of receipt of the notice, each affected mu-
+25 nicipality shall respond to the notice provided by the county, indicating in
+26 its response the intention of the municipality to participate in the use of
+27 the proposed facility or to develop or continue operation of an independent
+28 solid waste processing facility of its own for the projected duration of the
+29 proposed county project.
+30 (4) Pursuant to the responses received from affected municipalities,
+31 the county proposing development of the solid waste processing facility may
+32 tender contracts to participating municipalities assuring the availabil-
+33 ity of waste disposal capacity at the proposed facility for any duration
+34 promised by contract and securing commitments from the municipalities to
+35 participate in use of the facility for the duration of its projected life.
+36 The contracts shall not constitute guarantees of costs or duration of ser-
+37 viceability of the proposed facility. The contracts may provide for annual
+38 adjustments to reflect changes in the relative contribution rates of mu-
+39 nicipalities to the waste stream feeding the disposal facility. No capital
+40 contribution obligation shall extend beyond fifteen (15) years. Additional
+41 contracts for capital participation may be proposed and entered into after
+42 the expiration of the initial agreement.
+43 (5) Any municipality which that indicates its intent not to participate
+44 in a proposed facility shall be barred from later participation without the
+45 consent of the board of county commissioners and without payment of a capital
+46 contribution adequate to finance the cost of additional capacity adequate to
+47 accommodate the waste stream generated within the municipality. The amount
+48 and method of payment of the capital contribution shall be established by the
+49 board of county commissioners.
+
+5
+1 (6) Any municipality which that elects to participate in a given solid
+2 waste processing facility, but later elects to withdraw from said project,
+3 may do so, but shall remain obligated for any capital costs incurred in its
+4 behalf, but may receive partial credit for operational economies created by
+5 its withdrawal. The burden of proof of the extent of operational economies
+6 shall rest upon the withdrawing municipality.
+7 (7) Major solid waste generators located outside participating munic-
+8 ipalities shall be treated in the same manner as municipalities concerning
+9 commitments to waste facility capacity. Boards of county commissioners are
+10 authorized to enter into contracts with major solid waste generators for the
+11 expected duration of operation of any solid waste processing facility.
+12 SECTION 5. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YLLGTCNAGTOCSADCYL;AGSN3,IOCODEATMADTOMETLC;AGS,IOC,TOPECNAYTOABDOFCSADTOMEATLC;AGS,IOC,TOPEACEREADTOMEATLC;AGSN3,IOC,TORENRGPSFRCSINSSOFMRWSADMSADTOMETLC;AGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.D.Intsc)"wc"msaymdorsmurwhagle,byo,r,ororold,cdwehstopsordeofweataddf)()"rsdweg"msaypnwogoprctpt()ormeoftetlsdweogina)()""msaynlp,f,c,oro,btdsntieam,aseayoraseeli)()"te"msayceinteatofsetobesttoaywedlsewhtteserfeptpt()oftetlmyatofwedlatayprsdwedlsedgtemtrtcry,oeprctpt()oftepdpgcyofayndwedls)()"ea"msehseb,c,droradbylwtomersortodecdc)()"eeli"msapcelfyorinrdbytesebdofenortebfrsofteuyofI)()""msl,s,f,etadmrnyfrc,t,s,t,p,r,rgorormsnyfrtedlofs)()"epgf"msaywedlseoypcwkatwhsdweisc,i,orodprtod.Itslntieteptofp]
+[DELETED: nfsorsretudsytofecnofsdwN2.TtSn3,IoC,b,adteseishdtordasf.AYOFCYC.()Tebdofcsinehofteslcsishyadtoa,e,mnadoeshsdwedlssaenyadtopereadctastoslssbyaltecsoftec.Frtepeofegssfrsdwed,tebdofcycyp,l,cnorreasgsshasasaesrtebdmyeeldwhayorutorusofgrshtsasaemya.Inorttacymessorssaseyadayaspcymyuefsfmctr,myuefsmeahteieofb,ormyuefsmeaefmcgcnf,adtepsofcr1,te3oC,aehymeaefrteanofsdwlssada.Asdwedlsmisddtobecbgwntednofcr1,te3,IoCtttngayorpsofl,nobdofcsororpcayslberdtoctoee,a,onormeofasdwls,btifitsdettodos,itmyweteggobdororsyincnwhshctunshtdcsasitdsa,adpdfrttaycyi,wtcgottoayorp,e,aeadmnasdwedls)Tebdofcycsmyetfwclmoptpcitinsdwefsads,torecyl,toadtecnofpyfdatctbefyu,toeewemtisfdineyctm,adtopepch)Ngayorpnoflwtotec,flmspttotssnsloybeedartycsanitsybyaqdpldgttfwclisnytoaetegspdfnsn()oftss.Csttaemsofardweordcsedldtpttocr4e3,IoC,aeetfmtepsoftss.Tysli)Aceflitasofplesoncdsdwefsiffwclite.Shasslierepsfrtyurvss,igwhadwtfwc,dgteadrnonpci)Acectasigtecsasofigfwclvsagulo.Shceassleetef]
+[DELETED: slmsyadptmeadosretoedrsurfwc.Slesslbeptonighwfwclcnhppttnofsdasshasfsorieteudoradttwlrtinskcsorueisfdbypcm)Alyadrkmnenofpllsadwhtesdwesmurssweflisedadisnte.Shenslasrdtoudc,udcli,adteflbnofmgiefsifwsddtoordll,igfsoftec)Acevnatvgttwegdwntecyisntsttofsttaenhf,s,orllr.Shatslieanasofteryceofayfsoeoftecyttmtoerewefmtecgttfwclisidoytoptwefmbgddtontf,whcdperstopchhadtee)Aryadelita,igdnonhwfwclsstecscttewemtpsttmtoredrsfrpchhadelp,i,s,adwrq;a)Aceaeasrwoforpsttmybeudtoaetesegsaspdfnsn()oftss,igayaecsoetec.Teasslpeadnfrwyteasmybemeorlseeoetnfwclinpgpcitinsefsads,rgcyl,aecnofpyfdasttctbefyugwemtisfdinaneyctm,adpgpch)Uncnoftesypdfrinsn()oft,itslbepdinapcfmbeayfldnieonfwclmstoeetyadtopeosfrpcc.Tebdofcycsslpeaeneofshpcp,igpcastotsf,toawcstopeadoriN3.TtSn3,IoC,b,adteseishdtordasf.EGADFEMLFSTOCMT.Sdwedlfsnwineeorhredadmdarodbyaycyslcmintemrascysdwedlfsaspdinss32ad3,IoC]
+[DELETED: N4.TtSn3,IoC,b,adteseishdtordasf.CSINSSOFMRWEGSADMS--P.()Mrsdwegsadmsogsdwecnordlsspttoteadbylwordgtoieoranshssslcmtotepsadssstfhintssnbetgayanwhttwdsyatteatordnofsdwewnayc.Tebdofcycsoycymyweonoftepecdfrintssnbeofarnigtrisittodos)Wracyslpepsteetofandwepgfywntebsoftecyorinwhagc,itslgenetotepcalmswnisbsttitistoehapgf.Incnwhten,tecyslpcyofafysypdbyaldplegtepdpgfywhttslasteedclctoftef,teedcsofonoft,adteedlesnoftef.Teneslbdtopyadmsatltoehde)dsprtotesdinofcnofaysepgf)Wnny()dsofrtoften,ehadmyslrdtotenepdbytec,igisreteinoftemytopeinteueoepdfyortodporceonofanidwepgfyofisonfrtepddnoftdcyp)Pttotersrdfmadmecypgdtoftesdwepgfymrcstopgmsagteayofwedlcyattepdfyfrayddbyctadsgcsfmtemsteinueoftefyfrtednofispdlecsslntcegsofcsordnofsyoftepdf.Tecsmypefrastortcsinterecnrsofmstotewesmfgtedlf.Nocnonsledbdfn()y.Asfrclpnmybepdadedioaeenofteila)Aymywhttisisitnttopnapdfyslbebdfmlrpnwtttoftebdofcycsadwtptofacnaetofetectofalcyaetetewesmgdwntem.Teadmdofptofteclcnslbeedbytdofcyc]
+[DELETED: )Aymywhttestopeinagnsepgf,btlrestowwfmsdpydos,btslrnodfrayclcsidini,btmyreplctfrolescdbsw.Tebnofpfofteetofolelrtuntewgm)Mrsdwegsldoepgmsslbetdintesemrasmscstowefyc.BsofcycsadtoeriocswhmrsdwegsfrtddnofonofaysdwepgfN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

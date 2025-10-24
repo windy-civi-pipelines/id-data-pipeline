@@ -1,0 +1,75 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Bruce
+Seconded by Skaug(10)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 9
+1 AMENDMENT TO SECTION 7
+2 On page 11 of the printed bill, in line 7, delete "The rules" and insert:
+3 "The rules Except for any action by the department of water resources or the
+4 water resource board, the rules".
+5 AMENDMENT TO SECTION 10
+6 On page 12, in line 18, delete ", prior to initiation of a contested
+7 case"; in line 21, delete "and"; delete lines 22 through 28, and insert:
+8 "(c) Seek informal disposition of a matter; and
+9 (d) Seek informal disposition of a contested case, upon which infor-
+10 mal disposition a presiding officer may decline to decide the contested
+11 case.
+12 (2) Informal disposition is to be encouraged and may be made by alterna-
+13 tive dispute"; in line 30, delete "4" and insert: "3"; in line 32, delete "if
+14 a contested case has been initiated"; and in line 39, delete "5" and insert:
+15 "4".
+16 AMENDMENT TO SECTION 11
+17 On page 12, in line 43, delete "(1) An agency shall give notice of an"; and
+18 delete lines 44 through 46.
+19 On page 13, delete lines 1 through 6; in line 7, delete "(1) (2)" and in-
+20 sert: "(1)"; and in line 18, delete "(3)" and insert: "(3) (2)".
+21 CORRECTION TO TITLE
+22 On page 1, in line 24, delete "TO ESTABLISH PROVISIONS"; and in line 25,
+23 delete "REGARDING PROCEDURE AT A CONTESTED CASE HEARING,".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyBdbySNTEHEOFREATTOH.N.TTOSNnpe11oftepdb,inle7,de"er"adiersEtfrayanbytedtofwrrsortrreb,terTTOSN1npe1,inle1,de",prtoinofac;inle2,de";dels22th2,adi)Skildnofam;a)Skildnofacdc,unwhildnapgormydetodetec)Ildnistobeedadmybemebyaed;inle3,de""adi:";inle3,de"cdcehsbni;adinle3,de""adiTTOSN1npe1,inle4,de")Anayslgeneofa;aels44th4npe1,dels1th6;inle7,de")("adi:";adinle1,de""adi:")(NTOTnpe1,inle2,de"OEHP;adinle2e"GPEATACDCEH]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Bruce
+Seconded by Skaug(10)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 9
+1 AMENDMENT TO SECTION 7
+2 On page 11 of the printed bill, in line 7, delete "The rules" and insert:
+3 "The rules Except for any action by the department of water resources or the
+4 water resource board, the rules".
+5 AMENDMENT TO SECTION 10
+6 On page 12, in line 18, delete ", prior to initiation of a contested
+7 case"; in line 21, delete "and"; delete lines 22 through 28, and insert:
+8 "(c) Seek informal disposition of a matter; and
+9 (d) Seek informal disposition of a contested case, upon which infor-
+10 mal disposition a presiding officer may decline to decide the contested
+11 case.
+12 (2) Informal disposition is to be encouraged and may be made by alterna-
+13 tive dispute"; in line 30, delete "4" and insert: "3"; in line 32, delete "if
+14 a contested case has been initiated"; and in line 39, delete "5" and insert:
+15 "4".
+16 AMENDMENT TO SECTION 11
+17 On page 12, in line 43, delete "(1) An agency shall give notice of an"; and
+18 delete lines 44 through 46.
+19 On page 13, delete lines 1 through 6; in line 7, delete "(1) (2)" and in-
+20 sert: "(1)"; and in line 18, delete "(3)" and insert: "(3) (2)".
+21 CORRECTION TO TITLE
+22 On page 1, in line 24, delete "TO ESTABLISH PROVISIONS"; and in line 25,
+23 delete "REGARDING PROCEDURE AT A CONTESTED CASE HEARING,".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyBdbySNTEHEOFREATTOH.N.TTOSNnpe11oftepdb,inle7,de"er"adiersEtfrayanbytedtofwrrsortrreb,terTTOSN1npe1,inle1,de",prtoinofac;inle2,de";dels22th2,adi)Skildnofam;a)Skildnofacdc,unwhildnapgormydetodetec)Ildnistobeedadmybemebyaed;inle3,de""adi:";inle3,de"cdcehsbni;adinle3,de""adiTTOSN1npe1,inle4,de")Anayslgeneofa;aels44th4npe1,dels1th6;inle7,de")("adi:";adinle1,de""adi:")(NTOTnpe1,inle2,de"OEHP;adinle2e"GPEATACDCEH]

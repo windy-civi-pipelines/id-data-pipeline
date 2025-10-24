@@ -1,0 +1,338 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 211
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO THE EMERGENCY COMMUNICATIONS ACT; AMENDING SECTION 31-4804,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING EMERGENCY COMMUNICATIONS
+4 FEES AND TO PROVIDE FOR CERTAIN PAYMENTS; AMENDING SECTION 31-4818,
+5 IDAHO CODE, TO PROVIDE FOR CERTAIN FEES TO BE PLACED IN THE IDAHO EMER-
+6 GENCY COMMUNICATIONS FUND; AMENDING SECTION 31-4819, IDAHO CODE, TO
+7 PROVIDE FOR CERTAIN FEES TO BE PLACED IN THE IDAHO EMERGENCY COMMUNICA-
+8 TIONS FUND; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 31-4804, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 31-4804. EMERGENCY COMMUNICATIONS FEE. (1) The emergency communica-
+13 tions fee provided pursuant to the provisions of this chapter shall be a uni-
+14 form amount not to exceed of one dollar ($1.00) per month per access or in-
+15 terconnected VoIP service line, and such fee shall be used exclusively to fi-
+16 nance the initiation, maintenance, operation, enhancement, and governance
+17 of a consolidated emergency communications system and to provide for the re-
+18 imbursement of telecommunications providers for implementing enhanced con-
+19 solidated emergency systems as provided for in section 31-4804A, Idaho Code.
+20 All emergency communications fees collected and expended pursuant to this
+21 section shall be audited by an independent, third-party auditor ordinarily
+22 retained by the governing board for auditing purposes. The purpose of the
+23 audit as related to emergency communications systems is to verify the accu-
+24 racy and completeness of fees collected and costs expended.
+25 (2) The fee shall be imposed upon and collected from purchasers of ac-
+26 cess lines or interconnected VoIP service lines with a service address or
+27 place of primary use within the county or 911 service area on a monthly basis
+28 by all telecommunications providers of such services. The fee may be listed
+29 as a separate item on customers' monthly bills.
+30 (3) The telecommunications providers shall remit such fee to the county
+31 treasurer's office or the administrator for the 911 service area based upon
+32 the 911 service area from which the fees were collected. Such fees shall
+33 be paid to the county treasurer within fifteen (15) days after the end of
+34 the quarter. In the event the telecommunications provider remits such fees
+35 based upon the emergency communications fee billed to the customer, a deduc-
+36 tion shall be allowed for uncollected amounts when such amounts are treated
+37 as bad debt for financial reporting purposes.
+38 (4) From every remittance to the governing body made on or before the
+39 date when the same becomes due, the telecommunications provider required to
+40 remit the same shall be entitled to deduct and retain one percent (1%) of the
+41 collected amount as the cost of administration for collecting the charge.
+42 Telecommunications providers will be allowed to list the surcharge as a sep-
+2
+1 arate item on the telephone subscriber's bill and shall have no obligation to
+2 take any legal action to enforce the collection of any charge, nor be held li-
+3 able for such uncollected amounts.
+4 (5) Use of fees. The emergency communications fee provided hereunder
+5 for in this section shall be used only to pay for the lease, purchase, or
+6 maintenance of emergency communications equipment for basic and enhanced
+7 consolidated emergency systems, and next generation consolidated emergency
+8 systems (NG911), including necessary computer hardware, software, database
+9 provisioning, training, salaries directly related to such systems, costs
+10 of establishing such systems, management, maintenance, and operation of
+11 hardware and software applications and agreed-to reimbursement costs of
+12 telecommunications providers related to the operation of such systems. Use
+13 of the emergency communications fee should, if possible, coincide with the
+14 strategic goals as identified by the Idaho public safety communications
+15 commission in its annual report to the legislature. However, the county or
+16 911 service area governing board has final authority on lawful expenditures.
+17 All other expenditures necessary to operate such systems and other normal
+18 and necessary safety or law enforcement functions including, but not limited
+19 to, those expenditures related to overhead, staffing, dispatching, admin-
+20 istrative and other day-to-day operational expenditures, shall continue to
+21 be paid through the general funding of the respective governing boards; pro-
+22 vided however, that any governing body using the emergency communications
+23 fee to pay the salaries of dispatchers as of March 1, 2006, may continue to do
+24 so until the beginning of such governing body's 2007 fiscal year.
+25 SECTION 2. That Section 31-4818, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 31-4818. IDAHO EMERGENCY COMMUNICATIONS FUND -- ESTABLISHMENT AND AD-
+28 MINISTRATION. (1) There is hereby created within the treasury of the state
+29 of Idaho a separate fund known as the Idaho emergency communications fund,
+30 which shall consist of moneys received from counties, cities, consolidated
+31 emergency communications operations, the fee imposed pursuant to the provi-
+32 sions of section 31-4813, Idaho Code, grants, donations, gifts and revenues
+33 from any other source to support the delivery of consolidated emergency com-
+34 munications systems.
+35 (2) Moneys in the fund are hereby continuously appropriated and shall
+36 be utilized exclusively for the purposes set forth in this chapter as deter-
+37 mined by the commission.
+38 (3) Annually, at the direction of the commission, not more than one per-
+39 cent (1%) of the total emergency communications fees collected in the state
+40 of Idaho is hereby dedicated for and shall be placed in the fund on a quar-
+41 terly basis by county, city or consolidated emergency communications sys-
+42 tems. The commission, on an annual basis, shall prepare a budget indicating
+43 that portion of the fee necessary for the continuous operation of the commis-
+44 sion to achieve the purposes of this chapter.
+45 (4) The commission shall authorize disbursement of moneys in the fund
+46 to eligible entities.
+47 (5) The state treasurer shall invest idle moneys in the fund and inter-
+48 est earned from such investments shall be returned to the fund.
+3
+1 (6) Funds received from the fee imposed pursuant to the provisions of
+2 section 31-4813, Idaho Code, shall be distributed quarterly to each govern-
+3 ing board based upon population served, excluding one percent (1%) to be used
+4 for administration of the emergency communications commission as described
+5 in this section.
+6 (7) Fees collected in the state of Idaho pursuant to section 31-4819,
+7 Idaho Code, by telecommunications providers shall be placed in the fund
+8 within fifteen (15) days after the end of a quarter.
+9 (7) (8) This act is necessary for the immediate preservation of the pub-
+10 lic peace, health, safety or support of the state government and its existing
+11 public institutions and takes effect January 1, 2014.
+12 SECTION 3. That Section 31-4819, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 31-4819. ENHANCED EMERGENCY COMMUNICATIONS GRANT FEE. (1) On and af-
+15 ter July 1, 2013, there shall be an enhanced emergency communications grant
+16 fee established by virtue of authority granted by this chapter. The fee
+17 shall be twenty-five cents (25¢) per month per access or interconnected VoIP
+18 service line.
+19 (a) Such fee shall be authorized by resolution of a majority vote of the
+20 board of commissioners of a countywide system or by the governing board
+21 of a 911 service area.
+22 (b) Such fee shall be remitted to the Idaho emergency communications
+23 fund provided in section 31-4818(1), Idaho Code, on a quarterly basis
+24 by county, city or consolidated emergency communications systems by a
+25 telecommunications provider within fifteen (15) days after the end of a
+26 quarter. Annually, at the discretion of the commission, a budget shall
+27 be prepared allocating a portion of the available grant funds for admin-
+28 istration of the grant program. The remaining grant funds shall be ded-
+29 icated for and shall be authorized for disbursement as grants to eligi-
+30 ble entities that are operating consolidated emergency communications
+31 systems for use to achieve the purposes of this chapter. Grant funds
+32 shall coincide with the strategic goals as identified by the commission
+33 in its annual report to the legislature. Grant funds may also be bud-
+34 geted for and utilized for the establishment of next generation consol-
+35 idated emergency systems (NG911) within the state.
+36 (2) The commission, on an annual basis, shall prepare a budget allo-
+37 cating the grant funds available to eligible entities and the portion of the
+38 funds necessary for the continuous operation of the commission to achieve
+39 the purposes of this chapter.
+40 (3) To be eligible for grant funds under this chapter, a county or 911
+41 service area must be collecting the emergency communications fee in accor-
+42 dance with section 31-4804, Idaho Code, in the full amount authorized and
+43 must also be collecting the enhanced emergency communications grant fee in
+44 the full amount authorized in this subsection.
+45 (4) If a county or 911 service area has authorized the collection of the
+46 enhanced emergency communications grant fee pursuant to this chapter, such
+47 county or 911 service area shall retain the full amount of the emergency com-
+48 munications fee that was set by the board of commissioners or governing board
+49 pursuant to section 31-4803, Idaho Code. The county or 911 service area is
+4
+1 then also exempt from remitting to the Idaho public safety communications
+2 commission one percent (1%) of the total emergency communications fee re-
+3 ceived by the county or 911 service area as required in section 31-4818(3),
+4 Idaho Code. The remaining funds from the enhanced emergency communications
+5 grant fee collected shall then be remitted by the county or 911 service area
+6 to the Idaho public safety communications commission.
+7 SECTION 4. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after
+9 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YLLGTCNAGTOTEEYCSA;AGSN3OC,TOREPSRGEYCSADTOPEFRCNP;AGSN3OC,TOPEFRCNFSTOBEPDINTEIOEYCSF;AGSN3,IOC,TEFRCNFSTOBEPDINTEIOEYCSF;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.EYCSF.()Teeycsfepdpttotepsoftscrslbeaumatnttoedofoedr()prmhprasoridVPsel,adshfeslbeudeytofetei,m,o,e,adgfacdeycssmadtopefrtertoftspsfrigedcdeyssaspdfrinsn3,IoCleycsfscdadedpttotnslbeadbyani,tyarodbyteggbdfragp.Tepeofttasrdtoeycsssistovyteayadcsoffscdadcse)TefeslbeidunadcdfmpsofaslsoridVPselswhaseasoeofpyuewntecyor91seaaonamybyaltspsofshs.Tefemybelsaseimonc'myb)Tetspsslrtshfetotecsoeortearfrte91seaabdue91seaafmwhtefswec.Shfssepdtotecytrwnfn()dsarteedoeq.Inteettetsprrsshfdunteeycsfebdtotec,adnslbeadfrudaswnshasaetsbddtfrflrgp)Fmeyretoteggbymeonorbetewntesebsd,tetsprrdttteseslbeedtodtadrnoept()oftdatastectofanfrcgtecspswlbeadtoltteseasas]
+[DELETED: eimontetessbladslhenoonteayllantoeetecnofayc,nrbehdlefrshuda)Ueoff.Teeycsfepdhrintssnslbeudoytopyfrtel,p,oeofeycsetfrbcadedeys,adntgncdes(,ignycrh,s,d,t,ssdyrdtoshs,cfegshs,m,m,adonoeadseasadaortcsospsrdtoteonofshs.Ufteeycsfes,ifp,cewhtcgsasidbyteIopcsycninisalrttotel.H,tecyo1seaaggbdhsflayonlleloresnytooeshssadorndnysyorlwetfsi,btntl,teesrdtoo,s,d,aeadordyole,slcetepdthteglfgoftereggb;pdh,ttayggbyugteeycetopytessofdsasofMh1,2,mycetodoultebgofshggbs27flyN2.TtSn3,IoC,b,adteseishdtordasf.IOEYCSFD--ETADA.()TeishycdwntetyoftesfIoasefdknasteIoeycsfhslctofmsrdfmc,c,cycso,tefeidpttotepsofsn3,IoC,g,d,gsadrmayorsetosttedyofcdeycss)Msintefdaehycyadadseudeyfrtepsstfhintscrasddbytec)A,attednoftec,ntmetnoept()oftetleycsfscdintesfIoishyddfradslbepdintefdonaqybsbyc,cyorcdeycss.Tec,onanalb,slpeabtitpnoftefenyfrtecsonoftecntoaetepsoftsc)Tecnslaedtofmsintefoeee)Tesetrslitiemsintefdaditedfmshisslberdtotef]
+[DELETED: )Fsrdfmtefeidpttotepson3,IoC,slbeddqytoehggbdbdunpns,egoept()tobeuranofteeycscnasdntss)FscdinteseofIopttosn3oC,bytspsslbepdintefnfn()dsarteedofaq)()Tsatisnyfrteiepnoftepcp,h,syorstoftesegtadisecisadtsetJy1,2N3.TtSn3,IoC,b,adteseishdtordasf.EDEYCSGTF.()OnadarJy1,2,teslbeanedeycsgeedbyveofaygdbytsc.Teflbetecs()prmhprasoridVel)Shfeslbeadbyrnofamyveoftdofcsofacesmorbyteggbfa91sea)ShfeslberdtoteIoeycdpdinsn3,IoC,onaqybyc,cyorcdeycsssbysprwnfn()dsarteedof.A,attednoftec,abtsepdagapnofteaegtfsfranoftegtp.Terggtfsslbeddfradslbeadfrdtasgstoeeesttaeogcdeycsfruetoaetepsoftsc.Gtflcewhtescgsasidbytecnisalrttotel.Gtfsmyaobebdfradudfrteetofntgncdeyss()wntes)Tec,onanalb,slpeabtagtegtfsaetoeeesadtepnoftsnyfrtecsonoftecntoaepsoftsc)Tobeeefrgtfsurtsc,acyor9eaamtbecgteeycsfeinaewhsn3,IoC,inteflatadataobecgteedeycsgtfeieflatadintss)Ifacyor91seaahsadtecnoftdeycsgtfepttotsc,syor91seaaslrnteflatofteeycsfettwsstbytebdofcsorggbttosn3,IoC.Tecyor91seaai]
+[DELETED: naoetfmrgtoteIopcsycnoept()oftetleycsferdbytecyor91seaaasrdinsn3oC.Tergfsfmteedeyctfecdsltnberdbytecyor91seaoteIopcsycscN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 211
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO THE EMERGENCY COMMUNICATIONS ACT; AMENDING SECTION 31-4804,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING EMERGENCY COMMUNICATIONS
+4 FEES AND TO PROVIDE FOR CERTAIN PAYMENTS; AMENDING SECTION 31-4818,
+5 IDAHO CODE, TO PROVIDE FOR CERTAIN FEES TO BE PLACED IN THE IDAHO EMER-
+6 GENCY COMMUNICATIONS FUND; AMENDING SECTION 31-4819, IDAHO CODE, TO
+7 PROVIDE FOR CERTAIN FEES TO BE PLACED IN THE IDAHO EMERGENCY COMMUNICA-
+8 TIONS FUND; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 31-4804, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 31-4804. EMERGENCY COMMUNICATIONS FEE. (1) The emergency communica-
+13 tions fee provided pursuant to the provisions of this chapter shall be a uni-
+14 form amount not to exceed of one dollar ($1.00) per month per access or in-
+15 terconnected VoIP service line, and such fee shall be used exclusively to fi-
+16 nance the initiation, maintenance, operation, enhancement, and governance
+17 of a consolidated emergency communications system and to provide for the re-
+18 imbursement of telecommunications providers for implementing enhanced con-
+19 solidated emergency systems as provided for in section 31-4804A, Idaho Code.
+20 All emergency communications fees collected and expended pursuant to this
+21 section shall be audited by an independent, third-party auditor ordinarily
+22 retained by the governing board for auditing purposes. The purpose of the
+23 audit as related to emergency communications systems is to verify the accu-
+24 racy and completeness of fees collected and costs expended.
+25 (2) The fee shall be imposed upon and collected from purchasers of ac-
+26 cess lines or interconnected VoIP service lines with a service address or
+27 place of primary use within the county or 911 service area on a monthly basis
+28 by all telecommunications providers of such services. The fee may be listed
+29 as a separate item on customers' monthly bills.
+30 (3) The telecommunications providers shall remit such fee to the county
+31 treasurer's office or the administrator for the 911 service area based upon
+32 the 911 service area from which the fees were collected. Such fees shall
+33 be paid to the county treasurer within fifteen (15) days after the end of
+34 the quarter. In the event the telecommunications provider remits such fees
+35 based upon the emergency communications fee billed to the customer, a deduc-
+36 tion shall be allowed for uncollected amounts when such amounts are treated
+37 as bad debt for financial reporting purposes.
+38 (4) From every remittance to the governing body made on or before the
+39 date when the same becomes due, the telecommunications provider required to
+40 remit the same shall be entitled to deduct and retain one percent (1%) of the
+41 collected amount as the cost of administration for collecting the charge.
+42 Telecommunications providers will be allowed to list the surcharge as a sep-
+
+2
+1 arate item on the telephone subscriber's bill and shall have no obligation to
+2 take any legal action to enforce the collection of any charge, nor be held li-
+3 able for such uncollected amounts.
+4 (5) Use of fees. The emergency communications fee provided hereunder
+5 for in this section shall be used only to pay for the lease, purchase, or
+6 maintenance of emergency communications equipment for basic and enhanced
+7 consolidated emergency systems, and next generation consolidated emergency
+8 systems (NG911), including necessary computer hardware, software, database
+9 provisioning, training, salaries directly related to such systems, costs
+10 of establishing such systems, management, maintenance, and operation of
+11 hardware and software applications and agreed-to reimbursement costs of
+12 telecommunications providers related to the operation of such systems. Use
+13 of the emergency communications fee should, if possible, coincide with the
+14 strategic goals as identified by the Idaho public safety communications
+15 commission in its annual report to the legislature. However, the county or
+16 911 service area governing board has final authority on lawful expenditures.
+17 All other expenditures necessary to operate such systems and other normal
+18 and necessary safety or law enforcement functions including, but not limited
+19 to, those expenditures related to overhead, staffing, dispatching, admin-
+20 istrative and other day-to-day operational expenditures, shall continue to
+21 be paid through the general funding of the respective governing boards; pro-
+22 vided however, that any governing body using the emergency communications
+23 fee to pay the salaries of dispatchers as of March 1, 2006, may continue to do
+24 so until the beginning of such governing body's 2007 fiscal year.
+25 SECTION 2. That Section 31-4818, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 31-4818. IDAHO EMERGENCY COMMUNICATIONS FUND -- ESTABLISHMENT AND AD-
+28 MINISTRATION. (1) There is hereby created within the treasury of the state
+29 of Idaho a separate fund known as the Idaho emergency communications fund,
+30 which shall consist of moneys received from counties, cities, consolidated
+31 emergency communications operations, the fee imposed pursuant to the provi-
+32 sions of section 31-4813, Idaho Code, grants, donations, gifts and revenues
+33 from any other source to support the delivery of consolidated emergency com-
+34 munications systems.
+35 (2) Moneys in the fund are hereby continuously appropriated and shall
+36 be utilized exclusively for the purposes set forth in this chapter as deter-
+37 mined by the commission.
+38 (3) Annually, at the direction of the commission, not more than one per-
+39 cent (1%) of the total emergency communications fees collected in the state
+40 of Idaho is hereby dedicated for and shall be placed in the fund on a quar-
+41 terly basis by county, city or consolidated emergency communications sys-
+42 tems. The commission, on an annual basis, shall prepare a budget indicating
+43 that portion of the fee necessary for the continuous operation of the commis-
+44 sion to achieve the purposes of this chapter.
+45 (4) The commission shall authorize disbursement of moneys in the fund
+46 to eligible entities.
+47 (5) The state treasurer shall invest idle moneys in the fund and inter-
+48 est earned from such investments shall be returned to the fund.
+
+3
+1 (6) Funds received from the fee imposed pursuant to the provisions of
+2 section 31-4813, Idaho Code, shall be distributed quarterly to each govern-
+3 ing board based upon population served, excluding one percent (1%) to be used
+4 for administration of the emergency communications commission as described
+5 in this section.
+6 (7) Fees collected in the state of Idaho pursuant to section 31-4819,
+7 Idaho Code, by telecommunications providers shall be placed in the fund
+8 within fifteen (15) days after the end of a quarter.
+9 (7) (8) This act is necessary for the immediate preservation of the pub-
+10 lic peace, health, safety or support of the state government and its existing
+11 public institutions and takes effect January 1, 2014.
+12 SECTION 3. That Section 31-4819, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 31-4819. ENHANCED EMERGENCY COMMUNICATIONS GRANT FEE. (1) On and af-
+15 ter July 1, 2013, there shall be an enhanced emergency communications grant
+16 fee established by virtue of authority granted by this chapter. The fee
+17 shall be twenty-five cents (25¢) per month per access or interconnected VoIP
+18 service line.
+19 (a) Such fee shall be authorized by resolution of a majority vote of the
+20 board of commissioners of a countywide system or by the governing board
+21 of a 911 service area.
+22 (b) Such fee shall be remitted to the Idaho emergency communications
+23 fund provided in section 31-4818(1), Idaho Code, on a quarterly basis
+24 by county, city or consolidated emergency communications systems by a
+25 telecommunications provider within fifteen (15) days after the end of a
+26 quarter. Annually, at the discretion of the commission, a budget shall
+27 be prepared allocating a portion of the available grant funds for admin-
+28 istration of the grant program. The remaining grant funds shall be ded-
+29 icated for and shall be authorized for disbursement as grants to eligi-
+30 ble entities that are operating consolidated emergency communications
+31 systems for use to achieve the purposes of this chapter. Grant funds
+32 shall coincide with the strategic goals as identified by the commission
+33 in its annual report to the legislature. Grant funds may also be bud-
+34 geted for and utilized for the establishment of next generation consol-
+35 idated emergency systems (NG911) within the state.
+36 (2) The commission, on an annual basis, shall prepare a budget allo-
+37 cating the grant funds available to eligible entities and the portion of the
+38 funds necessary for the continuous operation of the commission to achieve
+39 the purposes of this chapter.
+40 (3) To be eligible for grant funds under this chapter, a county or 911
+41 service area must be collecting the emergency communications fee in accor-
+42 dance with section 31-4804, Idaho Code, in the full amount authorized and
+43 must also be collecting the enhanced emergency communications grant fee in
+44 the full amount authorized in this subsection.
+45 (4) If a county or 911 service area has authorized the collection of the
+46 enhanced emergency communications grant fee pursuant to this chapter, such
+47 county or 911 service area shall retain the full amount of the emergency com-
+48 munications fee that was set by the board of commissioners or governing board
+49 pursuant to section 31-4803, Idaho Code. The county or 911 service area is
+
+4
+1 then also exempt from remitting to the Idaho public safety communications
+2 commission one percent (1%) of the total emergency communications fee re-
+3 ceived by the county or 911 service area as required in section 31-4818(3),
+4 Idaho Code. The remaining funds from the enhanced emergency communications
+5 grant fee collected shall then be remitted by the county or 911 service area
+6 to the Idaho public safety communications commission.
+7 SECTION 4. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after
+9 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YLLGTCNAGTOTEEYCSA;AGSN3OC,TOREPSRGEYCSADTOPEFRCNP;AGSN3OC,TOPEFRCNFSTOBEPDINTEIOEYCSF;AGSN3,IOC,TEFRCNFSTOBEPDINTEIOEYCSF;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.EYCSF.()Teeycsfepdpttotepsoftscrslbeaumatnttoedofoedr()prmhprasoridVPsel,adshfeslbeudeytofetei,m,o,e,adgfacdeycssmadtopefrtertoftspsfrigedcdeyssaspdfrinsn3,IoCleycsfscdadedpttotnslbeadbyani,tyarodbyteggbdfragp.Tepeofttasrdtoeycsssistovyteayadcsoffscdadcse)TefeslbeidunadcdfmpsofaslsoridVPselswhaseasoeofpyuewntecyor91seaaonamybyaltspsofshs.Tefemybelsaseimonc'myb)Tetspsslrtshfetotecsoeortearfrte91seaabdue91seaafmwhtefswec.Shfssepdtotecytrwnfn()dsarteedoeq.Inteettetsprrsshfdunteeycsfebdtotec,adnslbeadfrudaswnshasaetsbddtfrflrgp)Fmeyretoteggbymeonorbetewntesebsd,tetsprrdttteseslbeedtodtadrnoept()oftdatastectofanfrcgtecspswlbeadtoltteseasas]
+[DELETED: eimontetessbladslhenoonteayllantoeetecnofayc,nrbehdlefrshuda)Ueoff.Teeycsfepdhrintssnslbeudoytopyfrtel,p,oeofeycsetfrbcadedeys,adntgncdes(,ignycrh,s,d,t,ssdyrdtoshs,cfegshs,m,m,adonoeadseasadaortcsospsrdtoteonofshs.Ufteeycsfes,ifp,cewhtcgsasidbyteIopcsycninisalrttotel.H,tecyo1seaaggbdhsflayonlleloresnytooeshssadorndnysyorlwetfsi,btntl,teesrdtoo,s,d,aeadordyole,slcetepdthteglfgoftereggb;pdh,ttayggbyugteeycetopytessofdsasofMh1,2,mycetodoultebgofshggbs27flyN2.TtSn3,IoC,b,adteseishdtordasf.IOEYCSFD--ETADA.()TeishycdwntetyoftesfIoasefdknasteIoeycsfhslctofmsrdfmc,c,cycso,tefeidpttotepsofsn3,IoC,g,d,gsadrmayorsetosttedyofcdeycss)Msintefdaehycyadadseudeyfrtepsstfhintscrasddbytec)A,attednoftec,ntmetnoept()oftetleycsfscdintesfIoishyddfradslbepdintefdonaqybsbyc,cyorcdeycss.Tec,onanalb,slpeabtitpnoftefenyfrtecsonoftecntoaetepsoftsc)Tecnslaedtofmsintefoeee)Tesetrslitiemsintefdaditedfmshisslberdtotef]
+[DELETED: )Fsrdfmtefeidpttotepson3,IoC,slbeddqytoehggbdbdunpns,egoept()tobeuranofteeycscnasdntss)FscdinteseofIopttosn3oC,bytspsslbepdintefnfn()dsarteedofaq)()Tsatisnyfrteiepnoftepcp,h,syorstoftesegtadisecisadtsetJy1,2N3.TtSn3,IoC,b,adteseishdtordasf.EDEYCSGTF.()OnadarJy1,2,teslbeanedeycsgeedbyveofaygdbytsc.Teflbetecs()prmhprasoridVel)Shfeslbeadbyrnofamyveoftdofcsofacesmorbyteggbfa91sea)ShfeslberdtoteIoeycdpdinsn3,IoC,onaqybyc,cyorcdeycsssbysprwnfn()dsarteedof.A,attednoftec,abtsepdagapnofteaegtfsfranoftegtp.Terggtfsslbeddfradslbeadfrdtasgstoeeesttaeogcdeycsfruetoaetepsoftsc.Gtflcewhtescgsasidbytecnisalrttotel.Gtfsmyaobebdfradudfrteetofntgncdeyss()wntes)Tec,onanalb,slpeabtagtegtfsaetoeeesadtepnoftsnyfrtecsonoftecntoaepsoftsc)Tobeeefrgtfsurtsc,acyor9eaamtbecgteeycsfeinaewhsn3,IoC,inteflatadataobecgteedeycsgtfeieflatadintss)Ifacyor91seaahsadtecnoftdeycsgtfepttotsc,syor91seaaslrnteflatofteeycsfettwsstbytebdofcsorggbttosn3,IoC.Tecyor91seaai]
+[DELETED: naoetfmrgtoteIopcsycnoept()oftetleycsferdbytecyor91seaaasrdinsn3oC.Tergfsfmteedeyctfecdsltnberdbytecyor91seaoteIopcsycscN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,126 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1036
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HUMAN GENE THERAPY PRODUCTS; PROVIDING LEGISLATIVE INTENT;
+3 AMENDING CHAPTER 48, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW
+4 SECTION 39-4810, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO ESTABLISH A
+5 MORATORIUM ON CERTAIN USES OF HUMAN GENE THERAPY PRODUCTS, AND TO DEFINE
+6 A TERM; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+9 protect Idaho adults and children from the adverse effects of experimental
+10 gene therapy and biologic products utilized as immunizations. By enact-
+11 ing this section, named in honor of Doug Cameron, the Legislature seeks to
+12 establish a moratorium on gene therapy immunizations to ensure the safety
+13 and well-being of all Idahoans. Doug Cameron, an Idaho rancher in excellent
+14 health, was severely injured immediately after receiving a genetic immu-
+15 nization encouraged by his employer. The injury left him disabled from the
+16 waist down, unable to walk, and confined to a wheelchair. His experience
+17 highlights the urgent need for caution, transparency, and rigorous over-
+18 sight in the deployment of these treatments.
+19 SECTION 2. That Chapter 48, Title 39, Idaho Code, be, and the same is
+20 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+21 ignated as Section 39-4810, Idaho Code, and to read as follows:
+22 39-4810. MORATORIUM ON CERTAIN USE OF HUMAN GENE THERAPY PRODUCTS. (1)
+23 This section shall be known and may be cited as the "Doug Cameron Act."
+24 (2) The legislature finds that, in order to protect the health and
+25 safety of Idaho citizens, a moratorium on the administration of human gene
+26 therapy products in certain cases is necessary. No person in Idaho shall
+27 administer, by any route or modality, any human gene therapy product for any
+28 infectious disease indication, regardless of whether such administration is
+29 termed an immunization, vaccine, or any other term.
+30 (3) For the purpose of this section, "human gene therapy product" means
+31 all products that mediate their effects by transcription or translation of
+32 transferred genetic material or by specifically altering human genetic se-
+33 quences. Human gene therapy products include but are not limited to:
+34 (a) Nucleic acids, such as plasmids and in vitro transcribed ribonu-
+35 cleic acid (RNA);
+36 (b) Genetically modified microorganisms, such as viruses, bacteria,
+37 and fungi;
+38 (c) Engineered site-specific nucleases used for human genome editing;
+39 and
+40 (d) Ex vivo genetically modified human cells.
+2
+1 (4) The provisions of this section shall not apply to human gene therapy
+2 products utilized for treatment or therapy of cancer or genetic disorders.
+3 (5) The moratorium described in this section shall remain in effect un-
+4 til July 1, 2035, subject to legislative review of available safety data.
+5 SECTION 3. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOHNGETYP;PGLEIGCR4,TE3,IOC,BYTEANOFANN3,IOC,TOPEASTT,TOEHMONCNUSOFHNGETYP,ADTODT;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.ItisteitofteLettIoasadcnfmteaeesofeetyadbcpsudasi.Byegtss,ndinhrofDgC,teLessthammongetyistoeetesdwgofalI.DgC,anIorrine,wssyidiyarrgagcinedbyhse.Teiylthmddfmttd,uetow,adcdtoaw.Hsesteutndfrc,t,adrsotintedtoftetN2.TtCr4,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.MMONCNUEOFHNGETYP.(ssnslbeknadmybecdaste"gCnA)Telefst,inortopttehhayofIoc,ammonteanofhngypsincncsisn.NopninIos,byayreorm,ayhngetyptfrasdei,rsofwrshanidani,v,orayort)Frtepeoftss,"ngetyp"mlpsttmetresbytnortnodgcmlorbysyaghngcs.Hngetypsiebtaentldt)Nca,shaspsadinvotdrcad()Gymdm,shasv,bdf)Edscnsudfrhngee)Exvogymdhnc]
+[DELETED: )Tepsoftssnslntaytohngetsudfrttortyofcrorgcd)TemmddintssnslrninetulJy1,2,sttolerwofaesydN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1036
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HUMAN GENE THERAPY PRODUCTS; PROVIDING LEGISLATIVE INTENT;
+3 AMENDING CHAPTER 48, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW
+4 SECTION 39-4810, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO ESTABLISH A
+5 MORATORIUM ON CERTAIN USES OF HUMAN GENE THERAPY PRODUCTS, AND TO DEFINE
+6 A TERM; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+9 protect Idaho adults and children from the adverse effects of experimental
+10 gene therapy and biologic products utilized as immunizations. By enact-
+11 ing this section, named in honor of Doug Cameron, the Legislature seeks to
+12 establish a moratorium on gene therapy immunizations to ensure the safety
+13 and well-being of all Idahoans. Doug Cameron, an Idaho rancher in excellent
+14 health, was severely injured immediately after receiving a genetic immu-
+15 nization encouraged by his employer. The injury left him disabled from the
+16 waist down, unable to walk, and confined to a wheelchair. His experience
+17 highlights the urgent need for caution, transparency, and rigorous over-
+18 sight in the deployment of these treatments.
+19 SECTION 2. That Chapter 48, Title 39, Idaho Code, be, and the same is
+20 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+21 ignated as Section 39-4810, Idaho Code, and to read as follows:
+22 39-4810. MORATORIUM ON CERTAIN USE OF HUMAN GENE THERAPY PRODUCTS. (1)
+23 This section shall be known and may be cited as the "Doug Cameron Act."
+24 (2) The legislature finds that, in order to protect the health and
+25 safety of Idaho citizens, a moratorium on the administration of human gene
+26 therapy products in certain cases is necessary. No person in Idaho shall
+27 administer, by any route or modality, any human gene therapy product for any
+28 infectious disease indication, regardless of whether such administration is
+29 termed an immunization, vaccine, or any other term.
+30 (3) For the purpose of this section, "human gene therapy product" means
+31 all products that mediate their effects by transcription or translation of
+32 transferred genetic material or by specifically altering human genetic se-
+33 quences. Human gene therapy products include but are not limited to:
+34 (a) Nucleic acids, such as plasmids and in vitro transcribed ribonu-
+35 cleic acid (RNA);
+36 (b) Genetically modified microorganisms, such as viruses, bacteria,
+37 and fungi;
+38 (c) Engineered site-specific nucleases used for human genome editing;
+39 and
+40 (d) Ex vivo genetically modified human cells.
+
+2
+1 (4) The provisions of this section shall not apply to human gene therapy
+2 products utilized for treatment or therapy of cancer or genetic disorders.
+3 (5) The moratorium described in this section shall remain in effect un-
+4 til July 1, 2035, subject to legislative review of available safety data.
+5 SECTION 3. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOHNGETYP;PGLEIGCR4,TE3,IOC,BYTEANOFANN3,IOC,TOPEASTT,TOEHMONCNUSOFHNGETYP,ADTODT;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEI.ItisteitofteLettIoasadcnfmteaeesofeetyadbcpsudasi.Byegtss,ndinhrofDgC,teLessthammongetyistoeetesdwgofalI.DgC,anIorrine,wssyidiyarrgagcinedbyhse.Teiylthmddfmttd,uetow,adcdtoaw.Hsesteutndfrc,t,adrsotintedtoftetN2.TtCr4,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.MMONCNUEOFHNGETYP.(ssnslbeknadmybecdaste"gCnA)Telefst,inortopttehhayofIoc,ammonteanofhngypsincncsisn.NopninIos,byayreorm,ayhngetyptfrasdei,rsofwrshanidani,v,orayort)Frtepeoftss,"ngetyp"mlpsttmetresbytnortnodgcmlorbysyaghngcs.Hngetypsiebtaentldt)Nca,shaspsadinvotdrcad()Gymdm,shasv,bdf)Edscnsudfrhngee)Exvogymdhnc]
+[DELETED: )Tepsoftssnslntaytohngetsudfrttortyofcrorgcd)TemmddintssnslrninetulJy1,2,sttolerwofaesydN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

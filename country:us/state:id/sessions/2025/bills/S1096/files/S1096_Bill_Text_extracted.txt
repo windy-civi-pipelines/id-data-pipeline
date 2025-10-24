@@ -1,0 +1,2202 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1096
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1001, IDAHO CODE, TO DEFINE
+3 TERMS; AMENDING SECTION 33-1002, IDAHO CODE, TO REVISE PROVISIONS RE-
+4 GARDING THE EDUCATIONAL SUPPORT PROGRAM; AMENDING SECTION 33-1004,
+5 IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION
+6 33-1009, IDAHO CODE, TO REVISE PROVISIONS REGARDING PAYMENTS FROM THE
+7 PUBLIC SCHOOL INCOME FUND; AMENDING SECTION 33-1018, IDAHO CODE, TO
+8 REVISE PROVISIONS REGARDING PUBLIC SCHOOL DISCRETIONARY FUNDING VARI-
+9 ABILITY; AMENDING SECTION 33-1614, IDAHO CODE, TO PROVIDE A CORRECT
+10 CODE REFERENCE; AMENDING SECTION 33-1632, IDAHO CODE, TO REMOVE A PRO-
+11 VISION REGARDING FUNDING; AMENDING SECTION 33-5207, IDAHO CODE, TO
+12 REVISE PROVISIONS REGARDING PUBLIC CHARTER SCHOOL FINANCIAL SUPPORT;
+13 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 33-1001, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 33-1001. DEFINITIONS. As used in this chapter:
+18 (1) "Administrative schools" means and applies to all elementary
+19 schools and kindergartens within a district that are situated ten (10) miles
+20 or less from both the other elementary schools and the principal administra-
+21 tive office of the district and all secondary schools within a district that
+22 are situated fifteen (15) miles or less from other secondary schools of the
+23 district.
+24 (2) "Administrative staff" means those who hold an administrator cer-
+25 tificate and are employed as a superintendent, an elementary or secondary
+26 school principal, or are assigned administrative duties over and above those
+27 commonly assigned to teachers.
+28 (3) "At-risk student" means a student in grades 6 through 12 who:
+29 (a) Meets at least three (3) of the following criteria:
+30 (i) Has repeated at least one (1) grade;
+31 (ii) Has absenteeism greater than ten percent (10%) during the
+32 preceding semester;
+33 (iii) Has an overall grade point average less than 1.5 on a 4.0
+34 scale prior to enrolling in an alternative secondary program;
+35 (iv) Has failed one (1) or more academic subjects in the past year;
+36 (v) Is below proficient, based on local criteria, standardized
+37 tests, or both;
+38 (vi) Is two (2) or more credits per year behind the rate required
+39 to graduate or for grade promotion; or
+40 (vii) Has attended three (3) or more schools within the previous
+41 two (2) years, not including dual enrollment; or
+42 (b) Meets any of the following criteria:
+2
+1 (i) Has documented substance abuse or a pattern of substance
+2 abuse;
+3 (ii) Is pregnant or a parent;
+4 (iii) Is an emancipated youth or unaccompanied youth;
+5 (iv) Is a previous dropout;
+6 (v) Has a serious personal, emotional, or medical issue or is-
+7 sues;
+8 (vi) Has a court or agency referral; or
+9 (vii) Demonstrates behavior detrimental to the student's academic
+10 progress.
+11 (4) "Average daily attendance" or "pupils in average daily attendance"
+12 means the aggregate number of days enrolled students are present, divided by
+13 the number of days of school in the reporting period; provided, however, that
+14 students for whom no Idaho school district is a home district shall not be
+15 considered in such computation.
+16 (5) "Career ladder" means the compensation table used for determining
+17 the allocations districts receive for instructional staff and pupil service
+18 staff based on specific performance criteria and is made up of a residency
+19 compensation rung and a professional compensation rung.
+20 (6) "Child with a disability" means a child evaluated as having an
+21 intellectual disability, a hearing loss including deafness, a speech or
+22 language impairment, a visual impairment including blindness, an emo-
+23 tional behavioral disorder, an orthopedic impairment, autism, a traumatic
+24 brain injury, another health impairment, a specific learning disability,
+25 deaf-blindness, or multiple disabilities and who, by reason thereof, needs
+26 special education and related services.
+27 (7) "Compensation rung" means the rung on the career ladder that corre-
+28 sponds with the compensation level performance criteria.
+29 (8) "Economically disadvantaged student" means a student who:
+30 (a) Is eligible for a free or reduced-price lunch under the Richard B.
+31 Russell national school lunch act, 42 U.S.C. 1751 et seq., excluding
+32 students who are eligible only through a school's community eligibility
+33 program;
+34 (b) Resides with a family receiving assistance under the program of
+35 block grants to states for temporary assistance for needy families
+36 (TANF) established under part A of title IV of the social security act,
+37 42 U.S.C. 601 et seq.;
+38 (c) Is eligible to receive medical assistance under the medicaid pro-
+39 gram under title XIX of the social security act, 42 U.S.C. 1396 et seq.;
+40 or
+41 (d) Is considered homeless for purposes of the federal McKinney-Vento
+42 homeless assistance act, 42 U.S.C. 11301 et seq.
+43 (9) "Elementary grades" or "elementary average daily attendance" means
+44 and applies to students enrolled in grades 1 through 6, inclusive, or any
+45 combination thereof.
+46 (10) "Elementary schools" are schools that serve grades 1 through 6, in-
+47 clusive, or any combination thereof.
+48 (11) "Elementary/secondary schools" are schools that serve grades 1
+49 through 12, inclusive, or any combination thereof.
+3
+1 (12) "English language learner" or "ELL" means a student who does not
+2 score proficient on the English language development assessment established
+3 by rule of the state board of education.
+4 (13) "Gifted and talented" shall have the same meaning as provided in
+5 section 33-2001(4), Idaho Code.
+6 (14) "Homebound student" means any student who would normally and regu-
+7 larly attend school but is confined to home or hospital because of an illness
+8 or accident for a period of ten (10) or more consecutive days.
+9 (15) "Instructional staff" means those who hold an Idaho certificate
+10 issued under section 33-1201, Idaho Code, and who are either involved in the
+11 direct instruction of a student or group of students or who serve in a mentor
+12 or teacher leader position for individuals who hold an Idaho certificate
+13 issued under section 33-1201, Idaho Code.
+14 (16) "Kindergarten" or "kindergarten average daily attendance" means
+15 and applies to all students enrolled in a school year, less than a school
+16 year, or summer kindergarten program.
+17 (17) "Local salary schedule" means a compensation table adopted by a
+18 school district or public charter school, which table is used for determin-
+19 ing moneys to be distributed for instructional staff and pupil service staff
+20 salaries. Minimum compensation provided under a local salary schedule shall
+21 be at least equal to the minimum amounts established pursuant to section
+22 33-1004E, Idaho Code.
+23 (18) "Measurable student achievement" means the measurement of student
+24 academic achievement or growth within a given interval of instruction for
+25 those students who have been enrolled in and attended eighty percent (80%)
+26 of the interval of instruction. Measures and targets shall be chosen at the
+27 school level in collaboration with the staff member impacted by the measures
+28 and applicable district staff and approved by the school board. Measures and
+29 targets must also align with the performance measures and benchmarks in the
+30 continuous improvement plan described in section 33-320, Idaho Code. The
+31 most effective measures and targets are those generated as close to the ac-
+32 tual work as possible. Targets may be based on grade- or department-level
+33 achievement or growth goals that create collaboration within groups. In-
+34 dividual measurable student achievement targets and the percentage of stu-
+35 dents meeting individual targets must be reported annually to the state. As-
+36 sessment tools that may be used for measuring student achievement and growth
+37 include:
+38 (a) Idaho standards achievement test (ISAT), including interim ISAT
+39 assessments;
+40 (b) Student learning objectives;
+41 (c) Teacher-constructed assessments of student growth;
+42 (d) Pre- and post-tests, including district-adopted tests;
+43 (e) Performance-based assessments;
+44 (f) Idaho reading indicator, which will be one (1) of the required as-
+45 sessment tools for applicable staff;
+46 (g) College entrance exams or preliminary college entrance exams such
+47 as PSAT, SAT, PACT, and ACT;
+48 (h) Advanced placement exams;
+49 (i) Career technical exams;
+4
+1 (j) Number of business or industry certificates or credentials earned
+2 by students in an approved career technical education program;
+3 (k) Number of students completing career technical education capstone
+4 courses; and
+5 (l) Number of students enrolled in career technical education courses
+6 that are part of a program that culminates with business or industry
+7 certificates or credentials.
+8 (19) "Performance criteria" means the standards specified for instruc-
+9 tional staff and pupil service staff to demonstrate teaching proficiency for
+10 a given compensation rung. Each element of the professional compensation
+11 rung and advanced professional compensation rung performance criteria, as
+12 identified in this section and as applicable to a staff member's position,
+13 shall be documented, reported, and subject to review for determining move-
+14 ment on the career ladder.
+15 (20)(a) "Professional compensation rung performance criteria" means:
+16 (i) An overall rating of proficient or higher, and no components
+17 rated as unsatisfactory, on the state framework for teaching eval-
+18 uation or equivalent for pupil service staff or principal or other
+19 school level administrator evaluation aligned to the state frame-
+20 work for teaching evaluation; and
+21 (ii) Demonstrating the majority of students have met measurable
+22 student achievement targets or student success indicator targets.
+23 (b) "Advanced professional compensation rung performance criteria"
+24 means:
+25 (i) An overall rating of proficient or higher, no components
+26 rated as unsatisfactory or basic, and rated as distinguished
+27 overall in domain two -- classroom environment or domain three
+28 -- instruction and use of assessment on the state framework for
+29 teaching evaluation or equivalent for pupil service staff or prin-
+30 cipal or other school level administrator evaluation aligned to
+31 the state framework for teaching evaluation; and
+32 (ii) Demonstrating seventy-five percent (75%) or more of their
+33 students have met their measurable student achievement targets or
+34 student success indicator targets.
+35 (21) "Public school district" or "school district" or "district" means
+36 any public school district organized under the laws of this state, including
+37 specially chartered school districts.
+38 (22) "Pupil service staff" means those who provide services to stu-
+39 dents, but are not involved in direct instruction of those students, and hold
+40 a pupil personnel services certificate.
+41 (23) "School board" means a school district board of trustees or the
+42 board of directors of a public charter school.
+43 (24) "Secondary grades" or "secondary average daily attendance" means
+44 and applies to students enrolled in grades 7 through 12, inclusive, or any
+45 combination thereof.
+46 (25) "Secondary schools" are schools that serve grades 7 through 12, in-
+47 clusive, or any combination thereof.
+48 (26) "Separate elementary school" means an elementary school located
+49 more than ten (10) miles on an all-weather road from both the nearest elemen-
+50 tary school and elementary/secondary school serving like grades within the
+5
+1 same school district and from the location of the office of the superinten-
+2 dent of schools of such district, or from the office of the chief administra-
+3 tive officer of such district if the district employs no superintendent of
+4 schools.
+5 (27) "Separate kindergarten" means a kindergarten located more than ten
+6 (10) miles on an all-weather road from both the nearest kindergarten school
+7 within the same school district and from the location of the office of the su-
+8 perintendent of schools of such district, or from the office of the chief ad-
+9 ministrative officer of such district if the district employs no superinten-
+10 dent of schools.
+11 (28) "Separate secondary school" means any secondary school located
+12 more than fifteen (15) miles on an all-weather road from any other secondary
+13 school and elementary/secondary school serving like grades operated by the
+14 district.
+15 (29) "Special education" means specially designed instruction or
+16 speech/language therapy at no cost to the parent to meet the unique needs
+17 of a student who is a child with a disability, including instruction in the
+18 classroom, the home, hospitals, institutions, and other settings; instruc-
+19 tion in physical education; speech therapy and language therapy; transition
+20 services; travel training; assistive technology services; and vocational
+21 education.
+22 (30) "Student learning plan" means a plan that outlines a student's pro-
+23 gram of study, which should include a rigorous academic core and a related
+24 sequence of electives in academics, career technical education, or humani-
+25 ties aligned with the student's post-graduation goals.
+26 (31) "Student success indicators" means measurable indicators of
+27 student achievement or growth, other than academic, within a predefined in-
+28 terval of time for a specified group of students. Measures and targets shall
+29 be chosen at the district or school level in collaboration with the pupil
+30 service staff member impacted by the measures and applicable district staff.
+31 Individual measurable student achievement targets and the percentage of
+32 students meeting each target must be reported annually to the state. Student
+33 success indicators include:
+34 (a) Quantifiable goals stated in a student's 504 plan or individualized
+35 education plan.
+36 (b) Quantifiable goals stated in a student's behavior improvement
+37 plan.
+38 (c) School- or district-identified measurable student objectives for a
+39 specified student group or population.
+40 (d) The percentage of students who create student learning plans in
+41 grade 8 or who annually update their student learning plans thereafter.
+42 (e) The percentage of students who satisfactorily complete one (1) or
+43 more advanced opportunities options as identified in section 33-4602,
+44 Idaho Code, or who earn business or industry certificates or creden-
+45 tials. This indicator shall be one (1) of the required indicators for
+46 applicable staff.
+47 (32) "Support program" means the educational support program as de-
+48 scribed in section 33-1002, Idaho Code, the transportation support program
+49 described in section 33-1006, Idaho Code, and the exceptional education
+50 support program as described in section 33-1007, Idaho Code.
+6
+1 (33) "Support unit" means a function of average daily attendance used
+2 in the calculations to determine financial support provided to the public
+3 school districts.
+4 (34) "Teacher" means any person employed in a teaching, instructional,
+5 supervisory, educational administrative or educational and scientific ca-
+6 pacity in any school district. In case of doubt, the state board of educa-
+7 tion shall determine whether any person employed requires certification as a
+8 teacher.
+9 (35)(a) "Weighted per-student funding formula" means allocating fund-
+10 ing to school districts and public charter schools using an amount
+11 based on average daily attendance as provided in section 33-1003A,
+12 Idaho Code, and an additional amount per student for weighted student
+13 characteristics. For each school district or public charter school,
+14 the weighted amounts for student characteristics shall be based on the
+15 average of the three (3) highest student full-time equivalent enroll-
+16 ment counts for verified students reported pursuant to section 33-1027,
+17 Idaho Code. The weighted amounts shall be as follows:
+18 (i) For economically disadvantaged students, the base amount per
+19 student multiplied by one quarter (.25);
+20 (ii) For English language learners, the base amount per student
+21 multiplied by one quarter (.25);
+22 (iii) For special education students, the base amount per student
+23 multiplied by one and one-half (1.5);
+24 (iv) For students attending a school district or public charter
+25 school with less than six hundred (600) average daily attendance,
+26 the base amount per student multiplied by three quarters (.75);
+27 (v) For gifted and talented students, the base amount per student
+28 multiplied by one quarter (.25); and
+29 (vi) For at-risk students attending an alternative school, the
+30 base amount per student multiplied by one (1).
+31 (b) Funding for each characteristic may be combined if a student has
+32 more than one (1) of the weighted student characteristics. Any school
+33 district or public charter school that has at least one (1) student but
+34 fewer than five (5) students who meet the criteria for any characteris-
+35 tic provided for in paragraph (a)(i), (ii), (iii), (iv), (v), or (vi)
+36 of this subsection shall receive funding as if it has five (5) such stu-
+37 dents.
+38 (36) "Weighted student characteristic" means a characteristic of a
+39 student that is associated with measurable student achievement and educa-
+40 tional need, including a student's status as economically disadvantaged, an
+41 English language learner, requiring special education, attending a school
+42 district or public charter school with less than six hundred (600) average
+43 daily attendance, gifted and talented, or at-risk and attending an alterna-
+44 tive school.
+45 SECTION 2. That Section 33-1002, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 33-1002. EDUCATIONAL SUPPORT PROGRAM. The educational support pro-
+48 gram is calculated as follows:
+7
+1 (1) State Educational Support Funds. Add the state appropriation, in-
+2 cluding the moneys available in the public school income fund, together with
+3 all miscellaneous revenues to determine the total state funds.
+4 (2) From the total state funds subtract the following amounts needed
+5 for state support of special programs provided by a school district:
+6 (a) Pupil tuition-equivalency allowances as provided in section
+7 33-1002B, Idaho Code;
+8 (b) Transportation support program as provided in section 33-1006,
+9 Idaho Code;
+10 (c) Feasibility studies allowance as provided in section 33-1007A,
+11 Idaho Code;
+12 (d) The approved costs for border district allowance, provided in sec-
+13 tion 33-1403, Idaho Code, as determined by the state superintendent of
+14 public instruction;
+15 (e) The approved costs for exceptional child approved contract al-
+16 lowance, provided in subsection 2. of section 33-2004, Idaho Code, as
+17 determined by the state superintendent of public instruction;
+18 (f) Salary-based apportionment calculated as provided in sections
+19 33-1004 through 33-1004F, Idaho Code;
+20 (g) Unemployment insurance benefit payments according to the provi-
+21 sions of section 72-1349A, Idaho Code;
+22 (h) For expenditure as provided by the public school technology pro-
+23 gram;
+24 (i) For employee severance payments as provided in section 33-521,
+25 Idaho Code;
+26 (j) For distributions to the Idaho digital learning academy as provided
+27 in section 33-1020, Idaho Code;
+28 (k) For charter school facilities funds and reimbursements paid pur-
+29 suant to section 33-5207, Idaho Code;
+30 (l) For an online course portal as provided for in section 33-1024,
+31 Idaho Code;
+32 (m) For advanced opportunities as provided for in chapter 46, title 33,
+33 Idaho Code;
+34 (n) For additional math and science courses for high school students as
+35 provided in section 33-1021, Idaho Code;
+36 (o) For master teacher premiums as provided in section 33-1004I, Idaho
+37 Code;
+38 (p) (o) For the support of provisions that provide a safe environment
+39 conducive to student learning and maintain classroom discipline, an al-
+40 location of three hundred dollars ($300) per support unit;
+41 (q) (p) An amount specified in the appropriation bill for the public
+42 schools educational support program for counseling support as provided
+43 for in section 33-1212A, Idaho Code, shall be distributed for grades 8
+44 through 12 as follows:
+45 (i) For school districts and public charter schools with one hun-
+46 dred (100) or more students enrolled in grades 8 through 12, a pro
+47 rata distribution based on students enrolled in grades 8 through
+48 12 or eighteen thousand dollars ($18,000), whichever is greater;
+49 (ii) For school districts and public charter schools with fewer
+50 than one hundred (100) students enrolled in grades 8 through 12,
+8
+1 one hundred eighty dollars ($180) per student enrolled in grades
+2 8 through 12 or nine thousand dollars ($9,000), whichever is
+3 greater;
+4 (r) (q) An amount specified in the public schools educational support
+5 program appropriation bill for literacy intervention. The disburse-
+6 ments made to the school districts and public charter schools shall be
+7 calculated as follows:
+8 (i) Fifty percent (50%) based on average full-time equivalent
+9 enrollment of students in kindergarten through grade 3 as of the
+10 first Friday in November;
+11 (ii) Fifty percent (50%) based on the number of kindergarten
+12 through grade 3 students who move a full level or who are profi-
+13 cient from the spring-to-spring administration of the statewide
+14 reading assessment in the prior fiscal year or, if there is not a
+15 prior spring assessment for the student, from fall to spring; and
+16 (iii) Funds will be distributed to the school district or pub-
+17 lic charter school where the student is enrolled and takes the
+18 statewide reading assessment. Any school district or public char-
+19 ter school that has greater than one (1) but fewer than five (5)
+20 students in kindergarten through grade 3 will receive a minimum of
+21 two thousand dollars ($2,000). Economically disadvantaged stu-
+22 dents shall count as one and three quarters (1.75) students for the
+23 purpose of calculating the distribution of the funds in subpara-
+24 graph (ii) of this paragraph.
+25 (s) For mastery-based education as provided for in section 33-1632,
+26 Idaho Code;
+27 (t) (r) For pay for success contracting as provided in section 33-125B,
+28 Idaho Code; and
+29 (u) (s) Any additional amounts as required by statute to effect admin-
+30 istrative adjustments or as specifically required by the provisions of
+31 any bill of appropriation;
+32 to secure the total educational support distribution funds.
+33 (3) Average Daily Attendance. The total state average daily attendance
+34 shall be the sum of the average daily attendance of all of the school dis-
+35 tricts of the state. The state board of education shall establish rules set-
+36 ting forth the procedure to determine average daily attendance and the time
+37 for, and method of, submission of such report. Average daily attendance cal-
+38 culation shall be carried out to the nearest hundredth. Computation of av-
+39 erage daily attendance shall also be governed by the provisions of section
+40 33-1003A, Idaho Code.
+41 (4) Support Units. The total state support units shall be determined
+42 by using the tables set out hereafter called computation of kindergarten
+43 support units, computation of elementary support units, computation of sec-
+44 ondary support units, computation of exceptional education support units,
+45 and computation of alternative school support units. The sum of all of the
+46 total support units of all school districts of the state shall be the total
+47 state support units.
+48 COMPUTATION OF KINDERGARTEN SUPPORT UNITS
+9
+1 Average Daily
+2 Attendance Attendance Divisor Units Allowed
+3 41 or more.... 40...................... 1 or more as computed
+4 31 - 40.99 ADA.... -....................... 1
+5 26 - 30.99 ADA.... -....................... .85
+6 21 - 25.99 ADA.... -....................... .75
+7 16 - 20.99 ADA.... -....................... .6
+8 8 - 15.99 ADA.... -....................... .5
+9 1 - 7.99 ADA.... -....................... count as elementary
+10 COMPUTATION OF ELEMENTARY SUPPORT UNITS
+11 Average Daily Minimum Units
+12 Attendance Attendance Divisor Allowed
+13 300 or more ADA....... ............................... .. 15
+14 ..23...grades 4,5 & 6....
+15 ..22...grades 1,2 & 3....1994-95
+16 ..21...grades 1,2 & 3....1995-96
+17 ..20...grades 1,2 & 3....1996-97
+18 and each year thereafter.
+19 160 to 299.99 ADA... 20................................ 8.4
+20 110 to 159.99 ADA... 19................................ 6.8
+21 71.1 to 109.99 ADA... 16................................ 4.7
+22 51.7 to 71.0 ADA... 15................................ 4.0
+23 33.6 to 51.6 ADA... 13................................ 2.8
+24 16.6 to 33.5 ADA... 12................................ 1.4
+25 1.0 to 16.5 ADA... n/a............................... 1.0
+26 COMPUTATION OF SECONDARY SUPPORT UNITS
+27 Average Daily Minimum Units
+28 Attendance Attendance Divisor Allowed
+29 750 or more.... 18.5..............................47
+30 400 - 749.99 ADA.... 16................................28
+31 300 - 399.99 ADA.... 14.5..............................22
+32 200 - 299.99 ADA.... 13.5..............................17
+33 100 - 199.99 ADA.... 12................................9
+34 99.99 or fewer Units allowed as follows:
+35 Grades 7 - 12 ..................................8
+36 Grades 9 - 12 ..................................6
+37 Grades 7 - 9 ..................................1 per 14 ADA
+38 Grades 7 - 8 ..................................1 per 16 ADA
+10
+1 COMPUTATION OF EXCEPTIONAL EDUCATION SUPPORT UNITS
+2 Average Daily Minimum Units
+3 Attendance Attendance Divisor Allowed
+4 14 or more.... 14.5..............................1 or more as
+5 computed
+6 12 - 13.99.... -.................................1
+7 8 - 11.99.... -..................................75
+8 4 - 7.99.... -..................................5
+9 1 - 3.99.... -..................................25
+10 COMPUTATION OF ALTERNATIVE SCHOOL SUPPORT UNITS
+11 (Computation of alternative school support units shall include
+12 grades 6 through 12)
+13 Pupils in Attendance Attendance Divisor Minimum Units
+14 Allowed
+15 12 or more.......... 12................................ 1 or more as
+16 computed
+17 In applying these tables to any given separate attendance unit, no
+18 school district shall receive less total money than it would receive if it
+19 had a lesser average daily attendance in such separate attendance unit. In
+20 applying the kindergarten table to a kindergarten program of fewer days
+21 than a full school year, the support unit allowance shall be in ratio to the
+22 number of days of a full school year. The attendance of students attending
+23 an alternative school in a school district reporting fewer than one hundred
+24 (100) secondary students in average daily attendance shall not be assigned
+25 to the alternative table if the student is from a school district reporting
+26 fewer than one hundred (100) secondary students in average daily attendance,
+27 but shall instead be assigned to the secondary table of the school district
+28 in which they are attending the alternative school, unless the alternative
+29 school in question serves students from multiple districts reporting fewer
+30 than one hundred (100) secondary students in average daily attendance. The
+31 tables for exceptional education and alternative school support units shall
+32 be applicable only for programs approved by the state department of educa-
+33 tion following rules established by the state board of education. Moneys
+34 generated from computation of support units for alternative schools shall be
+35 utilized for alternative school programs. School district administrative
+36 and facility costs may be included as part of the alternative school expen-
+37 ditures.
+38 (5) State Distribution Factor per Support Unit. Divide educational
+39 support program distribution funds, after subtracting the amounts necessary
+40 to pay the obligations specified in subsection (2) of this section, by the
+41 total state support units to secure the state distribution factor per sup-
+42 port unit.
+43 (6) (5) District Support Units. The number of support units for each
+44 school district in the state shall be determined as follows:
+11
+1 (a)(i) Divide the actual average daily attendance, excluding stu-
+2 dents approved for inclusion in the exceptional child educational
+3 program for the administrative schools and each of the separate
+4 schools and attendance units, by the appropriate divisor from the
+5 tables of support units in this section, then add the quotients
+6 to obtain the district's support units allowance for regular stu-
+7 dents, kindergarten through grade 12 including alternative school
+8 students. Calculations in application of this subsection shall be
+9 carried out to the nearest hundredth.
+10 (ii) Divide the combined totals of the average daily attendance
+11 of all preschool, kindergarten, elementary, secondary, juvenile
+12 detention center students and students with disabilities approved
+13 for inclusion in the exceptional child program of the district by
+14 the appropriate divisor from the table for computation of excep-
+15 tional education support units to obtain the number of support
+16 units allowed for the district's approved exceptional child pro-
+17 gram. Calculations for this subsection shall be carried out to the
+18 nearest hundredth when more than one (1) unit is allowed.
+19 (iii) The total number of support units of the district shall be
+20 the sum of the total support units for regular students, subpara-
+21 graph (i) of this paragraph, and the support units allowance for
+22 the approved exceptional child program, subparagraph (ii) of this
+23 paragraph.
+24 (b) Total District Allowance Educational Program. Multiply the dis-
+25 trict's total number of support units average daily attendance as
+26 provided in section 33-1003A, Idaho Code, carried out to the near-
+27 est hundredth, by the state distribution factor per support unit base
+28 amount, with weighted amounts added per student as determined by the
+29 weighted per-student funding formula, and to this product add the ap-
+30 proved amount of programs of the district provided in subsection (2) of
+31 this section to secure the district's total allowance for the educa-
+32 tional support program.
+33 (c) District Share. The district's share of state apportionment is the
+34 amount of the total district allowance, paragraph (b) of this subsec-
+35 tion.
+36 (d) Adjustment of District Share. The contract salary of every noncer-
+37 tificated teacher shall be subtracted from the district's share as cal-
+38 culated from the provisions of paragraph (c) of this subsection.
+39 (7) (6) Property Tax Computation Ratio. In order to receive state funds
+40 pursuant to this section, a charter district shall utilize a school mainte-
+41 nance and operation property tax computation ratio for the purpose of calcu-
+42 lating its maintenance and operation levy that is no greater than that which
+43 it utilized in tax year 1994, less four-tenths of one percent (.4%). As used
+44 herein, the term "property tax computation ratio" shall mean a ratio deter-
+45 mined by dividing the district's certified property tax maintenance and op-
+46 eration budget by the actual or adjusted market value for assessment pur-
+47 poses as such values existed on December 31, 1993. Such maintenance and op-
+48 eration levy shall be based on the property tax computation ratio multiplied
+49 by the actual or adjusted market value for assessment purposes as such values
+50 existed on December 31 of the prior calendar year.
+12
+1 SECTION 3. That Section 33-1004, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 33-1004. STAFF ALLOWANCE. For each school district, a staff allowance
+4 shall be determined as follows:
+5 (1) Using the daily attendance reports that have been submitted for
+6 computing the February 15 apportionment of state funds as provided in sec-
+7 tion 33-1009, Idaho Code, calculate the total support units for the district
+8 in the manner provided in section 33-1002(6)(a)(5)(a), Idaho Code. If the
+9 support units used to calculate discretionary funding pursuant to sections
+10 33-1009 and 33-1018, Idaho Code, are at least three percent (3%) greater,
+11 seventy-five percent (75%) of the difference shall be added to the support
+12 units used for the February 15 apportionment of state funds;
+13 (2) Determine the instructional staff allowance by multiplying the
+14 support units by 1.021. A district must demonstrate that it actually employs
+15 the number of certificated instructional staff allowed, except as provided
+16 in subsection (6)(f) and (g) of this section. If the district does not employ
+17 the number allowed, the staff allowance shall be reduced to the actual number
+18 employed, except as provided in subsection (6)(f) and (g) of this section;
+19 (3) Determine the pupil service staff allowance by multiplying the sup-
+20 port units by 0.079;
+21 (4) Determine the administrative staff allowance by multiplying the
+22 support units by .075;
+23 (5) Determine the classified staff allowance by multiplying the sup-
+24 port units by .375;
+25 (6) Additional conditions governing staff allowance:
+26 (a) In determining the number of staff in subsections (2), (3), (4) and
+27 (5) of this section, a district may contract separately for services to
+28 be rendered by nondistrict employees and such employees may be counted
+29 in the staff allowance. A "nondistrict employee" means a person for
+30 whom the school district does not pay the employer's obligations for
+31 employee benefits. When a district contracts for the services of a
+32 nondistrict employee, only the salary portion of the contract shall be
+33 allowable for computations.
+34 (b) If there are circumstances preventing eligible use of staff al-
+35 lowance to which a district is entitled as provided in subsections (2),
+36 (3) and (4) of this section, an appeal may be filed with the state de-
+37 partment of education outlining the reasons and proposed alternative
+38 use of these funds, and a waiver may be granted.
+39 (c) For any district with less than forty (40) support units:
+40 (i) The instructional staff allowance shall be calculated
+41 applying the actual number of support units. If the actual in-
+42 structional staff employed in the school year is greater than the
+43 instructional staff allowance, then the instructional staff al-
+44 lowance shall be increased by one-half (1/2) staff allowance; and
+45 (ii) The administrative staff allowance shall be calculated ap-
+46 plying the actual number of support units. If the actual adminis-
+47 trative staff employed in the school year is greater than the ad-
+48 ministrative staff allowance, then the administrative staff al-
+49 lowance shall be increased by one-half (1/2) staff allowance.
+13
+1 (iii) Additionally, for any district with less than twenty (20)
+2 support units, the instructional staff allowance shall be calcu-
+3 lated applying the actual number of support units. If the number
+4 of instructional staff employed in the school year is greater than
+5 the instructional staff allowance, the staff allowance shall be
+6 increased as provided in subparagraphs (i) and (ii) of this para-
+7 graph, and by an additional one-half (1/2) instructional staff al-
+8 lowance.
+9 (d) For any school district with one (1) or more separate secondary
+10 schools serving grades 9 through 12, the instructional staff allowance
+11 shall be increased by two (2) additional instructional staff allowances
+12 for each such separate secondary school.
+13 (e) Only instructional, pupil service and administrative staff and
+14 classified personnel compensated by the school district from the gen-
+15 eral maintenance and operation fund of the district shall be included in
+16 the calculation of staff allowance or in any other calculations based
+17 upon staff, including determination of the experience and education
+18 multiplier, the reporting requirements, or the district's salary-based
+19 apportionment calculation. No food service staff or transportation
+20 staff shall be included in the staff allowance.
+21 (f) A district may utilize up to fifteen percent (15%) of the moneys
+22 associated with positions funded pursuant to subsection (2) of this
+23 section to pay another school district or public charter school for
+24 instructional services or to defray the cost of providing virtual edu-
+25 cation coursework, including virtual dual credit coursework, without a
+26 reduction in the number of funded positions being imposed.
+27 (g) A district may employ nine and one-half percent (9.5%) fewer posi-
+28 tions than funded pursuant to subsections (2) and (3) of this section,
+29 without a reduction in the number of funded positions being imposed.
+30 Beginning in fiscal year 2016, this figure shall be reduced by one per-
+31 cent (1%) each year for each school district in which the average class
+32 size, as determined from prior fiscal year data reported to the state
+33 department of education, was at least one (1) student greater than the
+34 statewide average class size. The state department of education shall
+35 report to the legislature every February, beginning in 2015, on the re-
+36 ductions scheduled to take place in this figure, by school district, in
+37 the ensuing fiscal year.
+38 (i) In the determination of statewide average class size, the
+39 state department of education shall not use a single figure de-
+40 veloped through the averaging of all districts of varying size,
+41 geographical location and pupil populations throughout the state.
+42 The statewide average class size shall be comprised of multiple
+43 figures determined through analysis of like and similarly sit-
+44 uated districts and use of the divisor breakdown established in
+45 section 33-1002, Idaho Code.
+46 (ii) The state board of education may promulgate rules outlining
+47 the method of calculation of the statewide average class size fig-
+48 ures.
+49 (iii) The one percent (1%) reduction required in paragraph (g) of
+50 this subsection shall not be applicable for any school year subse-
+14
+1 quent to a year when the school district's boundaries have changed
+2 because of division, consolidation, excision or annexation of
+3 territory.
+4 (7) In the event that the staff allowance in any category is insuffi-
+5 cient to meet accreditation standards, a district may appeal to the state
+6 board of education, demonstrating the insufficiency, and the state board may
+7 grant a waiver authorizing sufficient additional staff to be included within
+8 the staff allowance to meet accreditation standards. Such a waiver shall be
+9 limited to one (1) year, but may be renewed upon showing of continuing justi-
+10 fication.
+11 (8) A district may utilize a portion of the instructional staff al-
+12 lowance provided for in this section for kindergarten teachers to visit the
+13 parents or guardians of students during the first week of the kindergarten
+14 school year. Such visits may take place at school, at the student's home
+15 or at another location agreed to by the teacher and parents or guardians.
+16 The purpose of such visits is to help strengthen the working relationship
+17 between the teacher, the parents or guardians, and the student. The visits
+18 should be used as an opportunity to help establish the teacher's expecta-
+19 tions of the student. The visit should also provide an opportunity for the
+20 parents or guardians to explain their expectations. The amount of moneys to
+21 be expended for such visits by the district may not exceed the amount equal
+22 to one (1) week of instructional staff allowance computed for kindergarten
+23 instructors in the district.
+24 SECTION 4. That Section 33-1009, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-1009. PAYMENTS FROM THE PUBLIC SCHOOL INCOME FUND.
+27 1.a. Payments of the state general account appropriation for public
+28 school support shall be made each year by the state department of educa-
+29 tion to the public school districts of the state in four (4) payments.
+30 Payments to the districts shall be made not later than the fifteenth day
+31 of August, the fifteenth day of November, the fifteenth day of February,
+32 and the fifteenth day of May each year. The first payment by the state
+33 department of education shall be approximately fifty percent (50%) of
+34 the total general account appropriation for the fiscal year, while the
+35 second and third payments shall be approximately twenty percent (20%)
+36 each, and the fourth payment approximately ten percent (10%) respec-
+37 tively, except as provided for in section 33-5207, Idaho Code. Amounts
+38 apportioned due to a special transfer to the public school income fund
+39 to restore or reduce a deficiency in the prior year's transfer pursuant
+40 to subsection 4. of this section shall not be subject to this limita-
+41 tion.
+42 b. Payments of moneys, other than the state general account appropria-
+43 tion, that accrue to the public school income fund shall be made by the
+44 state department of education to the school districts of the state on
+45 the fifteenth day of November, February, May and July each year. The
+46 total amount of such payments shall be determined by the state depart-
+47 ment of education and shall not exceed the amount of moneys available
+48 and on deposit in the public school income fund at the time such payment
+49 is made.
+15
+1 c. Amounts apportioned due to a special transfer to the public school
+2 income fund to restore or reduce a deficiency in the prior year's trans-
+3 fer pursuant to subsection 4. of this section shall not be subject to
+4 the limitation imposed by paragraphs a. and b. of this subsection.
+5 2. Payments made to the school districts in August and November are ad-
+6 vance payments for the current year and may be based upon payments from the
+7 public school income fund for the preceding school year. Each school dis-
+8 trict may receive its proportionate share of the advance payments in the same
+9 ratio that its total payment for the preceding year was to the total payments
+10 to all school districts for the preceding year.
+11 3. No later than the fifteenth day of February in each year, the
+12 state department of education shall compute the state distribution factor
+13 weighted per-student funding based on the total average daily attendance
+14 through the first Friday in November. The factor weighted per-student fund-
+15 ing will be used in payments of state funds in February and May. Attendance
+16 shall be reported in a format and at a time specified by the state department
+17 of education.
+18 As of the thirtieth day of June of each year the state department of edu-
+19 cation shall determine final payments to be made on July fifteenth next suc-
+20 ceeding to the several school districts from the public school income fund
+21 for the school year ended June 30. The July payments shall take into consid-
+22 eration:
+23 a. The average daily attendance of the several school districts for the
+24 twenty-eight (28) best weeks of the school year completed not later than
+25 the thirtieth of June;
+26 b. All funds available in the public school income fund for the fiscal
+27 year ending on the thirtieth of June;
+28 c. All payments distributed for the current fiscal year to the several
+29 school districts;
+30 d. The adjustment based on the actual amount of discretionary funds
+31 per support unit student required by the provisions of section 33-1018,
+32 Idaho Code;
+33 e. Payments made or due for the transportation support program and the
+34 exceptional education support program. The state department of educa-
+35 tion shall apportion and direct the payment to the several school dis-
+36 tricts the moneys in the public school income fund in each year, taking
+37 into account the advance made under subsection 2. of this section, in
+38 such amounts as will provide in full for each district its support pro-
+39 gram, and not more than therefor required, and no school district shall
+40 receive less than fifty dollars ($50.00).
+41 4. If the full amount appropriated to the public school income fund
+42 from the general account by the legislature is not transferred to the public
+43 school income fund by the end of the fiscal year, the deficiency resulting
+44 therefrom shall either be restored or reduced through a special trans-
+45 fer from the general account in the first sixty (60) days of the following
+46 fiscal year, or shall be calculated in computing district levies, and any
+47 additional levy shall be certified by the state superintendent of public
+48 instruction to the board of county commissioners and added to the district's
+49 maintenance and operation levy. If the deficiency is restored or reduced
+50 by special transfer, the amount so transferred shall be in addition to the
+16
+1 amount appropriated to be transferred in such following fiscal year and
+2 shall be apportioned to each school district in the same amount as each would
+3 have received had the transfer been made in the year the deficiency occurred.
+4 The state department of education shall distribute to the school district
+5 the full amount of the special transfer as soon as practical after such
+6 transfer is made. In making the levy computations required by this subsec-
+7 tion the state department of education shall take into account and consider
+8 the full amount of money receipted into the public school income fund from
+9 all sources for the given fiscal year. Deficits in the transfer of the ap-
+10 propriated amount of general account revenue to the public school income
+11 fund shall be reduced by the amount, if any, that the total amount receipted
+12 from other sources into the public school income fund exceeds the official
+13 estimated amount from those sources. The official estimate of receipts from
+14 other sources shall be the total amount stated by the legislature in the ap-
+15 propriation bill. The provisions of this subsection shall not apply to any
+16 transfers to or from the public education stabilization fund.
+17 5. Any apportionments in any year, made to any school district, which
+18 may within the succeeding three (3) year period be found to have been in error
+19 either of computation or transmittal, may be corrected during the three (3)
+20 year period by reduction of apportionments to any school district to which
+21 over-apportionments may have been made or received, and corresponding ad-
+22 ditions to apportionments to any school district to which under-apportion-
+23 ments may have been made or received.
+24 SECTION 5. That Section 33-1018, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-1018. PUBLIC SCHOOL DISCRETIONARY FUNDING VARIABILITY. (1) The
+27 state department of education shall calculate the weighted per-student
+28 funding formula as defined in section 33-1001, Idaho Code, to allocate ed-
+29 ucational support program funding to school districts and public charter
+30 schools. The state department of education shall utilize the information
+31 reported on weighted student characteristics as defined in section 33-1001,
+32 Idaho Code, from local education agencies pursuant to sections 33-1027 and
+33 33-1028, Idaho Code.
+34 (2) In fiscal years 2026 and 2027, if the allocation of general discre-
+35 tionary funds and state educational support distributions shifted to gen-
+36 eral discretionary funds in the current year for a school district or public
+37 charter school is less than one hundred percent (100%) of what the alloca-
+38 tion would have been if the allocation was based on support units, then an ad-
+39 ditional allocation shall be made to that school district or public charter
+40 school.
+41 (3) The legislature shall annually state in the appropriation for the
+42 educational support program/division of operations the estimate of the to-
+43 tal discretionary the base funding provided per support unit student as de-
+44 termined by the weighted per-student funding formula. The state department
+45 of education shall, before the end of each fiscal year, calculate the actual
+46 discretionary funding available per support unit student as determined by
+47 the weighted per-student funding formula.
+48 (1) (4) If the total estimated discretionary funding per support unit
+49 student as determined by the weighted per-student funding formula stated in
+17
+1 the appropriation for the educational support program/division of opera-
+2 tions is lower than the actual discretionary funding available per support
+3 unit student as determined by the weighted per-student funding formula, then
+4 the state controller shall multiply the difference by the number of actual
+5 support units, and transfer the result from the public school income fund
+6 to the public education stabilization fund and the final distributions to
+7 school districts from the department of education shall be reduced by a like
+8 amount.
+9 (2) (5) If the total estimated discretionary funding per support unit
+10 student as determined by the weighted per-student funding formula stated in
+11 the appropriation for the educational support program/division of opera-
+12 tions is greater than the actual discretionary funding available per support
+13 unit student as determined by the weighted per-student funding formula, then
+14 the state controller shall multiply the difference by the number of actual
+15 support units, and transfer the result from the public education stabiliza-
+16 tion fund to the public school income fund. This transfer shall be limited to
+17 moneys available in the public education stabilization fund. Moneys trans-
+18 ferred from the public education stabilization fund to the public school
+19 income fund under the provisions of this section are hereby continuously
+20 appropriated for the educational support program/division of operations.
+21 SECTION 6. That Section 33-1614, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 33-1614. CAREER EXPLORATION. (1) Starting in fiscal year 2024, every
+24 student in grade 7 or grade 8 enrolled in an Idaho public school district,
+25 a specially chartered district, or a public charter school shall complete
+26 one (1) or more career exploration courses. A student may opt out by sub-
+27 mitting a form to the school showing the student's parent or legal guardian
+28 has consented to the student not participating in the career exploration
+29 courses pursuant to this section. Such courses should align to the "first
+30 step" standards set by the state board of education for career technical edu-
+31 cation. Such courses may be offered face-to-face, through virtual education
+32 programs, as online courses, or as hybrid courses consisting of a combina-
+33 tion of online and in-person instruction.
+34 (2) All staff teaching a career exploration course must have partici-
+35 pated in a career exploration professional development course approved by
+36 the state board of education.
+37 (3) The state board of education will maintain resources that can be
+38 utilized or modified for the implementation of this section.
+39 (4) A career pathway plan shall be developed by students with the ap-
+40 proval of parents or guardians, with advice and recommendation from school
+41 personnel, which shall include career exploration courses or workforce dis-
+42 covery activities. The purpose of a parent-approved student career pathway
+43 plan is to outline a course of study and learning activities to help students
+44 become successful in life. Every student's career pathway plan shall be re-
+45 viewed annually and can be revised at any time. The student's school shall
+46 provide a personalized career pathway plan progress report to the student's
+47 parent or guardian. The progress report may be sent via electronic communi-
+48 cation.
+18
+1 (5) Funding provided in section 33-1002(2)(r)(q), Idaho Code, in ac-
+2 cordance with section 33-1212A, Idaho Code, may be used to support career ex-
+3 ploration courses.
+4 (6) Professional development funding provided pursuant to section
+5 33-1002, Idaho Code, may be used to provide professional development to ca-
+6 reer exploration course instructors.
+7 SECTION 7. That Section 33-1632, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-1632. MASTERY-BASED EDUCATION. (1) The legislature finds that mov-
+10 ing toward mastery-based education where students progress as they demon-
+11 strate mastery of a subject or grade level is in the best interest of Idaho
+12 students. The legislature further finds that moving from the current time-
+13 based system to a mastery-based approach will allow for more personalized
+14 and differentiated learning; create a focus on explicit, measurable, trans-
+15 ferable learning objectives that empower students; and emphasize competen-
+16 cies that include application and knowledge along with skill development.
+17 (2) The state department of education shall perform the following ac-
+18 tivities to move Idaho toward mastery-based education:
+19 (a) Provide ongoing statewide outreach and communications to increase
+20 awareness and understanding of and promote interest in mastery-based
+21 education for teachers, administrators, parents, students, business
+22 leaders, and policymakers;
+23 (b) Facilitate and maintain the Idaho mastery education network
+24 composed of Idaho public school districts and charter schools that col-
+25 laborate to transition Idaho to mastery-based education. The network
+26 shall:
+27 (i) Advise the superintendent of public instruction and the state
+28 board of education on the progress of the transition to mastery-
+29 based education;
+30 (ii) Develop evidence-based recommendations for continued imple-
+31 mentation;
+32 (iii) Implement the policies of the legislature and the state
+33 board of education for the transition to mastery-based education;
+34 and
+35 (iv) Provide network resources, including professional develop-
+36 ment, coaching, and best practices, to Idaho public school dis-
+37 tricts and charter schools; and
+38 (c) Create a sustainability plan for statewide scaling of mas-
+39 tery-based education and ensure that all public school districts and
+40 charter schools participating in the Idaho mastery education network
+41 develop plans that describe how the public school district or charter
+42 school will maintain a mastery-based approach to education. Plans must
+43 include a process to develop the rubrics and assessments necessary to
+44 determine mastery and award credit.
+45 (3) The state department of education may expend or distribute moneys
+46 appropriated for purposes identified in subsection (2) of this section di-
+47 rectly to public school districts and charter schools that are participating
+48 in the mastery education network and have applied and been selected to re-
+49 ceive mastery-based education grants. The cost of activities provided for
+19
+1 in this section shall be paid by the state department of education from mon-
+2 eys appropriated for this program in the educational support program budget
+3 as provided for in section 33-1002, Idaho Code.
+4 (4) Any public school district or charter school may participate in the
+5 mastery education network by applying to the state department of education,
+6 even if such district or school is not selected to receive mastery-based edu-
+7 cation grants.
+8 (5) No later than January 31 of each year, the state department of edu-
+9 cation shall report annually to the state board of education and the educa-
+10 tion committees of the senate and the house of representatives regarding the
+11 progress toward implementing mastery-based education.
+12 (6) For purposes of this section:
+13 (a) "Mastery-based education " means an education system where student
+14 progress is based on a student's demonstration of mastery of competen-
+15 cies and content, not seat time or the age or grade level of the student.
+16 (b) "Network" means the Idaho mastery education network.
+17 SECTION 8. That Section 33-5207, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 33-5207. PUBLIC CHARTER SCHOOL FINANCIAL SUPPORT. (1) Except as oth-
+20 erwise provided for in this section, the state department of education shall
+21 make the following apportionment to each charter school for each fiscal year
+22 based on attendance figures submitted in a manner and time as required by the
+23 state department of education.
+24 (2) Per student support. Computation of support units for each public
+25 charter school shall be calculated as if it were a separate school accord-
+26 ing to the schedules in section 33-1002(4), Idaho Code, except that public
+27 charter schools with fewer than one hundred (100) secondary ADA shall use a
+28 divisor of twelve (12) and the minimum units shall not apply. No public char-
+29 ter school shall receive an increase in support units that exceeds the sup-
+30 port units it received in the prior year by more than forty (40), except in
+31 cases of state declared emergencies that have been approved by the autho-
+32 rizer as having an impact on public education. Funding from the state ed-
+33 ucational support program shall be equal to the total distribution factor
+34 weighted per-student funding, plus the salary-based apportionment provided
+35 in chapter 10, title 33, Idaho Code. Provided, however, any public char-
+36 ter school that is formed by the conversion of an existing traditional public
+37 school shall be assigned divisors, pursuant to section 33-1002, Idaho Code,
+38 that are no lower than the divisors of the school district in which the tradi-
+39 tional public school is located, for each category of pupils listed.
+40 (3) Special education. For each student enrolled in the public char-
+41 ter school who is entitled to special education services, the public charter
+42 school shall receive the state and federal funds from the exceptional child
+43 education program for that student that would have been apportioned to the
+44 school district in which the public charter school is located.
+45 (4) Alternative school support. Public charter schools may qualify
+46 under the provisions of sections 33-1002 and 33-1002C, Idaho Code, provided
+47 the public charter school meets the necessary statutory requirements and
+48 students qualify for attendance at an alternative school as provided by rule
+49 of the state board of education.
+20
+1 (5) Transportation support. Support shall be paid to the public char-
+2 ter school as provided in chapter 15, title 33, Idaho Code, and section
+3 33-1006, Idaho Code. Each public charter school shall furnish the depart-
+4 ment with an enrollment count as of the first Friday in November of public
+5 charter school students who are eligible for reimbursement of transporta-
+6 tion costs under the provisions of this subsection and who reside more than
+7 one and one-half (1 1/2) miles from the school. The state department of edu-
+8 cation is authorized to include in the annual appropriation to the charter
+9 school sixty percent (60%) of the estimated transportation cost. The final
+10 appropriation payment in July shall reflect reimbursements of actual costs
+11 pursuant to section 33-1006, Idaho Code. To be eligible for state reimburse-
+12 ment under the provisions of section 33-1006, Idaho Code, the student to be
+13 transported must reside within the public charter school's primary atten-
+14 dance area and must meet at least one (1) of the following criteria:
+15 (a) The student resides within the school district in which the public
+16 charter school is physically located; or
+17 (b) The student resides within fifteen (15) miles by road of the public
+18 charter school. The limitations placed by this subsection on the reim-
+19 bursement of transportation costs for certain students shall not apply
+20 to public virtual schools.
+21 (6) Facilities funds.
+22 (a) The state department of education shall distribute facilities
+23 funds to public charter schools for each student in which a majority
+24 of the student's instruction is received at a physical facility that
+25 is owned or leased by the public charter school. Such funds shall be
+26 used to defray the costs associated with payments for real property used
+27 by the students or employees of the public charter school for educa-
+28 tional or administrative purposes. Such funds shall be distributed at
+29 four hundred dollars ($400) per attending student pursuant to section
+30 33-1003A, Idaho Code. For the purposes of this paragraph, beginning in
+31 state fiscal year 2025, "attending student" means each student in aver-
+32 age daily attendance in kindergarten through grade 12 at such physical
+33 charter school facilities where the student is enrolled; except that,
+34 upon formal approval by the state board of education, a charter school
+35 may receive an exemption to the physical facility requirement pursuant
+36 to the provisions of this paragraph if the student would have attended a
+37 physical facility if not for a stated emergency.
+38 (b) For those public charter schools that do not receive facilities
+39 funds for all enrolled students, the school may submit to the state
+40 department of education a reimbursement claim for any costs for which
+41 facilities funds may be used. The state department of education shall
+42 reduce such claim by the greater of fifty percent (50%) or the percent-
+43 age of the school's enrolled students for which the school receives
+44 facilities funds and shall pay the balance. Provided, however, that the
+45 total reimbursements paid to a public charter school, in combination
+46 with any facilities stipend received by the school, shall not exceed the
+47 amount of facilities funds that would have been received by the school
+48 had the school received facilities funds for all students in average
+49 daily attendance pursuant to section 33-1003A, Idaho Code. For the
+50 purposes of this subsection, the term "real property" shall be used as
+21
+1 defined in section 63-201, Idaho Code. A virtual public charter school
+2 authorized by the public charter school commission or authorized by a
+3 public school district on or after March 1, 2024, shall not be eligible
+4 for funds appropriated pursuant to the provisions of this subsection.
+5 (7) Payment schedule. The state department of education is authorized
+6 to make an advance payment of twenty-five percent (25%) of a public charter
+7 school's estimated annual apportionment for its first year of operation,
+8 and each year thereafter, provided the public charter school is serving more
+9 grades or at least ten percent (10%) more classes than the previous year, to
+10 assist the school with initial start-up costs or payroll obligations. For
+11 a public charter school entering at least its second year of operation, the
+12 state department of education may require documentation establishing the
+13 need for such an advance payment, including comparative class schedules and
+14 proof of a commensurate increase in the number of employees.
+15 (a) For a public charter school to receive the advance payment, the
+16 school shall submit its anticipated fall membership for each grade
+17 level to the state department of education by June 1.
+18 (b) Using the figures provided by the public charter school, the state
+19 department of education shall determine an estimated annual apportion-
+20 ment from which the amount of the advance payment shall be calculated.
+21 Advance payment shall be made to the school on or after July 1 but no
+22 later than July 31.
+23 (c) All subsequent payments, taking into account the onetime advance
+24 payment made for the first year of operation, shall be made to the public
+25 charter school in the same manner as other traditional public schools in
+26 accordance with the provisions of section 33-1009, Idaho Code. A public
+27 charter school shall comply with all applicable fiscal requirements of
+28 law, except that the following provisions shall not be applicable to
+29 public charter schools: that portion of section 33-1004, Idaho Code,
+30 relating to reduction of the administrative and instructional staff
+31 allowance and the pupil service staff allowance when there is a dis-
+32 crepancy between the number allowed and the number actually employed;
+33 and section 33-1004E, Idaho Code, for calculation of district staff
+34 indices.
+35 (8) If an authorizer has reason to believe that a public charter school
+36 cannot remain fiscally sound for the remainder of its certificate term, it
+37 shall provide the state department of education with written notification of
+38 such concern. Upon receiving such notification, the state department of ed-
+39 ucation shall have the authority to modify the percentage of the total appro-
+40 priation to be paid to the public charter school pursuant to the provisions
+41 of section 33-1009 1., Idaho Code, such that equal percentages are paid on
+42 each of the prescribed dates.
+43 (9) Each public charter school shall pay an authorizer fee to its au-
+44 thorizer, not to initially exceed twenty thousand dollars ($20,000), or, in
+45 the case of existing charter schools, up to a five-percent (5%) increase of
+46 the previous year's fee. Authorizers shall annually set the authorizer's
+47 fee and in doing so shall document the fees to actual expenditures associated
+48 with authorizing.
+49 (10) Nothing in this chapter shall prevent a public charter school from:
+22
+1 (a) Applying for federal grant moneys or for career technical education
+2 funding of any source; or
+3 (b) Receiving funding or other financial assistance for the establish-
+4 ment or operation of a public charter school from any private person or
+5 organization.
+6 (11) Each student in attendance at a public virtual school shall be
+7 funded based on either the actual hours of attendance in the public virtual
+8 school on a flexible schedule or the percentage of coursework completed,
+9 whichever is more advantageous to the school, up to the maximum of one (1)
+10 full-time equivalent student.
+11 (12) All federal educational funds shall be administered and dis-
+12 tributed to public charter schools, including public virtual schools, that
+13 have been designated as a local education agency (LEA), as provided in sec-
+14 tion 33-5203, Idaho Code.
+15 (13) Nothing in this section prohibits separate face-to-face learning
+16 activities or services. In order to be eligible for career technical educa-
+17 tion essential components funding, virtual schools may be required to offer
+18 some face-to-face instruction in order to meet industry standards, licens-
+19 ing requirements, work-based learning requirements, or other requirements
+20 set forth by law.
+21 (14) The provisions of section 33-1021, Idaho Code, shall apply to pub-
+22 lic charter schools provided for in this chapter.
+23 SECTION 9. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YENCNAGTOE;AGSN3,IOC,TOD;AGSN3,IOC,TOREPSRGTEELSTP;AGSN3OC,TOPEACTCER;AGS,IOC,TOREPSRGPSFMTCSLIEF;AGSN3,IOC,TEPSRGPCSLDYFGV;AGSN3,IOC,TOPEACER;AGSN3,IOC,TOREAPNRGF;AGSN3,IOC,TEPSRGPCCRSLFLSDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.D.Asudintsc)"es"msadastoalesadkswnadtttaesdtn()mrlsfmbhteoreyssadteplaeoeoftedtadalsysswnadttesdfn()msorlsfmorsyssoft)"es"mstewohdanarceadaeedasas,aneyorslp,oraeadaedsoradaetyadtot)"ks"msastings6th12w)Msatltte()oftefgc)Hsrdatltoe()g)Hsamgrtntnpt()dgtgs)Hsanolgeptaelstn15ona4eprtoeginanaesyp)Hsfdoe()ormeacssintepty)Isbwp,bdonllc,s,orb)Isto()ormecspryrbdtererogeorfrgep;o)Hsadte()ormesswntepo()y,ntigdle;o)Msayoftefgc]
+[DELETED: )Hsddseaeorapnofs)Isptorap)Isanedyhorudy)Isapsd)Hsassp,e,ormlieori)Hsactorayr;o)Dsbrdltotessa)"edya"or"sinaedyasteaenrofdsedssaep,ddbenrofdsofslintergp;p,h,tsfrwmnoIosldtisahedtslntbdinshc)"rl"mstecnteudfrdeasdsrefrilsfadplsfbdonscpecaadismeupofarnrgadaplcnr)"dwhad"msacdedashgald,ahglsigd,ashoei,avlitigb,anelbld,anoci,a,atni,arhhi,asclgd,ormedsadw,byrnt,nlenadrds)"nr"mstergontecrlrttcswhtecnllpec)"ydds"msastw)IseefrafeorrelhurteRdBlnlsllha,42U.11ets,eswoaeeeoythasscye)Rswhafyrgaeurtepmokgstossfrtyaefrnyf)edurptAofteIVofteslsya2U.61ets)IseetoremlaeurtemdpmurteXXofteslsya,42U.16ets)IscdhsfrpsofteflMsaea,42U.11ets)"yg"or"yaedya"mdastossedings1th6,i,orant)"ys"aessttsegs1th6,i,oraycnt)"ys"aessttsegsh1,i,oraycnt]
+[DELETED: )"hlel"or""msastwodsneptonteEhledtateyreoftesebdofe)"dadt"slhetesemgaspdin3,IoC)"ds"msaystwowdnyadryadslbtiscdtoheorhlbeofaniratfrapdoftn()ormeced)"ls"mstewohdanIocdursn3,IoC,adwoaeeridinttinofastorgpofssorwoseinamrtrlrpnfriswohdanIocdursn3,IoC)""or"naedya"mdastoalssedinasly,lstnas,orsrknp)"lsys"msacnteadbyldtorpccrs,whteisudfrdgmstobeddfrilsfadplses.Mmcnpdurallsyseseatlteltotemmasedpttos,IoC)"esta"mstemtofscatorghwnagnilofinfesswohebnedinadadeypt(fteilofi.Msadtsslbecnattlllincnwhtesfmridbytemdaedtsfadadbyteslb.Msasmtaoanwhtepemsadbsintsitpnddinsn3,IoC.Tteemsadtsaetegdascetotealwkasp.Tsmybebdong-ordtorghgsttcecnwng.Ilmestattsadtepeofssmgiltsmtberdaytotes.Attsttmybeudfrmgstatadg)Iossattt(,igimI)Stlgo)Tdasofstg)P-adp,igddt)Pda)Iorgi,whwlbeoe()ofterdattsfraes)CeeeesorpyceeeesssP,S,P,adA)Adpte)Crtle]
+[DELETED: )Nrofbsoriycsorcseyssinanadcrtlenp)Nrofsscgcrtlenc;a)Nrofssedincrtlenctaeptofapmttcswhbsorisorc)"ec"mstesssdfrilsfadplsesftodetgpyfgncnr.Ehetofteplcgadadplcnrgpec,adintssnadasaetoasfmsplbed,r,adsttorwfrdgmtontecrl)"lcnrgpec"m)Anolrgofptorh,adnocdasu,ontesefkfrtgenoretfrplsesforplorolllarenadtotesefkfrtge;a)Dgtemyofsshemtmtattsorstssirt)"dplcnrgpec)Anolrgofptorh,nocdasuyorb,adrdasdlindnto--cmetordnt-inadueofatontesefkfgenoretfrplsesforplororslllarenadtesefkfrtge;a)Dgsept()ormeoftshemttrmestattsotssirt)"csld"or"ld"or""mypcsldtodurtelsoftss,iycdsld)"lses"mstewopesstos,btaentidindtinoftes,adhplplssc)"lb"msasldtbdoftsortdofdsofapccrs)"yg"or"yaedya"mdastossedings7th1,i,orant)"ys"aessttsegs7th1,i,oraycnt)"eeys"msaneyslletntn()msonanarrdfmbhtenteysladeyslsglegswnt]
+[DELETED: esldtadfmtelnofteoeoftestofssofshd,orfmteoeoftecfaeorofshdtiftedtesnosto)"ek"msaknldmetnt)msonanarrdfmbhtentknsntesesldtadfmtelnofteoeoftestofssofshd,orfmteoeoftecfaeorofshdtiftedtesnostofs)"esys"msaysyslletnfn()msonanarrdfmayorsladeyslsglegsodbyt)"le"mssyddinoetyatnocttotepttomtteuenfastwoisacdwhad,iginint,teh,h,i,adors;ininple;shtyadlet;t;tlt;aetys;adv)"tlgp"msapnttosasspmofs,whsdiearsacceadareofesina,crtle,orhsadwhtesspng)"tssi"msmeisotatorg,ortna,wnapdiloftefrasdgpofs.Msadtssecnattedtorslllincnwhtepesfmridbytemsadaedtslmestattsadtepeosmgehttmtberdaytotes.Ssisi)Qegssdinass54pnorinp)Qegssdinassbri)S-orddmestosfrdstgporp)Tepeofsswocestlgpsie8orwoayuetrstlgpst)Tepeofsswosyceoe()oeadososasidinsn3oC,orwoenbsoriycsorc.Tsirslbeoe()ofterdisfes)"tp"msteelstpmasddinsn3,IoC,tetnstpdinsn3,IoC,adteeletpmasddinsn3,IoC]
+[DELETED: )"tu"msafnofaedyaeuntecstodeflstpdtotepld)""msaypnedinat,i,elaeoreladsccyinaysld.Inceofd,tesebdofensldewraypnedrscnas)"dptfgf"msagfgtosldsadpccrssuganadonaedyaeaspdinsn3oC,adanalatprstfrwds.Frehsldtorpccrsewdasfrstcsslbebdonteoftete()htstfeetetcsfrvdssrdpttosn3oC.Tewdasslbeasf)Freydds,tebeatptmdbyoeqr()FrEhlel,tebeatprsdbyoeqr()Frslens,tebeatprsdbyoeadof()Frssagasldtorpcclwhlstnsxhd()aedyaebeatprstmdbyteqs()Frgdadtds,tebeatprsdbyoeqr(;a)Frakssaganaes,teatprstmdbyoe()Fgfrehccmybecdifasthetnoe()oftewdstc.Aystorpccrsltthsatltoe()stbrtnfe()sswomttecafrayccpdfrinph(,(,(,(,(,or(ftssnslrefgasifithsfe()shs)"dstc"msaccoftttisadwhmestatadeln,igassssaseyd,ahlel,rgsle,agastorpccrslwhlstnsxhd()aya,gdadt,orakadaganaesN2.TtSn3,IoC,b,adteseishdtordasf.ELSTP.Teelstpmiscdasf]
+[DELETED: )SeElStF.Adtesea,igtemsaeintepcslief,trwlmsrstodetetlsef)Fmtetlsefssttefgasnrsestofslpspdbyasld)Pltyasaspdins,IoC)Tnstpmaspdinsn3oC)Fyssaeaspdinsn3oC)Teadcsfrbrdta,pdinsn3,IoC,asddbytesestoci)Teadcsfrelcdadcta,pdinsn2.ofsn3,IoC,adbytesestofpci)Sdatcdaspdins4th3,IoC)Utiebtpsagtotepsofsn7,IoC)Freeaspdbytepcsltyp)Freesepsaspdinsn3oC)FrdstoteIodllgayaspnsn3,IoC)Frcrslfsfsadrspdpttosn3,IoC)Franoeceplaspdfrinsn3oC)Fradosaspdfrincr4,te3oC)Fralmhadsecsfrhhslssadinsn3,IoC)Frmrtrpsaspdinsn3,I)()Frtestofpsttpeaseeetostlgadmncmd,ananoftehdds()prstu)()Anatsdinteanblfrtepselstpmfrcgstasprinsn3,IoC,slbeddfrgsh12asf)Frsldsadpccrsswhoehd()ormessedings8th1,apadnbdonssedings8t2orentdds(,wrisg)Frsldsadpccrsswhfnoehd()ssedings8th1]
+[DELETED: ehdeyds()prstedingth12ornetdds(,wri)()Anatsdintepcsselsmanblfrlyi.Tedsmetotesldsadpccrssslbdasf)Fypt()bdonaefeetofssinknthge3asofttFyinN)Fypt()bdontenrofkhge3sswomeaflllorwoaeptfmtesganoftesgatinteprflyro,ifteisntrsgatfrtes,fmfltos;a)Fswlbeddtotesldtorpccrslwetestisedadtsterga.Aysldtorpccrsltthsgrtnoe()btfrtnfe(sinknthge3wlreammootdds(.Eyddssslctasoeadteqs()ssfrteofcgtednoftefsinsh()oftsp)Frmdenaspdfrinsn3oC)()Frpyfrsscgaspdinsn3oC;a)()Ayalasasrdbysetoetaeasorassyrdbytepsoyblofaosetetlelstdnf)AeDyA.Tetlseaedyalbetesmofteaedyaeofaloftesldsoftes.Tesebdofenslehrssgfhtepetodeaedyaeadtet,admdo,snofshr.Aedyaecnslbecdottotenth.Cnofaedyaeslaobegdbytepsofs,IoC)StU.Tetlsestusslbedyugtetsstothrcdcnofktu,cnofeystu,cnofsystu,cnofelenstudcnofaeslstu.TesmofaloftlstusofalsldsofteseslbetetestuNOFKNSTU]
+[DELETED: eDeDrUsA1ormormeasc1-49A6-39A..1-29A..6-29A..-19A..-79AtaseNOFEYSTUeDmUeDrA0ormeA...1s45&6s12&3s12&3s12&3dehyrt0to29A.80to19A.61to19A.47to70A.46to56A.26to35A.10to15ANOFSYSTUeDmUeDrA0orm0-79A0-39A0-29A0-19A9orfsadasfs7-1s9-1s7-pr14As7-pr16A]
+[DELETED: NOFELENSTUeDmUeDrA4ormormea2-1-1..-7..-3..NOFAESLSTUnofaeslstusslis6th1sinAeDrMmU2ormormeanagtetstoaygnseaeu,nldtslrelstlmytnitwdreifidalraedyaeinshseaeu.Igtekntetoaknpmoffrdnaflsly,testutaeslbeinrototrofdsofaflsly.Teaeofssanaeslinasldtrgfrtnoeh)syssinaedyaeslntbeaoteaeteiftestisfmasldtrrtnoehd()syssinaedyatslidbeadtotesyteoftesldnwhtyaeagteaes,ustealinqnssssfmmedsrgfnoehd()syssinaedya.Tsfrelenadaeslstusseaeoyfrpsadbytesedtofenfgrsedbytesebdofe.Mdfmcnofstusfraessslbdfraeslp.Sldtadfycsmybeidasptofteaesle)SeDnFrprStU.Deetpmdnf,arsgteasnopyteossdinsn()oftss,bytlsestustosetesednfrprstu)()DtStU.Tenrofstusfreldtinteseslbeddasf]
+[DELETED: )Detealaedya,egssadfrininteelcdemfrteaessadehoftessadaeu,byteaedrfmtsofstusintss,tnadteqoontedsstusaefrrrs,knthge12igaes.Csinanoftssnslbdottotenth)Detecdtsofteaedyafalp,k,e,s,jncrssadsswhdsarininteelcdpmoftedtbeaedrfmtetefrcnofelenstustoontenrofssadfrtedsadelcdp.Csfrtssnslbecdottotthhwnmetnoe()utisa)Tetlnrofstusoftedtslbesmoftetlstusfrrrs,sh()oftsp,adtestusaefeadelcdp,sh()oft)TlDtAeElP.Mytedstlnrofstusaedyaeadinsn3,IoC,cdottotenth,bytesednfrprstutb,whwdasadprstasddbytdptfgf,adtotsptadteadatofpsoftedtpdinsn()ossntosetedstlaefrteelstp)DtS.Tedsseofseatisttoftetldta,ph()oftss)AtofDtS.Tectsyofeyndtrslbesdfmtedsseascdfmtepsofph()oftss)()PyTxCnR.Inortoresefttotss,acrdtslueaslmeadonpytxcnrofrtepeofcgismeadonlyttisnogrtnttwtudintxyr1,lsfsofoept(.Asu,tetm"ytxcnr"slmnaroddbydgtedscdpytxmeadonbtbytealoradmtvefratpsasshvsedonDr3,1.ShmeadonlyslbebdontepytxcnromytealoradmtvefratpsasshvdonDr31ofteprcry]
+[DELETED: N3.TtSn3,IoC,b,adteseishdtordasf.SFA.Frehsld,asfalbeddasf)UgtedyaerstthebnsdfgteFy15atofsefsaspdinsn3,IoC,cetetlstusfrtedntemrpdinsn3,IoC.Ifttusudtocedyfgpttos9ad3,IoC,aeatlttept()gept()oftedeslbeadtotessudfrteFy15atofsef)Deteilsfaebymgttusby1.Adtmtdettitayeenrofcdilsfa,etaspnsn()ad()oftss.Iftedtdsnteenra,tesfaeslberdtotealn,etaspdinsn()ad()oftss)Deteplsesfaebymgtestusby0)Deteaesfaebymgttusby.)Detecdsfaebymgtestusby.)Alcsggsfa)Indgtenrofsfinss(,(,()a)oftss,adtmyctsyfrssterdbyntesadshesmybecntesfa.A"te"msapnfmtesldtdsntpyteesosfeb.Wnadtcsfrtessofte,oytesypnoftectslbefrc)Ifteaecspgeeueofsfaetowhadtisedaspdinss()ad()oftss,analmybefdwhtesedtofenogtersadpdaeoftef,adawrmybeg)Fraydtwhlstnfy()stu)Teilsfaeslbecgtealnrofstu.Iftealilsfedinteslyrisgrtntlsfa,tnteilsfaeslbeidbyof()sfa;a)Teaesfaeslbecdagtealnrofstu.Iftealaesfedinteslyrisgrtnteaesfa,tnteaesfaeslbeidbyof()sfa]
+[DELETED: )A,fraydtwhlstnty(tu,teilsfaeslbecdagtealnrofstu.Iftenfilsfedinteslyrisgrteilsfa,tesfaeslbdaspdinss()ad()oftsp,adbyanalof()ilsfa)Fraysldtwhoe()ormesesssggs9th1,teilsfalbeidbyto()alilsfarehshsesys)Oyi,plseadaesfadplcdbytesldtfmteglmeadonfdoftedtslbeidiecnofsfaeorinayorcsbns,igdnofteeeade,tergr,ortedsstc.Nofdsesfortfslbeidintesfa)Adtmyueuptofnpt()oftemdwhpsfdpttosn()oftntopyarsldtorpccrslflssortodytectofpgvlenc,igvldlctc,wtnintenroffdpsbgi)Adtmyeyneadofpt()frpstnfdpttoss()ad()oftsstarnintenroffdpsbgiginflyr2,tsfeslberdbyoept()ehyrfrehsldtinwhteaec,asddfmprflyrdardtotestofe,wsatltoe()stgrtnteaecss.TesedtofensttoteleeyF,bgin2,onterssdtotepeintsf,bysld,ieegfly)Intednofseaecss,tedtofenslntueasefeddthteagofaldsofvgsllnadplpsttteseseaecsseslbecdofmsddthasofleadsysddsadueoftedrbnedin3,IoC)Tesebdofenmypersoemdofcnofteseaecssef)Teoept()rnrdinph()ossnslntbeaefrayslyrs]
+[DELETED: ttoayrwntesldsbsheceofd,c,enorano)Inteettttesfaeinaycyisittomtans,adtmyaltotesdofe,dgtei,adtesebdmtawragstalsftobeidwesfaetomtans.Shawrslbdtooe()y,btmyberdunsgofcgj)Adtmyueapnofteilsfaepdfrintssnfrkntstovttsorgsofssdgteftwkoftekly.Shvsmytepeats,attesshratarlnadtobytetradpsorgepeofshvsistohpsntewgrntet,tepsorg,adtes.Tevdbeudasanoytohpehtetsesoftes.Tevtsdaopeanoyfrtsorgstoentre.Teatofmsteedfrshvsbytedtmyntedteateooe()wkofilsfaecdfrksintedN4.TtSn3,IoC,b,adteseishdtordasf.PSFMTEPCSLIEF.Psofteseglatanfrplstslbemeehyrbytesedtofentotepcsldsofteseinfr()pstotedsslbementlrtntefhdfA,tefhdyofN,tefhdyofFdtefhdyofMyehy.Teftptbytestofenslbeayfypt()oetlglatanfrtefly,wetdadtdpsslbeaytypt(,adtefhptaytnpt()r,etaspdfrinsn3,IoC.Addetoasltrtotepcslieforeorreadyinteprystrposn4.oftssnslntbesttotsl.Psofm,ortnteseglata,ttaetotepcsliefdslbemebytedtofentotesldsofteseoefhdyofN,F,MyadJyehy.Tlatofshpsslbeddbytesedtofenadslntedteatofmsadondtintepcsliefdatteteshpsm]
+[DELETED: .Asaddetoasltrtotepcsefdtoreorreadyinteprystrpttosn4.oftssnslntbesttelnidbypsa.adb.oftss.PsmetotesldsinAtadNraeaepsfrtectyradmybebdunpsfmtcsliefdfrtepgsly.Ehsldtmyreispeseofteaepsintesottistlptfrtepgyrwstotetlpoalsldsfrtepgy.NolrtntefhdyofFyinehy,tedtofenslcetesednfdptfgbdontetlaedyahteftFyinN.TefrwdptfgwlbeudinpsofsefsinFyadM.AlberdinaftadatatesdbytesedfesoftethdyofJeofehyrtesedtofensldeflpstobemeonJyfhntsgtoteslsldsfmtepcsliefrteslyredJe3.TeJypsslteioc.Teaedyaeofteslsldsfrtt()btwsofteslyrcdntlrtethofJ.AlfsaeintepcsliefdfrtefregontethofJ.Alpsddfrtectflyrtotesld.Teatbdontealatofdyfrstutstrdbytepsofsn3oC.Psmeordefrtetnstpmadtlenstp.Tesedtofenslanaddttepttoteslsldstemsintepcsliefdinehy,toatteaemeursn2.oftss,ihasaswlpeinflfrehdtisstp,adntmetntrr,adnosldtselstnfyds(.Ifteflatadtotepcsliefmteglatbyteleisnttdtotepliefdbyteedoftefly,tedyrmslerberdorrdthasltrfmteglatinteftsy()dsoftefly,orslbecdincgdtl,adallyslbecdbytesestofpntotebdofcycsadadtotedeadonl.Iftedyisrdorryslt,teatsotdslbeinantot]
+[DELETED: tadtobetdinshfgflyralbeadtoehsldtinteseatasehwerdhdtetrbnmeinteyrtedyoesedtofensldetotesldeflatoftesltrassnasplarsrism.Inmgtelycsrdbytssntesedtofenslteioatadceflatofmyrdiotepcsliefdflssfrtegnfly.Dsintetrofteadatofglatretotepcslidslberdbytea,ifa,tttetlatrmorssiotepcsliefdesteodatfmtes.Teoleeofrsfrssslbetetlatsdbyteleinteanb.Tepsoftssnslntaytoastoorfmtepcensnf.Ayasinayy,metoaysld,wywntesgte()yrpdbefdtohebninerofcnort,mybecddgtete(rpdbyrnofastoaysldttowsmyhebnmeorr,adcgastoastoaysldttowhusmyhebnmeorrN5.TtSn3,IoC,b,adteseishdtordasf.PCSLDYFGV.()Tedtofenslcetewdpgfaasddinsn3,IoC,toaeelstpmfgtosldsadpcc.Tesedtofenslueteidonwdstcsasddinsn3oC,fmllenaspttoss37a,IoC)Inflys26ad2,ifteanofgldyfsadseelstdssdtogldyfsintectyrfrasldtorprslislstnoehdpt()ofwtteanwdhebnifteanwsbdonstu,tnanalanslbemetottsldtorpcc)Teleslayseinteanfrtlstpnofosteeeoftetldytebefgpdprstutstasddbytewdptfgf.Tesedfens,beteedofehfly,ceteayfgaeprstutstasddbewdptfgf)()Iftetleddyfgprstutasddbytewdptfgfasdi]
+[DELETED: eanfrteelstpnofosislrtntealdyfgaeprststasddbytewdptfgf,tesecrslmytedebytenrofatu,adtrtertfmtepcsliefotepcensnfdadtefldstldsfmtedtofenslberdbyal)()Iftetleddyfgprstutasddbytewdptfgfasdieanfrteelstpnofosisgrtntealdyfgaeprststasddbytewdptfgf,tesecrslmytedebytenrofatu,adtrtertfmtepcensnfdtotepcslief.Tstrslbeldtsaeintepcensnf.MstdfmtepcensnfdtotepcsefdurtepsoftssnaehycdfrteelstpnofoN6.TtSn3,IoC,b,adteseishdtordasf.CRE.()Sginflyr2,etinge7orge8edinanIopcsldsycdd,orapccrslslce()ormecrenc.Astmyototbysgafmtoteslsgtessptorllgscdtotestntpgintecrespttotss.Shcssdantote""ssstbytesebdofenfrcrtle.Shcsmybeodf,thvle,asoec,orashdcscgofacnofoeadini)Alsftgacrencemthepdinacrenpldtceadbesebdofe)Tesebdofenwlmnrsttcnbdormdfrteinoftss)Acrpypnslbeddbysswhtealofpsorg,whaeadrnfms,whsliecrencsorwedya.Tepeofapdstcrpnistooeaceofsyadlgastohpseslinl.Eysscrpypnslberdayadcnberdatayt.Tessslseapdcrpypnpsrttotestorg.Tepsrtmybestvaecc]
+[DELETED: )Fgpdinsn3,IoC,inaewhsn3,IoC,mybeudtostcrenc)Pldtfgpdpttos,IoC,mybeudtopepldttocrenceiN7.TtSn3,IoC,b,adteseishdtordasf.MDE.()TelefsttmgtdmdenwesspsastydemyofastorgellisintebtitofI.Telefrfsttmgfmtecttdsmtoamdahwlawfrmepdddl;ceafsone,m,telgostters;adeecsttieanadkeagwhsld)TesedtofenslpmtefgastomeIotdmde)Peogseohadcstoisadugofadpeitinmnfrt,a,p,s,b,adp)FeadmnteIomyenndofIopcsldsadcrssttcetotnIotomde.Ten)Aetestofpcinadtesdofenontepsoftetntomde)Dpedrsfrcdi)Ittepsofteleadtesdofenfrtetntomde)Penkr,igpld,c,adbtp,toIopcsldsadcrs;a)CeasypnfrsesgofmdenadeettalpcsldsarsspginteIomyennppsttdehwtepcsldtorclwlmnamdahtoe.Psmeapstodptersadasnytemyadadc)Tesedtofenmyedordemdfrpsidinsn()oftssndytopcsldsadcrssttaepntemyennkadheadadbnsdtoremdeng.Tectofaspdf]
+[DELETED: ntssnslbepdbytesedtofenfmmsadfrtspminteelstpmbspdfrinsn3,IoC)Aypcsldtorcrslmypeintyennkbyagtotesedtofenifshdtorslisntsdtoremdeng)NolrtnJy31ofehy,tesedtofenslrtaytotesebdofenadteencsofteseadteheofrsrgtstdigmde)Frpsoftss)"den"msanensmwessisbdonassdnofmyofcsadc,ntstteorteaeorgelloftes)""msteIomyennN8.TtSn3,IoC,b,adteseishdtordasf.PCCRSLFLS.()Etasoepdfrintss,tesedtofensetefgattoehcrslfrehflydonaefssdinamradteasrdbytedtofe)Prsts.Cnofstusfrehprslslbecdasifitweaseslagtotessinsn3,IoC,etttprsswhfrtnoehd()syAAsluerofte()adtemmusslnta.Nopccrslslreanieinstusttestestusitrdintepryrbymetnfy(,etisofseddestthebnadbytearashganitonpce.Fgfmteseelstpmslbeeltotetldnfdptf,pstesdatpncr1,te3,IoC.P,h,aypccrslttisfdbytecnofanegtlplslbeadd,pttosn3,IoCtaenolrtntedsoftesldtinwhtetlpcslisl,frehcyofpsl)Sle.Frehstedintepccrslwoisedtoslens,tepcclslreteseadflfsfmteelcnpmfrttstttwdhebnadtotldtinwhtepccrslisl)Aesls.Pccrssmyqrtepsofss32ad3,IoC,pepccrslmstenysyrsasqyfraeatanaeslaspdbyrftesebdofe]
+[DELETED: )Tns.Stslbepdtotepccrslaspdincr1,te3,IoC,ads,IoC.EhpccrslslfhtedtwhanetctasofteftFyinNrofprslsswoaeeefrrtoftncsurtepsoftssnadworemeteadof(11)msfmtes.Tesedtofenisadtoieintealantoteclsypt()ofteedtnc.TefnptinJyslrtrsofalcttosn3,IoC.Tobeeefrserturtepsofsn3,IoC,testtobdmtrewntepccrsspyaeaaadmtmtatltoe()oftefgc)Testrswntesldtinwhteprslispyl;o)Testrswnfn()msbyrdofteprs.Telspdbytssnontertoftncsfrcnssslntaopcvls)Fsf)Tesedtofensldefstopccrssfrehstinwhamftessinisrdataplfytsodorldbytepccrs.Shfsslbdtodytecsadwhpsfrrlpyuytessoresoftepccrslfreloraep.Shfsslbeddarhdds()pragstpttos,IoC.Frtepsoftsp,bgieflyr2,"gs"msehstinaedyaeinknthge12atshprslfswetestise;ettnflalbytesebdofe,acrsyreanentoteplfyrtpotepsoftsphiftestwdheadlfyifntfrasde)Frtepccrssttdontrefsfraleds,teslmysttotestofenartcmfraycsfrwsfsmybeu.Tesedtofenseshcmbytegroffypt()ortepeoftessedssfrwhteslrsfsadslpyteb.P,h,tttlrspdtoapccrs,inchayfssdrdbytes,slntedttoffsfsttwdhebnrdbytesdteslrdfsfsfralssinayaepttosn3,IoC.Frtsoftss,tetm"lp"slbeuda]
+[DELETED: dinsn6,IoC.AvlpccrsdbytepccrslcnoradbycsldtonorarMh1,2,slntbeerfsadpttotepsoftss)Pts.Tesedtofenisaomeanaeptoftept()ofapccsedalatfrisftyrofodehyrt,pdtepccrslissgmsoratlttnpt()mecstntepsy,ttteslwhilspcsorplo.Fpccrslegatltissdyrofo,tedtofenmyrednegtdfrshanaep,igcecsssafofaceieintenrofe)Frapccrsltoreteaep,tlslstisadflmpfrehgltotesedtofenbyJe1)Ugtefspdbytepccrs,testofensldeanedalatfmwhteatofteaeptslbeceptslbemetoteslonorarJy1btnrtnJy3)Alstp,tgioatteoeatmefrteftyrofo,slbemetoteprslintesemrasortlpcssiewhtepsofsn3,IoC.Aprslslcywhalaeflrso,ettttefgpsslntbeaetccrs:ttpnofsn3,IoCgtornofteaeadilseadteplsesfaewnteisadybntenradadtenrayedsn3,IoC,frcnofdts)Ifanarhsrntobettapccrstrnfysdfrterrofiscet,ilpetesedtofenwhwnnnohc.Unrgshn,tesedtofenslheteaytomytepeoftetlantobepdtotepccrslpttotepfsn391,IoC,shttelpsaepdohoftepdd)Ehpccrslslpyanarfetoisa,nttoiyedtytdds(,o,ieceofegcrs,uptoaft()ieoepsysf.Asslaystteaeadindgsosldttefstoalesaha)Ngintscrslptapccrslf]
+[DELETED: )Agfrflgtmsorfrcrtlegofays;o)Rgfgororflaefrteetoronofapccrslfmaypepno)Ehstinaeatapcvlslslbdbdonertealhsofaeintepcvlonafeseortepeofckcrismeastotes,uptotemmofoe(eets)Alflelfsslbeadadddtopccrs,igpcvls,tebnddasallenay(,aspdinsn3,IoC)Ngintssnpssefelsors.Inortobeeefrcrtlenelcsf,vlssmyberdtooefeininortomtiys,lgr,wdlgr,ororrtfhbyl)Tepsofsn3,IoC,slaytopccrsspdfrintscN9.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1096
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1001, IDAHO CODE, TO DEFINE
+3 TERMS; AMENDING SECTION 33-1002, IDAHO CODE, TO REVISE PROVISIONS RE-
+4 GARDING THE EDUCATIONAL SUPPORT PROGRAM; AMENDING SECTION 33-1004,
+5 IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION
+6 33-1009, IDAHO CODE, TO REVISE PROVISIONS REGARDING PAYMENTS FROM THE
+7 PUBLIC SCHOOL INCOME FUND; AMENDING SECTION 33-1018, IDAHO CODE, TO
+8 REVISE PROVISIONS REGARDING PUBLIC SCHOOL DISCRETIONARY FUNDING VARI-
+9 ABILITY; AMENDING SECTION 33-1614, IDAHO CODE, TO PROVIDE A CORRECT
+10 CODE REFERENCE; AMENDING SECTION 33-1632, IDAHO CODE, TO REMOVE A PRO-
+11 VISION REGARDING FUNDING; AMENDING SECTION 33-5207, IDAHO CODE, TO
+12 REVISE PROVISIONS REGARDING PUBLIC CHARTER SCHOOL FINANCIAL SUPPORT;
+13 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 33-1001, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 33-1001. DEFINITIONS. As used in this chapter:
+18 (1) "Administrative schools" means and applies to all elementary
+19 schools and kindergartens within a district that are situated ten (10) miles
+20 or less from both the other elementary schools and the principal administra-
+21 tive office of the district and all secondary schools within a district that
+22 are situated fifteen (15) miles or less from other secondary schools of the
+23 district.
+24 (2) "Administrative staff" means those who hold an administrator cer-
+25 tificate and are employed as a superintendent, an elementary or secondary
+26 school principal, or are assigned administrative duties over and above those
+27 commonly assigned to teachers.
+28 (3) "At-risk student" means a student in grades 6 through 12 who:
+29 (a) Meets at least three (3) of the following criteria:
+30 (i) Has repeated at least one (1) grade;
+31 (ii) Has absenteeism greater than ten percent (10%) during the
+32 preceding semester;
+33 (iii) Has an overall grade point average less than 1.5 on a 4.0
+34 scale prior to enrolling in an alternative secondary program;
+35 (iv) Has failed one (1) or more academic subjects in the past year;
+36 (v) Is below proficient, based on local criteria, standardized
+37 tests, or both;
+38 (vi) Is two (2) or more credits per year behind the rate required
+39 to graduate or for grade promotion; or
+40 (vii) Has attended three (3) or more schools within the previous
+41 two (2) years, not including dual enrollment; or
+42 (b) Meets any of the following criteria:
+
+2
+1 (i) Has documented substance abuse or a pattern of substance
+2 abuse;
+3 (ii) Is pregnant or a parent;
+4 (iii) Is an emancipated youth or unaccompanied youth;
+5 (iv) Is a previous dropout;
+6 (v) Has a serious personal, emotional, or medical issue or is-
+7 sues;
+8 (vi) Has a court or agency referral; or
+9 (vii) Demonstrates behavior detrimental to the student's academic
+10 progress.
+11 (4) "Average daily attendance" or "pupils in average daily attendance"
+12 means the aggregate number of days enrolled students are present, divided by
+13 the number of days of school in the reporting period; provided, however, that
+14 students for whom no Idaho school district is a home district shall not be
+15 considered in such computation.
+16 (5) "Career ladder" means the compensation table used for determining
+17 the allocations districts receive for instructional staff and pupil service
+18 staff based on specific performance criteria and is made up of a residency
+19 compensation rung and a professional compensation rung.
+20 (6) "Child with a disability" means a child evaluated as having an
+21 intellectual disability, a hearing loss including deafness, a speech or
+22 language impairment, a visual impairment including blindness, an emo-
+23 tional behavioral disorder, an orthopedic impairment, autism, a traumatic
+24 brain injury, another health impairment, a specific learning disability,
+25 deaf-blindness, or multiple disabilities and who, by reason thereof, needs
+26 special education and related services.
+27 (7) "Compensation rung" means the rung on the career ladder that corre-
+28 sponds with the compensation level performance criteria.
+29 (8) "Economically disadvantaged student" means a student who:
+30 (a) Is eligible for a free or reduced-price lunch under the Richard B.
+31 Russell national school lunch act, 42 U.S.C. 1751 et seq., excluding
+32 students who are eligible only through a school's community eligibility
+33 program;
+34 (b) Resides with a family receiving assistance under the program of
+35 block grants to states for temporary assistance for needy families
+36 (TANF) established under part A of title IV of the social security act,
+37 42 U.S.C. 601 et seq.;
+38 (c) Is eligible to receive medical assistance under the medicaid pro-
+39 gram under title XIX of the social security act, 42 U.S.C. 1396 et seq.;
+40 or
+41 (d) Is considered homeless for purposes of the federal McKinney-Vento
+42 homeless assistance act, 42 U.S.C. 11301 et seq.
+43 (9) "Elementary grades" or "elementary average daily attendance" means
+44 and applies to students enrolled in grades 1 through 6, inclusive, or any
+45 combination thereof.
+46 (10) "Elementary schools" are schools that serve grades 1 through 6, in-
+47 clusive, or any combination thereof.
+48 (11) "Elementary/secondary schools" are schools that serve grades 1
+49 through 12, inclusive, or any combination thereof.
+
+3
+1 (12) "English language learner" or "ELL" means a student who does not
+2 score proficient on the English language development assessment established
+3 by rule of the state board of education.
+4 (13) "Gifted and talented" shall have the same meaning as provided in
+5 section 33-2001(4), Idaho Code.
+6 (14) "Homebound student" means any student who would normally and regu-
+7 larly attend school but is confined to home or hospital because of an illness
+8 or accident for a period of ten (10) or more consecutive days.
+9 (15) "Instructional staff" means those who hold an Idaho certificate
+10 issued under section 33-1201, Idaho Code, and who are either involved in the
+11 direct instruction of a student or group of students or who serve in a mentor
+12 or teacher leader position for individuals who hold an Idaho certificate
+13 issued under section 33-1201, Idaho Code.
+14 (16) "Kindergarten" or "kindergarten average daily attendance" means
+15 and applies to all students enrolled in a school year, less than a school
+16 year, or summer kindergarten program.
+17 (17) "Local salary schedule" means a compensation table adopted by a
+18 school district or public charter school, which table is used for determin-
+19 ing moneys to be distributed for instructional staff and pupil service staff
+20 salaries. Minimum compensation provided under a local salary schedule shall
+21 be at least equal to the minimum amounts established pursuant to section
+22 33-1004E, Idaho Code.
+23 (18) "Measurable student achievement" means the measurement of student
+24 academic achievement or growth within a given interval of instruction for
+25 those students who have been enrolled in and attended eighty percent (80%)
+26 of the interval of instruction. Measures and targets shall be chosen at the
+27 school level in collaboration with the staff member impacted by the measures
+28 and applicable district staff and approved by the school board. Measures and
+29 targets must also align with the performance measures and benchmarks in the
+30 continuous improvement plan described in section 33-320, Idaho Code. The
+31 most effective measures and targets are those generated as close to the ac-
+32 tual work as possible. Targets may be based on grade- or department-level
+33 achievement or growth goals that create collaboration within groups. In-
+34 dividual measurable student achievement targets and the percentage of stu-
+35 dents meeting individual targets must be reported annually to the state. As-
+36 sessment tools that may be used for measuring student achievement and growth
+37 include:
+38 (a) Idaho standards achievement test (ISAT), including interim ISAT
+39 assessments;
+40 (b) Student learning objectives;
+41 (c) Teacher-constructed assessments of student growth;
+42 (d) Pre- and post-tests, including district-adopted tests;
+43 (e) Performance-based assessments;
+44 (f) Idaho reading indicator, which will be one (1) of the required as-
+45 sessment tools for applicable staff;
+46 (g) College entrance exams or preliminary college entrance exams such
+47 as PSAT, SAT, PACT, and ACT;
+48 (h) Advanced placement exams;
+49 (i) Career technical exams;
+
+4
+1 (j) Number of business or industry certificates or credentials earned
+2 by students in an approved career technical education program;
+3 (k) Number of students completing career technical education capstone
+4 courses; and
+5 (l) Number of students enrolled in career technical education courses
+6 that are part of a program that culminates with business or industry
+7 certificates or credentials.
+8 (19) "Performance criteria" means the standards specified for instruc-
+9 tional staff and pupil service staff to demonstrate teaching proficiency for
+10 a given compensation rung. Each element of the professional compensation
+11 rung and advanced professional compensation rung performance criteria, as
+12 identified in this section and as applicable to a staff member's position,
+13 shall be documented, reported, and subject to review for determining move-
+14 ment on the career ladder.
+15 (20)(a) "Professional compensation rung performance criteria" means:
+16 (i) An overall rating of proficient or higher, and no components
+17 rated as unsatisfactory, on the state framework for teaching eval-
+18 uation or equivalent for pupil service staff or principal or other
+19 school level administrator evaluation aligned to the state frame-
+20 work for teaching evaluation; and
+21 (ii) Demonstrating the majority of students have met measurable
+22 student achievement targets or student success indicator targets.
+23 (b) "Advanced professional compensation rung performance criteria"
+24 means:
+25 (i) An overall rating of proficient or higher, no components
+26 rated as unsatisfactory or basic, and rated as distinguished
+27 overall in domain two -- classroom environment or domain three
+28 -- instruction and use of assessment on the state framework for
+29 teaching evaluation or equivalent for pupil service staff or prin-
+30 cipal or other school level administrator evaluation aligned to
+31 the state framework for teaching evaluation; and
+32 (ii) Demonstrating seventy-five percent (75%) or more of their
+33 students have met their measurable student achievement targets or
+34 student success indicator targets.
+35 (21) "Public school district" or "school district" or "district" means
+36 any public school district organized under the laws of this state, including
+37 specially chartered school districts.
+38 (22) "Pupil service staff" means those who provide services to stu-
+39 dents, but are not involved in direct instruction of those students, and hold
+40 a pupil personnel services certificate.
+41 (23) "School board" means a school district board of trustees or the
+42 board of directors of a public charter school.
+43 (24) "Secondary grades" or "secondary average daily attendance" means
+44 and applies to students enrolled in grades 7 through 12, inclusive, or any
+45 combination thereof.
+46 (25) "Secondary schools" are schools that serve grades 7 through 12, in-
+47 clusive, or any combination thereof.
+48 (26) "Separate elementary school" means an elementary school located
+49 more than ten (10) miles on an all-weather road from both the nearest elemen-
+50 tary school and elementary/secondary school serving like grades within the
+
+5
+1 same school district and from the location of the office of the superinten-
+2 dent of schools of such district, or from the office of the chief administra-
+3 tive officer of such district if the district employs no superintendent of
+4 schools.
+5 (27) "Separate kindergarten" means a kindergarten located more than ten
+6 (10) miles on an all-weather road from both the nearest kindergarten school
+7 within the same school district and from the location of the office of the su-
+8 perintendent of schools of such district, or from the office of the chief ad-
+9 ministrative officer of such district if the district employs no superinten-
+10 dent of schools.
+11 (28) "Separate secondary school" means any secondary school located
+12 more than fifteen (15) miles on an all-weather road from any other secondary
+13 school and elementary/secondary school serving like grades operated by the
+14 district.
+15 (29) "Special education" means specially designed instruction or
+16 speech/language therapy at no cost to the parent to meet the unique needs
+17 of a student who is a child with a disability, including instruction in the
+18 classroom, the home, hospitals, institutions, and other settings; instruc-
+19 tion in physical education; speech therapy and language therapy; transition
+20 services; travel training; assistive technology services; and vocational
+21 education.
+22 (30) "Student learning plan" means a plan that outlines a student's pro-
+23 gram of study, which should include a rigorous academic core and a related
+24 sequence of electives in academics, career technical education, or humani-
+25 ties aligned with the student's post-graduation goals.
+26 (31) "Student success indicators" means measurable indicators of
+27 student achievement or growth, other than academic, within a predefined in-
+28 terval of time for a specified group of students. Measures and targets shall
+29 be chosen at the district or school level in collaboration with the pupil
+30 service staff member impacted by the measures and applicable district staff.
+31 Individual measurable student achievement targets and the percentage of
+32 students meeting each target must be reported annually to the state. Student
+33 success indicators include:
+34 (a) Quantifiable goals stated in a student's 504 plan or individualized
+35 education plan.
+36 (b) Quantifiable goals stated in a student's behavior improvement
+37 plan.
+38 (c) School- or district-identified measurable student objectives for a
+39 specified student group or population.
+40 (d) The percentage of students who create student learning plans in
+41 grade 8 or who annually update their student learning plans thereafter.
+42 (e) The percentage of students who satisfactorily complete one (1) or
+43 more advanced opportunities options as identified in section 33-4602,
+44 Idaho Code, or who earn business or industry certificates or creden-
+45 tials. This indicator shall be one (1) of the required indicators for
+46 applicable staff.
+47 (32) "Support program" means the educational support program as de-
+48 scribed in section 33-1002, Idaho Code, the transportation support program
+49 described in section 33-1006, Idaho Code, and the exceptional education
+50 support program as described in section 33-1007, Idaho Code.
+
+6
+1 (33) "Support unit" means a function of average daily attendance used
+2 in the calculations to determine financial support provided to the public
+3 school districts.
+4 (34) "Teacher" means any person employed in a teaching, instructional,
+5 supervisory, educational administrative or educational and scientific ca-
+6 pacity in any school district. In case of doubt, the state board of educa-
+7 tion shall determine whether any person employed requires certification as a
+8 teacher.
+9 (35)(a) "Weighted per-student funding formula" means allocating fund-
+10 ing to school districts and public charter schools using an amount
+11 based on average daily attendance as provided in section 33-1003A,
+12 Idaho Code, and an additional amount per student for weighted student
+13 characteristics. For each school district or public charter school,
+14 the weighted amounts for student characteristics shall be based on the
+15 average of the three (3) highest student full-time equivalent enroll-
+16 ment counts for verified students reported pursuant to section 33-1027,
+17 Idaho Code. The weighted amounts shall be as follows:
+18 (i) For economically disadvantaged students, the base amount per
+19 student multiplied by one quarter (.25);
+20 (ii) For English language learners, the base amount per student
+21 multiplied by one quarter (.25);
+22 (iii) For special education students, the base amount per student
+23 multiplied by one and one-half (1.5);
+24 (iv) For students attending a school district or public charter
+25 school with less than six hundred (600) average daily attendance,
+26 the base amount per student multiplied by three quarters (.75);
+27 (v) For gifted and talented students, the base amount per student
+28 multiplied by one quarter (.25); and
+29 (vi) For at-risk students attending an alternative school, the
+30 base amount per student multiplied by one (1).
+31 (b) Funding for each characteristic may be combined if a student has
+32 more than one (1) of the weighted student characteristics. Any school
+33 district or public charter school that has at least one (1) student but
+34 fewer than five (5) students who meet the criteria for any characteris-
+35 tic provided for in paragraph (a)(i), (ii), (iii), (iv), (v), or (vi)
+36 of this subsection shall receive funding as if it has five (5) such stu-
+37 dents.
+38 (36) "Weighted student characteristic" means a characteristic of a
+39 student that is associated with measurable student achievement and educa-
+40 tional need, including a student's status as economically disadvantaged, an
+41 English language learner, requiring special education, attending a school
+42 district or public charter school with less than six hundred (600) average
+43 daily attendance, gifted and talented, or at-risk and attending an alterna-
+44 tive school.
+45 SECTION 2. That Section 33-1002, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 33-1002. EDUCATIONAL SUPPORT PROGRAM. The educational support pro-
+48 gram is calculated as follows:
+
+7
+1 (1) State Educational Support Funds. Add the state appropriation, in-
+2 cluding the moneys available in the public school income fund, together with
+3 all miscellaneous revenues to determine the total state funds.
+4 (2) From the total state funds subtract the following amounts needed
+5 for state support of special programs provided by a school district:
+6 (a) Pupil tuition-equivalency allowances as provided in section
+7 33-1002B, Idaho Code;
+8 (b) Transportation support program as provided in section 33-1006,
+9 Idaho Code;
+10 (c) Feasibility studies allowance as provided in section 33-1007A,
+11 Idaho Code;
+12 (d) The approved costs for border district allowance, provided in sec-
+13 tion 33-1403, Idaho Code, as determined by the state superintendent of
+14 public instruction;
+15 (e) The approved costs for exceptional child approved contract al-
+16 lowance, provided in subsection 2. of section 33-2004, Idaho Code, as
+17 determined by the state superintendent of public instruction;
+18 (f) Salary-based apportionment calculated as provided in sections
+19 33-1004 through 33-1004F, Idaho Code;
+20 (g) Unemployment insurance benefit payments according to the provi-
+21 sions of section 72-1349A, Idaho Code;
+22 (h) For expenditure as provided by the public school technology pro-
+23 gram;
+24 (i) For employee severance payments as provided in section 33-521,
+25 Idaho Code;
+26 (j) For distributions to the Idaho digital learning academy as provided
+27 in section 33-1020, Idaho Code;
+28 (k) For charter school facilities funds and reimbursements paid pur-
+29 suant to section 33-5207, Idaho Code;
+30 (l) For an online course portal as provided for in section 33-1024,
+31 Idaho Code;
+32 (m) For advanced opportunities as provided for in chapter 46, title 33,
+33 Idaho Code;
+34 (n) For additional math and science courses for high school students as
+35 provided in section 33-1021, Idaho Code;
+36 (o) For master teacher premiums as provided in section 33-1004I, Idaho
+37 Code;
+38 (p) (o) For the support of provisions that provide a safe environment
+39 conducive to student learning and maintain classroom discipline, an al-
+40 location of three hundred dollars ($300) per support unit;
+41 (q) (p) An amount specified in the appropriation bill for the public
+42 schools educational support program for counseling support as provided
+43 for in section 33-1212A, Idaho Code, shall be distributed for grades 8
+44 through 12 as follows:
+45 (i) For school districts and public charter schools with one hun-
+46 dred (100) or more students enrolled in grades 8 through 12, a pro
+47 rata distribution based on students enrolled in grades 8 through
+48 12 or eighteen thousand dollars ($18,000), whichever is greater;
+49 (ii) For school districts and public charter schools with fewer
+50 than one hundred (100) students enrolled in grades 8 through 12,
+
+8
+1 one hundred eighty dollars ($180) per student enrolled in grades
+2 8 through 12 or nine thousand dollars ($9,000), whichever is
+3 greater;
+4 (r) (q) An amount specified in the public schools educational support
+5 program appropriation bill for literacy intervention. The disburse-
+6 ments made to the school districts and public charter schools shall be
+7 calculated as follows:
+8 (i) Fifty percent (50%) based on average full-time equivalent
+9 enrollment of students in kindergarten through grade 3 as of the
+10 first Friday in November;
+11 (ii) Fifty percent (50%) based on the number of kindergarten
+12 through grade 3 students who move a full level or who are profi-
+13 cient from the spring-to-spring administration of the statewide
+14 reading assessment in the prior fiscal year or, if there is not a
+15 prior spring assessment for the student, from fall to spring; and
+16 (iii) Funds will be distributed to the school district or pub-
+17 lic charter school where the student is enrolled and takes the
+18 statewide reading assessment. Any school district or public char-
+19 ter school that has greater than one (1) but fewer than five (5)
+20 students in kindergarten through grade 3 will receive a minimum of
+21 two thousand dollars ($2,000). Economically disadvantaged stu-
+22 dents shall count as one and three quarters (1.75) students for the
+23 purpose of calculating the distribution of the funds in subpara-
+24 graph (ii) of this paragraph.
+25 (s) For mastery-based education as provided for in section 33-1632,
+26 Idaho Code;
+27 (t) (r) For pay for success contracting as provided in section 33-125B,
+28 Idaho Code; and
+29 (u) (s) Any additional amounts as required by statute to effect admin-
+30 istrative adjustments or as specifically required by the provisions of
+31 any bill of appropriation;
+32 to secure the total educational support distribution funds.
+33 (3) Average Daily Attendance. The total state average daily attendance
+34 shall be the sum of the average daily attendance of all of the school dis-
+35 tricts of the state. The state board of education shall establish rules set-
+36 ting forth the procedure to determine average daily attendance and the time
+37 for, and method of, submission of such report. Average daily attendance cal-
+38 culation shall be carried out to the nearest hundredth. Computation of av-
+39 erage daily attendance shall also be governed by the provisions of section
+40 33-1003A, Idaho Code.
+41 (4) Support Units. The total state support units shall be determined
+42 by using the tables set out hereafter called computation of kindergarten
+43 support units, computation of elementary support units, computation of sec-
+44 ondary support units, computation of exceptional education support units,
+45 and computation of alternative school support units. The sum of all of the
+46 total support units of all school districts of the state shall be the total
+47 state support units.
+48 COMPUTATION OF KINDERGARTEN SUPPORT UNITS
+
+9
+1 Average Daily
+2 Attendance Attendance Divisor Units Allowed
+3 41 or more.... 40...................... 1 or more as computed
+4 31 - 40.99 ADA.... -....................... 1
+5 26 - 30.99 ADA.... -....................... .85
+6 21 - 25.99 ADA.... -....................... .75
+7 16 - 20.99 ADA.... -....................... .6
+8 8 - 15.99 ADA.... -....................... .5
+9 1 - 7.99 ADA.... -....................... count as elementary
+10 COMPUTATION OF ELEMENTARY SUPPORT UNITS
+11 Average Daily Minimum Units
+12 Attendance Attendance Divisor Allowed
+13 300 or more ADA....... ............................... .. 15
+14 ..23...grades 4,5 & 6....
+15 ..22...grades 1,2 & 3....1994-95
+16 ..21...grades 1,2 & 3....1995-96
+17 ..20...grades 1,2 & 3....1996-97
+18 and each year thereafter.
+19 160 to 299.99 ADA... 20................................ 8.4
+20 110 to 159.99 ADA... 19................................ 6.8
+21 71.1 to 109.99 ADA... 16................................ 4.7
+22 51.7 to 71.0 ADA... 15................................ 4.0
+23 33.6 to 51.6 ADA... 13................................ 2.8
+24 16.6 to 33.5 ADA... 12................................ 1.4
+25 1.0 to 16.5 ADA... n/a............................... 1.0
+26 COMPUTATION OF SECONDARY SUPPORT UNITS
+27 Average Daily Minimum Units
+28 Attendance Attendance Divisor Allowed
+29 750 or more.... 18.5..............................47
+30 400 - 749.99 ADA.... 16................................28
+31 300 - 399.99 ADA.... 14.5..............................22
+32 200 - 299.99 ADA.... 13.5..............................17
+33 100 - 199.99 ADA.... 12................................9
+34 99.99 or fewer Units allowed as follows:
+35 Grades 7 - 12 ..................................8
+36 Grades 9 - 12 ..................................6
+37 Grades 7 - 9 ..................................1 per 14 ADA
+38 Grades 7 - 8 ..................................1 per 16 ADA
+
+10
+1 COMPUTATION OF EXCEPTIONAL EDUCATION SUPPORT UNITS
+2 Average Daily Minimum Units
+3 Attendance Attendance Divisor Allowed
+4 14 or more.... 14.5..............................1 or more as
+5 computed
+6 12 - 13.99.... -.................................1
+7 8 - 11.99.... -..................................75
+8 4 - 7.99.... -..................................5
+9 1 - 3.99.... -..................................25
+10 COMPUTATION OF ALTERNATIVE SCHOOL SUPPORT UNITS
+11 (Computation of alternative school support units shall include
+12 grades 6 through 12)
+13 Pupils in Attendance Attendance Divisor Minimum Units
+14 Allowed
+15 12 or more.......... 12................................ 1 or more as
+16 computed
+17 In applying these tables to any given separate attendance unit, no
+18 school district shall receive less total money than it would receive if it
+19 had a lesser average daily attendance in such separate attendance unit. In
+20 applying the kindergarten table to a kindergarten program of fewer days
+21 than a full school year, the support unit allowance shall be in ratio to the
+22 number of days of a full school year. The attendance of students attending
+23 an alternative school in a school district reporting fewer than one hundred
+24 (100) secondary students in average daily attendance shall not be assigned
+25 to the alternative table if the student is from a school district reporting
+26 fewer than one hundred (100) secondary students in average daily attendance,
+27 but shall instead be assigned to the secondary table of the school district
+28 in which they are attending the alternative school, unless the alternative
+29 school in question serves students from multiple districts reporting fewer
+30 than one hundred (100) secondary students in average daily attendance. The
+31 tables for exceptional education and alternative school support units shall
+32 be applicable only for programs approved by the state department of educa-
+33 tion following rules established by the state board of education. Moneys
+34 generated from computation of support units for alternative schools shall be
+35 utilized for alternative school programs. School district administrative
+36 and facility costs may be included as part of the alternative school expen-
+37 ditures.
+38 (5) State Distribution Factor per Support Unit. Divide educational
+39 support program distribution funds, after subtracting the amounts necessary
+40 to pay the obligations specified in subsection (2) of this section, by the
+41 total state support units to secure the state distribution factor per sup-
+42 port unit.
+43 (6) (5) District Support Units. The number of support units for each
+44 school district in the state shall be determined as follows:
+
+11
+1 (a)(i) Divide the actual average daily attendance, excluding stu-
+2 dents approved for inclusion in the exceptional child educational
+3 program for the administrative schools and each of the separate
+4 schools and attendance units, by the appropriate divisor from the
+5 tables of support units in this section, then add the quotients
+6 to obtain the district's support units allowance for regular stu-
+7 dents, kindergarten through grade 12 including alternative school
+8 students. Calculations in application of this subsection shall be
+9 carried out to the nearest hundredth.
+10 (ii) Divide the combined totals of the average daily attendance
+11 of all preschool, kindergarten, elementary, secondary, juvenile
+12 detention center students and students with disabilities approved
+13 for inclusion in the exceptional child program of the district by
+14 the appropriate divisor from the table for computation of excep-
+15 tional education support units to obtain the number of support
+16 units allowed for the district's approved exceptional child pro-
+17 gram. Calculations for this subsection shall be carried out to the
+18 nearest hundredth when more than one (1) unit is allowed.
+19 (iii) The total number of support units of the district shall be
+20 the sum of the total support units for regular students, subpara-
+21 graph (i) of this paragraph, and the support units allowance for
+22 the approved exceptional child program, subparagraph (ii) of this
+23 paragraph.
+24 (b) Total District Allowance Educational Program. Multiply the dis-
+25 trict's total number of support units average daily attendance as
+26 provided in section 33-1003A, Idaho Code, carried out to the near-
+27 est hundredth, by the state distribution factor per support unit base
+28 amount, with weighted amounts added per student as determined by the
+29 weighted per-student funding formula, and to this product add the ap-
+30 proved amount of programs of the district provided in subsection (2) of
+31 this section to secure the district's total allowance for the educa-
+32 tional support program.
+33 (c) District Share. The district's share of state apportionment is the
+34 amount of the total district allowance, paragraph (b) of this subsec-
+35 tion.
+36 (d) Adjustment of District Share. The contract salary of every noncer-
+37 tificated teacher shall be subtracted from the district's share as cal-
+38 culated from the provisions of paragraph (c) of this subsection.
+39 (7) (6) Property Tax Computation Ratio. In order to receive state funds
+40 pursuant to this section, a charter district shall utilize a school mainte-
+41 nance and operation property tax computation ratio for the purpose of calcu-
+42 lating its maintenance and operation levy that is no greater than that which
+43 it utilized in tax year 1994, less four-tenths of one percent (.4%). As used
+44 herein, the term "property tax computation ratio" shall mean a ratio deter-
+45 mined by dividing the district's certified property tax maintenance and op-
+46 eration budget by the actual or adjusted market value for assessment pur-
+47 poses as such values existed on December 31, 1993. Such maintenance and op-
+48 eration levy shall be based on the property tax computation ratio multiplied
+49 by the actual or adjusted market value for assessment purposes as such values
+50 existed on December 31 of the prior calendar year.
+
+12
+1 SECTION 3. That Section 33-1004, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 33-1004. STAFF ALLOWANCE. For each school district, a staff allowance
+4 shall be determined as follows:
+5 (1) Using the daily attendance reports that have been submitted for
+6 computing the February 15 apportionment of state funds as provided in sec-
+7 tion 33-1009, Idaho Code, calculate the total support units for the district
+8 in the manner provided in section 33-1002(6)(a)(5)(a), Idaho Code. If the
+9 support units used to calculate discretionary funding pursuant to sections
+10 33-1009 and 33-1018, Idaho Code, are at least three percent (3%) greater,
+11 seventy-five percent (75%) of the difference shall be added to the support
+12 units used for the February 15 apportionment of state funds;
+13 (2) Determine the instructional staff allowance by multiplying the
+14 support units by 1.021. A district must demonstrate that it actually employs
+15 the number of certificated instructional staff allowed, except as provided
+16 in subsection (6)(f) and (g) of this section. If the district does not employ
+17 the number allowed, the staff allowance shall be reduced to the actual number
+18 employed, except as provided in subsection (6)(f) and (g) of this section;
+19 (3) Determine the pupil service staff allowance by multiplying the sup-
+20 port units by 0.079;
+21 (4) Determine the administrative staff allowance by multiplying the
+22 support units by .075;
+23 (5) Determine the classified staff allowance by multiplying the sup-
+24 port units by .375;
+25 (6) Additional conditions governing staff allowance:
+26 (a) In determining the number of staff in subsections (2), (3), (4) and
+27 (5) of this section, a district may contract separately for services to
+28 be rendered by nondistrict employees and such employees may be counted
+29 in the staff allowance. A "nondistrict employee" means a person for
+30 whom the school district does not pay the employer's obligations for
+31 employee benefits. When a district contracts for the services of a
+32 nondistrict employee, only the salary portion of the contract shall be
+33 allowable for computations.
+34 (b) If there are circumstances preventing eligible use of staff al-
+35 lowance to which a district is entitled as provided in subsections (2),
+36 (3) and (4) of this section, an appeal may be filed with the state de-
+37 partment of education outlining the reasons and proposed alternative
+38 use of these funds, and a waiver may be granted.
+39 (c) For any district with less than forty (40) support units:
+40 (i) The instructional staff allowance shall be calculated
+41 applying the actual number of support units. If the actual in-
+42 structional staff employed in the school year is greater than the
+43 instructional staff allowance, then the instructional staff al-
+44 lowance shall be increased by one-half (1/2) staff allowance; and
+45 (ii) The administrative staff allowance shall be calculated ap-
+46 plying the actual number of support units. If the actual adminis-
+47 trative staff employed in the school year is greater than the ad-
+48 ministrative staff allowance, then the administrative staff al-
+49 lowance shall be increased by one-half (1/2) staff allowance.
+
+13
+1 (iii) Additionally, for any district with less than twenty (20)
+2 support units, the instructional staff allowance shall be calcu-
+3 lated applying the actual number of support units. If the number
+4 of instructional staff employed in the school year is greater than
+5 the instructional staff allowance, the staff allowance shall be
+6 increased as provided in subparagraphs (i) and (ii) of this para-
+7 graph, and by an additional one-half (1/2) instructional staff al-
+8 lowance.
+9 (d) For any school district with one (1) or more separate secondary
+10 schools serving grades 9 through 12, the instructional staff allowance
+11 shall be increased by two (2) additional instructional staff allowances
+12 for each such separate secondary school.
+13 (e) Only instructional, pupil service and administrative staff and
+14 classified personnel compensated by the school district from the gen-
+15 eral maintenance and operation fund of the district shall be included in
+16 the calculation of staff allowance or in any other calculations based
+17 upon staff, including determination of the experience and education
+18 multiplier, the reporting requirements, or the district's salary-based
+19 apportionment calculation. No food service staff or transportation
+20 staff shall be included in the staff allowance.
+21 (f) A district may utilize up to fifteen percent (15%) of the moneys
+22 associated with positions funded pursuant to subsection (2) of this
+23 section to pay another school district or public charter school for
+24 instructional services or to defray the cost of providing virtual edu-
+25 cation coursework, including virtual dual credit coursework, without a
+26 reduction in the number of funded positions being imposed.
+27 (g) A district may employ nine and one-half percent (9.5%) fewer posi-
+28 tions than funded pursuant to subsections (2) and (3) of this section,
+29 without a reduction in the number of funded positions being imposed.
+30 Beginning in fiscal year 2016, this figure shall be reduced by one per-
+31 cent (1%) each year for each school district in which the average class
+32 size, as determined from prior fiscal year data reported to the state
+33 department of education, was at least one (1) student greater than the
+34 statewide average class size. The state department of education shall
+35 report to the legislature every February, beginning in 2015, on the re-
+36 ductions scheduled to take place in this figure, by school district, in
+37 the ensuing fiscal year.
+38 (i) In the determination of statewide average class size, the
+39 state department of education shall not use a single figure de-
+40 veloped through the averaging of all districts of varying size,
+41 geographical location and pupil populations throughout the state.
+42 The statewide average class size shall be comprised of multiple
+43 figures determined through analysis of like and similarly sit-
+44 uated districts and use of the divisor breakdown established in
+45 section 33-1002, Idaho Code.
+46 (ii) The state board of education may promulgate rules outlining
+47 the method of calculation of the statewide average class size fig-
+48 ures.
+49 (iii) The one percent (1%) reduction required in paragraph (g) of
+50 this subsection shall not be applicable for any school year subse-
+
+14
+1 quent to a year when the school district's boundaries have changed
+2 because of division, consolidation, excision or annexation of
+3 territory.
+4 (7) In the event that the staff allowance in any category is insuffi-
+5 cient to meet accreditation standards, a district may appeal to the state
+6 board of education, demonstrating the insufficiency, and the state board may
+7 grant a waiver authorizing sufficient additional staff to be included within
+8 the staff allowance to meet accreditation standards. Such a waiver shall be
+9 limited to one (1) year, but may be renewed upon showing of continuing justi-
+10 fication.
+11 (8) A district may utilize a portion of the instructional staff al-
+12 lowance provided for in this section for kindergarten teachers to visit the
+13 parents or guardians of students during the first week of the kindergarten
+14 school year. Such visits may take place at school, at the student's home
+15 or at another location agreed to by the teacher and parents or guardians.
+16 The purpose of such visits is to help strengthen the working relationship
+17 between the teacher, the parents or guardians, and the student. The visits
+18 should be used as an opportunity to help establish the teacher's expecta-
+19 tions of the student. The visit should also provide an opportunity for the
+20 parents or guardians to explain their expectations. The amount of moneys to
+21 be expended for such visits by the district may not exceed the amount equal
+22 to one (1) week of instructional staff allowance computed for kindergarten
+23 instructors in the district.
+24 SECTION 4. That Section 33-1009, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-1009. PAYMENTS FROM THE PUBLIC SCHOOL INCOME FUND.
+27 1.a. Payments of the state general account appropriation for public
+28 school support shall be made each year by the state department of educa-
+29 tion to the public school districts of the state in four (4) payments.
+30 Payments to the districts shall be made not later than the fifteenth day
+31 of August, the fifteenth day of November, the fifteenth day of February,
+32 and the fifteenth day of May each year. The first payment by the state
+33 department of education shall be approximately fifty percent (50%) of
+34 the total general account appropriation for the fiscal year, while the
+35 second and third payments shall be approximately twenty percent (20%)
+36 each, and the fourth payment approximately ten percent (10%) respec-
+37 tively, except as provided for in section 33-5207, Idaho Code. Amounts
+38 apportioned due to a special transfer to the public school income fund
+39 to restore or reduce a deficiency in the prior year's transfer pursuant
+40 to subsection 4. of this section shall not be subject to this limita-
+41 tion.
+42 b. Payments of moneys, other than the state general account appropria-
+43 tion, that accrue to the public school income fund shall be made by the
+44 state department of education to the school districts of the state on
+45 the fifteenth day of November, February, May and July each year. The
+46 total amount of such payments shall be determined by the state depart-
+47 ment of education and shall not exceed the amount of moneys available
+48 and on deposit in the public school income fund at the time such payment
+49 is made.
+
+15
+1 c. Amounts apportioned due to a special transfer to the public school
+2 income fund to restore or reduce a deficiency in the prior year's trans-
+3 fer pursuant to subsection 4. of this section shall not be subject to
+4 the limitation imposed by paragraphs a. and b. of this subsection.
+5 2. Payments made to the school districts in August and November are ad-
+6 vance payments for the current year and may be based upon payments from the
+7 public school income fund for the preceding school year. Each school dis-
+8 trict may receive its proportionate share of the advance payments in the same
+9 ratio that its total payment for the preceding year was to the total payments
+10 to all school districts for the preceding year.
+11 3. No later than the fifteenth day of February in each year, the
+12 state department of education shall compute the state distribution factor
+13 weighted per-student funding based on the total average daily attendance
+14 through the first Friday in November. The factor weighted per-student fund-
+15 ing will be used in payments of state funds in February and May. Attendance
+16 shall be reported in a format and at a time specified by the state department
+17 of education.
+18 As of the thirtieth day of June of each year the state department of edu-
+19 cation shall determine final payments to be made on July fifteenth next suc-
+20 ceeding to the several school districts from the public school income fund
+21 for the school year ended June 30. The July payments shall take into consid-
+22 eration:
+23 a. The average daily attendance of the several school districts for the
+24 twenty-eight (28) best weeks of the school year completed not later than
+25 the thirtieth of June;
+26 b. All funds available in the public school income fund for the fiscal
+27 year ending on the thirtieth of June;
+28 c. All payments distributed for the current fiscal year to the several
+29 school districts;
+30 d. The adjustment based on the actual amount of discretionary funds
+31 per support unit student required by the provisions of section 33-1018,
+32 Idaho Code;
+33 e. Payments made or due for the transportation support program and the
+34 exceptional education support program. The state department of educa-
+35 tion shall apportion and direct the payment to the several school dis-
+36 tricts the moneys in the public school income fund in each year, taking
+37 into account the advance made under subsection 2. of this section, in
+38 such amounts as will provide in full for each district its support pro-
+39 gram, and not more than therefor required, and no school district shall
+40 receive less than fifty dollars ($50.00).
+41 4. If the full amount appropriated to the public school income fund
+42 from the general account by the legislature is not transferred to the public
+43 school income fund by the end of the fiscal year, the deficiency resulting
+44 therefrom shall either be restored or reduced through a special trans-
+45 fer from the general account in the first sixty (60) days of the following
+46 fiscal year, or shall be calculated in computing district levies, and any
+47 additional levy shall be certified by the state superintendent of public
+48 instruction to the board of county commissioners and added to the district's
+49 maintenance and operation levy. If the deficiency is restored or reduced
+50 by special transfer, the amount so transferred shall be in addition to the
+
+16
+1 amount appropriated to be transferred in such following fiscal year and
+2 shall be apportioned to each school district in the same amount as each would
+3 have received had the transfer been made in the year the deficiency occurred.
+4 The state department of education shall distribute to the school district
+5 the full amount of the special transfer as soon as practical after such
+6 transfer is made. In making the levy computations required by this subsec-
+7 tion the state department of education shall take into account and consider
+8 the full amount of money receipted into the public school income fund from
+9 all sources for the given fiscal year. Deficits in the transfer of the ap-
+10 propriated amount of general account revenue to the public school income
+11 fund shall be reduced by the amount, if any, that the total amount receipted
+12 from other sources into the public school income fund exceeds the official
+13 estimated amount from those sources. The official estimate of receipts from
+14 other sources shall be the total amount stated by the legislature in the ap-
+15 propriation bill. The provisions of this subsection shall not apply to any
+16 transfers to or from the public education stabilization fund.
+17 5. Any apportionments in any year, made to any school district, which
+18 may within the succeeding three (3) year period be found to have been in error
+19 either of computation or transmittal, may be corrected during the three (3)
+20 year period by reduction of apportionments to any school district to which
+21 over-apportionments may have been made or received, and corresponding ad-
+22 ditions to apportionments to any school district to which under-apportion-
+23 ments may have been made or received.
+24 SECTION 5. That Section 33-1018, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-1018. PUBLIC SCHOOL DISCRETIONARY FUNDING VARIABILITY. (1) The
+27 state department of education shall calculate the weighted per-student
+28 funding formula as defined in section 33-1001, Idaho Code, to allocate ed-
+29 ucational support program funding to school districts and public charter
+30 schools. The state department of education shall utilize the information
+31 reported on weighted student characteristics as defined in section 33-1001,
+32 Idaho Code, from local education agencies pursuant to sections 33-1027 and
+33 33-1028, Idaho Code.
+34 (2) In fiscal years 2026 and 2027, if the allocation of general discre-
+35 tionary funds and state educational support distributions shifted to gen-
+36 eral discretionary funds in the current year for a school district or public
+37 charter school is less than one hundred percent (100%) of what the alloca-
+38 tion would have been if the allocation was based on support units, then an ad-
+39 ditional allocation shall be made to that school district or public charter
+40 school.
+41 (3) The legislature shall annually state in the appropriation for the
+42 educational support program/division of operations the estimate of the to-
+43 tal discretionary the base funding provided per support unit student as de-
+44 termined by the weighted per-student funding formula. The state department
+45 of education shall, before the end of each fiscal year, calculate the actual
+46 discretionary funding available per support unit student as determined by
+47 the weighted per-student funding formula.
+48 (1) (4) If the total estimated discretionary funding per support unit
+49 student as determined by the weighted per-student funding formula stated in
+
+17
+1 the appropriation for the educational support program/division of opera-
+2 tions is lower than the actual discretionary funding available per support
+3 unit student as determined by the weighted per-student funding formula, then
+4 the state controller shall multiply the difference by the number of actual
+5 support units, and transfer the result from the public school income fund
+6 to the public education stabilization fund and the final distributions to
+7 school districts from the department of education shall be reduced by a like
+8 amount.
+9 (2) (5) If the total estimated discretionary funding per support unit
+10 student as determined by the weighted per-student funding formula stated in
+11 the appropriation for the educational support program/division of opera-
+12 tions is greater than the actual discretionary funding available per support
+13 unit student as determined by the weighted per-student funding formula, then
+14 the state controller shall multiply the difference by the number of actual
+15 support units, and transfer the result from the public education stabiliza-
+16 tion fund to the public school income fund. This transfer shall be limited to
+17 moneys available in the public education stabilization fund. Moneys trans-
+18 ferred from the public education stabilization fund to the public school
+19 income fund under the provisions of this section are hereby continuously
+20 appropriated for the educational support program/division of operations.
+21 SECTION 6. That Section 33-1614, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 33-1614. CAREER EXPLORATION. (1) Starting in fiscal year 2024, every
+24 student in grade 7 or grade 8 enrolled in an Idaho public school district,
+25 a specially chartered district, or a public charter school shall complete
+26 one (1) or more career exploration courses. A student may opt out by sub-
+27 mitting a form to the school showing the student's parent or legal guardian
+28 has consented to the student not participating in the career exploration
+29 courses pursuant to this section. Such courses should align to the "first
+30 step" standards set by the state board of education for career technical edu-
+31 cation. Such courses may be offered face-to-face, through virtual education
+32 programs, as online courses, or as hybrid courses consisting of a combina-
+33 tion of online and in-person instruction.
+34 (2) All staff teaching a career exploration course must have partici-
+35 pated in a career exploration professional development course approved by
+36 the state board of education.
+37 (3) The state board of education will maintain resources that can be
+38 utilized or modified for the implementation of this section.
+39 (4) A career pathway plan shall be developed by students with the ap-
+40 proval of parents or guardians, with advice and recommendation from school
+41 personnel, which shall include career exploration courses or workforce dis-
+42 covery activities. The purpose of a parent-approved student career pathway
+43 plan is to outline a course of study and learning activities to help students
+44 become successful in life. Every student's career pathway plan shall be re-
+45 viewed annually and can be revised at any time. The student's school shall
+46 provide a personalized career pathway plan progress report to the student's
+47 parent or guardian. The progress report may be sent via electronic communi-
+48 cation.
+
+18
+1 (5) Funding provided in section 33-1002(2)(r)(q), Idaho Code, in ac-
+2 cordance with section 33-1212A, Idaho Code, may be used to support career ex-
+3 ploration courses.
+4 (6) Professional development funding provided pursuant to section
+5 33-1002, Idaho Code, may be used to provide professional development to ca-
+6 reer exploration course instructors.
+7 SECTION 7. That Section 33-1632, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-1632. MASTERY-BASED EDUCATION. (1) The legislature finds that mov-
+10 ing toward mastery-based education where students progress as they demon-
+11 strate mastery of a subject or grade level is in the best interest of Idaho
+12 students. The legislature further finds that moving from the current time-
+13 based system to a mastery-based approach will allow for more personalized
+14 and differentiated learning; create a focus on explicit, measurable, trans-
+15 ferable learning objectives that empower students; and emphasize competen-
+16 cies that include application and knowledge along with skill development.
+17 (2) The state department of education shall perform the following ac-
+18 tivities to move Idaho toward mastery-based education:
+19 (a) Provide ongoing statewide outreach and communications to increase
+20 awareness and understanding of and promote interest in mastery-based
+21 education for teachers, administrators, parents, students, business
+22 leaders, and policymakers;
+23 (b) Facilitate and maintain the Idaho mastery education network
+24 composed of Idaho public school districts and charter schools that col-
+25 laborate to transition Idaho to mastery-based education. The network
+26 shall:
+27 (i) Advise the superintendent of public instruction and the state
+28 board of education on the progress of the transition to mastery-
+29 based education;
+30 (ii) Develop evidence-based recommendations for continued imple-
+31 mentation;
+32 (iii) Implement the policies of the legislature and the state
+33 board of education for the transition to mastery-based education;
+34 and
+35 (iv) Provide network resources, including professional develop-
+36 ment, coaching, and best practices, to Idaho public school dis-
+37 tricts and charter schools; and
+38 (c) Create a sustainability plan for statewide scaling of mas-
+39 tery-based education and ensure that all public school districts and
+40 charter schools participating in the Idaho mastery education network
+41 develop plans that describe how the public school district or charter
+42 school will maintain a mastery-based approach to education. Plans must
+43 include a process to develop the rubrics and assessments necessary to
+44 determine mastery and award credit.
+45 (3) The state department of education may expend or distribute moneys
+46 appropriated for purposes identified in subsection (2) of this section di-
+47 rectly to public school districts and charter schools that are participating
+48 in the mastery education network and have applied and been selected to re-
+49 ceive mastery-based education grants. The cost of activities provided for
+
+19
+1 in this section shall be paid by the state department of education from mon-
+2 eys appropriated for this program in the educational support program budget
+3 as provided for in section 33-1002, Idaho Code.
+4 (4) Any public school district or charter school may participate in the
+5 mastery education network by applying to the state department of education,
+6 even if such district or school is not selected to receive mastery-based edu-
+7 cation grants.
+8 (5) No later than January 31 of each year, the state department of edu-
+9 cation shall report annually to the state board of education and the educa-
+10 tion committees of the senate and the house of representatives regarding the
+11 progress toward implementing mastery-based education.
+12 (6) For purposes of this section:
+13 (a) "Mastery-based education " means an education system where student
+14 progress is based on a student's demonstration of mastery of competen-
+15 cies and content, not seat time or the age or grade level of the student.
+16 (b) "Network" means the Idaho mastery education network.
+17 SECTION 8. That Section 33-5207, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 33-5207. PUBLIC CHARTER SCHOOL FINANCIAL SUPPORT. (1) Except as oth-
+20 erwise provided for in this section, the state department of education shall
+21 make the following apportionment to each charter school for each fiscal year
+22 based on attendance figures submitted in a manner and time as required by the
+23 state department of education.
+24 (2) Per student support. Computation of support units for each public
+25 charter school shall be calculated as if it were a separate school accord-
+26 ing to the schedules in section 33-1002(4), Idaho Code, except that public
+27 charter schools with fewer than one hundred (100) secondary ADA shall use a
+28 divisor of twelve (12) and the minimum units shall not apply. No public char-
+29 ter school shall receive an increase in support units that exceeds the sup-
+30 port units it received in the prior year by more than forty (40), except in
+31 cases of state declared emergencies that have been approved by the autho-
+32 rizer as having an impact on public education. Funding from the state ed-
+33 ucational support program shall be equal to the total distribution factor
+34 weighted per-student funding, plus the salary-based apportionment provided
+35 in chapter 10, title 33, Idaho Code. Provided, however, any public char-
+36 ter school that is formed by the conversion of an existing traditional public
+37 school shall be assigned divisors, pursuant to section 33-1002, Idaho Code,
+38 that are no lower than the divisors of the school district in which the tradi-
+39 tional public school is located, for each category of pupils listed.
+40 (3) Special education. For each student enrolled in the public char-
+41 ter school who is entitled to special education services, the public charter
+42 school shall receive the state and federal funds from the exceptional child
+43 education program for that student that would have been apportioned to the
+44 school district in which the public charter school is located.
+45 (4) Alternative school support. Public charter schools may qualify
+46 under the provisions of sections 33-1002 and 33-1002C, Idaho Code, provided
+47 the public charter school meets the necessary statutory requirements and
+48 students qualify for attendance at an alternative school as provided by rule
+49 of the state board of education.
+
+20
+1 (5) Transportation support. Support shall be paid to the public char-
+2 ter school as provided in chapter 15, title 33, Idaho Code, and section
+3 33-1006, Idaho Code. Each public charter school shall furnish the depart-
+4 ment with an enrollment count as of the first Friday in November of public
+5 charter school students who are eligible for reimbursement of transporta-
+6 tion costs under the provisions of this subsection and who reside more than
+7 one and one-half (1 1/2) miles from the school. The state department of edu-
+8 cation is authorized to include in the annual appropriation to the charter
+9 school sixty percent (60%) of the estimated transportation cost. The final
+10 appropriation payment in July shall reflect reimbursements of actual costs
+11 pursuant to section 33-1006, Idaho Code. To be eligible for state reimburse-
+12 ment under the provisions of section 33-1006, Idaho Code, the student to be
+13 transported must reside within the public charter school's primary atten-
+14 dance area and must meet at least one (1) of the following criteria:
+15 (a) The student resides within the school district in which the public
+16 charter school is physically located; or
+17 (b) The student resides within fifteen (15) miles by road of the public
+18 charter school. The limitations placed by this subsection on the reim-
+19 bursement of transportation costs for certain students shall not apply
+20 to public virtual schools.
+21 (6) Facilities funds.
+22 (a) The state department of education shall distribute facilities
+23 funds to public charter schools for each student in which a majority
+24 of the student's instruction is received at a physical facility that
+25 is owned or leased by the public charter school. Such funds shall be
+26 used to defray the costs associated with payments for real property used
+27 by the students or employees of the public charter school for educa-
+28 tional or administrative purposes. Such funds shall be distributed at
+29 four hundred dollars ($400) per attending student pursuant to section
+30 33-1003A, Idaho Code. For the purposes of this paragraph, beginning in
+31 state fiscal year 2025, "attending student" means each student in aver-
+32 age daily attendance in kindergarten through grade 12 at such physical
+33 charter school facilities where the student is enrolled; except that,
+34 upon formal approval by the state board of education, a charter school
+35 may receive an exemption to the physical facility requirement pursuant
+36 to the provisions of this paragraph if the student would have attended a
+37 physical facility if not for a stated emergency.
+38 (b) For those public charter schools that do not receive facilities
+39 funds for all enrolled students, the school may submit to the state
+40 department of education a reimbursement claim for any costs for which
+41 facilities funds may be used. The state department of education shall
+42 reduce such claim by the greater of fifty percent (50%) or the percent-
+43 age of the school's enrolled students for which the school receives
+44 facilities funds and shall pay the balance. Provided, however, that the
+45 total reimbursements paid to a public charter school, in combination
+46 with any facilities stipend received by the school, shall not exceed the
+47 amount of facilities funds that would have been received by the school
+48 had the school received facilities funds for all students in average
+49 daily attendance pursuant to section 33-1003A, Idaho Code. For the
+50 purposes of this subsection, the term "real property" shall be used as
+
+21
+1 defined in section 63-201, Idaho Code. A virtual public charter school
+2 authorized by the public charter school commission or authorized by a
+3 public school district on or after March 1, 2024, shall not be eligible
+4 for funds appropriated pursuant to the provisions of this subsection.
+5 (7) Payment schedule. The state department of education is authorized
+6 to make an advance payment of twenty-five percent (25%) of a public charter
+7 school's estimated annual apportionment for its first year of operation,
+8 and each year thereafter, provided the public charter school is serving more
+9 grades or at least ten percent (10%) more classes than the previous year, to
+10 assist the school with initial start-up costs or payroll obligations. For
+11 a public charter school entering at least its second year of operation, the
+12 state department of education may require documentation establishing the
+13 need for such an advance payment, including comparative class schedules and
+14 proof of a commensurate increase in the number of employees.
+15 (a) For a public charter school to receive the advance payment, the
+16 school shall submit its anticipated fall membership for each grade
+17 level to the state department of education by June 1.
+18 (b) Using the figures provided by the public charter school, the state
+19 department of education shall determine an estimated annual apportion-
+20 ment from which the amount of the advance payment shall be calculated.
+21 Advance payment shall be made to the school on or after July 1 but no
+22 later than July 31.
+23 (c) All subsequent payments, taking into account the onetime advance
+24 payment made for the first year of operation, shall be made to the public
+25 charter school in the same manner as other traditional public schools in
+26 accordance with the provisions of section 33-1009, Idaho Code. A public
+27 charter school shall comply with all applicable fiscal requirements of
+28 law, except that the following provisions shall not be applicable to
+29 public charter schools: that portion of section 33-1004, Idaho Code,
+30 relating to reduction of the administrative and instructional staff
+31 allowance and the pupil service staff allowance when there is a dis-
+32 crepancy between the number allowed and the number actually employed;
+33 and section 33-1004E, Idaho Code, for calculation of district staff
+34 indices.
+35 (8) If an authorizer has reason to believe that a public charter school
+36 cannot remain fiscally sound for the remainder of its certificate term, it
+37 shall provide the state department of education with written notification of
+38 such concern. Upon receiving such notification, the state department of ed-
+39 ucation shall have the authority to modify the percentage of the total appro-
+40 priation to be paid to the public charter school pursuant to the provisions
+41 of section 33-1009 1., Idaho Code, such that equal percentages are paid on
+42 each of the prescribed dates.
+43 (9) Each public charter school shall pay an authorizer fee to its au-
+44 thorizer, not to initially exceed twenty thousand dollars ($20,000), or, in
+45 the case of existing charter schools, up to a five-percent (5%) increase of
+46 the previous year's fee. Authorizers shall annually set the authorizer's
+47 fee and in doing so shall document the fees to actual expenditures associated
+48 with authorizing.
+49 (10) Nothing in this chapter shall prevent a public charter school from:
+
+22
+1 (a) Applying for federal grant moneys or for career technical education
+2 funding of any source; or
+3 (b) Receiving funding or other financial assistance for the establish-
+4 ment or operation of a public charter school from any private person or
+5 organization.
+6 (11) Each student in attendance at a public virtual school shall be
+7 funded based on either the actual hours of attendance in the public virtual
+8 school on a flexible schedule or the percentage of coursework completed,
+9 whichever is more advantageous to the school, up to the maximum of one (1)
+10 full-time equivalent student.
+11 (12) All federal educational funds shall be administered and dis-
+12 tributed to public charter schools, including public virtual schools, that
+13 have been designated as a local education agency (LEA), as provided in sec-
+14 tion 33-5203, Idaho Code.
+15 (13) Nothing in this section prohibits separate face-to-face learning
+16 activities or services. In order to be eligible for career technical educa-
+17 tion essential components funding, virtual schools may be required to offer
+18 some face-to-face instruction in order to meet industry standards, licens-
+19 ing requirements, work-based learning requirements, or other requirements
+20 set forth by law.
+21 (14) The provisions of section 33-1021, Idaho Code, shall apply to pub-
+22 lic charter schools provided for in this chapter.
+23 SECTION 9. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YENCNAGTOE;AGSN3,IOC,TOD;AGSN3,IOC,TOREPSRGTEELSTP;AGSN3OC,TOPEACTCER;AGS,IOC,TOREPSRGPSFMTCSLIEF;AGSN3,IOC,TEPSRGPCSLDYFGV;AGSN3,IOC,TOPEACER;AGSN3,IOC,TOREAPNRGF;AGSN3,IOC,TEPSRGPCCRSLFLSDDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.D.Asudintsc)"es"msadastoalesadkswnadtttaesdtn()mrlsfmbhteoreyssadteplaeoeoftedtadalsysswnadttesdfn()msorlsfmorsyssoft)"es"mstewohdanarceadaeedasas,aneyorslp,oraeadaedsoradaetyadtot)"ks"msastings6th12w)Msatltte()oftefgc)Hsrdatltoe()g)Hsamgrtntnpt()dgtgs)Hsanolgeptaelstn15ona4eprtoeginanaesyp)Hsfdoe()ormeacssintepty)Isbwp,bdonllc,s,orb)Isto()ormecspryrbdtererogeorfrgep;o)Hsadte()ormesswntepo()y,ntigdle;o)Msayoftefgc]
+[DELETED: )Hsddseaeorapnofs)Isptorap)Isanedyhorudy)Isapsd)Hsassp,e,ormlieori)Hsactorayr;o)Dsbrdltotessa)"edya"or"sinaedyasteaenrofdsedssaep,ddbenrofdsofslintergp;p,h,tsfrwmnoIosldtisahedtslntbdinshc)"rl"mstecnteudfrdeasdsrefrilsfadplsfbdonscpecaadismeupofarnrgadaplcnr)"dwhad"msacdedashgald,ahglsigd,ashoei,avlitigb,anelbld,anoci,a,atni,arhhi,asclgd,ormedsadw,byrnt,nlenadrds)"nr"mstergontecrlrttcswhtecnllpec)"ydds"msastw)IseefrafeorrelhurteRdBlnlsllha,42U.11ets,eswoaeeeoythasscye)Rswhafyrgaeurtepmokgstossfrtyaefrnyf)edurptAofteIVofteslsya2U.61ets)IseetoremlaeurtemdpmurteXXofteslsya,42U.16ets)IscdhsfrpsofteflMsaea,42U.11ets)"yg"or"yaedya"mdastossedings1th6,i,orant)"ys"aessttsegs1th6,i,oraycnt)"ys"aessttsegsh1,i,oraycnt]
+[DELETED: )"hlel"or""msastwodsneptonteEhledtateyreoftesebdofe)"dadt"slhetesemgaspdin3,IoC)"ds"msaystwowdnyadryadslbtiscdtoheorhlbeofaniratfrapdoftn()ormeced)"ls"mstewohdanIocdursn3,IoC,adwoaeeridinttinofastorgpofssorwoseinamrtrlrpnfriswohdanIocdursn3,IoC)""or"naedya"mdastoalssedinasly,lstnas,orsrknp)"lsys"msacnteadbyldtorpccrs,whteisudfrdgmstobeddfrilsfadplses.Mmcnpdurallsyseseatlteltotemmasedpttos,IoC)"esta"mstemtofscatorghwnagnilofinfesswohebnedinadadeypt(fteilofi.Msadtsslbecnattlllincnwhtesfmridbytemdaedtsfadadbyteslb.Msasmtaoanwhtepemsadbsintsitpnddinsn3,IoC.Tteemsadtsaetegdascetotealwkasp.Tsmybebdong-ordtorghgsttcecnwng.Ilmestattsadtepeofssmgiltsmtberdaytotes.Attsttmybeudfrmgstatadg)Iossattt(,igimI)Stlgo)Tdasofstg)P-adp,igddt)Pda)Iorgi,whwlbeoe()ofterdattsfraes)CeeeesorpyceeeesssP,S,P,adA)Adpte)Crtle]
+[DELETED: )Nrofbsoriycsorcseyssinanadcrtlenp)Nrofsscgcrtlenc;a)Nrofssedincrtlenctaeptofapmttcswhbsorisorc)"ec"mstesssdfrilsfadplsesftodetgpyfgncnr.Ehetofteplcgadadplcnrgpec,adintssnadasaetoasfmsplbed,r,adsttorwfrdgmtontecrl)"lcnrgpec"m)Anolrgofptorh,adnocdasu,ontesefkfrtgenoretfrplsesforplorolllarenadtotesefkfrtge;a)Dgtemyofsshemtmtattsorstssirt)"dplcnrgpec)Anolrgofptorh,nocdasuyorb,adrdasdlindnto--cmetordnt-inadueofatontesefkfgenoretfrplsesforplororslllarenadtesefkfrtge;a)Dgsept()ormeoftshemttrmestattsotssirt)"csld"or"ld"or""mypcsldtodurtelsoftss,iycdsld)"lses"mstewopesstos,btaentidindtinoftes,adhplplssc)"lb"msasldtbdoftsortdofdsofapccrs)"yg"or"yaedya"mdastossedings7th1,i,orant)"ys"aessttsegs7th1,i,oraycnt)"eeys"msaneyslletntn()msonanarrdfmbhtenteysladeyslsglegswnt]
+[DELETED: esldtadfmtelnofteoeoftestofssofshd,orfmteoeoftecfaeorofshdtiftedtesnosto)"ek"msaknldmetnt)msonanarrdfmbhtentknsntesesldtadfmtelnofteoeoftestofssofshd,orfmteoeoftecfaeorofshdtiftedtesnostofs)"esys"msaysyslletnfn()msonanarrdfmayorsladeyslsglegsodbyt)"le"mssyddinoetyatnocttotepttomtteuenfastwoisacdwhad,iginint,teh,h,i,adors;ininple;shtyadlet;t;tlt;aetys;adv)"tlgp"msapnttosasspmofs,whsdiearsacceadareofesina,crtle,orhsadwhtesspng)"tssi"msmeisotatorg,ortna,wnapdiloftefrasdgpofs.Msadtssecnattedtorslllincnwhtepesfmridbytemsadaedtslmestattsadtepeosmgehttmtberdaytotes.Ssisi)Qegssdinass54pnorinp)Qegssdinassbri)S-orddmestosfrdstgporp)Tepeofsswocestlgpsie8orwoayuetrstlgpst)Tepeofsswosyceoe()oeadososasidinsn3oC,orwoenbsoriycsorc.Tsirslbeoe()ofterdisfes)"tp"msteelstpmasddinsn3,IoC,tetnstpdinsn3,IoC,adteeletpmasddinsn3,IoC]
+[DELETED: )"tu"msafnofaedyaeuntecstodeflstpdtotepld)""msaypnedinat,i,elaeoreladsccyinaysld.Inceofd,tesebdofensldewraypnedrscnas)"dptfgf"msagfgtosldsadpccrssuganadonaedyaeaspdinsn3oC,adanalatprstfrwds.Frehsldtorpccrsewdasfrstcsslbebdonteoftete()htstfeetetcsfrvdssrdpttosn3oC.Tewdasslbeasf)Freydds,tebeatptmdbyoeqr()FrEhlel,tebeatprsdbyoeqr()Frslens,tebeatprsdbyoeadof()Frssagasldtorpcclwhlstnsxhd()aedyaebeatprstmdbyteqs()Frgdadtds,tebeatprsdbyoeqr(;a)Frakssaganaes,teatprstmdbyoe()Fgfrehccmybecdifasthetnoe()oftewdstc.Aystorpccrsltthsatltoe()stbrtnfe()sswomttecafrayccpdfrinph(,(,(,(,(,or(ftssnslrefgasifithsfe()shs)"dstc"msaccoftttisadwhmestatadeln,igassssaseyd,ahlel,rgsle,agastorpccrslwhlstnsxhd()aya,gdadt,orakadaganaesN2.TtSn3,IoC,b,adteseishdtordasf.ELSTP.Teelstpmiscdasf]
+[DELETED: )SeElStF.Adtesea,igtemsaeintepcslief,trwlmsrstodetetlsef)Fmtetlsefssttefgasnrsestofslpspdbyasld)Pltyasaspdins,IoC)Tnstpmaspdinsn3oC)Fyssaeaspdinsn3oC)Teadcsfrbrdta,pdinsn3,IoC,asddbytesestoci)Teadcsfrelcdadcta,pdinsn2.ofsn3,IoC,adbytesestofpci)Sdatcdaspdins4th3,IoC)Utiebtpsagtotepsofsn7,IoC)Freeaspdbytepcsltyp)Freesepsaspdinsn3oC)FrdstoteIodllgayaspnsn3,IoC)Frcrslfsfsadrspdpttosn3,IoC)Franoeceplaspdfrinsn3oC)Fradosaspdfrincr4,te3oC)Fralmhadsecsfrhhslssadinsn3,IoC)Frmrtrpsaspdinsn3,I)()Frtestofpsttpeaseeetostlgadmncmd,ananoftehdds()prstu)()Anatsdinteanblfrtepselstpmfrcgstasprinsn3,IoC,slbeddfrgsh12asf)Frsldsadpccrsswhoehd()ormessedings8th1,apadnbdonssedings8t2orentdds(,wrisg)Frsldsadpccrsswhfnoehd()ssedings8th1]
+[DELETED: ehdeyds()prstedingth12ornetdds(,wri)()Anatsdintepcsselsmanblfrlyi.Tedsmetotesldsadpccrssslbdasf)Fypt()bdonaefeetofssinknthge3asofttFyinN)Fypt()bdontenrofkhge3sswomeaflllorwoaeptfmtesganoftesgatinteprflyro,ifteisntrsgatfrtes,fmfltos;a)Fswlbeddtotesldtorpccrslwetestisedadtsterga.Aysldtorpccrsltthsgrtnoe()btfrtnfe(sinknthge3wlreammootdds(.Eyddssslctasoeadteqs()ssfrteofcgtednoftefsinsh()oftsp)Frmdenaspdfrinsn3oC)()Frpyfrsscgaspdinsn3oC;a)()Ayalasasrdbysetoetaeasorassyrdbytepsoyblofaosetetlelstdnf)AeDyA.Tetlseaedyalbetesmofteaedyaeofaloftesldsoftes.Tesebdofenslehrssgfhtepetodeaedyaeadtet,admdo,snofshr.Aedyaecnslbecdottotenth.Cnofaedyaeslaobegdbytepsofs,IoC)StU.Tetlsestusslbedyugtetsstothrcdcnofktu,cnofeystu,cnofsystu,cnofelenstudcnofaeslstu.TesmofaloftlstusofalsldsofteseslbetetestuNOFKNSTU]
+[DELETED: eDeDrUsA1ormormeasc1-49A6-39A..1-29A..6-29A..-19A..-79AtaseNOFEYSTUeDmUeDrA0ormeA...1s45&6s12&3s12&3s12&3dehyrt0to29A.80to19A.61to19A.47to70A.46to56A.26to35A.10to15ANOFSYSTUeDmUeDrA0orm0-79A0-39A0-29A0-19A9orfsadasfs7-1s9-1s7-pr14As7-pr16A]
+[DELETED: NOFELENSTUeDmUeDrA4ormormea2-1-1..-7..-3..NOFAESLSTUnofaeslstusslis6th1sinAeDrMmU2ormormeanagtetstoaygnseaeu,nldtslrelstlmytnitwdreifidalraedyaeinshseaeu.Igtekntetoaknpmoffrdnaflsly,testutaeslbeinrototrofdsofaflsly.Teaeofssanaeslinasldtrgfrtnoeh)syssinaedyaeslntbeaoteaeteiftestisfmasldtrrtnoehd()syssinaedyatslidbeadtotesyteoftesldnwhtyaeagteaes,ustealinqnssssfmmedsrgfnoehd()syssinaedya.Tsfrelenadaeslstusseaeoyfrpsadbytesedtofenfgrsedbytesebdofe.Mdfmcnofstusfraessslbdfraeslp.Sldtadfycsmybeidasptofteaesle)SeDnFrprStU.Deetpmdnf,arsgteasnopyteossdinsn()oftss,bytlsestustosetesednfrprstu)()DtStU.Tenrofstusfreldtinteseslbeddasf]
+[DELETED: )Detealaedya,egssadfrininteelcdemfrteaessadehoftessadaeu,byteaedrfmtsofstusintss,tnadteqoontedsstusaefrrrs,knthge12igaes.Csinanoftssnslbdottotenth)Detecdtsofteaedyafalp,k,e,s,jncrssadsswhdsarininteelcdpmoftedtbeaedrfmtetefrcnofelenstustoontenrofssadfrtedsadelcdp.Csfrtssnslbecdottotthhwnmetnoe()utisa)Tetlnrofstusoftedtslbesmoftetlstusfrrrs,sh()oftsp,adtestusaefeadelcdp,sh()oft)TlDtAeElP.Mytedstlnrofstusaedyaeadinsn3,IoC,cdottotenth,bytesednfrprstutb,whwdasadprstasddbytdptfgf,adtotsptadteadatofpsoftedtpdinsn()ossntosetedstlaefrteelstp)DtS.Tedsseofseatisttoftetldta,ph()oftss)AtofDtS.Tectsyofeyndtrslbesdfmtedsseascdfmtepsofph()oftss)()PyTxCnR.Inortoresefttotss,acrdtslueaslmeadonpytxcnrofrtepeofcgismeadonlyttisnogrtnttwtudintxyr1,lsfsofoept(.Asu,tetm"ytxcnr"slmnaroddbydgtedscdpytxmeadonbtbytealoradmtvefratpsasshvsedonDr3,1.ShmeadonlyslbebdontepytxcnromytealoradmtvefratpsasshvdonDr31ofteprcry]
+[DELETED: N3.TtSn3,IoC,b,adteseishdtordasf.SFA.Frehsld,asfalbeddasf)UgtedyaerstthebnsdfgteFy15atofsefsaspdinsn3,IoC,cetetlstusfrtedntemrpdinsn3,IoC.Ifttusudtocedyfgpttos9ad3,IoC,aeatlttept()gept()oftedeslbeadtotessudfrteFy15atofsef)Deteilsfaebymgttusby1.Adtmtdettitayeenrofcdilsfa,etaspnsn()ad()oftss.Iftedtdsnteenra,tesfaeslberdtotealn,etaspdinsn()ad()oftss)Deteplsesfaebymgtestusby0)Deteaesfaebymgttusby.)Detecdsfaebymgtestusby.)Alcsggsfa)Indgtenrofsfinss(,(,()a)oftss,adtmyctsyfrssterdbyntesadshesmybecntesfa.A"te"msapnfmtesldtdsntpyteesosfeb.Wnadtcsfrtessofte,oytesypnoftectslbefrc)Ifteaecspgeeueofsfaetowhadtisedaspdinss()ad()oftss,analmybefdwhtesedtofenogtersadpdaeoftef,adawrmybeg)Fraydtwhlstnfy()stu)Teilsfaeslbecgtealnrofstu.Iftealilsfedinteslyrisgrtntlsfa,tnteilsfaeslbeidbyof()sfa;a)Teaesfaeslbecdagtealnrofstu.Iftealaesfedinteslyrisgrtnteaesfa,tnteaesfaeslbeidbyof()sfa]
+[DELETED: )A,fraydtwhlstnty(tu,teilsfaeslbecdagtealnrofstu.Iftenfilsfedinteslyrisgrteilsfa,tesfaeslbdaspdinss()ad()oftsp,adbyanalof()ilsfa)Fraysldtwhoe()ormesesssggs9th1,teilsfalbeidbyto()alilsfarehshsesys)Oyi,plseadaesfadplcdbytesldtfmteglmeadonfdoftedtslbeidiecnofsfaeorinayorcsbns,igdnofteeeade,tergr,ortedsstc.Nofdsesfortfslbeidintesfa)Adtmyueuptofnpt()oftemdwhpsfdpttosn()oftntopyarsldtorpccrslflssortodytectofpgvlenc,igvldlctc,wtnintenroffdpsbgi)Adtmyeyneadofpt()frpstnfdpttoss()ad()oftsstarnintenroffdpsbgiginflyr2,tsfeslberdbyoept()ehyrfrehsldtinwhteaec,asddfmprflyrdardtotestofe,wsatltoe()stgrtnteaecss.TesedtofensttoteleeyF,bgin2,onterssdtotepeintsf,bysld,ieegfly)Intednofseaecss,tedtofenslntueasefeddthteagofaldsofvgsllnadplpsttteseseaecsseslbecdofmsddthasofleadsysddsadueoftedrbnedin3,IoC)Tesebdofenmypersoemdofcnofteseaecssef)Teoept()rnrdinph()ossnslntbeaefrayslyrs]
+[DELETED: ttoayrwntesldsbsheceofd,c,enorano)Inteettttesfaeinaycyisittomtans,adtmyaltotesdofe,dgtei,adtesebdmtawragstalsftobeidwesfaetomtans.Shawrslbdtooe()y,btmyberdunsgofcgj)Adtmyueapnofteilsfaepdfrintssnfrkntstovttsorgsofssdgteftwkoftekly.Shvsmytepeats,attesshratarlnadtobytetradpsorgepeofshvsistohpsntewgrntet,tepsorg,adtes.Tevdbeudasanoytohpehtetsesoftes.Tevtsdaopeanoyfrtsorgstoentre.Teatofmsteedfrshvsbytedtmyntedteateooe()wkofilsfaecdfrksintedN4.TtSn3,IoC,b,adteseishdtordasf.PSFMTEPCSLIEF.Psofteseglatanfrplstslbemeehyrbytesedtofentotepcsldsofteseinfr()pstotedsslbementlrtntefhdfA,tefhdyofN,tefhdyofFdtefhdyofMyehy.Teftptbytestofenslbeayfypt()oetlglatanfrtefly,wetdadtdpsslbeaytypt(,adtefhptaytnpt()r,etaspdfrinsn3,IoC.Addetoasltrtotepcslieforeorreadyinteprystrposn4.oftssnslntbesttotsl.Psofm,ortnteseglata,ttaetotepcsliefdslbemebytedtofentotesldsofteseoefhdyofN,F,MyadJyehy.Tlatofshpsslbeddbytesedtofenadslntedteatofmsadondtintepcsliefdatteteshpsm]
+[DELETED: .Asaddetoasltrtotepcsefdtoreorreadyinteprystrpttosn4.oftssnslntbesttelnidbypsa.adb.oftss.PsmetotesldsinAtadNraeaepsfrtectyradmybebdunpsfmtcsliefdfrtepgsly.Ehsldtmyreispeseofteaepsintesottistlptfrtepgyrwstotetlpoalsldsfrtepgy.NolrtntefhdyofFyinehy,tedtofenslcetesednfdptfgbdontetlaedyahteftFyinN.TefrwdptfgwlbeudinpsofsefsinFyadM.AlberdinaftadatatesdbytesedfesoftethdyofJeofehyrtesedtofensldeflpstobemeonJyfhntsgtoteslsldsfmtepcsliefrteslyredJe3.TeJypsslteioc.Teaedyaeofteslsldsfrtt()btwsofteslyrcdntlrtethofJ.AlfsaeintepcsliefdfrtefregontethofJ.Alpsddfrtectflyrtotesld.Teatbdontealatofdyfrstutstrdbytepsofsn3oC.Psmeordefrtetnstpmadtlenstp.Tesedtofenslanaddttepttoteslsldstemsintepcsliefdinehy,toatteaemeursn2.oftss,ihasaswlpeinflfrehdtisstp,adntmetntrr,adnosldtselstnfyds(.Ifteflatadtotepcsliefmteglatbyteleisnttdtotepliefdbyteedoftefly,tedyrmslerberdorrdthasltrfmteglatinteftsy()dsoftefly,orslbecdincgdtl,adallyslbecdbytesestofpntotebdofcycsadadtotedeadonl.Iftedyisrdorryslt,teatsotdslbeinantot]
+[DELETED: tadtobetdinshfgflyralbeadtoehsldtinteseatasehwerdhdtetrbnmeinteyrtedyoesedtofensldetotesldeflatoftesltrassnasplarsrism.Inmgtelycsrdbytssntesedtofenslteioatadceflatofmyrdiotepcsliefdflssfrtegnfly.Dsintetrofteadatofglatretotepcslidslberdbytea,ifa,tttetlatrmorssiotepcsliefdesteodatfmtes.Teoleeofrsfrssslbetetlatsdbyteleinteanb.Tepsoftssnslntaytoastoorfmtepcensnf.Ayasinayy,metoaysld,wywntesgte()yrpdbefdtohebninerofcnort,mybecddgtete(rpdbyrnofastoaysldttowsmyhebnmeorr,adcgastoastoaysldttowhusmyhebnmeorrN5.TtSn3,IoC,b,adteseishdtordasf.PCSLDYFGV.()Tedtofenslcetewdpgfaasddinsn3,IoC,toaeelstpmfgtosldsadpcc.Tesedtofenslueteidonwdstcsasddinsn3oC,fmllenaspttoss37a,IoC)Inflys26ad2,ifteanofgldyfsadseelstdssdtogldyfsintectyrfrasldtorprslislstnoehdpt()ofwtteanwdhebnifteanwsbdonstu,tnanalanslbemetottsldtorpcc)Teleslayseinteanfrtlstpnofosteeeoftetldytebefgpdprstutstasddbytewdptfgf.Tesedfens,beteedofehfly,ceteayfgaeprstutstasddbewdptfgf)()Iftetleddyfgprstutasddbytewdptfgfasdi]
+[DELETED: eanfrteelstpnofosislrtntealdyfgaeprststasddbytewdptfgf,tesecrslmytedebytenrofatu,adtrtertfmtepcsliefotepcensnfdadtefldstldsfmtedtofenslberdbyal)()Iftetleddyfgprstutasddbytewdptfgfasdieanfrteelstpnofosisgrtntealdyfgaeprststasddbytewdptfgf,tesecrslmytedebytenrofatu,adtrtertfmtepcensnfdtotepcslief.Tstrslbeldtsaeintepcensnf.MstdfmtepcensnfdtotepcsefdurtepsoftssnaehycdfrteelstpnofoN6.TtSn3,IoC,b,adteseishdtordasf.CRE.()Sginflyr2,etinge7orge8edinanIopcsldsycdd,orapccrslslce()ormecrenc.Astmyototbysgafmtoteslsgtessptorllgscdtotestntpgintecrespttotss.Shcssdantote""ssstbytesebdofenfrcrtle.Shcsmybeodf,thvle,asoec,orashdcscgofacnofoeadini)Alsftgacrencemthepdinacrenpldtceadbesebdofe)Tesebdofenwlmnrsttcnbdormdfrteinoftss)Acrpypnslbeddbysswhtealofpsorg,whaeadrnfms,whsliecrencsorwedya.Tepeofapdstcrpnistooeaceofsyadlgastohpseslinl.Eysscrpypnslberdayadcnberdatayt.Tessslseapdcrpypnpsrttotestorg.Tepsrtmybestvaecc]
+[DELETED: )Fgpdinsn3,IoC,inaewhsn3,IoC,mybeudtostcrenc)Pldtfgpdpttos,IoC,mybeudtopepldttocrenceiN7.TtSn3,IoC,b,adteseishdtordasf.MDE.()TelefsttmgtdmdenwesspsastydemyofastorgellisintebtitofI.Telefrfsttmgfmtecttdsmtoamdahwlawfrmepdddl;ceafsone,m,telgostters;adeecsttieanadkeagwhsld)TesedtofenslpmtefgastomeIotdmde)Peogseohadcstoisadugofadpeitinmnfrt,a,p,s,b,adp)FeadmnteIomyenndofIopcsldsadcrssttcetotnIotomde.Ten)Aetestofpcinadtesdofenontepsoftetntomde)Dpedrsfrcdi)Ittepsofteleadtesdofenfrtetntomde)Penkr,igpld,c,adbtp,toIopcsldsadcrs;a)CeasypnfrsesgofmdenadeettalpcsldsarsspginteIomyennppsttdehwtepcsldtorclwlmnamdahtoe.Psmeapstodptersadasnytemyadadc)Tesedtofenmyedordemdfrpsidinsn()oftssndytopcsldsadcrssttaepntemyennkadheadadbnsdtoremdeng.Tectofaspdf]
+[DELETED: ntssnslbepdbytesedtofenfmmsadfrtspminteelstpmbspdfrinsn3,IoC)Aypcsldtorcrslmypeintyennkbyagtotesedtofenifshdtorslisntsdtoremdeng)NolrtnJy31ofehy,tesedtofenslrtaytotesebdofenadteencsofteseadteheofrsrgtstdigmde)Frpsoftss)"den"msanensmwessisbdonassdnofmyofcsadc,ntstteorteaeorgelloftes)""msteIomyennN8.TtSn3,IoC,b,adteseishdtordasf.PCCRSLFLS.()Etasoepdfrintss,tesedtofensetefgattoehcrslfrehflydonaefssdinamradteasrdbytedtofe)Prsts.Cnofstusfrehprslslbecdasifitweaseslagtotessinsn3,IoC,etttprsswhfrtnoehd()syAAsluerofte()adtemmusslnta.Nopccrslslreanieinstusttestestusitrdintepryrbymetnfy(,etisofseddestthebnadbytearashganitonpce.Fgfmteseelstpmslbeeltotetldnfdptf,pstesdatpncr1,te3,IoC.P,h,aypccrslttisfdbytecnofanegtlplslbeadd,pttosn3,IoCtaenolrtntedsoftesldtinwhtetlpcslisl,frehcyofpsl)Sle.Frehstedintepccrslwoisedtoslens,tepcclslreteseadflfsfmteelcnpmfrttstttwdhebnadtotldtinwhtepccrslisl)Aesls.Pccrssmyqrtepsofss32ad3,IoC,pepccrslmstenysyrsasqyfraeatanaeslaspdbyrftesebdofe]
+[DELETED: )Tns.Stslbepdtotepccrslaspdincr1,te3,IoC,ads,IoC.EhpccrslslfhtedtwhanetctasofteftFyinNrofprslsswoaeeefrrtoftncsurtepsoftssnadworemeteadof(11)msfmtes.Tesedtofenisadtoieintealantoteclsypt()ofteedtnc.TefnptinJyslrtrsofalcttosn3,IoC.Tobeeefrserturtepsofsn3,IoC,testtobdmtrewntepccrsspyaeaaadmtmtatltoe()oftefgc)Testrswntesldtinwhteprslispyl;o)Testrswnfn()msbyrdofteprs.Telspdbytssnontertoftncsfrcnssslntaopcvls)Fsf)Tesedtofensldefstopccrssfrehstinwhamftessinisrdataplfytsodorldbytepccrs.Shfsslbdtodytecsadwhpsfrrlpyuytessoresoftepccrslfreloraep.Shfsslbeddarhdds()pragstpttos,IoC.Frtepsoftsp,bgieflyr2,"gs"msehstinaedyaeinknthge12atshprslfswetestise;ettnflalbytesebdofe,acrsyreanentoteplfyrtpotepsoftsphiftestwdheadlfyifntfrasde)Frtepccrssttdontrefsfraleds,teslmysttotestofenartcmfraycsfrwsfsmybeu.Tesedtofenseshcmbytegroffypt()ortepeoftessedssfrwhteslrsfsadslpyteb.P,h,tttlrspdtoapccrs,inchayfssdrdbytes,slntedttoffsfsttwdhebnrdbytesdteslrdfsfsfralssinayaepttosn3,IoC.Frtsoftss,tetm"lp"slbeuda]
+[DELETED: dinsn6,IoC.AvlpccrsdbytepccrslcnoradbycsldtonorarMh1,2,slntbeerfsadpttotepsoftss)Pts.Tesedtofenisaomeanaeptoftept()ofapccsedalatfrisftyrofodehyrt,pdtepccrslissgmsoratlttnpt()mecstntepsy,ttteslwhilspcsorplo.Fpccrslegatltissdyrofo,tedtofenmyrednegtdfrshanaep,igcecsssafofaceieintenrofe)Frapccrsltoreteaep,tlslstisadflmpfrehgltotesedtofenbyJe1)Ugtefspdbytepccrs,testofensldeanedalatfmwhteatofteaeptslbeceptslbemetoteslonorarJy1btnrtnJy3)Alstp,tgioatteoeatmefrteftyrofo,slbemetoteprslintesemrasortlpcssiewhtepsofsn3,IoC.Aprslslcywhalaeflrso,ettttefgpsslntbeaetccrs:ttpnofsn3,IoCgtornofteaeadilseadteplsesfaewnteisadybntenradadtenrayedsn3,IoC,frcnofdts)Ifanarhsrntobettapccrstrnfysdfrterrofiscet,ilpetesedtofenwhwnnnohc.Unrgshn,tesedtofenslheteaytomytepeoftetlantobepdtotepccrslpttotepfsn391,IoC,shttelpsaepdohoftepdd)Ehpccrslslpyanarfetoisa,nttoiyedtytdds(,o,ieceofegcrs,uptoaft()ieoepsysf.Asslaystteaeadindgsosldttefstoalesaha)Ngintscrslptapccrslf]
+[DELETED: )Agfrflgtmsorfrcrtlegofays;o)Rgfgororflaefrteetoronofapccrslfmaypepno)Ehstinaeatapcvlslslbdbdonertealhsofaeintepcvlonafeseortepeofckcrismeastotes,uptotemmofoe(eets)Alflelfsslbeadadddtopccrs,igpcvls,tebnddasallenay(,aspdinsn3,IoC)Ngintssnpssefelsors.Inortobeeefrcrtlenelcsf,vlssmyberdtooefeininortomtiys,lgr,wdlgr,ororrtfhbyl)Tepsofsn3,IoC,slaytopccrsspdfrintscN9.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

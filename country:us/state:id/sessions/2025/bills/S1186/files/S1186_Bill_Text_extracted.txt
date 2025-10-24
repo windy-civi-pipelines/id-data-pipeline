@@ -1,0 +1,1267 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1186
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CAMPAIGN FINANCE; PROVIDING LEGISLATIVE INTENT AND FINDINGS;
+3 AMENDING SECTION 67-6602, IDAHO CODE, TO DEFINE A TERM; AMENDING SEC-
+4 TION 67-6606, IDAHO CODE, TO PROVIDE FOR CERTAIN REPORTS BY NONBUSINESS
+5 ENTITIES; AMENDING SECTION 67-6607, IDAHO CODE, TO PROVIDE FOR CER-
+6 TAIN REPORTS BY POLITICAL COMMITTEES; AMENDING SECTION 67-6610, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING CONTRIBUTIONS IN EXCESS OF FIFTY
+8 DOLLARS; AMENDING SECTION 67-6611, IDAHO CODE, TO PROVIDE FOR CERTAIN
+9 REPORTS BY PERSONS MAKING INDEPENDENT EXPENDITURES AND TO MAKE A TECH-
+10 NICAL CORRECTION; AMENDING SECTION 67-6612, IDAHO CODE, TO PROVIDE
+11 FOR CERTAIN REPORTS BY SIGNATURE GATHERERS; AMENDING SECTION 67-6614,
+12 IDAHO CODE, TO REVISE PROVISIONS REGARDING IDENTIFICATION OF SOURCE OF
+13 CONTRIBUTIONS AND EXPENDITURES; AMENDING SECTION 67-6621, IDAHO CODE,
+14 TO PROVIDE A CORRECT CODE REFERENCE AND TO MAKE A TECHNICAL CORRECTION;
+15 PROVIDING SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN
+16 EFFECTIVE DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. LEGISLATIVE INTENT AND FINDINGS. It is the intent of the Leg-
+19 islature to identify and discourage quid pro quo corruption in fact as well
+20 as diminish the appearance of quid pro quo corruption. The Legislature finds
+21 that when a person or entity spends large sums of money either in support
+22 of or opposition to a candidate and the identity of such person or entity is
+23 opaque to the public, it is impossible for the public to know who is funding
+24 such campaigns and to what degree those campaigns are funded by dark money
+25 that is not tied to any named individual or business. The Legislature finds
+26 that this knowledge is important to the public because in many cases the in-
+27 dividuals funding such campaigns appear to do so with the specific purpose
+28 of surreptitiously electing an official they believe they can control, ca-
+29 jole, or threaten into voting in a manner that they wish, which leads to at
+30 least an appearance of a quid pro quo relationship between the person elected
+31 and those secretly funding the entities paying for electioneering campaigns
+32 with dark money.
+33 The Legislature further finds that a common belief among the populace
+34 is that many elected officials are overly influenced, if not controlled, by
+35 well-funded special interests. In order to dispel the appearance of quid pro
+36 quo corruption when it may not exist and to better root it out where it does
+37 exist, this legislation will allow members of the public, regulators, and
+38 law enforcement officials to more clearly identify who is making the contri-
+39 butions that have had such a large impact on election outcomes in Idaho in-
+40 stead of continuing to allow wealthy players to hide behind a curtain of dark
+41 money.
+42 The Legislature further finds that innocent individuals and entities
+43 are also often accused of financing dark money expenditures when they are
+2
+1 not. This leaves these individuals and organizations who are not partici-
+2 pating in dark money expenditures in a position of being asked to prove a neg-
+3 ative, which can be impossible due to the lack of transparency in campaign
+4 finance reporting, and which contributes to the majority of the public be-
+5 lieving corrupt practices are being employed and hidden.
+6 The Legislature further finds that the appearance of such negative and
+7 damaging relationships could be dispelled if members of the public are able
+8 to know who all of the players are by disclosing all of the large contribu-
+9 tors, which can, in turn, dispel the appearance of quid pro quo corruption
+10 for many who are assumed to be, or are incorrectly accused of, participat-
+11 ing in suspected quid pro quo relationships. If this legislation is enacted,
+12 it can be clearly shown which individuals and entities are not contributing
+13 significant amounts to the various entities engaging in electioneering cam-
+14 paigns.
+15 The Legislature further finds that unlike the federal judiciary,
+16 Idaho's Supreme Court justices, appellate judges, and district court judges
+17 are elected, and are therefore more susceptible to the appearance of quid pro
+18 quo corruption than members of the federal judiciary as long as dark money
+19 contributions are allowed in Idaho elections. In addition to other consid-
+20 erations, this demonstrates a greater need for disclosure in Idaho than in
+21 federal elections because the Idaho judiciary presides over quid pro quo
+22 corruption cases when they occur in Idaho. However, as elected officials
+23 themselves, members of the Idaho judiciary are just as susceptible to the
+24 appearance of quid pro quo corruption by the public as any other elected of-
+25 ficial. Reducing or eliminating the practice of dark money expenditures in
+26 Idaho elections will help to dispel the public's perception of quid pro quo
+27 corruption related to all elected officials, including elected members of
+28 the judiciary who arguably have the greatest need for trust from the public,
+29 as they are the final arbiters of alleged corruption by officials elected in
+30 Idaho.
+31 It is therefore the intent of the Legislature, in order to dispel the ap-
+32 pearance of quid pro quo corruption when it may not exist, and to better root
+33 it out where it does exist, to allow the public to see who has previously been
+34 hiding behind the proverbial curtain of dark money contributions that have
+35 such a large impact on elections and potentially the votes of those who are
+36 elected.
+37 SECTION 2. That Section 67-6602, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 67-6602. DEFINITIONS. As used in this chapter, the following terms
+40 have the following meanings:
+41 (1) "Business" means a partnership, corporation, business entity, as-
+42 sociation, firm, or any group of two (2) or more individuals for which a ma-
+43 jority of its revenue is derived from the sale of goods or services.
+44 (1) (2) "Candidate" means an individual who seeks nomination, elec-
+45 tion, or reelection to public office and who has taken any of the following
+46 actions:
+47 (a) Announced the individual's candidacy publicly;
+48 (b) Filed for public office;
+3
+1 (c) Received a contribution for the purpose of promoting the individ-
+2 ual's candidacy for office; or
+3 (d) Made an expenditure, contracted for services, or reserved space
+4 with the intent of promoting the individual's candidacy for office.
+5 For purposes of this chapter, an incumbent shall be presumed to be a can-
+6 didate in the subsequent election for his or her office until the in-
+7 cumbent has failed to file a declaration of candidacy by the statutory
+8 deadline.
+9 (2) (3) "Compensation" includes any advance, conveyance, forgiveness
+10 of indebtedness, deposit, distribution, loan, payment, gift, pledge or
+11 transfer of money or anything of value, and any contract, agreement, promise
+12 or other obligation, whether or not legally enforceable, to do any of the
+13 foregoing, for services rendered or to be rendered, but does not include
+14 reimbursement of expenses if such reimbursement does not exceed the amount
+15 actually expended for such expenses and is substantiated by an itemization
+16 of such expenses.
+17 (3) (4) "Contractor" means a person who receives compensation from an-
+18 other person for either full-time or part-time work based on a contract or
+19 compensation agreement, but who is not an employee of that person.
+20 (4) (5) "Contribution" includes any advance, conveyance, forgiveness
+21 of indebtedness, deposit, distribution, loan, payment, gift, pledge, sub-
+22 scription or transfer of money or anything of value, and any contract, agree-
+23 ment, promise or other obligation, whether or not legally enforceable, to
+24 make a contribution, in support of or in opposition to any candidate, polit-
+25 ical committee or measure. Such term also includes personal funds or other
+26 property of a candidate or members of his household expended or transferred
+27 to cover expenditures incurred in support of such candidate but does not in-
+28 clude personal funds used to pay the candidate filing fee. Such term also
+29 includes the rendering of personal and professional services for less than
+30 full consideration, but does not include ordinary home hospitality or the
+31 rendering of "part-time" personal services of the sort commonly performed
+32 by volunteer campaign workers or advisors or incidental expenses not in ex-
+33 cess of twenty-five dollars ($25.00) personally paid for by any volunteer
+34 campaign worker. "Part-time" services, for the purposes of this definition,
+35 means services in addition to regular full-time employment, or, in the case
+36 of an unemployed person or persons engaged in part-time employment, services
+37 rendered without compensation or reimbursement of expenses from any source
+38 other than the candidate or political committee for whom such services are
+39 rendered. For the purposes of this act, contributions, other than money or
+40 its equivalent shall be deemed to have a money value equivalent to the fair
+41 market value of the contribution.
+42 (5) (6) "Election" means any state or local general, special, recall,
+43 or primary election.
+44 (6) (7) "Election campaign" means any campaign in support of or in oppo-
+45 sition to a candidate for election to public office and any campaign in sup-
+46 port of, or in opposition to, a measure.
+47 (7) (8)(a) "Electioneering communication" means any communication
+48 broadcast by television or radio, printed in a newspaper or on a bill-
+49 board, directly mailed or delivered by hand to personal residences, or
+4
+1 telephone calls made to personal residences, or otherwise distributed
+2 that:
+3 (i) Unambiguously refers to any candidate; and
+4 (ii) Is broadcasted, printed, mailed, delivered, made or dis-
+5 tributed within thirty (30) days before a primary election or
+6 sixty (60) days before a general election; and
+7 (iii) Is broadcasted to, printed in a newspaper, distributed to,
+8 mailed to or delivered by hand to, telephone calls made to, or
+9 otherwise distributed to an audience that includes members of the
+10 electorate for such public office.
+11 (b) "Electioneering communication" does not include:
+12 (i) Any news articles, editorial endorsements, opinion or com-
+13 mentary, writings, or letter to the editor printed in a newspaper,
+14 magazine, or other periodical not owned or controlled by a candi-
+15 date, political committee, or political party;
+16 (ii) Any editorial endorsements or opinions aired by a broadcast
+17 facility not owned or controlled by a candidate, political commit-
+18 tee, or political party;
+19 (iii) Any communication by persons made in the regular course and
+20 scope of their business or any communication made by a membership
+21 organization solely to members of such organization and their fam-
+22 ilies;
+23 (iv) Any communication that refers to any candidate only as part
+24 of the popular name of a bill or statute;
+25 (v) A communication that constitutes an expenditure or an inde-
+26 pendent expenditure under this chapter.
+27 (8) (9) "Employee" means an individual who performs a service for wages
+28 or other compensation from which the individual's employer withholds fed-
+29 eral employment taxes under a contract for hire, written or oral.
+30 (9) (10) "Executive official" means:
+31 (a) The governor, lieutenant governor, secretary of state, state con-
+32 troller, state treasurer, attorney general, superintendent of public
+33 instruction and any deputy or staff member of any of those individuals
+34 who, within the course and scope of his or her employment, is directly
+35 involved in major policy-influencing decisions for the office;
+36 (b) A state department or agency director, deputy director, division
+37 administrator or bureau chief as established and enumerated in sections
+38 67-2402 and 67-2406, Idaho Code;
+39 (c) The membership and the executive or chief administrative officer
+40 of any board or commission that is authorized to make rules or conduct
+41 rulemaking activities pursuant to section 67-5201, Idaho Code;
+42 (d) The membership and the executive or chief administrative officer
+43 of any board or commission that governs any of the state departments
+44 enumerated in section 67-2402, Idaho Code, not including public school
+45 districts;
+46 (e) The membership and the executive or chief administrative officer
+47 of the Idaho public utilities commission, the Idaho industrial commis-
+48 sion, and the Idaho state tax commission; and
+49 (f) The members of the governing board of the state insurance fund and
+50 the members of the governing board and the executive or chief adminis-
+5
+1 trative officer of the Idaho housing and finance association, the Idaho
+2 energy resources authority, and the Idaho state building authority.
+3 (10) (11) "Expenditure" includes any payment, contribution, subscrip-
+4 tion, distribution, loan, advance, deposit, or gift of money or anything
+5 of value, and includes a contract, promise, or agreement, whether or not
+6 legally enforceable, to make an expenditure. The term "expenditure" also
+7 includes a promise to pay, a payment or a transfer of anything of value in
+8 exchange for goods, services, property, facilities or anything of value
+9 for the purpose of assisting, benefiting or honoring any public official or
+10 candidate, or assisting in furthering or opposing any election campaign.
+11 (11) (12) "Independent expenditure" means any expenditure by a person
+12 for a communication expressly advocating the election, passage or defeat of
+13 a clearly identified candidate or measure that is not made with the coopera-
+14 tion or with the prior consent of, or in consultation with, or at the consent
+15 of, or in consultation with, or at the request of a suggestion of, a candidate
+16 or any agent or authorized committee of the candidate or political committee
+17 supporting or opposing a measure. As used in this subsection, "expressly ad-
+18 vocating" means any communication containing a message advocating election,
+19 passage or defeat including, but not limited to, the name of the candidate
+20 or measure, or expression such as "vote for," "elect," "support," "cast your
+21 ballot for," "vote against," "defeat" or "reject."
+22 (12) (13) "Lobby" and "lobbying" each means attempting through contacts
+23 with, or causing others to make contact with, members of the legislature or
+24 legislative committees or an executive official to influence the approval,
+25 modification or rejection of any legislation by the legislature of the state
+26 of Idaho or any committee thereof or by the governor or to develop or main-
+27 tain relationships with, promote goodwill with, or entertain members of the
+28 legislature or executive officials. "Lobby" and "lobbying" shall also mean
+29 communicating with an executive official for the purpose of influencing the
+30 consideration, amendment, adoption or rejection of any rule or rulemaking as
+31 defined in section 67-5201, Idaho Code, or any ratemaking decision, procure-
+32 ment, contract, bid or bid process, financial services agreement, or bond
+33 issue. Neither "lobby" nor "lobbying" includes an association's or other
+34 organization's act of communicating with the members of that association
+35 or organization; and provided that neither "lobby" nor "lobbying" includes
+36 communicating with an executive official for the purpose of carrying out
+37 ongoing negotiations following the award of a bid or a contract, communica-
+38 tions involving ongoing legal work and negotiations conducted by and with
+39 attorneys for executive agencies, interactions between parties in litiga-
+40 tion or other contested matters, or communications among and between members
+41 of the legislature and executive officials and their employees, or by state
+42 employees while acting in their official capacity or within the course and
+43 scope of their employment.
+44 (13) (14) "Lobbyist" includes any person who lobbies.
+45 (14) (15) "Lobbyist's client" means the person on whose behalf the lob-
+46 byist is acting, directly or indirectly, as a contractor, and by whom the
+47 lobbyist or lobbyist's employer is compensated for acting as a lobbyist.
+48 (15) (16) "Lobbyist's employer" means the person or persons for whom a
+49 lobbyist is an employee, and by whom the lobbyist is compensated for acting
+50 as a lobbyist.
+6
+1 (16) (17) "Local government office" means any publicly elected office
+2 for any political subdivision of the state or special district that is not a
+3 legislative, judicial, statewide, or federal office.
+4 (17) (18) "Measure" means any proposal submitted to the people for their
+5 approval or rejection at an election, including any initiative, referendum,
+6 recall election, or revision of or amendment to the state constitution. An
+7 initiative or referendum proposal shall be deemed a measure when the attor-
+8 ney general, county prosecutor, or city attorney, as appropriate, reviews it
+9 and gives it a ballot title. A recall shall be deemed a measure upon approval
+10 of the recall petition as to form pursuant to section 34-1704, Idaho Code.
+11 (18) (19) "Nonbusiness entity" means any group of two (2) or more indi-
+12 viduals, a corporation, association, firm, partnership, committee, club or
+13 other organization that:
+14 (a) Does not have as its principal purpose the conduct of business ac-
+15 tivities for profit; and
+16 (b) Received during the preceding or current calendar year contribu-
+17 tions, gifts or membership fees, which in the aggregate exceeded ten
+18 percent (10%) of its total receipts for such year.
+19 (19) (20) "Person" means an individual, corporation, association,
+20 firm, partnership, committee, political party, club or other organization
+21 or group of persons.
+22 (20) (21) "Political committee" means:
+23 (a) Any person specifically designated to support or oppose any candi-
+24 date or measure; or
+25 (b) Any person who receives contributions and makes expenditures in an
+26 amount exceeding one thousand dollars ($1,000) in any calendar year for
+27 the purpose of supporting or opposing one (1) or more candidates or mea-
+28 sures.
+29 (c) A county, district or regional committee of a recognized politi-
+30 cal party shall not be considered a political committee for the purposes
+31 of this chapter unless such party committee has expenditures exceeding
+32 five thousand dollars ($5,000) in a calendar year.
+33 (21) (22) "Political treasurer" means an individual appointed by a can-
+34 didate or political committee as provided in section 67-6603, Idaho Code.
+35 (22) (23) "Public office" means any local, legislative, judicial, or
+36 state office or position that is filled by election but does not include the
+37 office of precinct committeeman.
+38 SECTION 3. That Section 67-6606, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-6606. EXPENDITURES BY NONBUSINESS ENTITY. (1) Any nonbusiness en-
+41 tity that is not a political committee as defined in section 67-6602, Idaho
+42 Code, making expenditures in or directed to voters in the state of Idaho in
+43 an amount exceeding one thousand dollars ($1,000) in any calendar year for
+44 the purpose of supporting or opposing one (1) or more candidates or measures
+45 shall file a statement with the secretary of state. The statement shall in-
+46 clude:
+47 (a) The name and address of the nonbusiness entity and the name and ad-
+48 dress of its principal officer or directors.;
+7
+1 (b) The name and address of each person whose fees, dues, payments
+2 or other consideration paid to such nonbusiness entity during either
+3 of the prior two (2) calendar years has exceeded five hundred dollars
+4 ($500) or who has paid or has agreed to pay fees, dues, payments or other
+5 consideration exceeding five hundred dollars ($500) to such entity dur-
+6 ing the current year.; and
+7 (c) In the case of a nonbusiness entity making expenditures in support
+8 of or in opposition to a candidate, the full name and complete address
+9 of each person who has contributed to the reporting nonbusiness entity
+10 an aggregate amount of one thousand dollars ($1,000) or more during
+11 the previous twelve (12) months. If the person making the contribu-
+12 tion to the nonbusiness entity is not an individual or business, the
+13 report shall also include a list with the full name and complete ad-
+14 dress of each person who in turn has donated an aggregate amount of one
+15 thousand dollars ($1,000) or more to such person donating to the non-
+16 business entity who is not an individual or business within the previous
+17 twelve (12) months. The disclosure of donors shall continue tracing
+18 back through each donor who is not an individual or business, until
+19 the aggregate contributions from a person equal less then one thousand
+20 dollars ($1,000) or all donors have been identified as individuals or
+21 businesses, in accordance with the transparency provisions of section
+22 67-6614, Idaho Code. In order to provide the proper reports required
+23 pursuant to this paragraph, any nonbusiness entity required to report
+24 under this subsection shall request the name, address, and donation
+25 amount of one thousand dollars ($1,000) or more from any person who is
+26 not an individual or business and who contributes an aggregate amount
+27 of one thousand dollars ($1,000) or more to such nonbusiness entity.
+28 Such contributions shall not be expended until all such donations of one
+29 thousand dollars ($1,000) or more have been traced back to an individual
+30 or business.
+31 (2) This statement shall be filed within thirty (30) days of when the
+32 one thousand dollar ($1,000) threshold mentioned in subsection (1) of this
+33 section is exceeded.
+34 SECTION 4. That Section 67-6607, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 67-6607. REPORTS OF CONTRIBUTIONS AND EXPENDITURES BY CANDIDATES AND
+37 POLITICAL COMMITTEES. (1) Each candidate or the political treasurer for each
+38 candidate, and each political committee or the political treasurer of each
+39 political committee, shall file with the secretary of state a statement of
+40 all contributions received and all expenditures and encumbrances made by or
+41 on behalf of the candidate or political committee, according to the schedule
+42 provided in this section. The statement shall itemize each contribution re-
+43 ceived and each expenditure or encumbrance made during the reporting period
+44 and shall include the following:
+45 (a) Under contributions, the statement shall include a list of all the
+46 contributions received, including any funds or property of the candi-
+47 date used to cover expenditures. The statement shall list the full name
+48 and complete address of each person who contributed an aggregate amount
+49 of more than fifty dollars ($50.00) and the amount contributed by that
+8
+1 person. The statement may list as a single item the total amount of con-
+2 tributions of fifty dollars ($50.00) or less; and
+3 (b) Under expenditures, the statement shall include the name and ad-
+4 dress of each person to whom an expenditure or encumbrance was made in
+5 the amount of twenty-five dollars ($25.00) or more, and the amount,
+6 date, and purpose of each such expenditure. Each expenditure or encum-
+7 brance in the amount of twenty-five dollars ($25.00) or more shall be
+8 evidenced by an invoice, receipt, or canceled check or an accurate copy
+9 thereof. Such evidence shall not be filed with the statement but shall
+10 be retained by the committee or candidate for a period of one (1) year
+11 after the statement has been filed. The statement may list as a single
+12 item the total amount of expenditures and encumbrances of less than
+13 twenty-five dollars ($25.00) without showing the exact amount of or re-
+14 quiring evidence of each such expenditure or encumbrance. Anything of
+15 value, other than money, paid for or contributed by any person shall be
+16 listed both as an expenditure and as a contribution.
+17 (2) For the first report under this section, the reporting period shall
+18 cover the period beginning with the first contribution, expenditure, or en-
+19 cumbrance through the end of the current reporting period. Each candidate
+20 and each political committee, or the treasurer for a candidate or political
+21 committee or ballot measure, shall file the report described under subsec-
+22 tion (1) of this section as follows:
+23 (a) In the year of the election, a monthly report shall be filed for each
+24 month of the year. Each report shall be filed by the tenth day of the
+25 month following the month being reported; and
+26 (b) For the nonelection year, an annual report covering the nonelection
+27 year shall be filed by January 10 of the following year.
+28 (3) Notwithstanding any other reports required under this section,
+29 each candidate and each political committee, or the political treasurer for
+30 each candidate and each political committee, shall notify the secretary of
+31 state of any contribution of one thousand dollars ($1,000) or more. This
+32 notification shall be made within forty-eight (48) hours after the receipt
+33 of such contribution and shall include the name of the candidate, political
+34 committee or measure, the identification of the contributor, and the date of
+35 receipt and amount of the contribution. The notification shall be in addi-
+36 tion to the reporting of these contributions in the regular reports.
+37 (4)(a) In the case of a political committee receiving contributions
+38 in support of or in opposition to a candidate from a person who is not
+39 an individual or business and has donated aggregate contributions of
+40 one thousand dollars ($1,000) or more during the previous twelve (12)
+41 months to the reporting political committee, the political committee
+42 shall also provide a list of the full names and complete addresses of
+43 each person who in turn has made an aggregate contribution of one thou-
+44 sand dollars ($1,000) or more to such donor who is not an individual or
+45 business within the previous twelve (12) months. Such donor disclosure
+46 shall continue tracing back through each donor who is not an individual
+47 or business until either a donor's total contributions equal less than
+48 one thousand dollars ($1,000) or all donors have been identified as in-
+49 dividuals or businesses in accordance with the transparency provisions
+50 of section 67-6614, Idaho Code.
+9
+1 (b) In order to provide the proper reports required pursuant to para-
+2 graph (a) of this subsection, any political committee receiving aggre-
+3 gate contributions of one thousand dollars ($1,000) or more in support
+4 of or in opposition to a candidate from a person who is not an indi-
+5 vidual or business shall request a list from such person of the names,
+6 addresses, and donated amounts of one thousand dollars ($1,000) or more
+7 that were made to such donor during the previous twelve (12) months.
+8 Such contributions shall not be expended until all such donations of one
+9 thousand dollars ($1,000) or more have been traced back to an individual
+10 or business.
+11 (c) The secretary of state shall prescribe forms for the reporting of
+12 the disclosures required pursuant to this subsection.
+13 (4) (5) All reports required pursuant to this section shall be filed
+14 online with the secretary of state, unless a waiver has been provided under
+15 section 67-6623, Idaho Code, by no later than midnight on the date the filing
+16 is due.
+17 (5) (6) Reports required to be filed under the provisions of this sec-
+18 tion shall be filed until the account no longer shows any unexpended balance
+19 of contributions or expenditure deficit.
+20 SECTION 5. That Section 67-6610, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 67-6610. CONTRIBUTION IN EXCESS OF FIFTY DOLLARS. (a) (1) Any person
+23 who contributes more than an aggregate amount of fifty dollars ($50.00)
+24 (including one or more smaller contributions which aggregate more than fifty
+25 dollars ($50.00) in any one calendar year) or more during the previous twelve
+26 (12) months to a candidate or political committee shall accompany the con-
+27 tribution with a statement of his full name and complete address.
+28 (b) (2) If a political treasurer is offered or receives a payment or
+29 contribution of more than in excess of fifty dollars ($50.00), or which to-
+30 gether with prior contributions from the same person during that calendar
+31 year exceeds fifty dollars ($50.00), during the previous twelve (12) months
+32 and there is no statement of the full name and complete address of the person
+33 making the contribution, the contribution shall be returned to the contribu-
+34 tor if his identity can be ascertained. If the contributor's identity cannot
+35 be ascertained, the contribution shall be transmitted immediately by the po-
+36 litical treasurer who received it to the state controller for deposit in the
+37 public school permanent endowment fund.
+38 SECTION 6. That Section 67-6611, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-6611. INDEPENDENT EXPENDITURES. (1) Each person, other than a can-
+41 didate in an Idaho election, who makes independent expenditures in an aggre-
+42 gate amount exceeding one hundred dollars ($100) in support of or in opposi-
+43 tion to any one (1) candidate, political committee, or measure shall file a
+44 statement of the expenditure with the secretary of state.
+45 (2) Statements shall be filed with the secretary of state, not less than
+46 seven (7) days prior to the primary and general election and thirty (30) days
+47 after the primary and general election.
+10
+1 (3) The statement shall contain the following information:
+2 (a) The name and address of any person to whom an expenditure in excess
+3 of fifty dollars ($50.00) has been made by any such person in support of
+4 or in opposition to any such candidate or measure during the reporting
+5 period, together with the amount, date, and purpose of each such expen-
+6 diture, including the identity of the candidate or measure, and whether
+7 the expenditure was made either in support of or in opposition to such
+8 candidate or measure; and
+9 (b) The total sum of all expenditures made in support of or in opposi-
+10 tion to any such candidate or measure.
+11 (4) In addition to the requirements set forth in subsections (1) and
+12 (2) of this section, each person, other than a candidate in an Idaho elec-
+13 tion, who makes independent expenditures in an aggregate amount of one thou-
+14 sand dollars ($1,000) or more after the sixteenth day before, but more than
+15 forty-eight (48) hours before, any primary or general election shall file
+16 a written statement of the expenditure with the secretary of state not more
+17 than forty-eight (48) hours from the time of such expenditure. The statement
+18 shall include the information required in subsection (3) of this section.
+19 (5)(a) Each person, other than a candidate in an Idaho election, making
+20 independent expenditures in support of or in opposition to a candidate
+21 shall report the name and address of each person who has donated contri-
+22 butions to the reporting person in the aggregate amount of one thousand
+23 dollars ($1,000) or more during the previous twelve (12) months. If the
+24 person donating contributions to the person making such independent
+25 expenditures is not an individual or business, the person making inde-
+26 pendent expenditures shall provide a list of the full name and complete
+27 address of each person who in turn has donated one thousand dollars
+28 ($1,000) or more within the previous twelve (12) months to the person
+29 donating to the person making such independent expenditures. Such
+30 donor disclosure shall continue tracing back through each donor who is
+31 not an individual or business until either a donor's total contribu-
+32 tions equal less than one thousand dollars ($1,000) or all donors have
+33 been identified as individuals or businesses in accordance with the
+34 transparency provisions of section 67-6614, Idaho Code.
+35 (b) In order to provide the proper reports required pursuant to para-
+36 graph (a) of this subsection, any person, other than a candidate in an
+37 Idaho election, making independent expenditures or donating money to
+38 another person for the purpose of making independent expenditures in
+39 support of or in opposition to a candidate who receives aggregate con-
+40 tributions of one thousand dollars ($1,000) or more from a person who
+41 is not an individual or business shall request from such person a list
+42 of the names, addresses, and donated amounts of one thousand dollars
+43 ($1,000) or more that were made to such donor during the previous twelve
+44 (12) months. No independent expenditure shall be made until all such
+45 donations of one thousand dollars ($1,000) or more have traced back to
+46 an individual or business.
+47 SECTION 7. That Section 67-6612, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+11
+1 67-6612. DISCLOSURE OF PAYMENTS MADE TO SIGNATURE GATHERERS. (1) Any
+2 person who pays or provides other valuable consideration in an aggregate
+3 amount of one hundred dollars ($100) or more to another person or persons,
+4 in exchange for their actions or intended actions of gathering signatures
+5 on a ballot initiative petition or referendum, shall file a statement of the
+6 expenditure with the secretary of state.
+7 (2) The provisions of this section shall apply beginning on the date
+8 that the ballot initiative or referendum petitioners receive from the secre-
+9 tary of state the official ballot title for which the person is paying to have
+10 signatures gathered and shall continue for as long as the filer makes pay-
+11 ments to a signature gatherer or gatherers.
+12 (3) Statements shall be filed on or before the twentieth day of the
+13 month following the month during which the payments to the signature gath-
+14 erers were made.
+15 (4) The statement shall contain the following information:
+16 (a) The name and address of any signature gatherer to whom a payment
+17 in excess of fifty dollars ($50.00) has been made during the reported
+18 month; and
+19 (b) The total sum of all payments made to signature gatherers in the ag-
+20 gregate during the reported month.
+21 (5) In addition to the statements filed under subsection (3) of this
+22 section, any person who pays a signature gatherer or gatherers the aggregate
+23 amount of one thousand dollars ($1,000) or more during the fourteen (14) days
+24 prior to the election shall file a notice of the expenditures with the secre-
+25 tary of state not more than forty-eight (48) hours from the time of the expen-
+26 diture. The notice shall include the information required under subsection
+27 (4) of this section.
+28 (6)(a) A person required to report pursuant to this section shall also
+29 report the name and address of each person who has donated contributions
+30 in an aggregate amount of one thousand dollars ($1,000) or more during
+31 the previous twelve (12) months to the reporting person in support of
+32 a ballot measure. If the person donating such contribution is not an
+33 individual or business, the person required to report pursuant to this
+34 section shall provide a list of the names, addresses, and contribution
+35 amounts from each person who has in turn made aggregate contributions of
+36 one thousand dollars ($1,000) or more to the person donating to the per-
+37 son reporting pursuant to this section within the previous twelve (12)
+38 months. The donor disclosure shall continue tracing back through each
+39 donor who is not an individual or business until the aggregate dona-
+40 tions from a person equal less than one thousand dollars ($1,000) or all
+41 donors have been identified as individuals or businesses in accordance
+42 with the transparency provisions of section 67-6614, Idaho Code.
+43 (b) In order to provide the proper reports required pursuant to para-
+44 graph (a) of this subsection, any person required to report pursuant to
+45 this section for paying signature gatherers shall, upon the receipt of
+46 aggregate contributions of one thousand dollars ($1,000) or more from a
+47 person who is not an individual or business, request from such person a
+48 list of the names, addresses, and donated amounts of one thousand dol-
+49 lars ($1,000) or more that were made to such donor during the previous
+50 twelve (12) months.
+12
+1 SECTION 8. That Section 67-6614, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 67-6614. IDENTIFICATION OF SOURCE OF CONTRIBUTIONS AND EXPENDI-
+4 TURES. No contribution shall be made and no expenditure shall be incurred,
+5 directly or indirectly, in under a fictitious name, anonymously, or by one
+6 (1) person through an agent, relative, nonbusiness entity, political com-
+7 mittee, or other person in such a manner as to conceal the identity of the
+8 source of the contribution. In the case of contributions made by a corpora-
+9 tion, the names of the officers, directors, and equity shareholders holding
+10 over ten percent (10%) of shares in the corporation shall also be reported in
+11 any report required pursuant to this chapter.
+12 SECTION 9. That Section 67-6621, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 67-6621. DUTIES OF LOBBYISTS. A person required to register as a lob-
+15 byist under this chapter shall also have the following obligations, the vi-
+16 olation of which shall constitute cause for revocation of his registration,
+17 and may subject such person, and such person's employer or client, if such
+18 employer or client aids, abets, ratifies or confirms any such act, to other
+19 civil liabilities, as provided by this chapter:
+20 (1) Such persons shall obtain and preserve all accounts, bills,
+21 receipts, books, papers, and documents necessary to substantiate the finan-
+22 cial reports required to be made under this chapter for a period of at least
+23 three (3) years from the date of the filing of the statement containing such
+24 items, which accounts, bills, receipts, books, papers and documents shall
+25 be made available for inspection by the secretary of state at any reasonable
+26 time during such three (3) year period; provided, however, that if a lobbyist
+27 is required under the terms of his employment contract to turn any records
+28 over to his employer or client, responsibility for the preservation of such
+29 records under this subsection shall rest with such employer or client.
+30 (2) In addition, a person required to register as a lobbyist shall not:
+31 (a) Engage in any activity as a lobbyist before registering as such;
+32 (b) Knowingly deceive or attempt to deceive any legislator to any fact
+33 pertaining to any pending or proposed legislation;
+34 (c) Cause or influence the introduction of any bill or amendment
+35 thereto for the purpose of thereafter being employed to secure its de-
+36 feat;
+37 (d) Knowingly represent an interest adverse to any of his employers or
+38 clients without first obtaining such employers' or clients' consent
+39 thereto after full disclosure to such employers or clients of such ad-
+40 verse interest;
+41 (e) Exercise any economic reprisal, extortion, or unlawful retalia-
+42 tion upon any legislator by reason of such legislator's position with
+43 respect to, or his vote upon, any pending or proposed legislation; or
+44 (f) Accept any employment as a lobbyist for a compensation dependent
+45 in any manner upon the passage or defeat of any proposed or pending leg-
+46 islation or upon any other contingency connected with the action of the
+47 legislature or of either branch thereof or of any committee thereof.
+48 This contingent fee prohibition shall also apply to lobbying activities
+13
+1 that pertain to communications with executive officials as described in
+2 section 67-6602(9)(10), Idaho Code.
+3 SECTION 10. SEVERABILITY. The provisions of this act are hereby de-
+4 clared to be severable and if any provision of this act or the application
+5 of such provision to any person or circumstance is declared invalid for any
+6 reason, such declaration shall not affect the validity of the remaining por-
+7 tions of this act.
+8 SECTION 11. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOCNF;PGLEITADFGSN6,IOC,TODEAT;AGSN6,IOC,TOPEFRCNRSBYN;AGSN6,IOC,TOPEFRCNRSBYPLC;AGSN6,I,TOREPSRGCSINESOFF;AGSN6,IOC,TOPEFRCSBYPSMGITESADTOMEATLC;AGSN6,IOC,TOPRCNRSBYSEG;AGSN6OC,TOREPSRGINOFSEOSADE;AGSN6,IOCOPEACTCEREADTOMEATLCGS;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.LEITADF.ItisteitofteLetoiyaddeqdpoqocninftaswsdhteaeofqdpoqoc.TeLeftwnapnoreysslessofmyerinsforontoaceadteiyofshpnoreyietotep,itisiefrtepctokwwoisfhcsadtowtdetecsaefdbydkmtisnttdtoayndilorb.TeLefttskeisittotepcbeinmycsteisfgshcsartodosowhtescpfsyeganoltybetycnc,c,ortniovginamrtttyw,whlstoatanaeofaqdpoqorpbntepnedtesyfgteespgfregchdkmeLefrfsttacnbfagtepsttmyedosaeoyi,ifntc,bdsli.Inortodlteaeofqdpocnwnitmyntetadtobrrtitotweitd,tslnwlawmsoftep,r,awetostomecyiywoismgtecstthehdshaleitonenosinIoidofcgtoawwypstohebdacnofdeLefrfsttitisadeeaoonadoffgdkmyeswntya]
+[DELETED: .Tslsteisadoswoaentpgindkmyesinapnofbgadtopean,whcnbeiedetotelkoftyincer,adwhcstotemyoftepcbgctpsaebgedadheLefrfsttteaeofshneagrscdbeddifmsoftepcaeaokwwoaloftepsaebydgaloftelec,whc,int,dlteaeofqdpoqocrmywoaeadtob,oraeiyado,pginsdqdpoqor.IftslnisetcnbecysnwhisadesaentctastotevseseginegceLefrfsttuetefljsSeCtj,aej,addtctjee,adaetemesetoteaeofqdpocntnmsoftefljyaslgasdkmsaeadinIoe.Inantoorc,tsdsagrndfrdeinIotnilesbeteIojypsorqdpoqncswntyorinI.H,asedo,msofteIojyaejtassetoteofqdpoqocnbytepcasayoredo.Rgoregtepeofdkmyesioeswlhptodltepspnofqdpoqnrdtoaledo,igedmsoejywoayhetegtndfrttfmtepstyaeteflasofadcnbyoseditisteteitofteL,inortodlteaeofqdpoqocnwnitmynte,adtobrrtotweitdse,toawtepctosewohspybgbdteplcnofdkmycstthhaleitonesadpytevsoftewoaN2.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc,tefgtetefgm)""msap,c,bse,a,f,oraygpofto()ormeisfrwhamyofisreisddfmteseofgsors)()""msanilwossn,e,orrntopcoeadwohstnayoftef)Adteiscyp)Fdfrpco]
+[DELETED: )Rdacnfrtepeofpgteiscyfro;o)Meane,cdfrs,orrdshteitofpgteiscyfrorpsoftsc,anitslbepdtobeaceintestenfrhsorhroeulteithsfdtofeadnofcybytes)()""isaya,c,ffi,d,d,l,p,g,peorofmyoragofv,adayc,a,proro,wrorntlye,todoayoft,frssrdortober,btdsntitofesifshrtdsntedteayedfrshesadissdbyanifshe)()""msapnworscnfmarpnfrerfeorpewkbdonactona,btwoisntaneeofttp)()""isaya,c,ffi,d,d,l,p,g,p,snortrofmyoragofv,adayc,a,peororo,wrorntlye,teac,instoforinontoayc,plceorm.Shtmaoisplfsoroyofaceormsofhshdedortocresidinstofshcebtdsntieplfsudtopytecefgf.Shtmastergofpladplssfrlstlc,btdsntieoyhehyortgof""plssoftestcypyvrcnwsorasorilesntinesofteds()pypdfrbyayvnw.""s,frtepsoftsdsssinantorrfee,o,intecfanudpnorpsedinpee,sdwtcnorrtofesfmaysrtnteceorplcefrwmshssa.Frtepsoftsa,c,ortnmyosetslbeddtoheamyveettoteftveoftec)()""msayseorllg,s,rrpye)"nc"msaycninstoforinontoacefrentopcoeadaycninsto,orinont,am)()"gc"msayctbytnorr,pdinanroronab,dymdorddbyhdtoplr,o]
+[DELETED: ecsmetoplr,oroed)Uyrstoayc;a)Isb,p,m,d,meorddwnty()dsbeapyenoy()dsbeagle;a)Isbdt,pdinan,ddtdtoorddbyhdt,tecsmet,oeddtoanaettismsoftefrshpco)"gc"dsnti)Aynsa,ele,onorc,w,orlrtoteerpdinan,ororplntodorcdbyac,plc,orplp)Ayelesorosadbyabyntodorcdbyac,plc,orplp)Aycnbypsmeinterrceaeoftrbsoraycnmebyamnsytomsofshonadtrf)Aycnttrstoayceoyaspfteprneofablors)Acnttcsaneeoraniteeurtsc)()""msanilwopsasefrwrorcnfmwhteiserwsflettsuractfrh,wnoro)()"eo"m)Teg,ltg,syofs,sec,set,ayg,stofpnadaydyorsfmrofayoftei,wnteceadseofhsorhre,isddinmrpgdsfrteo)Asedtorayd,dyd,drorbucfasedadedins2ad6,IoC)Tempadteeeorcfaeofaybdorcnttisadtomersorcgaspttosn6,IoC)Tempadteeeorcfaeofaybdorcnttgsayofteseddinsn6,IoC,ntigpcs)TempadteeeorcfaeofteIopcusc,teIoilc,adteIosetxc;a)Temsofteggbdofteseiefdaemsofteggbdadteeeorcfa]
+[DELETED: eorofteIohgadfea,teIyrsa,adteIosebga)()""isayp,c,s,d,l,a,d,orgtofmyorafv,adisac,p,ora,wrornye,tomeane.Tetm""asapetop,aptoratrofagofveiefrg,s,p,fsoragofvrtepeofa,bgorhgaypcolo,oraginfgorogayenc)()"te"msayeebyapracneyagtee,peordtocyidceormettisntmewhtecnorwhteprcto,orincnw,orattec,orincnw,orattertofasno,acrayatoradceofteceorplcgorogam.Asudintss,"ya"msaycncgameageeordti,btntldt,teneoftecrm,orenshas"ef""""""tytf""ea"""or")()""ad""ehmsagthc,orcgostomectw,msofteleoecsoraneeoltoieteanorrnofaylnbyteleoftesfIooraycetforbytegrortodpormnrsw,peglw,orenmsofteoreeo.""ad""slaomgwhaneeolfrtepeofigt,a,anorrnofayreorrgadinsn6,IoC,orayrgd,p,c,bdorbdp,flssa,orb.Nr""nr""isanasorosatofcgwhtemsofttaro;adpdttnr""nr""igwhaneeolfrtepeofcgognsfgteadofabdorac,csigogllwkadnscdbyadwsfreea,isbnpsinlnororcdm,orcsagadbnmfteleadeeosadtre,orbyssweagintrolcyorwnteceaeoftre)""isaypnwol)()"sc"mstepnonwebfteltisa,dyori,asac,adbywmttorlseriscdfragasal)()"se"mstepnorpsfrwmtisane,adbywmteltiscdfrasal]
+[DELETED: )()"lgto"msaypyedorayplsnofteseorsldtttisnt,j,s,orflo)()""msayplsdtotepefrtlorrnatane,igayi,rle,orrnoforattotesec.Aeorrmplslbeddamewnteayg,cyp,orcya,asa,rsidgsitabtt.Arlslbeddameunafterlpnastofmpttosn3,IoC)()"se"msaygpofto()ormei,ac,a,f,p,c,cboront)Dsntheasisplpetectofbsasfrp;a)Rddgtepgorctcryrc,gsormpf,whinteaeedtt()ofistlrsfrshy)()""msani,c,a,p,c,plp,cborororgpofp)()"lc"m)Aypnsyddtostoroeayceorm;o)Aypnworscsadmsesinategoetdds()inaycryrfepeofsgorogoe()ormecsorm)Ac,dtorrlceofardplpyslntbecdaplcefrtepftscrusshpycehseseetdds()inacry)()"lt"msaniladbyaceorplceaspdinsn6,IoC)()"co"msayl,l,j,oeoeorpnttisfdbyenbtdsntieteofptcN3.TtSn6,IoC,b,adteseishdtordasf.ESBYNSE.()Aynseyttisntaplceasddinsn6,I,mgesinorddtovsinteseofIoinategoetdds()inaycryrfepeofsgorogoe()ormecsormlfeastwhtesyofs.Testsli)Teneadasoftenseyadteneadasofisplorord]
+[DELETED: )Teneadasofehpnwef,d,prorcnpdtoshnseydgefteprto()cryshsedfehdd)orwohspdorhsadtopyf,d,psoronegfehdds()tosheydgtecty;a)Inteceofanseymgesinsforinontoac,teflneadceafehpnwohscdtotergnsenaeatofoetdds()ormedepste()m.Iftepnmgtecntotenseyisntanilorb,ttslaoiealtwhteflneadceasofehpnwointnhsddanaeatofodds()ormetoshpndgtotenseywoisntanilorbswntepe()m.Tedeofdsslcetkthehdrwoisntanilorb,ueaecsfmapnellstnoets()oraldshebnidasiso,inaewhtetypsofs,IoC.Inortopeteprrsrttotsp,aynseyrdtorrtssnslrtten,a,addtofoetdds()ormefmaypnwoitanilorbsadwocsanaeafoetdds()ormetoshnsehcsslntbeedulalshdsofodds()ormehebntdbktoanirb)Tsstslbefdwnty()dsofwntetddr()tdmdinsn()oftniseN4.TtSn6,IoC,b,adteseishdtordasf.RSOFCSADESBYCSALC.()Ehceortepltrfre,adehplceortepltrofelc,slfewhtesyofseastolcsrdadalesadesmebyonbfofteceorplc,agtotesdintss.Testslieehcnrdadeheeoreemedgtergpdslietef)Urc,testsliealtofaltsr,igayfsorpyofteceudtocre.Testslltteflndceasofehpnwocdanaeafmetnfyds()adteatcdbyt]
+[DELETED: .Testmyltasaseimtetlatofcsoffyds()orl;a)Ure,testslieteneadasofehpntowmaneeoreewsmeieatofteds()orm,adtea,adpeofehshe.Eheeoreeinteatofteds()ormeslbdbyani,r,orcdckoranaec.Sheeslntbefdwhtestbtserdbyteceorcefrapdofoe()yrtesthsbnf.Testmyltasasmtetlatofesadesoflsteds()wtsgteetatoforrgeeofehsheeore.Ago,ortnm,pdfrorcdbyaypnslbdbhasaneeadasac)Frteftrturtss,tergpdsrtepdbgwhteftc,e,oreethteedoftectrgp.Ehcdehplc,ortetrfraceorpeorbtm,slfetertddursn()oftssnasf)Inteyroftee,amyrtslbefdfrehoftey.Ehrtslbefdbytethdyofthfgtemhbgr;a)Frtenny,analrtcgtenrslbefdbyJy10oftefgy)Ngayorrsrdurtsshceadehplc,ortepltrfhceadehplc,slnytesyoeofaycnofoetdds()orm.Tnslbemewnft()hsarterfshcnadslieteneoftec,peorm,teinoftec,adtedeotadatoftec.Tennslbeinantotergoftecsinterrr)Inteceofaplcergcnstoforinontoacefmapnwoisnnilorbsadhsddaecsoetdds()ormedgtepste(stotergplc,teplclaopealtofteflnsadceasohpnwointnhsmeanaecnofoetdds()ormetoshdrwoisntaniloswntepste()m.Shdrdlcetgbkthehdrwoisntanirbsuleradstlcsellstetdds()oraldshebnidasisorbsinaewhtetypfsn6,IoC]
+[DELETED: )Inortopeteprrsrdpttoph()oftss,ayplcergaecsofoetdds()ormeinsforinontoacefmapnwoisntanilorbsslrtaltfmshpnoften,adddasofoetdds()ormtwemetoshdrdgtepste()mhcsslntbeedulalshdsofodds()ormehebntdbktoanirb)Tesyofseslpefsfrtergoedsrdpttotss)()Alrsrdpttotssnslbefewhtesyofs,usawrhsbnpdun6,IoC,bynolrtnmtontedetefsd)()RsrdtobefdurtepsoftssnslbefdulteatnolrssayudbfcsoreedN5.TtSn6,IoC,b,adteseishdtordasf.CNINESOFFYD.()()Aypocsmetnanaeatoffyds(goeormesrcswhaemetnfs()inayoecry)ormedgtepst)mstoaceorplceslaytecnwhastofhsflneadcea)()Ifapltrisodorrsaptonofmetninesoffyds(,orwhtrwhprcsfmtesepndgttcresfyds(,dgtepste()mdteisnostofteflneadceasoftepgtec,tecnslberdtotecrifhsiycnbea.Iftecsiycea,tecnslbetdiybytepltrwordittotesecrfrdtintcslptetfN6.TtSn6,IoC,b,adteseishdtordasf.ITE.()Ehp,ortnaceinanIoe,womsitesinanaeategoehdds()instoforinontoayoe()c,plc,ormeslfetofteeewhtesyofs)Ssslbefdwhtesyofs,ntlstn()dsprtotepyadglenadty()drtepyadgle]
+[DELETED: )Testslcntefgi)Teneadasofaypntowmaneeineffyds()hsbnmebyayshpninstorinontoayshceormedgter,trwhtea,d,adpeofehshe,igteiyofteceorm,adweeewsmeerinstoforinontoseorm;a)Tetlsmofalesmeinstoforinontoayshceorm)Inantotersstfhinss()a)oftss,ehp,ortnaceinanIoe,womsitesinanaeatofoetdds()ormearteshdyb,btmett()hsb,aypyorglenslfwnstofteeewhtesyofsentmnft()hsfmteteofshe.Teslieteinrdinsn()oftss)Ehp,ortnaceinanIoe,mtesinstoforinontoaclrtteneadasofehpnwohsddcstotergpninteaeatofoets()ormedgtepste()m.Iftndgcstotepnmgshisisntanilorb,tepnmgitesslpealtofteflneadcsofehpnwointnhsddoetdd)ormewntepste()mstotepgtotepnmgshite.Srdeslcetgbkthehdrwoitanilorbsuleradstlcsellstnoetdds()oraldshnidasisorbsinaewhtypsofsn6,IoC)Inortopeteprrsrdpttoph()oftss,ayp,ortnaceinaoe,mgitesordgmytrpnfrtepeofmgitesitoforinontoaceworsaecsofoetdds()ormefmapnwsntanilorbsslrtfmshpnalften,a,adddasofoetdd)ormettwemetoshdrdgtepst)m.Noiteeslbemeulalssofoetdds()ormehetdbktnilorbN7.TtSn6,IoC,b,adteseishdtordasf]
+[DELETED: .DEOFPSMETOSEG.()Anwopsorpsorvecninanatofoehdds()ormetoarpnorpneefrtrasoridasofggsnabtiepnorr,slfeastoftewhtesyofs)Tepsoftssnslaybgontedttebtieorrmpsrefmtesyofseteolbttefrwhtepnispgtohsgdadslcefraslgastefrmspstoasegrorg)Ssslbefdonorbetethdyofthfgtemhdgwhtepstotesegswem)Testslcntefgi)Teneadasofaysegrtowmapnesoffyds()hsbnmedgter;a)Tetlsmofalpsmetosegsinteaedgterdm)Inantotessfdursn()oft,aypnwopsasegrorgsteatofoetdds()ormedgtefn()drtoteenslfeaneofteeswhtesyofsentmetnft()hsfmteteoftee.Teneslieteinrdurs)oftss)Apnrdtortpttotssnslatteneadasofehpnwohsddcnanaeatofoetdds()ormedepste()mstotergpninstobtm.Iftepndgshcnisntalorb,tepnrdtortpttotnslpealtoften,a,adcsfmehpnwohsintnmeaecsoetdds()ormetotepndgtotepnrgpttotssnwntepste(.Tedrdeslcetgbktherwoisntanilorbsulteaedsfmapnellstnoetdds()orashebnidasisorbsinahtetypsofsn6,IoC)Inortopeteprrsrdpttoph()oftss,aypnrdtortpttssnfrpgsegss,untertoecsofoetdds()ormefmnwoisntanilorb,rtfmshpntoften,a,adddasofoetdds()ormettwemetoshdrdgtepe()m]
+[DELETED: N8.TtSn6,IoC,b,adteseishdtordasf.INOFSEOFCSADE.Nocnslbemeadnoeeslbeiyori,inurafsn,a,orbyo)pnthana,r,nse,plc,ororpninshamrastoclteiyofteoftec.Inteceofcsmebyac,tensofteo,d,adeysshrtnpt()ofssintecnslaoberdiyrtrdpttotscN9.TtSn6,IoC,b,adteseishdtordasf.DSOFL.Apnrdtorrasalturtscrslaohetefgo,tevnofwhslcecefrrnofhsrdmystshp,adshpserorc,ifsrorcta,a,rsorcsaysha,tooll,aspdbytsc)Shpsslonadpeala,b,b,p,addsnytoseteflrsrdtobemeurtscrfrapdofatle()ysfmtedeoftefgoftestcgs,wha,b,r,b,psaddssemeaefrinbytesyofseatayredgshte()yrp;p,h,ttifalsrdurtetsofhsetcttotnayrrtohserorc,ryfrtepnofssurtssnslrtwhsherorc)Ina,apnrdtorrasaltsln)Eeinayayasaltbergass)Kydeorattodeaylrtoayfgtoaypgorpdl)Ceorieteinofaybloraofrtepeoftrbgedtoseisd)Kyrtanitaetoayofhsesoswtftogshe'orc'coarfldetoshesorcsofshaei)Eeayecr,e,orulrnunaylrbyrnofshlspnwtt,orhsveu,aypgorpdl;o)Atayetasaltfracndnaymruntepeordtofaypdorpglnorunayorcycdwhteanofteoroferbhtforofaycetsctfepnslaoaytolga]
+[DELETED: tpntocswheeosasddin6,IoCN1.S.Tepsoftsataehyddtobeseadifaypnoftsatorteafshpntoaypnorceisddidfra,shdnslntattevyoftergpsoftsaN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1186
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CAMPAIGN FINANCE; PROVIDING LEGISLATIVE INTENT AND FINDINGS;
+3 AMENDING SECTION 67-6602, IDAHO CODE, TO DEFINE A TERM; AMENDING SEC-
+4 TION 67-6606, IDAHO CODE, TO PROVIDE FOR CERTAIN REPORTS BY NONBUSINESS
+5 ENTITIES; AMENDING SECTION 67-6607, IDAHO CODE, TO PROVIDE FOR CER-
+6 TAIN REPORTS BY POLITICAL COMMITTEES; AMENDING SECTION 67-6610, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING CONTRIBUTIONS IN EXCESS OF FIFTY
+8 DOLLARS; AMENDING SECTION 67-6611, IDAHO CODE, TO PROVIDE FOR CERTAIN
+9 REPORTS BY PERSONS MAKING INDEPENDENT EXPENDITURES AND TO MAKE A TECH-
+10 NICAL CORRECTION; AMENDING SECTION 67-6612, IDAHO CODE, TO PROVIDE
+11 FOR CERTAIN REPORTS BY SIGNATURE GATHERERS; AMENDING SECTION 67-6614,
+12 IDAHO CODE, TO REVISE PROVISIONS REGARDING IDENTIFICATION OF SOURCE OF
+13 CONTRIBUTIONS AND EXPENDITURES; AMENDING SECTION 67-6621, IDAHO CODE,
+14 TO PROVIDE A CORRECT CODE REFERENCE AND TO MAKE A TECHNICAL CORRECTION;
+15 PROVIDING SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN
+16 EFFECTIVE DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. LEGISLATIVE INTENT AND FINDINGS. It is the intent of the Leg-
+19 islature to identify and discourage quid pro quo corruption in fact as well
+20 as diminish the appearance of quid pro quo corruption. The Legislature finds
+21 that when a person or entity spends large sums of money either in support
+22 of or opposition to a candidate and the identity of such person or entity is
+23 opaque to the public, it is impossible for the public to know who is funding
+24 such campaigns and to what degree those campaigns are funded by dark money
+25 that is not tied to any named individual or business. The Legislature finds
+26 that this knowledge is important to the public because in many cases the in-
+27 dividuals funding such campaigns appear to do so with the specific purpose
+28 of surreptitiously electing an official they believe they can control, ca-
+29 jole, or threaten into voting in a manner that they wish, which leads to at
+30 least an appearance of a quid pro quo relationship between the person elected
+31 and those secretly funding the entities paying for electioneering campaigns
+32 with dark money.
+33 The Legislature further finds that a common belief among the populace
+34 is that many elected officials are overly influenced, if not controlled, by
+35 well-funded special interests. In order to dispel the appearance of quid pro
+36 quo corruption when it may not exist and to better root it out where it does
+37 exist, this legislation will allow members of the public, regulators, and
+38 law enforcement officials to more clearly identify who is making the contri-
+39 butions that have had such a large impact on election outcomes in Idaho in-
+40 stead of continuing to allow wealthy players to hide behind a curtain of dark
+41 money.
+42 The Legislature further finds that innocent individuals and entities
+43 are also often accused of financing dark money expenditures when they are
+
+2
+1 not. This leaves these individuals and organizations who are not partici-
+2 pating in dark money expenditures in a position of being asked to prove a neg-
+3 ative, which can be impossible due to the lack of transparency in campaign
+4 finance reporting, and which contributes to the majority of the public be-
+5 lieving corrupt practices are being employed and hidden.
+6 The Legislature further finds that the appearance of such negative and
+7 damaging relationships could be dispelled if members of the public are able
+8 to know who all of the players are by disclosing all of the large contribu-
+9 tors, which can, in turn, dispel the appearance of quid pro quo corruption
+10 for many who are assumed to be, or are incorrectly accused of, participat-
+11 ing in suspected quid pro quo relationships. If this legislation is enacted,
+12 it can be clearly shown which individuals and entities are not contributing
+13 significant amounts to the various entities engaging in electioneering cam-
+14 paigns.
+15 The Legislature further finds that unlike the federal judiciary,
+16 Idaho's Supreme Court justices, appellate judges, and district court judges
+17 are elected, and are therefore more susceptible to the appearance of quid pro
+18 quo corruption than members of the federal judiciary as long as dark money
+19 contributions are allowed in Idaho elections. In addition to other consid-
+20 erations, this demonstrates a greater need for disclosure in Idaho than in
+21 federal elections because the Idaho judiciary presides over quid pro quo
+22 corruption cases when they occur in Idaho. However, as elected officials
+23 themselves, members of the Idaho judiciary are just as susceptible to the
+24 appearance of quid pro quo corruption by the public as any other elected of-
+25 ficial. Reducing or eliminating the practice of dark money expenditures in
+26 Idaho elections will help to dispel the public's perception of quid pro quo
+27 corruption related to all elected officials, including elected members of
+28 the judiciary who arguably have the greatest need for trust from the public,
+29 as they are the final arbiters of alleged corruption by officials elected in
+30 Idaho.
+31 It is therefore the intent of the Legislature, in order to dispel the ap-
+32 pearance of quid pro quo corruption when it may not exist, and to better root
+33 it out where it does exist, to allow the public to see who has previously been
+34 hiding behind the proverbial curtain of dark money contributions that have
+35 such a large impact on elections and potentially the votes of those who are
+36 elected.
+37 SECTION 2. That Section 67-6602, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 67-6602. DEFINITIONS. As used in this chapter, the following terms
+40 have the following meanings:
+41 (1) "Business" means a partnership, corporation, business entity, as-
+42 sociation, firm, or any group of two (2) or more individuals for which a ma-
+43 jority of its revenue is derived from the sale of goods or services.
+44 (1) (2) "Candidate" means an individual who seeks nomination, elec-
+45 tion, or reelection to public office and who has taken any of the following
+46 actions:
+47 (a) Announced the individual's candidacy publicly;
+48 (b) Filed for public office;
+
+3
+1 (c) Received a contribution for the purpose of promoting the individ-
+2 ual's candidacy for office; or
+3 (d) Made an expenditure, contracted for services, or reserved space
+4 with the intent of promoting the individual's candidacy for office.
+5 For purposes of this chapter, an incumbent shall be presumed to be a can-
+6 didate in the subsequent election for his or her office until the in-
+7 cumbent has failed to file a declaration of candidacy by the statutory
+8 deadline.
+9 (2) (3) "Compensation" includes any advance, conveyance, forgiveness
+10 of indebtedness, deposit, distribution, loan, payment, gift, pledge or
+11 transfer of money or anything of value, and any contract, agreement, promise
+12 or other obligation, whether or not legally enforceable, to do any of the
+13 foregoing, for services rendered or to be rendered, but does not include
+14 reimbursement of expenses if such reimbursement does not exceed the amount
+15 actually expended for such expenses and is substantiated by an itemization
+16 of such expenses.
+17 (3) (4) "Contractor" means a person who receives compensation from an-
+18 other person for either full-time or part-time work based on a contract or
+19 compensation agreement, but who is not an employee of that person.
+20 (4) (5) "Contribution" includes any advance, conveyance, forgiveness
+21 of indebtedness, deposit, distribution, loan, payment, gift, pledge, sub-
+22 scription or transfer of money or anything of value, and any contract, agree-
+23 ment, promise or other obligation, whether or not legally enforceable, to
+24 make a contribution, in support of or in opposition to any candidate, polit-
+25 ical committee or measure. Such term also includes personal funds or other
+26 property of a candidate or members of his household expended or transferred
+27 to cover expenditures incurred in support of such candidate but does not in-
+28 clude personal funds used to pay the candidate filing fee. Such term also
+29 includes the rendering of personal and professional services for less than
+30 full consideration, but does not include ordinary home hospitality or the
+31 rendering of "part-time" personal services of the sort commonly performed
+32 by volunteer campaign workers or advisors or incidental expenses not in ex-
+33 cess of twenty-five dollars ($25.00) personally paid for by any volunteer
+34 campaign worker. "Part-time" services, for the purposes of this definition,
+35 means services in addition to regular full-time employment, or, in the case
+36 of an unemployed person or persons engaged in part-time employment, services
+37 rendered without compensation or reimbursement of expenses from any source
+38 other than the candidate or political committee for whom such services are
+39 rendered. For the purposes of this act, contributions, other than money or
+40 its equivalent shall be deemed to have a money value equivalent to the fair
+41 market value of the contribution.
+42 (5) (6) "Election" means any state or local general, special, recall,
+43 or primary election.
+44 (6) (7) "Election campaign" means any campaign in support of or in oppo-
+45 sition to a candidate for election to public office and any campaign in sup-
+46 port of, or in opposition to, a measure.
+47 (7) (8)(a) "Electioneering communication" means any communication
+48 broadcast by television or radio, printed in a newspaper or on a bill-
+49 board, directly mailed or delivered by hand to personal residences, or
+
+4
+1 telephone calls made to personal residences, or otherwise distributed
+2 that:
+3 (i) Unambiguously refers to any candidate; and
+4 (ii) Is broadcasted, printed, mailed, delivered, made or dis-
+5 tributed within thirty (30) days before a primary election or
+6 sixty (60) days before a general election; and
+7 (iii) Is broadcasted to, printed in a newspaper, distributed to,
+8 mailed to or delivered by hand to, telephone calls made to, or
+9 otherwise distributed to an audience that includes members of the
+10 electorate for such public office.
+11 (b) "Electioneering communication" does not include:
+12 (i) Any news articles, editorial endorsements, opinion or com-
+13 mentary, writings, or letter to the editor printed in a newspaper,
+14 magazine, or other periodical not owned or controlled by a candi-
+15 date, political committee, or political party;
+16 (ii) Any editorial endorsements or opinions aired by a broadcast
+17 facility not owned or controlled by a candidate, political commit-
+18 tee, or political party;
+19 (iii) Any communication by persons made in the regular course and
+20 scope of their business or any communication made by a membership
+21 organization solely to members of such organization and their fam-
+22 ilies;
+23 (iv) Any communication that refers to any candidate only as part
+24 of the popular name of a bill or statute;
+25 (v) A communication that constitutes an expenditure or an inde-
+26 pendent expenditure under this chapter.
+27 (8) (9) "Employee" means an individual who performs a service for wages
+28 or other compensation from which the individual's employer withholds fed-
+29 eral employment taxes under a contract for hire, written or oral.
+30 (9) (10) "Executive official" means:
+31 (a) The governor, lieutenant governor, secretary of state, state con-
+32 troller, state treasurer, attorney general, superintendent of public
+33 instruction and any deputy or staff member of any of those individuals
+34 who, within the course and scope of his or her employment, is directly
+35 involved in major policy-influencing decisions for the office;
+36 (b) A state department or agency director, deputy director, division
+37 administrator or bureau chief as established and enumerated in sections
+38 67-2402 and 67-2406, Idaho Code;
+39 (c) The membership and the executive or chief administrative officer
+40 of any board or commission that is authorized to make rules or conduct
+41 rulemaking activities pursuant to section 67-5201, Idaho Code;
+42 (d) The membership and the executive or chief administrative officer
+43 of any board or commission that governs any of the state departments
+44 enumerated in section 67-2402, Idaho Code, not including public school
+45 districts;
+46 (e) The membership and the executive or chief administrative officer
+47 of the Idaho public utilities commission, the Idaho industrial commis-
+48 sion, and the Idaho state tax commission; and
+49 (f) The members of the governing board of the state insurance fund and
+50 the members of the governing board and the executive or chief adminis-
+
+5
+1 trative officer of the Idaho housing and finance association, the Idaho
+2 energy resources authority, and the Idaho state building authority.
+3 (10) (11) "Expenditure" includes any payment, contribution, subscrip-
+4 tion, distribution, loan, advance, deposit, or gift of money or anything
+5 of value, and includes a contract, promise, or agreement, whether or not
+6 legally enforceable, to make an expenditure. The term "expenditure" also
+7 includes a promise to pay, a payment or a transfer of anything of value in
+8 exchange for goods, services, property, facilities or anything of value
+9 for the purpose of assisting, benefiting or honoring any public official or
+10 candidate, or assisting in furthering or opposing any election campaign.
+11 (11) (12) "Independent expenditure" means any expenditure by a person
+12 for a communication expressly advocating the election, passage or defeat of
+13 a clearly identified candidate or measure that is not made with the coopera-
+14 tion or with the prior consent of, or in consultation with, or at the consent
+15 of, or in consultation with, or at the request of a suggestion of, a candidate
+16 or any agent or authorized committee of the candidate or political committee
+17 supporting or opposing a measure. As used in this subsection, "expressly ad-
+18 vocating" means any communication containing a message advocating election,
+19 passage or defeat including, but not limited to, the name of the candidate
+20 or measure, or expression such as "vote for," "elect," "support," "cast your
+21 ballot for," "vote against," "defeat" or "reject."
+22 (12) (13) "Lobby" and "lobbying" each means attempting through contacts
+23 with, or causing others to make contact with, members of the legislature or
+24 legislative committees or an executive official to influence the approval,
+25 modification or rejection of any legislation by the legislature of the state
+26 of Idaho or any committee thereof or by the governor or to develop or main-
+27 tain relationships with, promote goodwill with, or entertain members of the
+28 legislature or executive officials. "Lobby" and "lobbying" shall also mean
+29 communicating with an executive official for the purpose of influencing the
+30 consideration, amendment, adoption or rejection of any rule or rulemaking as
+31 defined in section 67-5201, Idaho Code, or any ratemaking decision, procure-
+32 ment, contract, bid or bid process, financial services agreement, or bond
+33 issue. Neither "lobby" nor "lobbying" includes an association's or other
+34 organization's act of communicating with the members of that association
+35 or organization; and provided that neither "lobby" nor "lobbying" includes
+36 communicating with an executive official for the purpose of carrying out
+37 ongoing negotiations following the award of a bid or a contract, communica-
+38 tions involving ongoing legal work and negotiations conducted by and with
+39 attorneys for executive agencies, interactions between parties in litiga-
+40 tion or other contested matters, or communications among and between members
+41 of the legislature and executive officials and their employees, or by state
+42 employees while acting in their official capacity or within the course and
+43 scope of their employment.
+44 (13) (14) "Lobbyist" includes any person who lobbies.
+45 (14) (15) "Lobbyist's client" means the person on whose behalf the lob-
+46 byist is acting, directly or indirectly, as a contractor, and by whom the
+47 lobbyist or lobbyist's employer is compensated for acting as a lobbyist.
+48 (15) (16) "Lobbyist's employer" means the person or persons for whom a
+49 lobbyist is an employee, and by whom the lobbyist is compensated for acting
+50 as a lobbyist.
+
+6
+1 (16) (17) "Local government office" means any publicly elected office
+2 for any political subdivision of the state or special district that is not a
+3 legislative, judicial, statewide, or federal office.
+4 (17) (18) "Measure" means any proposal submitted to the people for their
+5 approval or rejection at an election, including any initiative, referendum,
+6 recall election, or revision of or amendment to the state constitution. An
+7 initiative or referendum proposal shall be deemed a measure when the attor-
+8 ney general, county prosecutor, or city attorney, as appropriate, reviews it
+9 and gives it a ballot title. A recall shall be deemed a measure upon approval
+10 of the recall petition as to form pursuant to section 34-1704, Idaho Code.
+11 (18) (19) "Nonbusiness entity" means any group of two (2) or more indi-
+12 viduals, a corporation, association, firm, partnership, committee, club or
+13 other organization that:
+14 (a) Does not have as its principal purpose the conduct of business ac-
+15 tivities for profit; and
+16 (b) Received during the preceding or current calendar year contribu-
+17 tions, gifts or membership fees, which in the aggregate exceeded ten
+18 percent (10%) of its total receipts for such year.
+19 (19) (20) "Person" means an individual, corporation, association,
+20 firm, partnership, committee, political party, club or other organization
+21 or group of persons.
+22 (20) (21) "Political committee" means:
+23 (a) Any person specifically designated to support or oppose any candi-
+24 date or measure; or
+25 (b) Any person who receives contributions and makes expenditures in an
+26 amount exceeding one thousand dollars ($1,000) in any calendar year for
+27 the purpose of supporting or opposing one (1) or more candidates or mea-
+28 sures.
+29 (c) A county, district or regional committee of a recognized politi-
+30 cal party shall not be considered a political committee for the purposes
+31 of this chapter unless such party committee has expenditures exceeding
+32 five thousand dollars ($5,000) in a calendar year.
+33 (21) (22) "Political treasurer" means an individual appointed by a can-
+34 didate or political committee as provided in section 67-6603, Idaho Code.
+35 (22) (23) "Public office" means any local, legislative, judicial, or
+36 state office or position that is filled by election but does not include the
+37 office of precinct committeeman.
+38 SECTION 3. That Section 67-6606, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-6606. EXPENDITURES BY NONBUSINESS ENTITY. (1) Any nonbusiness en-
+41 tity that is not a political committee as defined in section 67-6602, Idaho
+42 Code, making expenditures in or directed to voters in the state of Idaho in
+43 an amount exceeding one thousand dollars ($1,000) in any calendar year for
+44 the purpose of supporting or opposing one (1) or more candidates or measures
+45 shall file a statement with the secretary of state. The statement shall in-
+46 clude:
+47 (a) The name and address of the nonbusiness entity and the name and ad-
+48 dress of its principal officer or directors.;
+
+7
+1 (b) The name and address of each person whose fees, dues, payments
+2 or other consideration paid to such nonbusiness entity during either
+3 of the prior two (2) calendar years has exceeded five hundred dollars
+4 ($500) or who has paid or has agreed to pay fees, dues, payments or other
+5 consideration exceeding five hundred dollars ($500) to such entity dur-
+6 ing the current year.; and
+7 (c) In the case of a nonbusiness entity making expenditures in support
+8 of or in opposition to a candidate, the full name and complete address
+9 of each person who has contributed to the reporting nonbusiness entity
+10 an aggregate amount of one thousand dollars ($1,000) or more during
+11 the previous twelve (12) months. If the person making the contribu-
+12 tion to the nonbusiness entity is not an individual or business, the
+13 report shall also include a list with the full name and complete ad-
+14 dress of each person who in turn has donated an aggregate amount of one
+15 thousand dollars ($1,000) or more to such person donating to the non-
+16 business entity who is not an individual or business within the previous
+17 twelve (12) months. The disclosure of donors shall continue tracing
+18 back through each donor who is not an individual or business, until
+19 the aggregate contributions from a person equal less then one thousand
+20 dollars ($1,000) or all donors have been identified as individuals or
+21 businesses, in accordance with the transparency provisions of section
+22 67-6614, Idaho Code. In order to provide the proper reports required
+23 pursuant to this paragraph, any nonbusiness entity required to report
+24 under this subsection shall request the name, address, and donation
+25 amount of one thousand dollars ($1,000) or more from any person who is
+26 not an individual or business and who contributes an aggregate amount
+27 of one thousand dollars ($1,000) or more to such nonbusiness entity.
+28 Such contributions shall not be expended until all such donations of one
+29 thousand dollars ($1,000) or more have been traced back to an individual
+30 or business.
+31 (2) This statement shall be filed within thirty (30) days of when the
+32 one thousand dollar ($1,000) threshold mentioned in subsection (1) of this
+33 section is exceeded.
+34 SECTION 4. That Section 67-6607, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 67-6607. REPORTS OF CONTRIBUTIONS AND EXPENDITURES BY CANDIDATES AND
+37 POLITICAL COMMITTEES. (1) Each candidate or the political treasurer for each
+38 candidate, and each political committee or the political treasurer of each
+39 political committee, shall file with the secretary of state a statement of
+40 all contributions received and all expenditures and encumbrances made by or
+41 on behalf of the candidate or political committee, according to the schedule
+42 provided in this section. The statement shall itemize each contribution re-
+43 ceived and each expenditure or encumbrance made during the reporting period
+44 and shall include the following:
+45 (a) Under contributions, the statement shall include a list of all the
+46 contributions received, including any funds or property of the candi-
+47 date used to cover expenditures. The statement shall list the full name
+48 and complete address of each person who contributed an aggregate amount
+49 of more than fifty dollars ($50.00) and the amount contributed by that
+
+8
+1 person. The statement may list as a single item the total amount of con-
+2 tributions of fifty dollars ($50.00) or less; and
+3 (b) Under expenditures, the statement shall include the name and ad-
+4 dress of each person to whom an expenditure or encumbrance was made in
+5 the amount of twenty-five dollars ($25.00) or more, and the amount,
+6 date, and purpose of each such expenditure. Each expenditure or encum-
+7 brance in the amount of twenty-five dollars ($25.00) or more shall be
+8 evidenced by an invoice, receipt, or canceled check or an accurate copy
+9 thereof. Such evidence shall not be filed with the statement but shall
+10 be retained by the committee or candidate for a period of one (1) year
+11 after the statement has been filed. The statement may list as a single
+12 item the total amount of expenditures and encumbrances of less than
+13 twenty-five dollars ($25.00) without showing the exact amount of or re-
+14 quiring evidence of each such expenditure or encumbrance. Anything of
+15 value, other than money, paid for or contributed by any person shall be
+16 listed both as an expenditure and as a contribution.
+17 (2) For the first report under this section, the reporting period shall
+18 cover the period beginning with the first contribution, expenditure, or en-
+19 cumbrance through the end of the current reporting period. Each candidate
+20 and each political committee, or the treasurer for a candidate or political
+21 committee or ballot measure, shall file the report described under subsec-
+22 tion (1) of this section as follows:
+23 (a) In the year of the election, a monthly report shall be filed for each
+24 month of the year. Each report shall be filed by the tenth day of the
+25 month following the month being reported; and
+26 (b) For the nonelection year, an annual report covering the nonelection
+27 year shall be filed by January 10 of the following year.
+28 (3) Notwithstanding any other reports required under this section,
+29 each candidate and each political committee, or the political treasurer for
+30 each candidate and each political committee, shall notify the secretary of
+31 state of any contribution of one thousand dollars ($1,000) or more. This
+32 notification shall be made within forty-eight (48) hours after the receipt
+33 of such contribution and shall include the name of the candidate, political
+34 committee or measure, the identification of the contributor, and the date of
+35 receipt and amount of the contribution. The notification shall be in addi-
+36 tion to the reporting of these contributions in the regular reports.
+37 (4)(a) In the case of a political committee receiving contributions
+38 in support of or in opposition to a candidate from a person who is not
+39 an individual or business and has donated aggregate contributions of
+40 one thousand dollars ($1,000) or more during the previous twelve (12)
+41 months to the reporting political committee, the political committee
+42 shall also provide a list of the full names and complete addresses of
+43 each person who in turn has made an aggregate contribution of one thou-
+44 sand dollars ($1,000) or more to such donor who is not an individual or
+45 business within the previous twelve (12) months. Such donor disclosure
+46 shall continue tracing back through each donor who is not an individual
+47 or business until either a donor's total contributions equal less than
+48 one thousand dollars ($1,000) or all donors have been identified as in-
+49 dividuals or businesses in accordance with the transparency provisions
+50 of section 67-6614, Idaho Code.
+
+9
+1 (b) In order to provide the proper reports required pursuant to para-
+2 graph (a) of this subsection, any political committee receiving aggre-
+3 gate contributions of one thousand dollars ($1,000) or more in support
+4 of or in opposition to a candidate from a person who is not an indi-
+5 vidual or business shall request a list from such person of the names,
+6 addresses, and donated amounts of one thousand dollars ($1,000) or more
+7 that were made to such donor during the previous twelve (12) months.
+8 Such contributions shall not be expended until all such donations of one
+9 thousand dollars ($1,000) or more have been traced back to an individual
+10 or business.
+11 (c) The secretary of state shall prescribe forms for the reporting of
+12 the disclosures required pursuant to this subsection.
+13 (4) (5) All reports required pursuant to this section shall be filed
+14 online with the secretary of state, unless a waiver has been provided under
+15 section 67-6623, Idaho Code, by no later than midnight on the date the filing
+16 is due.
+17 (5) (6) Reports required to be filed under the provisions of this sec-
+18 tion shall be filed until the account no longer shows any unexpended balance
+19 of contributions or expenditure deficit.
+20 SECTION 5. That Section 67-6610, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 67-6610. CONTRIBUTION IN EXCESS OF FIFTY DOLLARS. (a) (1) Any person
+23 who contributes more than an aggregate amount of fifty dollars ($50.00)
+24 (including one or more smaller contributions which aggregate more than fifty
+25 dollars ($50.00) in any one calendar year) or more during the previous twelve
+26 (12) months to a candidate or political committee shall accompany the con-
+27 tribution with a statement of his full name and complete address.
+28 (b) (2) If a political treasurer is offered or receives a payment or
+29 contribution of more than in excess of fifty dollars ($50.00), or which to-
+30 gether with prior contributions from the same person during that calendar
+31 year exceeds fifty dollars ($50.00), during the previous twelve (12) months
+32 and there is no statement of the full name and complete address of the person
+33 making the contribution, the contribution shall be returned to the contribu-
+34 tor if his identity can be ascertained. If the contributor's identity cannot
+35 be ascertained, the contribution shall be transmitted immediately by the po-
+36 litical treasurer who received it to the state controller for deposit in the
+37 public school permanent endowment fund.
+38 SECTION 6. That Section 67-6611, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-6611. INDEPENDENT EXPENDITURES. (1) Each person, other than a can-
+41 didate in an Idaho election, who makes independent expenditures in an aggre-
+42 gate amount exceeding one hundred dollars ($100) in support of or in opposi-
+43 tion to any one (1) candidate, political committee, or measure shall file a
+44 statement of the expenditure with the secretary of state.
+45 (2) Statements shall be filed with the secretary of state, not less than
+46 seven (7) days prior to the primary and general election and thirty (30) days
+47 after the primary and general election.
+
+10
+1 (3) The statement shall contain the following information:
+2 (a) The name and address of any person to whom an expenditure in excess
+3 of fifty dollars ($50.00) has been made by any such person in support of
+4 or in opposition to any such candidate or measure during the reporting
+5 period, together with the amount, date, and purpose of each such expen-
+6 diture, including the identity of the candidate or measure, and whether
+7 the expenditure was made either in support of or in opposition to such
+8 candidate or measure; and
+9 (b) The total sum of all expenditures made in support of or in opposi-
+10 tion to any such candidate or measure.
+11 (4) In addition to the requirements set forth in subsections (1) and
+12 (2) of this section, each person, other than a candidate in an Idaho elec-
+13 tion, who makes independent expenditures in an aggregate amount of one thou-
+14 sand dollars ($1,000) or more after the sixteenth day before, but more than
+15 forty-eight (48) hours before, any primary or general election shall file
+16 a written statement of the expenditure with the secretary of state not more
+17 than forty-eight (48) hours from the time of such expenditure. The statement
+18 shall include the information required in subsection (3) of this section.
+19 (5)(a) Each person, other than a candidate in an Idaho election, making
+20 independent expenditures in support of or in opposition to a candidate
+21 shall report the name and address of each person who has donated contri-
+22 butions to the reporting person in the aggregate amount of one thousand
+23 dollars ($1,000) or more during the previous twelve (12) months. If the
+24 person donating contributions to the person making such independent
+25 expenditures is not an individual or business, the person making inde-
+26 pendent expenditures shall provide a list of the full name and complete
+27 address of each person who in turn has donated one thousand dollars
+28 ($1,000) or more within the previous twelve (12) months to the person
+29 donating to the person making such independent expenditures. Such
+30 donor disclosure shall continue tracing back through each donor who is
+31 not an individual or business until either a donor's total contribu-
+32 tions equal less than one thousand dollars ($1,000) or all donors have
+33 been identified as individuals or businesses in accordance with the
+34 transparency provisions of section 67-6614, Idaho Code.
+35 (b) In order to provide the proper reports required pursuant to para-
+36 graph (a) of this subsection, any person, other than a candidate in an
+37 Idaho election, making independent expenditures or donating money to
+38 another person for the purpose of making independent expenditures in
+39 support of or in opposition to a candidate who receives aggregate con-
+40 tributions of one thousand dollars ($1,000) or more from a person who
+41 is not an individual or business shall request from such person a list
+42 of the names, addresses, and donated amounts of one thousand dollars
+43 ($1,000) or more that were made to such donor during the previous twelve
+44 (12) months. No independent expenditure shall be made until all such
+45 donations of one thousand dollars ($1,000) or more have traced back to
+46 an individual or business.
+47 SECTION 7. That Section 67-6612, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+11
+1 67-6612. DISCLOSURE OF PAYMENTS MADE TO SIGNATURE GATHERERS. (1) Any
+2 person who pays or provides other valuable consideration in an aggregate
+3 amount of one hundred dollars ($100) or more to another person or persons,
+4 in exchange for their actions or intended actions of gathering signatures
+5 on a ballot initiative petition or referendum, shall file a statement of the
+6 expenditure with the secretary of state.
+7 (2) The provisions of this section shall apply beginning on the date
+8 that the ballot initiative or referendum petitioners receive from the secre-
+9 tary of state the official ballot title for which the person is paying to have
+10 signatures gathered and shall continue for as long as the filer makes pay-
+11 ments to a signature gatherer or gatherers.
+12 (3) Statements shall be filed on or before the twentieth day of the
+13 month following the month during which the payments to the signature gath-
+14 erers were made.
+15 (4) The statement shall contain the following information:
+16 (a) The name and address of any signature gatherer to whom a payment
+17 in excess of fifty dollars ($50.00) has been made during the reported
+18 month; and
+19 (b) The total sum of all payments made to signature gatherers in the ag-
+20 gregate during the reported month.
+21 (5) In addition to the statements filed under subsection (3) of this
+22 section, any person who pays a signature gatherer or gatherers the aggregate
+23 amount of one thousand dollars ($1,000) or more during the fourteen (14) days
+24 prior to the election shall file a notice of the expenditures with the secre-
+25 tary of state not more than forty-eight (48) hours from the time of the expen-
+26 diture. The notice shall include the information required under subsection
+27 (4) of this section.
+28 (6)(a) A person required to report pursuant to this section shall also
+29 report the name and address of each person who has donated contributions
+30 in an aggregate amount of one thousand dollars ($1,000) or more during
+31 the previous twelve (12) months to the reporting person in support of
+32 a ballot measure. If the person donating such contribution is not an
+33 individual or business, the person required to report pursuant to this
+34 section shall provide a list of the names, addresses, and contribution
+35 amounts from each person who has in turn made aggregate contributions of
+36 one thousand dollars ($1,000) or more to the person donating to the per-
+37 son reporting pursuant to this section within the previous twelve (12)
+38 months. The donor disclosure shall continue tracing back through each
+39 donor who is not an individual or business until the aggregate dona-
+40 tions from a person equal less than one thousand dollars ($1,000) or all
+41 donors have been identified as individuals or businesses in accordance
+42 with the transparency provisions of section 67-6614, Idaho Code.
+43 (b) In order to provide the proper reports required pursuant to para-
+44 graph (a) of this subsection, any person required to report pursuant to
+45 this section for paying signature gatherers shall, upon the receipt of
+46 aggregate contributions of one thousand dollars ($1,000) or more from a
+47 person who is not an individual or business, request from such person a
+48 list of the names, addresses, and donated amounts of one thousand dol-
+49 lars ($1,000) or more that were made to such donor during the previous
+50 twelve (12) months.
+
+12
+1 SECTION 8. That Section 67-6614, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 67-6614. IDENTIFICATION OF SOURCE OF CONTRIBUTIONS AND EXPENDI-
+4 TURES. No contribution shall be made and no expenditure shall be incurred,
+5 directly or indirectly, in under a fictitious name, anonymously, or by one
+6 (1) person through an agent, relative, nonbusiness entity, political com-
+7 mittee, or other person in such a manner as to conceal the identity of the
+8 source of the contribution. In the case of contributions made by a corpora-
+9 tion, the names of the officers, directors, and equity shareholders holding
+10 over ten percent (10%) of shares in the corporation shall also be reported in
+11 any report required pursuant to this chapter.
+12 SECTION 9. That Section 67-6621, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 67-6621. DUTIES OF LOBBYISTS. A person required to register as a lob-
+15 byist under this chapter shall also have the following obligations, the vi-
+16 olation of which shall constitute cause for revocation of his registration,
+17 and may subject such person, and such person's employer or client, if such
+18 employer or client aids, abets, ratifies or confirms any such act, to other
+19 civil liabilities, as provided by this chapter:
+20 (1) Such persons shall obtain and preserve all accounts, bills,
+21 receipts, books, papers, and documents necessary to substantiate the finan-
+22 cial reports required to be made under this chapter for a period of at least
+23 three (3) years from the date of the filing of the statement containing such
+24 items, which accounts, bills, receipts, books, papers and documents shall
+25 be made available for inspection by the secretary of state at any reasonable
+26 time during such three (3) year period; provided, however, that if a lobbyist
+27 is required under the terms of his employment contract to turn any records
+28 over to his employer or client, responsibility for the preservation of such
+29 records under this subsection shall rest with such employer or client.
+30 (2) In addition, a person required to register as a lobbyist shall not:
+31 (a) Engage in any activity as a lobbyist before registering as such;
+32 (b) Knowingly deceive or attempt to deceive any legislator to any fact
+33 pertaining to any pending or proposed legislation;
+34 (c) Cause or influence the introduction of any bill or amendment
+35 thereto for the purpose of thereafter being employed to secure its de-
+36 feat;
+37 (d) Knowingly represent an interest adverse to any of his employers or
+38 clients without first obtaining such employers' or clients' consent
+39 thereto after full disclosure to such employers or clients of such ad-
+40 verse interest;
+41 (e) Exercise any economic reprisal, extortion, or unlawful retalia-
+42 tion upon any legislator by reason of such legislator's position with
+43 respect to, or his vote upon, any pending or proposed legislation; or
+44 (f) Accept any employment as a lobbyist for a compensation dependent
+45 in any manner upon the passage or defeat of any proposed or pending leg-
+46 islation or upon any other contingency connected with the action of the
+47 legislature or of either branch thereof or of any committee thereof.
+48 This contingent fee prohibition shall also apply to lobbying activities
+
+13
+1 that pertain to communications with executive officials as described in
+2 section 67-6602(9)(10), Idaho Code.
+3 SECTION 10. SEVERABILITY. The provisions of this act are hereby de-
+4 clared to be severable and if any provision of this act or the application
+5 of such provision to any person or circumstance is declared invalid for any
+6 reason, such declaration shall not affect the validity of the remaining por-
+7 tions of this act.
+8 SECTION 11. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOCNF;PGLEITADFGSN6,IOC,TODEAT;AGSN6,IOC,TOPEFRCNRSBYN;AGSN6,IOC,TOPEFRCNRSBYPLC;AGSN6,I,TOREPSRGCSINESOFF;AGSN6,IOC,TOPEFRCSBYPSMGITESADTOMEATLC;AGSN6,IOC,TOPRCNRSBYSEG;AGSN6OC,TOREPSRGINOFSEOSADE;AGSN6,IOCOPEACTCEREADTOMEATLCGS;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.LEITADF.ItisteitofteLetoiyaddeqdpoqocninftaswsdhteaeofqdpoqoc.TeLeftwnapnoreysslessofmyerinsforontoaceadteiyofshpnoreyietotep,itisiefrtepctokwwoisfhcsadtowtdetecsaefdbydkmtisnttdtoayndilorb.TeLefttskeisittotepcbeinmycsteisfgshcsartodosowhtescpfsyeganoltybetycnc,c,ortniovginamrtttyw,whlstoatanaeofaqdpoqorpbntepnedtesyfgteespgfregchdkmeLefrfsttacnbfagtepsttmyedosaeoyi,ifntc,bdsli.Inortodlteaeofqdpocnwnitmyntetadtobrrtitotweitd,tslnwlawmsoftep,r,awetostomecyiywoismgtecstthehdshaleitonenosinIoidofcgtoawwypstohebdacnofdeLefrfsttitisadeeaoonadoffgdkmyeswntya]
+[DELETED: .Tslsteisadoswoaentpgindkmyesinapnofbgadtopean,whcnbeiedetotelkoftyincer,adwhcstotemyoftepcbgctpsaebgedadheLefrfsttteaeofshneagrscdbeddifmsoftepcaeaokwwoaloftepsaebydgaloftelec,whc,int,dlteaeofqdpoqocrmywoaeadtob,oraeiyado,pginsdqdpoqor.IftslnisetcnbecysnwhisadesaentctastotevseseginegceLefrfsttuetefljsSeCtj,aej,addtctjee,adaetemesetoteaeofqdpocntnmsoftefljyaslgasdkmsaeadinIoe.Inantoorc,tsdsagrndfrdeinIotnilesbeteIojypsorqdpoqncswntyorinI.H,asedo,msofteIojyaejtassetoteofqdpoqocnbytepcasayoredo.Rgoregtepeofdkmyesioeswlhptodltepspnofqdpoqnrdtoaledo,igedmsoejywoayhetegtndfrttfmtepstyaeteflasofadcnbyoseditisteteitofteL,inortodlteaeofqdpoqocnwnitmynte,adtobrrtotweitdse,toawtepctosewohspybgbdteplcnofdkmycstthhaleitonesadpytevsoftewoaN2.TtSn6,IoC,b,adteseishdtordasf.D.Asudintsc,tefgtetefgm)""msap,c,bse,a,f,oraygpofto()ormeisfrwhamyofisreisddfmteseofgsors)()""msanilwossn,e,orrntopcoeadwohstnayoftef)Adteiscyp)Fdfrpco]
+[DELETED: )Rdacnfrtepeofpgteiscyfro;o)Meane,cdfrs,orrdshteitofpgteiscyfrorpsoftsc,anitslbepdtobeaceintestenfrhsorhroeulteithsfdtofeadnofcybytes)()""isaya,c,ffi,d,d,l,p,g,peorofmyoragofv,adayc,a,proro,wrorntlye,todoayoft,frssrdortober,btdsntitofesifshrtdsntedteayedfrshesadissdbyanifshe)()""msapnworscnfmarpnfrerfeorpewkbdonactona,btwoisntaneeofttp)()""isaya,c,ffi,d,d,l,p,g,p,snortrofmyoragofv,adayc,a,peororo,wrorntlye,teac,instoforinontoayc,plceorm.Shtmaoisplfsoroyofaceormsofhshdedortocresidinstofshcebtdsntieplfsudtopytecefgf.Shtmastergofpladplssfrlstlc,btdsntieoyhehyortgof""plssoftestcypyvrcnwsorasorilesntinesofteds()pypdfrbyayvnw.""s,frtepsoftsdsssinantorrfee,o,intecfanudpnorpsedinpee,sdwtcnorrtofesfmaysrtnteceorplcefrwmshssa.Frtepsoftsa,c,ortnmyosetslbeddtoheamyveettoteftveoftec)()""msayseorllg,s,rrpye)"nc"msaycninstoforinontoacefrentopcoeadaycninsto,orinont,am)()"gc"msayctbytnorr,pdinanroronab,dymdorddbyhdtoplr,o]
+[DELETED: ecsmetoplr,oroed)Uyrstoayc;a)Isb,p,m,d,meorddwnty()dsbeapyenoy()dsbeagle;a)Isbdt,pdinan,ddtdtoorddbyhdt,tecsmet,oeddtoanaettismsoftefrshpco)"gc"dsnti)Aynsa,ele,onorc,w,orlrtoteerpdinan,ororplntodorcdbyac,plc,orplp)Ayelesorosadbyabyntodorcdbyac,plc,orplp)Aycnbypsmeinterrceaeoftrbsoraycnmebyamnsytomsofshonadtrf)Aycnttrstoayceoyaspfteprneofablors)Acnttcsaneeoraniteeurtsc)()""msanilwopsasefrwrorcnfmwhteiserwsflettsuractfrh,wnoro)()"eo"m)Teg,ltg,syofs,sec,set,ayg,stofpnadaydyorsfmrofayoftei,wnteceadseofhsorhre,isddinmrpgdsfrteo)Asedtorayd,dyd,drorbucfasedadedins2ad6,IoC)Tempadteeeorcfaeofaybdorcnttisadtomersorcgaspttosn6,IoC)Tempadteeeorcfaeofaybdorcnttgsayofteseddinsn6,IoC,ntigpcs)TempadteeeorcfaeofteIopcusc,teIoilc,adteIosetxc;a)Temsofteggbdofteseiefdaemsofteggbdadteeeorcfa]
+[DELETED: eorofteIohgadfea,teIyrsa,adteIosebga)()""isayp,c,s,d,l,a,d,orgtofmyorafv,adisac,p,ora,wrornye,tomeane.Tetm""asapetop,aptoratrofagofveiefrg,s,p,fsoragofvrtepeofa,bgorhgaypcolo,oraginfgorogayenc)()"te"msayeebyapracneyagtee,peordtocyidceormettisntmewhtecnorwhteprcto,orincnw,orattec,orincnw,orattertofasno,acrayatoradceofteceorplcgorogam.Asudintss,"ya"msaycncgameageeordti,btntldt,teneoftecrm,orenshas"ef""""""tytf""ea"""or")()""ad""ehmsagthc,orcgostomectw,msofteleoecsoraneeoltoieteanorrnofaylnbyteleoftesfIooraycetforbytegrortodpormnrsw,peglw,orenmsofteoreeo.""ad""slaomgwhaneeolfrtepeofigt,a,anorrnofayreorrgadinsn6,IoC,orayrgd,p,c,bdorbdp,flssa,orb.Nr""nr""isanasorosatofcgwhtemsofttaro;adpdttnr""nr""igwhaneeolfrtepeofcgognsfgteadofabdorac,csigogllwkadnscdbyadwsfreea,isbnpsinlnororcdm,orcsagadbnmfteleadeeosadtre,orbyssweagintrolcyorwnteceaeoftre)""isaypnwol)()"sc"mstepnonwebfteltisa,dyori,asac,adbywmttorlseriscdfragasal)()"se"mstepnorpsfrwmtisane,adbywmteltiscdfrasal]
+[DELETED: )()"lgto"msaypyedorayplsnofteseorsldtttisnt,j,s,orflo)()""msayplsdtotepefrtlorrnatane,igayi,rle,orrnoforattotesec.Aeorrmplslbeddamewnteayg,cyp,orcya,asa,rsidgsitabtt.Arlslbeddameunafterlpnastofmpttosn3,IoC)()"se"msaygpofto()ormei,ac,a,f,p,c,cboront)Dsntheasisplpetectofbsasfrp;a)Rddgtepgorctcryrc,gsormpf,whinteaeedtt()ofistlrsfrshy)()""msani,c,a,p,c,plp,cborororgpofp)()"lc"m)Aypnsyddtostoroeayceorm;o)Aypnworscsadmsesinategoetdds()inaycryrfepeofsgorogoe()ormecsorm)Ac,dtorrlceofardplpyslntbecdaplcefrtepftscrusshpycehseseetdds()inacry)()"lt"msaniladbyaceorplceaspdinsn6,IoC)()"co"msayl,l,j,oeoeorpnttisfdbyenbtdsntieteofptcN3.TtSn6,IoC,b,adteseishdtordasf.ESBYNSE.()Aynseyttisntaplceasddinsn6,I,mgesinorddtovsinteseofIoinategoetdds()inaycryrfepeofsgorogoe()ormecsormlfeastwhtesyofs.Testsli)Teneadasoftenseyadteneadasofisplorord]
+[DELETED: )Teneadasofehpnwef,d,prorcnpdtoshnseydgefteprto()cryshsedfehdd)orwohspdorhsadtopyf,d,psoronegfehdds()tosheydgtecty;a)Inteceofanseymgesinsforinontoac,teflneadceafehpnwohscdtotergnsenaeatofoetdds()ormedepste()m.Iftepnmgtecntotenseyisntanilorb,ttslaoiealtwhteflneadceasofehpnwointnhsddanaeatofodds()ormetoshpndgtotenseywoisntanilorbswntepe()m.Tedeofdsslcetkthehdrwoisntanilorb,ueaecsfmapnellstnoets()oraldshebnidasiso,inaewhtetypsofs,IoC.Inortopeteprrsrttotsp,aynseyrdtorrtssnslrtten,a,addtofoetdds()ormefmaypnwoitanilorbsadwocsanaeafoetdds()ormetoshnsehcsslntbeedulalshdsofodds()ormehebntdbktoanirb)Tsstslbefdwnty()dsofwntetddr()tdmdinsn()oftniseN4.TtSn6,IoC,b,adteseishdtordasf.RSOFCSADESBYCSALC.()Ehceortepltrfre,adehplceortepltrofelc,slfewhtesyofseastolcsrdadalesadesmebyonbfofteceorplc,agtotesdintss.Testslieehcnrdadeheeoreemedgtergpdslietef)Urc,testsliealtofaltsr,igayfsorpyofteceudtocre.Testslltteflndceasofehpnwocdanaeafmetnfyds()adteatcdbyt]
+[DELETED: .Testmyltasaseimtetlatofcsoffyds()orl;a)Ure,testslieteneadasofehpntowmaneeoreewsmeieatofteds()orm,adtea,adpeofehshe.Eheeoreeinteatofteds()ormeslbdbyani,r,orcdckoranaec.Sheeslntbefdwhtestbtserdbyteceorcefrapdofoe()yrtesthsbnf.Testmyltasasmtetlatofesadesoflsteds()wtsgteetatoforrgeeofehsheeore.Ago,ortnm,pdfrorcdbyaypnslbdbhasaneeadasac)Frteftrturtss,tergpdsrtepdbgwhteftc,e,oreethteedoftectrgp.Ehcdehplc,ortetrfraceorpeorbtm,slfetertddursn()oftssnasf)Inteyroftee,amyrtslbefdfrehoftey.Ehrtslbefdbytethdyofthfgtemhbgr;a)Frtenny,analrtcgtenrslbefdbyJy10oftefgy)Ngayorrsrdurtsshceadehplc,ortepltrfhceadehplc,slnytesyoeofaycnofoetdds()orm.Tnslbemewnft()hsarterfshcnadslieteneoftec,peorm,teinoftec,adtedeotadatoftec.Tennslbeinantotergoftecsinterrr)Inteceofaplcergcnstoforinontoacefmapnwoisnnilorbsadhsddaecsoetdds()ormedgtepste(stotergplc,teplclaopealtofteflnsadceasohpnwointnhsmeanaecnofoetdds()ormetoshdrwoisntaniloswntepste()m.Shdrdlcetgbkthehdrwoisntanirbsuleradstlcsellstetdds()oraldshebnidasisorbsinaewhtetypfsn6,IoC]
+[DELETED: )Inortopeteprrsrdpttoph()oftss,ayplcergaecsofoetdds()ormeinsforinontoacefmapnwoisntanilorbsslrtaltfmshpnoften,adddasofoetdds()ormtwemetoshdrdgtepste()mhcsslntbeedulalshdsofodds()ormehebntdbktoanirb)Tesyofseslpefsfrtergoedsrdpttotss)()Alrsrdpttotssnslbefewhtesyofs,usawrhsbnpdun6,IoC,bynolrtnmtontedetefsd)()RsrdtobefdurtepsoftssnslbefdulteatnolrssayudbfcsoreedN5.TtSn6,IoC,b,adteseishdtordasf.CNINESOFFYD.()()Aypocsmetnanaeatoffyds(goeormesrcswhaemetnfs()inayoecry)ormedgtepst)mstoaceorplceslaytecnwhastofhsflneadcea)()Ifapltrisodorrsaptonofmetninesoffyds(,orwhtrwhprcsfmtesepndgttcresfyds(,dgtepste()mdteisnostofteflneadceasoftepgtec,tecnslberdtotecrifhsiycnbea.Iftecsiycea,tecnslbetdiybytepltrwordittotesecrfrdtintcslptetfN6.TtSn6,IoC,b,adteseishdtordasf.ITE.()Ehp,ortnaceinanIoe,womsitesinanaeategoehdds()instoforinontoayoe()c,plc,ormeslfetofteeewhtesyofs)Ssslbefdwhtesyofs,ntlstn()dsprtotepyadglenadty()drtepyadgle]
+[DELETED: )Testslcntefgi)Teneadasofaypntowmaneeineffyds()hsbnmebyayshpninstorinontoayshceormedgter,trwhtea,d,adpeofehshe,igteiyofteceorm,adweeewsmeerinstoforinontoseorm;a)Tetlsmofalesmeinstoforinontoayshceorm)Inantotersstfhinss()a)oftss,ehp,ortnaceinanIoe,womsitesinanaeatofoetdds()ormearteshdyb,btmett()hsb,aypyorglenslfwnstofteeewhtesyofsentmnft()hsfmteteofshe.Teslieteinrdinsn()oftss)Ehp,ortnaceinanIoe,mtesinstoforinontoaclrtteneadasofehpnwohsddcstotergpninteaeatofoets()ormedgtepste()m.Iftndgcstotepnmgshisisntanilorb,tepnmgitesslpealtofteflneadcsofehpnwointnhsddoetdd)ormewntepste()mstotepgtotepnmgshite.Srdeslcetgbkthehdrwoitanilorbsuleradstlcsellstnoetdds()oraldshnidasisorbsinaewhtypsofsn6,IoC)Inortopeteprrsrdpttoph()oftss,ayp,ortnaceinaoe,mgitesordgmytrpnfrtepeofmgitesitoforinontoaceworsaecsofoetdds()ormefmapnwsntanilorbsslrtfmshpnalften,a,adddasofoetdd)ormettwemetoshdrdgtepst)m.Noiteeslbemeulalssofoetdds()ormehetdbktnilorbN7.TtSn6,IoC,b,adteseishdtordasf]
+[DELETED: .DEOFPSMETOSEG.()Anwopsorpsorvecninanatofoehdds()ormetoarpnorpneefrtrasoridasofggsnabtiepnorr,slfeastoftewhtesyofs)Tepsoftssnslaybgontedttebtieorrmpsrefmtesyofseteolbttefrwhtepnispgtohsgdadslcefraslgastefrmspstoasegrorg)Ssslbefdonorbetethdyofthfgtemhdgwhtepstotesegswem)Testslcntefgi)Teneadasofaysegrtowmapnesoffyds()hsbnmedgter;a)Tetlsmofalpsmetosegsinteaedgterdm)Inantotessfdursn()oft,aypnwopsasegrorgsteatofoetdds()ormedgtefn()drtoteenslfeaneofteeswhtesyofsentmetnft()hsfmteteoftee.Teneslieteinrdurs)oftss)Apnrdtortpttotssnslatteneadasofehpnwohsddcnanaeatofoetdds()ormedepste()mstotergpninstobtm.Iftepndgshcnisntalorb,tepnrdtortpttotnslpealtoften,a,adcsfmehpnwohsintnmeaecsoetdds()ormetotepndgtotepnrgpttotssnwntepste(.Tedrdeslcetgbktherwoisntanilorbsulteaedsfmapnellstnoetdds()orashebnidasisorbsinahtetypsofsn6,IoC)Inortopeteprrsrdpttoph()oftss,aypnrdtortpttssnfrpgsegss,untertoecsofoetdds()ormefmnwoisntanilorb,rtfmshpntoften,a,adddasofoetdds()ormettwemetoshdrdgtepe()m]
+[DELETED: N8.TtSn6,IoC,b,adteseishdtordasf.INOFSEOFCSADE.Nocnslbemeadnoeeslbeiyori,inurafsn,a,orbyo)pnthana,r,nse,plc,ororpninshamrastoclteiyofteoftec.Inteceofcsmebyac,tensofteo,d,adeysshrtnpt()ofssintecnslaoberdiyrtrdpttotscN9.TtSn6,IoC,b,adteseishdtordasf.DSOFL.Apnrdtorrasalturtscrslaohetefgo,tevnofwhslcecefrrnofhsrdmystshp,adshpserorc,ifsrorcta,a,rsorcsaysha,tooll,aspdbytsc)Shpsslonadpeala,b,b,p,addsnytoseteflrsrdtobemeurtscrfrapdofatle()ysfmtedeoftefgoftestcgs,wha,b,r,b,psaddssemeaefrinbytesyofseatayredgshte()yrp;p,h,ttifalsrdurtetsofhsetcttotnayrrtohserorc,ryfrtepnofssurtssnslrtwhsherorc)Ina,apnrdtorrasaltsln)Eeinayayasaltbergass)Kydeorattodeaylrtoayfgtoaypgorpdl)Ceorieteinofaybloraofrtepeoftrbgedtoseisd)Kyrtanitaetoayofhsesoswtftogshe'orc'coarfldetoshesorcsofshaei)Eeayecr,e,orulrnunaylrbyrnofshlspnwtt,orhsveu,aypgorpdl;o)Atayetasaltfracndnaymruntepeordtofaypdorpglnorunayorcycdwhteanofteoroferbhtforofaycetsctfepnslaoaytolga]
+[DELETED: tpntocswheeosasddin6,IoCN1.S.Tepsoftsataehyddtobeseadifaypnoftsatorteafshpntoaypnorceisddidfra,shdnslntattevyoftergpsoftsaN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,140 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 362
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC OFFICE; AMENDING SECTION 59-901, IDAHO CODE, TO PRO-
+3 VIDE THAT SUBSCRIBING TO THE OATH OF OFFICE FOR AN ELECTIVE FEDERAL,
+4 STATEWIDE, OR LEGISLATIVE OFFICE SHALL CREATE A VACANCY IN ANOTHER
+5 ELECTIVE OFFICE HELD BY THE INDIVIDUAL UNDER CERTAIN CIRCUMSTANCES AND
+6 TO MAKE TECHNICAL CORRECTIONS; AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 59-901, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 59-901. HOW VACANCIES OCCUR. (1) Every elective civil office shall be
+11 vacant upon the happening of any of the following events at any time before
+12 the expiration of the term of such office, as follows:
+13 (a) The resignation of the incumbent.;
+14 (b) The death of the incumbent.;
+15 (c) Removal of the incumbent from office by lawful procedure.;
+16 (d) The decision of a competent tribunal declaring an elective office
+17 vacant due to apparent abandonment or prolonged incapacity or absence,
+18 or other basis as determined by the tribunal, provided such apparent
+19 abandonment, prolonged incapacity, absence, or other basis is in excess
+20 of ninety (90) days.;
+21 (e) The incumbent ceasing to be a resident of the state, district, or
+22 county in which the duties of his office are to be exercised, or for
+23 which he may have been elected.;
+24 (f) A failure to elect someone at the proper election, there being no
+25 incumbent to continue in office until a successor is elected and quali-
+26 fied, nor other lawful provisions for filling an elective office.;
+27 (g) A forfeiture of elective office as provided by any law of the
+28 state.;
+29 (h) Conviction of an incumbent officeholder of any felony, or of any
+30 public offense involving the violation of his oath of office.; or
+31 (i) The acceptance of a commission to any military office, either in the
+32 militia of this state, or in the service of the United States, which re-
+33 quires the incumbent in the civil office to exercise his military duties
+34 out of the state for a period of not less than sixty (60) days.
+35 (2)(a) Subscribing to the oath of office for an elective federal,
+36 statewide, or legislative office shall create a vacancy in any other
+37 elective office held by the individual in any:
+38 (i) City with a population of one thousand (1,000) or more based
+39 on the most recent decennial census at the time the individual last
+40 filed for city office;
+2
+1 (ii) School district with five hundred (500) or more enrolled stu-
+2 dents in the most recent school year at the time the individual
+3 last filed for school district office; or
+4 (iii) Highway district located primarily in a county with a pop-
+5 ulation of ten thousand (10,000) or more based on the most recent
+6 decennial census at the time the individual last filed for highway
+7 district office.
+8 (b) The provisions of paragraph (a) of this subsection shall not apply
+9 to a person who subscribes to the oath of office for a legislative office
+10 as a temporary substitute pursuant to section 67-412, Idaho Code, or
+11 as an emergency interim successor pursuant to sections 67-413 through
+12 67-426, Idaho Code.
+13 SECTION 2. This act shall be in full force and effect on and after Jan-
+14 uary 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YSEASCNAGTOPCO;AGSN5,IOC,TOPETTSGTOTEOHOFOEFRANEEF,ORLEOESLCEAVYINAEOEHDBYTEILURCNCSAOMETLC;ADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.HWVSO.()Eyeecloeslbtuntehgofayoftefgesataytebeenoftetmofsho,asf)Ternoftei)Tedhoftei)Rlofteitfmoebyllp)Tednofacttldganeeotdetoatatorpdiyorarorbsasddbytet,pdsha,pdi,a,ororbsisinefny()d)Teitcgtobeartoftes,d,oyinwhtedsofhsoeaetobee,orfhhemyhebne)Afetoetseattepre,tebgnttoceinoeulasrisedadq,nrorllpsfrfganeeo)Afeofeeoeaspdbyaylwoft)Cnofanitorofayf,orofacoeigtevnofhsohofo;o)Teaeofacntoaymyo,erintaoftss,orinteseofteUdS,whrsteitintecloetoeehsmydtoftesefrapdofntlstnsy()d)Sgtoteohofoefraneef,orleoeslceavyinayoeoehdbyteilina)Cywhapnofoetd()ormebntemtrtdlcsatteteteilldfrcyo]
+[DELETED: )Sldtwhfehd()ormeedssintemtrtslyratteteteitfdfrsldto;o)Hydtldpyinacywhapnoftntd()ormebdontemtrlcsatteteteilltfdfrhto)Tepsofph()oftssnslntaoapnwosstoteohofoefraleosatysepttosn6,IoC,osaneyimsrpttoss63t,IoCN2.TsatslbeinflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 362
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC OFFICE; AMENDING SECTION 59-901, IDAHO CODE, TO PRO-
+3 VIDE THAT SUBSCRIBING TO THE OATH OF OFFICE FOR AN ELECTIVE FEDERAL,
+4 STATEWIDE, OR LEGISLATIVE OFFICE SHALL CREATE A VACANCY IN ANOTHER
+5 ELECTIVE OFFICE HELD BY THE INDIVIDUAL UNDER CERTAIN CIRCUMSTANCES AND
+6 TO MAKE TECHNICAL CORRECTIONS; AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 59-901, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 59-901. HOW VACANCIES OCCUR. (1) Every elective civil office shall be
+11 vacant upon the happening of any of the following events at any time before
+12 the expiration of the term of such office, as follows:
+13 (a) The resignation of the incumbent.;
+14 (b) The death of the incumbent.;
+15 (c) Removal of the incumbent from office by lawful procedure.;
+16 (d) The decision of a competent tribunal declaring an elective office
+17 vacant due to apparent abandonment or prolonged incapacity or absence,
+18 or other basis as determined by the tribunal, provided such apparent
+19 abandonment, prolonged incapacity, absence, or other basis is in excess
+20 of ninety (90) days.;
+21 (e) The incumbent ceasing to be a resident of the state, district, or
+22 county in which the duties of his office are to be exercised, or for
+23 which he may have been elected.;
+24 (f) A failure to elect someone at the proper election, there being no
+25 incumbent to continue in office until a successor is elected and quali-
+26 fied, nor other lawful provisions for filling an elective office.;
+27 (g) A forfeiture of elective office as provided by any law of the
+28 state.;
+29 (h) Conviction of an incumbent officeholder of any felony, or of any
+30 public offense involving the violation of his oath of office.; or
+31 (i) The acceptance of a commission to any military office, either in the
+32 militia of this state, or in the service of the United States, which re-
+33 quires the incumbent in the civil office to exercise his military duties
+34 out of the state for a period of not less than sixty (60) days.
+35 (2)(a) Subscribing to the oath of office for an elective federal,
+36 statewide, or legislative office shall create a vacancy in any other
+37 elective office held by the individual in any:
+38 (i) City with a population of one thousand (1,000) or more based
+39 on the most recent decennial census at the time the individual last
+40 filed for city office;
+
+2
+1 (ii) School district with five hundred (500) or more enrolled stu-
+2 dents in the most recent school year at the time the individual
+3 last filed for school district office; or
+4 (iii) Highway district located primarily in a county with a pop-
+5 ulation of ten thousand (10,000) or more based on the most recent
+6 decennial census at the time the individual last filed for highway
+7 district office.
+8 (b) The provisions of paragraph (a) of this subsection shall not apply
+9 to a person who subscribes to the oath of office for a legislative office
+10 as a temporary substitute pursuant to section 67-412, Idaho Code, or
+11 as an emergency interim successor pursuant to sections 67-413 through
+12 67-426, Idaho Code.
+13 SECTION 2. This act shall be in full force and effect on and after Jan-
+14 uary 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YSEASCNAGTOPCO;AGSN5,IOC,TOPETTSGTOTEOHOFOEFRANEEF,ORLEOESLCEAVYINAEOEHDBYTEILURCNCSAOMETLC;ADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.HWVSO.()Eyeecloeslbtuntehgofayoftefgesataytebeenoftetmofsho,asf)Ternoftei)Tedhoftei)Rlofteitfmoebyllp)Tednofacttldganeeotdetoatatorpdiyorarorbsasddbytet,pdsha,pdi,a,ororbsisinefny()d)Teitcgtobeartoftes,d,oyinwhtedsofhsoeaetobee,orfhhemyhebne)Afetoetseattepre,tebgnttoceinoeulasrisedadq,nrorllpsfrfganeeo)Afeofeeoeaspdbyaylwoft)Cnofanitorofayf,orofacoeigtevnofhsohofo;o)Teaeofacntoaymyo,erintaoftss,orinteseofteUdS,whrsteitintecloetoeehsmydtoftesefrapdofntlstnsy()d)Sgtoteohofoefraneef,orleoeslceavyinayoeoehdbyteilina)Cywhapnofoetd()ormebntemtrtdlcsatteteteilldfrcyo]
+[DELETED: )Sldtwhfehd()ormeedssintemtrtslyratteteteitfdfrsldto;o)Hydtldpyinacywhapnoftntd()ormebdontemtrlcsatteteteilltfdfrhto)Tepsofph()oftssnslntaoapnwosstoteohofoefraleosatysepttosn6,IoC,osaneyimsrpttoss63t,IoCN2.TsatslbeinflfeadetonadarJy1,2]

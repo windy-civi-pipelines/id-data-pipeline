@@ -1,0 +1,1590 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 207
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO EMERGENCY MEDICAL SERVICES; AMENDING TITLE 46, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 9, TITLE 46, IDAHO CODE, TO PROVIDE
+4 FOR THE RECOGNITION OF THE EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+5 (REPLICA); REPEALING SECTION 56-1013B, IDAHO CODE, RELATING TO THE
+6 RECOGNITION OF EMS PERSONNEL LICENSURE INTERSTATE COMPACT; REPEAL-
+7 ING SECTION 56-1013C, IDAHO CODE, RELATING TO PURPOSE OF THE COMPACT;
+8 REPEALING SECTION 56-1013D, IDAHO CODE, RELATING TO DEFINITIONS; RE-
+9 PEALING SECTION 56-1013E, IDAHO CODE, RELATING TO HOME STATE LICENSURE;
+10 REPEALING SECTION 56-1013F, IDAHO CODE, RELATING TO COMPACT PRIVILEGE
+11 TO PRACTICE; REPEALING SECTION 56-1013G, IDAHO CODE, RELATING TO CONDI-
+12 TIONS OF PRACTICE IN A REMOTE STATE; REPEALING SECTION 56-1013H, IDAHO
+13 CODE, RELATING TO RELATIONSHIP TO EMERGENCY MANAGEMENT ASSISTANCE COM-
+14 PACT; REPEALING SECTION 56-1013I, IDAHO CODE, RELATING TO VETERANS AND
+15 SERVICE MEMBERS SEPARATING FROM ACTIVE DUTY MILITARY AND THEIR SPOUSES;
+16 REPEALING SECTION 56-1013J, IDAHO CODE, RELATING TO ADVERSE ACTIONS;
+17 REPEALING SECTION 56-1013K, IDAHO CODE, RELATING TO ADDITIONAL POWERS
+18 INVESTED IN A MEMBER STATE'S EMS AUTHORITY; REPEALING SECTION 56-1013L,
+19 IDAHO CODE, RELATING TO ESTABLISHMENT OF THE INTERSTATE COMMISSION
+20 FOR EMS PERSONNEL PRACTICE; REPEALING SECTION 56-1013M, IDAHO CODE,
+21 RELATING TO A COORDINATED DATABASE; REPEALING SECTION 56-1013N, IDAHO
+22 CODE, RELATING TO RULEMAKING; REPEALING SECTION 56-1013O, IDAHO CODE,
+23 RELATING TO OVERSIGHT, DISPUTE RESOLUTION AND ENFORCEMENT; REPEALING
+24 SECTION 56-1013P, IDAHO CODE, RELATING TO DATE OF IMPLEMENTATION OF THE
+25 INTERSTATE COMMISSION FOR EMS PERSONNEL PRACTICE AND ASSOCIATED RULES,
+26 WITHDRAWAL AND AMENDMENT; REPEALING SECTION 56-1013Q, IDAHO CODE, RE-
+27 LATING TO CONSTRUCTION AND SEVERABILITY; AND DECLARING AN EMERGENCY AND
+28 PROVIDING AN EFFECTIVE DATE.
+29 Be It Enacted by the Legislature of the State of Idaho:
+30 SECTION 1. That Title 46, Idaho Code, be, and the same is hereby amended
+31 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+32 ter 9, Title 46, Idaho Code, and to read as follows:
+33 CHAPTER 9
+34 EMERGENCY MEDICAL SERVICES ACT
+35 46-906. RECOGNITION OF EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+36 (REPLICA). The recognition of EMS personnel licensure interstate compact
+37 (REPLICA) is hereby enacted into law and entered into with all other juris-
+38 dictions legally joining therein, in the form substantially as follows:
+39 SECTION I
+40 PURPOSE
+2
+1 In order to protect the public through verification of competency and
+2 ensure accountability for patient care-related activities, all states li-
+3 cense emergency medical services (EMS) personnel, such as emergency medi-
+4 cal technicians (EMTs), advanced EMTs and paramedics. This compact is in-
+5 tended to facilitate the day-to-day movement of EMS personnel across state
+6 boundaries in the performance of their EMS duties as assigned by an appro-
+7 priate authority and authorize state EMS offices to afford immediate legal
+8 recognition to EMS personnel licensed in a member state. This compact rec-
+9 ognizes that states have a vested interest in protecting the public's health
+10 and safety through their licensing and regulation of EMS personnel and that
+11 such state regulation shared among the member states will best protect pub-
+12 lic health and safety. This compact is designed to achieve the following
+13 purposes and objectives:
+14 (1) Increase public access to EMS personnel;
+15 (2) Enhance the states' ability to protect the public's health and
+16 safety, especially patient safety;
+17 (3) Encourage the cooperation of member states in the areas of EMS per-
+18 sonnel licensure and regulation;
+19 (4) Support licensing of military members who are separating from an
+20 active duty tour and their spouses;
+21 (5) Facilitate the exchange of information between member states re-
+22 garding EMS personnel licensure, adverse action and significant investiga-
+23 tory information;
+24 (6) Promote compliance with the laws governing EMS personnel practice
+25 in each member state; and
+26 (7) Invest all member states with the authority to hold EMS personnel
+27 accountable through the mutual recognition of member state licenses.
+28 SECTION II
+29 DEFINITIONS
+30 As used in this compact:
+31 (1) "Advanced emergency medical technician" (AEMT) means an individual
+32 licensed with cognitive knowledge and a scope of practice that corresponds
+33 to that level in the national EMS education standards and national EMS scope
+34 of practice model.
+35 (2) "Adverse action" means any administrative, civil, equitable or
+36 criminal action permitted by a state's laws that may be imposed against li-
+37 censed EMS personnel by a state EMS authority or state court, including but
+38 not limited to actions against an individual's license such as revocation,
+39 suspension, probation, consent agreement, monitoring or other limitation
+40 or encumbrance on the individual's practice, letters of reprimand or ad-
+41 monition, fines, criminal convictions and state court judgments enforcing
+42 adverse actions by the state EMS authority.
+43 (3) "Alternative program" means a voluntary, nondisciplinary sub-
+44 stance abuse recovery program approved by a state EMS authority.
+45 (4) "Certification" means the successful verification of entry-level
+46 cognitive and psychomotor competency using a reliable, validated and
+47 legally defensible examination.
+3
+1 (5) "Commission" means the national administrative body of which all
+2 states that have enacted the compact are members.
+3 (6) "Emergency medical technician" (EMT) means an individual licensed
+4 with cognitive knowledge and a scope of practice that corresponds to that
+5 level in the national EMS education standards and national EMS scope of prac-
+6 tice model.
+7 (7) "Home state" means a member state where an individual is licensed to
+8 practice emergency medical services.
+9 (8) "License" means the authorization by a state for an individual to
+10 practice as an EMT, AEMT, paramedic or a level in between EMT and paramedic.
+11 (9) "Medical director" means a physician licensed in a member state who
+12 is accountable for the care delivered by EMS personnel.
+13 (10) "Member state" means a state that has enacted this compact.
+14 (11) "Paramedic" means an individual licensed with cognitive knowledge
+15 and a scope of practice that corresponds to that level in the national EMS
+16 education standards and national EMS scope of practice model.
+17 (12) "Privilege to practice" means an individual's authority to deliver
+18 emergency medical services in remote states as authorized under this com-
+19 pact.
+20 (13) "Remote state" means a member state in which an individual is not
+21 licensed.
+22 (14) "Restricted" means the outcome of an adverse action that limits a
+23 license or the privilege to practice.
+24 (15) "Rule" means a written statement by the commission promulgated
+25 pursuant to section XII of this compact that is of general applicability; im-
+26 plements, interprets or prescribes a policy or provision of the compact; or
+27 is an organizational, procedural or practice requirement of the commission
+28 and has the force and effect of statutory law in a member state and includes
+29 the amendment, repeal or suspension of an existing rule.
+30 (16) "Scope of practice" means defined parameters of various duties or
+31 services that may be provided by an individual with specific credentials.
+32 Whether regulated by rule, statute or court decision, it tends to represent
+33 the limits of services an individual may perform.
+34 (17) "Significant investigatory information" means:
+35 (a) Investigative information that a state EMS authority, after a pre-
+36 liminary inquiry that includes notification and an opportunity to re-
+37 spond if required by state law, has reason to believe, if proved true,
+38 would result in the imposition of an adverse action on a license or priv-
+39 ilege to practice; or
+40 (b) Investigative information that indicates that the individual rep-
+41 resents an immediate threat to public health and safety regardless of
+42 whether the individual has been notified and had an opportunity to re-
+43 spond.
+44 (18) "State" means any state, commonwealth, district or territory of
+45 the United States.
+46 (19) "State EMS authority" means the board, office or other agency with
+47 the legislative mandate to license EMS personnel.
+48 SECTION III
+49 HOME STATE LICENSE
+4
+1 (1) Any member state in which an individual holds a current license
+2 shall be deemed a home state for purposes of this compact.
+3 (2) Any member state may require an individual to obtain and retain a
+4 license to be authorized to practice in the member state under circumstances
+5 not authorized by the privilege to practice under the terms of this compact.
+6 (3) A home state's license authorizes an individual to practice in a re-
+7 mote state under the privilege to practice only if the home state:
+8 (a) Currently requires the use of the national registry of emergency
+9 medical technicians (NREMT) examination as a condition of issuing ini-
+10 tial licenses at the EMT and paramedic levels;
+11 (b) Has a mechanism in place for receiving and investigating complaints
+12 about individuals;
+13 (c) Notifies the commission, in compliance with the terms of this com-
+14 pact, of any adverse action or significant investigatory information
+15 regarding an individual;
+16 (d) No later than five (5) years after activation of the compact, re-
+17 quires a criminal background check of all applicants for initial licen-
+18 sure, including the use of the results of fingerprint or other biometric
+19 data checks compliant with the requirements of the federal bureau of in-
+20 vestigation with the exception of federal employees who have suitabil-
+21 ity determination in accordance with 5 CFR 731.202 and submit documen-
+22 tation of such as promulgated in the rules of the commission; and
+23 (e) Complies with the rules of the commission.
+24 SECTION IV
+25 COMPACT PRIVILEGE TO PRACTICE
+26 (1) Member states shall recognize the privilege to practice of an indi-
+27 vidual licensed in another member state that is in conformance with section
+28 III of this compact.
+29 (2) To exercise the privilege to practice under the terms and provi-
+30 sions of this compact, an individual must:
+31 (a) Be at least eighteen (18) years of age;
+32 (b) Possess a current unrestricted license in a member state as an EMT,
+33 AEMT, paramedic or state recognized level of licensure with a scope of
+34 practice and authority between EMT and paramedic; and
+35 (c) Practice under the supervision of a medical director.
+36 (3) An individual providing patient care in a remote state under the
+37 privilege to practice shall function within the scope of practice authorized
+38 by the home state unless and until modified by an appropriate authority in
+39 the remote state as may be defined in the rules of the commission.
+40 (4) Except as provided in this section, an individual practicing in a
+41 remote state will be subject to the remote state's authority and laws. A
+42 remote state may, in accordance with due process and that state's laws, re-
+43 strict, suspend or revoke an individual's privilege to practice in the re-
+44 mote state and may take any other necessary actions to protect the health and
+45 safety of its citizens. If a remote state takes action, it shall promptly no-
+46 tify the home state and the commission.
+47 (5) If an individual's license in any home state is restricted or sus-
+48 pended, the individual shall not be eligible to practice in a remote state
+5
+1 under the privilege to practice until the individual's home state license is
+2 restored.
+3 (6) If an individual's privilege to practice in any remote state is
+4 restricted, suspended or revoked, the individual shall not be eligible to
+5 practice in any remote state until the individual's privilege to practice is
+6 restored.
+7 SECTION V
+8 CONDITIONS OF PRACTICE IN A REMOTE STATE
+9 An individual may practice in a remote state under a privilege to prac-
+10 tice only in the performance of the individual's EMS duties as assigned by an
+11 appropriate authority, as defined in the rules of the commission, and under
+12 the following circumstances:
+13 (1) The individual originates a patient transport in a home state and
+14 transports the patient to a remote state;
+15 (2) The individual originates in the home state and enters a remote
+16 state to pick up a patient and provide care and transport of the patient to
+17 the home state;
+18 (3) The individual enters a remote state to provide patient care and/or
+19 transport within that remote state;
+20 (4) The individual enters a remote state to pick up a patient and pro-
+21 vide care and transport to a third member state; and
+22 (5) Other conditions as determined by rules promulgated by the commis-
+23 sion.
+24 SECTION VI
+25 RELATIONSHIP TO EMERGENCY MANAGEMENT ASSISTANCE COMPACT
+26 Upon a member state's governor's declaration of a state of emergency or
+27 disaster that activates the emergency management assistance compact (EMAC),
+28 all relevant terms and provisions of EMAC shall apply and to the extent any
+29 terms or provisions of this compact conflict with EMAC, the terms of EMAC
+30 shall prevail with respect to any individual practicing in the remote state
+31 in response to such declaration.
+32 SECTION VII
+33 VETERANS, SERVICE MEMBERS SEPARATING FROM ACTIVE DUTY MILITARY, AND THEIR
+34 SPOUSES
+35 (1) Member states shall consider a veteran, active military service
+36 member, and member of the national guard and reserves separating from an
+37 active duty tour, and a spouse thereof, who holds a current valid and unre-
+38 stricted NREMT certification at or above the level of the state license being
+39 sought as satisfying the minimum training and examination requirements for
+40 such licensure.
+41 (2) Member states shall expedite the processing of licensure applica-
+42 tions submitted by veterans, active military service members, and members
+43 of the national guard and reserves separating from an active duty tour, and
+44 their spouses.
+6
+1 (3) All individuals functioning with a privilege to practice under this
+2 section remain subject to the adverse actions provisions of section VIII of
+3 this compact.
+4 SECTION VIII
+5 ADVERSE ACTIONS
+6 (1) A home state shall have exclusive power to impose adverse action
+7 against an individual's license issued by the home state.
+8 (2) If an individual's license in any home state is restricted or sus-
+9 pended, the individual shall not be eligible to practice in a remote state
+10 under the privilege to practice until the individual's home state license is
+11 restored.
+12 (a) All home state adverse action orders shall include a statement that
+13 the individual's compact privileges are inactive. The order may allow
+14 the individual to practice in remote states with prior written autho-
+15 rization from both the home state and remote state's EMS authority.
+16 (b) An individual currently subject to adverse action in the home state
+17 shall not practice in any remote state without prior written authoriza-
+18 tion from both the home state and remote state's EMS authority.
+19 (3) A member state shall report adverse actions and any occurrences
+20 that the individual's compact privileges are restricted, suspended or re-
+21 voked to the commission in accordance with the rules of the commission.
+22 (4) A remote state may take adverse action on an individual's privilege
+23 to practice within that state.
+24 (5) Any member state may take adverse action against an individual's
+25 privilege to practice in that state based on the factual findings of another
+26 member state, as long as each state follows its own procedures for imposing
+27 such adverse action.
+28 (6) A home state's EMS authority shall investigate and take appropriate
+29 action with respect to reported conduct in a remote state as it would if such
+30 conduct had occurred within the home state. In such cases, the home state's
+31 law shall control in determining the appropriate adverse action.
+32 (7) Nothing in this compact shall override a member state's decision
+33 that participation in an alternative program may be used in lieu of adverse
+34 action and that such participation shall remain nonpublic if required by
+35 the member state's laws. Member states must require individuals who enter
+36 any alternative programs to agree not to practice in any other member state
+37 during the term of the alternative program without prior authorization from
+38 such other member state.
+39 SECTION IX
+40 ADDITIONAL POWERS INVESTED IN A MEMBER STATE'S EMS AUTHORITY
+41 A member state's EMS authority, in addition to any other powers granted
+42 under state law, is authorized under this compact to:
+43 (1) Issue subpoenas for both hearings and investigations that require
+44 the attendance and testimony of witnesses and the production of evidence.
+45 Subpoenas issued by a member state's EMS authority for the attendance and
+46 testimony of witnesses, and/or the production of evidence from another mem-
+7
+1 ber state, shall be enforced in the remote state by any court of competent
+2 jurisdiction, according to that court's practice and procedure in consider-
+3 ing subpoenas issued in its own proceedings. The issuing state EMS authority
+4 shall pay any witness fees, travel expenses, mileage and other fees required
+5 by the service statutes of the state where the witnesses and/or evidence are
+6 located; and
+7 (2) Issue cease and desist orders to restrict, suspend or revoke an in-
+8 dividual's privilege to practice in the state.
+9 SECTION X
+10 ESTABLISHMENT OF THE INTERSTATE COMMISSION FOR EMS PERSONNEL PRACTICE
+11 (1) The compact states hereby create and establish a joint public
+12 agency known as the interstate commission for EMS personnel practice.
+13 (a) The commission is a body politic and an instrumentality of the com-
+14 pact states.
+15 (b) Venue is proper and judicial proceedings by or against the commis-
+16 sion shall be brought solely and exclusively in a court of competent ju-
+17 risdiction where the principal office of the commission is located. The
+18 commission may waive venue and jurisdictional defenses to the extent
+19 it adopts or consents to participate in alternative dispute resolution
+20 proceedings.
+21 (c) Nothing in this compact shall be construed to be a waiver of
+22 sovereign immunity.
+23 (2) Membership, voting, and meetings.
+24 (a) Each member state shall have and be limited to one (1) delegate. The
+25 responsible official of the state EMS authority or such official's de-
+26 signee shall be the delegate to this compact for each member state. Any
+27 delegate may be removed or suspended from office as provided by the law
+28 of the state from which the delegate is appointed. Any vacancy occur-
+29 ring in the commission shall be filled in accordance with the laws of the
+30 member state in which the vacancy exists. In the event that more than
+31 one (1) board, office or other agency with the legislative mandate to
+32 license EMS personnel at and above the level of EMT exists, the governor
+33 of the state will determine which entity will be responsible for assign-
+34 ing the delegate.
+35 (b) Each delegate shall be entitled to one (1) vote with regard to the
+36 promulgation of rules and creation of bylaws and shall otherwise have
+37 an opportunity to participate in the business and affairs of the commis-
+38 sion. A delegate shall vote in person or by such other means as provided
+39 in the bylaws. The bylaws may provide for delegates' participation in
+40 meetings by telephone or other means of communication.
+41 (c) The commission shall meet at least once during each calendar year.
+42 Additional meetings shall be held as set forth in the bylaws.
+43 (d) All meetings shall be open to the public, and public notice of meet-
+44 ings shall be given in the same manner as required under the rulemaking
+45 provisions in section XII of this compact.
+46 (e) The commission may convene in a closed, nonpublic meeting if the
+47 commission must discuss noncompliance of a member state with its obli-
+48 gations under the compact; the employment, compensation, discipline or
+8
+1 other personnel matters, practices or procedures related to specific
+2 employees or other matters related to the commission's internal person-
+3 nel practices and procedures; current, threatened or reasonably antic-
+4 ipated litigation; negotiation of contracts for the purchase or sale of
+5 goods, services or real estate; accusing any person of a crime or for-
+6 mally censuring any person; disclosure of trade secrets or commercial
+7 or financial information that is privileged or confidential; disclo-
+8 sure of information of a personal nature where disclosure would consti-
+9 tute a clearly unwarranted invasion of personal privacy; disclosure of
+10 investigatory records compiled for law enforcement purposes; disclo-
+11 sure of information related to any investigatory reports prepared by or
+12 on behalf of or for use of the commission or other committee charged with
+13 responsibility of investigation or determination of compliance issues
+14 pursuant to the compact; or matters specifically exempted from disclo-
+15 sure by federal or member state statute.
+16 (f) If a meeting, or portion of a meeting, is closed pursuant to this
+17 provision, the commission's legal counsel or designee shall certify
+18 that the meeting may be closed and shall reference each relevant exempt-
+19 ing provision. The commission shall keep minutes that fully and clearly
+20 describe all matters discussed in a meeting and shall provide a full and
+21 accurate summary of actions taken, and the reasons therefore, including
+22 a description of the views expressed. All documents considered in con-
+23 nection with an action shall be identified in such minutes. All minutes
+24 and documents of a closed meeting shall remain under seal, subject to
+25 release by a majority vote of the commission or order of a court of com-
+26 petent jurisdiction.
+27 (3) The commission shall, by a majority vote of the delegates, pre-
+28 scribe bylaws and/or rules to govern its conduct as may be necessary or
+29 appropriate to carry out the purposes and exercise the powers of the compact,
+30 including but not limited to:
+31 (a) Establishing the fiscal year of the commission;
+32 (b) Providing reasonable standards and procedures for the establish-
+33 ment and meetings of other committees; and governing any general or spe-
+34 cific delegation of any authority or function of the commission;
+35 (c) Providing reasonable procedures for calling and conducting meet-
+36 ings of the commission, ensuring reasonable advance notice of all meet-
+37 ings, and providing an opportunity for attendance of such meetings by
+38 interested parties, with enumerated exceptions designed to protect the
+39 public's interest, the privacy of individuals, and proprietary infor-
+40 mation, including trade secrets. The commission may meet in closed ses-
+41 sion only after a majority of the membership votes to close a meeting in
+42 whole or in part. As soon as practicable, the commission must make pub-
+43 lic a copy of the vote to close the meeting revealing the vote of each
+44 member with no proxy votes allowed;
+45 (d) Establishing the titles, duties and authority, and reasonable pro-
+46 cedures for the election of the officers of the commission;
+47 (e) Providing reasonable standards and procedures for the establish-
+48 ment of the personnel policies and programs of the commission. Notwith-
+49 standing any civil service or other similar laws of any member state,
+9
+1 the bylaws shall exclusively govern the personnel policies and programs
+2 of the commission;
+3 (f) Promulgating a code of ethics to address permissible and prohibited
+4 activities of commission members and employees;
+5 (g) Providing a mechanism for winding up the operations of the commis-
+6 sion and the equitable disposition of any surplus funds that may exist
+7 after the termination of the compact after the payment and/or reserving
+8 of all of its debts and obligations;
+9 (h) Publishing its bylaws and filing a copy thereof, and a copy of any
+10 amendment thereto, with the appropriate agency or officer in each of the
+11 member states, if any;
+12 (i) Maintaining its financial records in accordance with the bylaws;
+13 and
+14 (j) Meeting and taking such actions as are consistent with the provi-
+15 sions of this compact and the bylaws.
+16 (4) The commission shall have the following powers:
+17 (a) The authority to promulgate uniform rules to facilitate and coor-
+18 dinate implementation and administration of this compact. The rules
+19 shall have the force and effect of law and shall be binding in all member
+20 states;
+21 (b) To bring and prosecute legal proceedings or actions in the name of
+22 the commission, provided that the standing of any state EMS authority or
+23 other regulatory body responsible for EMS personnel licensure to sue or
+24 be sued under applicable law shall not be affected;
+25 (c) To purchase and maintain insurance and bonds;
+26 (d) To borrow, accept or contract for services of personnel, including
+27 but not limited to employees of a member state;
+28 (e) To hire employees, elect or appoint officers, fix compensation, de-
+29 fine duties, grant such individuals appropriate authority to carry out
+30 the purposes of the compact, and to establish the commission's person-
+31 nel policies and programs relating to conflicts of interest, qualifica-
+32 tions of personnel, and other related personnel matters;
+33 (f) To accept any and all appropriate donations and grants of money,
+34 equipment, supplies, materials and services, and to receive, utilize
+35 and dispose of the same; provided that at all times the commission shall
+36 strive to avoid any appearance of impropriety and/or conflict of inter-
+37 est;
+38 (g) To lease, purchase, accept appropriate gifts or donations of, or
+39 otherwise to own, hold, improve or use, any property, real, personal or
+40 mixed; provided that at all times the commission shall strive to avoid
+41 any appearance of impropriety;
+42 (h) To sell, convey, mortgage, pledge, lease, exchange, abandon, or
+43 otherwise dispose of any property, real, personal or mixed;
+44 (i) To establish a budget and make expenditures;
+45 (j) To borrow money;
+46 (k) To appoint committees, including advisory committees comprised of
+47 members, state regulators, state legislators or their representatives,
+48 and consumer representatives, and such other interested persons as may
+49 be designated in this compact and the bylaws;
+10
+1 (l) To provide and receive information from, and to cooperate with, law
+2 enforcement agencies;
+3 (m) To adopt and use an official seal; and
+4 (n) To perform such other functions as may be necessary or appropriate
+5 to achieve the purposes of this compact consistent with the state regu-
+6 lation of EMS personnel licensure and practice.
+7 (5) Financing of the commission.
+8 (a) The commission shall pay, or provide for the payment of, the rea-
+9 sonable expenses of its establishment, organization and ongoing activ-
+10 ities.
+11 (b) The commission may accept any and all appropriate revenue sources,
+12 donations, and grants of money, equipment, supplies, materials and ser-
+13 vices.
+14 (c) The commission may levy on and collect an annual assessment from
+15 each member state or impose fees on other parties to cover the cost of
+16 the operations and activities of the commission and its staff, which
+17 must be in a total amount sufficient to cover its annual budget as ap-
+18 proved each year for which revenue is not provided by other sources. The
+19 aggregate annual assessment amount shall be allocated based upon a for-
+20 mula to be determined by the commission, which shall promulgate a rule
+21 binding upon all member states.
+22 (d) The commission shall not incur obligations of any kind prior to
+23 securing the funds adequate to meet the same; nor shall the commission
+24 pledge the credit of any of the member states, except by and with the
+25 authority of the member state.
+26 (e) The commission shall keep accurate accounts of all receipts and
+27 disbursements. The receipts and disbursements of the commission shall
+28 be subject to the audit and accounting procedures established under its
+29 bylaws. However, all receipts and disbursements of funds handled by the
+30 commission shall be audited yearly by a certified or licensed public
+31 accountant, and the report of the audit shall be included in and become
+32 part of the annual report of the commission.
+33 (6) Qualified immunity, defense, and indemnification.
+34 (a) The members, officers, executive director, employees and represen-
+35 tatives of the commission shall be immune from suit and liability, ei-
+36 ther personally or in their official capacity, for any claim for dam-
+37 age to or loss of property or personal injury or other civil liability
+38 caused by or arising out of any actual or alleged act, error or omission
+39 that occurred, or that the person against whom the claim is made had a
+40 reasonable basis for believing occurred within the scope of commission
+41 employment, duties or responsibilities; provided that nothing in this
+42 paragraph shall be construed to protect any such person from suit and/or
+43 liability for any damage, loss, injury or liability caused by the inten-
+44 tional or willful or wanton misconduct of that person.
+45 (b) The commission shall defend any member, officer, executive direc-
+46 tor, employee or representative of the commission in any civil action
+47 seeking to impose liability arising out of any actual or alleged act,
+48 error or omission that occurred within the scope of commission employ-
+49 ment, duties or responsibilities, or that the person against whom the
+50 claim is made had a reasonable basis for believing occurred within the
+11
+1 scope of commission employment, duties or responsibilities; provided
+2 that nothing in this section shall be construed to prohibit that person
+3 from retaining such person's own counsel; and provided further, that
+4 the actual or alleged act, error or omission did not result from that
+5 person's intentional or willful or wanton misconduct.
+6 (c) The commission shall indemnify and hold harmless any member, offi-
+7 cer, executive director, employee or representative of the commission
+8 for the amount of any settlement or judgment obtained against that per-
+9 son arising out of any actual or alleged act, error or omission that oc-
+10 curred within the scope of commission employment, duties or responsi-
+11 bilities, or that such person had a reasonable basis for believing oc-
+12 curred within the scope of commission employment, duties or responsi-
+13 bilities, provided that the actual or alleged act, error or omission did
+14 not result from the intentional or willful or wanton misconduct of that
+15 person.
+16 SECTION XI
+17 COORDINATED DATABASE
+18 (1) The commission shall provide for the development and maintenance of
+19 a coordinated database and reporting system containing licensure, adverse
+20 action and significant investigatory information on all licensed individu-
+21 als in member states.
+22 (2) Notwithstanding any other provision of state law to the contrary, a
+23 member state shall submit a uniform data set to the coordinated database on
+24 all individuals to whom this compact is applicable as required by the rules
+25 of the commission, including:
+26 (a) Identifying information;
+27 (b) Licensure data;
+28 (c) Significant investigatory information;
+29 (d) Adverse actions against an individual's license;
+30 (e) An indicator that an individual's privilege to practice is re-
+31 stricted, suspended or revoked;
+32 (f) Nonconfidential information related to alternative program par-
+33 ticipation;
+34 (g) Any denial of application for licensure and the reason(s) for such
+35 denial; and
+36 (h) Other information that may facilitate the administration of this
+37 compact, as determined by the rules of the commission.
+38 (3) The coordinated database administrator shall promptly notify all
+39 member states of any adverse action taken against, or significant investiga-
+40 tive information on, any individual in a member state.
+41 (4) Member states contributing information to the coordinated database
+42 may designate information that may not be shared with the public without the
+43 express permission of the contributing state.
+44 (5) Any information submitted to the coordinated database that is sub-
+45 sequently required to be expunged by the laws of the member state contribut-
+46 ing the information shall be removed from the coordinated database.
+47 SECTION XII
+12
+1 RULEMAKING
+2 (1) The commission shall exercise its rulemaking powers pursuant to the
+3 criteria set forth in this section and the rules adopted thereunder. Rules
+4 and amendments shall become binding as of the date specified in each rule or
+5 amendment.
+6 (2) If a majority of the legislatures of the member states rejects a
+7 rule, by enactment of a statute or resolution in the same manner used to adopt
+8 the compact, then such rule shall have no further force and effect in any mem-
+9 ber state.
+10 (3) Rules or amendments to the rules shall be adopted at a regular or
+11 special meeting of the commission.
+12 (4) Prior to promulgation and adoption of a final rule or rules by the
+13 commission, and at least sixty (60) days in advance of the meeting at which
+14 the rule will be considered and voted upon, the commission shall file a no-
+15 tice of proposed rulemaking:
+16 (a) On the website of the commission; and
+17 (b) On the website of each member state EMS authority or the publication
+18 in which each state would otherwise publish proposed rules.
+19 (5) The notice of proposed rulemaking shall include:
+20 (a) The proposed time, date and location of the meeting in which the
+21 rule will be considered and voted upon;
+22 (b) The text of the proposed rule or amendment and the reason for the
+23 proposed rule;
+24 (c) A request for comments on the proposed rule from any interested per-
+25 son; and
+26 (d) The manner in which interested persons may submit notice to the com-
+27 mission of their intention to attend the public hearing and any written
+28 comments.
+29 (6) Prior to adoption of a proposed rule, the commission shall allow
+30 persons to submit written data, facts, opinions and arguments, which shall
+31 be made available to the public.
+32 (7) The commission shall grant an opportunity for a public hearing be-
+33 fore it adopts a rule or amendment if a hearing is requested by:
+34 (a) At least twenty-five (25) persons;
+35 (b) A governmental subdivision or agency; or
+36 (c) An association having at least twenty-five (25) members.
+37 (8) If a hearing is held on the proposed rule or amendment, the commis-
+38 sion shall publish the place, time and date of the scheduled public hearing.
+39 (a) All persons wishing to be heard at the hearing shall notify the ex-
+40 ecutive director of the commission or other designated member in writ-
+41 ing of their desire to appear and testify at the hearing not less than
+42 five (5) business days before the scheduled date of the hearing.
+43 (b) Hearings shall be conducted in a manner providing each person who
+44 wishes to comment a fair and reasonable opportunity to comment orally or
+45 in writing.
+46 (c) No transcript of the hearing is required, unless a written request
+47 for a transcript is made, in which case the person requesting the tran-
+48 script shall bear the cost of producing the transcript. A recording may
+49 be made in lieu of a transcript under the same terms and conditions as
+13
+1 a transcript. This subsection shall not preclude the commission from
+2 making a transcript or recording of the hearing if it so chooses.
+3 (d) Nothing in this section shall be construed as requiring a separate
+4 hearing on each rule. Rules may be grouped for the convenience of the
+5 commission at hearings required by this section.
+6 (9) Following the scheduled hearing date, or by the close of business on
+7 the scheduled hearing date if the hearing was not held, the commission shall
+8 consider all written and oral comments received.
+9 (10) The commission shall, by majority vote of all members, take final
+10 action on the proposed rule and shall determine the effective date of the
+11 rule, if any, based on the rulemaking record and the full text of the rule.
+12 (11) If no written notice of intent to attend the public hearing by in-
+13 terested parties is received, the commission may proceed with promulgation
+14 of the proposed rule without a public hearing.
+15 (12) Upon determination that an emergency exists, the commission may
+16 consider and adopt an emergency rule without prior notice, opportunity for
+17 comment, or hearing, provided that the usual rulemaking procedures provided
+18 in the compact and in this section shall be retroactively applied to the rule
+19 as soon as reasonably possible, in no event later than ninety (90) days after
+20 the effective date of the rule. For the purposes of this provision, an emer-
+21 gency rule is one that must be adopted immediately in order to:
+22 (a) Meet an imminent threat to public health, safety or welfare;
+23 (b) Prevent a loss of commission or member state funds;
+24 (c) Meet a deadline for the promulgation of an administrative rule that
+25 is established by federal law or rule; or
+26 (d) Protect public health and safety.
+27 (13) The commission or an authorized committee of the commission may di-
+28 rect revisions to a previously adopted rule or amendment for purposes of cor-
+29 recting typographical errors, errors in format, errors in consistency, or
+30 grammatical errors. Public notice of any revisions shall be posted on the
+31 website of the commission. The revision shall be subject to challenge by any
+32 person for a period of thirty (30) days after posting. The revision may be
+33 challenged only on grounds that the revision results in a material change
+34 to a rule. A challenge shall be made in writing, and delivered to the chair
+35 of the commission prior to the end of the notice period. If no challenge is
+36 made, the revision will take effect without further action. If the revision
+37 is challenged, the revision may not take effect without the approval of the
+38 commission.
+39 SECTION XIII
+40 OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+41 (1) Oversight.
+42 (a) The executive, legislative and judicial branches of state govern-
+43 ment in each member state shall enforce this compact and take all ac-
+44 tions necessary and appropriate to effectuate the compact's purposes
+45 and intent. The provisions of this compact and the rules promulgated
+46 hereunder shall have standing as statutory law.
+47 (b) All courts shall take judicial notice of the compact and the rules
+48 in any judicial or administrative proceeding in a member state pertain-
+14
+1 ing to the subject matter of this compact that may affect the powers, re-
+2 sponsibilities or actions of the commission.
+3 (c) The commission shall be entitled to receive service of process in
+4 any such proceeding, and shall have standing to intervene in such a pro-
+5 ceeding for all purposes. Failure to provide service of process to the
+6 commission shall render a judgment or order void as to the commission,
+7 this compact, or promulgated rules.
+8 (2) Default, technical assistance, and termination.
+9 (a) If the commission determines that a member state has defaulted in
+10 the performance of its obligations or responsibilities under this com-
+11 pact or the promulgated rules, the commission shall provide written no-
+12 tice to the defaulting state and other member states of the nature of the
+13 default, the proposed means of curing the default and/or any other ac-
+14 tion to be taken by the commission; and provide remedial training and
+15 specific technical assistance regarding the default.
+16 (b) If a state in default fails to cure the default, the defaulting
+17 state may be terminated from the compact upon an affirmative vote of a
+18 majority of the member states, and all rights, privileges and benefits
+19 conferred by this compact may be terminated on the effective date of
+20 termination. A cure of the default does not relieve the offending state
+21 of obligations or liabilities incurred during the period of default.
+22 (c) Termination of membership in the compact shall be imposed only af-
+23 ter all other means of securing compliance have been exhausted. Notice
+24 of intent to suspend or terminate shall be given by the commission to the
+25 governor, the majority and minority leaders of the defaulting state's
+26 legislature, and each of the member states.
+27 (d) A state that has been terminated is responsible for all assess-
+28 ments, obligations and liabilities incurred through the effective date
+29 of termination, including obligations that extend beyond the effective
+30 date of termination.
+31 (e) The commission shall not bear any costs related to a state that is
+32 found to be in default or that has been terminated from the compact, un-
+33 less agreed upon in writing between the commission and the defaulting
+34 state.
+35 (f) The defaulting state may appeal the action of the commission by pe-
+36 titioning the United States district court for the District of Columbia
+37 or the federal district where the commission has its principal offices.
+38 The prevailing member shall be awarded all costs of such litigation, in-
+39 cluding reasonable attorney's fees.
+40 (3) Dispute resolution.
+41 (a) Upon request by a member state, the commission shall attempt to re-
+42 solve disputes related to the compact that arise among member states and
+43 between member and nonmember states.
+44 (b) The commission shall promulgate a rule providing for both mediation
+45 and binding dispute resolution for disputes as appropriate.
+46 (4) Enforcement.
+47 (a) The commission, in the reasonable exercise of its discretion, shall
+48 enforce the provisions and rules of this compact.
+49 (b) By majority vote, the commission may initiate legal action in the
+50 United States district court for the District of Columbia or the fed-
+15
+1 eral district where the commission has its principal offices against
+2 a member state in default to enforce compliance with the provisions of
+3 the compact and its promulgated rules and bylaws. The relief sought
+4 may include both injunctive relief and damages. In the event judicial
+5 enforcement is necessary, the prevailing member shall be awarded all
+6 costs of such litigation, including reasonable attorney's fees.
+7 (c) The remedies in this section shall not be the exclusive remedies of
+8 the commission. The commission may pursue any other remedies available
+9 under federal or state law.
+10 SECTION XIV
+11 DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR EMS PERSONNEL
+12 PRACTICE AND ASSOCIATED RULES, WITHDRAWAL, AND AMENDMENT
+13 (1) The compact shall come into effect on the date on which the compact
+14 statute is enacted into law in the tenth member state. The provisions, which
+15 become effective at that time, shall be limited to the powers granted to the
+16 commission relating to assembly and the promulgation of rules. Thereafter,
+17 the commission shall meet and exercise rulemaking powers necessary to the
+18 implementation and administration of the compact.
+19 (2) Any state that joins the compact subsequent to the commission's
+20 initial adoption of the rules shall be subject to the rules as they exist
+21 on the date on which the compact becomes law in that state. Any rule that
+22 has been previously adopted by the commission shall have the full force and
+23 effect of law on the day the compact becomes law in that state.
+24 (3) Any member state may withdraw from this compact by enacting a
+25 statute repealing the same.
+26 (a) A member state's withdrawal shall not take effect until six (6)
+27 months after enactment of the repealing statute.
+28 (b) Withdrawal shall not affect the continuing requirement of the with-
+29 drawing state's EMS authority to comply with the investigative and ad-
+30 verse action reporting requirements of this compact prior to the effec-
+31 tive date of withdrawal.
+32 (4) Nothing contained in this compact shall be construed to invalidate
+33 or prevent any EMS personnel licensure agreement or other cooperative ar-
+34 rangement between a member state and a nonmember state that does not conflict
+35 with the provisions of this compact.
+36 (5) This compact may be amended by the member states. No amendment to
+37 this compact shall become effective and binding upon any member state until
+38 it is enacted into the laws of all member states.
+39 SECTION XV
+40 CONSTRUCTION AND SEVERABILITY
+41 This compact shall be liberally construed so as to effectuate the pur-
+42 poses thereof. If this compact shall be held contrary to the constitution of
+43 any state member thereto, the compact shall remain in full force and effect
+44 as to the remaining member states. Nothing in this compact supersedes state
+45 law or rules related to licensure of EMS agencies.
+16
+1 SECTION 2. That Section 56-1013B, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 3. That Section 56-1013C, Idaho Code, be, and the same is hereby
+4 repealed.
+5 SECTION 4. That Section 56-1013D, Idaho Code, be, and the same is hereby
+6 repealed.
+7 SECTION 5. That Section 56-1013E, Idaho Code, be, and the same is hereby
+8 repealed.
+9 SECTION 6. That Section 56-1013F, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 7. That Section 56-1013G, Idaho Code, be, and the same is hereby
+12 repealed.
+13 SECTION 8. That Section 56-1013H, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 9. That Section 56-1013I, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 10. That Section 56-1013J, Idaho Code, be, and the same is
+18 hereby repealed.
+19 SECTION 11. That Section 56-1013K, Idaho Code, be, and the same is
+20 hereby repealed.
+21 SECTION 12. That Section 56-1013L, Idaho Code, be, and the same is
+22 hereby repealed.
+23 SECTION 13. That Section 56-1013M, Idaho Code, be, and the same is
+24 hereby repealed.
+25 SECTION 14. That Section 56-1013N, Idaho Code, be, and the same is
+26 hereby repealed.
+27 SECTION 15. That Section 56-1013O, Idaho Code, be, and the same is
+28 hereby repealed.
+29 SECTION 16. That Section 56-1013P, Idaho Code, be, and the same is
+30 hereby repealed.
+31 SECTION 17. That Section 56-1013Q, Idaho Code, be, and the same is
+32 hereby repealed.
+33 SECTION 18. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YTNADDECNAGTOEYMLS;AGTE4,IOCYTEANOFANWCR9,TE4,IOC,TOPRTERNOFTEESPLLEIEC;RGSN5,IOC,RGTOTNOFESPLLEIEC;RGSN5,IOC,RGTOPEOFTECGSN5,IOC,RGTOD;RGSN5,IOC,RGTOHESELGSN5,IOC,RGTOCTPOP;RGSN5,IOC,RGTOCSOFPEINARES;RGSN5,I,RGTORPTOEYMTAEC;RGSN5,IOC,RGTOVSAEMSSGFMAEDYMYADTRSGSN5,IOC,RGTOAEAGSN5,IOC,RGTOALPDINAMRSSESA;RGSN5OC,RGTOETOFTEIECRESPLP;RGSN5,IOCGTOACDD;RGSN5,I,RGTOR;RGSN5,IOCGTOO,DERNADE;RN5,IOC,RGTODEOFINOFTECNFRESPLPEADADRLADA;RGSN5,IOC,RGTOCNADS;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr9,Te4,IoC,adtordasfRYMLSSA.RNOFESPLLEIEC.TernofESplleiec)ishyediolwadediowhalorjslyjgt,intefmsyasfN]
+[DELETED: nortopttepcthvnofcyaeayfrptcda,alssleeymlss()p,shaseymlts(,adEsadp.TsctisidtofetedymtofESplasssintepeoftrESdsasadbyanaeayadaeseESostoadielntoESplldinamrs.TsctrsttssheavditinpgtepshdsythtrlgadrnofESpladthsernsdagtemrsswlbtptpchhads.Tsctisddtoaetefsado)IepcastoESp)Eetes'aytopttepshha,eypts)EetecnofmrssinteasofESplleadr)Stlgofmymswoaesgfmaedytradtrs)FeteeeofinbnmrssrgESpll,aeanadstiyi)PecewhtelsggESplpnehmrs;a)ItalmrsswhteaytohdESpethtemlrnofmrselNIsudintsc)"deymlt"()msanidwhcekeadaseofpettcottllintenlESenssadnlESsfpem)"ea"msaya,c,eeolanpdbyasslsttmybeidatldESplbyaseESayorsec,igbtldtoasatanisleshasr,p,cta,mgororlreeonteisp,lsofrdora,f,clcsadsectjseeasbyteseESa)"ep"msav,nyseaerypmadbyaseESa)""msteslvnofeeadprcyugar,vdaydee]
+[DELETED: )""mstenlaebyofwhasttheedtectaem)"ymlt"()msanillhcekeadaseofpettcstotlintenlESenssadnlESseofpem)"es"msamrseweanilisldteeymls)""msteanbyasefranilteasanE,A,pcorallinbnETadp)"ld"msapnldinamrsewsaefrteceddbyESp)"rs"msasetthsedtsc)""msanilldwhcekdaseofpettcstottllintenlEnssadnlESseofpem)"etop"msanisaytodymlssinressasadurtsc)"es"msamrseinwhanilisn)""msteoeofanaeanttlseortepetop)""msawnstbytecnpttosnXIoftsctttisofgla;i,isorpsapyorpnoftec;osano,plorpertoftecdhstefeadetofsylwinamrseadiea,rlorsnofanegr)"eofp"msddpsofvsdsosttmybepdbyanilwhsccrrdbyr,seorctd,ittstorelsofssanilmyp)"tiyi"m)IeinttaseESa,arapyiyttisnnadanoytordifrdbysel,hsrntob,ifpdtdrtinteinofanaeanonaleorpetop;o)Ieinttisttteilrsanietttopchhadsyrsorteilhsbnndadhdanoytor)""msays,c,dtortyoeUdS)"eESa"msteb,oeororaywelemetoleESpNIESEL]
+[DELETED: )Aymrseinwhanilhsactllbeddahesefrpsoftsc)Aymrsemyreaniltoonadrnetobeadtopeintemrseurctadbytepetopeurtetsoftsc)Ahessleasaniltopeinareseurtepetopeoyiftehes)Cyrsteueoftenlryofelts()enasacnofigillsatteETadpcl)Hsamminpefrrgadigcti)Nstec,incewhtetsoftsc,ofayaeanorstiyigani)Nolrtnfe()ysaranoftec,rsaclbdckofalasfrill,igteueoftersofftororbacsctwhtersofteflbuofinwhteenoffleswohesydninaewh5CR72adstdnofshaspdintersoftec;a)CswhtersoftecNITPETOP)MrssslretepetopeofanilldinarmrsettisincewhsIoftsc)Toeetepetopeurtetsadpsoftsc,anilm)Beatlten()ysofa)PsactudleinamrseasanE,pcorserdlloflewhaseoeadaybnETadp;a)Peurtesnofamld)Anilpgptceinareseurtetopeslfnwnteseofpeayteheseusadulmdbyanaeayiereseasmybeddintersoftec)Etaspdintss,anilpginesewlbesttoteressayadl.esem,inaewhdepsadttssl,r,sdorreanispetopeintereseadmyteayornyastopttehhayofisc.Ifaresetsa,itslpynyteheseadtec)Ifanisleinayheseisrdors,teilslntbeeetopeinares]
+[DELETED: rtepetopeulteisheselei)Ifanispetopeinayresei,sdorr,teilslntbeeeteinayreseulteispetopeiNSOFPEINARESnilmypeinareseurapetopeoyintepeofteisESdsasadbyaea,asddintersoftec,aduefgc)Teilosaptttinaheseastepttoares)Teilosinteheseadesaretopkupaptadpeceadttoftepttehes)Teilesaresetopeptceatwnttres)Teilesaresetopkupaptadpeceadtttoatdmrs;a)OrcsasddbyrspdbytecNVPTOEYMTAECnamrssgsdnofaseofeyorttasteeymtaect(lrttsadpsofECslayadtoteetasorpsoftsctctwhE,tetsofElplwhrttoayilpginteresnretoshdNV,SEMSSGFMAEDYM,ADT)Mrssslcrav,aemys,admroftenlgdadrssgfmaedyt,adaset,wohsactvdadudNTcnatoraetellofteselebtassgtemmtgadenrsfhl)Mrsssleetepgofleassdbyv,aemysem,admftenlgdadrssgfmanaedyt,ars]
+[DELETED: )AlisfgwhapetopeurtnrnsttoteaeaspsofsnVIoscNVEA)Aheseslheeeprtoieaeatanisleidbytehes)Ifanisleinayheseisrdors,teilslntbeeetopeinaresrtepetopeulteisheselei)Alheseaeanosslieastteisctpsaei.TeormyaeiltopeinresswhprwnanfmbhteheseadressESa)AnilcysttoaeaninteheslntpeinayresewtprwnanfmbhteheseadressESa)Amrseslrtaeasadayotteisctpsaer,sdorrdtotecninaewhtersoftec)Aresemyteaeanonanispopewntts)Aymrsemyteaeanatanietopeinttsebdonteflfsofars,aslgasehsefsisonpsfrihaea)AhessESayslieadteanwhrttordctinareseasitwdifsthdodwntehes.Inshc,teheswslclindgteaeaea)Ngintsctsloeamrssdtpninanaepmmybeudinluofanadttshpnslrnncifrdbemrssl.MrssmtreiswoeyaepstoaenttopeinayormrsgtetmofteaepmwtpranfhormrsNILPSIDINAMRSSESAmrssESa,inantoayorpsgrsel,isadurtsctt)IessfrbhhsadisttreaeadtyofwsadtepnofesidbyamrssESayfrteaeayofw,artepnofeefmarm]
+[DELETED: rs,slbeedinteresebyayctofc,agtottcspeadpeincgssidinisonp.TeigseESalpyaywsf,tle,meadorfsrytesessoftesewetewsareea;a)Ieceaddtostor,sdorreanispetopeintesNTOFTEIECNFRESPLP)TectsshyceadehajtpyknasteiecnfrESplp)Tecnisabypcadaniyoftects)Veispradjlpsbyorattecnslbebtsyadeyinactofctjnweteploeoftecnisl.Tnmyweveadjldstoteetasorcstopeinaeder)Ngintsctslbecdtobeawroni)M,v,adm)Ehmrseslheadbeldtooe()d.TeolofteseESayorshosdeslbetedetotsctfrehmrs.Aemyberdorsdfmoeaspdbytelftesefmwhtedeisa.Ayvyogintecnslbefdinaewhtelsoftrseinwhtevye.Inteetttmete()b,oeororaywhtelemeteESplatadaetellofETe,tegftesewldewheywlberefragted)Ehdeslbeedtooe()vewhrdtotnofrsadcnofbsadsloehnoytopeintebsadasoftec.Adeslveinpnorbyshormsaspnteb.Tebsmypefrd'pnisbyteorormsofc)Tecnslmtatltoedgehcrylmsslbehdasstfhinteb)Almsslbeontotep,adpcneofmsslbegnintesemrasrdurtersinsnXIoftsc)Tecnmyceinac,ncmgiftnmtdsneofamrsewhisosurtec;tee,c,deo]
+[DELETED: rplm,psorpsrdtossorormsrdtotecsilplpsadp;c,tdorryadl;nnofcsfrtepeorseo,ssorrle;agaypnofaceorfycgayp;deoftessorcrflinttispdorc;deofinofaplnewedewdceacyudinofplp;deoyrscdfrlwetp;deofinrdtoayiyrspdbyonbfoforfrueoftecnororcecdwyofinordnofceittotec;ormssyedfmdebyflormrses)Ifam,orpnofam,iscdpttot,tecsllclordeslcttemgmybecdadslreehrtegp.Tecnslkpmsttfyadcealmsddinamgadslpeaflaesyofast,adterst,idnoftevse.Aldscdincnwhananslbeidinshm.Almddsofacdmgslrnurs,sttebyamyveoftecnororofactofctj)Tecns,byamyveofted,pebsarrstognisctasmybenyoetocyottepsadeetepsoftecgbtntldt)Egteflyroftec)Pgressadpsfrteetadmsoforc;adggayglorscdnofayayorfnoftec)Pgrepsfrcgadcgmsoftec,egreaeneofalm,adpganoyfraeofshmsbdp,whedesddtopttsi,tepyofi,adpyi,igtes.Tecnmymtincdsnoyaramyoftempvstoceamgieorinp.Assnasp,tecnmtmepcacyoftevetocetemgrgteveoferwhnopyvsa)Egtet,dsada,adrepsfrteenofteosoftec)Pgressadpsfrteetofteplpsadpsoftec.Ngayclseororsrlsofaymrs]
+[DELETED: ebssleygnteplpsadpftec)Pgaceofestoaspeadpsofcnmsade)Pgammfrwgupteosoftecnadteeednofayssfsttmyertetnoftectarteptarrfalofisdsado)Pgisbsadfgacyt,adacyofatt,whteaeayororinehoftrs,ifa)Mgisflrsinaewhteb)Mgadtgshasasaectwhtepsoftsctadteb)Tecnslhetefgp)Teaytopeumrstofeadceinadanoftsc.Terlhetefeadetoflwadslbebginalm)Tobgadpellpsorasinteneoec,pdtttesgofayseESayorrybyrefrESplletoseoesduraelwslntbea)Topeadmnieadb)Tob,atorctfrssofp,itntldtoesofamrs)Tohee,etorato,fxc,ded,gtshisaeaytocyoepsoftec,adtoehtecsplpsadpsrgtocsofi,qsofp,adorrdplm)Toatayadalaedsadgsofm,s,msads,adtor,uddeoftes;pdttataltstecnsetoadayaeofiyarctofi)Tol,p,ataegsordso,oetoo,h,ieoru,ayp,r,plo;pdttataltstecnslsetoayaeofi)Tos,c,m,p,l,e,a,oedeofayp,r,plorm)Toehabtadmee)Tobwm)Toatc,igaycscdo,ser,selsortrrdcrr,adshoridpsasmeddintsctadteb]
+[DELETED: )Topeadreinf,adtocew,lta)Toatadueanols;a)TopmshorfsasmybenyoraoaetepsoftsctctwhtesernofESplleadp)Fgoftec)Tecnslp,orpefrtepto,tereesofise,onadoga)Tecnmyatayadalaeres,adgsofm,e,s,msads)Tecnmylyonadctanalatfhmrseoriefsonorpstocrtectoeosadasoftecnadiss,wtbeinatlatsttocrisalbtasadehyrfrwhreisntpdbyors.Tealatatslbeadbdunafatobeddbytec,whslpeargunalmrs)Tecnslntirosofaykdprtgtefsaetomttes;nrsltecetectofayoftemrs,etbyadwhtyoftemrs)Tecnslkpaeasofalrsa.Tersaddsoftecnsesttoteatadagpseduri.H,alrsaddsoffshdbytnslbeadyybyacdorldp,adtertofteatslbeidinadbtoftealrtoftec)Qdi,d,adi)Tem,o,eed,esadrsoftecnslbeiefmstadl,erpyorintrolc,fraycmfrdetoorlsofpyorpliyororclldbyoragotofayalorada,eroroto,ortttepnatwmtecmismehdebsfrbgodwnteseofc,dsorr;pdttnginthslbecdtoptayshpnfmstayfrayd,l,iyorlycdbyteilorwlorwnmtofttp)Tecnslddaym,o,eed,eeorreoftecninayclagtoielyagotofayaloradaroronttodwnteseofcne,dsorr,ortttepnatwmtmismehdarebsfrbgodwnt]
+[DELETED: eofcne,dsorr;ptngintssnslbecdtoptttpmrgshpsonc;adpdf,tealorada,eroronddntrtfmtsilorwlorwnm)Tecnsliyadhdhsaym,o,eed,eeorreoftecrteatofaystorjtodatttpnagotofayalorada,eroronttodwnteseofcne,dsorr,orttshpnhdarebsfrbgodwnteseofcne,dsorr,pdtttealorada,erorondtrtfmteilorwlorwnmtoftNXDD)Tecnslpefrtedtadmeocddeadrgsmcgl,anadstiyinonalldisinmrs)Ngayorpnofselwtotec,rseslstaumdasttotecddeolistowmtsctisaeasrdbyterftec,i)Igi)Led)Stiyi)Aeasatanisl)Anirttanispetopeisr,sdorr)Nlinrdtoaepmp)Aydlofanfrleadter)frs;a)Orinttmyfeteanoft,asddbytersoftec)Tecddearslpynyarssofayaeantna,orstieino,ayilinamrs)Mrsscgintotecddydeinttmyntbesdwhtepcwttspnoftecgs)AyinsdtotecddettissyrdtobeedbytelsoftemrsecgteinslberdfmtecddNX]
+[DELETED: )Tecnsleeisrgpspttotastfhintssnadtersadt.Rdasslbebgasoftedesdinehreo)Ifamyoftelsoftemrssrs,byetofaseorrnintesemrudtoaec,tnshreslhenofrfeadetinaymrs)Rsorastotersslbeadatarrolmgoftec)Prtopnadanofaflreorrsbyt,adatltsy()dsinaeoftemgatwerewlbecdadvdu,tecnslfeaneofpdr)Onteweoftec;a)OnteweofehmrseESayortepnwhehsewdoephpdr)Teneofpdrgsli)Tepdt,deadlnoftemginwhtewlbecdadvdu)Tettoftepdreoratadternfrtdr)Artfrcsontepdrefmayidp;a)Temrinwhidpsmystnetotecnoftrintoadtepchgadayw)Prtoanofapdr,tecnslastostwnd,f,osada,whsemeaetotep)Tecnslgtanoyfrapchgbeitasareoratifahgisrdb)Atltte()p)Aglsnora;o)Ananhgatltte()m)Ifahgishdontepdreora,tecnslphtep,teaddeoftesdpch)Alpswgtobehdattehgslnyteeedroftecnororddmrinwgoftrdetoaradtyattehgntlste()bsdsbetesddeofteh)Hsslbecdinamrpgehpnwstoctafradreoytoctoyonw)Nottoftehgisr,usawnrrattism,inwhcetepnrgtettslbrtectofpgtet.Argmemeinluofatturtesetsadcsa]
+[DELETED: t.Tssnslntpetecnfgattorrgoftehgifitsoc)Ngintssnslbecdasrgasgonehr.Rsmybegdfrteceoftnathsrdbytss)Fgtesdhgd,orbyteceofbsoesdhgdeiftehgwsnth,tecnsralwnadolcsr)Tecns,bymyveofalm,tefnontepdreadsldeteeedeoft,ifa,bdontergrdadteflttofter)Ifnownneofittoadtepchgbyidpsisr,tecnmypdwhpftepdrewtapch)Undnttaneye,tecnmradataneyrewtprn,oyf,orh,pdttteulrgpspntectadintssnslberyadtoterssnasryp,innoetlrtnny()dsaeeedeofter.Frtepsoftsp,aneyreisoettmtbeadiyinort)Mtanittttopch,syorw)Ptalsofcnormrsef)Mtadefrtepnofanaeretsedbyfllworr;o)Ptpchhads)Tecnoranadceoftecnmydtrstoapyadreoratfrpsofcgtle,esinf,esinc,ole.Pcneofayrsslbepdonteoftec.Ternslbesttocebyanfrapdofty()dsarp.Ternmybdoyongsttternrsinamlcoar.Aceslbemeinw,adddtotecftecnprtoteedoftenep.Ifnocei,ternwlteetwtfra.Iftersc,ternmyntteetwttealoftNX,DER,ADE)O)Tee,leadjlbsofsegtinehmrsesleetsctadtealasnyadaetoeetecspdi.Tepsoftsctadtersprslhesgassyl)Alcssltejlneoftectadternayjloraepginamrsep]
+[DELETED: gtotestmroftsctttmyattep,rsorasoftec)Tecnslbeedtoreseofpsiyshp,adslhesgtoieinshapgfralp.Fetopeseofpstotnslrrajtororvdastotecsc,orpdr)D,tla,adt)Iftecndsttamrsehsddiepeofisosorrsurtsctortepdr,tecnslpewnnetotedgseadormrssofteneoft,tepdmsofcgtedtarayorantobetnbytec;adperltgactlaergted)Ifaseindtfstoceted,tedemybetdfmtectunanaeveofyoftemrs,adalr,psadbdbytsctmybetdonteeedeo.Aceoftedtdsntreteogsfosorlsiddgtepdofd)Tnofmpintectslbeidoyaralormsofsgcehebne.Nfittosdorteslbegnbytecntot,temyadmylsoftedgs,adehoftemrs)Asetthsbntdisrefrala,osadlsidthteeedft,igosttedbdteeeoft)Tecnslntbraycsrdtoasettidtobeindtortthsbntdfmtec,usaduninwgbntecnadted)TedgsemyalteanoftecnbypgteUdSsdtctfrteDtofCrtefldtwetecnhsisploepgmrslbeadalcsofshl,igreasf)Der)Unrtbyamrs,tecnslattoredsrdtotectttaeagmrssanmradnrs)Tecnslpearepgfrbhmdbgdernfrdsasa)E)Tec,intereeeofisd,setepsadrsoftsc)Bymyv,tecnmyiellanintdSsdtctfrteDtofCaortef]
+[DELETED: ldtwetecnhsisplosamrseindttoeecewhtepsoectadispdrsadb.Terfsyiebhierfadd.Inteetjtisn,tepgmrslbeadasofshl,igreasf)Tersintssnslntbeteeersoec.TecnmypeayorrsarflorselNXEOFINOFTEIECNFRESPEADADR,W,ADA)Tectslceioetontedeonwhteceisediolwintethmrs.Tep,weeeatttt,slbeldtotepsgdtotnrgtoayadtepnofr.Tecnslmtadeergpsnytotnadanoftec)Aysettjstectsttoteclanoftersslbesttotersastyentedeonwhtectbslwintts.Ayretsbnpyadbytecnslheteflfeatoflwontedytectbslwintts)Aymrsemywwfmtsctbyegergtes)Amrsswlslntteetulsx(saretoftergs)WlslntattecgrtoftewgssESaytocywhteieadaeanrgrsoftsctprtoteeedeofw)NgcdintsctslbecdtoirptayESplleatororceatbnamrseadanrsettdsntchtepsoftsc)Tsctmybeadbytemrs.NoattsctslbeeeadbgunaymrseutisediotelsofalmrsNXNADSsctslbelycdsoastoeetepst.Iftsctslbehdcytotecnoysemrt,tectslrninflfeadestotergmrs.NgintsctsssworrsrdtoleofESa]
+[DELETED: N2.TtSn5,IoC,b,adteseishN3.TtSn5,IoC,b,adteseishN4.TtSn5,IoC,b,adteseishN5.TtSn5,IoC,b,adteseishN6.TtSn5,IoC,b,adteseishN7.TtSn5,IoC,b,adteseishN8.TtSn5,IoC,b,adteseishN9.TtSn5,IoC,b,adteseishN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 207
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO EMERGENCY MEDICAL SERVICES; AMENDING TITLE 46, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 9, TITLE 46, IDAHO CODE, TO PROVIDE
+4 FOR THE RECOGNITION OF THE EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+5 (REPLICA); REPEALING SECTION 56-1013B, IDAHO CODE, RELATING TO THE
+6 RECOGNITION OF EMS PERSONNEL LICENSURE INTERSTATE COMPACT; REPEAL-
+7 ING SECTION 56-1013C, IDAHO CODE, RELATING TO PURPOSE OF THE COMPACT;
+8 REPEALING SECTION 56-1013D, IDAHO CODE, RELATING TO DEFINITIONS; RE-
+9 PEALING SECTION 56-1013E, IDAHO CODE, RELATING TO HOME STATE LICENSURE;
+10 REPEALING SECTION 56-1013F, IDAHO CODE, RELATING TO COMPACT PRIVILEGE
+11 TO PRACTICE; REPEALING SECTION 56-1013G, IDAHO CODE, RELATING TO CONDI-
+12 TIONS OF PRACTICE IN A REMOTE STATE; REPEALING SECTION 56-1013H, IDAHO
+13 CODE, RELATING TO RELATIONSHIP TO EMERGENCY MANAGEMENT ASSISTANCE COM-
+14 PACT; REPEALING SECTION 56-1013I, IDAHO CODE, RELATING TO VETERANS AND
+15 SERVICE MEMBERS SEPARATING FROM ACTIVE DUTY MILITARY AND THEIR SPOUSES;
+16 REPEALING SECTION 56-1013J, IDAHO CODE, RELATING TO ADVERSE ACTIONS;
+17 REPEALING SECTION 56-1013K, IDAHO CODE, RELATING TO ADDITIONAL POWERS
+18 INVESTED IN A MEMBER STATE'S EMS AUTHORITY; REPEALING SECTION 56-1013L,
+19 IDAHO CODE, RELATING TO ESTABLISHMENT OF THE INTERSTATE COMMISSION
+20 FOR EMS PERSONNEL PRACTICE; REPEALING SECTION 56-1013M, IDAHO CODE,
+21 RELATING TO A COORDINATED DATABASE; REPEALING SECTION 56-1013N, IDAHO
+22 CODE, RELATING TO RULEMAKING; REPEALING SECTION 56-1013O, IDAHO CODE,
+23 RELATING TO OVERSIGHT, DISPUTE RESOLUTION AND ENFORCEMENT; REPEALING
+24 SECTION 56-1013P, IDAHO CODE, RELATING TO DATE OF IMPLEMENTATION OF THE
+25 INTERSTATE COMMISSION FOR EMS PERSONNEL PRACTICE AND ASSOCIATED RULES,
+26 WITHDRAWAL AND AMENDMENT; REPEALING SECTION 56-1013Q, IDAHO CODE, RE-
+27 LATING TO CONSTRUCTION AND SEVERABILITY; AND DECLARING AN EMERGENCY AND
+28 PROVIDING AN EFFECTIVE DATE.
+29 Be It Enacted by the Legislature of the State of Idaho:
+30 SECTION 1. That Title 46, Idaho Code, be, and the same is hereby amended
+31 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+32 ter 9, Title 46, Idaho Code, and to read as follows:
+33 CHAPTER 9
+34 EMERGENCY MEDICAL SERVICES ACT
+35 46-906. RECOGNITION OF EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+36 (REPLICA). The recognition of EMS personnel licensure interstate compact
+37 (REPLICA) is hereby enacted into law and entered into with all other juris-
+38 dictions legally joining therein, in the form substantially as follows:
+39 SECTION I
+40 PURPOSE
+
+2
+1 In order to protect the public through verification of competency and
+2 ensure accountability for patient care-related activities, all states li-
+3 cense emergency medical services (EMS) personnel, such as emergency medi-
+4 cal technicians (EMTs), advanced EMTs and paramedics. This compact is in-
+5 tended to facilitate the day-to-day movement of EMS personnel across state
+6 boundaries in the performance of their EMS duties as assigned by an appro-
+7 priate authority and authorize state EMS offices to afford immediate legal
+8 recognition to EMS personnel licensed in a member state. This compact rec-
+9 ognizes that states have a vested interest in protecting the public's health
+10 and safety through their licensing and regulation of EMS personnel and that
+11 such state regulation shared among the member states will best protect pub-
+12 lic health and safety. This compact is designed to achieve the following
+13 purposes and objectives:
+14 (1) Increase public access to EMS personnel;
+15 (2) Enhance the states' ability to protect the public's health and
+16 safety, especially patient safety;
+17 (3) Encourage the cooperation of member states in the areas of EMS per-
+18 sonnel licensure and regulation;
+19 (4) Support licensing of military members who are separating from an
+20 active duty tour and their spouses;
+21 (5) Facilitate the exchange of information between member states re-
+22 garding EMS personnel licensure, adverse action and significant investiga-
+23 tory information;
+24 (6) Promote compliance with the laws governing EMS personnel practice
+25 in each member state; and
+26 (7) Invest all member states with the authority to hold EMS personnel
+27 accountable through the mutual recognition of member state licenses.
+28 SECTION II
+29 DEFINITIONS
+30 As used in this compact:
+31 (1) "Advanced emergency medical technician" (AEMT) means an individual
+32 licensed with cognitive knowledge and a scope of practice that corresponds
+33 to that level in the national EMS education standards and national EMS scope
+34 of practice model.
+35 (2) "Adverse action" means any administrative, civil, equitable or
+36 criminal action permitted by a state's laws that may be imposed against li-
+37 censed EMS personnel by a state EMS authority or state court, including but
+38 not limited to actions against an individual's license such as revocation,
+39 suspension, probation, consent agreement, monitoring or other limitation
+40 or encumbrance on the individual's practice, letters of reprimand or ad-
+41 monition, fines, criminal convictions and state court judgments enforcing
+42 adverse actions by the state EMS authority.
+43 (3) "Alternative program" means a voluntary, nondisciplinary sub-
+44 stance abuse recovery program approved by a state EMS authority.
+45 (4) "Certification" means the successful verification of entry-level
+46 cognitive and psychomotor competency using a reliable, validated and
+47 legally defensible examination.
+
+3
+1 (5) "Commission" means the national administrative body of which all
+2 states that have enacted the compact are members.
+3 (6) "Emergency medical technician" (EMT) means an individual licensed
+4 with cognitive knowledge and a scope of practice that corresponds to that
+5 level in the national EMS education standards and national EMS scope of prac-
+6 tice model.
+7 (7) "Home state" means a member state where an individual is licensed to
+8 practice emergency medical services.
+9 (8) "License" means the authorization by a state for an individual to
+10 practice as an EMT, AEMT, paramedic or a level in between EMT and paramedic.
+11 (9) "Medical director" means a physician licensed in a member state who
+12 is accountable for the care delivered by EMS personnel.
+13 (10) "Member state" means a state that has enacted this compact.
+14 (11) "Paramedic" means an individual licensed with cognitive knowledge
+15 and a scope of practice that corresponds to that level in the national EMS
+16 education standards and national EMS scope of practice model.
+17 (12) "Privilege to practice" means an individual's authority to deliver
+18 emergency medical services in remote states as authorized under this com-
+19 pact.
+20 (13) "Remote state" means a member state in which an individual is not
+21 licensed.
+22 (14) "Restricted" means the outcome of an adverse action that limits a
+23 license or the privilege to practice.
+24 (15) "Rule" means a written statement by the commission promulgated
+25 pursuant to section XII of this compact that is of general applicability; im-
+26 plements, interprets or prescribes a policy or provision of the compact; or
+27 is an organizational, procedural or practice requirement of the commission
+28 and has the force and effect of statutory law in a member state and includes
+29 the amendment, repeal or suspension of an existing rule.
+30 (16) "Scope of practice" means defined parameters of various duties or
+31 services that may be provided by an individual with specific credentials.
+32 Whether regulated by rule, statute or court decision, it tends to represent
+33 the limits of services an individual may perform.
+34 (17) "Significant investigatory information" means:
+35 (a) Investigative information that a state EMS authority, after a pre-
+36 liminary inquiry that includes notification and an opportunity to re-
+37 spond if required by state law, has reason to believe, if proved true,
+38 would result in the imposition of an adverse action on a license or priv-
+39 ilege to practice; or
+40 (b) Investigative information that indicates that the individual rep-
+41 resents an immediate threat to public health and safety regardless of
+42 whether the individual has been notified and had an opportunity to re-
+43 spond.
+44 (18) "State" means any state, commonwealth, district or territory of
+45 the United States.
+46 (19) "State EMS authority" means the board, office or other agency with
+47 the legislative mandate to license EMS personnel.
+48 SECTION III
+49 HOME STATE LICENSE
+
+4
+1 (1) Any member state in which an individual holds a current license
+2 shall be deemed a home state for purposes of this compact.
+3 (2) Any member state may require an individual to obtain and retain a
+4 license to be authorized to practice in the member state under circumstances
+5 not authorized by the privilege to practice under the terms of this compact.
+6 (3) A home state's license authorizes an individual to practice in a re-
+7 mote state under the privilege to practice only if the home state:
+8 (a) Currently requires the use of the national registry of emergency
+9 medical technicians (NREMT) examination as a condition of issuing ini-
+10 tial licenses at the EMT and paramedic levels;
+11 (b) Has a mechanism in place for receiving and investigating complaints
+12 about individuals;
+13 (c) Notifies the commission, in compliance with the terms of this com-
+14 pact, of any adverse action or significant investigatory information
+15 regarding an individual;
+16 (d) No later than five (5) years after activation of the compact, re-
+17 quires a criminal background check of all applicants for initial licen-
+18 sure, including the use of the results of fingerprint or other biometric
+19 data checks compliant with the requirements of the federal bureau of in-
+20 vestigation with the exception of federal employees who have suitabil-
+21 ity determination in accordance with 5 CFR 731.202 and submit documen-
+22 tation of such as promulgated in the rules of the commission; and
+23 (e) Complies with the rules of the commission.
+24 SECTION IV
+25 COMPACT PRIVILEGE TO PRACTICE
+26 (1) Member states shall recognize the privilege to practice of an indi-
+27 vidual licensed in another member state that is in conformance with section
+28 III of this compact.
+29 (2) To exercise the privilege to practice under the terms and provi-
+30 sions of this compact, an individual must:
+31 (a) Be at least eighteen (18) years of age;
+32 (b) Possess a current unrestricted license in a member state as an EMT,
+33 AEMT, paramedic or state recognized level of licensure with a scope of
+34 practice and authority between EMT and paramedic; and
+35 (c) Practice under the supervision of a medical director.
+36 (3) An individual providing patient care in a remote state under the
+37 privilege to practice shall function within the scope of practice authorized
+38 by the home state unless and until modified by an appropriate authority in
+39 the remote state as may be defined in the rules of the commission.
+40 (4) Except as provided in this section, an individual practicing in a
+41 remote state will be subject to the remote state's authority and laws. A
+42 remote state may, in accordance with due process and that state's laws, re-
+43 strict, suspend or revoke an individual's privilege to practice in the re-
+44 mote state and may take any other necessary actions to protect the health and
+45 safety of its citizens. If a remote state takes action, it shall promptly no-
+46 tify the home state and the commission.
+47 (5) If an individual's license in any home state is restricted or sus-
+48 pended, the individual shall not be eligible to practice in a remote state
+
+5
+1 under the privilege to practice until the individual's home state license is
+2 restored.
+3 (6) If an individual's privilege to practice in any remote state is
+4 restricted, suspended or revoked, the individual shall not be eligible to
+5 practice in any remote state until the individual's privilege to practice is
+6 restored.
+7 SECTION V
+8 CONDITIONS OF PRACTICE IN A REMOTE STATE
+9 An individual may practice in a remote state under a privilege to prac-
+10 tice only in the performance of the individual's EMS duties as assigned by an
+11 appropriate authority, as defined in the rules of the commission, and under
+12 the following circumstances:
+13 (1) The individual originates a patient transport in a home state and
+14 transports the patient to a remote state;
+15 (2) The individual originates in the home state and enters a remote
+16 state to pick up a patient and provide care and transport of the patient to
+17 the home state;
+18 (3) The individual enters a remote state to provide patient care and/or
+19 transport within that remote state;
+20 (4) The individual enters a remote state to pick up a patient and pro-
+21 vide care and transport to a third member state; and
+22 (5) Other conditions as determined by rules promulgated by the commis-
+23 sion.
+24 SECTION VI
+25 RELATIONSHIP TO EMERGENCY MANAGEMENT ASSISTANCE COMPACT
+26 Upon a member state's governor's declaration of a state of emergency or
+27 disaster that activates the emergency management assistance compact (EMAC),
+28 all relevant terms and provisions of EMAC shall apply and to the extent any
+29 terms or provisions of this compact conflict with EMAC, the terms of EMAC
+30 shall prevail with respect to any individual practicing in the remote state
+31 in response to such declaration.
+32 SECTION VII
+33 VETERANS, SERVICE MEMBERS SEPARATING FROM ACTIVE DUTY MILITARY, AND THEIR
+34 SPOUSES
+35 (1) Member states shall consider a veteran, active military service
+36 member, and member of the national guard and reserves separating from an
+37 active duty tour, and a spouse thereof, who holds a current valid and unre-
+38 stricted NREMT certification at or above the level of the state license being
+39 sought as satisfying the minimum training and examination requirements for
+40 such licensure.
+41 (2) Member states shall expedite the processing of licensure applica-
+42 tions submitted by veterans, active military service members, and members
+43 of the national guard and reserves separating from an active duty tour, and
+44 their spouses.
+
+6
+1 (3) All individuals functioning with a privilege to practice under this
+2 section remain subject to the adverse actions provisions of section VIII of
+3 this compact.
+4 SECTION VIII
+5 ADVERSE ACTIONS
+6 (1) A home state shall have exclusive power to impose adverse action
+7 against an individual's license issued by the home state.
+8 (2) If an individual's license in any home state is restricted or sus-
+9 pended, the individual shall not be eligible to practice in a remote state
+10 under the privilege to practice until the individual's home state license is
+11 restored.
+12 (a) All home state adverse action orders shall include a statement that
+13 the individual's compact privileges are inactive. The order may allow
+14 the individual to practice in remote states with prior written autho-
+15 rization from both the home state and remote state's EMS authority.
+16 (b) An individual currently subject to adverse action in the home state
+17 shall not practice in any remote state without prior written authoriza-
+18 tion from both the home state and remote state's EMS authority.
+19 (3) A member state shall report adverse actions and any occurrences
+20 that the individual's compact privileges are restricted, suspended or re-
+21 voked to the commission in accordance with the rules of the commission.
+22 (4) A remote state may take adverse action on an individual's privilege
+23 to practice within that state.
+24 (5) Any member state may take adverse action against an individual's
+25 privilege to practice in that state based on the factual findings of another
+26 member state, as long as each state follows its own procedures for imposing
+27 such adverse action.
+28 (6) A home state's EMS authority shall investigate and take appropriate
+29 action with respect to reported conduct in a remote state as it would if such
+30 conduct had occurred within the home state. In such cases, the home state's
+31 law shall control in determining the appropriate adverse action.
+32 (7) Nothing in this compact shall override a member state's decision
+33 that participation in an alternative program may be used in lieu of adverse
+34 action and that such participation shall remain nonpublic if required by
+35 the member state's laws. Member states must require individuals who enter
+36 any alternative programs to agree not to practice in any other member state
+37 during the term of the alternative program without prior authorization from
+38 such other member state.
+39 SECTION IX
+40 ADDITIONAL POWERS INVESTED IN A MEMBER STATE'S EMS AUTHORITY
+41 A member state's EMS authority, in addition to any other powers granted
+42 under state law, is authorized under this compact to:
+43 (1) Issue subpoenas for both hearings and investigations that require
+44 the attendance and testimony of witnesses and the production of evidence.
+45 Subpoenas issued by a member state's EMS authority for the attendance and
+46 testimony of witnesses, and/or the production of evidence from another mem-
+
+7
+1 ber state, shall be enforced in the remote state by any court of competent
+2 jurisdiction, according to that court's practice and procedure in consider-
+3 ing subpoenas issued in its own proceedings. The issuing state EMS authority
+4 shall pay any witness fees, travel expenses, mileage and other fees required
+5 by the service statutes of the state where the witnesses and/or evidence are
+6 located; and
+7 (2) Issue cease and desist orders to restrict, suspend or revoke an in-
+8 dividual's privilege to practice in the state.
+9 SECTION X
+10 ESTABLISHMENT OF THE INTERSTATE COMMISSION FOR EMS PERSONNEL PRACTICE
+11 (1) The compact states hereby create and establish a joint public
+12 agency known as the interstate commission for EMS personnel practice.
+13 (a) The commission is a body politic and an instrumentality of the com-
+14 pact states.
+15 (b) Venue is proper and judicial proceedings by or against the commis-
+16 sion shall be brought solely and exclusively in a court of competent ju-
+17 risdiction where the principal office of the commission is located. The
+18 commission may waive venue and jurisdictional defenses to the extent
+19 it adopts or consents to participate in alternative dispute resolution
+20 proceedings.
+21 (c) Nothing in this compact shall be construed to be a waiver of
+22 sovereign immunity.
+23 (2) Membership, voting, and meetings.
+24 (a) Each member state shall have and be limited to one (1) delegate. The
+25 responsible official of the state EMS authority or such official's de-
+26 signee shall be the delegate to this compact for each member state. Any
+27 delegate may be removed or suspended from office as provided by the law
+28 of the state from which the delegate is appointed. Any vacancy occur-
+29 ring in the commission shall be filled in accordance with the laws of the
+30 member state in which the vacancy exists. In the event that more than
+31 one (1) board, office or other agency with the legislative mandate to
+32 license EMS personnel at and above the level of EMT exists, the governor
+33 of the state will determine which entity will be responsible for assign-
+34 ing the delegate.
+35 (b) Each delegate shall be entitled to one (1) vote with regard to the
+36 promulgation of rules and creation of bylaws and shall otherwise have
+37 an opportunity to participate in the business and affairs of the commis-
+38 sion. A delegate shall vote in person or by such other means as provided
+39 in the bylaws. The bylaws may provide for delegates' participation in
+40 meetings by telephone or other means of communication.
+41 (c) The commission shall meet at least once during each calendar year.
+42 Additional meetings shall be held as set forth in the bylaws.
+43 (d) All meetings shall be open to the public, and public notice of meet-
+44 ings shall be given in the same manner as required under the rulemaking
+45 provisions in section XII of this compact.
+46 (e) The commission may convene in a closed, nonpublic meeting if the
+47 commission must discuss noncompliance of a member state with its obli-
+48 gations under the compact; the employment, compensation, discipline or
+
+8
+1 other personnel matters, practices or procedures related to specific
+2 employees or other matters related to the commission's internal person-
+3 nel practices and procedures; current, threatened or reasonably antic-
+4 ipated litigation; negotiation of contracts for the purchase or sale of
+5 goods, services or real estate; accusing any person of a crime or for-
+6 mally censuring any person; disclosure of trade secrets or commercial
+7 or financial information that is privileged or confidential; disclo-
+8 sure of information of a personal nature where disclosure would consti-
+9 tute a clearly unwarranted invasion of personal privacy; disclosure of
+10 investigatory records compiled for law enforcement purposes; disclo-
+11 sure of information related to any investigatory reports prepared by or
+12 on behalf of or for use of the commission or other committee charged with
+13 responsibility of investigation or determination of compliance issues
+14 pursuant to the compact; or matters specifically exempted from disclo-
+15 sure by federal or member state statute.
+16 (f) If a meeting, or portion of a meeting, is closed pursuant to this
+17 provision, the commission's legal counsel or designee shall certify
+18 that the meeting may be closed and shall reference each relevant exempt-
+19 ing provision. The commission shall keep minutes that fully and clearly
+20 describe all matters discussed in a meeting and shall provide a full and
+21 accurate summary of actions taken, and the reasons therefore, including
+22 a description of the views expressed. All documents considered in con-
+23 nection with an action shall be identified in such minutes. All minutes
+24 and documents of a closed meeting shall remain under seal, subject to
+25 release by a majority vote of the commission or order of a court of com-
+26 petent jurisdiction.
+27 (3) The commission shall, by a majority vote of the delegates, pre-
+28 scribe bylaws and/or rules to govern its conduct as may be necessary or
+29 appropriate to carry out the purposes and exercise the powers of the compact,
+30 including but not limited to:
+31 (a) Establishing the fiscal year of the commission;
+32 (b) Providing reasonable standards and procedures for the establish-
+33 ment and meetings of other committees; and governing any general or spe-
+34 cific delegation of any authority or function of the commission;
+35 (c) Providing reasonable procedures for calling and conducting meet-
+36 ings of the commission, ensuring reasonable advance notice of all meet-
+37 ings, and providing an opportunity for attendance of such meetings by
+38 interested parties, with enumerated exceptions designed to protect the
+39 public's interest, the privacy of individuals, and proprietary infor-
+40 mation, including trade secrets. The commission may meet in closed ses-
+41 sion only after a majority of the membership votes to close a meeting in
+42 whole or in part. As soon as practicable, the commission must make pub-
+43 lic a copy of the vote to close the meeting revealing the vote of each
+44 member with no proxy votes allowed;
+45 (d) Establishing the titles, duties and authority, and reasonable pro-
+46 cedures for the election of the officers of the commission;
+47 (e) Providing reasonable standards and procedures for the establish-
+48 ment of the personnel policies and programs of the commission. Notwith-
+49 standing any civil service or other similar laws of any member state,
+
+9
+1 the bylaws shall exclusively govern the personnel policies and programs
+2 of the commission;
+3 (f) Promulgating a code of ethics to address permissible and prohibited
+4 activities of commission members and employees;
+5 (g) Providing a mechanism for winding up the operations of the commis-
+6 sion and the equitable disposition of any surplus funds that may exist
+7 after the termination of the compact after the payment and/or reserving
+8 of all of its debts and obligations;
+9 (h) Publishing its bylaws and filing a copy thereof, and a copy of any
+10 amendment thereto, with the appropriate agency or officer in each of the
+11 member states, if any;
+12 (i) Maintaining its financial records in accordance with the bylaws;
+13 and
+14 (j) Meeting and taking such actions as are consistent with the provi-
+15 sions of this compact and the bylaws.
+16 (4) The commission shall have the following powers:
+17 (a) The authority to promulgate uniform rules to facilitate and coor-
+18 dinate implementation and administration of this compact. The rules
+19 shall have the force and effect of law and shall be binding in all member
+20 states;
+21 (b) To bring and prosecute legal proceedings or actions in the name of
+22 the commission, provided that the standing of any state EMS authority or
+23 other regulatory body responsible for EMS personnel licensure to sue or
+24 be sued under applicable law shall not be affected;
+25 (c) To purchase and maintain insurance and bonds;
+26 (d) To borrow, accept or contract for services of personnel, including
+27 but not limited to employees of a member state;
+28 (e) To hire employees, elect or appoint officers, fix compensation, de-
+29 fine duties, grant such individuals appropriate authority to carry out
+30 the purposes of the compact, and to establish the commission's person-
+31 nel policies and programs relating to conflicts of interest, qualifica-
+32 tions of personnel, and other related personnel matters;
+33 (f) To accept any and all appropriate donations and grants of money,
+34 equipment, supplies, materials and services, and to receive, utilize
+35 and dispose of the same; provided that at all times the commission shall
+36 strive to avoid any appearance of impropriety and/or conflict of inter-
+37 est;
+38 (g) To lease, purchase, accept appropriate gifts or donations of, or
+39 otherwise to own, hold, improve or use, any property, real, personal or
+40 mixed; provided that at all times the commission shall strive to avoid
+41 any appearance of impropriety;
+42 (h) To sell, convey, mortgage, pledge, lease, exchange, abandon, or
+43 otherwise dispose of any property, real, personal or mixed;
+44 (i) To establish a budget and make expenditures;
+45 (j) To borrow money;
+46 (k) To appoint committees, including advisory committees comprised of
+47 members, state regulators, state legislators or their representatives,
+48 and consumer representatives, and such other interested persons as may
+49 be designated in this compact and the bylaws;
+
+10
+1 (l) To provide and receive information from, and to cooperate with, law
+2 enforcement agencies;
+3 (m) To adopt and use an official seal; and
+4 (n) To perform such other functions as may be necessary or appropriate
+5 to achieve the purposes of this compact consistent with the state regu-
+6 lation of EMS personnel licensure and practice.
+7 (5) Financing of the commission.
+8 (a) The commission shall pay, or provide for the payment of, the rea-
+9 sonable expenses of its establishment, organization and ongoing activ-
+10 ities.
+11 (b) The commission may accept any and all appropriate revenue sources,
+12 donations, and grants of money, equipment, supplies, materials and ser-
+13 vices.
+14 (c) The commission may levy on and collect an annual assessment from
+15 each member state or impose fees on other parties to cover the cost of
+16 the operations and activities of the commission and its staff, which
+17 must be in a total amount sufficient to cover its annual budget as ap-
+18 proved each year for which revenue is not provided by other sources. The
+19 aggregate annual assessment amount shall be allocated based upon a for-
+20 mula to be determined by the commission, which shall promulgate a rule
+21 binding upon all member states.
+22 (d) The commission shall not incur obligations of any kind prior to
+23 securing the funds adequate to meet the same; nor shall the commission
+24 pledge the credit of any of the member states, except by and with the
+25 authority of the member state.
+26 (e) The commission shall keep accurate accounts of all receipts and
+27 disbursements. The receipts and disbursements of the commission shall
+28 be subject to the audit and accounting procedures established under its
+29 bylaws. However, all receipts and disbursements of funds handled by the
+30 commission shall be audited yearly by a certified or licensed public
+31 accountant, and the report of the audit shall be included in and become
+32 part of the annual report of the commission.
+33 (6) Qualified immunity, defense, and indemnification.
+34 (a) The members, officers, executive director, employees and represen-
+35 tatives of the commission shall be immune from suit and liability, ei-
+36 ther personally or in their official capacity, for any claim for dam-
+37 age to or loss of property or personal injury or other civil liability
+38 caused by or arising out of any actual or alleged act, error or omission
+39 that occurred, or that the person against whom the claim is made had a
+40 reasonable basis for believing occurred within the scope of commission
+41 employment, duties or responsibilities; provided that nothing in this
+42 paragraph shall be construed to protect any such person from suit and/or
+43 liability for any damage, loss, injury or liability caused by the inten-
+44 tional or willful or wanton misconduct of that person.
+45 (b) The commission shall defend any member, officer, executive direc-
+46 tor, employee or representative of the commission in any civil action
+47 seeking to impose liability arising out of any actual or alleged act,
+48 error or omission that occurred within the scope of commission employ-
+49 ment, duties or responsibilities, or that the person against whom the
+50 claim is made had a reasonable basis for believing occurred within the
+
+11
+1 scope of commission employment, duties or responsibilities; provided
+2 that nothing in this section shall be construed to prohibit that person
+3 from retaining such person's own counsel; and provided further, that
+4 the actual or alleged act, error or omission did not result from that
+5 person's intentional or willful or wanton misconduct.
+6 (c) The commission shall indemnify and hold harmless any member, offi-
+7 cer, executive director, employee or representative of the commission
+8 for the amount of any settlement or judgment obtained against that per-
+9 son arising out of any actual or alleged act, error or omission that oc-
+10 curred within the scope of commission employment, duties or responsi-
+11 bilities, or that such person had a reasonable basis for believing oc-
+12 curred within the scope of commission employment, duties or responsi-
+13 bilities, provided that the actual or alleged act, error or omission did
+14 not result from the intentional or willful or wanton misconduct of that
+15 person.
+16 SECTION XI
+17 COORDINATED DATABASE
+18 (1) The commission shall provide for the development and maintenance of
+19 a coordinated database and reporting system containing licensure, adverse
+20 action and significant investigatory information on all licensed individu-
+21 als in member states.
+22 (2) Notwithstanding any other provision of state law to the contrary, a
+23 member state shall submit a uniform data set to the coordinated database on
+24 all individuals to whom this compact is applicable as required by the rules
+25 of the commission, including:
+26 (a) Identifying information;
+27 (b) Licensure data;
+28 (c) Significant investigatory information;
+29 (d) Adverse actions against an individual's license;
+30 (e) An indicator that an individual's privilege to practice is re-
+31 stricted, suspended or revoked;
+32 (f) Nonconfidential information related to alternative program par-
+33 ticipation;
+34 (g) Any denial of application for licensure and the reason(s) for such
+35 denial; and
+36 (h) Other information that may facilitate the administration of this
+37 compact, as determined by the rules of the commission.
+38 (3) The coordinated database administrator shall promptly notify all
+39 member states of any adverse action taken against, or significant investiga-
+40 tive information on, any individual in a member state.
+41 (4) Member states contributing information to the coordinated database
+42 may designate information that may not be shared with the public without the
+43 express permission of the contributing state.
+44 (5) Any information submitted to the coordinated database that is sub-
+45 sequently required to be expunged by the laws of the member state contribut-
+46 ing the information shall be removed from the coordinated database.
+47 SECTION XII
+
+12
+1 RULEMAKING
+2 (1) The commission shall exercise its rulemaking powers pursuant to the
+3 criteria set forth in this section and the rules adopted thereunder. Rules
+4 and amendments shall become binding as of the date specified in each rule or
+5 amendment.
+6 (2) If a majority of the legislatures of the member states rejects a
+7 rule, by enactment of a statute or resolution in the same manner used to adopt
+8 the compact, then such rule shall have no further force and effect in any mem-
+9 ber state.
+10 (3) Rules or amendments to the rules shall be adopted at a regular or
+11 special meeting of the commission.
+12 (4) Prior to promulgation and adoption of a final rule or rules by the
+13 commission, and at least sixty (60) days in advance of the meeting at which
+14 the rule will be considered and voted upon, the commission shall file a no-
+15 tice of proposed rulemaking:
+16 (a) On the website of the commission; and
+17 (b) On the website of each member state EMS authority or the publication
+18 in which each state would otherwise publish proposed rules.
+19 (5) The notice of proposed rulemaking shall include:
+20 (a) The proposed time, date and location of the meeting in which the
+21 rule will be considered and voted upon;
+22 (b) The text of the proposed rule or amendment and the reason for the
+23 proposed rule;
+24 (c) A request for comments on the proposed rule from any interested per-
+25 son; and
+26 (d) The manner in which interested persons may submit notice to the com-
+27 mission of their intention to attend the public hearing and any written
+28 comments.
+29 (6) Prior to adoption of a proposed rule, the commission shall allow
+30 persons to submit written data, facts, opinions and arguments, which shall
+31 be made available to the public.
+32 (7) The commission shall grant an opportunity for a public hearing be-
+33 fore it adopts a rule or amendment if a hearing is requested by:
+34 (a) At least twenty-five (25) persons;
+35 (b) A governmental subdivision or agency; or
+36 (c) An association having at least twenty-five (25) members.
+37 (8) If a hearing is held on the proposed rule or amendment, the commis-
+38 sion shall publish the place, time and date of the scheduled public hearing.
+39 (a) All persons wishing to be heard at the hearing shall notify the ex-
+40 ecutive director of the commission or other designated member in writ-
+41 ing of their desire to appear and testify at the hearing not less than
+42 five (5) business days before the scheduled date of the hearing.
+43 (b) Hearings shall be conducted in a manner providing each person who
+44 wishes to comment a fair and reasonable opportunity to comment orally or
+45 in writing.
+46 (c) No transcript of the hearing is required, unless a written request
+47 for a transcript is made, in which case the person requesting the tran-
+48 script shall bear the cost of producing the transcript. A recording may
+49 be made in lieu of a transcript under the same terms and conditions as
+
+13
+1 a transcript. This subsection shall not preclude the commission from
+2 making a transcript or recording of the hearing if it so chooses.
+3 (d) Nothing in this section shall be construed as requiring a separate
+4 hearing on each rule. Rules may be grouped for the convenience of the
+5 commission at hearings required by this section.
+6 (9) Following the scheduled hearing date, or by the close of business on
+7 the scheduled hearing date if the hearing was not held, the commission shall
+8 consider all written and oral comments received.
+9 (10) The commission shall, by majority vote of all members, take final
+10 action on the proposed rule and shall determine the effective date of the
+11 rule, if any, based on the rulemaking record and the full text of the rule.
+12 (11) If no written notice of intent to attend the public hearing by in-
+13 terested parties is received, the commission may proceed with promulgation
+14 of the proposed rule without a public hearing.
+15 (12) Upon determination that an emergency exists, the commission may
+16 consider and adopt an emergency rule without prior notice, opportunity for
+17 comment, or hearing, provided that the usual rulemaking procedures provided
+18 in the compact and in this section shall be retroactively applied to the rule
+19 as soon as reasonably possible, in no event later than ninety (90) days after
+20 the effective date of the rule. For the purposes of this provision, an emer-
+21 gency rule is one that must be adopted immediately in order to:
+22 (a) Meet an imminent threat to public health, safety or welfare;
+23 (b) Prevent a loss of commission or member state funds;
+24 (c) Meet a deadline for the promulgation of an administrative rule that
+25 is established by federal law or rule; or
+26 (d) Protect public health and safety.
+27 (13) The commission or an authorized committee of the commission may di-
+28 rect revisions to a previously adopted rule or amendment for purposes of cor-
+29 recting typographical errors, errors in format, errors in consistency, or
+30 grammatical errors. Public notice of any revisions shall be posted on the
+31 website of the commission. The revision shall be subject to challenge by any
+32 person for a period of thirty (30) days after posting. The revision may be
+33 challenged only on grounds that the revision results in a material change
+34 to a rule. A challenge shall be made in writing, and delivered to the chair
+35 of the commission prior to the end of the notice period. If no challenge is
+36 made, the revision will take effect without further action. If the revision
+37 is challenged, the revision may not take effect without the approval of the
+38 commission.
+39 SECTION XIII
+40 OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+41 (1) Oversight.
+42 (a) The executive, legislative and judicial branches of state govern-
+43 ment in each member state shall enforce this compact and take all ac-
+44 tions necessary and appropriate to effectuate the compact's purposes
+45 and intent. The provisions of this compact and the rules promulgated
+46 hereunder shall have standing as statutory law.
+47 (b) All courts shall take judicial notice of the compact and the rules
+48 in any judicial or administrative proceeding in a member state pertain-
+
+14
+1 ing to the subject matter of this compact that may affect the powers, re-
+2 sponsibilities or actions of the commission.
+3 (c) The commission shall be entitled to receive service of process in
+4 any such proceeding, and shall have standing to intervene in such a pro-
+5 ceeding for all purposes. Failure to provide service of process to the
+6 commission shall render a judgment or order void as to the commission,
+7 this compact, or promulgated rules.
+8 (2) Default, technical assistance, and termination.
+9 (a) If the commission determines that a member state has defaulted in
+10 the performance of its obligations or responsibilities under this com-
+11 pact or the promulgated rules, the commission shall provide written no-
+12 tice to the defaulting state and other member states of the nature of the
+13 default, the proposed means of curing the default and/or any other ac-
+14 tion to be taken by the commission; and provide remedial training and
+15 specific technical assistance regarding the default.
+16 (b) If a state in default fails to cure the default, the defaulting
+17 state may be terminated from the compact upon an affirmative vote of a
+18 majority of the member states, and all rights, privileges and benefits
+19 conferred by this compact may be terminated on the effective date of
+20 termination. A cure of the default does not relieve the offending state
+21 of obligations or liabilities incurred during the period of default.
+22 (c) Termination of membership in the compact shall be imposed only af-
+23 ter all other means of securing compliance have been exhausted. Notice
+24 of intent to suspend or terminate shall be given by the commission to the
+25 governor, the majority and minority leaders of the defaulting state's
+26 legislature, and each of the member states.
+27 (d) A state that has been terminated is responsible for all assess-
+28 ments, obligations and liabilities incurred through the effective date
+29 of termination, including obligations that extend beyond the effective
+30 date of termination.
+31 (e) The commission shall not bear any costs related to a state that is
+32 found to be in default or that has been terminated from the compact, un-
+33 less agreed upon in writing between the commission and the defaulting
+34 state.
+35 (f) The defaulting state may appeal the action of the commission by pe-
+36 titioning the United States district court for the District of Columbia
+37 or the federal district where the commission has its principal offices.
+38 The prevailing member shall be awarded all costs of such litigation, in-
+39 cluding reasonable attorney's fees.
+40 (3) Dispute resolution.
+41 (a) Upon request by a member state, the commission shall attempt to re-
+42 solve disputes related to the compact that arise among member states and
+43 between member and nonmember states.
+44 (b) The commission shall promulgate a rule providing for both mediation
+45 and binding dispute resolution for disputes as appropriate.
+46 (4) Enforcement.
+47 (a) The commission, in the reasonable exercise of its discretion, shall
+48 enforce the provisions and rules of this compact.
+49 (b) By majority vote, the commission may initiate legal action in the
+50 United States district court for the District of Columbia or the fed-
+
+15
+1 eral district where the commission has its principal offices against
+2 a member state in default to enforce compliance with the provisions of
+3 the compact and its promulgated rules and bylaws. The relief sought
+4 may include both injunctive relief and damages. In the event judicial
+5 enforcement is necessary, the prevailing member shall be awarded all
+6 costs of such litigation, including reasonable attorney's fees.
+7 (c) The remedies in this section shall not be the exclusive remedies of
+8 the commission. The commission may pursue any other remedies available
+9 under federal or state law.
+10 SECTION XIV
+11 DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR EMS PERSONNEL
+12 PRACTICE AND ASSOCIATED RULES, WITHDRAWAL, AND AMENDMENT
+13 (1) The compact shall come into effect on the date on which the compact
+14 statute is enacted into law in the tenth member state. The provisions, which
+15 become effective at that time, shall be limited to the powers granted to the
+16 commission relating to assembly and the promulgation of rules. Thereafter,
+17 the commission shall meet and exercise rulemaking powers necessary to the
+18 implementation and administration of the compact.
+19 (2) Any state that joins the compact subsequent to the commission's
+20 initial adoption of the rules shall be subject to the rules as they exist
+21 on the date on which the compact becomes law in that state. Any rule that
+22 has been previously adopted by the commission shall have the full force and
+23 effect of law on the day the compact becomes law in that state.
+24 (3) Any member state may withdraw from this compact by enacting a
+25 statute repealing the same.
+26 (a) A member state's withdrawal shall not take effect until six (6)
+27 months after enactment of the repealing statute.
+28 (b) Withdrawal shall not affect the continuing requirement of the with-
+29 drawing state's EMS authority to comply with the investigative and ad-
+30 verse action reporting requirements of this compact prior to the effec-
+31 tive date of withdrawal.
+32 (4) Nothing contained in this compact shall be construed to invalidate
+33 or prevent any EMS personnel licensure agreement or other cooperative ar-
+34 rangement between a member state and a nonmember state that does not conflict
+35 with the provisions of this compact.
+36 (5) This compact may be amended by the member states. No amendment to
+37 this compact shall become effective and binding upon any member state until
+38 it is enacted into the laws of all member states.
+39 SECTION XV
+40 CONSTRUCTION AND SEVERABILITY
+41 This compact shall be liberally construed so as to effectuate the pur-
+42 poses thereof. If this compact shall be held contrary to the constitution of
+43 any state member thereto, the compact shall remain in full force and effect
+44 as to the remaining member states. Nothing in this compact supersedes state
+45 law or rules related to licensure of EMS agencies.
+
+16
+1 SECTION 2. That Section 56-1013B, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 3. That Section 56-1013C, Idaho Code, be, and the same is hereby
+4 repealed.
+5 SECTION 4. That Section 56-1013D, Idaho Code, be, and the same is hereby
+6 repealed.
+7 SECTION 5. That Section 56-1013E, Idaho Code, be, and the same is hereby
+8 repealed.
+9 SECTION 6. That Section 56-1013F, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 7. That Section 56-1013G, Idaho Code, be, and the same is hereby
+12 repealed.
+13 SECTION 8. That Section 56-1013H, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 9. That Section 56-1013I, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 10. That Section 56-1013J, Idaho Code, be, and the same is
+18 hereby repealed.
+19 SECTION 11. That Section 56-1013K, Idaho Code, be, and the same is
+20 hereby repealed.
+21 SECTION 12. That Section 56-1013L, Idaho Code, be, and the same is
+22 hereby repealed.
+23 SECTION 13. That Section 56-1013M, Idaho Code, be, and the same is
+24 hereby repealed.
+25 SECTION 14. That Section 56-1013N, Idaho Code, be, and the same is
+26 hereby repealed.
+27 SECTION 15. That Section 56-1013O, Idaho Code, be, and the same is
+28 hereby repealed.
+29 SECTION 16. That Section 56-1013P, Idaho Code, be, and the same is
+30 hereby repealed.
+31 SECTION 17. That Section 56-1013Q, Idaho Code, be, and the same is
+32 hereby repealed.
+33 SECTION 18. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YTNADDECNAGTOEYMLS;AGTE4,IOCYTEANOFANWCR9,TE4,IOC,TOPRTERNOFTEESPLLEIEC;RGSN5,IOC,RGTOTNOFESPLLEIEC;RGSN5,IOC,RGTOPEOFTECGSN5,IOC,RGTOD;RGSN5,IOC,RGTOHESELGSN5,IOC,RGTOCTPOP;RGSN5,IOC,RGTOCSOFPEINARES;RGSN5,I,RGTORPTOEYMTAEC;RGSN5,IOC,RGTOVSAEMSSGFMAEDYMYADTRSGSN5,IOC,RGTOAEAGSN5,IOC,RGTOALPDINAMRSSESA;RGSN5OC,RGTOETOFTEIECRESPLP;RGSN5,IOCGTOACDD;RGSN5,I,RGTOR;RGSN5,IOCGTOO,DERNADE;RN5,IOC,RGTODEOFINOFTECNFRESPLPEADADRLADA;RGSN5,IOC,RGTOCNADS;ADDGANEYAGANEEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr9,Te4,IoC,adtordasfRYMLSSA.RNOFESPLLEIEC.TernofESplleiec)ishyediolwadediowhalorjslyjgt,intefmsyasfN]
+[DELETED: nortopttepcthvnofcyaeayfrptcda,alssleeymlss()p,shaseymlts(,adEsadp.TsctisidtofetedymtofESplasssintepeoftrESdsasadbyanaeayadaeseESostoadielntoESplldinamrs.TsctrsttssheavditinpgtepshdsythtrlgadrnofESpladthsernsdagtemrsswlbtptpchhads.Tsctisddtoaetefsado)IepcastoESp)Eetes'aytopttepshha,eypts)EetecnofmrssinteasofESplleadr)Stlgofmymswoaesgfmaedytradtrs)FeteeeofinbnmrssrgESpll,aeanadstiyi)PecewhtelsggESplpnehmrs;a)ItalmrsswhteaytohdESpethtemlrnofmrselNIsudintsc)"deymlt"()msanidwhcekeadaseofpettcottllintenlESenssadnlESsfpem)"ea"msaya,c,eeolanpdbyasslsttmybeidatldESplbyaseESayorsec,igbtldtoasatanisleshasr,p,cta,mgororlreeonteisp,lsofrdora,f,clcsadsectjseeasbyteseESa)"ep"msav,nyseaerypmadbyaseESa)""msteslvnofeeadprcyugar,vdaydee]
+[DELETED: )""mstenlaebyofwhasttheedtectaem)"ymlt"()msanillhcekeadaseofpettcstotlintenlESenssadnlESseofpem)"es"msamrseweanilisldteeymls)""msteanbyasefranilteasanE,A,pcorallinbnETadp)"ld"msapnldinamrsewsaefrteceddbyESp)"rs"msasetthsedtsc)""msanilldwhcekdaseofpettcstottllintenlEnssadnlESseofpem)"etop"msanisaytodymlssinressasadurtsc)"es"msamrseinwhanilisn)""msteoeofanaeanttlseortepetop)""msawnstbytecnpttosnXIoftsctttisofgla;i,isorpsapyorpnoftec;osano,plorpertoftecdhstefeadetofsylwinamrseadiea,rlorsnofanegr)"eofp"msddpsofvsdsosttmybepdbyanilwhsccrrdbyr,seorctd,ittstorelsofssanilmyp)"tiyi"m)IeinttaseESa,arapyiyttisnnadanoytordifrdbysel,hsrntob,ifpdtdrtinteinofanaeanonaleorpetop;o)Ieinttisttteilrsanietttopchhadsyrsorteilhsbnndadhdanoytor)""msays,c,dtortyoeUdS)"eESa"msteb,oeororaywelemetoleESpNIESEL]
+[DELETED: )Aymrseinwhanilhsactllbeddahesefrpsoftsc)Aymrsemyreaniltoonadrnetobeadtopeintemrseurctadbytepetopeurtetsoftsc)Ahessleasaniltopeinareseurtepetopeoyiftehes)Cyrsteueoftenlryofelts()enasacnofigillsatteETadpcl)Hsamminpefrrgadigcti)Nstec,incewhtetsoftsc,ofayaeanorstiyigani)Nolrtnfe()ysaranoftec,rsaclbdckofalasfrill,igteueoftersofftororbacsctwhtersofteflbuofinwhteenoffleswohesydninaewh5CR72adstdnofshaspdintersoftec;a)CswhtersoftecNITPETOP)MrssslretepetopeofanilldinarmrsettisincewhsIoftsc)Toeetepetopeurtetsadpsoftsc,anilm)Beatlten()ysofa)PsactudleinamrseasanE,pcorserdlloflewhaseoeadaybnETadp;a)Peurtesnofamld)Anilpgptceinareseurtetopeslfnwnteseofpeayteheseusadulmdbyanaeayiereseasmybeddintersoftec)Etaspdintss,anilpginesewlbesttoteressayadl.esem,inaewhdepsadttssl,r,sdorreanispetopeintereseadmyteayornyastopttehhayofisc.Ifaresetsa,itslpynyteheseadtec)Ifanisleinayheseisrdors,teilslntbeeetopeinares]
+[DELETED: rtepetopeulteisheselei)Ifanispetopeinayresei,sdorr,teilslntbeeeteinayreseulteispetopeiNSOFPEINARESnilmypeinareseurapetopeoyintepeofteisESdsasadbyaea,asddintersoftec,aduefgc)Teilosaptttinaheseastepttoares)Teilosinteheseadesaretopkupaptadpeceadttoftepttehes)Teilesaresetopeptceatwnttres)Teilesaresetopkupaptadpeceadtttoatdmrs;a)OrcsasddbyrspdbytecNVPTOEYMTAECnamrssgsdnofaseofeyorttasteeymtaect(lrttsadpsofECslayadtoteetasorpsoftsctctwhE,tetsofElplwhrttoayilpginteresnretoshdNV,SEMSSGFMAEDYM,ADT)Mrssslcrav,aemys,admroftenlgdadrssgfmaedyt,adaset,wohsactvdadudNTcnatoraetellofteselebtassgtemmtgadenrsfhl)Mrsssleetepgofleassdbyv,aemysem,admftenlgdadrssgfmanaedyt,ars]
+[DELETED: )AlisfgwhapetopeurtnrnsttoteaeaspsofsnVIoscNVEA)Aheseslheeeprtoieaeatanisleidbytehes)Ifanisleinayheseisrdors,teilslntbeeetopeinaresrtepetopeulteisheselei)Alheseaeanosslieastteisctpsaei.TeormyaeiltopeinresswhprwnanfmbhteheseadressESa)AnilcysttoaeaninteheslntpeinayresewtprwnanfmbhteheseadressESa)Amrseslrtaeasadayotteisctpsaer,sdorrdtotecninaewhtersoftec)Aresemyteaeanonanispopewntts)Aymrsemyteaeanatanietopeinttsebdonteflfsofars,aslgasehsefsisonpsfrihaea)AhessESayslieadteanwhrttordctinareseasitwdifsthdodwntehes.Inshc,teheswslclindgteaeaea)Ngintsctsloeamrssdtpninanaepmmybeudinluofanadttshpnslrnncifrdbemrssl.MrssmtreiswoeyaepstoaenttopeinayormrsgtetmofteaepmwtpranfhormrsNILPSIDINAMRSSESAmrssESa,inantoayorpsgrsel,isadurtsctt)IessfrbhhsadisttreaeadtyofwsadtepnofesidbyamrssESayfrteaeayofw,artepnofeefmarm]
+[DELETED: rs,slbeedinteresebyayctofc,agtottcspeadpeincgssidinisonp.TeigseESalpyaywsf,tle,meadorfsrytesessoftesewetewsareea;a)Ieceaddtostor,sdorreanispetopeintesNTOFTEIECNFRESPLP)TectsshyceadehajtpyknasteiecnfrESplp)Tecnisabypcadaniyoftects)Veispradjlpsbyorattecnslbebtsyadeyinactofctjnweteploeoftecnisl.Tnmyweveadjldstoteetasorcstopeinaeder)Ngintsctslbecdtobeawroni)M,v,adm)Ehmrseslheadbeldtooe()d.TeolofteseESayorshosdeslbetedetotsctfrehmrs.Aemyberdorsdfmoeaspdbytelftesefmwhtedeisa.Ayvyogintecnslbefdinaewhtelsoftrseinwhtevye.Inteetttmete()b,oeororaywhtelemeteESplatadaetellofETe,tegftesewldewheywlberefragted)Ehdeslbeedtooe()vewhrdtotnofrsadcnofbsadsloehnoytopeintebsadasoftec.Adeslveinpnorbyshormsaspnteb.Tebsmypefrd'pnisbyteorormsofc)Tecnslmtatltoedgehcrylmsslbehdasstfhinteb)Almsslbeontotep,adpcneofmsslbegnintesemrasrdurtersinsnXIoftsc)Tecnmyceinac,ncmgiftnmtdsneofamrsewhisosurtec;tee,c,deo]
+[DELETED: rplm,psorpsrdtossorormsrdtotecsilplpsadp;c,tdorryadl;nnofcsfrtepeorseo,ssorrle;agaypnofaceorfycgayp;deoftessorcrflinttispdorc;deofinofaplnewedewdceacyudinofplp;deoyrscdfrlwetp;deofinrdtoayiyrspdbyonbfoforfrueoftecnororcecdwyofinordnofceittotec;ormssyedfmdebyflormrses)Ifam,orpnofam,iscdpttot,tecsllclordeslcttemgmybecdadslreehrtegp.Tecnslkpmsttfyadcealmsddinamgadslpeaflaesyofast,adterst,idnoftevse.Aldscdincnwhananslbeidinshm.Almddsofacdmgslrnurs,sttebyamyveoftecnororofactofctj)Tecns,byamyveofted,pebsarrstognisctasmybenyoetocyottepsadeetepsoftecgbtntldt)Egteflyroftec)Pgressadpsfrteetadmsoforc;adggayglorscdnofayayorfnoftec)Pgrepsfrcgadcgmsoftec,egreaeneofalm,adpganoyfraeofshmsbdp,whedesddtopttsi,tepyofi,adpyi,igtes.Tecnmymtincdsnoyaramyoftempvstoceamgieorinp.Assnasp,tecnmtmepcacyoftevetocetemgrgteveoferwhnopyvsa)Egtet,dsada,adrepsfrteenofteosoftec)Pgressadpsfrteetofteplpsadpsoftec.Ngayclseororsrlsofaymrs]
+[DELETED: ebssleygnteplpsadpftec)Pgaceofestoaspeadpsofcnmsade)Pgammfrwgupteosoftecnadteeednofayssfsttmyertetnoftectarteptarrfalofisdsado)Pgisbsadfgacyt,adacyofatt,whteaeayororinehoftrs,ifa)Mgisflrsinaewhteb)Mgadtgshasasaectwhtepsoftsctadteb)Tecnslhetefgp)Teaytopeumrstofeadceinadanoftsc.Terlhetefeadetoflwadslbebginalm)Tobgadpellpsorasinteneoec,pdtttesgofayseESayorrybyrefrESplletoseoesduraelwslntbea)Topeadmnieadb)Tob,atorctfrssofp,itntldtoesofamrs)Tohee,etorato,fxc,ded,gtshisaeaytocyoepsoftec,adtoehtecsplpsadpsrgtocsofi,qsofp,adorrdplm)Toatayadalaedsadgsofm,s,msads,adtor,uddeoftes;pdttataltstecnsetoadayaeofiyarctofi)Tol,p,ataegsordso,oetoo,h,ieoru,ayp,r,plo;pdttataltstecnslsetoayaeofi)Tos,c,m,p,l,e,a,oedeofayp,r,plorm)Toehabtadmee)Tobwm)Toatc,igaycscdo,ser,selsortrrdcrr,adshoridpsasmeddintsctadteb]
+[DELETED: )Topeadreinf,adtocew,lta)Toatadueanols;a)TopmshorfsasmybenyoraoaetepsoftsctctwhtesernofESplleadp)Fgoftec)Tecnslp,orpefrtepto,tereesofise,onadoga)Tecnmyatayadalaeres,adgsofm,e,s,msads)Tecnmylyonadctanalatfhmrseoriefsonorpstocrtectoeosadasoftecnadiss,wtbeinatlatsttocrisalbtasadehyrfrwhreisntpdbyors.Tealatatslbeadbdunafatobeddbytec,whslpeargunalmrs)Tecnslntirosofaykdprtgtefsaetomttes;nrsltecetectofayoftemrs,etbyadwhtyoftemrs)Tecnslkpaeasofalrsa.Tersaddsoftecnsesttoteatadagpseduri.H,alrsaddsoffshdbytnslbeadyybyacdorldp,adtertofteatslbeidinadbtoftealrtoftec)Qdi,d,adi)Tem,o,eed,esadrsoftecnslbeiefmstadl,erpyorintrolc,fraycmfrdetoorlsofpyorpliyororclldbyoragotofayalorada,eroroto,ortttepnatwmtecmismehdebsfrbgodwnteseofc,dsorr;pdttnginthslbecdtoptayshpnfmstayfrayd,l,iyorlycdbyteilorwlorwnmtofttp)Tecnslddaym,o,eed,eeorreoftecninayclagtoielyagotofayaloradaroronttodwnteseofcne,dsorr,ortttepnatwmtmismehdarebsfrbgodwnt]
+[DELETED: eofcne,dsorr;ptngintssnslbecdtoptttpmrgshpsonc;adpdf,tealorada,eroronddntrtfmtsilorwlorwnm)Tecnsliyadhdhsaym,o,eed,eeorreoftecrteatofaystorjtodatttpnagotofayalorada,eroronttodwnteseofcne,dsorr,orttshpnhdarebsfrbgodwnteseofcne,dsorr,pdtttealorada,erorondtrtfmteilorwlorwnmtoftNXDD)Tecnslpefrtedtadmeocddeadrgsmcgl,anadstiyinonalldisinmrs)Ngayorpnofselwtotec,rseslstaumdasttotecddeolistowmtsctisaeasrdbyterftec,i)Igi)Led)Stiyi)Aeasatanisl)Anirttanispetopeisr,sdorr)Nlinrdtoaepmp)Aydlofanfrleadter)frs;a)Orinttmyfeteanoft,asddbytersoftec)Tecddearslpynyarssofayaeantna,orstieino,ayilinamrs)Mrsscgintotecddydeinttmyntbesdwhtepcwttspnoftecgs)AyinsdtotecddettissyrdtobeedbytelsoftemrsecgteinslberdfmtecddNX]
+[DELETED: )Tecnsleeisrgpspttotastfhintssnadtersadt.Rdasslbebgasoftedesdinehreo)Ifamyoftelsoftemrssrs,byetofaseorrnintesemrudtoaec,tnshreslhenofrfeadetinaymrs)Rsorastotersslbeadatarrolmgoftec)Prtopnadanofaflreorrsbyt,adatltsy()dsinaeoftemgatwerewlbecdadvdu,tecnslfeaneofpdr)Onteweoftec;a)OnteweofehmrseESayortepnwhehsewdoephpdr)Teneofpdrgsli)Tepdt,deadlnoftemginwhtewlbecdadvdu)Tettoftepdreoratadternfrtdr)Artfrcsontepdrefmayidp;a)Temrinwhidpsmystnetotecnoftrintoadtepchgadayw)Prtoanofapdr,tecnslastostwnd,f,osada,whsemeaetotep)Tecnslgtanoyfrapchgbeitasareoratifahgisrdb)Atltte()p)Aglsnora;o)Ananhgatltte()m)Ifahgishdontepdreora,tecnslphtep,teaddeoftesdpch)Alpswgtobehdattehgslnyteeedroftecnororddmrinwgoftrdetoaradtyattehgntlste()bsdsbetesddeofteh)Hsslbecdinamrpgehpnwstoctafradreoytoctoyonw)Nottoftehgisr,usawnrrattism,inwhcetepnrgtettslbrtectofpgtet.Argmemeinluofatturtesetsadcsa]
+[DELETED: t.Tssnslntpetecnfgattorrgoftehgifitsoc)Ngintssnslbecdasrgasgonehr.Rsmybegdfrteceoftnathsrdbytss)Fgtesdhgd,orbyteceofbsoesdhgdeiftehgwsnth,tecnsralwnadolcsr)Tecns,bymyveofalm,tefnontepdreadsldeteeedeoft,ifa,bdontergrdadteflttofter)Ifnownneofittoadtepchgbyidpsisr,tecnmypdwhpftepdrewtapch)Undnttaneye,tecnmradataneyrewtprn,oyf,orh,pdttteulrgpspntectadintssnslberyadtoterssnasryp,innoetlrtnny()dsaeeedeofter.Frtepsoftsp,aneyreisoettmtbeadiyinort)Mtanittttopch,syorw)Ptalsofcnormrsef)Mtadefrtepnofanaeretsedbyfllworr;o)Ptpchhads)Tecnoranadceoftecnmydtrstoapyadreoratfrpsofcgtle,esinf,esinc,ole.Pcneofayrsslbepdonteoftec.Ternslbesttocebyanfrapdofty()dsarp.Ternmybdoyongsttternrsinamlcoar.Aceslbemeinw,adddtotecftecnprtoteedoftenep.Ifnocei,ternwlteetwtfra.Iftersc,ternmyntteetwttealoftNX,DER,ADE)O)Tee,leadjlbsofsegtinehmrsesleetsctadtealasnyadaetoeetecspdi.Tepsoftsctadtersprslhesgassyl)Alcssltejlneoftectadternayjloraepginamrsep]
+[DELETED: gtotestmroftsctttmyattep,rsorasoftec)Tecnslbeedtoreseofpsiyshp,adslhesgtoieinshapgfralp.Fetopeseofpstotnslrrajtororvdastotecsc,orpdr)D,tla,adt)Iftecndsttamrsehsddiepeofisosorrsurtsctortepdr,tecnslpewnnetotedgseadormrssofteneoft,tepdmsofcgtedtarayorantobetnbytec;adperltgactlaergted)Ifaseindtfstoceted,tedemybetdfmtectunanaeveofyoftemrs,adalr,psadbdbytsctmybetdonteeedeo.Aceoftedtdsntreteogsfosorlsiddgtepdofd)Tnofmpintectslbeidoyaralormsofsgcehebne.Nfittosdorteslbegnbytecntot,temyadmylsoftedgs,adehoftemrs)Asetthsbntdisrefrala,osadlsidthteeedft,igosttedbdteeeoft)Tecnslntbraycsrdtoasettidtobeindtortthsbntdfmtec,usaduninwgbntecnadted)TedgsemyalteanoftecnbypgteUdSsdtctfrteDtofCrtefldtwetecnhsisploepgmrslbeadalcsofshl,igreasf)Der)Unrtbyamrs,tecnslattoredsrdtotectttaeagmrssanmradnrs)Tecnslpearepgfrbhmdbgdernfrdsasa)E)Tec,intereeeofisd,setepsadrsoftsc)Bymyv,tecnmyiellanintdSsdtctfrteDtofCaortef]
+[DELETED: ldtwetecnhsisplosamrseindttoeecewhtepsoectadispdrsadb.Terfsyiebhierfadd.Inteetjtisn,tepgmrslbeadasofshl,igreasf)Tersintssnslntbeteeersoec.TecnmypeayorrsarflorselNXEOFINOFTEIECNFRESPEADADR,W,ADA)Tectslceioetontedeonwhteceisediolwintethmrs.Tep,weeeatttt,slbeldtotepsgdtotnrgtoayadtepnofr.Tecnslmtadeergpsnytotnadanoftec)Aysettjstectsttoteclanoftersslbesttotersastyentedeonwhtectbslwintts.Ayretsbnpyadbytecnslheteflfeatoflwontedytectbslwintts)Aymrsemywwfmtsctbyegergtes)Amrsswlslntteetulsx(saretoftergs)WlslntattecgrtoftewgssESaytocywhteieadaeanrgrsoftsctprtoteeedeofw)NgcdintsctslbecdtoirptayESplleatororceatbnamrseadanrsettdsntchtepsoftsc)Tsctmybeadbytemrs.NoattsctslbeeeadbgunaymrseutisediotelsofalmrsNXNADSsctslbelycdsoastoeetepst.Iftsctslbehdcytotecnoysemrt,tectslrninflfeadestotergmrs.NgintsctsssworrsrdtoleofESa]
+[DELETED: N2.TtSn5,IoC,b,adteseishN3.TtSn5,IoC,b,adteseishN4.TtSn5,IoC,b,adteseishN5.TtSn5,IoC,b,adteseishN6.TtSn5,IoC,b,adteseishN7.TtSn5,IoC,b,adteseishN8.TtSn5,IoC,b,adteseishN9.TtSn5,IoC,b,adteseishN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.TtSn5,IoC,b,adteseiyrN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

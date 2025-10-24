@@ -1,0 +1,352 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Engrossment 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1210, As Amended, As Amended in the House
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAL FREEDOM; AMENDING THE HEADING FOR CHAPTER 5, TITLE 73,
+3 IDAHO CODE; AMENDING SECTION 73-501, IDAHO CODE, TO REVISE A SHORT TI-
+4 TLE; AMENDING SECTION 73-502, IDAHO CODE, TO DEFINE TERMS AND TO REMOVE
+5 DEFINITIONS; AMENDING SECTION 73-503, IDAHO CODE, TO REVISE PROVISIONS
+6 REGARDING PROHIBITED MEDICAL MANDATES AND TO PROHIBIT CERTAIN REGULA-
+7 TORY AUTHORITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+8 DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That the Heading for Chapter 5, Title 73, Idaho Code, be, and
+11 the same is hereby amended to read as follows:
+12 CHAPTER 5
+13 CORONAVIRUS STOP IDAHO MEDICAL FREEDOM ACT
+14 SECTION 2. That Section 73-501, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 73-501. SHORT TITLE. This chapter shall be known and may be cited as
+17 the "Coronavirus Stop Idaho Medical Freedom Act."
+18 SECTION 3. That Section 73-502, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 73-502. DEFINITIONS. As used in this chapter:
+21 (1) "Business entity" means any person or group of persons performing
+22 or engaging in any activity, enterprise, profession, or occupation for gain,
+23 benefit, advantage, or livelihood, whether for profit or not-for-profit.
+24 "Business entity" shall include but not be limited to:
+25 (a) Self-employed individuals, business entities filing articles of
+26 incorporation, partnerships, limited partnerships, limited liability
+27 companies, foreign corporations, foreign limited partnerships, for-
+28 eign limited liability companies authorized to transact business in
+29 Idaho, business trusts, and any business entity that registers with the
+30 secretary of state; and
+31 (b) Any business entity that possesses a business license, permit, cer-
+32 tificate, approval, registration, charter, or similar form of autho-
+33 rization issued by the state; any business entity exempt by law from ob-
+34 taining such a business license; and any business entity operating un-
+35 lawfully without such a business license.
+36 (2) "Coronavirus" means:
+37 (a) Severe acute respiratory syndrome coronavirus 2;
+38 (b) The disease caused by severe acute respiratory syndrome coron-
+39 avirus 2; or
+2
+1 (c) Any subsequently identified mutation, modification, or strain of
+2 severe acute respiratory syndrome coronavirus 2 if the transmission of
+3 said virus among humans rises to the level of an epidemic or pandemic and
+4 qualifies for an emergency declaration under applicable Idaho law.
+5 (3) "Coronavirus vaccination" means the introduction of a coronavirus
+6 vaccine into the human body.
+7 (4) (2) "Foreign jurisdiction" means any state, commonwealth, country,
+8 or nation outside the state of Idaho.
+9 (3) "Medical intervention" means a medical procedure, treatment, de-
+10 vice, drug, injection, medication, or medical action taken to diagnose, pre-
+11 vent, or cure a disease or alter the health or biological function of a per-
+12 son.
+13 (4) "School" means any public, private, or parochial preschool; any
+14 kindergarten, elementary, or secondary school; any postsecondary institute
+15 of education, including trade schools, colleges, and universities; or any
+16 other institute of primary, secondary, or higher learning operating in this
+17 state.
+18 (5) "Ticket issuer" means an individual or entity providing tickets to
+19 an entertainment event, including any of the following:
+20 (a) The operator of the venue where an entertainment event occurs;
+21 (b) The sponsor or promoter of an entertainment event;
+22 (c) A sports team participating in an entertainment event or a league
+23 whose teams are participating in an entertainment event;
+24 (d) A theater company, musical group, or similar participant in an en-
+25 tertainment event; or
+26 (e) An agent of any individual or entity described in this subsection.
+27 SECTION 4. That Section 73-503, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 73-503. CORONAVIRUS VACCINATION REQUIREMENTS MEDICAL MANDATES PRO-
+30 HIBITED. (1) A business entity doing business in the state of Idaho shall not
+31 refuse to provide any service, product, admission to a venue, or transporta-
+32 tion to a person because that person has or has not received a coronavirus
+33 vaccination or used a medical intervention.
+34 (2) A business entity doing business in the state of Idaho shall not
+35 require a coronavirus vaccination medical intervention as a term of em-
+36 ployment unless required by federal law or in such cases where the terms of
+37 employment include travel to foreign jurisdictions requiring coronavirus
+38 vaccinations a medical intervention as the only coronavirus-related means
+39 of entry or where the terms of employment require entry into a place of
+40 business or facility in a foreign jurisdiction and such place of business
+41 or facility requires a coronavirus vaccination medical intervention as the
+42 only coronavirus-related means of entry. In any such instance where an
+43 employee is required to obtain or use a coronavirus vaccination medical in-
+44 tervention due to travel to a foreign jurisdiction or entry into a place of
+45 business or facility in a foreign jurisdiction, said requirement shall ei-
+46 ther be included in a valid written employment contract between the employer
+47 and the employee or, when a written employment contract does not exist, ad-
+48 vance written notice shall be provided to an impacted employee no less than
+49 fourteen (14) days prior to such employee being required to receive or use a
+3
+1 coronavirus vaccination medical intervention. Business entities that re-
+2 ceive medicare or medicaid funding shall be exempt from the requirements of
+3 this subsection.
+4 (3) A ticket issuer shall not penalize, discriminate against, or deny
+5 access to an entertainment event to a ticket holder because the ticket holder
+6 has or has not received or used a coronavirus vaccination medical interven-
+7 tion.
+8 (4) A school operating in the state or a business subject to chapter
+9 11, title 39, Idaho Code, operating in the state shall not mandate a med-
+10 ical intervention for any person to attend, enter campus or buildings, or
+11 be employed, subject to the requirements of the Idaho parental rights act,
+12 sections 32-1010 through 32-1015, Idaho Code; sections 39-4801 through
+13 39-4804, Idaho Code; and sections 33-205 and 33-512(7), Idaho Code. For
+14 the purposes of this subsection, private and parochial schools shall be
+15 considered as having the same authority as school districts under section
+16 33-512(7), Idaho Code.
+17 (4) (5) Unless required by federal law, no state, county, or local gov-
+18 ernment entity or official in Idaho shall require any person to receive or
+19 use a coronavirus vaccination medical intervention.
+20 (5) (6) Unless required by federal law, no state, county, or local gov-
+21 ernment entity or official in Idaho shall require any person to receive or
+22 use a coronavirus vaccination medical intervention as a condition for:
+23 (a) Receipt of any government benefit;
+24 (b) Receipt of any government services;
+25 (c) Receipt of any government-issued license or permit;
+26 (d) Entrance into any public building;
+27 (e) Use of public transportation; or
+28 (f) A term of employment, provided that such entities that receive
+29 medicare or medicaid funding shall be exempt from the requirements of
+30 this paragraph.
+31 (6) (7) No state, county, or local government, or business entity in
+32 Idaho shall provide or offer any different salary, hourly wage, or other on-
+33 going compensation or benefits to an employee based on whether the employee
+34 has or has not received or used a coronavirus vaccination medical interven-
+35 tion. However, it shall not be unlawful for such entities to offer onetime
+36 incentives related to coronavirus vaccinations that do not result in any
+37 different salary, hourly wage, or ongoing compensation or benefits being
+38 provided to an employee based on whether they have or have not received a
+39 coronavirus vaccination. A business entity may permit its employees to be
+40 released from work for the purpose of receiving a coronavirus vaccination.
+41 (7) (8) The ability to require a coronavirus vaccination medical inter-
+42 vention under this chapter is subject to other statutory or constitutional
+43 provisions regarding requests for coronavirus vaccination exemptions
+44 medical interventions and requirements to provide reasonable accommoda-
+45 tion.
+46 (9) The prohibition on medical interventions shall not apply to any
+47 situation where personal protective equipment, items, or clothing are
+48 required by a business entity in the public or private sectors based on ex-
+49 isting traditional and accepted industry standards or federal law. These
+50 exemptions to the prohibition on medical interventions shall not apply to
+4
+1 or include any vaccines, mask requirements, or other medical interventions
+2 introduced during the COVID-19 pandemic.
+3 (8) (10) The provisions of this chapter may be enforced and injunctive
+4 relief may be pursued by either the attorney general or the prosecuting at-
+5 torney for the county where a violation occurs. If a business entity, or
+6 state, county, city, or local government entity in Idaho is found to have vi-
+7 olated the provisions of this chapter, the attorney general or prosecuting
+8 attorney, as applicable, shall be awarded attorney's fees and costs incurred
+9 in pursuing the enforcement action.
+10 (11) A state agency shall not adopt any policy, administrative rule, or
+11 regulation that conflicts with the provisions of this chapter.
+12 (12) Notwithstanding any other provision of law to the contrary, under
+13 no circumstance may a healthy person be excluded in a disease outbreak due to
+14 such person's vaccination status.
+15 SECTION 5. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1,AsA,AsAdinteHYJYADRSCNAGTOMLF;AGTEHGFRCR5,TE7OC;AGSN7,IOC,TOREASTT;AGSN7,IOC,TODETSADTOR;AGSN7,IOC,TOREPGPDMLMSADTOPTCNRYA;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtteHgfrCr5,Te7,IoC,b,aeseishyadtordasfRSSPIOMLFMAN2.TtSn7,IoC,b,adteseishdtordasf.STT.Tscrslbeknadmybecdae"sSpIoMlFmAN3.TtSn7,IoC,b,adteseishdtordasf.D.Asudintsc)"se"msaypnorgpofpspreginaya,e,p,oronfrg,a,orl,wrfrptornse"sliebtntbeldt)Sdi,bsesfgaso,p,ldp,ldl,fnc,fnldp,fnldlycsadtottbsi,bst,adaybseyttrswhtyofs;a)Aybseyttpsabsl,p,c,a,r,c,orsrfmofanidbytes;aybseyetbylwfmogshabsl;adaybseyoguywtshabsl)""m)Seaerysecs2)Tedecdbyseaerysecs2;o]
+[DELETED: )Aysyidm,m,orsnoeaerysecs2iftetnodvsaghsrstotellofanecorpcasfraneydnuraeIol)"sv"msteinofaceiotehnb)()"nj"msays,c,crnnoeteseofI)"li"msamlp,t,d,d,i,m,ormlantntod,p,orceadeorartehhorblfnofap)""msayp,p,orplp;a,e,orsys;aypyife,igtes,c,adu;orarieofp,s,orhrlgogint)"ti"msaniloreypgtstnete,igayoftef)Teorofteveweaneteto)Tesrorprofanete)Asstmpginanetetoraletsaepginanete)Atrc,mlg,orsrptinanete;o)AnatofayiloreyddintssN4.TtSn7,IoC,b,adteseishdtordasf.CSVNRSMLMSP.()AbseydgbsinteseofIoslnetopeays,p,antoav,ortntoapnbettpnhsorhsntrdacnorudamli)AbseydgbsinteseofIoslneacsvnmlinasatmofetusrdbyfllworinshcswetetsotietltofnjsrgcsamlinasteoycdmfeyorwetetsofetreeyioapeosorfyinafnjnadshpeofbrfyrsacsvnmlinastycdmsofe.Inayshieweaeisrdtoonorueacsvnmlindetotltoafnjnoreyioapeosorfyinafnj,sdrtslerbeidinavdwnetctbnteedteeeo,wnawnetctdsnte,aewnneslbepdtoanideenolstn()dsprtosheebgrdtoreorue]
+[DELETED: svnmli.Bsesttremeormdfgslbeetfmtersoss)Attirslntp,dea,ordstoanetettoatthrbetetthsorhsntrdorudacsvnmli)Asloginteseorabssttoc,te3,IoC,oginteseslntmeamlinfraypntoa,ercsorb,oee,sttotersofteIoplrsas30th3,IoC;ss31t,IoC;adss35ad3,IoC.Fepsoftss,peadplssslbdashgteseayassldsurs,IoC)()Usrdbyfll,nos,c,orllgteyorolinIoslreaypntoreoeacsvnmli)()Usrdbyfll,nos,c,orllgteyorolinIoslreaypntoreoeacsvnmlinasacnf)Rtofaygtb)Rtofaygts)Rtofaygdleorp)Eeioaypcb)Ueofpct;o)Atmofe,pdttshesttreormdfgslbeetfmtersosp)()Nos,c,orllg,orbseyioslpeororaydts,hyw,ororogcnorbstoaneebdonwrteesorhsntrdorudacsvnmli.H,itslntbeulfrshestoorosrdtocsvsttdontrtinats,hyw,orogcnorbsbdtoaneebdonwrtyheorhentrdsv.Abseymyptisestobdfmwkfrtepeofrgacsv)()Teaytoreacsvnmlinurtscrissttoorsyorcsrgrsfrcsvnelisadrstopereaepnonmlisslntaytoanweplpee,i,orcgadbyabseyintepcorpessbdonegtladadiyssorfll.Tstotepnonmlisslntayt]
+[DELETED: rieayv,mkr,orormliddgteC9p)()Tepsoftscrmybeedadifmybepdbyerteayglortepgayfrtecyweavno.Ifabse,o,c,c,orllgteyinIoisfdtohevdtepsoftsc,teayglorp,asa,slbeadasfsadcsinpgteeta)Aseayslntatayp,aer,onttcswhtepsoftsc)Ngayorpnoflwtotec,uocemyahypnbeedinadeokdethpsvnsN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1210, As Amended, As Amended in the House
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAL FREEDOM; AMENDING THE HEADING FOR CHAPTER 5, TITLE 73,
+3 IDAHO CODE; AMENDING SECTION 73-501, IDAHO CODE, TO REVISE A SHORT TI-
+4 TLE; AMENDING SECTION 73-502, IDAHO CODE, TO DEFINE TERMS AND TO REMOVE
+5 DEFINITIONS; AMENDING SECTION 73-503, IDAHO CODE, TO REVISE PROVISIONS
+6 REGARDING PROHIBITED MEDICAL MANDATES AND TO PROHIBIT CERTAIN REGULA-
+7 TORY AUTHORITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+8 DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That the Heading for Chapter 5, Title 73, Idaho Code, be, and
+11 the same is hereby amended to read as follows:
+12 CHAPTER 5
+13 CORONAVIRUS STOP IDAHO MEDICAL FREEDOM ACT
+14 SECTION 2. That Section 73-501, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 73-501. SHORT TITLE. This chapter shall be known and may be cited as
+17 the "Coronavirus Stop Idaho Medical Freedom Act."
+18 SECTION 3. That Section 73-502, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 73-502. DEFINITIONS. As used in this chapter:
+21 (1) "Business entity" means any person or group of persons performing
+22 or engaging in any activity, enterprise, profession, or occupation for gain,
+23 benefit, advantage, or livelihood, whether for profit or not-for-profit.
+24 "Business entity" shall include but not be limited to:
+25 (a) Self-employed individuals, business entities filing articles of
+26 incorporation, partnerships, limited partnerships, limited liability
+27 companies, foreign corporations, foreign limited partnerships, for-
+28 eign limited liability companies authorized to transact business in
+29 Idaho, business trusts, and any business entity that registers with the
+30 secretary of state; and
+31 (b) Any business entity that possesses a business license, permit, cer-
+32 tificate, approval, registration, charter, or similar form of autho-
+33 rization issued by the state; any business entity exempt by law from ob-
+34 taining such a business license; and any business entity operating un-
+35 lawfully without such a business license.
+36 (2) "Coronavirus" means:
+37 (a) Severe acute respiratory syndrome coronavirus 2;
+38 (b) The disease caused by severe acute respiratory syndrome coron-
+39 avirus 2; or
+
+2
+1 (c) Any subsequently identified mutation, modification, or strain of
+2 severe acute respiratory syndrome coronavirus 2 if the transmission of
+3 said virus among humans rises to the level of an epidemic or pandemic and
+4 qualifies for an emergency declaration under applicable Idaho law.
+5 (3) "Coronavirus vaccination" means the introduction of a coronavirus
+6 vaccine into the human body.
+7 (4) (2) "Foreign jurisdiction" means any state, commonwealth, country,
+8 or nation outside the state of Idaho.
+9 (3) "Medical intervention" means a medical procedure, treatment, de-
+10 vice, drug, injection, medication, or medical action taken to diagnose, pre-
+11 vent, or cure a disease or alter the health or biological function of a per-
+12 son.
+13 (4) "School" means any public, private, or parochial preschool; any
+14 kindergarten, elementary, or secondary school; any postsecondary institute
+15 of education, including trade schools, colleges, and universities; or any
+16 other institute of primary, secondary, or higher learning operating in this
+17 state.
+18 (5) "Ticket issuer" means an individual or entity providing tickets to
+19 an entertainment event, including any of the following:
+20 (a) The operator of the venue where an entertainment event occurs;
+21 (b) The sponsor or promoter of an entertainment event;
+22 (c) A sports team participating in an entertainment event or a league
+23 whose teams are participating in an entertainment event;
+24 (d) A theater company, musical group, or similar participant in an en-
+25 tertainment event; or
+26 (e) An agent of any individual or entity described in this subsection.
+27 SECTION 4. That Section 73-503, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 73-503. CORONAVIRUS VACCINATION REQUIREMENTS MEDICAL MANDATES PRO-
+30 HIBITED. (1) A business entity doing business in the state of Idaho shall not
+31 refuse to provide any service, product, admission to a venue, or transporta-
+32 tion to a person because that person has or has not received a coronavirus
+33 vaccination or used a medical intervention.
+34 (2) A business entity doing business in the state of Idaho shall not
+35 require a coronavirus vaccination medical intervention as a term of em-
+36 ployment unless required by federal law or in such cases where the terms of
+37 employment include travel to foreign jurisdictions requiring coronavirus
+38 vaccinations a medical intervention as the only coronavirus-related means
+39 of entry or where the terms of employment require entry into a place of
+40 business or facility in a foreign jurisdiction and such place of business
+41 or facility requires a coronavirus vaccination medical intervention as the
+42 only coronavirus-related means of entry. In any such instance where an
+43 employee is required to obtain or use a coronavirus vaccination medical in-
+44 tervention due to travel to a foreign jurisdiction or entry into a place of
+45 business or facility in a foreign jurisdiction, said requirement shall ei-
+46 ther be included in a valid written employment contract between the employer
+47 and the employee or, when a written employment contract does not exist, ad-
+48 vance written notice shall be provided to an impacted employee no less than
+49 fourteen (14) days prior to such employee being required to receive or use a
+
+3
+1 coronavirus vaccination medical intervention. Business entities that re-
+2 ceive medicare or medicaid funding shall be exempt from the requirements of
+3 this subsection.
+4 (3) A ticket issuer shall not penalize, discriminate against, or deny
+5 access to an entertainment event to a ticket holder because the ticket holder
+6 has or has not received or used a coronavirus vaccination medical interven-
+7 tion.
+8 (4) A school operating in the state or a business subject to chapter
+9 11, title 39, Idaho Code, operating in the state shall not mandate a med-
+10 ical intervention for any person to attend, enter campus or buildings, or
+11 be employed, subject to the requirements of the Idaho parental rights act,
+12 sections 32-1010 through 32-1015, Idaho Code; sections 39-4801 through
+13 39-4804, Idaho Code; and sections 33-205 and 33-512(7), Idaho Code. For
+14 the purposes of this subsection, private and parochial schools shall be
+15 considered as having the same authority as school districts under section
+16 33-512(7), Idaho Code.
+17 (4) (5) Unless required by federal law, no state, county, or local gov-
+18 ernment entity or official in Idaho shall require any person to receive or
+19 use a coronavirus vaccination medical intervention.
+20 (5) (6) Unless required by federal law, no state, county, or local gov-
+21 ernment entity or official in Idaho shall require any person to receive or
+22 use a coronavirus vaccination medical intervention as a condition for:
+23 (a) Receipt of any government benefit;
+24 (b) Receipt of any government services;
+25 (c) Receipt of any government-issued license or permit;
+26 (d) Entrance into any public building;
+27 (e) Use of public transportation; or
+28 (f) A term of employment, provided that such entities that receive
+29 medicare or medicaid funding shall be exempt from the requirements of
+30 this paragraph.
+31 (6) (7) No state, county, or local government, or business entity in
+32 Idaho shall provide or offer any different salary, hourly wage, or other on-
+33 going compensation or benefits to an employee based on whether the employee
+34 has or has not received or used a coronavirus vaccination medical interven-
+35 tion. However, it shall not be unlawful for such entities to offer onetime
+36 incentives related to coronavirus vaccinations that do not result in any
+37 different salary, hourly wage, or ongoing compensation or benefits being
+38 provided to an employee based on whether they have or have not received a
+39 coronavirus vaccination. A business entity may permit its employees to be
+40 released from work for the purpose of receiving a coronavirus vaccination.
+41 (7) (8) The ability to require a coronavirus vaccination medical inter-
+42 vention under this chapter is subject to other statutory or constitutional
+43 provisions regarding requests for coronavirus vaccination exemptions
+44 medical interventions and requirements to provide reasonable accommoda-
+45 tion.
+46 (9) The prohibition on medical interventions shall not apply to any
+47 situation where personal protective equipment, items, or clothing are
+48 required by a business entity in the public or private sectors based on ex-
+49 isting traditional and accepted industry standards or federal law. These
+50 exemptions to the prohibition on medical interventions shall not apply to
+
+4
+1 or include any vaccines, mask requirements, or other medical interventions
+2 introduced during the COVID-19 pandemic.
+3 (8) (10) The provisions of this chapter may be enforced and injunctive
+4 relief may be pursued by either the attorney general or the prosecuting at-
+5 torney for the county where a violation occurs. If a business entity, or
+6 state, county, city, or local government entity in Idaho is found to have vi-
+7 olated the provisions of this chapter, the attorney general or prosecuting
+8 attorney, as applicable, shall be awarded attorney's fees and costs incurred
+9 in pursuing the enforcement action.
+10 (11) A state agency shall not adopt any policy, administrative rule, or
+11 regulation that conflicts with the provisions of this chapter.
+12 (12) Notwithstanding any other provision of law to the contrary, under
+13 no circumstance may a healthy person be excluded in a disease outbreak due to
+14 such person's vaccination status.
+15 SECTION 5. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1,AsA,AsAdinteHYJYADRSCNAGTOMLF;AGTEHGFRCR5,TE7OC;AGSN7,IOC,TOREASTT;AGSN7,IOC,TODETSADTOR;AGSN7,IOC,TOREPGPDMLMSADTOPTCNRYA;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtteHgfrCr5,Te7,IoC,b,aeseishyadtordasfRSSPIOMLFMAN2.TtSn7,IoC,b,adteseishdtordasf.STT.Tscrslbeknadmybecdae"sSpIoMlFmAN3.TtSn7,IoC,b,adteseishdtordasf.D.Asudintsc)"se"msaypnorgpofpspreginaya,e,p,oronfrg,a,orl,wrfrptornse"sliebtntbeldt)Sdi,bsesfgaso,p,ldp,ldl,fnc,fnldp,fnldlycsadtottbsi,bst,adaybseyttrswhtyofs;a)Aybseyttpsabsl,p,c,a,r,c,orsrfmofanidbytes;aybseyetbylwfmogshabsl;adaybseyoguywtshabsl)""m)Seaerysecs2)Tedecdbyseaerysecs2;o]
+[DELETED: )Aysyidm,m,orsnoeaerysecs2iftetnodvsaghsrstotellofanecorpcasfraneydnuraeIol)"sv"msteinofaceiotehnb)()"nj"msays,c,crnnoeteseofI)"li"msamlp,t,d,d,i,m,ormlantntod,p,orceadeorartehhorblfnofap)""msayp,p,orplp;a,e,orsys;aypyife,igtes,c,adu;orarieofp,s,orhrlgogint)"ti"msaniloreypgtstnete,igayoftef)Teorofteveweaneteto)Tesrorprofanete)Asstmpginanetetoraletsaepginanete)Atrc,mlg,orsrptinanete;o)AnatofayiloreyddintssN4.TtSn7,IoC,b,adteseishdtordasf.CSVNRSMLMSP.()AbseydgbsinteseofIoslnetopeays,p,antoav,ortntoapnbettpnhsorhsntrdacnorudamli)AbseydgbsinteseofIoslneacsvnmlinasatmofetusrdbyfllworinshcswetetsotietltofnjsrgcsamlinasteoycdmfeyorwetetsofetreeyioapeosorfyinafnjnadshpeofbrfyrsacsvnmlinastycdmsofe.Inayshieweaeisrdtoonorueacsvnmlindetotltoafnjnoreyioapeosorfyinafnj,sdrtslerbeidinavdwnetctbnteedteeeo,wnawnetctdsnte,aewnneslbepdtoanideenolstn()dsprtosheebgrdtoreorue]
+[DELETED: svnmli.Bsesttremeormdfgslbeetfmtersoss)Attirslntp,dea,ordstoanetettoatthrbetetthsorhsntrdorudacsvnmli)Asloginteseorabssttoc,te3,IoC,oginteseslntmeamlinfraypntoa,ercsorb,oee,sttotersofteIoplrsas30th3,IoC;ss31t,IoC;adss35ad3,IoC.Fepsoftss,peadplssslbdashgteseayassldsurs,IoC)()Usrdbyfll,nos,c,orllgteyorolinIoslreaypntoreoeacsvnmli)()Usrdbyfll,nos,c,orllgteyorolinIoslreaypntoreoeacsvnmlinasacnf)Rtofaygtb)Rtofaygts)Rtofaygdleorp)Eeioaypcb)Ueofpct;o)Atmofe,pdttshesttreormdfgslbeetfmtersosp)()Nos,c,orllg,orbseyioslpeororaydts,hyw,ororogcnorbstoaneebdonwrteesorhsntrdorudacsvnmli.H,itslntbeulfrshestoorosrdtocsvsttdontrtinats,hyw,orogcnorbsbdtoaneebdonwrtyheorhentrdsv.Abseymyptisestobdfmwkfrtepeofrgacsv)()Teaytoreacsvnmlinurtscrissttoorsyorcsrgrsfrcsvnelisadrstopereaepnonmlisslntaytoanweplpee,i,orcgadbyabseyintepcorpessbdonegtladadiyssorfll.Tstotepnonmlisslntayt]
+[DELETED: rieayv,mkr,orormliddgteC9p)()Tepsoftscrmybeedadifmybepdbyerteayglortepgayfrtecyweavno.Ifabse,o,c,c,orllgteyinIoisfdtohevdtepsoftsc,teayglorp,asa,slbeadasfsadcsinpgteeta)Aseayslntatayp,aer,onttcswhtepsoftsc)Ngayorpnoflwtotec,uocemyahypnbeedinadeokdethpsvnsN5.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

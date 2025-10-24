@@ -1,0 +1,457 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1039
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IMMIGRATION COOPERATION AND ENFORCEMENT ACT; AMENDING TI-
+3 TLE 18, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 90, TITLE 18, IDAHO
+4 CODE, TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO PROVIDE FOR COOP-
+5 ERATION WITH FEDERAL AUTHORITIES, TO PROVIDE FOR COOPERATION WITH IM-
+6 MIGRATION DETAINERS, TO PROVIDE FOR THE CRIME OF UNLAWFUL PRESENCE OF
+7 A DANGEROUS ILLEGAL ALIEN, TO PROVIDE FOR THE CRIME OF SMUGGLING A DAN-
+8 GEROUS ILLEGAL ALIEN, TO PROVIDE FOR SENTENCING ENHANCEMENT, TO PROVIDE
+9 FOR DETERMINATION OF ALIENAGE UPON CONFINEMENT, TO PROVIDE FOR CONDI-
+10 TIONS OF RELEASE OF AN ILLEGAL ALIEN FROM CONFINEMENT, TO PROVIDE FOR
+11 THE AUTHORITY TO TRANSPORT ILLEGAL ALIENS, TO PROVIDE IMMUNITY, AND TO
+12 PROVIDE INTERPRETATION; AND DECLARING AN EMERGENCY.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Title 18, Idaho Code, be, and the same is hereby amended
+15 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+16 ter 90, Title 18, Idaho Code, and to read as follows:
+17 CHAPTER 90
+18 IMMIGRATION COOPERATION AND ENFORCEMENT ACT
+19 18-9001. SHORT TITLE. This chapter shall be known and may be cited as
+20 the "Immigration Cooperation and Enforcement Act."
+21 18-9002. DEFINITIONS. As used in this chapter:
+22 (1) "Custodial authority" means the director of the department of cor-
+23 rection, county sheriffs, city chiefs of police, and any of their subordi-
+24 nates with the power to confine or detain a person under color of law.
+25 (2) "Dangerous crime" means:
+26 (a) A violation of section 18-905 (aggravated assault defined), 18-907
+27 (aggravated battery defined), 18-909 (assault with intent to commit
+28 a serious felony defined), 18-911 (battery with intent to commit a
+29 serious felony defined), 18-1401 (burglary defined), 18-1508 (lewd
+30 and lascivious conduct), 18-2403(2)(e) (extortion), 18-2501 (rescu-
+31 ing prisoners), 18-2505 (escape by one charged with or convicted of a
+32 felony), 18-2506 (escape by one charged with or convicted of a misde-
+33 meanor), 18-4003 (degrees of murder), 18-4006 (manslaughter), 18-4015
+34 (assault with intent to murder), 18-4501 (kidnapping defined), 18-5001
+35 (mayhem defined), 18-6101 (rape defined), 18-6501 (robbery defined),
+36 37-2732(a) (delivery, manufacture or possession of a controlled sub-
+37 stance with intent to deliver), or 37-2732B (trafficking), Idaho Code;
+38 (b) Any offense for which an extended term of imprisonment can be im-
+39 posed under section 19-2520B, Idaho Code;
+2
+1 (c) Any offense requiring sex offender registration as set forth in
+2 section 18-8304, Idaho Code;
+3 (d) The commission of a felony on the grounds of a correctional facility
+4 located in this state; or
+5 (e) Any attempt or conspiracy to commit any of the crimes listed in this
+6 subsection.
+7 (3) "Dangerous illegal alien" means an illegal alien who has previously
+8 been convicted or found guilty, by judgment or withheld judgment, of a dan-
+9 gerous crime in this state, or of a crime that would constitute a dangerous
+10 crime if the offense had been committed in this state and the person could
+11 have been punished under the laws of this state for commission of a dangerous
+12 crime.
+13 (4) "DHS" means the United States department of homeland security and
+14 its subordinate agencies and divisions.
+15 (5) "Illegal alien" means a person eighteen (18) years of age or older
+16 who is verified by the federal government to be present in the United States
+17 in violation of the federal immigration and nationality act, 8 U.S.C., and
+18 federal rules promulgated in accordance therewith.
+19 (6) "Immigration detainer" means a notice or other documentation is-
+20 sued by United States immigration and customs enforcement requesting that a
+21 custodial authority or law enforcement official maintain temporary custody
+22 of an illegal alien, including a DHS form I-247 document or a similar succes-
+23 sor form.
+24 (7) "Law enforcement official" means all state, county, and local law
+25 enforcement officers, prosecuting attorneys, and city attorneys.
+26 18-9003. COOPERATION WITH FEDERAL AUTHORITIES. (1) To the extent au-
+27 thorized by federal law, law enforcement officials shall be authorized to
+28 send, receive, and maintain information relating to the immigration status
+29 of dangerous illegal aliens for public safety purposes. Except as provided
+30 by federal law, law enforcement officials shall not be prohibited from re-
+31 ceiving or maintaining information relating to the immigration status of any
+32 dangerous illegal alien or sending or exchanging such information with other
+33 federal, state, or local law enforcement agencies for official public safety
+34 purposes.
+35 (2) Law enforcement officials shall not be prohibited from entering
+36 into memorandums of understanding, agreements, and memorandums of agreement
+37 with the United States department of justice, DHS, or any other federal law
+38 enforcement agency for the purpose of enforcing federal immigration laws as
+39 against dangerous illegal aliens, including section 287(g) of the federal
+40 illegal immigration reform and immigrant responsibility act of 1996, P.L.
+41 104-208, or a similar federal program.
+42 (3) Except as provided by federal law, no law enforcement official
+43 shall be prohibited from utilizing available federal resources, including
+44 databases, equipment, grant funds, training, or participation in incentive
+45 programs for any public safety purpose related to the enforcement of federal
+46 immigration laws as against dangerous illegal aliens.
+47 18-9004. COOPERATION WITH IMMIGRATION DETAINERS. Where a custodial
+48 authority has custody of a person in a correctional facility, state reha-
+3
+1 bilitation center, penitentiary, prison, county jail, or city jail, and
+2 the person is subject to an immigration detainer, the custodial authority
+3 shall comply with, honor, and fulfill any reasonable request made in the
+4 immigration detainer as long as it does not impose undue burden or expense
+5 on the custodial authority or law enforcement officials and shall inform the
+6 person identified in the immigration detainer that the person is being held
+7 pursuant to such immigration detainer.
+8 18-9005. UNLAWFUL PRESENCE OF A DANGEROUS ILLEGAL ALIEN. (1) The crime
+9 of unlawful presence of a dangerous illegal alien is committed when a danger-
+10 ous illegal alien enters, remains in, or is found in the state of Idaho.
+11 (2) A law enforcement official shall not be prohibited from making an
+12 arrest of any dangerous illegal alien found in Idaho.
+13 (3) Whoever commits the crime of unlawful presence of a dangerous ille-
+14 gal alien upon a first offense shall be guilty of a misdemeanor and impris-
+15 oned for not more than six (6) months, fined not more than one thousand dol-
+16 lars ($1,000), or both.
+17 (4) Whoever commits the crime of unlawful presence of a dangerous il-
+18 legal alien upon a second or subsequent offense shall be guilty of a felony
+19 and imprisoned for not less than one (1) year and not more than two (2) years,
+20 fined not more than ten thousand dollars ($10,000), or both.
+21 (5) The provisions of this section shall not apply to a dangerous ille-
+22 gal alien as long as the person is a necessary witness, as a victim or oth-
+23 erwise, to a crime of domestic violence, rape, sexual exploitation, sexual
+24 assault, murder, manslaughter, assault, battery, human trafficking, kid-
+25 napping, false imprisonment, involuntary servitude, fraud in foreign labor
+26 contracting, blackmail, extortion, or witness tampering.
+27 18-9006. SMUGGLING A DANGEROUS ILLEGAL ALIEN. (1) The crime of smug-
+28 gling a dangerous illegal alien is committed when a person knowingly and
+29 willfully transports into this state, for the first time, a dangerous ille-
+30 gal alien that the person knows, or reasonably should know, is a dangerous
+31 illegal alien.
+32 (2) A person commits a separate offense for each individual transported
+33 into this state in violation of the provisions of this section.
+34 (3) Whoever commits the crime of smuggling a dangerous illegal alien
+35 shall be guilty of a felony and imprisoned for not less than one (1) year
+36 and not more than two (2) years, fined not more than ten thousand dollars
+37 ($10,000), or both.
+38 (4) The provisions of this section shall not apply if the defendant is
+39 a necessary witness to or victim of a crime of domestic violence, rape, sex-
+40 ual exploitation, sexual assault, murder, manslaughter, assault, battery,
+41 human trafficking, kidnapping, false imprisonment, involuntary servitude,
+42 fraud in foreign labor contracting, blackmail, extortion, or witness tam-
+43 pering where the referenced crime occurred during the defendant's act of
+44 transporting the dangerous illegal alien.
+45 18-9007. SENTENCING ENHANCEMENT. Any person eighteen (18) years of
+46 age or older that is convicted of a violation of a dangerous crime, committed
+47 while the person is an illegal alien, shall be sentenced to an extended term
+4
+1 of imprisonment. The extended term of imprisonment required in this section
+2 shall be computed by adding five (5) years of imprisonment to the term of
+3 sentence otherwise imposed, and the first five (5) years of imprisonment
+4 shall be fixed and determinate. The extended term provided in this section
+5 shall not be imposed unless the fact of the person's status as an illegal
+6 alien while committing the crime is separately charged in the information
+7 or indictment and admitted by the accused or found to be true by the trier of
+8 fact at the trial of the substantive crime. The provisions of this section
+9 shall apply even in those cases where the person's status as an illegal alien
+10 is an element of the offense. The limitations set forth in section 19-2520E,
+11 Idaho Code, shall not apply to the extended term required by this section.
+12 18-9008. DETERMINATION OF ALIENAGE UPON CONFINEMENT. (1) Following
+13 entry of a judgment of conviction for a criminal offense, the immigration
+14 status of any person eighteen (18) years of age or older shall be determined
+15 by the custodial authority whenever any person is processed for confinement
+16 in any correctional facility, state rehabilitation center, penitentiary,
+17 prison, county jail, or city jail. If it is determined that the person is an
+18 illegal alien, then the custodial authority shall notify DHS of the identity
+19 of the person so confined and the place of confinement. Such notification
+20 shall be provided within forty-eight (48) hours of the person being placed
+21 in confinement.
+22 (2) A person's immigration status shall be considered confirmed as not
+23 an illegal alien if the person provides:
+24 (a) A valid Idaho driver's license;
+25 (b) A valid Idaho identification card;
+26 (c) A valid United States passport;
+27 (d) Any valid driver's license or identification card issued by a state
+28 or district or territory of the United States, provided the issuing
+29 authority limits issuance of the foregoing to persons who demonstrate
+30 lawful presence in the United States;
+31 (e) Any valid identification card issued by the United States, includ-
+32 ing those issued by the department of defense, provided the issuing
+33 authority limits issuance of the foregoing to persons who demonstrate
+34 lawful presence in the United States; or
+35 (f) Any other information sufficiently reliable to demonstrate the
+36 identity of the confined person and the person's lawful presence in the
+37 United States.
+38 18-9009. CONDITIONS OF RELEASE OF ILLEGAL ALIEN FROM CONFINE-
+39 MENT. Following entry of a judgment of conviction for a criminal offense,
+40 no person eighteen (18) years of age or older that is known to be an ille-
+41 gal alien shall be released from confinement in any correctional facility,
+42 state rehabilitation center, penitentiary, prison, county jail, or city
+43 jail prior to the person's completion of his sentence unless the custodial
+44 authority first obtains written confirmation from DHS that DHS will take
+45 custody of the person upon release and deport the person from the United
+46 States. The provisions of this section shall apply to any fixed or inde-
+47 terminate confinement but shall not apply to temporary confinement under
+48 alternate sentencing programs such as work release, inmate labor detail,
+5
+1 a scheduled sentence program, or similar programs. The provisions of this
+2 section shall apply to any release from confinement as part of probation,
+3 parole, or supervised release after a judgment of conviction is entered.
+4 18-9010. AUTHORITY TO TRANSPORT ILLEGAL ALIENS. Following entry of a
+5 judgment of conviction for a criminal offense, if a custodial authority has
+6 verification that a person is an illegal alien, then the custodial authority
+7 shall be authorized to securely transport such illegal alien to a federal fa-
+8 cility in this state or to any other temporary point of detention and to rea-
+9 sonably detain such illegal alien when authorized by a federal law immigra-
+10 tion detainer or federal arrest warrant.
+11 18-9011. IMMUNITY. A law enforcement official or custodial authority
+12 acting in good faith to carry out duties or activities allowed by this chap-
+13 ter shall have immunity from damages or liability from such actions.
+14 18-9012. INTERPRETATION. (1) The provisions of this chapter relating
+15 to immigration terminology and definitions shall be construed to have the
+16 same meanings as provided under federal immigration law, unless otherwise
+17 defined in this chapter.
+18 (2) The provisions of this chapter shall be construed and implemented
+19 in a manner consistent with federal laws and regulations, and interpretive
+20 case law, governing immigration and civil rights.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after its
+23 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOTEINCNADETA;AGTE1,IOC,BYTEANOFANWCR9,TE1,I,TOPEASTT,TODET,TOPEFRCNWHFLA,TOPEFRCNWHIND,TOPEFRTECEOFULPEODSILA,TOPEFRTECEOFSGADSILA,TOPEFRSGE,TOPRDNOFAEUNC,TOPEFRCSOFREOFANILANFMC,TOPEFEAYTOTTILA,TOPEI,ADTEI;ADDGANEeItEdbyteLeofteSeofIN1.TtTe1,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr9,Te1,IoC,adtordasfR9NCNADETA.STT.Tscrslbeknadmybecdae"nCnadEtA.D.Asudintsc)"la"mstedroftedtofc,cys,cycsofp,adayoftrsswhteprtoceordnapnurcrofl)"sc"m)Avnofsn15(datd,1dbyd,19(twhittocssfyd,11(ywhittoctsfyd,11(yd,18(dlsc,1)(,11(gp,15(ebyoecdwhorcdof,16(ebyoecdwhorcdofam,13(sofm,16(,1twhittom,11(gd,1md,11(ed,11(yd)(,meorpnofacdsewhittod,or3B(,IoC)Ayoefrwhanedtmofitcnbeidursn1,IoC]
+[DELETED: )Ayoergsxorrnasstfhin1,IoC)Tecnofafyontegsofaclfdintss;o)Ayatorcytoctayoftecsldint)"sila"msanilanwohspncdorfdg,byjtorwdj,ofadsceintss,orofacettwdceadeifteoehdbncdintsseadtepncebnpdurtelsoftssefrcnofad)""msteUdSsdtofhdsyasseasadd)"la"msapnen()ysofaeorooisvdbyteflgttobeptinteUdSnvnofteflinadnya,8U,alrspdinaet)"nd"msaneorordnidbyUdSsinadcsetrgttlayorlwetolmntycfanila,igaDSfmI7dtorasrsrf)"weto"msals,c,adlllto,pga,adcya.CNWHFLA.()Toteetadbyfll,lwetosslbeadt,r,admninrgtoteinsfdsilasfrpcsyp.Etaspyfll,lwetosslntbepdfmrgormginrgtoteinssofasilanorsgoregshinwho,s,orlllwetasfrolpcs)Lwetosslntbepdfmeomsofu,a,admsofahteUdSsdtofj,D,orayorflltayfrtepeofegflinlsatdsila,igsn2)ofteflinrmaditryatof1,P,orasrflp)Etaspdbyfll,nolwetolbepdfmugaeflr,i,e,gtf,t,orpninisfraypcsyperdtoteetoffnlsasatdsila.CNWHIND.Weacyhscyofapninaclf,ser]
+[DELETED: nc,p,p,cyj,orcyj,aepnissttoanind,teclalcyw,h,adflayrertmeintndraslgasitdsntieuebnorenteclayorlwetosadslimtnidinteindrtttepnisbghttoshind.ULPEOFADSILA.()Tecfulpeofadsilaniscdwnadsilane,rsi,orisfdinteseofI)AlwetolslntbepdfmmgatofaydsilanfdinI)Wrcsteceofulpeofadsilanunaftoeslbegyofamradidfrntmetnsx()m,fdntmetnoetdds(,orb)Wrcsteceofulpeofadsilanunasdorstoeslbegyofafdidfrntlstnoe()yradntmetnto()ydntmetntntdds(,orb)Tepsoftssnslntaytoadsilanaslgastepnisanyw,asavmoro,toaceofdcv,r,sle,s,m,m,a,b,hnt,k,fei,iys,fdinfnl,b,e,orwst.SGADSILA.()Teceofsgadsilaniscdwnapnkyaytsiotss,frteftt,adsilantttepnk,orrysdk,isadla)Apncsaseoefrehiltotsseinvnoftepsoftss)Wrcsteceofsgadsilalbegyofafyadidfrntlstnoe()ydntmetnto()y,fdntmetntntdd,orb)Tepsoftssnslntayiftedtinywstoorvmofaceofdcv,r,sle,sla,m,m,a,bnt,k,fei,iysdinfnlrc,b,e,orwstgweterdceoddgtedsatogtedsila.SGE.Aypnen()ysoeororttiscdofavnofadsc,cetepnisanila,slbesdtoanedt]
+[DELETED: fi.Teedtmofitrdintsslbecdbyagfe()ysofittotetmoeoei,adteftfe()ysofilbefdadd.Teedtmpdintsslntbeidusteftoftepsssasaninwecgteceissycdinteiritadadbyteadorfdtobetebytetrotattetloftesec.Tepsoftsslayenintecswetepsssasanilasanetofteo.Telsstfhinsn1oC,slntaytoteedtmrdbytss.DNOFAEUNC.()Fyofajtofcnfraclo,teisofaypnen()ysofaeororslbedyteclaywraypnispdfrcnayclf,sernc,p,cyj,orcyj.Ifitisddtttepnisala,tnteclayslnyDSofteiftepnsocdadtepeofc.Shnlbepdwnft()hsoftepnbgpnc)Apsinssslbecdcdasnnilaniftepnp)AvdIodsl)AvdIoinc)AvdUdSsp)AyvddsleorincdidbyasrdtortyofteUdS,pdteiylsieoftefgtopswodlpeinteUdS)AyvdincdidbyteUdS,igteidbytedtofd,pdteiylsieoftefgtopswodlpeinteUdS;o)AyorinsyretodetyoftecdpnadtepsllpeintdS.CSOFREOFILANFMC.Fgeyofajtofcnfracloopnen()ysofaeororttiskntobeanilanslberdfmctinayclfernc,p,p,cyj,orclprtotepscnofhsseustecyftoswncnfmDSttDSwltyoftepnunreaddttepnfmteU.Tepsoftssnslaytoayfdoriectbtslntaytotyctuesgpsshaswkr,ielrd]
+[DELETED: sdsep,orsrp.Tepsoftnslaytoayrefmctasptofp,orsdrearajtofcnise.AYTOTTILA.Fgeyoftofcnfraclo,ifaclayhnttapnisanila,tnteclalbeadtosyttshilantoaflfyintsseortoayortyptofdnadtorydnshilanwnadbyafllwindrorflatw.I.Alwetolorclagingdfhtocyotdsorasadbytscrslheiyfmdsorlyfmsha.I.()Tepsoftscrrointyaddsslbecdtohetemsaspdurflinl,usodintsc)Tepsoftscrslbecdadinamrctwhfllsadr,adiel,gginadclrN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1039
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IMMIGRATION COOPERATION AND ENFORCEMENT ACT; AMENDING TI-
+3 TLE 18, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 90, TITLE 18, IDAHO
+4 CODE, TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO PROVIDE FOR COOP-
+5 ERATION WITH FEDERAL AUTHORITIES, TO PROVIDE FOR COOPERATION WITH IM-
+6 MIGRATION DETAINERS, TO PROVIDE FOR THE CRIME OF UNLAWFUL PRESENCE OF
+7 A DANGEROUS ILLEGAL ALIEN, TO PROVIDE FOR THE CRIME OF SMUGGLING A DAN-
+8 GEROUS ILLEGAL ALIEN, TO PROVIDE FOR SENTENCING ENHANCEMENT, TO PROVIDE
+9 FOR DETERMINATION OF ALIENAGE UPON CONFINEMENT, TO PROVIDE FOR CONDI-
+10 TIONS OF RELEASE OF AN ILLEGAL ALIEN FROM CONFINEMENT, TO PROVIDE FOR
+11 THE AUTHORITY TO TRANSPORT ILLEGAL ALIENS, TO PROVIDE IMMUNITY, AND TO
+12 PROVIDE INTERPRETATION; AND DECLARING AN EMERGENCY.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Title 18, Idaho Code, be, and the same is hereby amended
+15 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+16 ter 90, Title 18, Idaho Code, and to read as follows:
+17 CHAPTER 90
+18 IMMIGRATION COOPERATION AND ENFORCEMENT ACT
+19 18-9001. SHORT TITLE. This chapter shall be known and may be cited as
+20 the "Immigration Cooperation and Enforcement Act."
+21 18-9002. DEFINITIONS. As used in this chapter:
+22 (1) "Custodial authority" means the director of the department of cor-
+23 rection, county sheriffs, city chiefs of police, and any of their subordi-
+24 nates with the power to confine or detain a person under color of law.
+25 (2) "Dangerous crime" means:
+26 (a) A violation of section 18-905 (aggravated assault defined), 18-907
+27 (aggravated battery defined), 18-909 (assault with intent to commit
+28 a serious felony defined), 18-911 (battery with intent to commit a
+29 serious felony defined), 18-1401 (burglary defined), 18-1508 (lewd
+30 and lascivious conduct), 18-2403(2)(e) (extortion), 18-2501 (rescu-
+31 ing prisoners), 18-2505 (escape by one charged with or convicted of a
+32 felony), 18-2506 (escape by one charged with or convicted of a misde-
+33 meanor), 18-4003 (degrees of murder), 18-4006 (manslaughter), 18-4015
+34 (assault with intent to murder), 18-4501 (kidnapping defined), 18-5001
+35 (mayhem defined), 18-6101 (rape defined), 18-6501 (robbery defined),
+36 37-2732(a) (delivery, manufacture or possession of a controlled sub-
+37 stance with intent to deliver), or 37-2732B (trafficking), Idaho Code;
+38 (b) Any offense for which an extended term of imprisonment can be im-
+39 posed under section 19-2520B, Idaho Code;
+
+2
+1 (c) Any offense requiring sex offender registration as set forth in
+2 section 18-8304, Idaho Code;
+3 (d) The commission of a felony on the grounds of a correctional facility
+4 located in this state; or
+5 (e) Any attempt or conspiracy to commit any of the crimes listed in this
+6 subsection.
+7 (3) "Dangerous illegal alien" means an illegal alien who has previously
+8 been convicted or found guilty, by judgment or withheld judgment, of a dan-
+9 gerous crime in this state, or of a crime that would constitute a dangerous
+10 crime if the offense had been committed in this state and the person could
+11 have been punished under the laws of this state for commission of a dangerous
+12 crime.
+13 (4) "DHS" means the United States department of homeland security and
+14 its subordinate agencies and divisions.
+15 (5) "Illegal alien" means a person eighteen (18) years of age or older
+16 who is verified by the federal government to be present in the United States
+17 in violation of the federal immigration and nationality act, 8 U.S.C., and
+18 federal rules promulgated in accordance therewith.
+19 (6) "Immigration detainer" means a notice or other documentation is-
+20 sued by United States immigration and customs enforcement requesting that a
+21 custodial authority or law enforcement official maintain temporary custody
+22 of an illegal alien, including a DHS form I-247 document or a similar succes-
+23 sor form.
+24 (7) "Law enforcement official" means all state, county, and local law
+25 enforcement officers, prosecuting attorneys, and city attorneys.
+26 18-9003. COOPERATION WITH FEDERAL AUTHORITIES. (1) To the extent au-
+27 thorized by federal law, law enforcement officials shall be authorized to
+28 send, receive, and maintain information relating to the immigration status
+29 of dangerous illegal aliens for public safety purposes. Except as provided
+30 by federal law, law enforcement officials shall not be prohibited from re-
+31 ceiving or maintaining information relating to the immigration status of any
+32 dangerous illegal alien or sending or exchanging such information with other
+33 federal, state, or local law enforcement agencies for official public safety
+34 purposes.
+35 (2) Law enforcement officials shall not be prohibited from entering
+36 into memorandums of understanding, agreements, and memorandums of agreement
+37 with the United States department of justice, DHS, or any other federal law
+38 enforcement agency for the purpose of enforcing federal immigration laws as
+39 against dangerous illegal aliens, including section 287(g) of the federal
+40 illegal immigration reform and immigrant responsibility act of 1996, P.L.
+41 104-208, or a similar federal program.
+42 (3) Except as provided by federal law, no law enforcement official
+43 shall be prohibited from utilizing available federal resources, including
+44 databases, equipment, grant funds, training, or participation in incentive
+45 programs for any public safety purpose related to the enforcement of federal
+46 immigration laws as against dangerous illegal aliens.
+47 18-9004. COOPERATION WITH IMMIGRATION DETAINERS. Where a custodial
+48 authority has custody of a person in a correctional facility, state reha-
+
+3
+1 bilitation center, penitentiary, prison, county jail, or city jail, and
+2 the person is subject to an immigration detainer, the custodial authority
+3 shall comply with, honor, and fulfill any reasonable request made in the
+4 immigration detainer as long as it does not impose undue burden or expense
+5 on the custodial authority or law enforcement officials and shall inform the
+6 person identified in the immigration detainer that the person is being held
+7 pursuant to such immigration detainer.
+8 18-9005. UNLAWFUL PRESENCE OF A DANGEROUS ILLEGAL ALIEN. (1) The crime
+9 of unlawful presence of a dangerous illegal alien is committed when a danger-
+10 ous illegal alien enters, remains in, or is found in the state of Idaho.
+11 (2) A law enforcement official shall not be prohibited from making an
+12 arrest of any dangerous illegal alien found in Idaho.
+13 (3) Whoever commits the crime of unlawful presence of a dangerous ille-
+14 gal alien upon a first offense shall be guilty of a misdemeanor and impris-
+15 oned for not more than six (6) months, fined not more than one thousand dol-
+16 lars ($1,000), or both.
+17 (4) Whoever commits the crime of unlawful presence of a dangerous il-
+18 legal alien upon a second or subsequent offense shall be guilty of a felony
+19 and imprisoned for not less than one (1) year and not more than two (2) years,
+20 fined not more than ten thousand dollars ($10,000), or both.
+21 (5) The provisions of this section shall not apply to a dangerous ille-
+22 gal alien as long as the person is a necessary witness, as a victim or oth-
+23 erwise, to a crime of domestic violence, rape, sexual exploitation, sexual
+24 assault, murder, manslaughter, assault, battery, human trafficking, kid-
+25 napping, false imprisonment, involuntary servitude, fraud in foreign labor
+26 contracting, blackmail, extortion, or witness tampering.
+27 18-9006. SMUGGLING A DANGEROUS ILLEGAL ALIEN. (1) The crime of smug-
+28 gling a dangerous illegal alien is committed when a person knowingly and
+29 willfully transports into this state, for the first time, a dangerous ille-
+30 gal alien that the person knows, or reasonably should know, is a dangerous
+31 illegal alien.
+32 (2) A person commits a separate offense for each individual transported
+33 into this state in violation of the provisions of this section.
+34 (3) Whoever commits the crime of smuggling a dangerous illegal alien
+35 shall be guilty of a felony and imprisoned for not less than one (1) year
+36 and not more than two (2) years, fined not more than ten thousand dollars
+37 ($10,000), or both.
+38 (4) The provisions of this section shall not apply if the defendant is
+39 a necessary witness to or victim of a crime of domestic violence, rape, sex-
+40 ual exploitation, sexual assault, murder, manslaughter, assault, battery,
+41 human trafficking, kidnapping, false imprisonment, involuntary servitude,
+42 fraud in foreign labor contracting, blackmail, extortion, or witness tam-
+43 pering where the referenced crime occurred during the defendant's act of
+44 transporting the dangerous illegal alien.
+45 18-9007. SENTENCING ENHANCEMENT. Any person eighteen (18) years of
+46 age or older that is convicted of a violation of a dangerous crime, committed
+47 while the person is an illegal alien, shall be sentenced to an extended term
+
+4
+1 of imprisonment. The extended term of imprisonment required in this section
+2 shall be computed by adding five (5) years of imprisonment to the term of
+3 sentence otherwise imposed, and the first five (5) years of imprisonment
+4 shall be fixed and determinate. The extended term provided in this section
+5 shall not be imposed unless the fact of the person's status as an illegal
+6 alien while committing the crime is separately charged in the information
+7 or indictment and admitted by the accused or found to be true by the trier of
+8 fact at the trial of the substantive crime. The provisions of this section
+9 shall apply even in those cases where the person's status as an illegal alien
+10 is an element of the offense. The limitations set forth in section 19-2520E,
+11 Idaho Code, shall not apply to the extended term required by this section.
+12 18-9008. DETERMINATION OF ALIENAGE UPON CONFINEMENT. (1) Following
+13 entry of a judgment of conviction for a criminal offense, the immigration
+14 status of any person eighteen (18) years of age or older shall be determined
+15 by the custodial authority whenever any person is processed for confinement
+16 in any correctional facility, state rehabilitation center, penitentiary,
+17 prison, county jail, or city jail. If it is determined that the person is an
+18 illegal alien, then the custodial authority shall notify DHS of the identity
+19 of the person so confined and the place of confinement. Such notification
+20 shall be provided within forty-eight (48) hours of the person being placed
+21 in confinement.
+22 (2) A person's immigration status shall be considered confirmed as not
+23 an illegal alien if the person provides:
+24 (a) A valid Idaho driver's license;
+25 (b) A valid Idaho identification card;
+26 (c) A valid United States passport;
+27 (d) Any valid driver's license or identification card issued by a state
+28 or district or territory of the United States, provided the issuing
+29 authority limits issuance of the foregoing to persons who demonstrate
+30 lawful presence in the United States;
+31 (e) Any valid identification card issued by the United States, includ-
+32 ing those issued by the department of defense, provided the issuing
+33 authority limits issuance of the foregoing to persons who demonstrate
+34 lawful presence in the United States; or
+35 (f) Any other information sufficiently reliable to demonstrate the
+36 identity of the confined person and the person's lawful presence in the
+37 United States.
+38 18-9009. CONDITIONS OF RELEASE OF ILLEGAL ALIEN FROM CONFINE-
+39 MENT. Following entry of a judgment of conviction for a criminal offense,
+40 no person eighteen (18) years of age or older that is known to be an ille-
+41 gal alien shall be released from confinement in any correctional facility,
+42 state rehabilitation center, penitentiary, prison, county jail, or city
+43 jail prior to the person's completion of his sentence unless the custodial
+44 authority first obtains written confirmation from DHS that DHS will take
+45 custody of the person upon release and deport the person from the United
+46 States. The provisions of this section shall apply to any fixed or inde-
+47 terminate confinement but shall not apply to temporary confinement under
+48 alternate sentencing programs such as work release, inmate labor detail,
+
+5
+1 a scheduled sentence program, or similar programs. The provisions of this
+2 section shall apply to any release from confinement as part of probation,
+3 parole, or supervised release after a judgment of conviction is entered.
+4 18-9010. AUTHORITY TO TRANSPORT ILLEGAL ALIENS. Following entry of a
+5 judgment of conviction for a criminal offense, if a custodial authority has
+6 verification that a person is an illegal alien, then the custodial authority
+7 shall be authorized to securely transport such illegal alien to a federal fa-
+8 cility in this state or to any other temporary point of detention and to rea-
+9 sonably detain such illegal alien when authorized by a federal law immigra-
+10 tion detainer or federal arrest warrant.
+11 18-9011. IMMUNITY. A law enforcement official or custodial authority
+12 acting in good faith to carry out duties or activities allowed by this chap-
+13 ter shall have immunity from damages or liability from such actions.
+14 18-9012. INTERPRETATION. (1) The provisions of this chapter relating
+15 to immigration terminology and definitions shall be construed to have the
+16 same meanings as provided under federal immigration law, unless otherwise
+17 defined in this chapter.
+18 (2) The provisions of this chapter shall be construed and implemented
+19 in a manner consistent with federal laws and regulations, and interpretive
+20 case law, governing immigration and civil rights.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after its
+23 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOTEINCNADETA;AGTE1,IOC,BYTEANOFANWCR9,TE1,I,TOPEASTT,TODET,TOPEFRCNWHFLA,TOPEFRCNWHIND,TOPEFRTECEOFULPEODSILA,TOPEFRTECEOFSGADSILA,TOPEFRSGE,TOPRDNOFAEUNC,TOPEFRCSOFREOFANILANFMC,TOPEFEAYTOTTILA,TOPEI,ADTEI;ADDGANEeItEdbyteLeofteSeofIN1.TtTe1,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr9,Te1,IoC,adtordasfR9NCNADETA.STT.Tscrslbeknadmybecdae"nCnadEtA.D.Asudintsc)"la"mstedroftedtofc,cys,cycsofp,adayoftrsswhteprtoceordnapnurcrofl)"sc"m)Avnofsn15(datd,1dbyd,19(twhittocssfyd,11(ywhittoctsfyd,11(yd,18(dlsc,1)(,11(gp,15(ebyoecdwhorcdof,16(ebyoecdwhorcdofam,13(sofm,16(,1twhittom,11(gd,1md,11(ed,11(yd)(,meorpnofacdsewhittod,or3B(,IoC)Ayoefrwhanedtmofitcnbeidursn1,IoC]
+[DELETED: )Ayoergsxorrnasstfhin1,IoC)Tecnofafyontegsofaclfdintss;o)Ayatorcytoctayoftecsldint)"sila"msanilanwohspncdorfdg,byjtorwdj,ofadsceintss,orofacettwdceadeifteoehdbncdintsseadtepncebnpdurtelsoftssefrcnofad)""msteUdSsdtofhdsyasseasadd)"la"msapnen()ysofaeorooisvdbyteflgttobeptinteUdSnvnofteflinadnya,8U,alrspdinaet)"nd"msaneorordnidbyUdSsinadcsetrgttlayorlwetolmntycfanila,igaDSfmI7dtorasrsrf)"weto"msals,c,adlllto,pga,adcya.CNWHFLA.()Toteetadbyfll,lwetosslbeadt,r,admninrgtoteinsfdsilasfrpcsyp.Etaspyfll,lwetosslntbepdfmrgormginrgtoteinssofasilanorsgoregshinwho,s,orlllwetasfrolpcs)Lwetosslntbepdfmeomsofu,a,admsofahteUdSsdtofj,D,orayorflltayfrtepeofegflinlsatdsila,igsn2)ofteflinrmaditryatof1,P,orasrflp)Etaspdbyfll,nolwetolbepdfmugaeflr,i,e,gtf,t,orpninisfraypcsyperdtoteetoffnlsasatdsila.CNWHIND.Weacyhscyofapninaclf,ser]
+[DELETED: nc,p,p,cyj,orcyj,aepnissttoanind,teclalcyw,h,adflayrertmeintndraslgasitdsntieuebnorenteclayorlwetosadslimtnidinteindrtttepnisbghttoshind.ULPEOFADSILA.()Tecfulpeofadsilaniscdwnadsilane,rsi,orisfdinteseofI)AlwetolslntbepdfmmgatofaydsilanfdinI)Wrcsteceofulpeofadsilanunaftoeslbegyofamradidfrntmetnsx()m,fdntmetnoetdds(,orb)Wrcsteceofulpeofadsilanunasdorstoeslbegyofafdidfrntlstnoe()yradntmetnto()ydntmetntntdds(,orb)Tepsoftssnslntaytoadsilanaslgastepnisanyw,asavmoro,toaceofdcv,r,sle,s,m,m,a,b,hnt,k,fei,iys,fdinfnl,b,e,orwst.SGADSILA.()Teceofsgadsilaniscdwnapnkyaytsiotss,frteftt,adsilantttepnk,orrysdk,isadla)Apncsaseoefrehiltotsseinvnoftepsoftss)Wrcsteceofsgadsilalbegyofafyadidfrntlstnoe()ydntmetnto()y,fdntmetntntdd,orb)Tepsoftssnslntayiftedtinywstoorvmofaceofdcv,r,sle,sla,m,m,a,bnt,k,fei,iysdinfnlrc,b,e,orwstgweterdceoddgtedsatogtedsila.SGE.Aypnen()ysoeororttiscdofavnofadsc,cetepnisanila,slbesdtoanedt]
+[DELETED: fi.Teedtmofitrdintsslbecdbyagfe()ysofittotetmoeoei,adteftfe()ysofilbefdadd.Teedtmpdintsslntbeidusteftoftepsssasaninwecgteceissycdinteiritadadbyteadorfdtobetebytetrotattetloftesec.Tepsoftsslayenintecswetepsssasanilasanetofteo.Telsstfhinsn1oC,slntaytoteedtmrdbytss.DNOFAEUNC.()Fyofajtofcnfraclo,teisofaypnen()ysofaeororslbedyteclaywraypnispdfrcnayclf,sernc,p,cyj,orcyj.Ifitisddtttepnisala,tnteclayslnyDSofteiftepnsocdadtepeofc.Shnlbepdwnft()hsoftepnbgpnc)Apsinssslbecdcdasnnilaniftepnp)AvdIodsl)AvdIoinc)AvdUdSsp)AyvddsleorincdidbyasrdtortyofteUdS,pdteiylsieoftefgtopswodlpeinteUdS)AyvdincdidbyteUdS,igteidbytedtofd,pdteiylsieoftefgtopswodlpeinteUdS;o)AyorinsyretodetyoftecdpnadtepsllpeintdS.CSOFREOFILANFMC.Fgeyofajtofcnfracloopnen()ysofaeororttiskntobeanilanslberdfmctinayclfernc,p,p,cyj,orclprtotepscnofhsseustecyftoswncnfmDSttDSwltyoftepnunreaddttepnfmteU.Tepsoftssnslaytoayfdoriectbtslntaytotyctuesgpsshaswkr,ielrd]
+[DELETED: sdsep,orsrp.Tepsoftnslaytoayrefmctasptofp,orsdrearajtofcnise.AYTOTTILA.Fgeyoftofcnfraclo,ifaclayhnttapnisanila,tnteclalbeadtosyttshilantoaflfyintsseortoayortyptofdnadtorydnshilanwnadbyafllwindrorflatw.I.Alwetolorclagingdfhtocyotdsorasadbytscrslheiyfmdsorlyfmsha.I.()Tepsoftscrrointyaddsslbecdtohetemsaspdurflinl,usodintsc)Tepsoftscrslbecdadinamrctwhfllsadr,adiel,gginadclrN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

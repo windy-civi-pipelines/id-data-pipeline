@@ -1,0 +1,378 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1001
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE UNIFORM PUBLIC EXPRESSION PROTECTION ACT; AMENDING TITLE
+3 6, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 39, TITLE 6, IDAHO CODE,
+4 TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO PROVIDE SCOPE, TO PRO-
+5 VIDE FOR A SPECIAL MOTION FOR EXPEDITED RELIEF, TO PROVIDE FOR A STAY
+6 IN CERTAIN INSTANCES, TO PROVIDE FOR A HEARING, TO PROVIDE FOR PROOF
+7 TO BE CONSIDERED BY THE COURT, TO PROVIDE FOR THE DISMISSAL OF A CAUSE
+8 OF ACTION IN WHOLE OR PART, TO PROVIDE FOR WHEN A COURT SHALL RULE ON A
+9 MOTION, TO PROVIDE FOR AN APPEAL, TO PROVIDE FOR THE AWARDING OF COSTS,
+10 ATTORNEY'S FEES, AND EXPENSES, TO PROVIDE FOR STATUTORY CONSTRUCTION,
+11 TO PROVIDE FOR UNIFORMITY OF APPLICATION AND CONSTRUCTION, TO PROVIDE
+12 A TRANSITIONAL PROVISION, TO PROVIDE A SAVINGS CLAUSE, AND TO PROVIDE
+13 SEVERABILITY; AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Title 6, Idaho Code, be, and the same is hereby amended
+16 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+17 ter 39, Title 6, Idaho Code, and to read as follows:
+18 CHAPTER 39
+19 UNIFORM PUBLIC EXPRESSION PROTECTION ACT
+20 6-3901. SHORT TITLE. This chapter shall be known and may be cited as
+21 the "Uniform Public Expression Protection Act."
+22 6-3902. SCOPE. (1) As used in this section:
+23 (a) "Goods or services" does not include the creation, dissemination,
+24 exhibition, or advertisement or similar promotion of a dramatic, liter-
+25 ary, musical, political, journalistic, or artistic work.
+26 (b) "Governmental unit" means a public corporation or government or a
+27 governmental subdivision, agency, or instrumentality.
+28 (c) "Person" means an individual, estate, trust, partnership, business
+29 or nonprofit entity, governmental unit, or other legal entity.
+30 (2) Except as otherwise provided in subsection (3) of this section, the
+31 provisions of this chapter shall apply to a cause of action asserted in a
+32 civil action against a person based on the person's:
+33 (a) Communication in a legislative, executive, judicial, administra-
+34 tive, or other governmental proceeding;
+35 (b) Communication on an issue under consideration or review in a leg-
+36 islative, executive, judicial, administrative, or other governmental
+37 proceeding; or
+38 (c) Exercise of the right of freedom of speech or of the press, the right
+39 to assemble or petition, or the right of association, guaranteed by the
+2
+1 constitution of the United States or the constitution of the state of
+2 Idaho, on a matter of public concern.
+3 (3) The provisions of this chapter shall not apply to a cause of action
+4 asserted:
+5 (a) Against a governmental unit or an employee or agent of a governmen-
+6 tal unit acting or purporting to act in an official capacity;
+7 (b) By a governmental unit or an employee or agent of a governmental
+8 unit acting in an official capacity to enforce a law to protect against
+9 an imminent threat to public health or safety; or
+10 (c) Against a person primarily engaged in the business of selling or
+11 leasing goods or services if the cause of action arises out of a communi-
+12 cation related to the person's sale or lease of the goods or services.
+13 (4) A cause of action brought pursuant to the provisions of this chapter
+14 shall be subject to the rules of the Idaho supreme court.
+15 6-3903. SPECIAL MOTION FOR EXPEDITED RELIEF. No later than sixty (60)
+16 days after a party is served with a complaint, cross-claim, counterclaim,
+17 third-party claim, or other pleading that asserts a cause of action to which
+18 this chapter applies, or at a later time on a showing of good cause, the party
+19 may file a special motion for expedited relief to dismiss the cause of action
+20 or part of the cause of action.
+21 6-3904. STAY. (1) Except as otherwise provided in subsections (4)
+22 through (7) of this section, upon the filing of a motion pursuant to section
+23 6-3903, Idaho Code:
+24 (a) All other proceedings between the moving party and responding
+25 party, including discovery and a pending hearing or motion, are stayed;
+26 and
+27 (b) Upon motion by the moving party, the court may stay a hearing or
+28 motion involving another party, or discovery by another party, if the
+29 hearing or ruling on the motion would adjudicate, or the discovery would
+30 relate to, an issue material to the motion pursuant to section 6-3903,
+31 Idaho Code.
+32 (2) A stay pursuant to subsection (1) of this section remains in ef-
+33 fect until entry of an order ruling on the motion pursuant to section 6-3903,
+34 Idaho Code, and expiration of the time for the moving party to appeal the or-
+35 der pursuant to section 6-3909, Idaho Code, and applicable court rule.
+36 (3) Except as otherwise provided in subsections (5), (6), and (7) of
+37 this section, if a party appeals an order ruling on a motion pursuant to sec-
+38 tion 6-3903, Idaho Code, all proceedings between all parties in the action
+39 are stayed. The stay remains in effect until the conclusion of the appeal.
+40 (4) During a stay pursuant to subsection (1) of this section, the court
+41 may allow limited discovery if a party shows that specific information is
+42 necessary to establish whether a party has satisfied or failed to satisfy a
+43 burden pursuant to section 6-3907(1), Idaho Code, and the information is not
+44 reasonably available unless discovery is allowed.
+45 (5) A motion pursuant to section 6-3910, Idaho Code, for costs, attor-
+46 ney's fees, and expenses is not subject to a stay pursuant to this section.
+3
+1 (6) A stay pursuant to the provisions of this section does not affect a
+2 party's ability to voluntarily dismiss a cause of action or part of a cause of
+3 action or move to sever a cause of action.
+4 (7) During a stay pursuant to the provisions of this section, the court
+5 for good cause may hear and rule on:
+6 (a) A motion unrelated to the motion pursuant to section 6-3903, Idaho
+7 Code; and
+8 (b) A motion seeking a special or preliminary injunction to protect
+9 against an imminent threat to public health or safety.
+10 6-3905. HEARING. (1) The court shall hear a motion pursuant to section
+11 6-3903, Idaho Code, no later than sixty (60) days after filing of the motion,
+12 unless the court orders a later hearing:
+13 (a) To allow discovery pursuant to section 6-3904(4), Idaho Code; or
+14 (b) For other good cause.
+15 (2) If the court orders a later hearing pursuant to subsection (1)(a)
+16 of this section, the court shall hear the motion pursuant to section 6-3903,
+17 Idaho Code, no later than sixty (60) days after the court order allowing the
+18 discovery, unless the court orders a later hearing pursuant to subsection
+19 (1)(b) of this section.
+20 6-3906. PROOF. In ruling on a motion pursuant to section 6-3903, Idaho
+21 Code, the court shall consider the pleadings, the motion, any reply or re-
+22 sponse to the motion, and any evidence that could be considered in ruling on a
+23 motion for summary judgment pursuant to applicable court rule.
+24 6-3907. DISMISSAL OF CAUSE OF ACTION IN WHOLE OR PART. (1) In ruling on
+25 a motion under section 6-3903, Idaho Code, the court shall dismiss with prej-
+26 udice a cause of action, or part of a cause of action, if:
+27 (a) The moving party establishes pursuant to section 6-3902(2), Idaho
+28 Code, that this chapter applies;
+29 (b) The responding party fails to establish pursuant to section
+30 6-3902(3), Idaho Code, that this chapter does not apply; and
+31 (c) Either:
+32 (i) The responding party fails to establish a prima facie case as
+33 to each essential element of the cause of action; or
+34 (ii) The moving party establishes that:
+35 1. The responding party failed to state a cause of action
+36 upon which relief can be granted; or
+37 2. There is no genuine issue as to any material fact and the
+38 moving party is entitled to judgment as a matter of law on the
+39 cause of action or part of the cause of action.
+40 (2) A voluntary dismissal without prejudice of a responding party's
+41 cause of action, or part of a cause of action, that is the subject of a motion
+42 pursuant to section 6-3903, Idaho Code, does not affect a moving party's
+43 right to obtain a ruling on the motion and to seek costs, attorney's fees, and
+44 expenses pursuant to section 6-3910, Idaho Code.
+45 (3) A voluntary dismissal with prejudice of a responding party's cause
+46 of action, or part of a cause of action, that is the subject of a motion pur-
+4
+1 suant to section 6-3903, Idaho Code, establishes for the purpose of section
+2 6-3910, Idaho Code, that the moving party prevailed on the motion.
+3 6-3908. RULING. The court shall rule on a motion pursuant to section
+4 6-3903, Idaho Code, no later than sixty (60) days after a hearing pursuant to
+5 section 6-3905, Idaho Code.
+6 6-3909. APPEAL. A moving party may appeal as a matter of right from
+7 an order denying, in whole or in part, a motion pursuant to section 6-3903,
+8 Idaho Code. The appeal shall be filed within forty-two (42) days after entry
+9 of the order pursuant to applicable court rule.
+10 6-3910. COSTS, ATTORNEY'S FEES, AND EXPENSES. Upon a motion pursuant
+11 to section 6-3903, Idaho Code, the court shall award court costs, reasonable
+12 attorney's fees, and reasonable litigation expenses related to the motion:
+13 (1) To the moving party if the moving party prevails on the motion; or
+14 (2) To the responding party if the responding party prevails on the mo-
+15 tion and the court finds that the motion was frivolous or filed solely with
+16 intent to delay the proceeding.
+17 6-3911. CONSTRUCTION. This chapter shall be broadly construed and
+18 applied to protect the exercise of the right of freedom of speech and of the
+19 press, the right to assemble and petition, and the right of association,
+20 guaranteed by the constitution of the United States and the constitution of
+21 the state of Idaho.
+22 6-3912. UNIFORMITY OF APPLICATION AND CONSTRUCTION. In applying and
+23 construing this uniform act, consideration shall be given to the need to pro-
+24 mote uniformity of the law with respect to its subject matter among states
+25 that enact it.
+26 6-3913. TRANSITIONAL PROVISION. The provisions of this chapter shall
+27 apply to a civil action filed or cause of action asserted in a civil action on
+28 or after January 1, 2026.
+29 6-3914. SAVINGS CLAUSE. The provisions of this chapter shall not af-
+30 fect a cause of action asserted before January 1, 2026.
+31 6-3915. SEVERABILITY. If any provision of this chapter or its applica-
+32 tion to any person or circumstance is held invalid, the invalidity does not
+33 affect other provisions or applications of this chapter that can be given ef-
+34 fect without the invalid provision or application, and to this end, the pro-
+35 visions of this chapter are severable.
+36 SECTION 2. This act shall be in full force and effect on and after Jan-
+37 uary 1, 2026.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YJYADRSCNAGTOTEUMPCENPNA;AGT,IOC,BYTEANOFANWCR3,TE6,IOCOPEASTT,TODET,TOPES,TOPEFRASLMNFREDR,TOPEFRASNCNI,TOPEFRAH,TOPEFRPOBECDBYTEC,TOPEFRTEDLOFACFANINWEORP,TOPEFRWNACTSLREON,TOPEFRANA,TOPEFRTEAGOFCSF,ADE,TOPEFRSYCOPEFRUYOFANADC,TOPTLP,TOPEASSC,ADTOP;ADPGANEEDeItEdbyteLeofteSeofIN1.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr3,Te6,IoC,adtordasfR3MPCENPNA.STT.Tscrslbeknadmybecdae"mPcEnPnA.S.()Asudintss)"sors"dsntietec,d,oratorsrpnofad,l,m,p,j,oracw)"lu"msapccnorgtorls,a,ori)""msani,e,t,p,brnte,glu,ororlle)Etasoepdinsn()oftss,tsoftscrslaytoaceofanadinlanatapnbdontep)Cninal,e,j,a,ororglp)Cnonanieurcnorrwinal,e,j,a,ororg;o)Eeoftertoffmofshoroftep,teroaeorp,ortertofa,gdbyt]
+[DELETED: nofteUdSsortecnofteseo,onamrofpcc)Tepsoftscrslntaytoaceofa)Ataglutoraneeoratofaglutagorpgtoatinanolc)Byaglutoraneeoratofagtaginanolcytoeealwtoptanittttopchhors;o)Atapnpyedintebsofsgoggsorssifteceofanasotofacnrdtotepsseorleoftegsors)AceofanbtpttotepsoftsclbesttotersofteIosec.SLMNFREDR.Nolrtnsy(sarapyissdwhac,c,cyc,ororpgttasaceofantowscra,oratalrteonasgofgdc,tepyfeaslmnfredrftodsteceofarptofteceofa.S.()Etasoepdinss(h()oftss,untefgofamnpttos,IoC)Alorpsbntemgpyadr,igdyadapghgorm,aes)Unmnbytemgp,tectmysyahgonigarp,ordybyarp,iftgorrgontemnwda,ortedywet,aniemltotemnpttosn6oC)Asypttosn()oftssnrsinetuleyofanorrgontemnpttosn6oC,adenoftetefrtemgpytoalteorpttosn6,IoC,adaectr)Etasoepdinss(,(,ad()oss,ifapyasanorrgonamnpttosn6,IoC,alpsbnalpsinteaes.Tesyrsinetultecnoftea)Dgasypttosn()oftss,tecyawlddyifapyssttsciniytoehwrapyhssdorfdtosynpttosn6,IoC,adteinisnyaeusdyisa)Amnpttosn6,IoC,frc,asf,adesisntsttoasypttotss]
+[DELETED: )Asypttotepsoftssndsntatsaytovydsaceofanorptofaceonormetosraceofa)Dgasypttotepsoftss,tecrgdcemyhradreo)Amnudtotemnpttosn6,I;a)Amnsgaslorpyintoptanittttopchhors.H.()Tectslhramnpttos,IoC,nolrtnsy()dsarfgoftemstectosalrh)Toawdypttosn6,IoC;o)Frorgdc)Iftectosalrhgpttosn(ftss,tectslhrtemnpttosn6oC,nolrtnsy()dsartectoragt,ustectosalrhgpttos)oftss.P.Inrgonamnpttosn6,I,tectslcrtep,tem,ayryorretotem,adayeettcdbecdinrgonnfrsyjtpttoaectr.DLOFCEOFANINWEORP.()Inrgomnursn6,IoC,tectsldswhpeaceofa,orptofaceofa,i)Temgpyespttosn6,I,tttscra)Tergpyfstoehpttos,IoC,tttscrdsnta;a)E)Tergpyfstoehapafeceaoeheletofteceofa;o)Temgpyest.Tergpyfdtoseaceofanwhrfcnbeg;o.Teisnogeieastoaymlftadtgpyisedtojtasamroflwonteofanorptofteceofa)Avydlwtpeofargpeofa,orptofaceofa,ttistestofamttosn6,IoC,dsntatamgpttoonargontemnadtoskc,asf,aspttosn6,IoC)Avydlwhpeofargpscfa,orptofaceofa,ttistestofamnp]
+[DELETED: ttosn6,IoC,esfrtepeofs,IoC,tttemgpypdontem.R.Tectslreonamnpttos,IoC,nolrtnsy()dsarahgpttn6,IoC.A.Amgpymyalasamrofrtfnord,inweorinp,amnpttosn6oC.Tealslbefdwnfo()dsarefteorpttoaectr.C,ASF,ADE.Unamnposn6,IoC,tectsladctc,rsf,adrelnesrdtotem)Totemgpyiftemgpypsontem;o)Totergpyiftergpypsontemnadtectfstttemnwsfsorfdsywttodytep.C.Tscrslbebycdadtoptteeeoftertoffmofshadoft,terttoaeadp,adtertofadbytecnofteUdSsadtecnoeseofI.UYOFANADC.Inagagtsuma,cnslbegntotendtopeuyoftelwwhrttoisstmragsteti.TLP.TepsoftscrsytoaclanfdorceofanadinaclanorarJy1,2.SSC.TepsoftscrslntataceofanadbeJy1,2.S.Ifaypnoftscrorisantoaypnorceishdi,teiydsntorpsorasoftscrttcnbegnetwtteidpnora,adtotse,tepsoftscraesN2.TsatslbeinflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1001
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE UNIFORM PUBLIC EXPRESSION PROTECTION ACT; AMENDING TITLE
+3 6, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 39, TITLE 6, IDAHO CODE,
+4 TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO PROVIDE SCOPE, TO PRO-
+5 VIDE FOR A SPECIAL MOTION FOR EXPEDITED RELIEF, TO PROVIDE FOR A STAY
+6 IN CERTAIN INSTANCES, TO PROVIDE FOR A HEARING, TO PROVIDE FOR PROOF
+7 TO BE CONSIDERED BY THE COURT, TO PROVIDE FOR THE DISMISSAL OF A CAUSE
+8 OF ACTION IN WHOLE OR PART, TO PROVIDE FOR WHEN A COURT SHALL RULE ON A
+9 MOTION, TO PROVIDE FOR AN APPEAL, TO PROVIDE FOR THE AWARDING OF COSTS,
+10 ATTORNEY'S FEES, AND EXPENSES, TO PROVIDE FOR STATUTORY CONSTRUCTION,
+11 TO PROVIDE FOR UNIFORMITY OF APPLICATION AND CONSTRUCTION, TO PROVIDE
+12 A TRANSITIONAL PROVISION, TO PROVIDE A SAVINGS CLAUSE, AND TO PROVIDE
+13 SEVERABILITY; AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Title 6, Idaho Code, be, and the same is hereby amended
+16 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+17 ter 39, Title 6, Idaho Code, and to read as follows:
+18 CHAPTER 39
+19 UNIFORM PUBLIC EXPRESSION PROTECTION ACT
+20 6-3901. SHORT TITLE. This chapter shall be known and may be cited as
+21 the "Uniform Public Expression Protection Act."
+22 6-3902. SCOPE. (1) As used in this section:
+23 (a) "Goods or services" does not include the creation, dissemination,
+24 exhibition, or advertisement or similar promotion of a dramatic, liter-
+25 ary, musical, political, journalistic, or artistic work.
+26 (b) "Governmental unit" means a public corporation or government or a
+27 governmental subdivision, agency, or instrumentality.
+28 (c) "Person" means an individual, estate, trust, partnership, business
+29 or nonprofit entity, governmental unit, or other legal entity.
+30 (2) Except as otherwise provided in subsection (3) of this section, the
+31 provisions of this chapter shall apply to a cause of action asserted in a
+32 civil action against a person based on the person's:
+33 (a) Communication in a legislative, executive, judicial, administra-
+34 tive, or other governmental proceeding;
+35 (b) Communication on an issue under consideration or review in a leg-
+36 islative, executive, judicial, administrative, or other governmental
+37 proceeding; or
+38 (c) Exercise of the right of freedom of speech or of the press, the right
+39 to assemble or petition, or the right of association, guaranteed by the
+
+2
+1 constitution of the United States or the constitution of the state of
+2 Idaho, on a matter of public concern.
+3 (3) The provisions of this chapter shall not apply to a cause of action
+4 asserted:
+5 (a) Against a governmental unit or an employee or agent of a governmen-
+6 tal unit acting or purporting to act in an official capacity;
+7 (b) By a governmental unit or an employee or agent of a governmental
+8 unit acting in an official capacity to enforce a law to protect against
+9 an imminent threat to public health or safety; or
+10 (c) Against a person primarily engaged in the business of selling or
+11 leasing goods or services if the cause of action arises out of a communi-
+12 cation related to the person's sale or lease of the goods or services.
+13 (4) A cause of action brought pursuant to the provisions of this chapter
+14 shall be subject to the rules of the Idaho supreme court.
+15 6-3903. SPECIAL MOTION FOR EXPEDITED RELIEF. No later than sixty (60)
+16 days after a party is served with a complaint, cross-claim, counterclaim,
+17 third-party claim, or other pleading that asserts a cause of action to which
+18 this chapter applies, or at a later time on a showing of good cause, the party
+19 may file a special motion for expedited relief to dismiss the cause of action
+20 or part of the cause of action.
+21 6-3904. STAY. (1) Except as otherwise provided in subsections (4)
+22 through (7) of this section, upon the filing of a motion pursuant to section
+23 6-3903, Idaho Code:
+24 (a) All other proceedings between the moving party and responding
+25 party, including discovery and a pending hearing or motion, are stayed;
+26 and
+27 (b) Upon motion by the moving party, the court may stay a hearing or
+28 motion involving another party, or discovery by another party, if the
+29 hearing or ruling on the motion would adjudicate, or the discovery would
+30 relate to, an issue material to the motion pursuant to section 6-3903,
+31 Idaho Code.
+32 (2) A stay pursuant to subsection (1) of this section remains in ef-
+33 fect until entry of an order ruling on the motion pursuant to section 6-3903,
+34 Idaho Code, and expiration of the time for the moving party to appeal the or-
+35 der pursuant to section 6-3909, Idaho Code, and applicable court rule.
+36 (3) Except as otherwise provided in subsections (5), (6), and (7) of
+37 this section, if a party appeals an order ruling on a motion pursuant to sec-
+38 tion 6-3903, Idaho Code, all proceedings between all parties in the action
+39 are stayed. The stay remains in effect until the conclusion of the appeal.
+40 (4) During a stay pursuant to subsection (1) of this section, the court
+41 may allow limited discovery if a party shows that specific information is
+42 necessary to establish whether a party has satisfied or failed to satisfy a
+43 burden pursuant to section 6-3907(1), Idaho Code, and the information is not
+44 reasonably available unless discovery is allowed.
+45 (5) A motion pursuant to section 6-3910, Idaho Code, for costs, attor-
+46 ney's fees, and expenses is not subject to a stay pursuant to this section.
+
+3
+1 (6) A stay pursuant to the provisions of this section does not affect a
+2 party's ability to voluntarily dismiss a cause of action or part of a cause of
+3 action or move to sever a cause of action.
+4 (7) During a stay pursuant to the provisions of this section, the court
+5 for good cause may hear and rule on:
+6 (a) A motion unrelated to the motion pursuant to section 6-3903, Idaho
+7 Code; and
+8 (b) A motion seeking a special or preliminary injunction to protect
+9 against an imminent threat to public health or safety.
+10 6-3905. HEARING. (1) The court shall hear a motion pursuant to section
+11 6-3903, Idaho Code, no later than sixty (60) days after filing of the motion,
+12 unless the court orders a later hearing:
+13 (a) To allow discovery pursuant to section 6-3904(4), Idaho Code; or
+14 (b) For other good cause.
+15 (2) If the court orders a later hearing pursuant to subsection (1)(a)
+16 of this section, the court shall hear the motion pursuant to section 6-3903,
+17 Idaho Code, no later than sixty (60) days after the court order allowing the
+18 discovery, unless the court orders a later hearing pursuant to subsection
+19 (1)(b) of this section.
+20 6-3906. PROOF. In ruling on a motion pursuant to section 6-3903, Idaho
+21 Code, the court shall consider the pleadings, the motion, any reply or re-
+22 sponse to the motion, and any evidence that could be considered in ruling on a
+23 motion for summary judgment pursuant to applicable court rule.
+24 6-3907. DISMISSAL OF CAUSE OF ACTION IN WHOLE OR PART. (1) In ruling on
+25 a motion under section 6-3903, Idaho Code, the court shall dismiss with prej-
+26 udice a cause of action, or part of a cause of action, if:
+27 (a) The moving party establishes pursuant to section 6-3902(2), Idaho
+28 Code, that this chapter applies;
+29 (b) The responding party fails to establish pursuant to section
+30 6-3902(3), Idaho Code, that this chapter does not apply; and
+31 (c) Either:
+32 (i) The responding party fails to establish a prima facie case as
+33 to each essential element of the cause of action; or
+34 (ii) The moving party establishes that:
+35 1. The responding party failed to state a cause of action
+36 upon which relief can be granted; or
+37 2. There is no genuine issue as to any material fact and the
+38 moving party is entitled to judgment as a matter of law on the
+39 cause of action or part of the cause of action.
+40 (2) A voluntary dismissal without prejudice of a responding party's
+41 cause of action, or part of a cause of action, that is the subject of a motion
+42 pursuant to section 6-3903, Idaho Code, does not affect a moving party's
+43 right to obtain a ruling on the motion and to seek costs, attorney's fees, and
+44 expenses pursuant to section 6-3910, Idaho Code.
+45 (3) A voluntary dismissal with prejudice of a responding party's cause
+46 of action, or part of a cause of action, that is the subject of a motion pur-
+
+4
+1 suant to section 6-3903, Idaho Code, establishes for the purpose of section
+2 6-3910, Idaho Code, that the moving party prevailed on the motion.
+3 6-3908. RULING. The court shall rule on a motion pursuant to section
+4 6-3903, Idaho Code, no later than sixty (60) days after a hearing pursuant to
+5 section 6-3905, Idaho Code.
+6 6-3909. APPEAL. A moving party may appeal as a matter of right from
+7 an order denying, in whole or in part, a motion pursuant to section 6-3903,
+8 Idaho Code. The appeal shall be filed within forty-two (42) days after entry
+9 of the order pursuant to applicable court rule.
+10 6-3910. COSTS, ATTORNEY'S FEES, AND EXPENSES. Upon a motion pursuant
+11 to section 6-3903, Idaho Code, the court shall award court costs, reasonable
+12 attorney's fees, and reasonable litigation expenses related to the motion:
+13 (1) To the moving party if the moving party prevails on the motion; or
+14 (2) To the responding party if the responding party prevails on the mo-
+15 tion and the court finds that the motion was frivolous or filed solely with
+16 intent to delay the proceeding.
+17 6-3911. CONSTRUCTION. This chapter shall be broadly construed and
+18 applied to protect the exercise of the right of freedom of speech and of the
+19 press, the right to assemble and petition, and the right of association,
+20 guaranteed by the constitution of the United States and the constitution of
+21 the state of Idaho.
+22 6-3912. UNIFORMITY OF APPLICATION AND CONSTRUCTION. In applying and
+23 construing this uniform act, consideration shall be given to the need to pro-
+24 mote uniformity of the law with respect to its subject matter among states
+25 that enact it.
+26 6-3913. TRANSITIONAL PROVISION. The provisions of this chapter shall
+27 apply to a civil action filed or cause of action asserted in a civil action on
+28 or after January 1, 2026.
+29 6-3914. SAVINGS CLAUSE. The provisions of this chapter shall not af-
+30 fect a cause of action asserted before January 1, 2026.
+31 6-3915. SEVERABILITY. If any provision of this chapter or its applica-
+32 tion to any person or circumstance is held invalid, the invalidity does not
+33 affect other provisions or applications of this chapter that can be given ef-
+34 fect without the invalid provision or application, and to this end, the pro-
+35 visions of this chapter are severable.
+36 SECTION 2. This act shall be in full force and effect on and after Jan-
+37 uary 1, 2026.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YJYADRSCNAGTOTEUMPCENPNA;AGT,IOC,BYTEANOFANWCR3,TE6,IOCOPEASTT,TODET,TOPES,TOPEFRASLMNFREDR,TOPEFRASNCNI,TOPEFRAH,TOPEFRPOBECDBYTEC,TOPEFRTEDLOFACFANINWEORP,TOPEFRWNACTSLREON,TOPEFRANA,TOPEFRTEAGOFCSF,ADE,TOPEFRSYCOPEFRUYOFANADC,TOPTLP,TOPEASSC,ADTOP;ADPGANEEDeItEdbyteLeofteSeofIN1.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr3,Te6,IoC,adtordasfR3MPCENPNA.STT.Tscrslbeknadmybecdae"mPcEnPnA.S.()Asudintss)"sors"dsntietec,d,oratorsrpnofad,l,m,p,j,oracw)"lu"msapccnorgtorls,a,ori)""msani,e,t,p,brnte,glu,ororlle)Etasoepdinsn()oftss,tsoftscrslaytoaceofanadinlanatapnbdontep)Cninal,e,j,a,ororglp)Cnonanieurcnorrwinal,e,j,a,ororg;o)Eeoftertoffmofshoroftep,teroaeorp,ortertofa,gdbyt]
+[DELETED: nofteUdSsortecnofteseo,onamrofpcc)Tepsoftscrslntaytoaceofa)Ataglutoraneeoratofaglutagorpgtoatinanolc)Byaglutoraneeoratofagtaginanolcytoeealwtoptanittttopchhors;o)Atapnpyedintebsofsgoggsorssifteceofanasotofacnrdtotepsseorleoftegsors)AceofanbtpttotepsoftsclbesttotersofteIosec.SLMNFREDR.Nolrtnsy(sarapyissdwhac,c,cyc,ororpgttasaceofantowscra,oratalrteonasgofgdc,tepyfeaslmnfredrftodsteceofarptofteceofa.S.()Etasoepdinss(h()oftss,untefgofamnpttos,IoC)Alorpsbntemgpyadr,igdyadapghgorm,aes)Unmnbytemgp,tectmysyahgonigarp,ordybyarp,iftgorrgontemnwda,ortedywet,aniemltotemnpttosn6oC)Asypttosn()oftssnrsinetuleyofanorrgontemnpttosn6oC,adenoftetefrtemgpytoalteorpttosn6,IoC,adaectr)Etasoepdinss(,(,ad()oss,ifapyasanorrgonamnpttosn6,IoC,alpsbnalpsinteaes.Tesyrsinetultecnoftea)Dgasypttosn()oftss,tecyawlddyifapyssttsciniytoehwrapyhssdorfdtosynpttosn6,IoC,adteinisnyaeusdyisa)Amnpttosn6,IoC,frc,asf,adesisntsttoasypttotss]
+[DELETED: )Asypttotepsoftssndsntatsaytovydsaceofanorptofaceonormetosraceofa)Dgasypttotepsoftss,tecrgdcemyhradreo)Amnudtotemnpttosn6,I;a)Amnsgaslorpyintoptanittttopchhors.H.()Tectslhramnpttos,IoC,nolrtnsy()dsarfgoftemstectosalrh)Toawdypttosn6,IoC;o)Frorgdc)Iftectosalrhgpttosn(ftss,tectslhrtemnpttosn6oC,nolrtnsy()dsartectoragt,ustectosalrhgpttos)oftss.P.Inrgonamnpttosn6,I,tectslcrtep,tem,ayryorretotem,adayeettcdbecdinrgonnfrsyjtpttoaectr.DLOFCEOFANINWEORP.()Inrgomnursn6,IoC,tectsldswhpeaceofa,orptofaceofa,i)Temgpyespttosn6,I,tttscra)Tergpyfstoehpttos,IoC,tttscrdsnta;a)E)Tergpyfstoehapafeceaoeheletofteceofa;o)Temgpyest.Tergpyfdtoseaceofanwhrfcnbeg;o.Teisnogeieastoaymlftadtgpyisedtojtasamroflwonteofanorptofteceofa)Avydlwtpeofargpeofa,orptofaceofa,ttistestofamttosn6,IoC,dsntatamgpttoonargontemnadtoskc,asf,aspttosn6,IoC)Avydlwhpeofargpscfa,orptofaceofa,ttistestofamnp]
+[DELETED: ttosn6,IoC,esfrtepeofs,IoC,tttemgpypdontem.R.Tectslreonamnpttos,IoC,nolrtnsy()dsarahgpttn6,IoC.A.Amgpymyalasamrofrtfnord,inweorinp,amnpttosn6oC.Tealslbefdwnfo()dsarefteorpttoaectr.C,ASF,ADE.Unamnposn6,IoC,tectsladctc,rsf,adrelnesrdtotem)Totemgpyiftemgpypsontem;o)Totergpyiftergpypsontemnadtectfstttemnwsfsorfdsywttodytep.C.Tscrslbebycdadtoptteeeoftertoffmofshadoft,terttoaeadp,adtertofadbytecnofteUdSsadtecnoeseofI.UYOFANADC.Inagagtsuma,cnslbegntotendtopeuyoftelwwhrttoisstmragsteti.TLP.TepsoftscrsytoaclanfdorceofanadinaclanorarJy1,2.SSC.TepsoftscrslntataceofanadbeJy1,2.S.Ifaypnoftscrorisantoaypnorceishdi,teiydsntorpsorasoftscrttcnbegnetwtteidpnora,adtotse,tepsoftscraesN2.TsatslbeinflfeadetonadarJy1,2]

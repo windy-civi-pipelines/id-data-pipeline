@@ -1,0 +1,404 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 122
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE BARBER AND COSMETOLOGY SERVICES ACT; AMENDING SECTION
+3 54-5802, IDAHO CODE, TO REMOVE A DEFINITION; REPEALING SECTION 54-5814,
+4 IDAHO CODE, RELATING TO FACILITY LICENSURE FOR MAKEOVER OR GLAMOUR
+5 PHOTOGRAPHY BUSINESSES; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 54-5802, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 54-5802. DEFINITIONS. As used in this chapter:
+11 (1) "Apprentice" means a person registered with the barber and cosme-
+12 tology services licensing board to learn an occupation in a licensed estab-
+13 lishment who, while so learning, performs or assists in performing any prac-
+14 tices of barbering, barber-styling, cosmetology, or electrology.
+15 (2) "Barber" means a person licensed to practice barbering as defined
+16 in this section.
+17 (3) "Barbering" means any one (1) or any combination of the following
+18 practices when performed on the upper part of the human body for cosmetic
+19 purposes and not for the treatment of disease or physical or mental ailments:
+20 (a) Shaving the face or cutting, trimming, arranging, dressing, curl-
+21 ing, cleansing, singeing or performing similar work on the hair;
+22 (b) Fitting, cutting or dressing hairpieces or toupees;
+23 (c) Giving facial and scalp massages or treatments with oils, creams,
+24 lotions or other preparations, either by hand or by a mechanical appli-
+25 ance; and
+26 (d) Applying cosmetic preparations, antiseptics, powders, oils, clays
+27 or lotions to the scalp, face, and neck.
+28 (4) "Barber-styling" means any one (1) or any combination of the fol-
+29 lowing practices when performed on the upper part of the human body for cos-
+30 metic purposes and not for the treatment of disease or physical or mental
+31 ailments:
+32 (a) Shaving the face or cutting, trimming, arranging, dressing, curl-
+33 ing, waving by any method, straightening, cleansing, singeing, bleach-
+34 ing, coloring or performing similar work on the hair;
+35 (b) Fitting, cutting or dressing hairpieces or toupees;
+36 (c) Giving facial and scalp massages or treatments with oils, creams,
+37 lotions or other preparations, either by hand or by a mechanical appli-
+38 ance; and
+39 (d) Applying cosmetic preparations, antiseptics, powders, oils, clays
+40 or lotions to the scalp, face, and neck.
+41 (5) "Barber-stylist" means a person licensed to practice bar-
+42 ber-styling as defined in this section.
+2
+1 (6) "Board" means the barber and cosmetology services licensing board
+2 established by section 54-5806, Idaho Code.
+3 (7) "Cosmetologist" means a person licensed to practice cosmetology as
+4 defined in this section.
+5 (8) "Cosmetology" means any one (1) or any combination of the following
+6 practices when performed on the human body for cosmetic purposes and not for
+7 the treatment of disease or physical or mental ailments:
+8 (a) Cutting, trimming, arranging, dressing, curling, waving by any
+9 method, cleansing, singeing, bleaching, coloring or performing similar
+10 work on the hair, except as provided for in subsection (26) (25) of this
+11 section;
+12 (b) Fitting, cutting or dressing hairpieces or toupees;
+13 (c) Noninvasive care of the skin by application of cosmetic prepa-
+14 rations, antiseptics, tonics, lotions, creams and essential oils
+15 to cleanse, massage, exfoliate, hydrate and stimulate; makeup ap-
+16 plication; pore extraction; use of chemical exfoliants approved for
+17 professional esthetic use; particle exfoliation; use of any class I
+18 medical device, as classified by the United States food and drug admin-
+19 istration, designed for care of the skin, except that a class II medical
+20 device designed for care of the skin may be used as directed and super-
+21 vised by an authorized and licensed health care practitioner; temporary
+22 removal of superfluous hair by lotions, creams, waxing, tweezing, de-
+23 pilatories or other means; and tinting or perming the eyebrows and
+24 eyelashes; and
+25 (d) Manicuring and pedicuring nails and applying artificial nails.
+26 (9) "Division" means the division of occupational and professional li-
+27 censes.
+28 (10) "Electrologist" means a person licensed to practice electrology,
+29 as defined in this section, and skilled in the permanent removal of unwanted
+30 hair.
+31 (11) "Electrology" or "electrolysis" means the permanent removal of
+32 hair by destroying the hair-producing cells of the skin and vascular system
+33 through the use of equipment and devices approved by and registered with the
+34 United States food and drug administration.
+35 (12) "Establishment" means a place licensed under this chapter, other
+36 than a licensed school, where barbering, barber-styling, cosmetology or
+37 electrology is practiced.
+38 (13) "Esthetician" means a person licensed to practice esthetics as de-
+39 fined in this section.
+40 (14) "Esthetics" means noninvasive care of the skin by application of
+41 cosmetic preparations, antiseptics, tonics, lotions, creams and essential
+42 oils to cleanse, massage, exfoliate, hydrate and stimulate; makeup applica-
+43 tion; pore extraction; use of chemical exfoliants approved for professional
+44 esthetic use; particle exfoliation; use of any class I medical device, as
+45 classified by the United States food and drug administration, designed for
+46 care of the skin, except that a class II medical device designed for care
+47 of the skin may be used as directed and supervised by an authorized and li-
+48 censed health care practitioner; temporary removal of superfluous hair by
+49 lotions, creams, waxing, tweezing, depilatories or other means; and tinting
+50 or perming the eyebrows and eyelashes.
+3
+1 (15) "Haircutting" means cutting, trimming, arranging, dressing, curl-
+2 ing, cleansing, singeing or performing similar work on the hair and fitting,
+3 cutting or dressing hairpieces or toupees.
+4 (16) "Hairpieces or toupees" means a full or partial head covering that
+5 is made from natural or synthetic hair that is affixed to a person's scalp,
+6 hair, or head with an adhesive agent such as glue, tape, keratin bonds, fu-
+7 sion bonds, or other bonding agent, and is worn during activities such as
+8 sleep, exercise, and bathing.
+9 (17) "High school student" means a person who has completed the first
+10 two (2) years of high school and is enrolled in a high school or secondary
+11 school licensed under this chapter.
+12 (18) "Instructor" means a person licensed under this chapter to prac-
+13 tice and teach any practice defined in this section.
+14 (19) "Instructor trainee" means a barber, barber-stylist or cosmetol-
+15 ogist attending a licensed school to receive training to teach barbering,
+16 barber-styling or cosmetology.
+17 (20) "Licensed school" means a secondary or postsecondary barber, cos-
+18 metology, or electrology school that:
+19 (a) Is licensed under its official name by the barber and cosmetology
+20 services licensing board; and
+21 (b) Admits as students only those individuals who meet the requirements
+22 of section 54-5810(1)(b), Idaho Code.
+23 (21) "Makeover or glamour photography business" means a business offer-
+24 ing photographic services to the general public in which the business's em-
+25 ployees apply cosmetic products to customers' faces or arrange the hair of
+26 customers in connection with the sale or attempted sale of photographic ser-
+27 vices.
+28 (22) (21) "Makeup artist" means a person certificated to practice
+29 makeup artistry as defined in this section.
+30 (23) (22) "Makeup artistry" means noninvasive care of the skin by appli-
+31 cation of cosmetic preparations for cleansing and the application of makeup,
+32 which includes the application of cosmetics or any pigment product that is
+33 used to cover, camouflage or decorate the skin.
+34 (24) (23) "Nail technician" means a person licensed to practice nail
+35 technology as defined in this section.
+36 (25) (24) "Nail technology" means any one (1) or more of the following
+37 practices when performed on the human body:
+38 (a) Manicuring and pedicuring nails;
+39 (b) Applying artificial nails; and
+40 (c) Massaging the hands and feet.
+41 (26) (25) "Natural hair braiding" means the service of twisting, wrap-
+42 ping, weaving, extending, locking, or braiding hair by hand or with a mechan-
+43 ical device.
+44 (a) "Natural hair braiding" includes:
+45 (i) The use of natural or synthetic hair extensions, natural or
+46 synthetic hair and fibers, and decorative beads and other hair ac-
+47 cessories;
+48 (ii) Minor trimming of natural hair or hair extensions incidental
+49 to twisting, wrapping, weaving, extending, locking, or braiding
+50 hair;
+4
+1 (iii) The making of wigs from natural hair, natural fibers, syn-
+2 thetic fibers, and hair extensions; and
+3 (iv) The use of topical agents, such as conditioners, gels,
+4 moisturizers, oils, pomades, and shampoos, in conjunction with
+5 performing services under subparagraphs (i) or (ii) of this para-
+6 graph.
+7 (b) "Natural hair braiding" does not include:
+8 (i) The application of dyes, reactive chemicals, or other prepa-
+9 rations to alter the color of the hair or to straighten, curl, or
+10 alter the structure of the hair; or
+11 (ii) The use of chemical hair joining agents, such as synthetic
+12 tape, keratin bonds, or fusion bonds.
+13 (27) (26) "Retail cosmetics dealer" means a stationary business offer-
+14 ing cosmetic products for sale at retail to the general public in which the
+15 business's employees apply cosmetic products to customers' faces in connec-
+16 tion with the sale or attempted sale of the products without compensation
+17 from the customer other than the regular price of the products.
+18 (28) (27) "Retail thermal styling equipment dealer" means a retail
+19 business that offers thermal styling equipment, such as curling irons, curl-
+20 ing wands, flat irons, heated hair rollers, blow-dryers or other devices
+21 using heat to style hair, for sale at retail to members of the general public
+22 and whose employees engage in the limited use of thermal styling equipment
+23 on customers in connection with the sale or attempted sale of the equipment
+24 without compensation from the customer other than the regular price of the
+25 equipment.
+26 (29) (28) "Student" means a person learning barbering, barber-styling,
+27 cosmetology or electrology at a licensed school who, while so learning, per-
+28 forms or assists in performing any practices of barbering, barber-styling,
+29 cosmetology or electrology.
+30 (30) (29) "Wig" means a removable head covering that is made from nat-
+31 ural hair, natural fibers that resemble hair, or synthetic fibers that re-
+32 semble hair. A wig is not affixed to a person's scalp or hair using an adhe-
+33 sive agent such as glue, tape, keratin bonds, fusion bonds, or other bonding
+34 agent.
+35 SECTION 2. That Section 54-5814, Idaho Code, be, and the same is hereby
+36 repealed.
+37 SECTION 3. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOTEBRADCYSSA;AGS,IOC,TOREAD;RGSN5OC,RGTOFYLEFRMRORGYB;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.D.Asudintsc)""msapnrdwhtebradcysslgbdtolnanoninaldetw,wesol,psorasinpgaypsofb,b,c,ore)""msapnldtopebgasdntss)""msayoe()oraycnoftefswnpdonteurptoftehnbyfrcsadntfrtettofdeorplormla)Sgtefeorc,t,a,d,c,c,sgorpgsrwkonteh)F,cgordghsort)Ggfladspmsortswho,csororp,erbyhdorbyamla;a)Agccp,a,p,o,crlstotes,f,adn)""msayoe()oraycnoftefgpswnpdonteurptoftehnbyfrccpsadntfrtettofdeorplorm)Sgtefeorc,t,a,d,c,wgbyaym,s,c,s,b,cgorpgsrwkonteh)F,cgordghsort)Ggfladspmsortswho,csororp,erbyhdorbyamla;a)Agccp,a,p,o,crlstotes,f,adn)""msapnldtopebgasddintss]
+[DELETED: )""mstebradcysslgbdbysn5,IoC)""msapnldtopecyadintss)""msayoe()oraycnoftefswnpdontehnbyfrccpsadntfettofdeorplormla)C,t,a,d,c,wgbya,c,s,b,cgorpgskonteh,etaspdfrinsn()()oft)F,cgordghsort)Neceoftesnbyanofccp,a,t,l,csadelooc,m,e,heads;mpa;pee;ueofclesadflecu;pee;ueofaycsld,ascdbyteUdSsfdaddga,ddfrceoftes,etttacsIImeddfrceoftesnmybeudasddadsdbyanadadldhhcep;tlofsshrbyl,c,w,t,dsororm;adtgorpgteesa;a)Mgadpgnsadagaln)""mstednofoladpll)""msapnldtopeesddintss,adsdinteptrlofu)""or""msteptrlorbydgtehgcsoftesnadvrshteueofetaddsadbyadrdwhtdSsfdaddga)""msapeldurtsc,onalds,web,b,cyoyisp)""msapnldtopeesasddintss)""msneceoftesnbyanocp,a,t,l,csadestoc,m,e,heads;mpa;pee;ueofclesadfrpcu;pee;ueofaycsImld,adbyteUdSsfdaddga,ddfeoftes,etttacsIImldeddfrcftesnmybeudasddadsdbyanadadldhhcep;tyrlofsshrb,c,w,t,dsororm;adtrpgteesade]
+[DELETED: )""msc,t,a,d,c,c,sgorpgsrwkontehradfgordghsort)"sort"msaflorplhdcgtsmefmnlorschrttisadtoapss,orhdwhanaeatshasg,t,knb,fnb,ororbga,adiswndgassha,e,adb)"hsls"msapnwohscdtefo()ysofhhsladisedinahhslorslldurtsc)""msapnldurtscrtopeadthaypeddintss)"rt"msab,btorctagaldsltoretgtothbgorc)"ds"msasyorpyb,c,oreyslt)Isldurisolnebytebradcslgb;a)Asasssoyteiswomtterfsn5,IoC)"rorgrpyb"msabsogpcsstoteglpcinwhtebsesayccpstoc'fsoraetehrosincnwhteseoradseofpcs)()"pa"msapncdtoppayasddintss)()"pa"msneceoftesnbyanofccpsfrcgadteanofmhisteanofcsorayptptttidtoc,ceordetes)()"lt"msapnldtopenyasddintss)()"lt"msayoe()ormeoftefswnpdontehnb)Mgadpgn)Agaln;a)Mgtehsadf)()"lhrb"msteseoft,w,w,e,l,orbghrbyhdorwhamld)"lhrb"i)Teueofnlorschre,nlochradf,addebsadorhra)Mrtgofnlhrorhresiot,w,w,e,l,orb]
+[DELETED: )Temgofwsfmnlh,nlf,scf,adhre;a)Teueoftla,shasc,g,o,p,ads,incnwgssurss()or()oftsp)"lhrb"dsnti)Teanofd,rec,ororpstoartecroftehrortos,c,orteseofteh;o)Teueofclhrjga,shass,knb,orfnb)()"lcsd"msasybsogccpsfrseatrltoteglpcinwhtsesayccpstoc'fsincnwhteseoradseoftepswtcmtecrortnterrpeoftep)()"ltlsgetd"msarsttostlsge,shascgi,cgw,fti,hdhrr,bsorordghttoseh,frseatrltomsofteglpdweeseeinteldueoftlsgencsincnwhteseoradseofteetcnfmtecrortnterrpeoft)()""msapnlgb,byoreyataldslw,wesol,psorasinpgaypsofb,byore)()""msarehdcgttismefmnlh,nlfsttreh,orscfsttreh.Awgisntadtoapssporhruganaeatshasg,t,knb,fnb,ororbN2.TtSn5,IoC,b,adteseishN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 122
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE BARBER AND COSMETOLOGY SERVICES ACT; AMENDING SECTION
+3 54-5802, IDAHO CODE, TO REMOVE A DEFINITION; REPEALING SECTION 54-5814,
+4 IDAHO CODE, RELATING TO FACILITY LICENSURE FOR MAKEOVER OR GLAMOUR
+5 PHOTOGRAPHY BUSINESSES; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 54-5802, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 54-5802. DEFINITIONS. As used in this chapter:
+11 (1) "Apprentice" means a person registered with the barber and cosme-
+12 tology services licensing board to learn an occupation in a licensed estab-
+13 lishment who, while so learning, performs or assists in performing any prac-
+14 tices of barbering, barber-styling, cosmetology, or electrology.
+15 (2) "Barber" means a person licensed to practice barbering as defined
+16 in this section.
+17 (3) "Barbering" means any one (1) or any combination of the following
+18 practices when performed on the upper part of the human body for cosmetic
+19 purposes and not for the treatment of disease or physical or mental ailments:
+20 (a) Shaving the face or cutting, trimming, arranging, dressing, curl-
+21 ing, cleansing, singeing or performing similar work on the hair;
+22 (b) Fitting, cutting or dressing hairpieces or toupees;
+23 (c) Giving facial and scalp massages or treatments with oils, creams,
+24 lotions or other preparations, either by hand or by a mechanical appli-
+25 ance; and
+26 (d) Applying cosmetic preparations, antiseptics, powders, oils, clays
+27 or lotions to the scalp, face, and neck.
+28 (4) "Barber-styling" means any one (1) or any combination of the fol-
+29 lowing practices when performed on the upper part of the human body for cos-
+30 metic purposes and not for the treatment of disease or physical or mental
+31 ailments:
+32 (a) Shaving the face or cutting, trimming, arranging, dressing, curl-
+33 ing, waving by any method, straightening, cleansing, singeing, bleach-
+34 ing, coloring or performing similar work on the hair;
+35 (b) Fitting, cutting or dressing hairpieces or toupees;
+36 (c) Giving facial and scalp massages or treatments with oils, creams,
+37 lotions or other preparations, either by hand or by a mechanical appli-
+38 ance; and
+39 (d) Applying cosmetic preparations, antiseptics, powders, oils, clays
+40 or lotions to the scalp, face, and neck.
+41 (5) "Barber-stylist" means a person licensed to practice bar-
+42 ber-styling as defined in this section.
+
+2
+1 (6) "Board" means the barber and cosmetology services licensing board
+2 established by section 54-5806, Idaho Code.
+3 (7) "Cosmetologist" means a person licensed to practice cosmetology as
+4 defined in this section.
+5 (8) "Cosmetology" means any one (1) or any combination of the following
+6 practices when performed on the human body for cosmetic purposes and not for
+7 the treatment of disease or physical or mental ailments:
+8 (a) Cutting, trimming, arranging, dressing, curling, waving by any
+9 method, cleansing, singeing, bleaching, coloring or performing similar
+10 work on the hair, except as provided for in subsection (26) (25) of this
+11 section;
+12 (b) Fitting, cutting or dressing hairpieces or toupees;
+13 (c) Noninvasive care of the skin by application of cosmetic prepa-
+14 rations, antiseptics, tonics, lotions, creams and essential oils
+15 to cleanse, massage, exfoliate, hydrate and stimulate; makeup ap-
+16 plication; pore extraction; use of chemical exfoliants approved for
+17 professional esthetic use; particle exfoliation; use of any class I
+18 medical device, as classified by the United States food and drug admin-
+19 istration, designed for care of the skin, except that a class II medical
+20 device designed for care of the skin may be used as directed and super-
+21 vised by an authorized and licensed health care practitioner; temporary
+22 removal of superfluous hair by lotions, creams, waxing, tweezing, de-
+23 pilatories or other means; and tinting or perming the eyebrows and
+24 eyelashes; and
+25 (d) Manicuring and pedicuring nails and applying artificial nails.
+26 (9) "Division" means the division of occupational and professional li-
+27 censes.
+28 (10) "Electrologist" means a person licensed to practice electrology,
+29 as defined in this section, and skilled in the permanent removal of unwanted
+30 hair.
+31 (11) "Electrology" or "electrolysis" means the permanent removal of
+32 hair by destroying the hair-producing cells of the skin and vascular system
+33 through the use of equipment and devices approved by and registered with the
+34 United States food and drug administration.
+35 (12) "Establishment" means a place licensed under this chapter, other
+36 than a licensed school, where barbering, barber-styling, cosmetology or
+37 electrology is practiced.
+38 (13) "Esthetician" means a person licensed to practice esthetics as de-
+39 fined in this section.
+40 (14) "Esthetics" means noninvasive care of the skin by application of
+41 cosmetic preparations, antiseptics, tonics, lotions, creams and essential
+42 oils to cleanse, massage, exfoliate, hydrate and stimulate; makeup applica-
+43 tion; pore extraction; use of chemical exfoliants approved for professional
+44 esthetic use; particle exfoliation; use of any class I medical device, as
+45 classified by the United States food and drug administration, designed for
+46 care of the skin, except that a class II medical device designed for care
+47 of the skin may be used as directed and supervised by an authorized and li-
+48 censed health care practitioner; temporary removal of superfluous hair by
+49 lotions, creams, waxing, tweezing, depilatories or other means; and tinting
+50 or perming the eyebrows and eyelashes.
+
+3
+1 (15) "Haircutting" means cutting, trimming, arranging, dressing, curl-
+2 ing, cleansing, singeing or performing similar work on the hair and fitting,
+3 cutting or dressing hairpieces or toupees.
+4 (16) "Hairpieces or toupees" means a full or partial head covering that
+5 is made from natural or synthetic hair that is affixed to a person's scalp,
+6 hair, or head with an adhesive agent such as glue, tape, keratin bonds, fu-
+7 sion bonds, or other bonding agent, and is worn during activities such as
+8 sleep, exercise, and bathing.
+9 (17) "High school student" means a person who has completed the first
+10 two (2) years of high school and is enrolled in a high school or secondary
+11 school licensed under this chapter.
+12 (18) "Instructor" means a person licensed under this chapter to prac-
+13 tice and teach any practice defined in this section.
+14 (19) "Instructor trainee" means a barber, barber-stylist or cosmetol-
+15 ogist attending a licensed school to receive training to teach barbering,
+16 barber-styling or cosmetology.
+17 (20) "Licensed school" means a secondary or postsecondary barber, cos-
+18 metology, or electrology school that:
+19 (a) Is licensed under its official name by the barber and cosmetology
+20 services licensing board; and
+21 (b) Admits as students only those individuals who meet the requirements
+22 of section 54-5810(1)(b), Idaho Code.
+23 (21) "Makeover or glamour photography business" means a business offer-
+24 ing photographic services to the general public in which the business's em-
+25 ployees apply cosmetic products to customers' faces or arrange the hair of
+26 customers in connection with the sale or attempted sale of photographic ser-
+27 vices.
+28 (22) (21) "Makeup artist" means a person certificated to practice
+29 makeup artistry as defined in this section.
+30 (23) (22) "Makeup artistry" means noninvasive care of the skin by appli-
+31 cation of cosmetic preparations for cleansing and the application of makeup,
+32 which includes the application of cosmetics or any pigment product that is
+33 used to cover, camouflage or decorate the skin.
+34 (24) (23) "Nail technician" means a person licensed to practice nail
+35 technology as defined in this section.
+36 (25) (24) "Nail technology" means any one (1) or more of the following
+37 practices when performed on the human body:
+38 (a) Manicuring and pedicuring nails;
+39 (b) Applying artificial nails; and
+40 (c) Massaging the hands and feet.
+41 (26) (25) "Natural hair braiding" means the service of twisting, wrap-
+42 ping, weaving, extending, locking, or braiding hair by hand or with a mechan-
+43 ical device.
+44 (a) "Natural hair braiding" includes:
+45 (i) The use of natural or synthetic hair extensions, natural or
+46 synthetic hair and fibers, and decorative beads and other hair ac-
+47 cessories;
+48 (ii) Minor trimming of natural hair or hair extensions incidental
+49 to twisting, wrapping, weaving, extending, locking, or braiding
+50 hair;
+
+4
+1 (iii) The making of wigs from natural hair, natural fibers, syn-
+2 thetic fibers, and hair extensions; and
+3 (iv) The use of topical agents, such as conditioners, gels,
+4 moisturizers, oils, pomades, and shampoos, in conjunction with
+5 performing services under subparagraphs (i) or (ii) of this para-
+6 graph.
+7 (b) "Natural hair braiding" does not include:
+8 (i) The application of dyes, reactive chemicals, or other prepa-
+9 rations to alter the color of the hair or to straighten, curl, or
+10 alter the structure of the hair; or
+11 (ii) The use of chemical hair joining agents, such as synthetic
+12 tape, keratin bonds, or fusion bonds.
+13 (27) (26) "Retail cosmetics dealer" means a stationary business offer-
+14 ing cosmetic products for sale at retail to the general public in which the
+15 business's employees apply cosmetic products to customers' faces in connec-
+16 tion with the sale or attempted sale of the products without compensation
+17 from the customer other than the regular price of the products.
+18 (28) (27) "Retail thermal styling equipment dealer" means a retail
+19 business that offers thermal styling equipment, such as curling irons, curl-
+20 ing wands, flat irons, heated hair rollers, blow-dryers or other devices
+21 using heat to style hair, for sale at retail to members of the general public
+22 and whose employees engage in the limited use of thermal styling equipment
+23 on customers in connection with the sale or attempted sale of the equipment
+24 without compensation from the customer other than the regular price of the
+25 equipment.
+26 (29) (28) "Student" means a person learning barbering, barber-styling,
+27 cosmetology or electrology at a licensed school who, while so learning, per-
+28 forms or assists in performing any practices of barbering, barber-styling,
+29 cosmetology or electrology.
+30 (30) (29) "Wig" means a removable head covering that is made from nat-
+31 ural hair, natural fibers that resemble hair, or synthetic fibers that re-
+32 semble hair. A wig is not affixed to a person's scalp or hair using an adhe-
+33 sive agent such as glue, tape, keratin bonds, fusion bonds, or other bonding
+34 agent.
+35 SECTION 2. That Section 54-5814, Idaho Code, be, and the same is hereby
+36 repealed.
+37 SECTION 3. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOTEBRADCYSSA;AGS,IOC,TOREAD;RGSN5OC,RGTOFYLEFRMRORGYB;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.D.Asudintsc)""msapnrdwhtebradcysslgbdtolnanoninaldetw,wesol,psorasinpgaypsofb,b,c,ore)""msapnldtopebgasdntss)""msayoe()oraycnoftefswnpdonteurptoftehnbyfrcsadntfrtettofdeorplormla)Sgtefeorc,t,a,d,c,c,sgorpgsrwkonteh)F,cgordghsort)Ggfladspmsortswho,csororp,erbyhdorbyamla;a)Agccp,a,p,o,crlstotes,f,adn)""msayoe()oraycnoftefgpswnpdonteurptoftehnbyfrccpsadntfrtettofdeorplorm)Sgtefeorc,t,a,d,c,wgbyaym,s,c,s,b,cgorpgsrwkonteh)F,cgordghsort)Ggfladspmsortswho,csororp,erbyhdorbyamla;a)Agccp,a,p,o,crlstotes,f,adn)""msapnldtopebgasddintss]
+[DELETED: )""mstebradcysslgbdbysn5,IoC)""msapnldtopecyadintss)""msayoe()oraycnoftefswnpdontehnbyfrccpsadntfettofdeorplormla)C,t,a,d,c,wgbya,c,s,b,cgorpgskonteh,etaspdfrinsn()()oft)F,cgordghsort)Neceoftesnbyanofccp,a,t,l,csadelooc,m,e,heads;mpa;pee;ueofclesadflecu;pee;ueofaycsld,ascdbyteUdSsfdaddga,ddfrceoftes,etttacsIImeddfrceoftesnmybeudasddadsdbyanadadldhhcep;tlofsshrbyl,c,w,t,dsororm;adtgorpgteesa;a)Mgadpgnsadagaln)""mstednofoladpll)""msapnldtopeesddintss,adsdinteptrlofu)""or""msteptrlorbydgtehgcsoftesnadvrshteueofetaddsadbyadrdwhtdSsfdaddga)""msapeldurtsc,onalds,web,b,cyoyisp)""msapnldtopeesasddintss)""msneceoftesnbyanocp,a,t,l,csadestoc,m,e,heads;mpa;pee;ueofclesadfrpcu;pee;ueofaycsImld,adbyteUdSsfdaddga,ddfeoftes,etttacsIImldeddfrcftesnmybeudasddadsdbyanadadldhhcep;tyrlofsshrb,c,w,t,dsororm;adtrpgteesade]
+[DELETED: )""msc,t,a,d,c,c,sgorpgsrwkontehradfgordghsort)"sort"msaflorplhdcgtsmefmnlorschrttisadtoapss,orhdwhanaeatshasg,t,knb,fnb,ororbga,adiswndgassha,e,adb)"hsls"msapnwohscdtefo()ysofhhsladisedinahhslorslldurtsc)""msapnldurtscrtopeadthaypeddintss)"rt"msab,btorctagaldsltoretgtothbgorc)"ds"msasyorpyb,c,oreyslt)Isldurisolnebytebradcslgb;a)Asasssoyteiswomtterfsn5,IoC)"rorgrpyb"msabsogpcsstoteglpcinwhtebsesayccpstoc'fsoraetehrosincnwhteseoradseofpcs)()"pa"msapncdtoppayasddintss)()"pa"msneceoftesnbyanofccpsfrcgadteanofmhisteanofcsorayptptttidtoc,ceordetes)()"lt"msapnldtopenyasddintss)()"lt"msayoe()ormeoftefswnpdontehnb)Mgadpgn)Agaln;a)Mgtehsadf)()"lhrb"msteseoft,w,w,e,l,orbghrbyhdorwhamld)"lhrb"i)Teueofnlorschre,nlochradf,addebsadorhra)Mrtgofnlhrorhresiot,w,w,e,l,orb]
+[DELETED: )Temgofwsfmnlh,nlf,scf,adhre;a)Teueoftla,shasc,g,o,p,ads,incnwgssurss()or()oftsp)"lhrb"dsnti)Teanofd,rec,ororpstoartecroftehrortos,c,orteseofteh;o)Teueofclhrjga,shass,knb,orfnb)()"lcsd"msasybsogccpsfrseatrltoteglpcinwhtsesayccpstoc'fsincnwhteseoradseoftepswtcmtecrortnterrpeoftep)()"ltlsgetd"msarsttostlsge,shascgi,cgw,fti,hdhrr,bsorordghttoseh,frseatrltomsofteglpdweeseeinteldueoftlsgencsincnwhteseoradseofteetcnfmtecrortnterrpeoft)()""msapnlgb,byoreyataldslw,wesol,psorasinpgaypsofb,byore)()""msarehdcgttismefmnlh,nlfsttreh,orscfsttreh.Awgisntadtoapssporhruganaeatshasg,t,knb,fnb,ororbN2.TtSn5,IoC,b,adteseishN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

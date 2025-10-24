@@ -1,0 +1,1295 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 65
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO WORKER'S COMPENSATION; AMENDING SECTION 72-102, IDAHO CODE, TO
+3 DEFINE A TERM; AMENDING SECTION 72-212, IDAHO CODE, TO REMOVE A DEFINI-
+4 TION; AMENDING SECTION 9-203, IDAHO CODE, TO PROVIDE A CORRECT CODE REF-
+5 ERENCE; AMENDING SECTION 72-438, IDAHO CODE, TO PROVIDE A CORRECT CODE
+6 REFERENCE; AMENDING SECTION 72-451, IDAHO CODE, TO PROVIDE CORRECT CODE
+7 REFERENCES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 72-102, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 72-102. DEFINITIONS. Words and terms used in the worker's compensa-
+12 tion law, unless the context otherwise requires, are defined in the subsec-
+13 tions which follow:
+14 (1) "Alien" means a person who is not a citizen, a national or a resident
+15 of the United States or Canada. Any person not a citizen or national of the
+16 United States who relinquishes or is about to relinquish his residence in the
+17 United States shall be regarded as an alien.
+18 (2) "Balance billing" means charging, billing, or otherwise attempting
+19 to collect directly from an injured employee payment for medical services in
+20 excess of amounts allowable in compensable claims as provided by rules pro-
+21 mulgated by the commission pursuant to section 72-508, Idaho Code.
+22 (3) "Beneficiary" means any person who is entitled to income benefits
+23 or medical and related benefits under this law.
+24 (4) "Commission" means the industrial commission.
+25 (5) "Community service worker" means:
+26 (a) Any person who has been convicted of a criminal offense, any juve-
+27 nile who has been found to be within the purview of chapter 5, title 20,
+28 Idaho Code, and who has been informally diverted under the provisions of
+29 section 20-511, Idaho Code, or any person or youth who has been diverted
+30 from the criminal or juvenile justice system and who performs a public
+31 service for any department, institution, office, college, university,
+32 authority, division, board, bureau, commission, council, or other en-
+33 tity of the state, or any city, county, school district, irrigation dis-
+34 trict or other taxing district authorized to levy a tax or an assess-
+35 ment or any other political subdivision or any private not-for-profit
+36 agency which has elected worker's compensation insurance coverage for
+37 such person; or
+38 (b) Parolees under department of correction supervision, probationers
+39 under court order or department of correction supervision and offender
+40 residents of community work centers under the direction or order of the
+41 board of correction who are performing public service or community ser-
+2
+1 vice work for any of the entities specified in paragraph (a) of this sub-
+2 section other than the department of correction.
+3 (6) "Compensation" used collectively means any or all of the income
+4 benefits and the medical and related benefits and medical services.
+5 (7) "Custom farmer" means a person who contracts to supply operated
+6 equipment to a proprietor of a farm for the purpose of performing part or all
+7 of the activities related to raising or harvesting agricultural or horticul-
+8 tural commodities.
+9 (8) "Death" means death resulting from an injury or occupational dis-
+10 ease.
+11 (9) Dependency limitations.
+12 (a) "Adopted" and "adoption" include cases where persons are treated
+13 as adopted as well as those of legal adoption unless legal adoption is
+14 specifically provided.
+15 (b) "Brother" and "sister" include stepbrothers and stepsisters, half
+16 brothers and half sisters, and brothers and sisters by adoption.
+17 (c) "Child" includes adopted children, posthumous children, and ac-
+18 knowledged illegitimate children, but does not include stepchildren
+19 unless actually dependent.
+20 (d) "Grandchild" includes children of legally adopted children and
+21 children of stepchildren, but does not include stepchildren of chil-
+22 dren, stepchildren of stepchildren, or stepchildren of adopted chil-
+23 dren unless actually dependent.
+24 (e) "Parent" includes stepparents and parents by adoption.
+25 (f) "Grandparent" includes parents of parents by adoption, but does not
+26 include parents of stepparents, stepparents of parents, or stepparents
+27 of stepparents.
+28 (10) "Disability," for purposes of determining total or partial tempo-
+29 rary disability income benefits, means a decrease in wage-earning capacity
+30 due to injury or occupational disease, as such capacity is affected by the
+31 medical factor of physical impairment, and by pertinent nonmedical factors
+32 as provided in section 72-430, Idaho Code.
+33 (11) "Employee" is synonymous with "workman" and means any person who
+34 has entered into the employment of, or who works under contract of service
+35 or apprenticeship with, an employer. It does not include any person engaged
+36 in any of the excepted employments enumerated in section 72-212, Idaho Code,
+37 unless an election as provided in section 72-213, Idaho Code, has been filed.
+38 It does, however, include a volunteer firefighter for purposes of section
+39 72-438(12) and (14), Idaho Code. Any reference to an employee who has been
+40 injured shall, where the employee is dead, include a reference to his depen-
+41 dents as herein defined, if the context so requires, or, where the employee
+42 is a minor or incompetent, to his committee or guardian or next friend.
+43 (12)(a) "Employer" means any person who has expressly or impliedly
+44 hired or contracted the services of another. It includes contractors
+45 and subcontractors. It includes the owner or lessee of premises, or
+46 other person who is virtually the proprietor or operator of the busi-
+47 ness there carried on, but who, by reason of there being an independent
+48 contractor or for any other reason, is not the direct employer of the
+49 workers there employed. It also includes, for purposes of section
+50 72-438(12) and (14), Idaho Code, a municipality, village, county or
+3
+1 fire district that utilizes the services of volunteer firefighters. If
+2 the employer is secured, it means his surety so far as applicable.
+3 (b) "Professional employer" means a professional employer as defined
+4 in chapter 24, title 44, Idaho Code.
+5 (c) "Temporary employer" means the employer of temporary employees as
+6 defined in section 44-2403(7), Idaho Code.
+7 (d) "Work site employer" means the client of the temporary or profes-
+8 sional employer with whom a worker has been placed.
+9 (13) "Farm labor contractor" means any person or his agent or subcon-
+10 tractor who, for a fee, recruits and employs farmworkers and performs any
+11 farm labor contracting activity.
+12 (14) "Gender and number." The masculine gender includes the feminine
+13 and neuter; "husband" or "wife" includes "spouse"; the singular number in-
+14 cludes plural and the plural the singular.
+15 (15) "Income benefits" means payments provided for or made under the
+16 provisions of this law to the injured employee disabled by an injury or occu-
+17 pational disease, or his dependents in case of death, excluding medical and
+18 related benefits.
+19 (16) "Independent contractor" means any person who renders service for
+20 a specified recompense for a specified result, under the right to control or
+21 actual control of his principal as to the result of his work only and not as to
+22 the means by which such result is accomplished. For the purposes of worker's
+23 compensation law, a custom farmer is considered to be an independent con-
+24 tractor.
+25 (17) "Injury" and "accident."
+26 (a) "Injury" means a personal injury caused by an accident arising out
+27 of and in the course of any employment covered by the worker's compensa-
+28 tion law.
+29 (b) "Accident" means an unexpected, undesigned, and unlooked for
+30 mishap, or untoward event, connected with the industry in which it oc-
+31 curs, and which can be reasonably located as to time when and place where
+32 it occurred, causing an injury.
+33 (c) "Injury" and "personal injury" shall be construed to include only
+34 an injury caused by an accident, which results in violence to the phys-
+35 ical structure of the body. The terms shall in no case be construed to
+36 include an occupational disease and only such nonoccupational diseases
+37 as result directly from an injury.
+38 (18) "Manifestation" means the time when an employee knows that he has
+39 an occupational disease, or whenever a qualified physician shall inform the
+40 injured worker that he has an occupational disease.
+41 (19) "Medical and related benefits" means payments provided for or made
+42 for medical, hospital, burial and other services as provided in this law
+43 other than income benefits.
+44 (20) "Medical services" means medical, surgical, dental or other atten-
+45 dance or treatment, nurse and hospital service, medicines, apparatus, ap-
+46 pliances, prostheses, and related services, facilities and supplies.
+47 (21) "Member of an employer's family" means a natural person or the
+48 spouse of a natural person who is related to the employer within the first de-
+49 gree of consanguinity by blood, adoption, or marriage or who is a grandchild
+50 of the employer or the spouse of such grandchild.
+4
+1 (21) (22) "Occupational diseases."
+2 (a) "Occupational disease" means a disease due to the nature of an
+3 employment in which the hazards of such disease actually exist, are
+4 characteristic of, and peculiar to the trade, occupation, process, or
+5 employment, but shall not include psychological injuries, disorders
+6 or conditions unless the conditions set forth in section 72-451, Idaho
+7 Code, are met.
+8 (b) "Contracted" and "incurred," when referring to an occupational
+9 disease, shall be deemed the equivalent of the term "arising out of and
+10 in the course of" employment.
+11 (c) "Disablement," except in the case of silicosis, means the event of
+12 an employee's becoming actually and totally incapacitated because of an
+13 occupational disease from performing his work in the last occupation in
+14 which injuriously exposed to the hazards of such disease; and "disabil-
+15 ity" means the state of being so incapacitated.
+16 (d) "Disablement," in the case of silicosis, means the event of first
+17 becoming actually incapacitated, because of such disease, from per-
+18 forming any work in any remunerative employment; and "disability" means
+19 the state of being so incapacitated.
+20 (e) "Silicosis" means the characteristic fibrotic condition of the
+21 lungs caused by the inhalation of silicon dioxide (SiO 2 ) dust.
+22 (22) (23) "Outworker" means a person to whom articles or materials are
+23 furnished to be treated in any way on premises not under the control or man-
+24 agement of the person who furnished them.
+25 (23) (24) "Person" means the state or any political subdivision
+26 thereof, or any individual, partnership, firm, association, trust, corpora-
+27 tion, including the state insurance fund, or any representative thereof.
+28 (24) (25) "Physician" means medical physicians and surgeons, ophthal-
+29 mologists, otorhinolaryngologists, dentists, osteopaths, osteopathic
+30 physicians and surgeons, optometrists, podiatrists, chiropractic physi-
+31 cians, and members of any other healing profession licensed or authorized by
+32 the statutes of this state to practice such profession within the scope of
+33 their practice as defined by the statutes of this state and as authorized by
+34 their licenses.
+35 (25) (26) "Provider" means any person, firm, corporation, partnership,
+36 association, agency, institution, or other legal entity providing any kind
+37 of medical services related to the treatment of an injured employee which are
+38 compensable under Idaho's worker's compensation law.
+39 (26) (27) "Secretary" means the secretary of the commission.
+40 (27) (28) "Self-insurer" means an employer who has been authorized un-
+41 der the provisions of this law to carry his own liability to his employees
+42 covered by this law.
+43 (28) (29) "State" includes any state, district, commonwealth, zone or
+44 territory of the United States or any province of Canada.
+45 (29) (30) "Surety" means any insurer authorized to insure or guarantee
+46 payment of worker's compensation liability of employers in any state; it
+47 also includes the state insurance fund, a self-insurer and an inter-insur-
+48 ance exchange.
+5
+1 (30) (31) "United States," when used in a geographic sense, means the
+2 several states, the District of Columbia, the Commonwealth of Puerto Rico
+3 and the territories of the United States.
+4 (31) (32) "Volunteer emergency responder" means a firefighter or peace
+5 officer, or publicly employed certified personnel who is a bona fide member
+6 of a legally organized law enforcement agency, a legally organized fire de-
+7 partment or a licensed emergency medical service provider organization who
+8 contributes services.
+9 (32) (33) "Wages" and "wage-earning capacity" prior to the injury or
+10 disablement from occupational disease mean the employee's money payments
+11 for services as calculated under section 72-419, Idaho Code, and shall ad-
+12 ditionally include the reasonable market value of board, rent, housing,
+13 lodging, fuel, and other advantages which can be estimated in money which the
+14 employee receives from the employer as part of his remuneration, and gratu-
+15 ities received in the course of employment from others than the employer.
+16 "Wages" shall not include sums which the employer has paid to the employee to
+17 cover any special expenses entailed on him by the nature of his employment.
+18 (33) (34) "Wages" and "wage-earning capacity" after the injury or
+19 disablement from occupational disease shall be presumed to be the actual
+20 earnings after the injury or disablement, which presumption may be over-
+21 come by showing that those earnings do not fairly and reasonably represent
+22 wage-earning capacity; in such a case, wage-earning capacity shall be de-
+23 termined in the light of all factors and circumstances which may affect the
+24 worker's capacity to earn wages.
+25 (34) (35) "Work experience student" means any person enrolled in the
+26 public school districts or public institutions of higher education of this
+27 state and who, as part of his instruction, is enrolled in a class or program
+28 for academic credit and for which the student is employed by, or works for, a
+29 private or governmental entity. The student need not receive wages from the
+30 private or governmental entity in order to be classified as a work experience
+31 student.
+32 (35) (36) "Worker's compensation law" or "workmen's compensation law"
+33 means and includes the worker's compensation law of this state and any like
+34 or similar law of any state, United States, territory, or province of Canada.
+35 SECTION 2. That Section 72-212, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 72-212. EXEMPTIONS FROM COVERAGE. None of the provisions of this law
+38 shall apply to the following employments unless coverage thereof is elected
+39 as provided in section 72-213, Idaho Code:
+40 (1) Household domestic service.
+41 (2) Casual employment.
+42 (3) Employment of outworkers.
+43 (4) Employment of members of an employer's family dwelling in his
+44 household if the employer is the owner of a sole proprietorship or a single
+45 member limited liability company that is taxed as a sole proprietorship.
+46 (5) Employment of members of an employer's family not dwelling in his
+47 household if the employer is the owner of a sole proprietorship, provided
+48 the family member has filed with the commission a written declaration of his
+49 election for exemption from coverage. For the purposes of this subsection,
+6
+1 "member of an employer's family" means a natural person or the spouse of a
+2 natural person who is related to the employer by blood, adoption or marriage
+3 within the first degree of consanguinity or a grandchild or the spouse of a
+4 grandchild.
+5 (6) Employment as the owner of a sole proprietorship; employment of a
+6 working member of a partnership or a limited liability company; employment
+7 of an officer of a corporation who at all times during the period involved
+8 owns not less than ten percent (10%) of all of the issued and outstanding vot-
+9 ing stock of the corporation and, if the corporation has directors, is also a
+10 director thereof.
+11 (7) Employment for which a rule of liability for injury, occupational
+12 disease, or death is provided by the laws of the United States.
+13 (8) Employment as a pilot of an aircraft, while actually operating an
+14 aircraft for the purpose of applying fertilizers or pesticides to agricul-
+15 tural crops, shall be exempt from the provisions of the worker's compensa-
+16 tion law, provided that:
+17 (a) The industrial commission has issued to the agent submitting the
+18 policy written approval of a policy of insurance that will provide
+19 benefits in an amount of not less than: twenty-five thousand dollars
+20 ($25,000) accidental death and dismemberment, ten thousand dollars
+21 ($10,000) medical expense payments, and five hundred dollars ($500) per
+22 month disability income for a minimum of forty-eight (48) months; and
+23 (b) Once the policy has been approved by the industrial commission,
+24 proof of coverage for the specified pilot has been filed with the com-
+25 mission prior to the pilot actually operating an aircraft.
+26 Provided however, the agent issuing the policy shall obtain approval of the
+27 policy of insurance, and proof of coverage for each pilot insured under the
+28 policy shall be filed with the commission, each calendar year. The exemp-
+29 tion shall be effective on the date the commission receives proof of coverage
+30 for the specified pilot, but no earlier than the date written approval of the
+31 policy was issued by the commission.
+32 (9) Associate real estate brokers and real estate salesmen. Service
+33 performed by an individual for a real estate broker as an associate real es-
+34 tate broker or as a real estate salesman, if all such service performed by
+35 such individual for such person is performed for remuneration solely by way
+36 of commission.
+37 (10) Volunteer ski patrollers.
+38 (11) Officials of athletic contests involving secondary schools, as de-
+39 fined in section 33-119, Idaho Code.
+40 SECTION 3. That Section 9-203, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 9-203. CONFIDENTIAL RELATIONS AND COMMUNICATIONS. There are particu-
+43 lar relations in which it is the policy of the law to encourage confidence and
+44 to preserve it inviolate; therefore, a person cannot be examined as a witness
+45 in the following cases:
+46 (1) A husband cannot be examined for or against his wife, without her
+47 consent, nor a wife for or against her husband, without his consent; nor can
+48 either, during the marriage or afterwards, be, without the consent of the
+49 other, examined as to any communication made by one to the other during the
+7
+1 marriage; but this exception does not apply to a civil action or proceeding
+2 by one against the other nor to a criminal action or proceeding for a crime
+3 committed by violence of one against the person of the other, nor does this
+4 exception apply to any case of physical injury to a child where the injury has
+5 been caused as a result of physical abuse or neglect by one or both of the par-
+6 ents, nor does this exception apply to any case of lewd and lascivious con-
+7 duct or attempted lewd and lascivious conduct where either party would oth-
+8 erwise be protected by this privilege.
+9 (2) An attorney cannot, without the consent of his client, be exam-
+10 ined as to any communication made by the client to him, or his advice given
+11 thereon, in the course of professional employment. The word client used
+12 herein shall be deemed to include a person, a corporation or an association.
+13 (3) A clergyman or priest cannot, without the consent of the person mak-
+14 ing the confession, be examined as to any confession made to him in his pro-
+15 fessional character in the course of discipline enjoined by the church to
+16 which he belongs.
+17 (4) A physician or surgeon cannot, without the consent of his patient,
+18 be examined in a civil action as to any information acquired in attending
+19 the patient which was necessary to enable him to prescribe or act for the pa-
+20 tient, provided, however, that:
+21 (a) Nothing herein contained shall be deemed to preclude physicians
+22 from reporting of and testifying at all cases of physical injury to
+23 children, where it appears the injury has been caused as a result of
+24 physical abuse or neglect by a parent, guardian or legal custodian of
+25 the child.
+26 (b) Nothing herein contained shall be deemed to preclude physicians
+27 from testifying at all cases of physical injury to a person where it ap-
+28 pears the injury has been caused as a result of domestic violence.
+29 (c) After the death of a patient, in any action involving the valid-
+30 ity of any will or other instrument executed, or claimed to have been
+31 executed, by him, conveying or transferring any real or personal prop-
+32 erty or incurring any financial obligation, such physician or surgeon
+33 may testify to the mental or physical condition of such patient and in so
+34 testifying may disclose information acquired by him concerning such pa-
+35 tient which was necessary to enable him to prescribe or act for such de-
+36 ceased.
+37 (d) Where any person or his heirs or representatives brings an action
+38 to recover damages for personal injuries or death, such action shall be
+39 deemed to constitute a consent by the person bringing such action that
+40 any physician who has prescribed for or treated said injured or deceased
+41 person and whose testimony is material in the action may testify.
+42 (e) If the patient be dead and during his lifetime had not given such
+43 consent, the bringing of an action by a beneficiary, assignee or payee
+44 or by the legal representative of the insured to recover on any life,
+45 health or accident insurance policy shall constitute a consent by such
+46 beneficiary, assignee, payee or legal representative to the testimony
+47 of any physician who attended the deceased.
+48 (5) A public officer cannot be examined as to communications made to him
+49 in official confidence when the public interests would suffer by disclosure.
+8
+1 (6) Any certificated counselor, psychologist, or psychological exam-
+2 iner duly appointed, regularly employed, and designated in such capacity by
+3 any public or private school in this state for the purpose of counseling stu-
+4 dents shall be immune from disclosing, without the consent of the student,
+5 any communication made by any student so counseled or examined in any civil
+6 or criminal action to which such student is a party. Such matters so communi-
+7 cated shall be privileged and protected against disclosure.
+8 (7) Any parent, guardian or legal custodian shall not be forced to
+9 disclose any communication made by their minor child or ward to them con-
+10 cerning matters in any civil or criminal action to which such child or ward
+11 is a party. Such matters so communicated shall be privileged and protected
+12 against disclosure; excepting, this section does not apply to a civil action
+13 or proceeding by one against the other nor to a criminal action or proceeding
+14 for a crime committed by violence of one against the person of the other, nor
+15 does this section apply to any case of physical injury to a minor child where
+16 the injury has been caused as a result of physical abuse or neglect by one or
+17 both of the parents, guardians or legal custodians.
+18 (8)(a) As used in this subsection:
+19 (i) "First responder" means:
+20 1. A peace officer as defined in section 19-5101(d), Idaho
+21 Code, when employed by a city, county, or the Idaho state po-
+22 lice;
+23 2. A firefighter as defined in section 59-1302(16), Idaho
+24 Code;
+25 3. A volunteer emergency responder as defined in section
+26 72-102(31), Idaho Code;
+27 4. An emergency medical service (EMS) provider certi-
+28 fied by the department of health and welfare pursuant to
+29 sections 56-1011 through 56-1018B, Idaho Code, and an am-
+30 bulance-based clinician as defined in the rules governing
+31 emergency medical services as adopted by the department of
+32 health and welfare; and
+33 5. An emergency communications officer as defined in sec-
+34 tion 19-5101(f), Idaho Code.
+35 (ii) "Peer support counseling session" means a meeting conducted
+36 by a peer support specialist, which meeting is held in response to
+37 a critical incident, traumatic event, or other personal or profes-
+38 sional wellness issue.
+39 (iii) "Peer support specialist" means a person designated by a
+40 public agency employing first responders to lead, moderate, or
+41 assist in a peer support counseling session.
+42 (b) Any peer support specialist or participant in a peer support coun-
+43 seling session cannot disclose and shall not be forced to disclose a
+44 communication made during or arising out of a peer support counseling
+45 session without the consent of the person who made the communication or
+46 about whom the communication was made, unless the communication:
+47 (i) Involves a threat of suicide or a threat to commit a criminal
+48 act;
+49 (ii) Involves information required by law to be reported; or
+50 (iii) Is an admission of criminal conduct.
+9
+1 (c) Any disclosure permitted by paragraph (b) of this subsection that
+2 is made during or as part of court proceedings is subject to the rules of
+3 the Idaho supreme court.
+4 (9) A person employed by or volunteering at a nongovernmental domestic
+5 or sexual violence program shall not, without the written and signed consent
+6 of the recipient of services, be required to or compelled to disclose any
+7 communication made between the person in the course of employment or volun-
+8 teer services for the domestic or sexual violence program and a recipient of
+9 the program's services or to disclose information or records about a recip-
+10 ient of the services of a domestic or sexual violence program, provided that
+11 disclosure of communications during or as part of court proceedings is sub-
+12 ject to the rules of the Idaho supreme court. The provisions of this subsec-
+13 tion shall not apply to communications made to a provider or employee during
+14 medical services, medical procedures, medical exams, medical evaluations,
+15 or forensic interviews.
+16 (10) For purposes of this section:
+17 (a) "Recipient" means any individual who has received or inquired about
+18 receiving services or assistance from a domestic or sexual violence
+19 program, including shelter, advocacy, counseling, or other services
+20 offered by a domestic or sexual violence program.
+21 (b) "Domestic or sexual violence program" means any nonprofit or-
+22 ganization, nongovernmental organization, private entity, or tribe
+23 or tribal organization that has as its primary purpose the operation
+24 of shelters or supportive services for victims of domestic or sexual
+25 violence and their dependents or counseling, advocacy, or self-help
+26 services to victims of domestic or sexual violence.
+27 SECTION 4. That Section 72-438, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 72-438. OCCUPATIONAL DISEASES. Compensation shall be payable for dis-
+30 ability or death of an employee resulting from the following occupational
+31 diseases:
+32 (1) Poisoning by lead, mercury, arsenic, zinc, or manganese, their
+33 preparations or compounds in any occupation involving direct contact there-
+34 with, handling thereof, or exposure thereto.
+35 (2) Carbon monoxide poisoning or chlorine poisoning in any process
+36 or occupation involving direct exposure to carbon monoxide or chlorine in
+37 buildings, sheds, or enclosed places.
+38 (3) Poisoning by methanol, carbon bisulphide, hydrocarbon distillates
+39 (naphthas and others) or halogenated hydrocarbons, or any preparations con-
+40 taining these chemicals or any of them, in any occupation involving direct
+41 contact therewith, handling thereof, or exposure thereto.
+42 (4) Poisoning by benzol or by nitro, amido, or amino-derivatives of
+43 benzol (dinitro-benzol, anilin and others) or their preparations or com-
+44 pounds in any occupation involving direct contact therewith, handling
+45 thereof, or exposure thereto.
+46 (5) Glanders in the care or handling of any equine animal or the carcass
+47 of any such animal.
+10
+1 (6) Radium poisoning by or disability due to radioactive properties
+2 of substances or to roentgen ray (X-ray) in any occupation involving direct
+3 contact therewith, handling thereof, or exposure thereto.
+4 (7) Poisoning by or ulceration from chromic acid or bichromate of am-
+5 monium, potassium, or sodium or their preparations, or phosphorus prepara-
+6 tions or compounds, in any occupation involving direct contact therewith,
+7 handling thereof, or exposure thereto.
+8 (8) Ulceration due to tar, pitch, bitumen, mineral oil, or paraffin,
+9 or any compound product, or residue of any of these substances, in any oc-
+10 cupation involving direct contact therewith, handling thereof, or exposure
+11 thereto.
+12 (9) Dermatitis venenata, that is, infection or inflammation of the
+13 skin, furunculosis excepted, due to oils, cutting compounds, lubricants,
+14 liquids, fumes, gases, or vapors in any occupation involving direct contact
+15 therewith, handling thereof, or exposure thereto.
+16 (10) Anthrax occurring in any occupation involving the handling of or
+17 exposure to wool, hair, bristles, hides, skins, or bodies of animals either
+18 alive or dead.
+19 (11) Silicosis in any occupation involving direct contact with, han-
+20 dling of, or exposure to dust of silicon dioxide (SiO 2 ).
+21 (12) Cardiovascular or pulmonary or respiratory diseases of a fire-
+22 fighter, employed by or volunteering for a municipality, village or fire
+23 district as a regular member of a lawfully established fire department,
+24 caused by overexertion in times of stress or danger or by proximate exposure
+25 or by cumulative exposure over a period of four (4) years or more to heat,
+26 smoke, chemical fumes or other toxic gases arising directly out of, and in
+27 the course of, his employment.
+28 (13) Acquired immunodeficiency syndrome (AIDS), AIDS-related com-
+29 plexes (ARC), other manifestations of human immunodeficiency virus (HIV)
+30 infections, infectious hepatitis viruses and tuberculosis in any occupation
+31 involving exposure to human blood or body fluids.
+32 (14) Firefighter occupational diseases:
+33 (a) As used in this subsection, "firefighter" means an employee whose
+34 primary duty is that of extinguishing or investigating fires as part of
+35 a fire district, fire department or fire brigade.
+36 (b) If a firefighter is diagnosed with one (1) or more of the following
+37 diseases after the period of employment indicated in subparagraphs (i)
+38 through (xi) of this paragraph, and the disease was not revealed dur-
+39 ing an initial employment medical screening examination that was per-
+40 formed according to such standards and conditions as may be established
+41 at the sole discretion of the governing board having authority over a
+42 given fire district, fire department, or fire brigade, then the disease
+43 shall be presumed to be proximately caused by the firefighter's employ-
+44 ment as a firefighter:
+45 (i) Brain cancer after ten (10) years;
+46 (ii) Bladder cancer after twelve (12) years;
+47 (iii) Kidney cancer after fifteen (15) years;
+48 (iv) Colorectal cancer after ten (10) years;
+49 (v) Non-Hodgkin's lymphoma after fifteen (15) years;
+50 (vi) Leukemia after five (5) years;
+11
+1 (vii) Mesothelioma after ten (10) years;
+2 (viii) Testicular cancer after five (5) years if diagnosed before
+3 the age of forty (40) years with no evidence of anabolic steroids
+4 or human growth hormone use;
+5 (ix) Breast cancer after five (5) years if diagnosed before the
+6 age of forty (40) years without a breast cancer 1 or breast cancer 2
+7 genetic predisposition to breast cancer;
+8 (x) Esophageal cancer after ten (10) years; and
+9 (xi) Multiple myeloma after fifteen (15) years.
+10 (c) The presumption created in this subsection may be overcome by sub-
+11 stantial evidence to the contrary. If the presumption is overcome by
+12 substantial evidence, then the firefighter or the beneficiaries must
+13 prove that the firefighter's disease was caused by his or her duties of
+14 employment.
+15 (d) The presumption created in this subsection shall not preclude a
+16 firefighter from demonstrating a causal connection between employment
+17 and disease or injury by a preponderance of evidence before the Idaho
+18 industrial commission.
+19 (e) The presumption created in this subsection shall not apply to any
+20 specified disease diagnosed more than ten (10) years following the last
+21 date on which the firefighter actually worked as a firefighter as de-
+22 fined in paragraph (a) of this subsection. Nor shall the presumption
+23 apply if a firefighter or a firefighter's cohabitant has regularly and
+24 habitually used tobacco products for ten (10) or more years prior to the
+25 diagnosis.
+26 (f) The periods of employment described in paragraph (b) of this sub-
+27 section refer to periods of employment within the state of Idaho.
+28 Recognizing that additional toxic or harmful substances or matter are
+29 continually being discovered and used or misused, the above enumerated oc-
+30 cupational diseases are not intended to be exclusive, but such additional
+31 diseases shall not include hazards that are common to the public in general
+32 and that are not within the meaning of section 72-102(21)(a) 72-102(22)(a),
+33 Idaho Code, and the diseases enumerated in subsection (12) of this section
+34 pertaining to firefighters shall not be subject to the limitations pre-
+35 scribed in section 72-439, Idaho Code.
+36 SECTION 5. That Section 72-451, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 72-451. PSYCHOLOGICAL ACCIDENTS AND INJURIES. (1) Psychological in-
+39 juries, disorders or conditions shall not be compensated under this title,
+40 unless the following conditions are met:
+41 (a) Such injuries of any kind or nature emanating from the workplace
+42 shall be compensated only if caused by accident and physical injury
+43 as defined in section 72-102(17)(a) through (17)(c), Idaho Code, or
+44 only if accompanying an occupational disease with resultant physical
+45 injury, except that a psychological mishap or event may constitute an
+46 accident where:
+47 (i) It results in resultant physical injury as long as the psycho-
+48 logical mishap or event meets the other criteria of this section;
+12
+1 (ii) It is readily recognized and identifiable as having occurred
+2 in the workplace; and
+3 (iii) It must be the product of a sudden and extraordinary event;
+4 (b) No compensation shall be paid for such injuries arising from con-
+5 ditions generally inherent in every working situation or from a person-
+6 nel-related action including, but not limited to, disciplinary action,
+7 changes in duty, job evaluation or employment termination;
+8 (c) Such accident and injury must be the predominant cause as compared
+9 to all other causes combined of any consequence for which benefits are
+10 claimed under this section;
+11 (d) Where psychological causes or injuries are recognized by this sec-
+12 tion, such causes or injuries must exist in a real and objective sense;
+13 (e) Any permanent impairment or permanent disability for psychologi-
+14 cal injury recognizable under the Idaho worker's compensation law must
+15 be based on a condition sufficient to constitute a diagnosis using the
+16 terminology and criteria of the American psychiatric association's di-
+17 agnostic and statistical manual of mental disorders, third edition re-
+18 vised, or any successor manual promulgated by the American psychiatric
+19 association, and must be made by a psychologist or psychiatrist duly li-
+20 censed to practice in the jurisdiction in which treatment is rendered;
+21 and
+22 (f) Clear and convincing evidence that the psychological injuries
+23 arose out of and in the course of the employment from an accident or oc-
+24 cupational disease as contemplated in this section is required.
+25 (2) Nothing in subsection (1) of this section shall be construed as
+26 allowing compensation for psychological injuries from psychological causes
+27 without accompanying physical injury.
+28 (3) The provisions of subsection (1) of this section shall apply to ac-
+29 cidents and injuries occurring on or after July 1, 1994, and to causes of ac-
+30 tion for benefits accruing on or after July 1, 1994, notwithstanding that
+31 the original worker's compensation claim may have occurred prior to July 1,
+32 1994.
+33 (4) Notwithstanding subsection (1) of this section, post-traumatic
+34 stress injury suffered by a first responder is a compensable injury or occu-
+35 pational disease when the following conditions are met:
+36 (a) The first responder is examined and subsequently diagnosed with
+37 post-traumatic stress injury by a psychologist, a psychiatrist duly li-
+38 censed to practice in the jurisdiction where treatment is rendered, or a
+39 counselor trained in post-traumatic stress injury; and
+40 (b) Clear and convincing evidence indicates that the post-traumatic
+41 stress injury was caused by an event or events arising out of and in the
+42 course of the first responder's employment.
+43 (5) No compensation shall be paid for such injuries described in sub-
+44 section (2) (4) of this section arising from a personnel-related action in-
+45 cluding, but not limited to, disciplinary action, changes in duty, job eval-
+46 uation, or employment termination.
+47 (6) As used in subsection (4) of this section:
+48 (a) "Post-traumatic stress injury" means a disorder that meets the di-
+49 agnostic criteria for post-traumatic stress disorder or post-traumatic
+50 stress injury specified by the American psychiatric association's di-
+13
+1 agnostic and statistical manual of mental disorders, fifth edition re-
+2 vised, or any successor manual promulgated by the American psychiatric
+3 association.
+4 (b) "First responder" means:
+5 (i) A peace officer as defined in section 19-5101(d), Idaho Code,
+6 when employed by a city, county, or the Idaho state police;
+7 (ii) A firefighter as defined in section 59-1302(16), Idaho Code;
+8 (iii) A volunteer emergency responder as defined in section
+9 72-102(31), Idaho Code;
+10 (iv) An emergency medical service provider, or EMS provider,
+11 certified by the department of health and welfare pursuant to
+12 sections 56-1011 through 56-1018B, Idaho Code, and an ambu-
+13 lance-based clinician as defined in the rules governing emergency
+14 medical services as adopted by the department of health and wel-
+15 fare; and
+16 (v) An emergency communications officer as defined in section
+17 19-5101(f), Idaho Code.
+18 (7) Subsections (4) through (6) of this section are effective for first
+19 responders with dates of injury or manifestations of occupational disease on
+20 or after July 1, 2019.
+21 SECTION 6. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.6YCEADHNRSCNAGTOWSC;AGSN7,IOC,TEAT;AGSN7,IOC,TOREAD;AGSN9,IOC,TOPEACTCER;AGSN7,IOC,TOPEACTC;AGSN7,IOC,TOPECTC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.D.Wsadtsudintewscnl,ustectoer,aeddintesswhf)""msapnwoisntac,anlorarfteUdSsorC.AypnntacnornloftdSsworsorisattorhhsreintdSsslberdasana)"eb"msc,b,oroeaoctdyfmanideeptfrmlssisofasaeincecsaspdbyrspdbytecnpttosn7,IoC)""msaypnwoisedtoiebrmladrdbsurtsl)""msteilc)"ysew"m)Aypnwohsbncdofaclo,ayjewohsbnfdtobewntepwofcr5,te2oC,adwohsbniyddurtepson2,IoC,oraypnoryhwohsbndmteclorjejesmadwopsapefrayd,i,o,c,u,d,b,b,c,c,ororeyoftes,orayc,c,sld,indtorortgdtadtolyatxoranatorayorplsnoraypenywhhsedwscniecefhp;o)Psurdtofcns,prctorordtofcnsnadosofcywkcsurtednororoftdofcnwoaepgpcseorcys]
+[DELETED: ewkfrayofteessdinph()oftssnortntedtofc)""udcymsayoralofteisadtemladrdbsadmls)"mf"msapnwocstosyottoaprofafmfrtepeofpgptorafteasrdtorgorhgalorhlc)""msdhrgfmaniyorold)Dyl)""ad""iecswepsaetsadaswlasteofllanusllaniyp)""ad""iessads,hsadhfs,adbsadssbya)""isadc,psc,adadiec,btdsntiessayd)""iscnoflyadcnanofs,btdsntiesnofc,snofs,orsnofadcnusayd)""isssadpsbya)""ispsofpsbya,btdsnepsofs,ssofp,orsfs)""frpsofdgtlorpltydyieb,msadeinwgcetoiyorold,asshcyisadbytlfrofpli,adbyptnlfspdinsn7,IoC)""issswh""admsaypnwsedioteeto,orwowsurctofsrapw,ane.Itdsntieaypnenayofteedesedinsn7,IoCsanenaspdinsn7,IoC,hsbnftd,h,ieavrfrfrpsofs)ad(,IoC.Ayretoaneewohsbds,weteeeisd,iearetohsdsashnd,iftectsor,o,weteesamrori,tohsceorgnorntf)""msaypnwohseyoridorcdtessofa.Itiscds.Itisteororleofp,orpnwoisvyteprororoftebstecdo,btw,byrnoftebganirorfrayorr,isnttedteroftstee.Itaoi,frpsofs)ad(,IoC,am,v,cyo]
+[DELETED: edtttustessofvrf.Ieeriss,itmshssysofrasa)"le"msaplerasdncr2,te4,IoC)"ye"msteeroftyesadinsn4,IoC)"ksee"mstectoftetyorplerwhwmawrhsbnp)"mlrc"msaypnorhsatorsrw,fraf,rsadesfsadpsamlrcga)"radn"Temegristefdn;""or""is";tesrnrispladtepltes)"eb"mspspdfrormeurtsoftslwtoteideeddbyaniyorold,orhsdsinceofd,egmladb)"tc"msaypnworssefsdrefrasdr,urterttoclolclofhsplastotertofhswkoyadntastemsbywhshrtisa.Frtepsofwnl,acmfriscdtobeanitc)""ad")""msapliycdbyanatagofadinteceofayetcdbytewscnl)""msanu,u,adudf,orude,cdwhteiyinwhito,adwhcnberyldastotewnadpewto,cgani)""ad"li"slbecdtoieoniycdbyana,whrsinvetoteplseofteb.Tetsslinnocebecdteanoldeadoyshnldsrtdyfmani)""mstetewnaneekstthehnold,orwraqdpnslimtdwrtthehsanold)"ladrdb"mspspdfrormrm,h,bladorssaspdintslrtnieb)"ls"msm,s,dlororaeort,neadhls,m,a,a,p,adrds,fsads)"rofanesf"msanlpnorteofanlpnwoisrdtoteerwnteftdeofcybyb,a,ormeorwoisagfteerorteseofshg]
+[DELETED: )()"ld)"ld"msadedetoteneofatinwhtehsofshdeaye,aco,adprtotet,o,p,o,btslntiepli,drcsustecsstfhinsn7,I,aem)""ad""wnrgtoano,slbeddteetoftetm"gotofanteceo"e)""etinteceofs,msteetonesbgayadtyidbeofaldefmpghswkinteltonihiyedtotehsofshd;ad""msteseofbgsoi)""inteceofs,msteetoffgayi,beofshd,fmpgaywkinayree;ad""meseofbgsoi)""msteccfccnoftscdbyteinofsnde(O)d)()""msapntowmasormsadtobetdinaywyonpsnturteclormtoftepnwofdt)()""msteseoraypls,orayi,p,f,a,t,c,igteseief,orayret)()""msmlpsads,o,o,d,o,osads,o,p,ccp,admsofayorhgpnldoradbessoftssetopeshpnwnteseorpeasddbytessoftsseadasadbrl)()""msayp,f,c,p,a,i,ororlleypgaykfmlssrdtotettofanideewhaeurIswscnl)()""mstesyoftec)()""msanerwohsbnadurtepsoftslwtocyhsonlytohsedbytsl)()""isays,d,c,zeoyofteUdSsoraypeofC)()""msayiradtoieorgtofwscnlyofesinays;ioisteseief,asradaniee]
+[DELETED: )()"dS"wnudinagcs,mstls,teDtofC,teChofPoRdtetsofteUdS)()"reyr"msafrorp,orpyedcdplwoisabafemfalyodlweta,alyodfedtoraldeymlsepronwss)()""ad"gc"prtoteiyotfmoldemnteesmyprssascdursn7,IoC,adslayieteremtveofb,r,h,f,adoraswhcnbeedinmywhtersfmteerasptofhsr,adgsrdinteceofetfmostntee"slntiesswhteerhspdtoteeetrayslesedonhmbyteneofhse)()""ad"gc"arteiyotfmoldeslbepdtobeteasarteiyord,whpnmybeoebysgttteesdontfyadryrgc;inshac,wgcyslbeddinteltofalfsadcswhmyattscytoenw)()"kees"msaypnedintcsldsorpcisofhrenofteadw,asptofhsi,isedinacsorpracctadfrwhtestisedb,orwsf,eorgle.Testndntrewsfmteorgleyinortobecdasawke)()"scnl"or"scnlsadistewscnlwoftsseadaylrsrlwofays,UdS,t,orpeofCN2.TtSn7,IoC,b,adteseishdtordasf.ESFMC.Neoftepsoftsllaytotefgesuscetfisespdinsn7,IoC)Hddcs)Cle)Etofo)Etofmsofanesfydginhdifteeristeorofasepporasrldlycyttistdasasep)Etofmsofanesfyntdginhdifteeristeorofasep,pefymrhsfdwhtecnawndnofhnfrenfmc.Frtepsoftss]
+[DELETED: rofanesf"msanlpnorteseoflpnwoisrdtoteerbyb,anormnteftdeofcyoragdorteseof)Etasteorofasep;etofgmrofapporaldlyc;efanorofacnwoataltsdgtepdisntlstntnpt()ofalofteidadogvgskoftecna,iftecnhsd,isaort)Etfrwhareoflyfri,o,ordhispdbytelsofteUdS)Etasaptofana,weayogatfrtepeofagfsorpstoalc,slbeetfmtepsoftewscnl,pdt)Teilcnhsidtoteatsgtywnalofapyofiettwlpsinanatofntlst:tetdd)aldhadd,tntdd)mleep,adfehdds()phdyieframmofft()m;a)Oetepyhsbnadbyteilcfofcefrtesdpthsbnfdwhtecnprtoteptayoganadh,teatigtepyslonaloftyofi,adpfofcefrehptidurtyslbefdwhtec,ehcry.Teenslbeeeontedetecnrspfofcrtesdp,btnoertntedewnaloftywsidbytec)Aerleebsadrlees.Sdbyanilfrarleebrasanaerleebrorasarlees,ifalshsepdbhilfrshpnispdfrrnsybywfc)Vrsip)Osofaccsigsys,asddinsn3,IoCN3.TtSn9,IoC,b,adteseishdtordasf.CLRSADC.Teaeprrsinwhitistepyoftelwtoeeceaopeiti;t,apnctbeedasawntefgc)Ahdctbeedfrorathsw,wth,nrawefrorathrh,wthsc;nrc,dgtemeora,b,wttectoft,edastoaycnmebyoetoteordgt]
+[DELETED: ;bttsendsntaytoaclanorpyoeatteornrtoaclanorpgfracdbyveofoeattepnofteo,nrdstnaytoayceofpliytoacdweteiyhncdasartofplaeorntbyoeorbhoftep,nrdstsenaytoayceofldadlsctoradldadlsctweerpywdoebepdbytsp)Anayc,wttectofhsc,beedastoaycnmebytecttoh,orhsaeg,inteceofple.Tewdctunslbeddtoieap,acnorana)Acnorptc,wttectoftepnmgtec,beedastoaycnmetohminhsplcrinteceofdeedbytechthheb)Apnorsnc,wttectofhspeedinaclanastoayinadinaeptwhwsnytoeehmtopeoratfrtep,p,h,t)Nghncdslbeddtopepmrgofadtgatalcsofpliyt,weitasteiyhsbncdasartolaeorntbyap,gnorllcnoec)Nghncdslbeddtopepmtgatalcsofpliytoapnweitasteiyhsbncdasartofdcv)Artedhofap,inayanigtevyofaywlororite,orcdtoheb,byh,cgortgayrlorplpyorigayflo,shpnorsytytotemlorplcnofshptadinsgmydeinadbyhmcgshptwhwsnytoeehmtopeoratfrshd)Weaypnorhshsorrsbsanaorrdsfrplisord,shanslbdtoceactbytepnbgshantypnwohspdfrortdsdidordnadwetyismlinteanmyt)Ifteptbeddaddghslehdntgns,tebgofananbyab,aeorprbytellreofteidtorronaylhoratiepyslceactbys,a,peorllretotetfaypnwoadted)Apcorctbeedastocsmetohnolcewntepciswdsrbyd]
+[DELETED: )Aycdc,p,orplerdya,rye,adddinshcybypcorpeslintssefrtepeofcgssslbeiefmd,wttectoftesycnmebyaystsocdoredinaycrclantowhshstisap.Shmssocdslbepdadpdatd)Ayp,gnorllcnslntbefdteaycnmebytrmrcdorwdtotmcgmsinayclorclantowhshcdorwsap.Shmssocdslbepdadptd;e,tssndsntaytoaclarpgbyoeatteornrtoaclanorpracecdbyveofoeattepnofteo,nstssnaytoayceofpliytoamrcdweiyhsbncdasartofplaeorntbyoeohoftep,gsorllc)Asudintss)"tr"m.Apeorasddinsn1,I,wnedbyac,c,orteIosep.Afrasddinsn5,I.Avreyrrasddins,IoC.Aneymlse()prcdbytedtofhhadweptts51th5,IoC,adanadcnasddintersgymlssasadbytedtohadw;a.Aneycsorasddinsn1,IoC)"rstcgs"msamgcyaprsts,whmgishdinretcli,tce,ororplorplwsi)"rsts"msapnddbycayegftrstol,m,otinaprstcgs)Ayprststorptinaprstcgsnctdeadslntbefdtodenmedgoragotofaprstcnwttectoftepnwometecnotwmtecnwsm,ustec)Isattofseoratttoctac)Isinrdbylwtober;o)Isananofclc]
+[DELETED: )Aydepdbyph()oftssntsmedgorasptofctpsissttotersoeIosec)Apnedbyorvgatanldrslvepmsln,wttewnadsdcftertofs,berdtoorcdtodeanmebntepninteceofetorvrssfrtedcorslvepmadartoepsssortodeinorrsatartoftessofadcorslvep,pdteofcsdgorasptofctpsissttotersofteIosec.Tepsoftssnslntaytocsmetoaproreedls,mlp,mle,mlerfci)Frpsoftss)""msayilwohsrdoridagssoraefmadcorslv,igs,a,c,ororsdbyadcorslvep)"corslvep"msaynto,nlo,pee,ortrtlontthsasispypeteofssorsessfrvsofdcorseadtrdsorc,a,orsstovsofdcorslvN4.TtSn7,IoC,b,adteseishdtordasf.OLD.Cnslbepefrdyordhofaneergfmtefgo)Pgbyl,m,a,z,orm,tsorcsinayonigdtctt,hgt,oreet)Cnmepgorcepginaypronigdteetocnmeorcei,s,oredp)Pgbym,cnb,hndsado)orhdh,oraypscgtecsorayoft,inayonigdtt,hgt,oreet)Pgbyblorbyn,a,orasol(,anado)ortrpsorcsinayonigdtctt,h,oreet)Gsinteceorhgofayeealortecfaysha]
+[DELETED: )Rmpgbyordydetorepfssortornry()inayonigdtt,hgt,oreet)Pgbyorunfmccadorbeofa,p,orsmortrp,orpspsorc,inayonigdtcttgt,oreet)Undetot,p,b,mlo,orpraycdp,orreofayoftes,inayonigdtctt,hgt,ore)Dsv,tti,inorinoft,fse,detoo,cgc,l,f,g,orvsinayonigdtc,hgt,oreet)Axoginayonigtehgofoetow,h,b,h,s,orbsofaseeord)Ssinayonigdtctw,hgo,oreetodtofsnde(O))Crorpyorrydsofaf,edbyorvgfram,veorftasarrmrofalyedfeddbyonintsofssordrorbypeerbyceeeorapdoffr()ysormetoh,clfsorortcgsagdyoto,adieceo,hse)Adiyse(,Adcs(,ormsofhniyvs(,ishsvsadtsinayogeetohnbdorbyf)Frold)Asudintss,""msaneewydyisttofegorigfsasptofed,fedtorfeb)Ifafrisddwhoe()ormeoftefsartepdofetidinss(h()oftsp,adtedewsntrddganiletmlsgenttwspdagtoshssadcsasmybeettesednofteggbdhgayornfed,fed,orfeb,tntedlbepdtobepycdbytefsetasaf)Bncrartn()y)Brcrarte()y)Kycrarfn()y)Clcrartn()y)Nslaarfn()y)Laarfe()y]
+[DELETED: )Maartn()y)Trcrarfe()ysifddbeaeoffy()yswhnoeeofacsrhnghheu)Btcrarfe()ysifddbeteoffy()yswtabtcr1orbtcrcpntobtc)Elcrartn()y;a)Memaarfn()y)Tepncdintssnmybeoebysleetotec.Iftepnisoeble,tntefrortebsmetttefsdewscdbyhsorhrdso)TepncdintssnslntperfmdgaclcnbneddeoriybyapeofeebeteIlc)Tepncdintssnslntaytoaddeddmetntn()ysfgteleonwhtefraywdasafrasddinph()oftss.Nrsltepyifafrorafscthsryayudtopsfrtn()ormeysprtot)Tepsofetddinph()oftssnrrtopsofetwnteseofIgttaltcorhlssormraybgddadudorm,teaeedoldsaentidtobee,btshasslntiehsttaecntotepcingdttaentwntemgofsn7)7oC,adtedsedinsn()oftssgtofsslntbesttotelspdinsn7,IoCN5.TtSn7,IoC,b,adteseishdtordasf.PLASADI.()Pli,dsorcsslntbecdurtststefgcsaem)Shisofaykdorneegfmtewlbecdoyifcdbyatadplisddinsn7)th(,IoC,oyifaganoldewhrtp,etttaplmporetmyceatw)Itrsinrtpliyaslgasteplmporetmsteorcaoftss]
+[DELETED: )Itisryrdadieashgontew;a)Itmtbeteptofasnadeye)Nocnslbepdfrshisagfmcsgyitineywgsnorfmapdani,btntldt,dyasind,jbenorett)Shatadiymtbeteptceascoalorcscdofaycefrwhbsadurtss)Weplcsorisaerdbytss,shcsorismtetinarladoes)AyptitorptdyfrpliyreurteIowscnlwmebdonacnsttoceadsugtyadcaofteAnpcasdcadslmlofmld,tdenr,oraysrmlpdbyteAnp,admtbemebyaptorptdyldtopeintejninwhttisr)Cradcgeettteplieotofadinteceofteetfmanatoroldeascdintssnisr)Nginsn()oftssnslbecdagcnfrplisfmplctagpli)Tepsofsn()oftssnslaytoasadisogonorarJy1,1,adtocsofanfrbsagonorarJy1,1,ngteolwscncmmyheodprtoJy1)Ngsn()oftss,psiysdbyaftrrisaceiyoroldewntefgcsaem)Teftrrisedadsyddwcssiybyap,aptdyldtopeintejnwettisr,orrtdinpcssi;a)Cradcgeeistttepsiywscdbyanetoresagotofadinteofteftrse)Nocnslbepdfrshisddinsn()()oftssnagfmapdani,btntldt,dya,csind,jbe,orett)Asudinsn()oftss)"cssi"msadrttmstedccafrpcssdrorpsiysdbyteAnpcasd]
+[DELETED: cadslmlofmld,fhenr,oraysrmlpdbyteAnp)"tr"m)Apeorasddinsn1,IoCnedbyac,c,orteIosep)Afrasddinsn5,IoC)Avreyrrasddins,IoC)Aneymlsep,orESpdbytedtofhhadweptts51th5,IoC,adanadcnasddintersggelssasadbytedtofhhadw;a)Aneycsorasddins,IoC)Ss()th()oftssnaeeefrfswhdsofiyormsofoldeorarJy1,2N6.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 65
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO WORKER'S COMPENSATION; AMENDING SECTION 72-102, IDAHO CODE, TO
+3 DEFINE A TERM; AMENDING SECTION 72-212, IDAHO CODE, TO REMOVE A DEFINI-
+4 TION; AMENDING SECTION 9-203, IDAHO CODE, TO PROVIDE A CORRECT CODE REF-
+5 ERENCE; AMENDING SECTION 72-438, IDAHO CODE, TO PROVIDE A CORRECT CODE
+6 REFERENCE; AMENDING SECTION 72-451, IDAHO CODE, TO PROVIDE CORRECT CODE
+7 REFERENCES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 72-102, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 72-102. DEFINITIONS. Words and terms used in the worker's compensa-
+12 tion law, unless the context otherwise requires, are defined in the subsec-
+13 tions which follow:
+14 (1) "Alien" means a person who is not a citizen, a national or a resident
+15 of the United States or Canada. Any person not a citizen or national of the
+16 United States who relinquishes or is about to relinquish his residence in the
+17 United States shall be regarded as an alien.
+18 (2) "Balance billing" means charging, billing, or otherwise attempting
+19 to collect directly from an injured employee payment for medical services in
+20 excess of amounts allowable in compensable claims as provided by rules pro-
+21 mulgated by the commission pursuant to section 72-508, Idaho Code.
+22 (3) "Beneficiary" means any person who is entitled to income benefits
+23 or medical and related benefits under this law.
+24 (4) "Commission" means the industrial commission.
+25 (5) "Community service worker" means:
+26 (a) Any person who has been convicted of a criminal offense, any juve-
+27 nile who has been found to be within the purview of chapter 5, title 20,
+28 Idaho Code, and who has been informally diverted under the provisions of
+29 section 20-511, Idaho Code, or any person or youth who has been diverted
+30 from the criminal or juvenile justice system and who performs a public
+31 service for any department, institution, office, college, university,
+32 authority, division, board, bureau, commission, council, or other en-
+33 tity of the state, or any city, county, school district, irrigation dis-
+34 trict or other taxing district authorized to levy a tax or an assess-
+35 ment or any other political subdivision or any private not-for-profit
+36 agency which has elected worker's compensation insurance coverage for
+37 such person; or
+38 (b) Parolees under department of correction supervision, probationers
+39 under court order or department of correction supervision and offender
+40 residents of community work centers under the direction or order of the
+41 board of correction who are performing public service or community ser-
+
+2
+1 vice work for any of the entities specified in paragraph (a) of this sub-
+2 section other than the department of correction.
+3 (6) "Compensation" used collectively means any or all of the income
+4 benefits and the medical and related benefits and medical services.
+5 (7) "Custom farmer" means a person who contracts to supply operated
+6 equipment to a proprietor of a farm for the purpose of performing part or all
+7 of the activities related to raising or harvesting agricultural or horticul-
+8 tural commodities.
+9 (8) "Death" means death resulting from an injury or occupational dis-
+10 ease.
+11 (9) Dependency limitations.
+12 (a) "Adopted" and "adoption" include cases where persons are treated
+13 as adopted as well as those of legal adoption unless legal adoption is
+14 specifically provided.
+15 (b) "Brother" and "sister" include stepbrothers and stepsisters, half
+16 brothers and half sisters, and brothers and sisters by adoption.
+17 (c) "Child" includes adopted children, posthumous children, and ac-
+18 knowledged illegitimate children, but does not include stepchildren
+19 unless actually dependent.
+20 (d) "Grandchild" includes children of legally adopted children and
+21 children of stepchildren, but does not include stepchildren of chil-
+22 dren, stepchildren of stepchildren, or stepchildren of adopted chil-
+23 dren unless actually dependent.
+24 (e) "Parent" includes stepparents and parents by adoption.
+25 (f) "Grandparent" includes parents of parents by adoption, but does not
+26 include parents of stepparents, stepparents of parents, or stepparents
+27 of stepparents.
+28 (10) "Disability," for purposes of determining total or partial tempo-
+29 rary disability income benefits, means a decrease in wage-earning capacity
+30 due to injury or occupational disease, as such capacity is affected by the
+31 medical factor of physical impairment, and by pertinent nonmedical factors
+32 as provided in section 72-430, Idaho Code.
+33 (11) "Employee" is synonymous with "workman" and means any person who
+34 has entered into the employment of, or who works under contract of service
+35 or apprenticeship with, an employer. It does not include any person engaged
+36 in any of the excepted employments enumerated in section 72-212, Idaho Code,
+37 unless an election as provided in section 72-213, Idaho Code, has been filed.
+38 It does, however, include a volunteer firefighter for purposes of section
+39 72-438(12) and (14), Idaho Code. Any reference to an employee who has been
+40 injured shall, where the employee is dead, include a reference to his depen-
+41 dents as herein defined, if the context so requires, or, where the employee
+42 is a minor or incompetent, to his committee or guardian or next friend.
+43 (12)(a) "Employer" means any person who has expressly or impliedly
+44 hired or contracted the services of another. It includes contractors
+45 and subcontractors. It includes the owner or lessee of premises, or
+46 other person who is virtually the proprietor or operator of the busi-
+47 ness there carried on, but who, by reason of there being an independent
+48 contractor or for any other reason, is not the direct employer of the
+49 workers there employed. It also includes, for purposes of section
+50 72-438(12) and (14), Idaho Code, a municipality, village, county or
+
+3
+1 fire district that utilizes the services of volunteer firefighters. If
+2 the employer is secured, it means his surety so far as applicable.
+3 (b) "Professional employer" means a professional employer as defined
+4 in chapter 24, title 44, Idaho Code.
+5 (c) "Temporary employer" means the employer of temporary employees as
+6 defined in section 44-2403(7), Idaho Code.
+7 (d) "Work site employer" means the client of the temporary or profes-
+8 sional employer with whom a worker has been placed.
+9 (13) "Farm labor contractor" means any person or his agent or subcon-
+10 tractor who, for a fee, recruits and employs farmworkers and performs any
+11 farm labor contracting activity.
+12 (14) "Gender and number." The masculine gender includes the feminine
+13 and neuter; "husband" or "wife" includes "spouse"; the singular number in-
+14 cludes plural and the plural the singular.
+15 (15) "Income benefits" means payments provided for or made under the
+16 provisions of this law to the injured employee disabled by an injury or occu-
+17 pational disease, or his dependents in case of death, excluding medical and
+18 related benefits.
+19 (16) "Independent contractor" means any person who renders service for
+20 a specified recompense for a specified result, under the right to control or
+21 actual control of his principal as to the result of his work only and not as to
+22 the means by which such result is accomplished. For the purposes of worker's
+23 compensation law, a custom farmer is considered to be an independent con-
+24 tractor.
+25 (17) "Injury" and "accident."
+26 (a) "Injury" means a personal injury caused by an accident arising out
+27 of and in the course of any employment covered by the worker's compensa-
+28 tion law.
+29 (b) "Accident" means an unexpected, undesigned, and unlooked for
+30 mishap, or untoward event, connected with the industry in which it oc-
+31 curs, and which can be reasonably located as to time when and place where
+32 it occurred, causing an injury.
+33 (c) "Injury" and "personal injury" shall be construed to include only
+34 an injury caused by an accident, which results in violence to the phys-
+35 ical structure of the body. The terms shall in no case be construed to
+36 include an occupational disease and only such nonoccupational diseases
+37 as result directly from an injury.
+38 (18) "Manifestation" means the time when an employee knows that he has
+39 an occupational disease, or whenever a qualified physician shall inform the
+40 injured worker that he has an occupational disease.
+41 (19) "Medical and related benefits" means payments provided for or made
+42 for medical, hospital, burial and other services as provided in this law
+43 other than income benefits.
+44 (20) "Medical services" means medical, surgical, dental or other atten-
+45 dance or treatment, nurse and hospital service, medicines, apparatus, ap-
+46 pliances, prostheses, and related services, facilities and supplies.
+47 (21) "Member of an employer's family" means a natural person or the
+48 spouse of a natural person who is related to the employer within the first de-
+49 gree of consanguinity by blood, adoption, or marriage or who is a grandchild
+50 of the employer or the spouse of such grandchild.
+
+4
+1 (21) (22) "Occupational diseases."
+2 (a) "Occupational disease" means a disease due to the nature of an
+3 employment in which the hazards of such disease actually exist, are
+4 characteristic of, and peculiar to the trade, occupation, process, or
+5 employment, but shall not include psychological injuries, disorders
+6 or conditions unless the conditions set forth in section 72-451, Idaho
+7 Code, are met.
+8 (b) "Contracted" and "incurred," when referring to an occupational
+9 disease, shall be deemed the equivalent of the term "arising out of and
+10 in the course of" employment.
+11 (c) "Disablement," except in the case of silicosis, means the event of
+12 an employee's becoming actually and totally incapacitated because of an
+13 occupational disease from performing his work in the last occupation in
+14 which injuriously exposed to the hazards of such disease; and "disabil-
+15 ity" means the state of being so incapacitated.
+16 (d) "Disablement," in the case of silicosis, means the event of first
+17 becoming actually incapacitated, because of such disease, from per-
+18 forming any work in any remunerative employment; and "disability" means
+19 the state of being so incapacitated.
+20 (e) "Silicosis" means the characteristic fibrotic condition of the
+21 lungs caused by the inhalation of silicon dioxide (SiO 2 ) dust.
+22 (22) (23) "Outworker" means a person to whom articles or materials are
+23 furnished to be treated in any way on premises not under the control or man-
+24 agement of the person who furnished them.
+25 (23) (24) "Person" means the state or any political subdivision
+26 thereof, or any individual, partnership, firm, association, trust, corpora-
+27 tion, including the state insurance fund, or any representative thereof.
+28 (24) (25) "Physician" means medical physicians and surgeons, ophthal-
+29 mologists, otorhinolaryngologists, dentists, osteopaths, osteopathic
+30 physicians and surgeons, optometrists, podiatrists, chiropractic physi-
+31 cians, and members of any other healing profession licensed or authorized by
+32 the statutes of this state to practice such profession within the scope of
+33 their practice as defined by the statutes of this state and as authorized by
+34 their licenses.
+35 (25) (26) "Provider" means any person, firm, corporation, partnership,
+36 association, agency, institution, or other legal entity providing any kind
+37 of medical services related to the treatment of an injured employee which are
+38 compensable under Idaho's worker's compensation law.
+39 (26) (27) "Secretary" means the secretary of the commission.
+40 (27) (28) "Self-insurer" means an employer who has been authorized un-
+41 der the provisions of this law to carry his own liability to his employees
+42 covered by this law.
+43 (28) (29) "State" includes any state, district, commonwealth, zone or
+44 territory of the United States or any province of Canada.
+45 (29) (30) "Surety" means any insurer authorized to insure or guarantee
+46 payment of worker's compensation liability of employers in any state; it
+47 also includes the state insurance fund, a self-insurer and an inter-insur-
+48 ance exchange.
+
+5
+1 (30) (31) "United States," when used in a geographic sense, means the
+2 several states, the District of Columbia, the Commonwealth of Puerto Rico
+3 and the territories of the United States.
+4 (31) (32) "Volunteer emergency responder" means a firefighter or peace
+5 officer, or publicly employed certified personnel who is a bona fide member
+6 of a legally organized law enforcement agency, a legally organized fire de-
+7 partment or a licensed emergency medical service provider organization who
+8 contributes services.
+9 (32) (33) "Wages" and "wage-earning capacity" prior to the injury or
+10 disablement from occupational disease mean the employee's money payments
+11 for services as calculated under section 72-419, Idaho Code, and shall ad-
+12 ditionally include the reasonable market value of board, rent, housing,
+13 lodging, fuel, and other advantages which can be estimated in money which the
+14 employee receives from the employer as part of his remuneration, and gratu-
+15 ities received in the course of employment from others than the employer.
+16 "Wages" shall not include sums which the employer has paid to the employee to
+17 cover any special expenses entailed on him by the nature of his employment.
+18 (33) (34) "Wages" and "wage-earning capacity" after the injury or
+19 disablement from occupational disease shall be presumed to be the actual
+20 earnings after the injury or disablement, which presumption may be over-
+21 come by showing that those earnings do not fairly and reasonably represent
+22 wage-earning capacity; in such a case, wage-earning capacity shall be de-
+23 termined in the light of all factors and circumstances which may affect the
+24 worker's capacity to earn wages.
+25 (34) (35) "Work experience student" means any person enrolled in the
+26 public school districts or public institutions of higher education of this
+27 state and who, as part of his instruction, is enrolled in a class or program
+28 for academic credit and for which the student is employed by, or works for, a
+29 private or governmental entity. The student need not receive wages from the
+30 private or governmental entity in order to be classified as a work experience
+31 student.
+32 (35) (36) "Worker's compensation law" or "workmen's compensation law"
+33 means and includes the worker's compensation law of this state and any like
+34 or similar law of any state, United States, territory, or province of Canada.
+35 SECTION 2. That Section 72-212, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 72-212. EXEMPTIONS FROM COVERAGE. None of the provisions of this law
+38 shall apply to the following employments unless coverage thereof is elected
+39 as provided in section 72-213, Idaho Code:
+40 (1) Household domestic service.
+41 (2) Casual employment.
+42 (3) Employment of outworkers.
+43 (4) Employment of members of an employer's family dwelling in his
+44 household if the employer is the owner of a sole proprietorship or a single
+45 member limited liability company that is taxed as a sole proprietorship.
+46 (5) Employment of members of an employer's family not dwelling in his
+47 household if the employer is the owner of a sole proprietorship, provided
+48 the family member has filed with the commission a written declaration of his
+49 election for exemption from coverage. For the purposes of this subsection,
+
+6
+1 "member of an employer's family" means a natural person or the spouse of a
+2 natural person who is related to the employer by blood, adoption or marriage
+3 within the first degree of consanguinity or a grandchild or the spouse of a
+4 grandchild.
+5 (6) Employment as the owner of a sole proprietorship; employment of a
+6 working member of a partnership or a limited liability company; employment
+7 of an officer of a corporation who at all times during the period involved
+8 owns not less than ten percent (10%) of all of the issued and outstanding vot-
+9 ing stock of the corporation and, if the corporation has directors, is also a
+10 director thereof.
+11 (7) Employment for which a rule of liability for injury, occupational
+12 disease, or death is provided by the laws of the United States.
+13 (8) Employment as a pilot of an aircraft, while actually operating an
+14 aircraft for the purpose of applying fertilizers or pesticides to agricul-
+15 tural crops, shall be exempt from the provisions of the worker's compensa-
+16 tion law, provided that:
+17 (a) The industrial commission has issued to the agent submitting the
+18 policy written approval of a policy of insurance that will provide
+19 benefits in an amount of not less than: twenty-five thousand dollars
+20 ($25,000) accidental death and dismemberment, ten thousand dollars
+21 ($10,000) medical expense payments, and five hundred dollars ($500) per
+22 month disability income for a minimum of forty-eight (48) months; and
+23 (b) Once the policy has been approved by the industrial commission,
+24 proof of coverage for the specified pilot has been filed with the com-
+25 mission prior to the pilot actually operating an aircraft.
+26 Provided however, the agent issuing the policy shall obtain approval of the
+27 policy of insurance, and proof of coverage for each pilot insured under the
+28 policy shall be filed with the commission, each calendar year. The exemp-
+29 tion shall be effective on the date the commission receives proof of coverage
+30 for the specified pilot, but no earlier than the date written approval of the
+31 policy was issued by the commission.
+32 (9) Associate real estate brokers and real estate salesmen. Service
+33 performed by an individual for a real estate broker as an associate real es-
+34 tate broker or as a real estate salesman, if all such service performed by
+35 such individual for such person is performed for remuneration solely by way
+36 of commission.
+37 (10) Volunteer ski patrollers.
+38 (11) Officials of athletic contests involving secondary schools, as de-
+39 fined in section 33-119, Idaho Code.
+40 SECTION 3. That Section 9-203, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 9-203. CONFIDENTIAL RELATIONS AND COMMUNICATIONS. There are particu-
+43 lar relations in which it is the policy of the law to encourage confidence and
+44 to preserve it inviolate; therefore, a person cannot be examined as a witness
+45 in the following cases:
+46 (1) A husband cannot be examined for or against his wife, without her
+47 consent, nor a wife for or against her husband, without his consent; nor can
+48 either, during the marriage or afterwards, be, without the consent of the
+49 other, examined as to any communication made by one to the other during the
+
+7
+1 marriage; but this exception does not apply to a civil action or proceeding
+2 by one against the other nor to a criminal action or proceeding for a crime
+3 committed by violence of one against the person of the other, nor does this
+4 exception apply to any case of physical injury to a child where the injury has
+5 been caused as a result of physical abuse or neglect by one or both of the par-
+6 ents, nor does this exception apply to any case of lewd and lascivious con-
+7 duct or attempted lewd and lascivious conduct where either party would oth-
+8 erwise be protected by this privilege.
+9 (2) An attorney cannot, without the consent of his client, be exam-
+10 ined as to any communication made by the client to him, or his advice given
+11 thereon, in the course of professional employment. The word client used
+12 herein shall be deemed to include a person, a corporation or an association.
+13 (3) A clergyman or priest cannot, without the consent of the person mak-
+14 ing the confession, be examined as to any confession made to him in his pro-
+15 fessional character in the course of discipline enjoined by the church to
+16 which he belongs.
+17 (4) A physician or surgeon cannot, without the consent of his patient,
+18 be examined in a civil action as to any information acquired in attending
+19 the patient which was necessary to enable him to prescribe or act for the pa-
+20 tient, provided, however, that:
+21 (a) Nothing herein contained shall be deemed to preclude physicians
+22 from reporting of and testifying at all cases of physical injury to
+23 children, where it appears the injury has been caused as a result of
+24 physical abuse or neglect by a parent, guardian or legal custodian of
+25 the child.
+26 (b) Nothing herein contained shall be deemed to preclude physicians
+27 from testifying at all cases of physical injury to a person where it ap-
+28 pears the injury has been caused as a result of domestic violence.
+29 (c) After the death of a patient, in any action involving the valid-
+30 ity of any will or other instrument executed, or claimed to have been
+31 executed, by him, conveying or transferring any real or personal prop-
+32 erty or incurring any financial obligation, such physician or surgeon
+33 may testify to the mental or physical condition of such patient and in so
+34 testifying may disclose information acquired by him concerning such pa-
+35 tient which was necessary to enable him to prescribe or act for such de-
+36 ceased.
+37 (d) Where any person or his heirs or representatives brings an action
+38 to recover damages for personal injuries or death, such action shall be
+39 deemed to constitute a consent by the person bringing such action that
+40 any physician who has prescribed for or treated said injured or deceased
+41 person and whose testimony is material in the action may testify.
+42 (e) If the patient be dead and during his lifetime had not given such
+43 consent, the bringing of an action by a beneficiary, assignee or payee
+44 or by the legal representative of the insured to recover on any life,
+45 health or accident insurance policy shall constitute a consent by such
+46 beneficiary, assignee, payee or legal representative to the testimony
+47 of any physician who attended the deceased.
+48 (5) A public officer cannot be examined as to communications made to him
+49 in official confidence when the public interests would suffer by disclosure.
+
+8
+1 (6) Any certificated counselor, psychologist, or psychological exam-
+2 iner duly appointed, regularly employed, and designated in such capacity by
+3 any public or private school in this state for the purpose of counseling stu-
+4 dents shall be immune from disclosing, without the consent of the student,
+5 any communication made by any student so counseled or examined in any civil
+6 or criminal action to which such student is a party. Such matters so communi-
+7 cated shall be privileged and protected against disclosure.
+8 (7) Any parent, guardian or legal custodian shall not be forced to
+9 disclose any communication made by their minor child or ward to them con-
+10 cerning matters in any civil or criminal action to which such child or ward
+11 is a party. Such matters so communicated shall be privileged and protected
+12 against disclosure; excepting, this section does not apply to a civil action
+13 or proceeding by one against the other nor to a criminal action or proceeding
+14 for a crime committed by violence of one against the person of the other, nor
+15 does this section apply to any case of physical injury to a minor child where
+16 the injury has been caused as a result of physical abuse or neglect by one or
+17 both of the parents, guardians or legal custodians.
+18 (8)(a) As used in this subsection:
+19 (i) "First responder" means:
+20 1. A peace officer as defined in section 19-5101(d), Idaho
+21 Code, when employed by a city, county, or the Idaho state po-
+22 lice;
+23 2. A firefighter as defined in section 59-1302(16), Idaho
+24 Code;
+25 3. A volunteer emergency responder as defined in section
+26 72-102(31), Idaho Code;
+27 4. An emergency medical service (EMS) provider certi-
+28 fied by the department of health and welfare pursuant to
+29 sections 56-1011 through 56-1018B, Idaho Code, and an am-
+30 bulance-based clinician as defined in the rules governing
+31 emergency medical services as adopted by the department of
+32 health and welfare; and
+33 5. An emergency communications officer as defined in sec-
+34 tion 19-5101(f), Idaho Code.
+35 (ii) "Peer support counseling session" means a meeting conducted
+36 by a peer support specialist, which meeting is held in response to
+37 a critical incident, traumatic event, or other personal or profes-
+38 sional wellness issue.
+39 (iii) "Peer support specialist" means a person designated by a
+40 public agency employing first responders to lead, moderate, or
+41 assist in a peer support counseling session.
+42 (b) Any peer support specialist or participant in a peer support coun-
+43 seling session cannot disclose and shall not be forced to disclose a
+44 communication made during or arising out of a peer support counseling
+45 session without the consent of the person who made the communication or
+46 about whom the communication was made, unless the communication:
+47 (i) Involves a threat of suicide or a threat to commit a criminal
+48 act;
+49 (ii) Involves information required by law to be reported; or
+50 (iii) Is an admission of criminal conduct.
+
+9
+1 (c) Any disclosure permitted by paragraph (b) of this subsection that
+2 is made during or as part of court proceedings is subject to the rules of
+3 the Idaho supreme court.
+4 (9) A person employed by or volunteering at a nongovernmental domestic
+5 or sexual violence program shall not, without the written and signed consent
+6 of the recipient of services, be required to or compelled to disclose any
+7 communication made between the person in the course of employment or volun-
+8 teer services for the domestic or sexual violence program and a recipient of
+9 the program's services or to disclose information or records about a recip-
+10 ient of the services of a domestic or sexual violence program, provided that
+11 disclosure of communications during or as part of court proceedings is sub-
+12 ject to the rules of the Idaho supreme court. The provisions of this subsec-
+13 tion shall not apply to communications made to a provider or employee during
+14 medical services, medical procedures, medical exams, medical evaluations,
+15 or forensic interviews.
+16 (10) For purposes of this section:
+17 (a) "Recipient" means any individual who has received or inquired about
+18 receiving services or assistance from a domestic or sexual violence
+19 program, including shelter, advocacy, counseling, or other services
+20 offered by a domestic or sexual violence program.
+21 (b) "Domestic or sexual violence program" means any nonprofit or-
+22 ganization, nongovernmental organization, private entity, or tribe
+23 or tribal organization that has as its primary purpose the operation
+24 of shelters or supportive services for victims of domestic or sexual
+25 violence and their dependents or counseling, advocacy, or self-help
+26 services to victims of domestic or sexual violence.
+27 SECTION 4. That Section 72-438, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 72-438. OCCUPATIONAL DISEASES. Compensation shall be payable for dis-
+30 ability or death of an employee resulting from the following occupational
+31 diseases:
+32 (1) Poisoning by lead, mercury, arsenic, zinc, or manganese, their
+33 preparations or compounds in any occupation involving direct contact there-
+34 with, handling thereof, or exposure thereto.
+35 (2) Carbon monoxide poisoning or chlorine poisoning in any process
+36 or occupation involving direct exposure to carbon monoxide or chlorine in
+37 buildings, sheds, or enclosed places.
+38 (3) Poisoning by methanol, carbon bisulphide, hydrocarbon distillates
+39 (naphthas and others) or halogenated hydrocarbons, or any preparations con-
+40 taining these chemicals or any of them, in any occupation involving direct
+41 contact therewith, handling thereof, or exposure thereto.
+42 (4) Poisoning by benzol or by nitro, amido, or amino-derivatives of
+43 benzol (dinitro-benzol, anilin and others) or their preparations or com-
+44 pounds in any occupation involving direct contact therewith, handling
+45 thereof, or exposure thereto.
+46 (5) Glanders in the care or handling of any equine animal or the carcass
+47 of any such animal.
+
+10
+1 (6) Radium poisoning by or disability due to radioactive properties
+2 of substances or to roentgen ray (X-ray) in any occupation involving direct
+3 contact therewith, handling thereof, or exposure thereto.
+4 (7) Poisoning by or ulceration from chromic acid or bichromate of am-
+5 monium, potassium, or sodium or their preparations, or phosphorus prepara-
+6 tions or compounds, in any occupation involving direct contact therewith,
+7 handling thereof, or exposure thereto.
+8 (8) Ulceration due to tar, pitch, bitumen, mineral oil, or paraffin,
+9 or any compound product, or residue of any of these substances, in any oc-
+10 cupation involving direct contact therewith, handling thereof, or exposure
+11 thereto.
+12 (9) Dermatitis venenata, that is, infection or inflammation of the
+13 skin, furunculosis excepted, due to oils, cutting compounds, lubricants,
+14 liquids, fumes, gases, or vapors in any occupation involving direct contact
+15 therewith, handling thereof, or exposure thereto.
+16 (10) Anthrax occurring in any occupation involving the handling of or
+17 exposure to wool, hair, bristles, hides, skins, or bodies of animals either
+18 alive or dead.
+19 (11) Silicosis in any occupation involving direct contact with, han-
+20 dling of, or exposure to dust of silicon dioxide (SiO 2 ).
+21 (12) Cardiovascular or pulmonary or respiratory diseases of a fire-
+22 fighter, employed by or volunteering for a municipality, village or fire
+23 district as a regular member of a lawfully established fire department,
+24 caused by overexertion in times of stress or danger or by proximate exposure
+25 or by cumulative exposure over a period of four (4) years or more to heat,
+26 smoke, chemical fumes or other toxic gases arising directly out of, and in
+27 the course of, his employment.
+28 (13) Acquired immunodeficiency syndrome (AIDS), AIDS-related com-
+29 plexes (ARC), other manifestations of human immunodeficiency virus (HIV)
+30 infections, infectious hepatitis viruses and tuberculosis in any occupation
+31 involving exposure to human blood or body fluids.
+32 (14) Firefighter occupational diseases:
+33 (a) As used in this subsection, "firefighter" means an employee whose
+34 primary duty is that of extinguishing or investigating fires as part of
+35 a fire district, fire department or fire brigade.
+36 (b) If a firefighter is diagnosed with one (1) or more of the following
+37 diseases after the period of employment indicated in subparagraphs (i)
+38 through (xi) of this paragraph, and the disease was not revealed dur-
+39 ing an initial employment medical screening examination that was per-
+40 formed according to such standards and conditions as may be established
+41 at the sole discretion of the governing board having authority over a
+42 given fire district, fire department, or fire brigade, then the disease
+43 shall be presumed to be proximately caused by the firefighter's employ-
+44 ment as a firefighter:
+45 (i) Brain cancer after ten (10) years;
+46 (ii) Bladder cancer after twelve (12) years;
+47 (iii) Kidney cancer after fifteen (15) years;
+48 (iv) Colorectal cancer after ten (10) years;
+49 (v) Non-Hodgkin's lymphoma after fifteen (15) years;
+50 (vi) Leukemia after five (5) years;
+
+11
+1 (vii) Mesothelioma after ten (10) years;
+2 (viii) Testicular cancer after five (5) years if diagnosed before
+3 the age of forty (40) years with no evidence of anabolic steroids
+4 or human growth hormone use;
+5 (ix) Breast cancer after five (5) years if diagnosed before the
+6 age of forty (40) years without a breast cancer 1 or breast cancer 2
+7 genetic predisposition to breast cancer;
+8 (x) Esophageal cancer after ten (10) years; and
+9 (xi) Multiple myeloma after fifteen (15) years.
+10 (c) The presumption created in this subsection may be overcome by sub-
+11 stantial evidence to the contrary. If the presumption is overcome by
+12 substantial evidence, then the firefighter or the beneficiaries must
+13 prove that the firefighter's disease was caused by his or her duties of
+14 employment.
+15 (d) The presumption created in this subsection shall not preclude a
+16 firefighter from demonstrating a causal connection between employment
+17 and disease or injury by a preponderance of evidence before the Idaho
+18 industrial commission.
+19 (e) The presumption created in this subsection shall not apply to any
+20 specified disease diagnosed more than ten (10) years following the last
+21 date on which the firefighter actually worked as a firefighter as de-
+22 fined in paragraph (a) of this subsection. Nor shall the presumption
+23 apply if a firefighter or a firefighter's cohabitant has regularly and
+24 habitually used tobacco products for ten (10) or more years prior to the
+25 diagnosis.
+26 (f) The periods of employment described in paragraph (b) of this sub-
+27 section refer to periods of employment within the state of Idaho.
+28 Recognizing that additional toxic or harmful substances or matter are
+29 continually being discovered and used or misused, the above enumerated oc-
+30 cupational diseases are not intended to be exclusive, but such additional
+31 diseases shall not include hazards that are common to the public in general
+32 and that are not within the meaning of section 72-102(21)(a) 72-102(22)(a),
+33 Idaho Code, and the diseases enumerated in subsection (12) of this section
+34 pertaining to firefighters shall not be subject to the limitations pre-
+35 scribed in section 72-439, Idaho Code.
+36 SECTION 5. That Section 72-451, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 72-451. PSYCHOLOGICAL ACCIDENTS AND INJURIES. (1) Psychological in-
+39 juries, disorders or conditions shall not be compensated under this title,
+40 unless the following conditions are met:
+41 (a) Such injuries of any kind or nature emanating from the workplace
+42 shall be compensated only if caused by accident and physical injury
+43 as defined in section 72-102(17)(a) through (17)(c), Idaho Code, or
+44 only if accompanying an occupational disease with resultant physical
+45 injury, except that a psychological mishap or event may constitute an
+46 accident where:
+47 (i) It results in resultant physical injury as long as the psycho-
+48 logical mishap or event meets the other criteria of this section;
+
+12
+1 (ii) It is readily recognized and identifiable as having occurred
+2 in the workplace; and
+3 (iii) It must be the product of a sudden and extraordinary event;
+4 (b) No compensation shall be paid for such injuries arising from con-
+5 ditions generally inherent in every working situation or from a person-
+6 nel-related action including, but not limited to, disciplinary action,
+7 changes in duty, job evaluation or employment termination;
+8 (c) Such accident and injury must be the predominant cause as compared
+9 to all other causes combined of any consequence for which benefits are
+10 claimed under this section;
+11 (d) Where psychological causes or injuries are recognized by this sec-
+12 tion, such causes or injuries must exist in a real and objective sense;
+13 (e) Any permanent impairment or permanent disability for psychologi-
+14 cal injury recognizable under the Idaho worker's compensation law must
+15 be based on a condition sufficient to constitute a diagnosis using the
+16 terminology and criteria of the American psychiatric association's di-
+17 agnostic and statistical manual of mental disorders, third edition re-
+18 vised, or any successor manual promulgated by the American psychiatric
+19 association, and must be made by a psychologist or psychiatrist duly li-
+20 censed to practice in the jurisdiction in which treatment is rendered;
+21 and
+22 (f) Clear and convincing evidence that the psychological injuries
+23 arose out of and in the course of the employment from an accident or oc-
+24 cupational disease as contemplated in this section is required.
+25 (2) Nothing in subsection (1) of this section shall be construed as
+26 allowing compensation for psychological injuries from psychological causes
+27 without accompanying physical injury.
+28 (3) The provisions of subsection (1) of this section shall apply to ac-
+29 cidents and injuries occurring on or after July 1, 1994, and to causes of ac-
+30 tion for benefits accruing on or after July 1, 1994, notwithstanding that
+31 the original worker's compensation claim may have occurred prior to July 1,
+32 1994.
+33 (4) Notwithstanding subsection (1) of this section, post-traumatic
+34 stress injury suffered by a first responder is a compensable injury or occu-
+35 pational disease when the following conditions are met:
+36 (a) The first responder is examined and subsequently diagnosed with
+37 post-traumatic stress injury by a psychologist, a psychiatrist duly li-
+38 censed to practice in the jurisdiction where treatment is rendered, or a
+39 counselor trained in post-traumatic stress injury; and
+40 (b) Clear and convincing evidence indicates that the post-traumatic
+41 stress injury was caused by an event or events arising out of and in the
+42 course of the first responder's employment.
+43 (5) No compensation shall be paid for such injuries described in sub-
+44 section (2) (4) of this section arising from a personnel-related action in-
+45 cluding, but not limited to, disciplinary action, changes in duty, job eval-
+46 uation, or employment termination.
+47 (6) As used in subsection (4) of this section:
+48 (a) "Post-traumatic stress injury" means a disorder that meets the di-
+49 agnostic criteria for post-traumatic stress disorder or post-traumatic
+50 stress injury specified by the American psychiatric association's di-
+
+13
+1 agnostic and statistical manual of mental disorders, fifth edition re-
+2 vised, or any successor manual promulgated by the American psychiatric
+3 association.
+4 (b) "First responder" means:
+5 (i) A peace officer as defined in section 19-5101(d), Idaho Code,
+6 when employed by a city, county, or the Idaho state police;
+7 (ii) A firefighter as defined in section 59-1302(16), Idaho Code;
+8 (iii) A volunteer emergency responder as defined in section
+9 72-102(31), Idaho Code;
+10 (iv) An emergency medical service provider, or EMS provider,
+11 certified by the department of health and welfare pursuant to
+12 sections 56-1011 through 56-1018B, Idaho Code, and an ambu-
+13 lance-based clinician as defined in the rules governing emergency
+14 medical services as adopted by the department of health and wel-
+15 fare; and
+16 (v) An emergency communications officer as defined in section
+17 19-5101(f), Idaho Code.
+18 (7) Subsections (4) through (6) of this section are effective for first
+19 responders with dates of injury or manifestations of occupational disease on
+20 or after July 1, 2019.
+21 SECTION 6. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.6YCEADHNRSCNAGTOWSC;AGSN7,IOC,TEAT;AGSN7,IOC,TOREAD;AGSN9,IOC,TOPEACTCER;AGSN7,IOC,TOPEACTC;AGSN7,IOC,TOPECTC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.D.Wsadtsudintewscnl,ustectoer,aeddintesswhf)""msapnwoisntac,anlorarfteUdSsorC.AypnntacnornloftdSsworsorisattorhhsreintdSsslberdasana)"eb"msc,b,oroeaoctdyfmanideeptfrmlssisofasaeincecsaspdbyrspdbytecnpttosn7,IoC)""msaypnwoisedtoiebrmladrdbsurtsl)""msteilc)"ysew"m)Aypnwohsbncdofaclo,ayjewohsbnfdtobewntepwofcr5,te2oC,adwohsbniyddurtepson2,IoC,oraypnoryhwohsbndmteclorjejesmadwopsapefrayd,i,o,c,u,d,b,b,c,c,ororeyoftes,orayc,c,sld,indtorortgdtadtolyatxoranatorayorplsnoraypenywhhsedwscniecefhp;o)Psurdtofcns,prctorordtofcnsnadosofcywkcsurtednororoftdofcnwoaepgpcseorcys]
+[DELETED: ewkfrayofteessdinph()oftssnortntedtofc)""udcymsayoralofteisadtemladrdbsadmls)"mf"msapnwocstosyottoaprofafmfrtepeofpgptorafteasrdtorgorhgalorhlc)""msdhrgfmaniyorold)Dyl)""ad""iecswepsaetsadaswlasteofllanusllaniyp)""ad""iessads,hsadhfs,adbsadssbya)""isadc,psc,adadiec,btdsntiessayd)""iscnoflyadcnanofs,btdsntiesnofc,snofs,orsnofadcnusayd)""isssadpsbya)""ispsofpsbya,btdsnepsofs,ssofp,orsfs)""frpsofdgtlorpltydyieb,msadeinwgcetoiyorold,asshcyisadbytlfrofpli,adbyptnlfspdinsn7,IoC)""issswh""admsaypnwsedioteeto,orwowsurctofsrapw,ane.Itdsntieaypnenayofteedesedinsn7,IoCsanenaspdinsn7,IoC,hsbnftd,h,ieavrfrfrpsofs)ad(,IoC.Ayretoaneewohsbds,weteeeisd,iearetohsdsashnd,iftectsor,o,weteesamrori,tohsceorgnorntf)""msaypnwohseyoridorcdtessofa.Itiscds.Itisteororleofp,orpnwoisvyteprororoftebstecdo,btw,byrnoftebganirorfrayorr,isnttedteroftstee.Itaoi,frpsofs)ad(,IoC,am,v,cyo]
+[DELETED: edtttustessofvrf.Ieeriss,itmshssysofrasa)"le"msaplerasdncr2,te4,IoC)"ye"msteeroftyesadinsn4,IoC)"ksee"mstectoftetyorplerwhwmawrhsbnp)"mlrc"msaypnorhsatorsrw,fraf,rsadesfsadpsamlrcga)"radn"Temegristefdn;""or""is";tesrnrispladtepltes)"eb"mspspdfrormeurtsoftslwtoteideeddbyaniyorold,orhsdsinceofd,egmladb)"tc"msaypnworssefsdrefrasdr,urterttoclolclofhsplastotertofhswkoyadntastemsbywhshrtisa.Frtepsofwnl,acmfriscdtobeanitc)""ad")""msapliycdbyanatagofadinteceofayetcdbytewscnl)""msanu,u,adudf,orude,cdwhteiyinwhito,adwhcnberyldastotewnadpewto,cgani)""ad"li"slbecdtoieoniycdbyana,whrsinvetoteplseofteb.Tetsslinnocebecdteanoldeadoyshnldsrtdyfmani)""mstetewnaneekstthehnold,orwraqdpnslimtdwrtthehsanold)"ladrdb"mspspdfrormrm,h,bladorssaspdintslrtnieb)"ls"msm,s,dlororaeort,neadhls,m,a,a,p,adrds,fsads)"rofanesf"msanlpnorteofanlpnwoisrdtoteerwnteftdeofcybyb,a,ormeorwoisagfteerorteseofshg]
+[DELETED: )()"ld)"ld"msadedetoteneofatinwhtehsofshdeaye,aco,adprtotet,o,p,o,btslntiepli,drcsustecsstfhinsn7,I,aem)""ad""wnrgtoano,slbeddteetoftetm"gotofanteceo"e)""etinteceofs,msteetonesbgayadtyidbeofaldefmpghswkinteltonihiyedtotehsofshd;ad""msteseofbgsoi)""inteceofs,msteetoffgayi,beofshd,fmpgaywkinayree;ad""meseofbgsoi)""msteccfccnoftscdbyteinofsnde(O)d)()""msapntowmasormsadtobetdinaywyonpsnturteclormtoftepnwofdt)()""msteseoraypls,orayi,p,f,a,t,c,igteseief,orayret)()""msmlpsads,o,o,d,o,osads,o,p,ccp,admsofayorhgpnldoradbessoftssetopeshpnwnteseorpeasddbytessoftsseadasadbrl)()""msayp,f,c,p,a,i,ororlleypgaykfmlssrdtotettofanideewhaeurIswscnl)()""mstesyoftec)()""msanerwohsbnadurtepsoftslwtocyhsonlytohsedbytsl)()""isays,d,c,zeoyofteUdSsoraypeofC)()""msayiradtoieorgtofwscnlyofesinays;ioisteseief,asradaniee]
+[DELETED: )()"dS"wnudinagcs,mstls,teDtofC,teChofPoRdtetsofteUdS)()"reyr"msafrorp,orpyedcdplwoisabafemfalyodlweta,alyodfedtoraldeymlsepronwss)()""ad"gc"prtoteiyotfmoldemnteesmyprssascdursn7,IoC,adslayieteremtveofb,r,h,f,adoraswhcnbeedinmywhtersfmteerasptofhsr,adgsrdinteceofetfmostntee"slntiesswhteerhspdtoteeetrayslesedonhmbyteneofhse)()""ad"gc"arteiyotfmoldeslbepdtobeteasarteiyord,whpnmybeoebysgttteesdontfyadryrgc;inshac,wgcyslbeddinteltofalfsadcswhmyattscytoenw)()"kees"msaypnedintcsldsorpcisofhrenofteadw,asptofhsi,isedinacsorpracctadfrwhtestisedb,orwsf,eorgle.Testndntrewsfmteorgleyinortobecdasawke)()"scnl"or"scnlsadistewscnlwoftsseadaylrsrlwofays,UdS,t,orpeofCN2.TtSn7,IoC,b,adteseishdtordasf.ESFMC.Neoftepsoftsllaytotefgesuscetfisespdinsn7,IoC)Hddcs)Cle)Etofo)Etofmsofanesfydginhdifteeristeorofasepporasrldlycyttistdasasep)Etofmsofanesfyntdginhdifteeristeorofasep,pefymrhsfdwhtecnawndnofhnfrenfmc.Frtepsoftss]
+[DELETED: rofanesf"msanlpnorteseoflpnwoisrdtoteerbyb,anormnteftdeofcyoragdorteseof)Etasteorofasep;etofgmrofapporaldlyc;efanorofacnwoataltsdgtepdisntlstntnpt()ofalofteidadogvgskoftecna,iftecnhsd,isaort)Etfrwhareoflyfri,o,ordhispdbytelsofteUdS)Etasaptofana,weayogatfrtepeofagfsorpstoalc,slbeetfmtepsoftewscnl,pdt)Teilcnhsidtoteatsgtywnalofapyofiettwlpsinanatofntlst:tetdd)aldhadd,tntdd)mleep,adfehdds()phdyieframmofft()m;a)Oetepyhsbnadbyteilcfofcefrtesdpthsbnfdwhtecnprtoteptayoganadh,teatigtepyslonaloftyofi,adpfofcefrehptidurtyslbefdwhtec,ehcry.Teenslbeeeontedetecnrspfofcrtesdp,btnoertntedewnaloftywsidbytec)Aerleebsadrlees.Sdbyanilfrarleebrasanaerleebrorasarlees,ifalshsepdbhilfrshpnispdfrrnsybywfc)Vrsip)Osofaccsigsys,asddinsn3,IoCN3.TtSn9,IoC,b,adteseishdtordasf.CLRSADC.Teaeprrsinwhitistepyoftelwtoeeceaopeiti;t,apnctbeedasawntefgc)Ahdctbeedfrorathsw,wth,nrawefrorathrh,wthsc;nrc,dgtemeora,b,wttectoft,edastoaycnmebyoetoteordgt]
+[DELETED: ;bttsendsntaytoaclanorpyoeatteornrtoaclanorpgfracdbyveofoeattepnofteo,nrdstnaytoayceofpliytoacdweteiyhncdasartofplaeorntbyoeorbhoftep,nrdstsenaytoayceofldadlsctoradldadlsctweerpywdoebepdbytsp)Anayc,wttectofhsc,beedastoaycnmebytecttoh,orhsaeg,inteceofple.Tewdctunslbeddtoieap,acnorana)Acnorptc,wttectoftepnmgtec,beedastoaycnmetohminhsplcrinteceofdeedbytechthheb)Apnorsnc,wttectofhspeedinaclanastoayinadinaeptwhwsnytoeehmtopeoratfrtep,p,h,t)Nghncdslbeddtopepmrgofadtgatalcsofpliyt,weitasteiyhsbncdasartolaeorntbyap,gnorllcnoec)Nghncdslbeddtopepmtgatalcsofpliytoapnweitasteiyhsbncdasartofdcv)Artedhofap,inayanigtevyofaywlororite,orcdtoheb,byh,cgortgayrlorplpyorigayflo,shpnorsytytotemlorplcnofshptadinsgmydeinadbyhmcgshptwhwsnytoeehmtopeoratfrshd)Weaypnorhshsorrsbsanaorrdsfrplisord,shanslbdtoceactbytepnbgshantypnwohspdfrortdsdidordnadwetyismlinteanmyt)Ifteptbeddaddghslehdntgns,tebgofananbyab,aeorprbytellreofteidtorronaylhoratiepyslceactbys,a,peorllretotetfaypnwoadted)Apcorctbeedastocsmetohnolcewntepciswdsrbyd]
+[DELETED: )Aycdc,p,orplerdya,rye,adddinshcybypcorpeslintssefrtepeofcgssslbeiefmd,wttectoftesycnmebyaystsocdoredinaycrclantowhshstisap.Shmssocdslbepdadpdatd)Ayp,gnorllcnslntbefdteaycnmebytrmrcdorwdtotmcgmsinayclorclantowhshcdorwsap.Shmssocdslbepdadptd;e,tssndsntaytoaclarpgbyoeatteornrtoaclanorpracecdbyveofoeattepnofteo,nstssnaytoayceofpliytoamrcdweiyhsbncdasartofplaeorntbyoeohoftep,gsorllc)Asudintss)"tr"m.Apeorasddinsn1,I,wnedbyac,c,orteIosep.Afrasddinsn5,I.Avreyrrasddins,IoC.Aneymlse()prcdbytedtofhhadweptts51th5,IoC,adanadcnasddintersgymlssasadbytedtohadw;a.Aneycsorasddinsn1,IoC)"rstcgs"msamgcyaprsts,whmgishdinretcli,tce,ororplorplwsi)"rsts"msapnddbycayegftrstol,m,otinaprstcgs)Ayprststorptinaprstcgsnctdeadslntbefdtodenmedgoragotofaprstcnwttectoftepnwometecnotwmtecnwsm,ustec)Isattofseoratttoctac)Isinrdbylwtober;o)Isananofclc]
+[DELETED: )Aydepdbyph()oftssntsmedgorasptofctpsissttotersoeIosec)Apnedbyorvgatanldrslvepmsln,wttewnadsdcftertofs,berdtoorcdtodeanmebntepninteceofetorvrssfrtedcorslvepmadartoepsssortodeinorrsatartoftessofadcorslvep,pdteofcsdgorasptofctpsissttotersofteIosec.Tepsoftssnslntaytocsmetoaproreedls,mlp,mle,mlerfci)Frpsoftss)""msayilwohsrdoridagssoraefmadcorslv,igs,a,c,ororsdbyadcorslvep)"corslvep"msaynto,nlo,pee,ortrtlontthsasispypeteofssorsessfrvsofdcorseadtrdsorc,a,orsstovsofdcorslvN4.TtSn7,IoC,b,adteseishdtordasf.OLD.Cnslbepefrdyordhofaneergfmtefgo)Pgbyl,m,a,z,orm,tsorcsinayonigdtctt,hgt,oreet)Cnmepgorcepginaypronigdteetocnmeorcei,s,oredp)Pgbym,cnb,hndsado)orhdh,oraypscgtecsorayoft,inayonigdtt,hgt,oreet)Pgbyblorbyn,a,orasol(,anado)ortrpsorcsinayonigdtctt,h,oreet)Gsinteceorhgofayeealortecfaysha]
+[DELETED: )Rmpgbyordydetorepfssortornry()inayonigdtt,hgt,oreet)Pgbyorunfmccadorbeofa,p,orsmortrp,orpspsorc,inayonigdtcttgt,oreet)Undetot,p,b,mlo,orpraycdp,orreofayoftes,inayonigdtctt,hgt,ore)Dsv,tti,inorinoft,fse,detoo,cgc,l,f,g,orvsinayonigdtc,hgt,oreet)Axoginayonigtehgofoetow,h,b,h,s,orbsofaseeord)Ssinayonigdtctw,hgo,oreetodtofsnde(O))Crorpyorrydsofaf,edbyorvgfram,veorftasarrmrofalyedfeddbyonintsofssordrorbypeerbyceeeorapdoffr()ysormetoh,clfsorortcgsagdyoto,adieceo,hse)Adiyse(,Adcs(,ormsofhniyvs(,ishsvsadtsinayogeetohnbdorbyf)Frold)Asudintss,""msaneewydyisttofegorigfsasptofed,fedtorfeb)Ifafrisddwhoe()ormeoftefsartepdofetidinss(h()oftsp,adtedewsntrddganiletmlsgenttwspdagtoshssadcsasmybeettesednofteggbdhgayornfed,fed,orfeb,tntedlbepdtobepycdbytefsetasaf)Bncrartn()y)Brcrarte()y)Kycrarfn()y)Clcrartn()y)Nslaarfn()y)Laarfe()y]
+[DELETED: )Maartn()y)Trcrarfe()ysifddbeaeoffy()yswhnoeeofacsrhnghheu)Btcrarfe()ysifddbeteoffy()yswtabtcr1orbtcrcpntobtc)Elcrartn()y;a)Memaarfn()y)Tepncdintssnmybeoebysleetotec.Iftepnisoeble,tntefrortebsmetttefsdewscdbyhsorhrdso)TepncdintssnslntperfmdgaclcnbneddeoriybyapeofeebeteIlc)Tepncdintssnslntaytoaddeddmetntn()ysfgteleonwhtefraywdasafrasddinph()oftss.Nrsltepyifafrorafscthsryayudtopsfrtn()ormeysprtot)Tepsofetddinph()oftssnrrtopsofetwnteseofIgttaltcorhlssormraybgddadudorm,teaeedoldsaentidtobee,btshasslntiehsttaecntotepcingdttaentwntemgofsn7)7oC,adtedsedinsn()oftssgtofsslntbesttotelspdinsn7,IoCN5.TtSn7,IoC,b,adteseishdtordasf.PLASADI.()Pli,dsorcsslntbecdurtststefgcsaem)Shisofaykdorneegfmtewlbecdoyifcdbyatadplisddinsn7)th(,IoC,oyifaganoldewhrtp,etttaplmporetmyceatw)Itrsinrtpliyaslgasteplmporetmsteorcaoftss]
+[DELETED: )Itisryrdadieashgontew;a)Itmtbeteptofasnadeye)Nocnslbepdfrshisagfmcsgyitineywgsnorfmapdani,btntldt,dyasind,jbenorett)Shatadiymtbeteptceascoalorcscdofaycefrwhbsadurtss)Weplcsorisaerdbytss,shcsorismtetinarladoes)AyptitorptdyfrpliyreurteIowscnlwmebdonacnsttoceadsugtyadcaofteAnpcasdcadslmlofmld,tdenr,oraysrmlpdbyteAnp,admtbemebyaptorptdyldtopeintejninwhttisr)Cradcgeettteplieotofadinteceofteetfmanatoroldeascdintssnisr)Nginsn()oftssnslbecdagcnfrplisfmplctagpli)Tepsofsn()oftssnslaytoasadisogonorarJy1,1,adtocsofanfrbsagonorarJy1,1,ngteolwscncmmyheodprtoJy1)Ngsn()oftss,psiysdbyaftrrisaceiyoroldewntefgcsaem)Teftrrisedadsyddwcssiybyap,aptdyldtopeintejnwettisr,orrtdinpcssi;a)Cradcgeeistttepsiywscdbyanetoresagotofadinteofteftrse)Nocnslbepdfrshisddinsn()()oftssnagfmapdani,btntldt,dya,csind,jbe,orett)Asudinsn()oftss)"cssi"msadrttmstedccafrpcssdrorpsiysdbyteAnpcasd]
+[DELETED: cadslmlofmld,fhenr,oraysrmlpdbyteAnp)"tr"m)Apeorasddinsn1,IoCnedbyac,c,orteIosep)Afrasddinsn5,IoC)Avreyrrasddins,IoC)Aneymlsep,orESpdbytedtofhhadweptts51th5,IoC,adanadcnasddintersggelssasadbytedtofhhadw;a)Aneycsorasddins,IoC)Ss()th()oftssnaeeefrfswhdsofiyormsofoldeorarJy1,2N6.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

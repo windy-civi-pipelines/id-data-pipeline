@@ -1,0 +1,1736 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 278
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 1-2220, IDAHO CODE, TO REVISE PROVI-
+3 SIONS REGARDING THE FILING OF DECLARATIONS OF CANDIDACY BY MAGISTRATES;
+4 AMENDING SECTION 31-4306, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+5 ING THE FILING OF DECLARATIONS OF INTENT BY CANDIDATES IN RECREATION
+6 DISTRICT ELECTIONS; AMENDING SECTION 33-2705, IDAHO CODE, TO REVISE
+7 A PROVISION REGARDING THE DEADLINE TO CANVASS CERTAIN RETURNS AND TO
+8 MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 33-2717A, IDAHO CODE, TO
+9 REVISE PROVISIONS REGARDING THE FILING OF DECLARATIONS OF INTENT BY
+10 CERTAIN CANDIDATES IN LIBRARY DISTRICT TRUSTEE ELECTIONS; AMENDING
+11 SECTION 34-106, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN
+12 COUNTY AND RECALL ELECTIONS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+13 SECTION 34-408, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEADLINE
+14 TO REGISTER TO VOTE IN THE OFFICE OF THE COUNTY CLERK; AMENDING SEC-
+15 TION 34-410, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEADLINE
+16 TO REGISTER TO VOTE BY MAIL AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+17 SECTION 34-625, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEAD-
+18 LINE TO FILE DECLARATIONS OF CANDIDACY IN HIGHWAY DISTRICT COMMISSIONER
+19 ELECTIONS; AMENDING SECTION 34-625A, IDAHO CODE, TO REVISE PROVISIONS
+20 REGARDING THE DEADLINE TO FILE DECLARATIONS OF CANDIDACY IN CERTAIN
+21 SINGLE COUNTYWIDE HIGHWAY DISTRICT COMMISSIONER ELECTIONS; AMENDING
+22 SECTION 34-702A, IDAHO CODE, TO REVISE PROVISIONS REGARDING DECLARA-
+23 TIONS OF INTENT FOR WRITE-IN CANDIDATES; AMENDING SECTION 34-704, IDAHO
+24 CODE, TO REVISE PROVISIONS REGARDING THE FILING OF CERTAIN DECLARATIONS
+25 OF CANDIDACY IN PRIMARY ELECTIONS AND TO MAKE A TECHNICAL CORRECTION;
+26 AMENDING SECTION 34-705, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+27 THE FILING OF CERTAIN DECLARATIONS OF CANDIDACY IN COUNTY ELECTIONS;
+28 AMENDING SECTION 34-712, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+29 THE DEADLINE TO PROVIDE COUNTY CLERKS WITH CERTAIN SAMPLE FORM PRIMARY
+30 ELECTION BALLOTS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+31 34-714, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN DEADLINES
+32 FOR FILLING VACANCIES IN SLATE OF POLITICAL PARTY CANDIDATES OCCURRING
+33 PRIOR TO PRIMARY ELECTIONS AND TO MAKE TECHNICAL CORRECTIONS; AMEND-
+34 ING SECTION 34-715, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN
+35 DEADLINES FOR FILLING OF VACANCIES OCCURRING BEFORE OR AFTER PRIMARY
+36 ELECTIONS; AMENDING SECTION 34-717, IDAHO CODE, TO REVISE PROVISIONS
+37 REGARDING CERTAIN CANDIDATE WITHDRAWALS; AMENDING SECTION 34-1012,
+38 IDAHO CODE, TO REVISE PROVISIONS REGARDING ALTERNATIVE PROCEDURES FOR
+39 ABSENTEE VOTING AND EARLY VOTING AND TO MAKE A TECHNICAL CORRECTION;
+40 AMENDING SECTION 34-1205, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+41 WHEN THE COUNTY BOARD OF CANVASSERS MEETS; AMENDING SECTION 34-1404,
+42 IDAHO CODE, TO REVISE PROVISIONS REGARDING DECLARATIONS OF CANDIDACY
+43 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 34-1405A, IDAHO
+44 CODE, TO REVISE PROVISIONS REGARDING DEADLINES FOR CERTAIN CANDIDATE
+45 WITHDRAWALS; AMENDING SECTION 34-1407, IDAHO CODE, TO REVISE PRO-
+2
+1 VISIONS REGARDING THE FILING OF DECLARATIONS OF INTENT BY WRITE-IN
+2 CANDIDATES; AMENDING SECTION 40-1305C, IDAHO CODE, TO REVISE PROVI-
+3 SIONS REGARDING THE DEADLINES TO FILE CERTAIN NOMINATING PETITIONS FOR
+4 HIGHWAY DISTRICT COMMISSIONER CANDIDATES; REPEALING SECTION 42-3211a,
+5 IDAHO CODE, RELATING TO EXPIRATION OF TERM; AMENDING SECTION 50-407,
+6 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEADLINES FOR FILING
+7 DECLARATIONS OF CANDIDACY AND PETITIONS OF CANDIDACY FOR CERTAIN MU-
+8 NICIPAL ELECTIONS; AMENDING SECTION 50-410, IDAHO CODE, TO REVISE
+9 PROVISIONS REGARDING THE FILING OF DECLARATIONS OF CANDIDACY FOR CER-
+10 TAIN CITY ELECTIONS; AMENDING SECTION 67-4911, IDAHO CODE, TO REVISE
+11 PROVISIONS REGARDING THE FILING OF NOMINATIONS FOR AUDITORIUM DISTRICT
+12 BOARD ELECTIONS; AMENDING SECTION 70-1108, IDAHO CODE, TO REVISE A PRO-
+13 VISION REGARDING THE DEADLINE TO CANVASS RETURNS AND TO MAKE A TECHNICAL
+14 CORRECTION; AMENDING SECTION 19-6203, IDAHO CODE, TO PROVIDE A CORRECT
+15 CODE REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+16 DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Section 1-2220, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 1-2220. RETENTION OR NONRETENTION OF MAGISTRATE BY VOTE. Any magis-
+21 trate appointed pursuant to the provisions of section 1-2205, Idaho Code,
+22 and section 1-2207(2), Idaho Code, shall stand for office in the first gen-
+23 eral election next succeeding the expiration of the eighteen (18) month
+24 period established pursuant to section 1-2207, Idaho Code. Any magistrate
+25 may, not less than ninety (90) days prior to the holding of the general elec-
+26 tion next preceding the expiration of his term of office, during the time
+27 period provided in section 34-1404, Idaho Code, file in the office of the
+28 county clerk of the county for which he is a resident magistrate, accompa-
+29 nied by a filing fee of forty dollars ($40.00), a declaration of candidacy
+30 to succeed himself. If a declaration is not so filed by any magistrate, the
+31 vacancy resulting from the expiration of his term of office shall be filled
+32 by appointment as herein provided, except that any magistrate who does not
+33 file shall be ineligible for appointment within the same judicial district
+34 until for two (2) years following the expiration of his last term of office
+35 have expired. If such a declaration is filed, his name shall be submitted at
+36 the next general election to the voters eligible to vote within the county
+37 for which he is appointed, on a nonpartisan judicial ballot, without party
+38 designation, which shall read:
+39 "Shall Magistrate .... (Here insert the name of the magistrate) of
+40 .... (Here insert the name of the county) County of the .... (Here
+41 insert the judicial district number) Judicial District be retained
+42 in office?" (Here provision is to be made for voting "Yes" or "No.")
+43 "No".)
+44 The votes shall be canvassed as provided in chapter 12, title 34, Idaho
+45 Code.
+46 If a majority of those voting on the question vote against retaining him
+47 in office, upon the expiration of his term of office, a vacancy shall exist
+48 which shall be filled by appointment as provided in section 1-2205, Idaho
+3
+1 Code, except that the magistrate not retained in office shall be ineligi-
+2 ble for appointment within the same judicial district until for two (2) years
+3 following the expiration of his last term of office have expired.
+4 If a majority of those voting on the question vote for retaining him in
+5 office, the county clerk shall issue him a certificate of election as pro-
+6 vided in section 34-1209, Idaho Code, and said magistrate shall, unless re-
+7 moved for cause, remain in office for an additional term of four (4) years,
+8 and at the expiration of each such four (4) year term shall be eligible for
+9 retention in office by election in the manner herein prescribed.
+10 SECTION 2. That Section 31-4306, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 31-4306. ELECTION OF DIRECTORS. (1) An election of directors shall be
+13 held in each district on the Tuesday succeeding the first Monday of November
+14 of each odd-numbered year. Such election shall be held in conformity with
+15 title 34, Idaho Code. Before the notice of election is given, the board shall
+16 divide the district into subdivisions as nearly equal in population as pos-
+17 sible to be designated as director's subdistrict 1, 2 and 3, or director's
+18 subdistrict 1, 2, 3, 4 and 5, depending upon on the number of subdistricts
+19 in the district. Each nominating petition shall state the subdistrict for
+20 which the nominee is nominated.
+21 (2) In any election for directors if, after the expiration of the date
+22 for filing written nominations for the office of director, it appears that
+23 only one (1) qualified candidate has been nominated for each position to be
+24 filled and if no declaration of intent has been filed as provided in subsec-
+25 tion (3) of this section, it shall not be necessary to hold an election, and
+26 the board of directors shall, no later than seven (7) days before the sched-
+27 uled date of the election, declare such candidate elected as director, and
+28 the secretary of the recreation district board shall immediately make and
+29 deliver to such person a certificate of election.
+30 (3) No write-in vote for recreation district director shall be counted
+31 unless a declaration of intent has been filed indicating that the person
+32 desires the office and is legally qualified to assume the duties of recre-
+33 ation district director if elected. The declaration of intent shall be filed
+34 with the recreation district board secretary not later than forty-five (45)
+35 days before the day of election during the time period provided in section
+36 34-1407, Idaho Code.
+37 SECTION 3. That Section 33-2705, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 33-2705. CONDUCT OF ELECTION. Upon the county commissioners having
+40 made the order referred to in subsection (5) of section 33-2704, Idaho Code,
+41 the clerk of the board of county commissioners shall cause to be published a
+42 notice of an election to be held for the purpose of determining whether or not
+43 the proposed library district shall be established under the provisions of
+44 this chapter. The date of this election shall be the next uniform election
+45 date as provided for in section 34-106, Idaho Code. Whenever more than one
+46 (1) petition is presented to the county commissioners calling for an elec-
+47 tion to create library districts, the first presented shall take precedence.
+4
+1 Notice of the election shall be given, the election shall be conducted, and
+2 the returns thereof canvassed as provided for in chapter 14, title 34, Idaho
+3 Code, and under the general election laws of the state of Idaho. The ballot
+4 shall contain the words "(Name) Library District--Yes" and "(Name) Library
+5 District--No,"No", each followed by a box wherein the voter may express his
+6 choice by marking a cross "X." "X". The board or boards of election shall
+7 make returns and certify the results to the boards of county commissioners
+8 within three (3) days after the election, and the board of county commission-
+9 ers shall, within seven (7) days after the election, canvass the returns.
+10 If a majority of all votes cast be in the affirmative, the board of county
+11 commissioners shall, within seven (7) nine (9) days after the returns have
+12 been canvassed, enter an order declaring the library district established,
+13 designating its name and boundaries including a map prepared in a draftsman-
+14 like manner. The board of county commissioners shall transmit a copy of the
+15 order to the county recorder, county assessor, and the state tax commission
+16 in a timely manner, but no later than December 15, in the calendar year in
+17 which the election was held. A copy of the order shall also be transmitted to
+18 the board of library commissioners.
+19 SECTION 4. That Section 33-2717A, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 33-2717A. DECLARATION OF INTENT FOR WRITE-IN CANDIDATE. No write-in
+22 vote for library district trustee in a library district election shall be
+23 counted unless a declaration of intent has been filed indicating that the
+24 person desires the office and is legally qualified to assume the duties of
+25 library trustee if elected. The declaration of intent shall be filed with
+26 the clerk of the library board not later than forty-five (45) days before the
+27 day of election during the time period provided in section 34-1407, Idaho
+28 Code.
+29 SECTION 5. That Section 34-106, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 34-106. LIMITATION UPON ON ELECTIONS. On and after January 1, 2011,
+32 notwithstanding any other provisions of the law to the contrary, there shall
+33 be no more than two (2) elections conducted in any county in any calendar
+34 year, except as provided in this section or section 34-220, Idaho Code, and
+35 except that elections to fill vacancies in the United States house of repre-
+36 sentatives shall be held as provided in the governor's proclamation.
+37 (1) The dates on which elections may be conducted are:
+38 (a) The third Tuesday in May of each year; and
+39 (b) The Tuesday following the first Monday in November of each year.
+40 (c) In addition to the elections specified in paragraphs (a) and (b) of
+41 this subsection and subsection (7) of this section, an emergency elec-
+42 tion may be called upon motion of the governing board of a political sub-
+43 division. An emergency exists when there is a great public calamity,
+44 such as an extraordinary fire, flood, storm, epidemic, or other disas-
+45 ter, or when it is necessary to do emergency work to prepare for national
+46 or local defense or to safeguard life, health or property.
+5
+1 (2) Candidates for office elected in May shall take office on the date
+2 specified in the certificate of election but not more than sixty (60) days
+3 following the election.
+4 (3) Candidates for office elected in November shall take office as pro-
+5 vided in the constitution or on January 1 next succeeding the November elec-
+6 tion.
+7 (4) The governing board of each political subdivision subject to the
+8 provisions of this section that, prior to January 1, 2011, conducted an elec-
+9 tion for members of that governing board on a date other than a date permit-
+10 ted in subsection (1) of this section shall establish as the election date
+11 for that political subdivision the date authorized in subsection (1) of this
+12 section that falls nearest the date on which elections were previously con-
+13 ducted, unless another date is established by law.
+14 (5) The secretary of state is authorized to provide such assistance as
+15 necessary and to prescribe any needed rules or interpretations for the con-
+16 duct of an election authorized under the provisions of this section.
+17 (6) Water districts governed by chapter 6, title 42, Idaho Code, are ex-
+18 empt from the provisions of this section.
+19 (7) Community colleges governed by chapter 21, title 33, Idaho Code,
+20 and school districts are subject to the limitations specified in subsection
+21 (1) of this section.
+22 (8) A city initiative or referendum election shall be held on the Tues-
+23 day following the first Monday in November of odd-numbered years. A county
+24 initiative or referendum election or a bond, levy and any or other ballot
+25 question elections election conducted by any political subdivision shall be
+26 held on the nearest date authorized in subsection (1) of this section that
+27 falls more than sixty (60) days after the clerk of the political subdivision
+28 orders that such election shall be held in May or November of even-numbered
+29 years or more than fifty (50) days after the order for all other elections,
+30 unless otherwise provided by law. Ballot as long as the ballot language for
+31 any question to be placed on the ballot shall be is submitted to the county
+32 clerk at least sixty (60) days before an election held in May or November of
+33 even-numbered years and at least fifty (50) days before all other elections
+34 no later than 5:00 p.m. on the tenth Friday before the election.
+35 (9) Recall elections may be held on any of the three (3) dates autho-
+36 rized in subsections (1) and (7) subsection (1) of this section that fall
+37 more than forty-five (45) days after the clerk of the political subdivision
+38 orders that such election shall be held as long as the recall petition is cer-
+39 tified no later than the tenth Friday before the next scheduled election.
+40 (10) Irrigation districts governed by title 43, Idaho Code, are subject
+41 to the limitations specified in subsection (1) of this section, except that
+42 irrigation districts may also hold an election on the first Tuesday in Febru-
+43 ary of each year and on the first Tuesday in August of each year on questions
+44 required to be voted upon on by title 43, Idaho Code.
+45 SECTION 6. That Section 34-408, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 34-408. CLOSING OF REGISTER -- TIME LIMIT. (1) No elector may regis-
+48 ter in the office of the county clerk within twenty-four (24) days preced-
+49 ing after 5:00 p.m. on the eleventh day before any election held through-
+6
+1 out the county in which he resides for the purpose of voting at such elec-
+2 tion; provided however, a legible, accurate and complete registration ap-
+3 plication received in the office of the county clerk during the twenty-four
+4 (24) eleven (11) day period preceding an election shall be accepted and held
+5 by the county clerk until the day following the election when registration
+6 reopens, at which time the registration shall become effective. This dead-
+7 line shall also apply to any registrars the county clerk may have appointed.
+8 (2) Any elector who will complete his residence requirement or attain
+9 the requisite voting age during the period when the register of electors is
+10 closed may register prior to the closing of the register.
+11 (3) Notwithstanding subsection (1) of this section, an individual who
+12 is eligible to vote may also register, upon completing a registration ap-
+13 plication and showing proof of identity and residence pursuant to section
+14 34-411, Idaho Code, at the absent electors' polling place provided in sec-
+15 tion 34-1006, Idaho Code, or at an early voting station provided in section
+16 34-1012, Idaho Code.
+17 SECTION 7. That Section 34-410, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 34-410. MAIL REGISTRATION. (1) Any elector may register by mail for
+20 any election. Any mail registration application must be received by the
+21 county clerk prior to the close of registration as provided in section
+22 34-408, Idaho Code, provided that any mail registration application post-
+23 marked not later than twenty-five (25) days prior to an election shall be
+24 deemed timely.
+25 (2) The secretary of state shall prescribe the form for the mail regis-
+26 tration application.
+27 (3) The mail application form shall be available for distribution
+28 through governmental and private entities, with particular emphasis on mak-
+29 ing them available for organized voter registration programs.
+30 (4) Any federal mail registration form adopted pursuant to the provi-
+31 sions of the national voter registration act of 1993, (P.L. 103-31), shall
+32 also be accepted as a valid registration, if such form is postmarked not
+33 later than twenty-five (25) days prior to an election it is received no later
+34 than 5:00 p.m. on the eleventh day before the election.
+35 (5) The county clerk shall prepare and issue by first class nonforward-
+36 able mail to each elector registering by mail a verification of registration
+37 containing the name and residence of the elector and the name or number of the
+38 precinct in which the elector resides. A verification returned undeliver-
+39 able shall cause the county clerk to remove the elector's card from the reg-
+40 ister of electors.
+41 (6) As required by the help America vote act of 2002, (P.L. 107-252), a
+42 copy of proper identification will be required prior to issuance of a ballot
+43 to anyone who has registered by mail and has not previously voted in an elec-
+44 tion for federal office in the state. Proper identification shall meet the
+45 requirements of section 34-411(3) and (4), Idaho Code.
+46 SECTION 8. That Section 34-625, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+7
+1 34-625. ELECTION OF HIGHWAY DISTRICT COMMISSIONERS IN SINGLE COUNTY-
+2 WIDE DISTRICTS -- QUALIFICATIONS. (1) In each general election, highway dis-
+3 trict commissioners in single countywide districts shall be elected as pro-
+4 vided for in section 40-1404, Idaho Code.
+5 (2) No person shall be elected to the office of highway district commis-
+6 sioner unless he shall have attained the age of twenty-one (21) years at the
+7 time of his election, is a citizen of the United States, and shall be a res-
+8 ident of the highway district commissioner's subdistrict for which he seeks
+9 office.
+10 (3) Each candidate shall file a declaration of candidacy with the
+11 county clerk not less than ninety (90) days prior to the general election
+12 during the time period provided in section 34-1404, Idaho Code. Each dec-
+13 laration of candidacy shall also bear the following words: "I am a resident
+14 within the boundaries of Highway District Commissioner's Subdistrict Number
+15 ....."
+16 (4) Each candidate who files a declaration of candidacy shall at the
+17 same time pay a filing fee of ten dollars ($10.00) which shall be deposited in
+18 the county current expense fund.
+19 SECTION 9. That Section 34-625A, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 34-625A. ELECTION OF HIGHWAY DISTRICT COMMISSIONERS IN CERTAIN SINGLE
+22 COUNTYWIDE DISTRICTS -- QUALIFICATIONS. (1) In each general election, high-
+23 way district commissioners in single countywide districts shall be elected
+24 as provided for in section 40-1404A, Idaho Code.
+25 (2) No person shall be elected to the office of highway district commis-
+26 sioner unless he shall have attained the age of twenty-one (21) years at the
+27 time of his election, is a citizen of the United States, and shall be a res-
+28 ident of the highway district commissioner's subdistrict for which he seeks
+29 office.
+30 (3) Each candidate shall file a declaration of candidacy with the
+31 county clerk not less than ninety (90) days prior to the general election
+32 during the time period provided in section 34-1404, Idaho Code. Each dec-
+33 laration of candidacy shall also bear the following words: "I am a resident
+34 within the boundaries of Highway District Commissioner's Subdistrict Number
+35 ....."
+36 (4) Each candidate who files a declaration of candidacy shall at the
+37 same time pay a filing fee of ten dollars ($10.00) which shall be deposited in
+38 the county current expense fund.
+39 SECTION 10. That Section 34-702A, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 34-702A. DECLARATION OF INTENT FOR WRITE-IN CANDIDATES. (1) No
+42 write-in vote for any office in a primary, special, or general election
+43 shall be counted unless a completed declaration of intent form has been filed
+44 indicating that the person desires the office and is legally qualified to
+45 assume the duties of said office if elected. The declaration of intent shall
+46 be filed with the secretary of state if for a federal, state, or legislative
+47 district office and with the county clerk if for a county or party precinct
+8
+1 committeeman office. Such declaration of intent shall be filed no later than
+2 the ninth Friday before the day of election.
+3 (2) The declaration of intent for write-in candidates for federal,
+4 state, or legislative district offices shall be filed with the secretary
+5 of state no later than 5:00 p.m. on the eleventh Friday before the primary
+6 election.
+7 (3) The declaration of intent for write-in candidates for county or
+8 party precinct committeeman office shall be filed with the county clerk no
+9 later than 5:00 p.m. on the ninth Friday before the primary election.
+10 (4) For a write-in candidate for president, the declaration shall in-
+11 clude a certification of the write-in candidate's vice presidential and
+12 presidential electors, all of whom must be qualified to serve in their re-
+13 spective offices. The secretary of state shall prescribe the form for said
+14 declarations.
+15 (2) (5) In those counties that utilize optical scan ballots, an elector
+16 shall not place on the ballot a sticker bearing the name of a person or use any
+17 other method or device, except writing, to vote for a person whose name is not
+18 printed on the ballot.
+19 SECTION 11. That Section 34-704, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 34-704. DECLARATION OF CANDIDACY. (1) Any person legally qualified to
+22 hold such office is entitled to become a candidate and file his a declara-
+23 tion of candidacy. Each political party candidate for precinct, state, dis-
+24 trict or county office shall file his declaration of candidacy in the proper
+25 office between 8:00 a.m. on the twelfth Monday preceding the primary elec-
+26 tion and 5:00 p.m. on the tenth Friday preceding the primary election. All
+27 political party candidates shall declare their party affiliation in their
+28 declaration of candidacy and shall be affiliated with a party at the time of
+29 filing. A candidate shall be deemed affiliated with the political party if
+30 the candidate submits a party affiliation form along with the declaration of
+31 candidacy to the appropriate filing official. The filing official shall re-
+32 ject any declaration of candidacy for partisan office in a primary election
+33 from candidates who are not affiliated with a political party. Candidates
+34 for nonpartisan office shall file during the period provided for in this sec-
+35 tion.
+36 (2) Each political party candidate for federal, state, or legislative
+37 district office shall file a declaration of candidacy with the secretary of
+38 state's office between 8:00 a.m. on the thirteenth Monday before the primary
+39 election and 5:00 p.m. on the twelfth Friday before the primary election.
+40 (3) Each political party candidate for county or precinct committeeman
+41 office shall file a declaration of candidacy with the county clerk's office
+42 between 8:00 a.m. on the twelfth Monday before the primary election and 5:00
+43 p.m. on the tenth Friday before the primary election.
+44 (2) (4) Candidates who file a declaration of candidacy under a party
+45 name and are not nominated at the primary election shall not be allowed to ap-
+46 pear on the general election ballot under any other political party name, nor
+47 or as an independent candidate.
+48 (3) (5) Independent candidates shall file their declaration of candi-
+49 dacy in the manner provided in section 34-708, Idaho Code.
+9
+1 (4) (6) All information in declarations of candidacy shall be made pub-
+2 licly available upon request, except that the Idaho residential street ad-
+3 dress and telephone number of a judicial officer may be exempt from disclo-
+4 sure pursuant to sections 19-6202 and 74-106(30), Idaho Code.
+5 SECTION 12. That Section 34-705, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 34-705. WITH WHOM DECLARATIONS FILED. (1) All candidates for county
+8 offices, whether political party candidates or independent candidates, and
+9 all political party candidates for precinct offices shall file their decla-
+10 rations of candidacy with the county clerk of their respective counties. All
+11 candidates for district, state and federal offices shall file their declara-
+12 tions of candidacy with the secretary of state.
+13 (2) The secretary of state shall certify to the county clerks, within
+14 ten (10) days after the filing deadline no later than 5:00 p.m. on the tenth
+15 Friday before the primary election, the names of the political party candi-
+16 dates who filed for federal, state, and legislative district offices and are
+17 qualified for placement on the ballot.
+18 (3) The secretary of state shall certify the name of a candidate being
+19 appointed by the appropriate central committee pursuant to section 34-714,
+20 Idaho Code, by no later than the next business day after the appointment is
+21 received in the secretary of state's office, if received after the certifi-
+22 cation of candidates to the county clerks under subsection (2) of this sec-
+23 tion.
+24 SECTION 13. That Section 34-712, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 34-712. SAMPLE FORM FOR PRIMARY ELECTION BALLOTS. The secretary of
+27 state shall provide the sample form of the primary election ballot to each of
+28 the county clerks no later than forty (40) days prior to the primary no later
+29 than the ninth Friday before the primary election. The sample ballot shall
+30 contain the proper political party candidates to be voted upon on within
+31 the county whose declarations were filed and certified in the office of the
+32 secretary of state with instructions for the placing of political party
+33 candidates seeking the political party nomination for county and precinct
+34 offices. If a county is within more than one (1) legislative district, the
+35 secretary of state shall provide a sample ballot for each legislative dis-
+36 trict which that includes part of the county.
+37 SECTION 14. That Section 34-714, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 34-714. FILLING VACANCIES IN SLATE OF POLITICAL PARTY CANDIDATES OC-
+40 CURRING PRIOR TO PRIMARY ELECTION. (1) Vacancies that occur before the pri-
+41 mary election in the slate of candidates of any political party because of
+42 the death, disqualification for any reason, or withdrawal from the nomina-
+43 tion process by the candidate, shall be filled in the following manner if
+44 there is only one (1) candidate declared for that particular office:
+10
+1 (a) By the county central committee if the vacancy occurs for the office
+2 of precinct committeeman or for a county office.
+3 (b) By the legislative district central committee if the vacancy occurs
+4 for the office of state representative or state senator.
+5 (c) By the state central committee if the vacancy occurs for a federal
+6 or state office.
+7 The county and legislative district central committee shall fill the
+8 vacancy within fifteen (15) days from the date the vacancy occurred. The
+9 state central committee shall fill the vacancy within thirty (30) days from
+10 the date the vacancy occurred, but no later than 5:00 p.m. on the eighth
+11 Friday before the primary election.
+12 Any political party candidate so appointed by the proper central com-
+13 mittee must, in order to have his name on the primary ballot, file a declara-
+14 tion of candidacy and pay the required filing fee no later than 5:00 p.m. on
+15 the eighth Friday before the primary election.
+16 (2) No central committee shall fill any vacancy which that occurs
+17 within ten (10) days prior to after 5:00 p.m. on the eighth Friday before the
+18 primary election. Vacancies which that occur during this ten (10) day pe-
+19 riod after this date because of the death, disqualification for any reason,
+20 or withdrawal from the nomination process by the candidate shall be filled
+21 according to the provisions of section 34-715, Idaho Code.
+22 (3) Vacancies that occur in a slate of candidates for precinct commit-
+23 teeman within ten (10) days prior to after 5:00 p.m. on the eighth Friday be-
+24 fore the primary election shall not be filled.
+25 SECTION 15. That Section 34-715, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 34-715. FILLING OF VACANCIES OCCURRING BEFORE OR AFTER PRIMARY ELEC-
+28 TION. (1) Vacancies that occur during the ten (10) day period after 5:00 p.m.
+29 on the eighth Friday before a primary election, or after the primary election
+30 but at least ten (10) days before 5:00 p.m. on the eighth Friday before the
+31 general election in the slate of candidates of any political party because
+32 of the death or disqualification for any reason of a candidate, except can-
+33 didates for precinct committeeman, shall be filled in the following manner
+34 if there is only one (1) candidate declared from the political party for that
+35 particular office:
+36 (1) (a) By the county central committee if it is a vacancy by a candidate
+37 for a county office.
+38 (2) (b) By the legislative district central committee if it is a vacancy
+39 by a candidate for the state legislature.
+40 (3) (c) By the state central committee if it is a vacancy by a candidate
+41 for a federal or a state office.
+42 (d) If the party candidate for a particular office dies or is disquali-
+43 fied after 5:00 p.m. on the eighth Friday before the general election,
+44 such candidate's name shall remain on the ballot. If the deceased or
+45 disqualified candidate wins the general election, the resulting va-
+46 cancy shall be filled pursuant to chapter 9, title 59, Idaho Code.
+47 (2) The county and legislative district central committee shall fill
+48 the vacancy within fifteen (15) days from the date the vacancy occurred. The
+49 state central committee shall fill the vacancy within thirty (30) days from
+11
+1 the date the vacancy occurred, but no later than 5:00 p.m. on the eighth Fri-
+2 day before the general election.
+3 (3) Any political party candidate so appointed by the proper central
+4 committee must, in order to have his name on the general ballot, file a dec-
+5 laration of candidacy and pay the required filing fee no later than 5:00 p.m.
+6 on the eighth Friday before the general election.
+7 (4) Vacancies that occur in a slate of candidates for precinct commit-
+8 teeman within ten (10) days prior to after 5:00 p.m. on the eighth Friday be-
+9 fore the primary election shall not be filled.
+10 SECTION 16. That Section 34-717, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 34-717. WITHDRAWAL OF CANDIDACY. (1) A candidate for nomination or
+13 candidate for election to a partisan office may withdraw from the election
+14 by filing a notarized statement of withdrawal with the officer with whom his
+15 declaration of candidacy was filed. The statement must contain all informa-
+16 tion necessary to identify the candidate and the office sought and the reason
+17 for withdrawal. The filing officer shall immediately notify the proper
+18 central committee of the party, if any, of the individual withdrawing. A
+19 candidate may not withdraw later than forty-five (45) days before an elec-
+20 tion, except in the case of a primary election, when the deadline shall be
+21 no later than the eighth Friday preceding the primary election, or a general
+22 election, when the deadline shall be no later than September 7. Filing fees
+23 paid by the candidate shall not be refunded.
+24 (2) A candidate for federal, state, or legislative district office may
+25 not withdraw later than 5:00 p.m. on the eleventh Friday before a primary
+26 election or 5:00 p.m. on the ninth Friday before a general election. Filing
+27 fees paid by the candidate shall not be refunded.
+28 (3) A candidate for county or precinct committeeman office may not
+29 withdraw later than 5:00 p.m. on the ninth Friday before any election. Fil-
+30 ing fees paid by the candidate shall not be refunded.
+31 (2) (4) Any candidate who has filed a statement of withdrawal pursuant
+32 to this section shall not be allowed to be appointed to fill a vacancy unless
+33 such vacancy occurs because of the death of a previous candidate.
+34 SECTION 17. That Section 34-1012, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 34-1012. ALTERNATIVE PROCEDURES FOR ABSENTEE VOTING -- EARLY VOT-
+37 ING. (1) Those counties that utilize absentee voting facilities that have
+38 access to the Idaho statewide voter registration system and count ballots at
+39 a central location or utilize a polling location-based tabulation system may
+40 elect to conduct "early voting" according to the provisions of this section.
+41 For those counties that elect to do "early voting," early voting shall begin
+42 on or before after the third fourth Monday before the election and end at 5:00
+43 p.m. on the Friday before the election. Primary election ballots shall be
+44 issued pursuant to section 34-1002(2), Idaho Code.
+45 (2) A voter who appears at an "early voting" station to vote shall state
+46 his or her name and address to the election official and present the voter's
+47 identification as required by sections 34-1113 and 34-1114, Idaho Code.
+12
+1 (3) The election official shall examine the records to ascertain
+2 whether or not such applicant is registered and lawfully entitled to vote
+3 as requested. The provisions of section 34-408A, Idaho Code, authorizing
+4 election day registration shall also apply in determining the applicant's
+5 qualifications to vote.
+6 (4) Before receiving a ballot, each elector shall sign his or her name
+7 in the election register and poll book provided for early voting.
+8 (5) The elector shall then be given the appropriate ballots contain-
+9 ing the official election ballot identification pursuant to section 34-901,
+10 Idaho Code, and shall be given folding instructions for such ballots, if ap-
+11 propriate.
+12 (6) Upon receipt of the ballots, the elector shall retire to a vacant
+13 voting booth and mark the ballots according to the instructions provided.
+14 (7) After marking the ballot, the elector shall present himself or her-
+15 self to the election official at the ballot box and state his or her name and
+16 address. The elector shall then deposit the ballot in the ballot box or hand
+17 it to the election official, who shall deposit it. The election official
+18 shall then record that the elector has voted and proclaim the same in an audi-
+19 ble voice.
+20 (8) Voters requiring assistance shall be provided with such assistance
+21 in accordance with section 34-1108, Idaho Code.
+22 (9) Electioneering is prohibited at an early voting polling place as
+23 provided in section 18-2318, Idaho Code.
+24 SECTION 18. That Section 34-1205, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 34-1205. COUNTY BOARD OF CANVASSERS -- MEETINGS. The county board of
+27 commissioners shall be the county board of canvassers and the county clerk
+28 shall serve as their its secretary for this purpose. The county board of can-
+29 vassers shall meet within seven (7) nine (9) days after a primary election
+30 and within ten (10) days after a general an election for the purpose of can-
+31 vassing the election returns of all precincts within the county.
+32 SECTION 19. That Section 34-1404, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 34-1404. DECLARATION OF CANDIDACY. (1) Candidates for election in any
+35 political subdivision shall be nominated by nominating petitions, each of
+36 which shall bear the name of the nominee, the office for which the nomina-
+37 tion is made, the term for which nomination is made, and the signature of not
+38 less than five (5) electors of the candidate's specific zone or district of
+39 the political subdivision, and shall be filed with the clerk of the political
+40 subdivision.
+41 (2) The form of the nominating petition shall be as provided by the
+42 county clerk and shall be uniform for all political subdivisions.
+43 (3) For an election to be held on the third Tuesday in May, in even-
+44 numbered years, the The nomination petition shall be filed during the pe-
+45 riod specified in section 34-704, Idaho Code beginning at 8:00 a.m. on the
+46 twelfth Monday before the election and no later than 5:00 p.m. on the tenth
+47 Friday before such election. The clerk of the political subdivision shall
+13
+1 notify the county clerk within twenty-four (24) hours of receipt of the fil-
+2 ing and verify the qualifications of the nominees and shall, no more than
+3 seven (7) days after the close of filing, certify the nominees to be placed
+4 on the ballot of the political subdivision. For an election to be held on the
+5 first Tuesday after the first Monday of November, in even-numbered years,
+6 the nomination shall be filed on or before September 1. The clerk of the
+7 political subdivision shall verify the qualifications of the nominees and
+8 shall, no more than seven (7) days after the close of filing, certify the nom-
+9 inees to be placed on the ballot of the political subdivisions. For all other
+10 elections, the nomination shall be filed not later than 5:00 p.m. on the
+11 ninth Friday preceding the election for which the nomination is made. The
+12 clerk of the political subdivision shall verify the qualifications of the
+13 nominee and shall, no more than seven (7) days following the filing, certify
+14 the nominees to be placed on the ballot of the political subdivision.
+15 (2) (4) Nominating petitions shall include campaign contact informa-
+16 tion for candidates, including phone numbers and email addresses.
+17 (3) (5) All information in nominating petitions shall be made publicly
+18 available upon request.
+19 SECTION 20. That Section 34-1405A, Idaho Code, be, and the same is
+20 hereby amended to read as follows:
+21 34-1405A. WITHDRAWAL OF CANDIDACY. A candidate for nomination or can-
+22 didate for election to an office may withdraw from the election by filing a
+23 notarized statement of withdrawal with the officer with whom his declaration
+24 of candidacy was filed. The statement must contain all information neces-
+25 sary to identify the candidate and the office sought and the reason for with-
+26 drawal. A candidate may not withdraw later than forty-six (46) days 5:00
+27 p.m. on the ninth Friday before an election.
+28 SECTION 21. That Section 34-1407, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 34-1407. WRITE-IN CANDIDATES. (1) No write-in candidate for any non-
+31 partisan elective office shall be counted unless a declaration of intent has
+32 been filed indicating that the person desires the office and is legally qual-
+33 ified to assume the duties of the office. The declaration of intent shall be
+34 filed with the clerk of the political subdivision by no later than 5:00 p.m.
+35 on the eighth ninth Friday before the date of the election.
+36 (2) If the statutes governing elections within a specific political
+37 subdivision provide that no election shall be held in the event that no
+38 more than one (1) candidate has filed for an office, that statute shall be
+39 interpreted in such a manner as to allow for filing a declaration of intent
+40 for a write-in candidate until the eighth Friday preceding 5:00 p.m. on the
+41 ninth Friday before the election. However, if no candidate has filed within
+42 that time, no election shall be held for that political subdivision. The
+43 provisions of this section shall not apply to federal, state, or legislative
+44 district candidates in the primary or general election covered by the provi-
+45 sions of section 34-702A, Idaho Code.
+14
+1 SECTION 22. That Section 40-1305C, Idaho Code, be, and the same is
+2 hereby amended to read as follows:
+3 40-1305C. DECLARATION OF CANDIDACY -- QUALIFICATIONS. (1) Candidates
+4 for election as a highway district commissioner shall be nominated by nomi-
+5 nating petitions, each of which shall bear the name of the nominee, the sub-
+6 district for which the nomination is made, the term for which nomination is
+7 made, bear the signature of not no less than five (5) electors of the can-
+8 didate's specific subdistrict, and be filed with the election official of
+9 the highway district. The form of the nominating petition shall be as pro-
+10 vided by the county clerk. The nomination shall be filed not later than 5:00
+11 p.m. on the sixth Friday preceding the election for which the nomination is
+12 made. The election official shall during the time period provided in section
+13 34-1404, Idaho Code. The clerk of the political subdivision shall notify
+14 the county clerk within twenty-four (24) hours of receipt of the filing and
+15 verify the qualifications of the nominee, and shall not, no more than seven
+16 (7) days following the filing, shall certify the nominees to be placed on the
+17 ballot.
+18 (2) A nominee shall qualify for the office of highway district commis-
+19 sioner if such nominee:
+20 (a) Has attained the age of twenty-one (21) years at the time of his
+21 election; and
+22 (b) Is a citizen of the United States; and
+23 (c) Is a resident of the highway district commissioner's subdistrict
+24 for which he seeks office.
+25 SECTION 23. That Section 42-3211a, Idaho Code, be, and the same is
+26 hereby repealed.
+27 SECTION 24. That Section 50-407, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 50-407. FORM OF DECLARATION OF CANDIDACY. Declarations of candidacy
+30 and petitions of candidacy shall read substantially as herein set forth. Any
+31 number of separate petitions of candidacy may be circulated at the same time
+32 for any candidate and all petitions for each candidate shall be considered
+33 one (1) petition when filed with the city clerk. Each signer of a petition
+34 shall be a registered qualified elector.
+35 DECLARATION OF CANDIDACY
+36 I, the undersigned, affirm that I am a qualified elector of the City of
+37 ........., State of Idaho, and that I have resided in the city for at least
+38 thirty (30) days. I hereby declare myself to be a candidate for the office
+39 of ............., for a term of .... years, to be voted for at the election
+40 to be held on the .... day of ....., ...., and certify that I possess the
+41 legal qualifications to fill said office, and that my residence address is
+42 ...............
+43 (Signed) ........................
+44 Subscribed and sworn to before me this .... day of ........, .....
+15
+1 ................................
+2 Notary Public
+3 State of Idaho
+4 County of ........ ss.
+5 City of ..........
+6 PETITION OF CANDIDACY
+7 OF ..................................................................
+8 (NAME OF CANDIDATE)
+9 FOR OFFICE OF ........................................................
+10 This petition must be filed in the office of the City Clerk not no ear-
+11 lier than 8:00 a.m. on the eleventh twelfth Monday nor and no later than
+12 5:00 p.m. on the ninth tenth Friday immediately preceding before election
+13 day. The submitted petition must have affixed thereto the names of at least
+14 five (5) qualified electors who reside within the appropriate city.
+15 I, the undersigned, being a qualified elector of the City of
+16 .............., in the State of Idaho, do hereby certify and declare that I
+17 reside at the place set opposite my name and that I do hereby join in the pe-
+18 tition of .............., a candidate for the office of .................
+19 to be voted at the election to be held on the .... day of........., .....
+20 Signature of Petitioner Printed Name Residence Address Date Signed
+21 ..................... ............ ................. ...........
+22 ..................... ............ ................. ...........
+23 ..................... ............ ................. ...........
+24 ..................... ............ ................. ...........
+25 ..................... ............ ................. ...........
+26 ..................... ............ ................. ...........
+27 ..................... ............ ................. ...........
+28 ..................... ............ ................. ...........
+29 ..................... ............ ................. ...........
+30 ..................... ............ ................. ...........
+31 ..................... ............ ................. ...........
+32 ..................... ............ ................. ...........
+33 STATE OF IDAHO
+34 County of ....................
+16
+1 I, ......................, being first duly sworn, say: That I am a
+2 resident of the State of Idaho and at least eighteen (18) years of age; that
+3 every person who signed this sheet of the foregoing petition signed his or
+4 her name thereto in my presence; I believe that each has stated his or her
+5 name and residence address correctly; and that each signer is a qualified
+6 elector of the State of Idaho, and the City of ....................
+7 Signed ...........................
+8 Address ..........................
+9 Subscribed and sworn to before me this ...... day of ......., .....
+10 Signed Notary Public ...............................
+11 Residing at ........................................
+12 Commission expires .................................
+13 (Notary Seal)
+14 SECTION 25. That Section 50-410, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 50-410. TIME AND MANNER OF FILING DECLARATIONS. (1) All declarations
+17 of candidacy for elective city offices shall be filed with the clerk of the
+18 respective city wherein the elections are to be held not earlier than 8:00
+19 a.m. on the eleventh Monday nor later than 5:00 p.m. on the ninth Friday,
+20 immediately preceding election day during the time period provided in sec-
+21 tion 34-1404, Idaho Code. Before a candidate files a petition of candidacy
+22 with the city clerk, the petition signatures shall be verified by the county
+23 clerk in the manner described in section 34-1807, Idaho Code, except that the
+24 city clerk shall stand in place of the secretary of state. Before any dec-
+25 laration of candidacy and filing fee or petition of candidacy mentioned in
+26 section 50-407, Idaho Code, can be filed, the city clerk shall ascertain that
+27 it conforms to the provisions of chapter 4, title 50, Idaho Code. The city
+28 clerk shall not accept any declarations of candidacy after 5:00 p.m. on the
+29 ninth Friday immediately preceding election day. Write-in candidates shall
+30 be governed by section 34-702A 34-1407, Idaho Code, but shall file the decla-
+31 rations required in that section with the city clerk.
+32 (2) A person shall not be permitted to file a declaration of candidacy
+33 for more than one (1) office in any city election.
+34 SECTION 26. That Section 67-4911, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 67-4911. ELECTIONS -- TERMS OF OFFICE. (1) On an election date as pro-
+37 vided for in section 34-106(1), Idaho Code, in May of the first odd-numbered
+38 year after the organization of any district, and every second year there-
+39 after, an election shall be held, which shall be known as the biennial elec-
+40 tion of the district.
+41 (2) At the first biennial election in any district hereafter organized,
+42 and each sixth year thereafter, there shall be elected by the qualified elec-
+43 tors of the district, one (1) member of the board to serve for a term of six
+44 (6) years; at the second biennial election and each sixth year thereafter,
+17
+1 there shall be elected two (2) members of the board to serve for terms of six
+2 (6) years, and at the third biennial election, and each sixth year there-
+3 after, there shall be elected two (2) members of the board to serve for terms
+4 of six (6) years. Provided, a member of the board once in office shall serve
+5 until his successor is elected, qualified and takes office.
+6 (3) Not later than 5:00 p.m. on the ninth Friday before any such elec-
+7 tion, nominations may be filed with the secretary of the board. Nominations
+8 may be filed during the time period provided in section 34-1404, Idaho Code.
+9 The county clerk shall provide for holding such election and shall appoint
+10 judges to conduct it. The county clerk shall give notice of election by pub-
+11 lication, and shall arrange such other details in connection therewith. Ad-
+12 equate polling places shall be provided throughout the district boundaries
+13 for all elections.
+14 (4) The returns of the election shall be certified to and shall be
+15 canvassed and declared by the board of county commissioners which shall
+16 report the results to the district. The candidate or candidates, according
+17 to the number of directors to be elected, receiving the most votes, shall
+18 be elected. Any new member of the board shall qualify in the same manner as
+19 members of the first board qualify.
+20 (5) In any election for director, if after the deadline for filing a
+21 declaration of intent as a write-in candidate, it appears that the number of
+22 qualified candidates who have been nominated is equal to the number of di-
+23 rectors to be elected, it shall not be necessary for the candidates to stand
+24 for election, and the board shall declare such candidates elected as direc-
+25 tors, and the secretary of the board shall immediately make and deliver to
+26 such persons certificates of election signed by him and bearing the seal of
+27 the district.
+28 SECTION 27. That Section 70-1108, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 70-1108. DISTRICT FORMATION. Within five (5) nine (9) days after such
+31 election the board of county commissioners shall canvass the returns; and,
+32 if at such election a majority of the voters voting upon on such proposition
+33 shall vote in favor of the formation of such district, the board of county
+34 commissioners shall so declare in its canvass of the returns of such elec-
+35 tion, and such port district shall thereupon be and become a municipal corpo-
+36 ration of the state of Idaho and the name of each port district shall be "Port
+37 of ...." (inserting the name appearing on the ballot).
+38 SECTION 28. That Section 19-6203, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 19-6203. ADDRESS CONFIDENTIALITY -- ELIGIBILITY. (1) Judicial offi-
+41 cers desiring that their Idaho residential street address and telephone num-
+42 ber and the Idaho residential street address and telephone number of their
+43 residing household members be exempt from disclosure pursuant to this chap-
+44 ter and sections 34-704(4) 34-704(6) and 74-106(30), Idaho Code, may submit
+45 an application and a fee, if any, to the custodian of the public record that
+46 contains such information. Upon receipt of such application and fee, the
+47 public agency shall comply with the provisions of this chapter for a period
+18
+1 of four (4) years. Thereafter, judicial officers may renew the exemption by
+2 submitting a new application and fee, if any. The public agency may estab-
+3 lish a fee schedule not to exceed the actual cost to the agency of complying
+4 with the provisions of this chapter.
+5 (2) Judicial officers may submit an application to a public agency
+6 requesting that the public agency use an alternative Idaho mailing address
+7 rather than the Idaho residential street address of any such officer and of
+8 any such officer's residing household members on all applications and on
+9 all identification cards, licenses, certificates, permits, tags, and other
+10 similar documents that are issued to the officer or to such officer's resid-
+11 ing household members by the public agency. A public agency receiving such
+12 application shall comply with the request.
+13 (3) A person shall cease to be eligible for an exemption under this
+14 chapter if such person ceases to be a judicial officer or a residing house-
+15 hold member. Within thirty (30) days of such cessation, the person shall
+16 notify, in writing, every public agency to which the person has made an ap-
+17 plication stating that he is no longer eligible for such exemption. If a
+18 judicial officer changes employment but is still eligible for an exemption
+19 under this chapter, such judicial officer shall, within thirty (30) days
+20 of changing employment, submit a new application to every public agency to
+21 which such officer has made an application.
+22 (4) Nothing in this chapter shall prevent a public agency from obtain-
+23 ing the Idaho residential street address and telephone number of a judicial
+24 officer and of any residing household member. A judicial officer who has
+25 submitted an application pursuant to the provisions of this chapter shall
+26 provide his current Idaho residential street address to his employing en-
+27 tity. The judicial officer's employing entity, or any public agency that has
+28 obtained the Idaho residential street address of a judicial officer, shall
+29 upon request identify the county in which the judicial officer's Idaho resi-
+30 dential street address is situated.
+31 SECTION 29. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOE;AGSN1,IOC,TOREPSRGTEFGOFDSOFCYBYMGSN3,IOC,TOREPSRGTEFGOFDSOFITBYCSINRTE;AGSN3,IOC,TORPNRGTEDETOCSCNRSADTETLC;AGSN3,IOC,TEPSRGTEFGOFDSOFITBNCSINLYDTTEE;AN3,IOC,TOREPSRGCYADRLESADTOMETLC;AN3,IOC,TOREPSRGTEDORRTOVEINTEOEOFTECYC;AGSN3,IOC,TOREPSRGTEDORRTOVEBYMLADTOMETLC;AN3,IOC,TOREPSRGTEDETOFEDSOFCYINHYDTC;AGSN3,IOC,TOREPGTEDETOFEDSOFCYINCECEHYDTCRE;AN3,IOC,TOREPSRGDSOFITFRWNC;AGSN3,I,TOREPSRGTEFGOFCNDFCYINPYESADTOMEATLCGSN3,IOC,TOREPSREFGOFCNDSOFCYINCYEGSN3,IOC,TOREPSREDETOPECYCSWHCNSEFMPNBSADTOMETLC;AGS,IOC,TOREPSRGCNDRFGVSINSEOFPLPYCSORTOPYESADTOMETLC;AGSN3,IOC,TOREPSRGCSFRFGOFVSOGBEORARP;AGSN3,IOC,TOREPGCNCEW;AGSN3OC,TOREPSRGAEPSFEVGADEYVGADTOMEATLCGSN3,IOC,TOREPSRNTECYBDOFCSM;AGSN3OC,TOREPSRGDSOFCDTOMETLC;AGSN3,I,TOREPSRGDSFRCNC;AGSN3,IOC,TOREP]
+[DELETED: SRGTEFGOFDSOFITBYW;AGSN4,IOC,TOREPSRGTEDSTOFECNNGPSFYDTCRC;RGSN4OC,RGTOENOFT;AGSN5OC,TOREPSRGTEDSFRFSOFCYADPSOFCYFRCNMLE;AGSN5,IOC,TORSRGTEFGOFDSOFCYFRCNCYE;AGSN6,IOC,TORSRGTEFGOFNSFRAMDDE;AGSN7,IOC,TOREAPNRGTEDETOCSRSADTOMEAT;AGSN1,IOC,TOPEACER;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtSn1,IoC,b,adteseishdtordasf.RNORNNOFMEBYV.Aymeadpttotepsofsn1,IoCdsn1,IoC,slsdfroeinteftglenntsgteenofteen()mdedpttosn1,IoC.Aym,ntlstnny()dsprtotehgofteglenntpgteenofhstmofo,dgtetdpdinsn3,IoC,feinteoeoftyckoftecyfrwhheisartm,adbyafgfeoffyds(,adnofcosdh.Ifadnisntsofdbyaym,tyrgfmteenofhstmofoeslbefyatashnp,etttaymewodsneslbeiefratwntesejldlfrto()ysfgteenofhslttmofoee.Ifshadnisf,hsneslbesdaentglentotevseetovewntecrwhheisa,onannjlb,wtp,whslrlMe..(eitteneoftem)o.(eitteneoftec)Cyofte..(ttejldtn)JlDtberno"(epnistobemefrvg""or"evsslbecdaspdincr1,te3,Ifamyoftevgonteqnveatrghno,unteenofhstmofo,avyslehslbefdbyataspdinsn1,I]
+[DELETED: ,ettttementrdinoeslbeiefratwntesejldtulfrto()ygteenofhslttmofoeheefamyoftevgonteqnvefrrghmi,tecycksliehmaceofenaspdinsn3,IoC,adsdmes,usrdfrc,rninoefranaltmoffr()ydatteenofehshfr()yrtmslbeeefninoebyenintemrhnpN2.TtSn3,IoC,b,adteseishdtordasf.ENOFD.()AnenofdsslbdinehdtonteTysgteftMyofNfehody.Shenslbehdincywe3,IoC.Beteneofenisg,tebdsetedtiossasnyelinpnaspetobeddasdsst1,2ad3,ordt1,2,3,4ad5,dgunontenrofsnted.Ehngpnslsetestfhteneisn)Inayenfrdsi,arteenoftedrfgwnnsfrteoeofd,itastyoe()qdcehsbnndfrehpntobdadifnodnofithsbnfdaspdinsn()oftss,itslntbenytohdane,aebdofdss,nolrtnsn()dsbetesddeoftee,deshceedasd,aesyofterndtbdsliymeartoshpnaceofe)Nownvefrrndtdrslbecsadnofithsbnfdigtttepsteoeadislyqdtoaetedsofrndtdrife.Tednofitslbefhterndtbdsyntlrtnfe(sbetedyofendgtetepdpdins,IoCN3.TtSn3,IoC,b,adteseishdtordasf.CTOFE.Untecycsheteorrdtoinsn()ofsn3,IoCeckoftebdofcycsslcetobepdeofanentobehdfrtepeofdgwrornepdlydtslbeedurtepsosc.Tedeoftsenslbetentumeeaspdfrinsn3,IoC.Wrmetno)pnispdtotecycscgfranentocelyd,teftpdsltep]
+[DELETED: eofteenslbeg,teenslbec,aerstfcdaspdfrincr1,te3,I,adurteglenlsofteseofI.Teblcntews")LyD"ad")L,ehfdbyabxwntevrmyeshebymgacs""".Tebdorbsofensersadcyterstotebsofcycnte()dsartee,adtebdofcycss,wnsn()dsartee,csterfamyofalvsctbeintea,tebdofcss,wnsn()ne()dsartershnc,eranordgtelydtegisneadbsigamppdinadem.Tebdofcycsslttacyoftrtotecyr,cya,adtesetxcnatym,btnolrtnDr1,intecryrihteenwsh.AcyofteorslaobetdtebdoflycN4.TtSn3,IoC,b,adteseishdtordasf.DNOFITFRWNC.Nowefrlydtteinalydtenslbdusadnofithsbnfdigtttndsteoeadislyqdtoaetedsoyteife.Tednofitslbefdweckoftelybdntlrtnfe()dsbetyofendgtetepdpdinsn3,IN5.TtSn3,IoC,b,adteseishdtordasf.LNUNONE.OnadarJy1,2gayorpsoftelwtotec,tesenometnto()escdinaycyinayc,etaspdintssnorsn3,IoC,atttestoflvsinteUdSsheofrsslbehdaspdintegsp)Tedsonwhesmybecda)TetdTyinMyofehy;a)TeTyfgteftMyinNrofehy)Inantoteessdinps()ad()ossnadsn()oftss,aneyenmybecdunmnofteggbdofapls.Aneyeswnteisagtpcchasaneyf,f,s,e,orord,orwnitisnytodoeywktopefrnrlldeortosdl,hhorp]
+[DELETED: )CsfroeedinMyslteoeonteddinteceofenbtntmetnsy()dgtee)CsfroeedinNrslteoeaspdintecnoronJy1ntsgteNre)Teggbdofehplsnsttotsoftssnt,prtoJy1,2,cdanenfrmsofttggbdonadeortnadepdinsn()oftssnslehasteendrttplsntedeadinsn()oftnttfsnttedeonwheswepyc,usardeisedbyl)Tesyofseisadtopeshaeayadtopeayndrsorisfrtectofanenadurtepsoftss)Wrdsgdbycr6,te4,IoC,aeetfmtepsoftss)Cycsgdbycr2,te3,IoCdsldsaesttotelssdins)oftss)AcyieorrmenslbehdonteTyfgteftMyinNrofody.Aceorrmenorab,lyadayororbnesencdbyayplsnslbdontentdeadinsn()oftssntsmetnsy()dsarteckofteplssttshenslbehdinMyorNrofesormetnfy()dsarteorfraloresoepdbyl.Btaslgastebtlefyqntobepdontebtslbeissdtoteckatltsy()dsbeanenhdinMyorNrodysadatltfy()dsbealoreolrtn50p.ontethFybetee)Rlesmybehdonayoftete()dsadinss()ad()sn()oftssnttfetnfe()dsarteckofteplssttshenslbehdaslgasterlpniscdnolrtntethFybetentsde)Indsgdbyte4,IoC,aesotelssdinsn()oftss,ettndsmyaohdanenonteftTyinFyofehyradonteftTyinAtofehyronqdtobevdunonbyte4,IoCN6.TtSn3,IoC,b,adteseishdtordasf.CGOFRR--TEL.()Noermyrrinteoeoftecyckwntr()dspgar50p.onteehdybeayenhdt]
+[DELETED: ttecyinwhhersfrtepeofvgatshe;pdh,al,aeadcernanrdinteoeoftecyckdgtet)en()dypdpganenslbeadadhytecyckultedyfgteenwnr,atwhteternslbee.Tsdeslaoaytoayrstecyckmyhea)Ayerwowlcehsrertoraerevgaedgtepdwnterrofesidmyrrprtotecgofter)Ngsn()oftss,anilwseetovemyaor,uncgarnanadsgpfofiyadrepttos,IoC,atteate'pgpepdinsn3,IoC,orataneyvgsnpdins,IoCN7.TtSn3,IoC,b,adteseishdtordasf.MLR.()Ayermyrrbymlfye.Aymlrnanmtberdbytyckprtoteceofrnaspdins,IoC,pdttaymlrnanpdntlrtnte()dsprtoanenslbdt)Tesyofseslpetefmfrtemlrna)Temlanfmslbeaefrdhgladpee,whpresonmgtmaefrodvrrnp)Ayflmlrnfmadpttotepsoftenlvrrnatof1,(.1,sobeadasavdr,ifshfmispdnrtnte()dsprtoanenitisrdnoln50p.onteehdybetee)Tecyckslpeadiebyftcsnemltoeherrgbymlavnofrgteneadreofteeradteneornrofttinwhteerr.Avnrdueslcetecycktoreteescdfmterrofe)AsrdbytehpAaveatof2,(.1,yofprinwlberdprtoieofaboaewohsrdbymladhsntpyvdinanenfrfloeintes.Prinslmttsofsn3)ad(,IoCN8.TtSn3,IoC,b,adteseishdtordasf]
+[DELETED: .ENOFHYDTCSINSECEDS--Q.()Inehgle,hydtcsinsecedsslbeedaspdfrinsn4,IoC)Nopnslbeedtoteoeofhydtcrusheslheadteaeofte()ysatteofhse,isacnofteUdS,adslbeartoftehydtcsstfrwhhes)Ehceslfeadnofcywhtyckntlstnny()dsprtoteglegtetepdpdinsn3,IoC.Ehdnofcyslaobrtefgw:"IamarntebsofHyDtCsStN)Ehcewofsadnofcyslattetepyafgfeoftnds()whslbeddiecycteefN9.TtSn3,IoC,b,adteseishdtordasf.ENOFHYDTCSINCNSEDS--Q.()Inehgle,hydtcsinsecedsslbeespdfrinsn4,IoC)Nopnslbeedtoteoeofhydtcrusheslheadteaeofte()ysatteofhse,isacnofteUdS,adslbeartoftehydtcsstfrwhhes)Ehceslfeadnofcywhtyckntlstnny()dsprtoteglegtetepdpdinsn3,IoC.Ehdnofcyslaobrtefgw:"IamarntebsofHyDtCsStN)Ehcewofsadnofcyslattetepyafgfeoftnds()whslbeddiecycteefN1.TtSn3,IoC,b,adteseishdtordasf.DNOFITFRWNC.()Nnvefrayoeinap,s,orglelbecdusacddnofitfmhsbnfgtttepndsteoeadislyqdtetedsofsdoeife.Tednofitsefdwhtesyofseiffraf,s,orltoeadwhtecyckiffracyorpyp]
+[DELETED: no.ShdnofitslbefdnolrtenhFybetedyofe)Tednofitfrwncsfrf,orledtosslbefdwhtesfsenolrtn50p.onteehFybetep)Tednofitfrwncsfrcyoyptcnoeslbefdwhtecycknrtn50p.ontenhFybetepye)Frawncefrp,tednslieacnoftewncsveplale,alofwmmtbeqdtoseintrreo.Tesyofseslpetefmfrs)()Intecsttueolsnb,anelntpeontebtasrbgteneofapnoruearmdord,etw,tovefrapnweneisndontebN1.TtSn3,IoC,b,adteseishdtordasf.DNOFC.()Aypnlyqdtdshoeisedtobeaceadfehsadnofc.Ehplpycefrp,s,dtorcyoeslfehsdnofcyintepebn80a.ontethMypgtepyenad50p.ontethFypgtepye.Alpycssldetrpyanintnofcyadslbeadwhapyatteteo.Aceslbeddadwhteplpyiecessapyanfmagwhtednoytoteaefgo.Tefgolslrtaydnofcyfrpnoeinapyemcswoaentadwhaplp.Crnnoeslfedgtepdpdfrintsshplpycefrf,s,orltoeslfeadnofcywhtesyosoebn80a.ontethMybetepnad50p.ontethFybetepye)Ehplpycefrcyorptceslfeadnofcywhtecycson80a.ontethMybetepyenad5.ontethFybetepye)()Cswofeadnofcyurapeadaentndattepyenslntbeadtoaronteglenbturayorplpyn,nrasanitc)()Itcsslfetrdnofcyintemrpdinsn3,IoC]
+[DELETED: )()Alinindsofcyslbemepyaeunr,etttteIorlstasadtenrofajlormybeetfmdepttoss12ad7,IoCN1.TtSn3,IoC,b,adteseishdtordasf.WHWMDSF.()Alcsfrc,wrplpycsoritc,alplpycsfrptosslfetrdsofcywhtecyckoftrrec.Asfrd,seadflosslfetrdsofcywhtesyofs)Tesyofseslcytotecyc,wn()dsartefgdenolrtn50p.ontetybetepye,tensofteplpycswofdfrf,s,adledtosadadfrptonteb)Tesyofseslcyteneofacebdbyteaeclcepttosn3oC,bynolrtntentbsdyarteatidintesyofsso,ifrdartecnofcstotecycsursn()oftssN1.TtSn3,IoC,b,adteseishdtordasf.SEFMFRPYENB.Tesyoeslpetesefmoftepyenbttoehoecycsnolrtnfy()dsprtotepynolntenhFybetepye.Tesebtsnteprplpycstobevdunonwecywedswefdadcdinteoeoftyofsewhisfrtepgofplpssgteplpynnfrcyadp.Ifacyiswnmetnoe()led,tyofseslpeasebtfrehledtwhttisptoftecN1.TtSn3,IoC,b,adteseishdtordasf.FGVSINSEOFPLPYCSOGPRTOPYE.()Vsttorbetepyeninteseofcsofayplpybeoed,dnfrayr,orwlfmtennpsbytec,slbefdintefgmrieisoyoe()ceddfrttpro]
+[DELETED: )Bytecyclceiftevyosfrteofptcnorfracyo)Byteledtclceiftevyorteoeofsereorses)Byteseclceiftevyosfrafrseoecyadledtclceslfltywnfn()dsfmtedetevyo.Teclceslfltevywnty()dsfedetevyo,btnolrtn50p.onteeybetepyeyplpycesoadbyteprclcem,inortohehsneontepyb,feadnofcyadpyterdfgfenolrtn50p.oeehFybetepye)Noclceslflayvywhttontn()dsprtoar50p.onteehFybetye.Vswhttordgtstn()dypdartsdebeofted,dnfrayrrwlfmtennpsbyteceslbefgtotepsofsn3,IoC)Vsttorinaseofcsfrptcnwntn()dsprtoar50p.onteehFybetepyenslntbefN1.TtSn3,IoC,b,adteseishdtordasf.FGOFVSOGBEORARPYE.()Vsttordgtetn()dypdar50pnteehFybeapye,orartepyetatlttn()dsbe50p.onteehFybetleninteseofcsofayplpybftedhordnfrayrnofac,etcsfrptc,slbefdintefgmfteisoyoe()ceddfmteplpyfrtro)Bytecyclceifitisavybyacracyo)()Byteledtclceifitisavyacefrtesel)()Byteseclceifitisavybyacrafloraseo)Iftepycefraproedsorisddar50p.onteehFybeteglehcsneslrnonteb.Ifteddodcewstegle,tergvyslbefdpttocr9,te5,IoC)Tecyadledtclceslfevywnfn()dsfmtedetevyo.Teclceslfltevywnty()dsf]
+[DELETED: edetevyo,btnolrtn50p.onteehFybetegle)Ayplpycesoadbyteprcem,inortohehsneonteglb,feadnofcyadpyterdfgfenolrtn50pnteehFybetegle)Vsttorinaseofcsfrptcnwntn()dsprtoar50p.onteehFybetepyenslntbefN1.TtSn3,IoC,b,adteseishdtordasf.WLOFC.()Acefrnnoefrentoapnoemywwfmteeyfgandstofwlwhteorwhwmhnofcywsf.Testmtcnalinnytoiyteceadteoestadterrw.Tefgorsliynyteplceoftep,ifa,ofteilw.emyntwwlrtnfe()dsbeane,etinteceofapye,wntedeslbolrtnteehFypgtepye,orag,wntedeslbenolrtnSr7.Fgfdbyteceslntber)Acefrf,s,orledtoemtwwlrtn50p.onteehFybeapnor50p.ontenhFybeagle.Fspdbyteceslntber)Acefrcyorptcnoemynwlrtn50p.ontenhFybeaye.Fgfspdbyteceslntber)()AycewohsfdastofwlpotssnslntbeadtobeadtoflavyuhvyosbeoftedhofapscN1.TtSn3,IoC,b,adteseishdtordasf.AEPSFRAEVG--EYV.()TecsttueaevgfstthstoteIosevrrnsmadctbsacllnorueapgldtnsmmttoct"yv"agtotepsoftssrtecsttettodo"yv"eyvgslbnorbeartetdfhMybeteenadedat5.onteFybetee.Pyenbsslbdpttosn3,IoC)Avrwoasatan"yv"sntoveslssorhrneadastoteenoladpttevnasrdbyss33ad3,IoC]
+[DELETED: )Teenolsleeterstoarorntshatisrdadlyedtovsr.Tepsofsn3,IoC,andyrnslaoayindgteastov)Bergab,eherslsnhsorhrnnteenrradplbkpdfreyv)Teersltnbegnteaebscgteolenbtinpttosn3oC,adslbegnfgisfrshb,ifa)Unrtofteb,teerslretoavgbhadmktebsagtoteisp)Armgteb,teerslpthforhftoteenolattebtbxadsehsorhrnea.Teersltndttebtintebtbxorhttoteeno,wosldti.Teenoltnrdttteerhsvdadpmteseinanaev)Vsrgaeslbepdwhshanaewhsn3,IoC)Egispdataneyvgpgpeadinsn1,IoCN1.TtSn3,IoC,b,adteseishdtordasf.CYBDOFCS--M.Tecybdosslbetecybdofcsadtecyclseastrissyfrtsp.Tecybdofcsslmtwnsn()ne()dsarapyedwntn()dsaraglanenfrtepeofcgteenrsofalpswntecN1.TtSn3,IoC,b,adteseishdtordasf.DNOFC.()Csfreninalsnslbendbyngp,ehohslbrteneoften,teoefrwhtennism,tetmfrwhnnism,adteseofnstnfe()esoftecssczeordtoepls,adslbefdwhteckoftep)Tefmoftengpnslbeaspdbytyckadslbeumfralpls)FranentobehdontetdTyinM,inedy,teTennpnslbefddgtepdsdinsn3,IoCebgat80a.onthMybeteenadnolrtn50p.ontetybeshe.Teckofteplsns]
+[DELETED: ytecyckwntr()hsofrtoftefgadvyteqsoftensads,nometn()dsarteceoff,cytenstobepntebtoftepls.FranentobehdonttTyarteftMyofN,inedyennslbefdonorbeSr1.Teckoftlsnslvyteqsoftensa,nometnsn()dsarteceoff,cytenstobepdontebtoftepls.Fralo,tennslbefdntlrtn50p.onthFypgteenfrwhtennism.Tkofteplsnslvyteqsofteads,nometnsn()dsfgtef,censtobepdontebtoftepls)()Ngpssliecnctinfrc,igpensadela)()AlininngpsslbemepeunrN2.TtSn3,IoC,b,adteseiyadtordasf.WLOFC.Acefrnnorcefrentoanoemywwfmteenbyfgdstofwlwhteorwhwmhsdfcywsf.Testmtcnalinnytoiyteceadteoestadternfrw.Acemyntwwlrtnfx()ds5.ontenhFybeaneN2.TtSn3,IoC,b,adteseishdtordasf.WNC.()Nowncefraynneeoeslbecdusadnofithnfdigtttepndsteoeadislyqdtoaetedsofteo.Tednofitslbdwhteckofteplsnbynolrtn50pnteehnhFybetedeoftee)Iftessggeswnascpnpettnoenslbehdinteetttnetnoe()cehsfdfrano,ttseslbdinshamrastoawfrfgadnofirawnceulteehFypg50p.onthFybetee.H,ifnocehsfdwtt,noenslbehdfrttpls.Tsoftssnslntaytof,s,orltcsintepyorglencdbytepsofsn3,IoC]
+[DELETED: N2.TtSn4,IoC,b,adteseiyadtordasf.DNOFCY--Q.()Crenasahydtcrslbendbyngp,ehofwhslbrteneoften,testfrwhtennism,tetmfrwhnni,brteseofntnolstnfe()esoftecsscs,adbefdwhteenoloehyd.Tefmoftengpnslbeaspdbytecyc.Tennslbefdntlrtn5.onteshFypgteenfrwhtenni.Teenolsldgtetepdpdins,IoC.Teckofteplsnslnecyckwntr()hsofrtoftefgayteqsoften,adsln,nometns)dsfgtef,slcytenstobepdont)Aneslqyfrteoeofhydtcrifshn)Hsadteaeofte()ysatteteofh;a)IsacnofteUdS;a)IsartoftehydtcssrwhhessoN2.TtSn4,IoC,b,adteseiyrN2.TtSn5,IoC,b,adteseishdtordasf.FMOFDNOFC.Dsofcdpsofcyslrdsyashnstf.Arofsepsofcymybecdattesetrayceadalpsfrehceslbece()pnwnfdwhtecyc.EhsrofaplbeardqdeNOFC,teu,amttIamaqderofteCyo,SeofI,adttIherdintecyfratly()d.Ihydemftobeacefrteof.,fratmof..y,tobevdfratteeobehdonte..dyof.,.,adcyttIpstlqstoflsdo,adttmyreasi).dadsntobemets..dyof.,.]
+[DELETED: yPeofIyof..syof.NOFCF.EOFCROEOF.spnmtbefdinteoeofteCyCkntnoertn80a.onteehthMynradnolrt0p.ontenhthFyiypgbee.Tesdpnmtheadtotensofatle()qdesworewnteaec,teu,bgaqderofteCyo,inteSeofI,dohycyaddetteattepestoemyneadttIdohyjnintepnof.,acefrteoeof.obevdatteentobehdonte..dyo,.eofPdNeReAeS........................................................................EOFIyof.]
+[DELETED: ,.,bgftdys,s:TtIamtofteSeofIoadatlten()ysofa;typnwosdtsstoftefgpnsdhsornetoinmyp;Ibettehhssdhsorheadreasc;adttehsrisaqrofteSeofI,adteCyof.d.s.dadsntobemets..dyof.,.dNyPc.gat.nes.ySN2.TtSn5,IoC,b,adteseishdtordasf.TEADMROFFGD.()Aldfcyfreecyosslbefdwhteckoftecywnteesaetobehdntertn8.onteehMynrlrtn50p.ontenhFypgendydgtetepdpdinsn3,IoC.Beacefsapnofchtecyc,tepnssslbevdbyteckintemrddinsn3,IoC,ettttyckslsdinpeoftesyofs.Beaydnofcyadfgfeorpnofcymdin5,IoC,cnbef,tecyckslanttcstotepsofcr4,te5,IoC.Teckslntataydsofcyar50p.onthFyiypgend.Wncssegdbysn3A3,IoC,btslfetedsrdinttsnwhtecyc)Apnslntbepdtofeadnofcrmetnoe()oeinaycyeN2.TtSn6,IoC,b,adteseishdtordasf.ES--TSOFO.()Onanendeaspdfrinsn3,IoC,inMyofteftorarteonofayd,adeysdyrt,anenslbeh,whslbeknasteblenofted)Atteftbleninaydthrodehshyrt,teslbeedbyteqdesofted,oe()mroftebdtosefratmofs)y;attesdblenadehshyrt]
+[DELETED: eslbeedto()msoftebdtosefrtsofs)y,adattetdble,adehshyrt,teslbeedto()msoftebdtosefrtfsx()y.P,amroftebdoeinoeslslhssrise,qdadtso)Ntlrtn50p.ontenhFybeayshe,nsmybefdwhtesyofteb.Nybefddgtetepdpdinsn3,IoCecyckslpefrhgshenadslastocti.Tecyckslgeneofenbyp,adslaeshordsincnt.Aepgpsslbepdtttedtbrale)Tersofteenslbecdtoadslbdadddbytebdofcycswhstterstoted.Teceorc,aotenrofdstobee,rgtemtv,see.Aynwmroftebdslqyintesemrasofteftbdq)Inayenfrd,ifartedefrfgnofitasawnc,itastttenrodcswohebnndiseltotenrofdstobee,itslntbenyfrtecstosre,adtebdsldeshcsedasd,adtesyoftebdsliymeaddrthpscsofensdbyhmadbgtesloedN2.TtSn7,IoC,b,adteseishdtordasf.DTF.Wnfe()ne()dsarsntebdofcycsslcster;afatshenamyoftevsvgunonshplveinfroftefnofshd,tebdofcsslsodeiniscsoftersofshe,adshptdtsltnbeadbeamlcnofteseofIoadteneofehptdtslbe"f."(gteneagontebN2.TtSn1,IoC,b,adteseishdtordasf.ASCY--E.()JlosdgtttrIorlstasadtenradteIorlstasadtenroftghdmsbeetfmdepttotscradss3)3)ad7,IoC,mysnanadaf,ifa,totecnoftepcrdtsshi.Unrtofshanadf,tcayslcywhtepsoftscrfrap]
+[DELETED: ffr()y.T,jlosmyrwteenbganwanadf,ifa.Tepcaymyehafesenttoedtealcttoteayofchtepsoftsc)JlosmystanantoapcagtttepcayueanaeIomgartnteIorlstasofayshoradoyshosrghdmsonalasadolinc,l,c,p,t,adordsttaeidtoteorortoshosrghdmsbytepca.Apcayrgsnslcywhter)Apnslcetobeeefranenurtrifshpncstobeajlororarghdm.Wnty()dsofshc,tepns,inw,eypcaytowhtepnhsmeanansgttheisnolreefrshe.Iflorcsetbtissleefranertsc,shjlors,wnty()dfcge,stanwantoeypcaythshorhsmeana)NgintscrslptapcayfmogteIorlstasadtenrofajradofayrghdm.AjlorwohdananpttotepsoftscrsehsctIorlstastohsege.Tejlosege,oraypcaytthdteIorlstasofajlo,snrtiytecyinwhtejlosIorlstasissN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 278
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 1-2220, IDAHO CODE, TO REVISE PROVI-
+3 SIONS REGARDING THE FILING OF DECLARATIONS OF CANDIDACY BY MAGISTRATES;
+4 AMENDING SECTION 31-4306, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+5 ING THE FILING OF DECLARATIONS OF INTENT BY CANDIDATES IN RECREATION
+6 DISTRICT ELECTIONS; AMENDING SECTION 33-2705, IDAHO CODE, TO REVISE
+7 A PROVISION REGARDING THE DEADLINE TO CANVASS CERTAIN RETURNS AND TO
+8 MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 33-2717A, IDAHO CODE, TO
+9 REVISE PROVISIONS REGARDING THE FILING OF DECLARATIONS OF INTENT BY
+10 CERTAIN CANDIDATES IN LIBRARY DISTRICT TRUSTEE ELECTIONS; AMENDING
+11 SECTION 34-106, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN
+12 COUNTY AND RECALL ELECTIONS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+13 SECTION 34-408, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEADLINE
+14 TO REGISTER TO VOTE IN THE OFFICE OF THE COUNTY CLERK; AMENDING SEC-
+15 TION 34-410, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEADLINE
+16 TO REGISTER TO VOTE BY MAIL AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+17 SECTION 34-625, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEAD-
+18 LINE TO FILE DECLARATIONS OF CANDIDACY IN HIGHWAY DISTRICT COMMISSIONER
+19 ELECTIONS; AMENDING SECTION 34-625A, IDAHO CODE, TO REVISE PROVISIONS
+20 REGARDING THE DEADLINE TO FILE DECLARATIONS OF CANDIDACY IN CERTAIN
+21 SINGLE COUNTYWIDE HIGHWAY DISTRICT COMMISSIONER ELECTIONS; AMENDING
+22 SECTION 34-702A, IDAHO CODE, TO REVISE PROVISIONS REGARDING DECLARA-
+23 TIONS OF INTENT FOR WRITE-IN CANDIDATES; AMENDING SECTION 34-704, IDAHO
+24 CODE, TO REVISE PROVISIONS REGARDING THE FILING OF CERTAIN DECLARATIONS
+25 OF CANDIDACY IN PRIMARY ELECTIONS AND TO MAKE A TECHNICAL CORRECTION;
+26 AMENDING SECTION 34-705, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+27 THE FILING OF CERTAIN DECLARATIONS OF CANDIDACY IN COUNTY ELECTIONS;
+28 AMENDING SECTION 34-712, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+29 THE DEADLINE TO PROVIDE COUNTY CLERKS WITH CERTAIN SAMPLE FORM PRIMARY
+30 ELECTION BALLOTS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+31 34-714, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN DEADLINES
+32 FOR FILLING VACANCIES IN SLATE OF POLITICAL PARTY CANDIDATES OCCURRING
+33 PRIOR TO PRIMARY ELECTIONS AND TO MAKE TECHNICAL CORRECTIONS; AMEND-
+34 ING SECTION 34-715, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN
+35 DEADLINES FOR FILLING OF VACANCIES OCCURRING BEFORE OR AFTER PRIMARY
+36 ELECTIONS; AMENDING SECTION 34-717, IDAHO CODE, TO REVISE PROVISIONS
+37 REGARDING CERTAIN CANDIDATE WITHDRAWALS; AMENDING SECTION 34-1012,
+38 IDAHO CODE, TO REVISE PROVISIONS REGARDING ALTERNATIVE PROCEDURES FOR
+39 ABSENTEE VOTING AND EARLY VOTING AND TO MAKE A TECHNICAL CORRECTION;
+40 AMENDING SECTION 34-1205, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+41 WHEN THE COUNTY BOARD OF CANVASSERS MEETS; AMENDING SECTION 34-1404,
+42 IDAHO CODE, TO REVISE PROVISIONS REGARDING DECLARATIONS OF CANDIDACY
+43 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 34-1405A, IDAHO
+44 CODE, TO REVISE PROVISIONS REGARDING DEADLINES FOR CERTAIN CANDIDATE
+45 WITHDRAWALS; AMENDING SECTION 34-1407, IDAHO CODE, TO REVISE PRO-
+
+2
+1 VISIONS REGARDING THE FILING OF DECLARATIONS OF INTENT BY WRITE-IN
+2 CANDIDATES; AMENDING SECTION 40-1305C, IDAHO CODE, TO REVISE PROVI-
+3 SIONS REGARDING THE DEADLINES TO FILE CERTAIN NOMINATING PETITIONS FOR
+4 HIGHWAY DISTRICT COMMISSIONER CANDIDATES; REPEALING SECTION 42-3211a,
+5 IDAHO CODE, RELATING TO EXPIRATION OF TERM; AMENDING SECTION 50-407,
+6 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEADLINES FOR FILING
+7 DECLARATIONS OF CANDIDACY AND PETITIONS OF CANDIDACY FOR CERTAIN MU-
+8 NICIPAL ELECTIONS; AMENDING SECTION 50-410, IDAHO CODE, TO REVISE
+9 PROVISIONS REGARDING THE FILING OF DECLARATIONS OF CANDIDACY FOR CER-
+10 TAIN CITY ELECTIONS; AMENDING SECTION 67-4911, IDAHO CODE, TO REVISE
+11 PROVISIONS REGARDING THE FILING OF NOMINATIONS FOR AUDITORIUM DISTRICT
+12 BOARD ELECTIONS; AMENDING SECTION 70-1108, IDAHO CODE, TO REVISE A PRO-
+13 VISION REGARDING THE DEADLINE TO CANVASS RETURNS AND TO MAKE A TECHNICAL
+14 CORRECTION; AMENDING SECTION 19-6203, IDAHO CODE, TO PROVIDE A CORRECT
+15 CODE REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+16 DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Section 1-2220, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 1-2220. RETENTION OR NONRETENTION OF MAGISTRATE BY VOTE. Any magis-
+21 trate appointed pursuant to the provisions of section 1-2205, Idaho Code,
+22 and section 1-2207(2), Idaho Code, shall stand for office in the first gen-
+23 eral election next succeeding the expiration of the eighteen (18) month
+24 period established pursuant to section 1-2207, Idaho Code. Any magistrate
+25 may, not less than ninety (90) days prior to the holding of the general elec-
+26 tion next preceding the expiration of his term of office, during the time
+27 period provided in section 34-1404, Idaho Code, file in the office of the
+28 county clerk of the county for which he is a resident magistrate, accompa-
+29 nied by a filing fee of forty dollars ($40.00), a declaration of candidacy
+30 to succeed himself. If a declaration is not so filed by any magistrate, the
+31 vacancy resulting from the expiration of his term of office shall be filled
+32 by appointment as herein provided, except that any magistrate who does not
+33 file shall be ineligible for appointment within the same judicial district
+34 until for two (2) years following the expiration of his last term of office
+35 have expired. If such a declaration is filed, his name shall be submitted at
+36 the next general election to the voters eligible to vote within the county
+37 for which he is appointed, on a nonpartisan judicial ballot, without party
+38 designation, which shall read:
+39 "Shall Magistrate .... (Here insert the name of the magistrate) of
+40 .... (Here insert the name of the county) County of the .... (Here
+41 insert the judicial district number) Judicial District be retained
+42 in office?" (Here provision is to be made for voting "Yes" or "No.")
+43 "No".)
+44 The votes shall be canvassed as provided in chapter 12, title 34, Idaho
+45 Code.
+46 If a majority of those voting on the question vote against retaining him
+47 in office, upon the expiration of his term of office, a vacancy shall exist
+48 which shall be filled by appointment as provided in section 1-2205, Idaho
+
+3
+1 Code, except that the magistrate not retained in office shall be ineligi-
+2 ble for appointment within the same judicial district until for two (2) years
+3 following the expiration of his last term of office have expired.
+4 If a majority of those voting on the question vote for retaining him in
+5 office, the county clerk shall issue him a certificate of election as pro-
+6 vided in section 34-1209, Idaho Code, and said magistrate shall, unless re-
+7 moved for cause, remain in office for an additional term of four (4) years,
+8 and at the expiration of each such four (4) year term shall be eligible for
+9 retention in office by election in the manner herein prescribed.
+10 SECTION 2. That Section 31-4306, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 31-4306. ELECTION OF DIRECTORS. (1) An election of directors shall be
+13 held in each district on the Tuesday succeeding the first Monday of November
+14 of each odd-numbered year. Such election shall be held in conformity with
+15 title 34, Idaho Code. Before the notice of election is given, the board shall
+16 divide the district into subdivisions as nearly equal in population as pos-
+17 sible to be designated as director's subdistrict 1, 2 and 3, or director's
+18 subdistrict 1, 2, 3, 4 and 5, depending upon on the number of subdistricts
+19 in the district. Each nominating petition shall state the subdistrict for
+20 which the nominee is nominated.
+21 (2) In any election for directors if, after the expiration of the date
+22 for filing written nominations for the office of director, it appears that
+23 only one (1) qualified candidate has been nominated for each position to be
+24 filled and if no declaration of intent has been filed as provided in subsec-
+25 tion (3) of this section, it shall not be necessary to hold an election, and
+26 the board of directors shall, no later than seven (7) days before the sched-
+27 uled date of the election, declare such candidate elected as director, and
+28 the secretary of the recreation district board shall immediately make and
+29 deliver to such person a certificate of election.
+30 (3) No write-in vote for recreation district director shall be counted
+31 unless a declaration of intent has been filed indicating that the person
+32 desires the office and is legally qualified to assume the duties of recre-
+33 ation district director if elected. The declaration of intent shall be filed
+34 with the recreation district board secretary not later than forty-five (45)
+35 days before the day of election during the time period provided in section
+36 34-1407, Idaho Code.
+37 SECTION 3. That Section 33-2705, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 33-2705. CONDUCT OF ELECTION. Upon the county commissioners having
+40 made the order referred to in subsection (5) of section 33-2704, Idaho Code,
+41 the clerk of the board of county commissioners shall cause to be published a
+42 notice of an election to be held for the purpose of determining whether or not
+43 the proposed library district shall be established under the provisions of
+44 this chapter. The date of this election shall be the next uniform election
+45 date as provided for in section 34-106, Idaho Code. Whenever more than one
+46 (1) petition is presented to the county commissioners calling for an elec-
+47 tion to create library districts, the first presented shall take precedence.
+
+4
+1 Notice of the election shall be given, the election shall be conducted, and
+2 the returns thereof canvassed as provided for in chapter 14, title 34, Idaho
+3 Code, and under the general election laws of the state of Idaho. The ballot
+4 shall contain the words "(Name) Library District--Yes" and "(Name) Library
+5 District--No,"No", each followed by a box wherein the voter may express his
+6 choice by marking a cross "X." "X". The board or boards of election shall
+7 make returns and certify the results to the boards of county commissioners
+8 within three (3) days after the election, and the board of county commission-
+9 ers shall, within seven (7) days after the election, canvass the returns.
+10 If a majority of all votes cast be in the affirmative, the board of county
+11 commissioners shall, within seven (7) nine (9) days after the returns have
+12 been canvassed, enter an order declaring the library district established,
+13 designating its name and boundaries including a map prepared in a draftsman-
+14 like manner. The board of county commissioners shall transmit a copy of the
+15 order to the county recorder, county assessor, and the state tax commission
+16 in a timely manner, but no later than December 15, in the calendar year in
+17 which the election was held. A copy of the order shall also be transmitted to
+18 the board of library commissioners.
+19 SECTION 4. That Section 33-2717A, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 33-2717A. DECLARATION OF INTENT FOR WRITE-IN CANDIDATE. No write-in
+22 vote for library district trustee in a library district election shall be
+23 counted unless a declaration of intent has been filed indicating that the
+24 person desires the office and is legally qualified to assume the duties of
+25 library trustee if elected. The declaration of intent shall be filed with
+26 the clerk of the library board not later than forty-five (45) days before the
+27 day of election during the time period provided in section 34-1407, Idaho
+28 Code.
+29 SECTION 5. That Section 34-106, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 34-106. LIMITATION UPON ON ELECTIONS. On and after January 1, 2011,
+32 notwithstanding any other provisions of the law to the contrary, there shall
+33 be no more than two (2) elections conducted in any county in any calendar
+34 year, except as provided in this section or section 34-220, Idaho Code, and
+35 except that elections to fill vacancies in the United States house of repre-
+36 sentatives shall be held as provided in the governor's proclamation.
+37 (1) The dates on which elections may be conducted are:
+38 (a) The third Tuesday in May of each year; and
+39 (b) The Tuesday following the first Monday in November of each year.
+40 (c) In addition to the elections specified in paragraphs (a) and (b) of
+41 this subsection and subsection (7) of this section, an emergency elec-
+42 tion may be called upon motion of the governing board of a political sub-
+43 division. An emergency exists when there is a great public calamity,
+44 such as an extraordinary fire, flood, storm, epidemic, or other disas-
+45 ter, or when it is necessary to do emergency work to prepare for national
+46 or local defense or to safeguard life, health or property.
+
+5
+1 (2) Candidates for office elected in May shall take office on the date
+2 specified in the certificate of election but not more than sixty (60) days
+3 following the election.
+4 (3) Candidates for office elected in November shall take office as pro-
+5 vided in the constitution or on January 1 next succeeding the November elec-
+6 tion.
+7 (4) The governing board of each political subdivision subject to the
+8 provisions of this section that, prior to January 1, 2011, conducted an elec-
+9 tion for members of that governing board on a date other than a date permit-
+10 ted in subsection (1) of this section shall establish as the election date
+11 for that political subdivision the date authorized in subsection (1) of this
+12 section that falls nearest the date on which elections were previously con-
+13 ducted, unless another date is established by law.
+14 (5) The secretary of state is authorized to provide such assistance as
+15 necessary and to prescribe any needed rules or interpretations for the con-
+16 duct of an election authorized under the provisions of this section.
+17 (6) Water districts governed by chapter 6, title 42, Idaho Code, are ex-
+18 empt from the provisions of this section.
+19 (7) Community colleges governed by chapter 21, title 33, Idaho Code,
+20 and school districts are subject to the limitations specified in subsection
+21 (1) of this section.
+22 (8) A city initiative or referendum election shall be held on the Tues-
+23 day following the first Monday in November of odd-numbered years. A county
+24 initiative or referendum election or a bond, levy and any or other ballot
+25 question elections election conducted by any political subdivision shall be
+26 held on the nearest date authorized in subsection (1) of this section that
+27 falls more than sixty (60) days after the clerk of the political subdivision
+28 orders that such election shall be held in May or November of even-numbered
+29 years or more than fifty (50) days after the order for all other elections,
+30 unless otherwise provided by law. Ballot as long as the ballot language for
+31 any question to be placed on the ballot shall be is submitted to the county
+32 clerk at least sixty (60) days before an election held in May or November of
+33 even-numbered years and at least fifty (50) days before all other elections
+34 no later than 5:00 p.m. on the tenth Friday before the election.
+35 (9) Recall elections may be held on any of the three (3) dates autho-
+36 rized in subsections (1) and (7) subsection (1) of this section that fall
+37 more than forty-five (45) days after the clerk of the political subdivision
+38 orders that such election shall be held as long as the recall petition is cer-
+39 tified no later than the tenth Friday before the next scheduled election.
+40 (10) Irrigation districts governed by title 43, Idaho Code, are subject
+41 to the limitations specified in subsection (1) of this section, except that
+42 irrigation districts may also hold an election on the first Tuesday in Febru-
+43 ary of each year and on the first Tuesday in August of each year on questions
+44 required to be voted upon on by title 43, Idaho Code.
+45 SECTION 6. That Section 34-408, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 34-408. CLOSING OF REGISTER -- TIME LIMIT. (1) No elector may regis-
+48 ter in the office of the county clerk within twenty-four (24) days preced-
+49 ing after 5:00 p.m. on the eleventh day before any election held through-
+
+6
+1 out the county in which he resides for the purpose of voting at such elec-
+2 tion; provided however, a legible, accurate and complete registration ap-
+3 plication received in the office of the county clerk during the twenty-four
+4 (24) eleven (11) day period preceding an election shall be accepted and held
+5 by the county clerk until the day following the election when registration
+6 reopens, at which time the registration shall become effective. This dead-
+7 line shall also apply to any registrars the county clerk may have appointed.
+8 (2) Any elector who will complete his residence requirement or attain
+9 the requisite voting age during the period when the register of electors is
+10 closed may register prior to the closing of the register.
+11 (3) Notwithstanding subsection (1) of this section, an individual who
+12 is eligible to vote may also register, upon completing a registration ap-
+13 plication and showing proof of identity and residence pursuant to section
+14 34-411, Idaho Code, at the absent electors' polling place provided in sec-
+15 tion 34-1006, Idaho Code, or at an early voting station provided in section
+16 34-1012, Idaho Code.
+17 SECTION 7. That Section 34-410, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 34-410. MAIL REGISTRATION. (1) Any elector may register by mail for
+20 any election. Any mail registration application must be received by the
+21 county clerk prior to the close of registration as provided in section
+22 34-408, Idaho Code, provided that any mail registration application post-
+23 marked not later than twenty-five (25) days prior to an election shall be
+24 deemed timely.
+25 (2) The secretary of state shall prescribe the form for the mail regis-
+26 tration application.
+27 (3) The mail application form shall be available for distribution
+28 through governmental and private entities, with particular emphasis on mak-
+29 ing them available for organized voter registration programs.
+30 (4) Any federal mail registration form adopted pursuant to the provi-
+31 sions of the national voter registration act of 1993, (P.L. 103-31), shall
+32 also be accepted as a valid registration, if such form is postmarked not
+33 later than twenty-five (25) days prior to an election it is received no later
+34 than 5:00 p.m. on the eleventh day before the election.
+35 (5) The county clerk shall prepare and issue by first class nonforward-
+36 able mail to each elector registering by mail a verification of registration
+37 containing the name and residence of the elector and the name or number of the
+38 precinct in which the elector resides. A verification returned undeliver-
+39 able shall cause the county clerk to remove the elector's card from the reg-
+40 ister of electors.
+41 (6) As required by the help America vote act of 2002, (P.L. 107-252), a
+42 copy of proper identification will be required prior to issuance of a ballot
+43 to anyone who has registered by mail and has not previously voted in an elec-
+44 tion for federal office in the state. Proper identification shall meet the
+45 requirements of section 34-411(3) and (4), Idaho Code.
+46 SECTION 8. That Section 34-625, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+7
+1 34-625. ELECTION OF HIGHWAY DISTRICT COMMISSIONERS IN SINGLE COUNTY-
+2 WIDE DISTRICTS -- QUALIFICATIONS. (1) In each general election, highway dis-
+3 trict commissioners in single countywide districts shall be elected as pro-
+4 vided for in section 40-1404, Idaho Code.
+5 (2) No person shall be elected to the office of highway district commis-
+6 sioner unless he shall have attained the age of twenty-one (21) years at the
+7 time of his election, is a citizen of the United States, and shall be a res-
+8 ident of the highway district commissioner's subdistrict for which he seeks
+9 office.
+10 (3) Each candidate shall file a declaration of candidacy with the
+11 county clerk not less than ninety (90) days prior to the general election
+12 during the time period provided in section 34-1404, Idaho Code. Each dec-
+13 laration of candidacy shall also bear the following words: "I am a resident
+14 within the boundaries of Highway District Commissioner's Subdistrict Number
+15 ....."
+16 (4) Each candidate who files a declaration of candidacy shall at the
+17 same time pay a filing fee of ten dollars ($10.00) which shall be deposited in
+18 the county current expense fund.
+19 SECTION 9. That Section 34-625A, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 34-625A. ELECTION OF HIGHWAY DISTRICT COMMISSIONERS IN CERTAIN SINGLE
+22 COUNTYWIDE DISTRICTS -- QUALIFICATIONS. (1) In each general election, high-
+23 way district commissioners in single countywide districts shall be elected
+24 as provided for in section 40-1404A, Idaho Code.
+25 (2) No person shall be elected to the office of highway district commis-
+26 sioner unless he shall have attained the age of twenty-one (21) years at the
+27 time of his election, is a citizen of the United States, and shall be a res-
+28 ident of the highway district commissioner's subdistrict for which he seeks
+29 office.
+30 (3) Each candidate shall file a declaration of candidacy with the
+31 county clerk not less than ninety (90) days prior to the general election
+32 during the time period provided in section 34-1404, Idaho Code. Each dec-
+33 laration of candidacy shall also bear the following words: "I am a resident
+34 within the boundaries of Highway District Commissioner's Subdistrict Number
+35 ....."
+36 (4) Each candidate who files a declaration of candidacy shall at the
+37 same time pay a filing fee of ten dollars ($10.00) which shall be deposited in
+38 the county current expense fund.
+39 SECTION 10. That Section 34-702A, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 34-702A. DECLARATION OF INTENT FOR WRITE-IN CANDIDATES. (1) No
+42 write-in vote for any office in a primary, special, or general election
+43 shall be counted unless a completed declaration of intent form has been filed
+44 indicating that the person desires the office and is legally qualified to
+45 assume the duties of said office if elected. The declaration of intent shall
+46 be filed with the secretary of state if for a federal, state, or legislative
+47 district office and with the county clerk if for a county or party precinct
+
+8
+1 committeeman office. Such declaration of intent shall be filed no later than
+2 the ninth Friday before the day of election.
+3 (2) The declaration of intent for write-in candidates for federal,
+4 state, or legislative district offices shall be filed with the secretary
+5 of state no later than 5:00 p.m. on the eleventh Friday before the primary
+6 election.
+7 (3) The declaration of intent for write-in candidates for county or
+8 party precinct committeeman office shall be filed with the county clerk no
+9 later than 5:00 p.m. on the ninth Friday before the primary election.
+10 (4) For a write-in candidate for president, the declaration shall in-
+11 clude a certification of the write-in candidate's vice presidential and
+12 presidential electors, all of whom must be qualified to serve in their re-
+13 spective offices. The secretary of state shall prescribe the form for said
+14 declarations.
+15 (2) (5) In those counties that utilize optical scan ballots, an elector
+16 shall not place on the ballot a sticker bearing the name of a person or use any
+17 other method or device, except writing, to vote for a person whose name is not
+18 printed on the ballot.
+19 SECTION 11. That Section 34-704, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 34-704. DECLARATION OF CANDIDACY. (1) Any person legally qualified to
+22 hold such office is entitled to become a candidate and file his a declara-
+23 tion of candidacy. Each political party candidate for precinct, state, dis-
+24 trict or county office shall file his declaration of candidacy in the proper
+25 office between 8:00 a.m. on the twelfth Monday preceding the primary elec-
+26 tion and 5:00 p.m. on the tenth Friday preceding the primary election. All
+27 political party candidates shall declare their party affiliation in their
+28 declaration of candidacy and shall be affiliated with a party at the time of
+29 filing. A candidate shall be deemed affiliated with the political party if
+30 the candidate submits a party affiliation form along with the declaration of
+31 candidacy to the appropriate filing official. The filing official shall re-
+32 ject any declaration of candidacy for partisan office in a primary election
+33 from candidates who are not affiliated with a political party. Candidates
+34 for nonpartisan office shall file during the period provided for in this sec-
+35 tion.
+36 (2) Each political party candidate for federal, state, or legislative
+37 district office shall file a declaration of candidacy with the secretary of
+38 state's office between 8:00 a.m. on the thirteenth Monday before the primary
+39 election and 5:00 p.m. on the twelfth Friday before the primary election.
+40 (3) Each political party candidate for county or precinct committeeman
+41 office shall file a declaration of candidacy with the county clerk's office
+42 between 8:00 a.m. on the twelfth Monday before the primary election and 5:00
+43 p.m. on the tenth Friday before the primary election.
+44 (2) (4) Candidates who file a declaration of candidacy under a party
+45 name and are not nominated at the primary election shall not be allowed to ap-
+46 pear on the general election ballot under any other political party name, nor
+47 or as an independent candidate.
+48 (3) (5) Independent candidates shall file their declaration of candi-
+49 dacy in the manner provided in section 34-708, Idaho Code.
+
+9
+1 (4) (6) All information in declarations of candidacy shall be made pub-
+2 licly available upon request, except that the Idaho residential street ad-
+3 dress and telephone number of a judicial officer may be exempt from disclo-
+4 sure pursuant to sections 19-6202 and 74-106(30), Idaho Code.
+5 SECTION 12. That Section 34-705, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 34-705. WITH WHOM DECLARATIONS FILED. (1) All candidates for county
+8 offices, whether political party candidates or independent candidates, and
+9 all political party candidates for precinct offices shall file their decla-
+10 rations of candidacy with the county clerk of their respective counties. All
+11 candidates for district, state and federal offices shall file their declara-
+12 tions of candidacy with the secretary of state.
+13 (2) The secretary of state shall certify to the county clerks, within
+14 ten (10) days after the filing deadline no later than 5:00 p.m. on the tenth
+15 Friday before the primary election, the names of the political party candi-
+16 dates who filed for federal, state, and legislative district offices and are
+17 qualified for placement on the ballot.
+18 (3) The secretary of state shall certify the name of a candidate being
+19 appointed by the appropriate central committee pursuant to section 34-714,
+20 Idaho Code, by no later than the next business day after the appointment is
+21 received in the secretary of state's office, if received after the certifi-
+22 cation of candidates to the county clerks under subsection (2) of this sec-
+23 tion.
+24 SECTION 13. That Section 34-712, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 34-712. SAMPLE FORM FOR PRIMARY ELECTION BALLOTS. The secretary of
+27 state shall provide the sample form of the primary election ballot to each of
+28 the county clerks no later than forty (40) days prior to the primary no later
+29 than the ninth Friday before the primary election. The sample ballot shall
+30 contain the proper political party candidates to be voted upon on within
+31 the county whose declarations were filed and certified in the office of the
+32 secretary of state with instructions for the placing of political party
+33 candidates seeking the political party nomination for county and precinct
+34 offices. If a county is within more than one (1) legislative district, the
+35 secretary of state shall provide a sample ballot for each legislative dis-
+36 trict which that includes part of the county.
+37 SECTION 14. That Section 34-714, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 34-714. FILLING VACANCIES IN SLATE OF POLITICAL PARTY CANDIDATES OC-
+40 CURRING PRIOR TO PRIMARY ELECTION. (1) Vacancies that occur before the pri-
+41 mary election in the slate of candidates of any political party because of
+42 the death, disqualification for any reason, or withdrawal from the nomina-
+43 tion process by the candidate, shall be filled in the following manner if
+44 there is only one (1) candidate declared for that particular office:
+
+10
+1 (a) By the county central committee if the vacancy occurs for the office
+2 of precinct committeeman or for a county office.
+3 (b) By the legislative district central committee if the vacancy occurs
+4 for the office of state representative or state senator.
+5 (c) By the state central committee if the vacancy occurs for a federal
+6 or state office.
+7 The county and legislative district central committee shall fill the
+8 vacancy within fifteen (15) days from the date the vacancy occurred. The
+9 state central committee shall fill the vacancy within thirty (30) days from
+10 the date the vacancy occurred, but no later than 5:00 p.m. on the eighth
+11 Friday before the primary election.
+12 Any political party candidate so appointed by the proper central com-
+13 mittee must, in order to have his name on the primary ballot, file a declara-
+14 tion of candidacy and pay the required filing fee no later than 5:00 p.m. on
+15 the eighth Friday before the primary election.
+16 (2) No central committee shall fill any vacancy which that occurs
+17 within ten (10) days prior to after 5:00 p.m. on the eighth Friday before the
+18 primary election. Vacancies which that occur during this ten (10) day pe-
+19 riod after this date because of the death, disqualification for any reason,
+20 or withdrawal from the nomination process by the candidate shall be filled
+21 according to the provisions of section 34-715, Idaho Code.
+22 (3) Vacancies that occur in a slate of candidates for precinct commit-
+23 teeman within ten (10) days prior to after 5:00 p.m. on the eighth Friday be-
+24 fore the primary election shall not be filled.
+25 SECTION 15. That Section 34-715, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 34-715. FILLING OF VACANCIES OCCURRING BEFORE OR AFTER PRIMARY ELEC-
+28 TION. (1) Vacancies that occur during the ten (10) day period after 5:00 p.m.
+29 on the eighth Friday before a primary election, or after the primary election
+30 but at least ten (10) days before 5:00 p.m. on the eighth Friday before the
+31 general election in the slate of candidates of any political party because
+32 of the death or disqualification for any reason of a candidate, except can-
+33 didates for precinct committeeman, shall be filled in the following manner
+34 if there is only one (1) candidate declared from the political party for that
+35 particular office:
+36 (1) (a) By the county central committee if it is a vacancy by a candidate
+37 for a county office.
+38 (2) (b) By the legislative district central committee if it is a vacancy
+39 by a candidate for the state legislature.
+40 (3) (c) By the state central committee if it is a vacancy by a candidate
+41 for a federal or a state office.
+42 (d) If the party candidate for a particular office dies or is disquali-
+43 fied after 5:00 p.m. on the eighth Friday before the general election,
+44 such candidate's name shall remain on the ballot. If the deceased or
+45 disqualified candidate wins the general election, the resulting va-
+46 cancy shall be filled pursuant to chapter 9, title 59, Idaho Code.
+47 (2) The county and legislative district central committee shall fill
+48 the vacancy within fifteen (15) days from the date the vacancy occurred. The
+49 state central committee shall fill the vacancy within thirty (30) days from
+
+11
+1 the date the vacancy occurred, but no later than 5:00 p.m. on the eighth Fri-
+2 day before the general election.
+3 (3) Any political party candidate so appointed by the proper central
+4 committee must, in order to have his name on the general ballot, file a dec-
+5 laration of candidacy and pay the required filing fee no later than 5:00 p.m.
+6 on the eighth Friday before the general election.
+7 (4) Vacancies that occur in a slate of candidates for precinct commit-
+8 teeman within ten (10) days prior to after 5:00 p.m. on the eighth Friday be-
+9 fore the primary election shall not be filled.
+10 SECTION 16. That Section 34-717, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 34-717. WITHDRAWAL OF CANDIDACY. (1) A candidate for nomination or
+13 candidate for election to a partisan office may withdraw from the election
+14 by filing a notarized statement of withdrawal with the officer with whom his
+15 declaration of candidacy was filed. The statement must contain all informa-
+16 tion necessary to identify the candidate and the office sought and the reason
+17 for withdrawal. The filing officer shall immediately notify the proper
+18 central committee of the party, if any, of the individual withdrawing. A
+19 candidate may not withdraw later than forty-five (45) days before an elec-
+20 tion, except in the case of a primary election, when the deadline shall be
+21 no later than the eighth Friday preceding the primary election, or a general
+22 election, when the deadline shall be no later than September 7. Filing fees
+23 paid by the candidate shall not be refunded.
+24 (2) A candidate for federal, state, or legislative district office may
+25 not withdraw later than 5:00 p.m. on the eleventh Friday before a primary
+26 election or 5:00 p.m. on the ninth Friday before a general election. Filing
+27 fees paid by the candidate shall not be refunded.
+28 (3) A candidate for county or precinct committeeman office may not
+29 withdraw later than 5:00 p.m. on the ninth Friday before any election. Fil-
+30 ing fees paid by the candidate shall not be refunded.
+31 (2) (4) Any candidate who has filed a statement of withdrawal pursuant
+32 to this section shall not be allowed to be appointed to fill a vacancy unless
+33 such vacancy occurs because of the death of a previous candidate.
+34 SECTION 17. That Section 34-1012, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 34-1012. ALTERNATIVE PROCEDURES FOR ABSENTEE VOTING -- EARLY VOT-
+37 ING. (1) Those counties that utilize absentee voting facilities that have
+38 access to the Idaho statewide voter registration system and count ballots at
+39 a central location or utilize a polling location-based tabulation system may
+40 elect to conduct "early voting" according to the provisions of this section.
+41 For those counties that elect to do "early voting," early voting shall begin
+42 on or before after the third fourth Monday before the election and end at 5:00
+43 p.m. on the Friday before the election. Primary election ballots shall be
+44 issued pursuant to section 34-1002(2), Idaho Code.
+45 (2) A voter who appears at an "early voting" station to vote shall state
+46 his or her name and address to the election official and present the voter's
+47 identification as required by sections 34-1113 and 34-1114, Idaho Code.
+
+12
+1 (3) The election official shall examine the records to ascertain
+2 whether or not such applicant is registered and lawfully entitled to vote
+3 as requested. The provisions of section 34-408A, Idaho Code, authorizing
+4 election day registration shall also apply in determining the applicant's
+5 qualifications to vote.
+6 (4) Before receiving a ballot, each elector shall sign his or her name
+7 in the election register and poll book provided for early voting.
+8 (5) The elector shall then be given the appropriate ballots contain-
+9 ing the official election ballot identification pursuant to section 34-901,
+10 Idaho Code, and shall be given folding instructions for such ballots, if ap-
+11 propriate.
+12 (6) Upon receipt of the ballots, the elector shall retire to a vacant
+13 voting booth and mark the ballots according to the instructions provided.
+14 (7) After marking the ballot, the elector shall present himself or her-
+15 self to the election official at the ballot box and state his or her name and
+16 address. The elector shall then deposit the ballot in the ballot box or hand
+17 it to the election official, who shall deposit it. The election official
+18 shall then record that the elector has voted and proclaim the same in an audi-
+19 ble voice.
+20 (8) Voters requiring assistance shall be provided with such assistance
+21 in accordance with section 34-1108, Idaho Code.
+22 (9) Electioneering is prohibited at an early voting polling place as
+23 provided in section 18-2318, Idaho Code.
+24 SECTION 18. That Section 34-1205, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 34-1205. COUNTY BOARD OF CANVASSERS -- MEETINGS. The county board of
+27 commissioners shall be the county board of canvassers and the county clerk
+28 shall serve as their its secretary for this purpose. The county board of can-
+29 vassers shall meet within seven (7) nine (9) days after a primary election
+30 and within ten (10) days after a general an election for the purpose of can-
+31 vassing the election returns of all precincts within the county.
+32 SECTION 19. That Section 34-1404, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 34-1404. DECLARATION OF CANDIDACY. (1) Candidates for election in any
+35 political subdivision shall be nominated by nominating petitions, each of
+36 which shall bear the name of the nominee, the office for which the nomina-
+37 tion is made, the term for which nomination is made, and the signature of not
+38 less than five (5) electors of the candidate's specific zone or district of
+39 the political subdivision, and shall be filed with the clerk of the political
+40 subdivision.
+41 (2) The form of the nominating petition shall be as provided by the
+42 county clerk and shall be uniform for all political subdivisions.
+43 (3) For an election to be held on the third Tuesday in May, in even-
+44 numbered years, the The nomination petition shall be filed during the pe-
+45 riod specified in section 34-704, Idaho Code beginning at 8:00 a.m. on the
+46 twelfth Monday before the election and no later than 5:00 p.m. on the tenth
+47 Friday before such election. The clerk of the political subdivision shall
+
+13
+1 notify the county clerk within twenty-four (24) hours of receipt of the fil-
+2 ing and verify the qualifications of the nominees and shall, no more than
+3 seven (7) days after the close of filing, certify the nominees to be placed
+4 on the ballot of the political subdivision. For an election to be held on the
+5 first Tuesday after the first Monday of November, in even-numbered years,
+6 the nomination shall be filed on or before September 1. The clerk of the
+7 political subdivision shall verify the qualifications of the nominees and
+8 shall, no more than seven (7) days after the close of filing, certify the nom-
+9 inees to be placed on the ballot of the political subdivisions. For all other
+10 elections, the nomination shall be filed not later than 5:00 p.m. on the
+11 ninth Friday preceding the election for which the nomination is made. The
+12 clerk of the political subdivision shall verify the qualifications of the
+13 nominee and shall, no more than seven (7) days following the filing, certify
+14 the nominees to be placed on the ballot of the political subdivision.
+15 (2) (4) Nominating petitions shall include campaign contact informa-
+16 tion for candidates, including phone numbers and email addresses.
+17 (3) (5) All information in nominating petitions shall be made publicly
+18 available upon request.
+19 SECTION 20. That Section 34-1405A, Idaho Code, be, and the same is
+20 hereby amended to read as follows:
+21 34-1405A. WITHDRAWAL OF CANDIDACY. A candidate for nomination or can-
+22 didate for election to an office may withdraw from the election by filing a
+23 notarized statement of withdrawal with the officer with whom his declaration
+24 of candidacy was filed. The statement must contain all information neces-
+25 sary to identify the candidate and the office sought and the reason for with-
+26 drawal. A candidate may not withdraw later than forty-six (46) days 5:00
+27 p.m. on the ninth Friday before an election.
+28 SECTION 21. That Section 34-1407, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 34-1407. WRITE-IN CANDIDATES. (1) No write-in candidate for any non-
+31 partisan elective office shall be counted unless a declaration of intent has
+32 been filed indicating that the person desires the office and is legally qual-
+33 ified to assume the duties of the office. The declaration of intent shall be
+34 filed with the clerk of the political subdivision by no later than 5:00 p.m.
+35 on the eighth ninth Friday before the date of the election.
+36 (2) If the statutes governing elections within a specific political
+37 subdivision provide that no election shall be held in the event that no
+38 more than one (1) candidate has filed for an office, that statute shall be
+39 interpreted in such a manner as to allow for filing a declaration of intent
+40 for a write-in candidate until the eighth Friday preceding 5:00 p.m. on the
+41 ninth Friday before the election. However, if no candidate has filed within
+42 that time, no election shall be held for that political subdivision. The
+43 provisions of this section shall not apply to federal, state, or legislative
+44 district candidates in the primary or general election covered by the provi-
+45 sions of section 34-702A, Idaho Code.
+
+14
+1 SECTION 22. That Section 40-1305C, Idaho Code, be, and the same is
+2 hereby amended to read as follows:
+3 40-1305C. DECLARATION OF CANDIDACY -- QUALIFICATIONS. (1) Candidates
+4 for election as a highway district commissioner shall be nominated by nomi-
+5 nating petitions, each of which shall bear the name of the nominee, the sub-
+6 district for which the nomination is made, the term for which nomination is
+7 made, bear the signature of not no less than five (5) electors of the can-
+8 didate's specific subdistrict, and be filed with the election official of
+9 the highway district. The form of the nominating petition shall be as pro-
+10 vided by the county clerk. The nomination shall be filed not later than 5:00
+11 p.m. on the sixth Friday preceding the election for which the nomination is
+12 made. The election official shall during the time period provided in section
+13 34-1404, Idaho Code. The clerk of the political subdivision shall notify
+14 the county clerk within twenty-four (24) hours of receipt of the filing and
+15 verify the qualifications of the nominee, and shall not, no more than seven
+16 (7) days following the filing, shall certify the nominees to be placed on the
+17 ballot.
+18 (2) A nominee shall qualify for the office of highway district commis-
+19 sioner if such nominee:
+20 (a) Has attained the age of twenty-one (21) years at the time of his
+21 election; and
+22 (b) Is a citizen of the United States; and
+23 (c) Is a resident of the highway district commissioner's subdistrict
+24 for which he seeks office.
+25 SECTION 23. That Section 42-3211a, Idaho Code, be, and the same is
+26 hereby repealed.
+27 SECTION 24. That Section 50-407, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 50-407. FORM OF DECLARATION OF CANDIDACY. Declarations of candidacy
+30 and petitions of candidacy shall read substantially as herein set forth. Any
+31 number of separate petitions of candidacy may be circulated at the same time
+32 for any candidate and all petitions for each candidate shall be considered
+33 one (1) petition when filed with the city clerk. Each signer of a petition
+34 shall be a registered qualified elector.
+35 DECLARATION OF CANDIDACY
+36 I, the undersigned, affirm that I am a qualified elector of the City of
+37 ........., State of Idaho, and that I have resided in the city for at least
+38 thirty (30) days. I hereby declare myself to be a candidate for the office
+39 of ............., for a term of .... years, to be voted for at the election
+40 to be held on the .... day of ....., ...., and certify that I possess the
+41 legal qualifications to fill said office, and that my residence address is
+42 ...............
+43 (Signed) ........................
+44 Subscribed and sworn to before me this .... day of ........, .....
+
+15
+1 ................................
+2 Notary Public
+3 State of Idaho
+4 County of ........ ss.
+5 City of ..........
+6 PETITION OF CANDIDACY
+7 OF ..................................................................
+8 (NAME OF CANDIDATE)
+9 FOR OFFICE OF ........................................................
+10 This petition must be filed in the office of the City Clerk not no ear-
+11 lier than 8:00 a.m. on the eleventh twelfth Monday nor and no later than
+12 5:00 p.m. on the ninth tenth Friday immediately preceding before election
+13 day. The submitted petition must have affixed thereto the names of at least
+14 five (5) qualified electors who reside within the appropriate city.
+15 I, the undersigned, being a qualified elector of the City of
+16 .............., in the State of Idaho, do hereby certify and declare that I
+17 reside at the place set opposite my name and that I do hereby join in the pe-
+18 tition of .............., a candidate for the office of .................
+19 to be voted at the election to be held on the .... day of........., .....
+20 Signature of Petitioner Printed Name Residence Address Date Signed
+21 ..................... ............ ................. ...........
+22 ..................... ............ ................. ...........
+23 ..................... ............ ................. ...........
+24 ..................... ............ ................. ...........
+25 ..................... ............ ................. ...........
+26 ..................... ............ ................. ...........
+27 ..................... ............ ................. ...........
+28 ..................... ............ ................. ...........
+29 ..................... ............ ................. ...........
+30 ..................... ............ ................. ...........
+31 ..................... ............ ................. ...........
+32 ..................... ............ ................. ...........
+33 STATE OF IDAHO
+34 County of ....................
+
+16
+1 I, ......................, being first duly sworn, say: That I am a
+2 resident of the State of Idaho and at least eighteen (18) years of age; that
+3 every person who signed this sheet of the foregoing petition signed his or
+4 her name thereto in my presence; I believe that each has stated his or her
+5 name and residence address correctly; and that each signer is a qualified
+6 elector of the State of Idaho, and the City of ....................
+7 Signed ...........................
+8 Address ..........................
+9 Subscribed and sworn to before me this ...... day of ......., .....
+10 Signed Notary Public ...............................
+11 Residing at ........................................
+12 Commission expires .................................
+13 (Notary Seal)
+14 SECTION 25. That Section 50-410, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 50-410. TIME AND MANNER OF FILING DECLARATIONS. (1) All declarations
+17 of candidacy for elective city offices shall be filed with the clerk of the
+18 respective city wherein the elections are to be held not earlier than 8:00
+19 a.m. on the eleventh Monday nor later than 5:00 p.m. on the ninth Friday,
+20 immediately preceding election day during the time period provided in sec-
+21 tion 34-1404, Idaho Code. Before a candidate files a petition of candidacy
+22 with the city clerk, the petition signatures shall be verified by the county
+23 clerk in the manner described in section 34-1807, Idaho Code, except that the
+24 city clerk shall stand in place of the secretary of state. Before any dec-
+25 laration of candidacy and filing fee or petition of candidacy mentioned in
+26 section 50-407, Idaho Code, can be filed, the city clerk shall ascertain that
+27 it conforms to the provisions of chapter 4, title 50, Idaho Code. The city
+28 clerk shall not accept any declarations of candidacy after 5:00 p.m. on the
+29 ninth Friday immediately preceding election day. Write-in candidates shall
+30 be governed by section 34-702A 34-1407, Idaho Code, but shall file the decla-
+31 rations required in that section with the city clerk.
+32 (2) A person shall not be permitted to file a declaration of candidacy
+33 for more than one (1) office in any city election.
+34 SECTION 26. That Section 67-4911, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 67-4911. ELECTIONS -- TERMS OF OFFICE. (1) On an election date as pro-
+37 vided for in section 34-106(1), Idaho Code, in May of the first odd-numbered
+38 year after the organization of any district, and every second year there-
+39 after, an election shall be held, which shall be known as the biennial elec-
+40 tion of the district.
+41 (2) At the first biennial election in any district hereafter organized,
+42 and each sixth year thereafter, there shall be elected by the qualified elec-
+43 tors of the district, one (1) member of the board to serve for a term of six
+44 (6) years; at the second biennial election and each sixth year thereafter,
+
+17
+1 there shall be elected two (2) members of the board to serve for terms of six
+2 (6) years, and at the third biennial election, and each sixth year there-
+3 after, there shall be elected two (2) members of the board to serve for terms
+4 of six (6) years. Provided, a member of the board once in office shall serve
+5 until his successor is elected, qualified and takes office.
+6 (3) Not later than 5:00 p.m. on the ninth Friday before any such elec-
+7 tion, nominations may be filed with the secretary of the board. Nominations
+8 may be filed during the time period provided in section 34-1404, Idaho Code.
+9 The county clerk shall provide for holding such election and shall appoint
+10 judges to conduct it. The county clerk shall give notice of election by pub-
+11 lication, and shall arrange such other details in connection therewith. Ad-
+12 equate polling places shall be provided throughout the district boundaries
+13 for all elections.
+14 (4) The returns of the election shall be certified to and shall be
+15 canvassed and declared by the board of county commissioners which shall
+16 report the results to the district. The candidate or candidates, according
+17 to the number of directors to be elected, receiving the most votes, shall
+18 be elected. Any new member of the board shall qualify in the same manner as
+19 members of the first board qualify.
+20 (5) In any election for director, if after the deadline for filing a
+21 declaration of intent as a write-in candidate, it appears that the number of
+22 qualified candidates who have been nominated is equal to the number of di-
+23 rectors to be elected, it shall not be necessary for the candidates to stand
+24 for election, and the board shall declare such candidates elected as direc-
+25 tors, and the secretary of the board shall immediately make and deliver to
+26 such persons certificates of election signed by him and bearing the seal of
+27 the district.
+28 SECTION 27. That Section 70-1108, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 70-1108. DISTRICT FORMATION. Within five (5) nine (9) days after such
+31 election the board of county commissioners shall canvass the returns; and,
+32 if at such election a majority of the voters voting upon on such proposition
+33 shall vote in favor of the formation of such district, the board of county
+34 commissioners shall so declare in its canvass of the returns of such elec-
+35 tion, and such port district shall thereupon be and become a municipal corpo-
+36 ration of the state of Idaho and the name of each port district shall be "Port
+37 of ...." (inserting the name appearing on the ballot).
+38 SECTION 28. That Section 19-6203, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 19-6203. ADDRESS CONFIDENTIALITY -- ELIGIBILITY. (1) Judicial offi-
+41 cers desiring that their Idaho residential street address and telephone num-
+42 ber and the Idaho residential street address and telephone number of their
+43 residing household members be exempt from disclosure pursuant to this chap-
+44 ter and sections 34-704(4) 34-704(6) and 74-106(30), Idaho Code, may submit
+45 an application and a fee, if any, to the custodian of the public record that
+46 contains such information. Upon receipt of such application and fee, the
+47 public agency shall comply with the provisions of this chapter for a period
+
+18
+1 of four (4) years. Thereafter, judicial officers may renew the exemption by
+2 submitting a new application and fee, if any. The public agency may estab-
+3 lish a fee schedule not to exceed the actual cost to the agency of complying
+4 with the provisions of this chapter.
+5 (2) Judicial officers may submit an application to a public agency
+6 requesting that the public agency use an alternative Idaho mailing address
+7 rather than the Idaho residential street address of any such officer and of
+8 any such officer's residing household members on all applications and on
+9 all identification cards, licenses, certificates, permits, tags, and other
+10 similar documents that are issued to the officer or to such officer's resid-
+11 ing household members by the public agency. A public agency receiving such
+12 application shall comply with the request.
+13 (3) A person shall cease to be eligible for an exemption under this
+14 chapter if such person ceases to be a judicial officer or a residing house-
+15 hold member. Within thirty (30) days of such cessation, the person shall
+16 notify, in writing, every public agency to which the person has made an ap-
+17 plication stating that he is no longer eligible for such exemption. If a
+18 judicial officer changes employment but is still eligible for an exemption
+19 under this chapter, such judicial officer shall, within thirty (30) days
+20 of changing employment, submit a new application to every public agency to
+21 which such officer has made an application.
+22 (4) Nothing in this chapter shall prevent a public agency from obtain-
+23 ing the Idaho residential street address and telephone number of a judicial
+24 officer and of any residing household member. A judicial officer who has
+25 submitted an application pursuant to the provisions of this chapter shall
+26 provide his current Idaho residential street address to his employing en-
+27 tity. The judicial officer's employing entity, or any public agency that has
+28 obtained the Idaho residential street address of a judicial officer, shall
+29 upon request identify the county in which the judicial officer's Idaho resi-
+30 dential street address is situated.
+31 SECTION 29. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOE;AGSN1,IOC,TOREPSRGTEFGOFDSOFCYBYMGSN3,IOC,TOREPSRGTEFGOFDSOFITBYCSINRTE;AGSN3,IOC,TORPNRGTEDETOCSCNRSADTETLC;AGSN3,IOC,TEPSRGTEFGOFDSOFITBNCSINLYDTTEE;AN3,IOC,TOREPSRGCYADRLESADTOMETLC;AN3,IOC,TOREPSRGTEDORRTOVEINTEOEOFTECYC;AGSN3,IOC,TOREPSRGTEDORRTOVEBYMLADTOMETLC;AN3,IOC,TOREPSRGTEDETOFEDSOFCYINHYDTC;AGSN3,IOC,TOREPGTEDETOFEDSOFCYINCECEHYDTCRE;AN3,IOC,TOREPSRGDSOFITFRWNC;AGSN3,I,TOREPSRGTEFGOFCNDFCYINPYESADTOMEATLCGSN3,IOC,TOREPSREFGOFCNDSOFCYINCYEGSN3,IOC,TOREPSREDETOPECYCSWHCNSEFMPNBSADTOMETLC;AGS,IOC,TOREPSRGCNDRFGVSINSEOFPLPYCSORTOPYESADTOMETLC;AGSN3,IOC,TOREPSRGCSFRFGOFVSOGBEORARP;AGSN3,IOC,TOREPGCNCEW;AGSN3OC,TOREPSRGAEPSFEVGADEYVGADTOMEATLCGSN3,IOC,TOREPSRNTECYBDOFCSM;AGSN3OC,TOREPSRGDSOFCDTOMETLC;AGSN3,I,TOREPSRGDSFRCNC;AGSN3,IOC,TOREP]
+[DELETED: SRGTEFGOFDSOFITBYW;AGSN4,IOC,TOREPSRGTEDSTOFECNNGPSFYDTCRC;RGSN4OC,RGTOENOFT;AGSN5OC,TOREPSRGTEDSFRFSOFCYADPSOFCYFRCNMLE;AGSN5,IOC,TORSRGTEFGOFDSOFCYFRCNCYE;AGSN6,IOC,TORSRGTEFGOFNSFRAMDDE;AGSN7,IOC,TOREAPNRGTEDETOCSRSADTOMEAT;AGSN1,IOC,TOPEACER;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtSn1,IoC,b,adteseishdtordasf.RNORNNOFMEBYV.Aymeadpttotepsofsn1,IoCdsn1,IoC,slsdfroeinteftglenntsgteenofteen()mdedpttosn1,IoC.Aym,ntlstnny()dsprtotehgofteglenntpgteenofhstmofo,dgtetdpdinsn3,IoC,feinteoeoftyckoftecyfrwhheisartm,adbyafgfeoffyds(,adnofcosdh.Ifadnisntsofdbyaym,tyrgfmteenofhstmofoeslbefyatashnp,etttaymewodsneslbeiefratwntesejldlfrto()ysfgteenofhslttmofoee.Ifshadnisf,hsneslbesdaentglentotevseetovewntecrwhheisa,onannjlb,wtp,whslrlMe..(eitteneoftem)o.(eitteneoftec)Cyofte..(ttejldtn)JlDtberno"(epnistobemefrvg""or"evsslbecdaspdincr1,te3,Ifamyoftevgonteqnveatrghno,unteenofhstmofo,avyslehslbefdbyataspdinsn1,I]
+[DELETED: ,ettttementrdinoeslbeiefratwntesejldtulfrto()ygteenofhslttmofoeheefamyoftevgonteqnvefrrghmi,tecycksliehmaceofenaspdinsn3,IoC,adsdmes,usrdfrc,rninoefranaltmoffr()ydatteenofehshfr()yrtmslbeeefninoebyenintemrhnpN2.TtSn3,IoC,b,adteseishdtordasf.ENOFD.()AnenofdsslbdinehdtonteTysgteftMyofNfehody.Shenslbehdincywe3,IoC.Beteneofenisg,tebdsetedtiossasnyelinpnaspetobeddasdsst1,2ad3,ordt1,2,3,4ad5,dgunontenrofsnted.Ehngpnslsetestfhteneisn)Inayenfrdsi,arteenoftedrfgwnnsfrteoeofd,itastyoe()qdcehsbnndfrehpntobdadifnodnofithsbnfdaspdinsn()oftss,itslntbenytohdane,aebdofdss,nolrtnsn()dsbetesddeoftee,deshceedasd,aesyofterndtbdsliymeartoshpnaceofe)Nownvefrrndtdrslbecsadnofithsbnfdigtttepsteoeadislyqdtoaetedsofrndtdrife.Tednofitslbefhterndtbdsyntlrtnfe(sbetedyofendgtetepdpdins,IoCN3.TtSn3,IoC,b,adteseishdtordasf.CTOFE.Untecycsheteorrdtoinsn()ofsn3,IoCeckoftebdofcycsslcetobepdeofanentobehdfrtepeofdgwrornepdlydtslbeedurtepsosc.Tedeoftsenslbetentumeeaspdfrinsn3,IoC.Wrmetno)pnispdtotecycscgfranentocelyd,teftpdsltep]
+[DELETED: eofteenslbeg,teenslbec,aerstfcdaspdfrincr1,te3,I,adurteglenlsofteseofI.Teblcntews")LyD"ad")L,ehfdbyabxwntevrmyeshebymgacs""".Tebdorbsofensersadcyterstotebsofcycnte()dsartee,adtebdofcycss,wnsn()dsartee,csterfamyofalvsctbeintea,tebdofcss,wnsn()ne()dsartershnc,eranordgtelydtegisneadbsigamppdinadem.Tebdofcycsslttacyoftrtotecyr,cya,adtesetxcnatym,btnolrtnDr1,intecryrihteenwsh.AcyofteorslaobetdtebdoflycN4.TtSn3,IoC,b,adteseishdtordasf.DNOFITFRWNC.Nowefrlydtteinalydtenslbdusadnofithsbnfdigtttndsteoeadislyqdtoaetedsoyteife.Tednofitslbefdweckoftelybdntlrtnfe()dsbetyofendgtetepdpdinsn3,IN5.TtSn3,IoC,b,adteseishdtordasf.LNUNONE.OnadarJy1,2gayorpsoftelwtotec,tesenometnto()escdinaycyinayc,etaspdintssnorsn3,IoC,atttestoflvsinteUdSsheofrsslbehdaspdintegsp)Tedsonwhesmybecda)TetdTyinMyofehy;a)TeTyfgteftMyinNrofehy)Inantoteessdinps()ad()ossnadsn()oftss,aneyenmybecdunmnofteggbdofapls.Aneyeswnteisagtpcchasaneyf,f,s,e,orord,orwnitisnytodoeywktopefrnrlldeortosdl,hhorp]
+[DELETED: )CsfroeedinMyslteoeonteddinteceofenbtntmetnsy()dgtee)CsfroeedinNrslteoeaspdintecnoronJy1ntsgteNre)Teggbdofehplsnsttotsoftssnt,prtoJy1,2,cdanenfrmsofttggbdonadeortnadepdinsn()oftssnslehasteendrttplsntedeadinsn()oftnttfsnttedeonwheswepyc,usardeisedbyl)Tesyofseisadtopeshaeayadtopeayndrsorisfrtectofanenadurtepsoftss)Wrdsgdbycr6,te4,IoC,aeetfmtepsoftss)Cycsgdbycr2,te3,IoCdsldsaesttotelssdins)oftss)AcyieorrmenslbehdonteTyfgteftMyinNrofody.Aceorrmenorab,lyadayororbnesencdbyayplsnslbdontentdeadinsn()oftssntsmetnsy()dsarteckofteplssttshenslbehdinMyorNrofesormetnfy()dsarteorfraloresoepdbyl.Btaslgastebtlefyqntobepdontebtslbeissdtoteckatltsy()dsbeanenhdinMyorNrodysadatltfy()dsbealoreolrtn50p.ontethFybetee)Rlesmybehdonayoftete()dsadinss()ad()sn()oftssnttfetnfe()dsarteckofteplssttshenslbehdaslgasterlpniscdnolrtntethFybetentsde)Indsgdbyte4,IoC,aesotelssdinsn()oftss,ettndsmyaohdanenonteftTyinFyofehyradonteftTyinAtofehyronqdtobevdunonbyte4,IoCN6.TtSn3,IoC,b,adteseishdtordasf.CGOFRR--TEL.()Noermyrrinteoeoftecyckwntr()dspgar50p.onteehdybeayenhdt]
+[DELETED: ttecyinwhhersfrtepeofvgatshe;pdh,al,aeadcernanrdinteoeoftecyckdgtet)en()dypdpganenslbeadadhytecyckultedyfgteenwnr,atwhteternslbee.Tsdeslaoaytoayrstecyckmyhea)Ayerwowlcehsrertoraerevgaedgtepdwnterrofesidmyrrprtotecgofter)Ngsn()oftss,anilwseetovemyaor,uncgarnanadsgpfofiyadrepttos,IoC,atteate'pgpepdinsn3,IoC,orataneyvgsnpdins,IoCN7.TtSn3,IoC,b,adteseishdtordasf.MLR.()Ayermyrrbymlfye.Aymlrnanmtberdbytyckprtoteceofrnaspdins,IoC,pdttaymlrnanpdntlrtnte()dsprtoanenslbdt)Tesyofseslpetefmfrtemlrna)Temlanfmslbeaefrdhgladpee,whpresonmgtmaefrodvrrnp)Ayflmlrnfmadpttotepsoftenlvrrnatof1,(.1,sobeadasavdr,ifshfmispdnrtnte()dsprtoanenitisrdnoln50p.onteehdybetee)Tecyckslpeadiebyftcsnemltoeherrgbymlavnofrgteneadreofteeradteneornrofttinwhteerr.Avnrdueslcetecycktoreteescdfmterrofe)AsrdbytehpAaveatof2,(.1,yofprinwlberdprtoieofaboaewohsrdbymladhsntpyvdinanenfrfloeintes.Prinslmttsofsn3)ad(,IoCN8.TtSn3,IoC,b,adteseishdtordasf]
+[DELETED: .ENOFHYDTCSINSECEDS--Q.()Inehgle,hydtcsinsecedsslbeedaspdfrinsn4,IoC)Nopnslbeedtoteoeofhydtcrusheslheadteaeofte()ysatteofhse,isacnofteUdS,adslbeartoftehydtcsstfrwhhes)Ehceslfeadnofcywhtyckntlstnny()dsprtoteglegtetepdpdinsn3,IoC.Ehdnofcyslaobrtefgw:"IamarntebsofHyDtCsStN)Ehcewofsadnofcyslattetepyafgfeoftnds()whslbeddiecycteefN9.TtSn3,IoC,b,adteseishdtordasf.ENOFHYDTCSINCNSEDS--Q.()Inehgle,hydtcsinsecedsslbeespdfrinsn4,IoC)Nopnslbeedtoteoeofhydtcrusheslheadteaeofte()ysatteofhse,isacnofteUdS,adslbeartoftehydtcsstfrwhhes)Ehceslfeadnofcywhtyckntlstnny()dsprtoteglegtetepdpdinsn3,IoC.Ehdnofcyslaobrtefgw:"IamarntebsofHyDtCsStN)Ehcewofsadnofcyslattetepyafgfeoftnds()whslbeddiecycteefN1.TtSn3,IoC,b,adteseishdtordasf.DNOFITFRWNC.()Nnvefrayoeinap,s,orglelbecdusacddnofitfmhsbnfgtttepndsteoeadislyqdtetedsofsdoeife.Tednofitsefdwhtesyofseiffraf,s,orltoeadwhtecyckiffracyorpyp]
+[DELETED: no.ShdnofitslbefdnolrtenhFybetedyofe)Tednofitfrwncsfrf,orledtosslbefdwhtesfsenolrtn50p.onteehFybetep)Tednofitfrwncsfrcyoyptcnoeslbefdwhtecycknrtn50p.ontenhFybetepye)Frawncefrp,tednslieacnoftewncsveplale,alofwmmtbeqdtoseintrreo.Tesyofseslpetefmfrs)()Intecsttueolsnb,anelntpeontebtasrbgteneofapnoruearmdord,etw,tovefrapnweneisndontebN1.TtSn3,IoC,b,adteseishdtordasf.DNOFC.()Aypnlyqdtdshoeisedtobeaceadfehsadnofc.Ehplpycefrp,s,dtorcyoeslfehsdnofcyintepebn80a.ontethMypgtepyenad50p.ontethFypgtepye.Alpycssldetrpyanintnofcyadslbeadwhapyatteteo.Aceslbeddadwhteplpyiecessapyanfmagwhtednoytoteaefgo.Tefgolslrtaydnofcyfrpnoeinapyemcswoaentadwhaplp.Crnnoeslfedgtepdpdfrintsshplpycefrf,s,orltoeslfeadnofcywhtesyosoebn80a.ontethMybetepnad50p.ontethFybetepye)Ehplpycefrcyorptceslfeadnofcywhtecycson80a.ontethMybetepyenad5.ontethFybetepye)()Cswofeadnofcyurapeadaentndattepyenslntbeadtoaronteglenbturayorplpyn,nrasanitc)()Itcsslfetrdnofcyintemrpdinsn3,IoC]
+[DELETED: )()Alinindsofcyslbemepyaeunr,etttteIorlstasadtenrofajlormybeetfmdepttoss12ad7,IoCN1.TtSn3,IoC,b,adteseishdtordasf.WHWMDSF.()Alcsfrc,wrplpycsoritc,alplpycsfrptosslfetrdsofcywhtecyckoftrrec.Asfrd,seadflosslfetrdsofcywhtesyofs)Tesyofseslcytotecyc,wn()dsartefgdenolrtn50p.ontetybetepye,tensofteplpycswofdfrf,s,adledtosadadfrptonteb)Tesyofseslcyteneofacebdbyteaeclcepttosn3oC,bynolrtntentbsdyarteatidintesyofsso,ifrdartecnofcstotecycsursn()oftssN1.TtSn3,IoC,b,adteseishdtordasf.SEFMFRPYENB.Tesyoeslpetesefmoftepyenbttoehoecycsnolrtnfy()dsprtotepynolntenhFybetepye.Tesebtsnteprplpycstobevdunonwecywedswefdadcdinteoeoftyofsewhisfrtepgofplpssgteplpynnfrcyadp.Ifacyiswnmetnoe()led,tyofseslpeasebtfrehledtwhttisptoftecN1.TtSn3,IoC,b,adteseishdtordasf.FGVSINSEOFPLPYCSOGPRTOPYE.()Vsttorbetepyeninteseofcsofayplpybeoed,dnfrayr,orwlfmtennpsbytec,slbefdintefgmrieisoyoe()ceddfrttpro]
+[DELETED: )Bytecyclceiftevyosfrteofptcnorfracyo)Byteledtclceiftevyorteoeofsereorses)Byteseclceiftevyosfrafrseoecyadledtclceslfltywnfn()dsfmtedetevyo.Teclceslfltevywnty()dsfedetevyo,btnolrtn50p.onteeybetepyeyplpycesoadbyteprclcem,inortohehsneontepyb,feadnofcyadpyterdfgfenolrtn50p.oeehFybetepye)Noclceslflayvywhttontn()dsprtoar50p.onteehFybetye.Vswhttordgtstn()dypdartsdebeofted,dnfrayrrwlfmtennpsbyteceslbefgtotepsofsn3,IoC)Vsttorinaseofcsfrptcnwntn()dsprtoar50p.onteehFybetepyenslntbefN1.TtSn3,IoC,b,adteseishdtordasf.FGOFVSOGBEORARPYE.()Vsttordgtetn()dypdar50pnteehFybeapye,orartepyetatlttn()dsbe50p.onteehFybetleninteseofcsofayplpybftedhordnfrayrnofac,etcsfrptc,slbefdintefgmfteisoyoe()ceddfmteplpyfrtro)Bytecyclceifitisavybyacracyo)()Byteledtclceifitisavyacefrtesel)()Byteseclceifitisavybyacrafloraseo)Iftepycefraproedsorisddar50p.onteehFybeteglehcsneslrnonteb.Ifteddodcewstegle,tergvyslbefdpttocr9,te5,IoC)Tecyadledtclceslfevywnfn()dsfmtedetevyo.Teclceslfltevywnty()dsf]
+[DELETED: edetevyo,btnolrtn50p.onteehFybetegle)Ayplpycesoadbyteprcem,inortohehsneonteglb,feadnofcyadpyterdfgfenolrtn50pnteehFybetegle)Vsttorinaseofcsfrptcnwntn()dsprtoar50p.onteehFybetepyenslntbefN1.TtSn3,IoC,b,adteseishdtordasf.WLOFC.()Acefrnnoefrentoapnoemywwfmteeyfgandstofwlwhteorwhwmhnofcywsf.Testmtcnalinnytoiyteceadteoestadterrw.Tefgorsliynyteplceoftep,ifa,ofteilw.emyntwwlrtnfe()dsbeane,etinteceofapye,wntedeslbolrtnteehFypgtepye,orag,wntedeslbenolrtnSr7.Fgfdbyteceslntber)Acefrf,s,orledtoemtwwlrtn50p.onteehFybeapnor50p.ontenhFybeagle.Fspdbyteceslntber)Acefrcyorptcnoemynwlrtn50p.ontenhFybeaye.Fgfspdbyteceslntber)()AycewohsfdastofwlpotssnslntbeadtobeadtoflavyuhvyosbeoftedhofapscN1.TtSn3,IoC,b,adteseishdtordasf.AEPSFRAEVG--EYV.()TecsttueaevgfstthstoteIosevrrnsmadctbsacllnorueapgldtnsmmttoct"yv"agtotepsoftssrtecsttettodo"yv"eyvgslbnorbeartetdfhMybeteenadedat5.onteFybetee.Pyenbsslbdpttosn3,IoC)Avrwoasatan"yv"sntoveslssorhrneadastoteenoladpttevnasrdbyss33ad3,IoC]
+[DELETED: )Teenolsleeterstoarorntshatisrdadlyedtovsr.Tepsofsn3,IoC,andyrnslaoayindgteastov)Bergab,eherslsnhsorhrnnteenrradplbkpdfreyv)Teersltnbegnteaebscgteolenbtinpttosn3oC,adslbegnfgisfrshb,ifa)Unrtofteb,teerslretoavgbhadmktebsagtoteisp)Armgteb,teerslpthforhftoteenolattebtbxadsehsorhrnea.Teersltndttebtintebtbxorhttoteeno,wosldti.Teenoltnrdttteerhsvdadpmteseinanaev)Vsrgaeslbepdwhshanaewhsn3,IoC)Egispdataneyvgpgpeadinsn1,IoCN1.TtSn3,IoC,b,adteseishdtordasf.CYBDOFCS--M.Tecybdosslbetecybdofcsadtecyclseastrissyfrtsp.Tecybdofcsslmtwnsn()ne()dsarapyedwntn()dsaraglanenfrtepeofcgteenrsofalpswntecN1.TtSn3,IoC,b,adteseishdtordasf.DNOFC.()Csfreninalsnslbendbyngp,ehohslbrteneoften,teoefrwhtennism,tetmfrwhnnism,adteseofnstnfe()esoftecssczeordtoepls,adslbefdwhteckoftep)Tefmoftengpnslbeaspdbytyckadslbeumfralpls)FranentobehdontetdTyinM,inedy,teTennpnslbefddgtepdsdinsn3,IoCebgat80a.onthMybeteenadnolrtn50p.ontetybeshe.Teckofteplsns]
+[DELETED: ytecyckwntr()hsofrtoftefgadvyteqsoftensads,nometn()dsarteceoff,cytenstobepntebtoftepls.FranentobehdonttTyarteftMyofN,inedyennslbefdonorbeSr1.Teckoftlsnslvyteqsoftensa,nometnsn()dsarteceoff,cytenstobepdontebtoftepls.Fralo,tennslbefdntlrtn50p.onthFypgteenfrwhtennism.Tkofteplsnslvyteqsofteads,nometnsn()dsfgtef,censtobepdontebtoftepls)()Ngpssliecnctinfrc,igpensadela)()AlininngpsslbemepeunrN2.TtSn3,IoC,b,adteseiyadtordasf.WLOFC.Acefrnnorcefrentoanoemywwfmteenbyfgdstofwlwhteorwhwmhsdfcywsf.Testmtcnalinnytoiyteceadteoestadternfrw.Acemyntwwlrtnfx()ds5.ontenhFybeaneN2.TtSn3,IoC,b,adteseishdtordasf.WNC.()Nowncefraynneeoeslbecdusadnofithnfdigtttepndsteoeadislyqdtoaetedsofteo.Tednofitslbdwhteckofteplsnbynolrtn50pnteehnhFybetedeoftee)Iftessggeswnascpnpettnoenslbehdinteetttnetnoe()cehsfdfrano,ttseslbdinshamrastoawfrfgadnofirawnceulteehFypg50p.onthFybetee.H,ifnocehsfdwtt,noenslbehdfrttpls.Tsoftssnslntaytof,s,orltcsintepyorglencdbytepsofsn3,IoC]
+[DELETED: N2.TtSn4,IoC,b,adteseiyadtordasf.DNOFCY--Q.()Crenasahydtcrslbendbyngp,ehofwhslbrteneoften,testfrwhtennism,tetmfrwhnni,brteseofntnolstnfe()esoftecsscs,adbefdwhteenoloehyd.Tefmoftengpnslbeaspdbytecyc.Tennslbefdntlrtn5.onteshFypgteenfrwhtenni.Teenolsldgtetepdpdins,IoC.Teckofteplsnslnecyckwntr()hsofrtoftefgayteqsoften,adsln,nometns)dsfgtef,slcytenstobepdont)Aneslqyfrteoeofhydtcrifshn)Hsadteaeofte()ysatteteofh;a)IsacnofteUdS;a)IsartoftehydtcssrwhhessoN2.TtSn4,IoC,b,adteseiyrN2.TtSn5,IoC,b,adteseishdtordasf.FMOFDNOFC.Dsofcdpsofcyslrdsyashnstf.Arofsepsofcymybecdattesetrayceadalpsfrehceslbece()pnwnfdwhtecyc.EhsrofaplbeardqdeNOFC,teu,amttIamaqderofteCyo,SeofI,adttIherdintecyfratly()d.Ihydemftobeacefrteof.,fratmof..y,tobevdfratteeobehdonte..dyof.,.,adcyttIpstlqstoflsdo,adttmyreasi).dadsntobemets..dyof.,.]
+[DELETED: yPeofIyof..syof.NOFCF.EOFCROEOF.spnmtbefdinteoeofteCyCkntnoertn80a.onteehthMynradnolrt0p.ontenhthFyiypgbee.Tesdpnmtheadtotensofatle()qdesworewnteaec,teu,bgaqderofteCyo,inteSeofI,dohycyaddetteattepestoemyneadttIdohyjnintepnof.,acefrteoeof.obevdatteentobehdonte..dyo,.eofPdNeReAeS........................................................................EOFIyof.]
+[DELETED: ,.,bgftdys,s:TtIamtofteSeofIoadatlten()ysofa;typnwosdtsstoftefgpnsdhsornetoinmyp;Ibettehhssdhsorheadreasc;adttehsrisaqrofteSeofI,adteCyof.d.s.dadsntobemets..dyof.,.dNyPc.gat.nes.ySN2.TtSn5,IoC,b,adteseishdtordasf.TEADMROFFGD.()Aldfcyfreecyosslbefdwhteckoftecywnteesaetobehdntertn8.onteehMynrlrtn50p.ontenhFypgendydgtetepdpdinsn3,IoC.Beacefsapnofchtecyc,tepnssslbevdbyteckintemrddinsn3,IoC,ettttyckslsdinpeoftesyofs.Beaydnofcyadfgfeorpnofcymdin5,IoC,cnbef,tecyckslanttcstotepsofcr4,te5,IoC.Teckslntataydsofcyar50p.onthFyiypgend.Wncssegdbysn3A3,IoC,btslfetedsrdinttsnwhtecyc)Apnslntbepdtofeadnofcrmetnoe()oeinaycyeN2.TtSn6,IoC,b,adteseishdtordasf.ES--TSOFO.()Onanendeaspdfrinsn3,IoC,inMyofteftorarteonofayd,adeysdyrt,anenslbeh,whslbeknasteblenofted)Atteftbleninaydthrodehshyrt,teslbeedbyteqdesofted,oe()mroftebdtosefratmofs)y;attesdblenadehshyrt]
+[DELETED: eslbeedto()msoftebdtosefrtsofs)y,adattetdble,adehshyrt,teslbeedto()msoftebdtosefrtfsx()y.P,amroftebdoeinoeslslhssrise,qdadtso)Ntlrtn50p.ontenhFybeayshe,nsmybefdwhtesyofteb.Nybefddgtetepdpdinsn3,IoCecyckslpefrhgshenadslastocti.Tecyckslgeneofenbyp,adslaeshordsincnt.Aepgpsslbepdtttedtbrale)Tersofteenslbecdtoadslbdadddbytebdofcycswhstterstoted.Teceorc,aotenrofdstobee,rgtemtv,see.Aynwmroftebdslqyintesemrasofteftbdq)Inayenfrd,ifartedefrfgnofitasawnc,itastttenrodcswohebnndiseltotenrofdstobee,itslntbenyfrtecstosre,adtebdsldeshcsedasd,adtesyoftebdsliymeaddrthpscsofensdbyhmadbgtesloedN2.TtSn7,IoC,b,adteseishdtordasf.DTF.Wnfe()ne()dsarsntebdofcycsslcster;afatshenamyoftevsvgunonshplveinfroftefnofshd,tebdofcsslsodeiniscsoftersofshe,adshptdtsltnbeadbeamlcnofteseofIoadteneofehptdtslbe"f."(gteneagontebN2.TtSn1,IoC,b,adteseishdtordasf.ASCY--E.()JlosdgtttrIorlstasadtenradteIorlstasadtenroftghdmsbeetfmdepttotscradss3)3)ad7,IoC,mysnanadaf,ifa,totecnoftepcrdtsshi.Unrtofshanadf,tcayslcywhtepsoftscrfrap]
+[DELETED: ffr()y.T,jlosmyrwteenbganwanadf,ifa.Tepcaymyehafesenttoedtealcttoteayofchtepsoftsc)JlosmystanantoapcagtttepcayueanaeIomgartnteIorlstasofayshoradoyshosrghdmsonalasadolinc,l,c,p,t,adordsttaeidtoteorortoshosrghdmsbytepca.Apcayrgsnslcywhter)Apnslcetobeeefranenurtrifshpncstobeajlororarghdm.Wnty()dsofshc,tepns,inw,eypcaytowhtepnhsmeanansgttheisnolreefrshe.Iflorcsetbtissleefranertsc,shjlors,wnty()dfcge,stanwantoeypcaythshorhsmeana)NgintscrslptapcayfmogteIorlstasadtenrofajradofayrghdm.AjlorwohdananpttotepsoftscrsehsctIorlstastohsege.Tejlosege,oraypcaytthdteIorlstasofajlo,snrtiytecyinwhtejlosIorlstasissN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

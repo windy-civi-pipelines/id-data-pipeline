@@ -1,0 +1,528 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 274
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD SUPPORT; AMENDING SECTION 7-1203, IDAHO CODE, TO PROVIDE
+3 FOR CERTAIN AVAILABLE REMEDIES; AMENDING SECTION 7-1206, IDAHO CODE,
+4 TO PROVIDE THAT THE DEPARTMENT OF HEALTH AND WELFARE SHALL NOTIFY CON-
+5 SUMER REPORTING AGENCIES REGARDING CERTAIN OVERDUE SUPPORT PAYMENTS;
+6 AMENDING SECTION 32-1206, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+7 ING JUDICIAL PROCEEDINGS FOR INCOME WITHHOLDING; AMENDING SECTION
+8 32-1214F, IDAHO CODE, TO REMOVE A PROVISION REGARDING ADMINISTRATIVE
+9 RULES; REPEALING SECTION 32-1214G, IDAHO CODE, RELATING TO AUTHORITY
+10 OF THE DEPARTMENT TO PROMULGATE RULES; AMENDING CHAPTER 12, TITLE 32,
+11 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-1214G, IDAHO CODE, TO
+12 ESTABLISH PROVISIONS REGARDING THE ENFORCEMENT OF MEDICAL SUPPORT;
+13 AMENDING CHAPTER 12, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW
+14 SECTION 32-1218, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING REVIEW
+15 AND MODIFICATION OF SUPPORT ORDERS; AMENDING SECTION 56-203A, IDAHO
+16 CODE, TO REVISE PROVISIONS REGARDING THE AUTHORITY OF THE DEPARTMENT
+17 TO ENFORCE CHILD SUPPORT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES
+18 CONTAINED IN IDAPA 16.03.03 SHALL BE NULL, VOID, AND OF NO FORCE AND EF-
+19 FECT; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+20 Be It Enacted by the Legislature of the State of Idaho:
+21 SECTION 1. That Section 7-1203, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 7-1203. AVAILABLE REMEDIES. In addition to other remedies available
+24 to the department or obligee, collection of any delinquency from an obligor
+25 on behalf of an obligee shall be accomplished through any of the following
+26 means:
+27 (1) The department shall intercept and withhold tax refunds to satisfy
+28 child support obligations pursuant to section 56-203D, Idaho Code.
+29 (2) The department shall intercept and withhold a portion of any unem-
+30 ployment benefit payable to an obligor pursuant to section 72-1365, Idaho
+31 Code.
+32 (3) The department shall administer a program to withhold a portion of
+33 an obligor's income for the benefit of the obligee pursuant to chapter 12,
+34 title 32, Idaho Code.
+35 (4) The department shall intercept and withhold a portion of any vet-
+36 eran's benefits payable to an obligor pursuant to state or federal law.
+37 (5) The department shall attach, garnish, or intercept and withhold
+38 a portion of any worker's compensation benefits which are payable to an
+39 obligor pursuant to title 72, Idaho Code.
+40 (6) The department shall intercept and retain any support to reimburse
+41 the department for foster care assistance payments, as well as the care and
+42 placement of the child in foster care.
+2
+1 (7) The department shall deduct legal costs incurred by the department,
+2 up to a maximum of twenty percent (20%) of any collection. The department
+3 shall attempt to obtain an order against the non-custodial parents for the
+4 payment of such legal costs.
+5 (8) The department shall charge fees to compensate the department for
+6 services rendered in establishment or enforcement of support obligations,
+7 including:
+8 (a) A twenty-five dollar ($25.00) application fee paid in advance of
+9 any services;
+10 (b) A twenty-five dollar ($25.00) fee to be deducted each time child
+11 support is collected as a result of an income tax offset;
+12 (c) A one hundred twenty-two dollar and fifty cent ($122.50) fee for re-
+13 ferral to the internal revenue service for full collection of the child
+14 support obligation;
+15 (d) A fee for location services with the federal parent locator service
+16 as follows:
+17 (i) Up to ten dollars ($10.00) for location of a non-custodial
+18 parent; and
+19 (ii) Four dollars ($4.00) for a social security number; and
+20 (e) A thirty-five dollar ($35.00) annual service fee for each case in
+21 which the department has collected and disbursed at least five hundred
+22 fifty dollars ($550) of support in the federal fiscal year.
+23 SECTION 2. That Section 7-1206, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 7-1206. DEPARTMENT LIEN FOR CHILD SUPPORT DELINQUENCY. (1) Upon a
+26 delinquency under a child support order for which the department is or has
+27 been providing child support enforcement services, a lien arises upon and
+28 attaches to the real and personal property of an obligor. When the amount
+29 of the lien is equal to or greater than the total support owing for at least
+30 ninety (90) days, or two thousand dollars ($2,000), whichever is less, the
+31 lien may be perfected by a filing with the office of the secretary of state.
+32 A perfected lien shall include all subsequently arising delinquencies.
+33 When a lien has been perfected pursuant to this section and the underlying
+34 delinquency reaches a zero balance or is otherwise satisfied, the lien is
+35 automatically released. Any support order or decree issued or modified af-
+36 ter the effective date of this act shall include a provision notifying the
+37 obligor that a lien will arise automatically upon a delinquency. A notice of
+38 release of lien shall be filed pursuant to section 45-1908, Idaho Code.
+39 (2) A lien arising out of a child support order or delinquency under
+40 the laws of another state shall be given full faith and credit as if the lien
+41 arose out of a child support order or delinquency under Idaho law.
+42 (3) The department shall notify each obligor by certified mail of the
+43 filing of the lien at the same time the notice is delivered to the secretary
+44 of state. No such lien may be enforced until ten (10) days after notice of the
+45 filing of the lien has been given to the obligor.
+46 (4) The department shall notify consumer reporting agencies of any
+47 non-custodial parent who owes overdue support exceeding two thousand dol-
+48 lars ($2,000) and is at least three (3) months in arrears after the court
+49 order is finalized. Notice shall be provided to the non-custodial parent
+3
+1 prior to the report being made, including the methods available for contest-
+2 ing the accuracy of the information.
+3 SECTION 3. That Section 32-1206, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 32-1206. JUDICIAL PROCEEDINGS FOR INCOME WITHHOLDING. (1) A proceed-
+6 ing to enforce a duty of support is commenced:
+7 (a) By filing a petition or complaint for an original action; or
+8 (b) By motion in an existing action or under an existing case number.
+9 (2) Venue for the action is in the district court of the county where the
+10 dependent child resides or is present, where the obligor resides, or where
+11 the prior support order was entered. The petition or motion may be filed by
+12 the obligee, the state, or any agency providing care or support to the depen-
+13 dent child.
+14 (3) A filing fee shall not be assessed in cases brought on behalf of the
+15 state of Idaho.
+16 (4) A petition or motion shall include a sworn statement by the obligee,
+17 stating the facts authorizing the issuance of the income withholding order,
+18 pursuant to section 32-1204 or 32-1205, Idaho Code, and:
+19 (a) The name, address, and social security number of the obligor;
+20 (b) A copy of the support order;
+21 (c) The name and address of the obligor's employer;
+22 (d) The amount of any delinquency; and
+23 (e) In cases not filed by the state, whether the obligee has received
+24 public assistance from any source on behalf of the minor child, and, if
+25 so, from which source(s).
+26 (5) Upon receipt of a petition or motion, the court shall issue an in-
+27 come withholding order pursuant to section 32-1204 or 32-1205, Idaho Code,
+28 to the employer utilizing the required income withholding for support form
+29 and shall provide a form for an answer to the income withholding order which
+30 shall be returned to the court within ten (10) days. The court shall also
+31 order the employer to remit the amount withheld to the department of health
+32 and welfare within seven (7) business days after the date the amount would
+33 have been paid or credited to the obligor. The department shall supply each
+34 county with the required income withholding for support form and answers
+35 that comply with the rules promulgated by the department, and which include
+36 including:
+37 (a) The maximum amount of current support, if any, to be withheld from
+38 the obligor's earnings each month, or from each earnings disbursement;
+39 (b) The total amount of the arrearage or reimbursement judgment previ-
+40 ously entered by the court, if any, together with interest, if any; and
+41 (c) The amount of arrearage payments specified in the support order, if
+42 any.
+43 (6) If the petition or motion indicates the obligee has received public
+44 assistance from any source on behalf of a minor child, the clerk shall imme-
+45 diately forward a copy of the petition or the motion to the department.
+46 (7) The court retains continuing jurisdiction under this chapter until
+47 all duties of support of the obligor, including any delinquency, have been
+48 satisfied or until the order is otherwise unenforceable.
+4
+1 SECTION 4. That Section 32-1214F, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 32-1214F. NOTICE OF MEDICAL SUPPORT ORDER. Any support order or decree
+4 that requires a child to be covered by a health benefit plan issued after July
+5 1, 2003, shall include a statement in substantially the following form:
+6 "Failure to provide medical insurance coverage may result in the
+7 direct enforcement of a medical support order by either the obligee
+8 or the Department of Health and Welfare. A national medical sup-
+9 port notice will be sent to your employer, requiring your employer
+10 to enroll the child in a health benefit plan as provided by Sections
+11 32-1214A through 32-1214J, Idaho Code, and applicable rules of the
+12 department.".
+13 SECTION 5. That Section 32-1214G, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 6. That Chapter 12, Title 32, Idaho Code, be, and the same is
+16 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+17 ignated as Section 32-1214G, Idaho Code, and to read as follows:
+18 32-1214G. ENFORCEMENT OF MEDICAL SUPPORT. (1) In any case for which an
+19 assignment of medical support is in effect, the department shall petition
+20 the court to include health insurance that is available through employment
+21 or another group health benefit plan to either parent, and the department
+22 shall take any action necessary to ensure that one (1) parent secures and
+23 maintains medical insurance required by the support order.
+24 (2) An obligor may request an administrative review within twenty (20)
+25 days after a notice of intent to enroll one (1) or more children in a health
+26 benefit plan is mailed by the department.
+27 (3) The department shall cancel a notice of intent to enroll or a na-
+28 tional medical support notice if the parent does not owe medical support, the
+29 parent is no longer obligated to provide medical support, or medical support
+30 other than medicaid is already being provided by either parent.
+31 SECTION 7. That Chapter 12, Title 32, Idaho Code, be, and the same is
+32 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+33 ignated as Section 32-1218, Idaho Code, and to read as follows:
+34 32-1218. REVIEW AND MODIFICATION OF SUPPORT ORDERS. (1) Each parent
+35 subject to a child support order that is being enforced by the department
+36 shall be notified of the right to request a review of the order by the de-
+37 partment every thirty-six (36) months. Reviews shall not be conducted more
+38 frequently unless there has been a substantial and material change in cir-
+39 cumstances, including but not limited to:
+40 (a) An increase or decrease in income or assets of either parent or
+41 other person legally obligated for the support of a child;
+42 (b) A substantial change in the needs of the child; or
+43 (c) A change in custody or visitation rights of the non-custodial par-
+44 ent.
+45 (2) A support order shall be reviewed for possible modification:
+5
+1 (a) If requested by either parent;
+2 (b) If requested by any state, tribal, or foreign child support ser-
+3 vices agency; or
+4 (c) Automatically, at least every thirty-six (36) months, in any case
+5 where either parent is receiving support pursuant to 42 U.S.C. 601 et
+6 seq.
+7 (3) After a review pursuant to this section, each parent shall be noti-
+8 fied of the outcome. The department shall only seek a modification of a sup-
+9 port order if the review results in an obligation that differs from the ex-
+10 isting order by at least fifteen percent (15%), but not less than fifty dol-
+11 lars ($50.00) per month.
+12 SECTION 8. That Section 56-203A, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 56-203A. AUTHORITY OF DEPARTMENT TO ENFORCE CHILD SUPPORT -- SUPPORT
+15 ENFORCEMENT SERVICES. (1) Whenever the department receives an application
+16 for public assistance on behalf of a child and it shall appear to the satis-
+17 faction of the department that said child has been abandoned by its parents,
+18 or that the child and one (1) parent have been abandoned by the other parent,
+19 or that the parent or other person who has a responsibility for the care, sup-
+20 port or maintenance of such child has failed or neglected to give proper care
+21 or support to such child, the department shall take appropriate action under
+22 the provisions of this chapter, the abandonment or nonsupport statutes, or
+23 other appropriate statutes of this state to ensure that such parent or other
+24 person responsible shall pay for the care, support or maintenance of said de-
+25 pendent child.
+26 (2) The department may accept applications for support enforcement
+27 services on behalf of persons who are not recipients of public assistance
+28 and may take action as it deems appropriate to establish, modify or enforce
+29 support obligations against persons owing a duty to pay support. Action to
+30 establish support obligations may be taken under the abandonment or nonsup-
+31 port statutes or other appropriate statutes of this state.
+32 The department may charge fees to compensate it for services rendered in
+33 establishment of or enforcement of support obligations. The director shall,
+34 by rule, establish reasonable fees for support enforcement services, and
+35 said schedules of fees shall be made available to all applicants for support
+36 enforcement services. The department may, on showing of necessity, waive or
+37 defer any such fee.
+38 (3) Effective October 1, 1998, the The department shall maintain a
+39 state case registry that contains records of each case in which enforcement
+40 services are being provided under this section and each child support order
+41 established or modified in the state from and after that date. Effective the
+42 same date, the The department shall collect and disburse payments for all
+43 support orders related to cases for which services are provided under this
+44 section and each child support order established or modified after January
+45 1, 1994, that is subject to income withholding orders. For child support
+46 orders established prior to January 1, 1994, at the option of each county and
+47 upon payment of the cost of the service, the department shall collect and
+48 disburse payments.
+6
+1 SECTION 9. The rules contained in IDAPA 16.03.03, Idaho Department of
+2 Health and Welfare, relating to Child Support Services, shall be null, void,
+3 and of no force and effect on and after July 1, 2025.
+4 SECTION 10. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YHHADWECNAGTOCDS;AGSN7,IOC,TOPRCNAER;AGSN7,IOCOPETTTEDTOFHHADWESLNYCRRGASRGCNOESTPGSN3,IOC,TOREPSRGJLPSFRIEW;AGS,IOC,TOREAPNRGA;RGSN3,IOC,RGTOAFTEDTTOPER;AGCR1,TE3OC,BYTEANOFANWSN3,IOC,THPSRGTEETOFMLSGCR1,TE3,IOC,BYTEANOFANN3,IOC,TOEHPSRGRDMNOFSTO;AGSN5,I,TOREPSRGTEAYOFTEDOEECDS;PGTTCNAERDINIA13SLBEN,V,ADOFNOFEADE;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.AER.Inantoorrsaotedtoro,cnofaydyfmanonbfofanoeslbeadthayoftef)Tedtslitadwdtxrstosdstospttosn5,IoC)Tedtslitadwdapnofayutbtpetoanorpttosn7,I)Tedtslarapmtowdapnonosiefrtebtofteoepttocr1e3,IoC)Tedtslitadwdapnofayvsbspetoanorpttoseorfll)Tedtsla,g,oritadwpnofaywscnbswhaepetoarpttote7,IoC)Tedtslitadrnaysttoredtfrfrceaep,aswlasteceatoftecdinfrc]
+[DELETED: )Tedtsldtllcsidbytedptoammoftypt()ofayc.Tedlattoonanorattenlpsfrttofshllc)Tedtslcefstocetedtfsrdinetoretofsto)Atedr()anfepdinaeoys)Atedr()fetobeddehtectiscdasartofanietxo)Aoehdtodradfyct()fefrrltoteilresefrflcnoftecto)Afefrlnsswhteflptlrssf)Uptotnds()frlnofan;a)Frds()fraslsyn;a)Atedr()alsefefrehceihtedthscdadddatltfehyds()ofstinteflflyN2.TtSn7,IoC,b,adteseishdtordasf.DTLNFRCDSTD.()Unyuracdstorfrwhtedtisorhnpgcdstets,alnasunastoterladplpyofano.Wnteaftelniseltoorgrtntetlstogfratly()d,ortotdds(,wrisl,tnmybepdbyafgwhteoeoftesyofspdlnsliealsyagdnalnhsbnpdpttotssnadteuyrsazobeorisoes,telniyr.Aystorordeidormdarteeedeoftsatslieapnngtrttalnwlaeayunad.Aneoeoflnslbefdpttosn4,IoC)AlnagotofacdstorordyuelsofarseslbegnflfhadctasifteleotofacdstorordyurIol)Tedtslnyehorbycdmloftgoftelnatteseteteneisddtotesfs.Noshlnmybeedultn()dsarneoftgoftelnhsbngntoteo)Tedtslnycrrgasofalptwoosoestegtotdds()adisatltte()msinasartecrisf.Neslbepdtotenlp]
+[DELETED: rtotertbgm,igtemsaefrcgteayofteiN3.TtSn3,IoC,b,adteseishdtordasf.JLPSFRIEW.()Apgtoeeadyofstisc)Byfgapnorctfranola;o)Bymninaneganoruranegcen)Vefrteanisintedtctoftecywettcdrsorisp,weteorr,orweprstorwse.Tepnormnmybefdbeo,tes,orayaypgceorsttotedtc)AfgfeslntbeadincsbtonbfofteofI)Apnormnslieasnstbyteogtefsagteieofteiewgottosn34or3,IoC,a)Ten,a,adslsynrofteo)Acyoftesto)Teneadasofteose)Teatofayd;a)Incsntfdbytes,wrteoehsrcaefmayseonbfoftemrc,a,i,fmwhs)Unrtofapnorm,tectslieaniewgorpttosn34or3,IoCoteerugterdiewgfrstfdslpeafmfranartoteiewgorwlberdtotectwntn()d.Tectslarteertortteatwdtotedtofhdwewnsn()bsdsartedeteatwebnpdorcdtoteo.Tedtslsyeywhterdiewgfrstfmadatcywhterspdbyted,adwhi)Temmatofcts,ifa,tobewdfeosesehm,orfmehesd)Tetlatofteaeorrtjtpyedbytec,ifa,trwhi,ifa;a)Teatofaepssdintesto,i)Iftepnormnisteoehsrdpefmayseonbfofamrc,tecksliyfdacyoftepnortemntoted)Tectrscgjnurtscruldsofstofteo,igayd,hebdorulteorisoeu]
+[DELETED: N4.TtSn3,IoC,b,adteseishdtordasf.NEOFMLSTO.AystorordtrsacdtobecdbyahhbtpnidarJ,2,slieastinsytefgfetopemliecemyrtinttetofamlstorbyerteorteDtofHhadW.Anlmlstnewlbesttoyre,rgyreoeltecdinahhbtpnaspdbySAth3,IoC,adaersoftN5.TtSn3,IoC,b,adteseishN6.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.ETOFMLS.()Inaycefrwhatofmlstisine,tedtslpecttoiehhiettisaetherargphhbtpntoerp,adtedlteayannytoeettoe()ptssasmlierdbytesto)Anormyrtanaerwwnty(saraneofittoeloe()ormecninahtpnismdbyted)Tedtslclaneofittoeloranlmlstneifteptdsntoemls,ttisnolrodtopemls,ormlsrtnmdisaybgpdbyerpN7.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.RWADMNOFSTO.()Ehpttoacdstorttisbgedbytedlbendofterttortarwofteorbytedteytx()m.Rsslntbecdmyustehsbnasladmlceinc,igbtntldt)Anieordeinieorasoferptorpnlyodfrtestofac)Aslceintensoftec;o)Aceincyorvnrsoftenlp)Astorslberdfrpem]
+[DELETED: )Ifrdbyerp)Ifrdbyays,t,orfncdstssa;o)A,atlteytx()m,inayceerptisrgstptto42U.61e)Ararwpttotss,ehptslbendofteo.Tedtsloyskamnofastorifterwrsinanonttdsfmteegorbyatltfnpt(,btntlstnfyds()prmN8.TtSn5,IoC,b,adteseishdtordasf.AYOFDTTOEECDST--STS.()Wrtedtrsanarpcaeonbfofacdaditslartotesnoftedtttsdcdhsbnadbyisprtttecdadoe()pthebnadbyteorprttteptororpnwohsaryfrtec,stormeofshcdhsfdorndtogeprcrsttoshc,tedtslteaeanuepsoftsc,teatornts,oraessoftssetoeettshptoronreslpyfrtec,stormeofsddtc)Tedtmyatasfrstesonbfofpswoaentrsofpcadmyteanasitdsaetoe,myoretosatpsogadytopys.Anthstosmybetnurteatorntssororaessoftssedtmycefstoceitfrssrditoforetofsto.Tedrsyr,ehrefsfrstets,adssoffsslbemeaetoalasfrsts.Tedtm,onsgofn,weorayshf)EeOr1,1,teTedtslmneceryttcsrsofehceinwhesaebgpdurtssnadehcdstodormdintesefmadarttd.Eeted,teTedtslctaddepsfratosrdtocsfrwhssaepdurtnadehcdstoredormdarJ,1,ttissttoiewgo.FrcdssedprtoJy1,1,atteonofehcyanptoftectoftes,tedtslctaep]
+[DELETED: N9.TerscdinIA1,IoDtohadW,rgtoCdStS,slben,vdofnofeadetonadarJy1,2N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 274
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD SUPPORT; AMENDING SECTION 7-1203, IDAHO CODE, TO PROVIDE
+3 FOR CERTAIN AVAILABLE REMEDIES; AMENDING SECTION 7-1206, IDAHO CODE,
+4 TO PROVIDE THAT THE DEPARTMENT OF HEALTH AND WELFARE SHALL NOTIFY CON-
+5 SUMER REPORTING AGENCIES REGARDING CERTAIN OVERDUE SUPPORT PAYMENTS;
+6 AMENDING SECTION 32-1206, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+7 ING JUDICIAL PROCEEDINGS FOR INCOME WITHHOLDING; AMENDING SECTION
+8 32-1214F, IDAHO CODE, TO REMOVE A PROVISION REGARDING ADMINISTRATIVE
+9 RULES; REPEALING SECTION 32-1214G, IDAHO CODE, RELATING TO AUTHORITY
+10 OF THE DEPARTMENT TO PROMULGATE RULES; AMENDING CHAPTER 12, TITLE 32,
+11 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-1214G, IDAHO CODE, TO
+12 ESTABLISH PROVISIONS REGARDING THE ENFORCEMENT OF MEDICAL SUPPORT;
+13 AMENDING CHAPTER 12, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW
+14 SECTION 32-1218, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING REVIEW
+15 AND MODIFICATION OF SUPPORT ORDERS; AMENDING SECTION 56-203A, IDAHO
+16 CODE, TO REVISE PROVISIONS REGARDING THE AUTHORITY OF THE DEPARTMENT
+17 TO ENFORCE CHILD SUPPORT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES
+18 CONTAINED IN IDAPA 16.03.03 SHALL BE NULL, VOID, AND OF NO FORCE AND EF-
+19 FECT; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+20 Be It Enacted by the Legislature of the State of Idaho:
+21 SECTION 1. That Section 7-1203, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 7-1203. AVAILABLE REMEDIES. In addition to other remedies available
+24 to the department or obligee, collection of any delinquency from an obligor
+25 on behalf of an obligee shall be accomplished through any of the following
+26 means:
+27 (1) The department shall intercept and withhold tax refunds to satisfy
+28 child support obligations pursuant to section 56-203D, Idaho Code.
+29 (2) The department shall intercept and withhold a portion of any unem-
+30 ployment benefit payable to an obligor pursuant to section 72-1365, Idaho
+31 Code.
+32 (3) The department shall administer a program to withhold a portion of
+33 an obligor's income for the benefit of the obligee pursuant to chapter 12,
+34 title 32, Idaho Code.
+35 (4) The department shall intercept and withhold a portion of any vet-
+36 eran's benefits payable to an obligor pursuant to state or federal law.
+37 (5) The department shall attach, garnish, or intercept and withhold
+38 a portion of any worker's compensation benefits which are payable to an
+39 obligor pursuant to title 72, Idaho Code.
+40 (6) The department shall intercept and retain any support to reimburse
+41 the department for foster care assistance payments, as well as the care and
+42 placement of the child in foster care.
+
+2
+1 (7) The department shall deduct legal costs incurred by the department,
+2 up to a maximum of twenty percent (20%) of any collection. The department
+3 shall attempt to obtain an order against the non-custodial parents for the
+4 payment of such legal costs.
+5 (8) The department shall charge fees to compensate the department for
+6 services rendered in establishment or enforcement of support obligations,
+7 including:
+8 (a) A twenty-five dollar ($25.00) application fee paid in advance of
+9 any services;
+10 (b) A twenty-five dollar ($25.00) fee to be deducted each time child
+11 support is collected as a result of an income tax offset;
+12 (c) A one hundred twenty-two dollar and fifty cent ($122.50) fee for re-
+13 ferral to the internal revenue service for full collection of the child
+14 support obligation;
+15 (d) A fee for location services with the federal parent locator service
+16 as follows:
+17 (i) Up to ten dollars ($10.00) for location of a non-custodial
+18 parent; and
+19 (ii) Four dollars ($4.00) for a social security number; and
+20 (e) A thirty-five dollar ($35.00) annual service fee for each case in
+21 which the department has collected and disbursed at least five hundred
+22 fifty dollars ($550) of support in the federal fiscal year.
+23 SECTION 2. That Section 7-1206, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 7-1206. DEPARTMENT LIEN FOR CHILD SUPPORT DELINQUENCY. (1) Upon a
+26 delinquency under a child support order for which the department is or has
+27 been providing child support enforcement services, a lien arises upon and
+28 attaches to the real and personal property of an obligor. When the amount
+29 of the lien is equal to or greater than the total support owing for at least
+30 ninety (90) days, or two thousand dollars ($2,000), whichever is less, the
+31 lien may be perfected by a filing with the office of the secretary of state.
+32 A perfected lien shall include all subsequently arising delinquencies.
+33 When a lien has been perfected pursuant to this section and the underlying
+34 delinquency reaches a zero balance or is otherwise satisfied, the lien is
+35 automatically released. Any support order or decree issued or modified af-
+36 ter the effective date of this act shall include a provision notifying the
+37 obligor that a lien will arise automatically upon a delinquency. A notice of
+38 release of lien shall be filed pursuant to section 45-1908, Idaho Code.
+39 (2) A lien arising out of a child support order or delinquency under
+40 the laws of another state shall be given full faith and credit as if the lien
+41 arose out of a child support order or delinquency under Idaho law.
+42 (3) The department shall notify each obligor by certified mail of the
+43 filing of the lien at the same time the notice is delivered to the secretary
+44 of state. No such lien may be enforced until ten (10) days after notice of the
+45 filing of the lien has been given to the obligor.
+46 (4) The department shall notify consumer reporting agencies of any
+47 non-custodial parent who owes overdue support exceeding two thousand dol-
+48 lars ($2,000) and is at least three (3) months in arrears after the court
+49 order is finalized. Notice shall be provided to the non-custodial parent
+
+3
+1 prior to the report being made, including the methods available for contest-
+2 ing the accuracy of the information.
+3 SECTION 3. That Section 32-1206, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 32-1206. JUDICIAL PROCEEDINGS FOR INCOME WITHHOLDING. (1) A proceed-
+6 ing to enforce a duty of support is commenced:
+7 (a) By filing a petition or complaint for an original action; or
+8 (b) By motion in an existing action or under an existing case number.
+9 (2) Venue for the action is in the district court of the county where the
+10 dependent child resides or is present, where the obligor resides, or where
+11 the prior support order was entered. The petition or motion may be filed by
+12 the obligee, the state, or any agency providing care or support to the depen-
+13 dent child.
+14 (3) A filing fee shall not be assessed in cases brought on behalf of the
+15 state of Idaho.
+16 (4) A petition or motion shall include a sworn statement by the obligee,
+17 stating the facts authorizing the issuance of the income withholding order,
+18 pursuant to section 32-1204 or 32-1205, Idaho Code, and:
+19 (a) The name, address, and social security number of the obligor;
+20 (b) A copy of the support order;
+21 (c) The name and address of the obligor's employer;
+22 (d) The amount of any delinquency; and
+23 (e) In cases not filed by the state, whether the obligee has received
+24 public assistance from any source on behalf of the minor child, and, if
+25 so, from which source(s).
+26 (5) Upon receipt of a petition or motion, the court shall issue an in-
+27 come withholding order pursuant to section 32-1204 or 32-1205, Idaho Code,
+28 to the employer utilizing the required income withholding for support form
+29 and shall provide a form for an answer to the income withholding order which
+30 shall be returned to the court within ten (10) days. The court shall also
+31 order the employer to remit the amount withheld to the department of health
+32 and welfare within seven (7) business days after the date the amount would
+33 have been paid or credited to the obligor. The department shall supply each
+34 county with the required income withholding for support form and answers
+35 that comply with the rules promulgated by the department, and which include
+36 including:
+37 (a) The maximum amount of current support, if any, to be withheld from
+38 the obligor's earnings each month, or from each earnings disbursement;
+39 (b) The total amount of the arrearage or reimbursement judgment previ-
+40 ously entered by the court, if any, together with interest, if any; and
+41 (c) The amount of arrearage payments specified in the support order, if
+42 any.
+43 (6) If the petition or motion indicates the obligee has received public
+44 assistance from any source on behalf of a minor child, the clerk shall imme-
+45 diately forward a copy of the petition or the motion to the department.
+46 (7) The court retains continuing jurisdiction under this chapter until
+47 all duties of support of the obligor, including any delinquency, have been
+48 satisfied or until the order is otherwise unenforceable.
+
+4
+1 SECTION 4. That Section 32-1214F, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 32-1214F. NOTICE OF MEDICAL SUPPORT ORDER. Any support order or decree
+4 that requires a child to be covered by a health benefit plan issued after July
+5 1, 2003, shall include a statement in substantially the following form:
+6 "Failure to provide medical insurance coverage may result in the
+7 direct enforcement of a medical support order by either the obligee
+8 or the Department of Health and Welfare. A national medical sup-
+9 port notice will be sent to your employer, requiring your employer
+10 to enroll the child in a health benefit plan as provided by Sections
+11 32-1214A through 32-1214J, Idaho Code, and applicable rules of the
+12 department.".
+13 SECTION 5. That Section 32-1214G, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 6. That Chapter 12, Title 32, Idaho Code, be, and the same is
+16 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+17 ignated as Section 32-1214G, Idaho Code, and to read as follows:
+18 32-1214G. ENFORCEMENT OF MEDICAL SUPPORT. (1) In any case for which an
+19 assignment of medical support is in effect, the department shall petition
+20 the court to include health insurance that is available through employment
+21 or another group health benefit plan to either parent, and the department
+22 shall take any action necessary to ensure that one (1) parent secures and
+23 maintains medical insurance required by the support order.
+24 (2) An obligor may request an administrative review within twenty (20)
+25 days after a notice of intent to enroll one (1) or more children in a health
+26 benefit plan is mailed by the department.
+27 (3) The department shall cancel a notice of intent to enroll or a na-
+28 tional medical support notice if the parent does not owe medical support, the
+29 parent is no longer obligated to provide medical support, or medical support
+30 other than medicaid is already being provided by either parent.
+31 SECTION 7. That Chapter 12, Title 32, Idaho Code, be, and the same is
+32 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+33 ignated as Section 32-1218, Idaho Code, and to read as follows:
+34 32-1218. REVIEW AND MODIFICATION OF SUPPORT ORDERS. (1) Each parent
+35 subject to a child support order that is being enforced by the department
+36 shall be notified of the right to request a review of the order by the de-
+37 partment every thirty-six (36) months. Reviews shall not be conducted more
+38 frequently unless there has been a substantial and material change in cir-
+39 cumstances, including but not limited to:
+40 (a) An increase or decrease in income or assets of either parent or
+41 other person legally obligated for the support of a child;
+42 (b) A substantial change in the needs of the child; or
+43 (c) A change in custody or visitation rights of the non-custodial par-
+44 ent.
+45 (2) A support order shall be reviewed for possible modification:
+
+5
+1 (a) If requested by either parent;
+2 (b) If requested by any state, tribal, or foreign child support ser-
+3 vices agency; or
+4 (c) Automatically, at least every thirty-six (36) months, in any case
+5 where either parent is receiving support pursuant to 42 U.S.C. 601 et
+6 seq.
+7 (3) After a review pursuant to this section, each parent shall be noti-
+8 fied of the outcome. The department shall only seek a modification of a sup-
+9 port order if the review results in an obligation that differs from the ex-
+10 isting order by at least fifteen percent (15%), but not less than fifty dol-
+11 lars ($50.00) per month.
+12 SECTION 8. That Section 56-203A, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 56-203A. AUTHORITY OF DEPARTMENT TO ENFORCE CHILD SUPPORT -- SUPPORT
+15 ENFORCEMENT SERVICES. (1) Whenever the department receives an application
+16 for public assistance on behalf of a child and it shall appear to the satis-
+17 faction of the department that said child has been abandoned by its parents,
+18 or that the child and one (1) parent have been abandoned by the other parent,
+19 or that the parent or other person who has a responsibility for the care, sup-
+20 port or maintenance of such child has failed or neglected to give proper care
+21 or support to such child, the department shall take appropriate action under
+22 the provisions of this chapter, the abandonment or nonsupport statutes, or
+23 other appropriate statutes of this state to ensure that such parent or other
+24 person responsible shall pay for the care, support or maintenance of said de-
+25 pendent child.
+26 (2) The department may accept applications for support enforcement
+27 services on behalf of persons who are not recipients of public assistance
+28 and may take action as it deems appropriate to establish, modify or enforce
+29 support obligations against persons owing a duty to pay support. Action to
+30 establish support obligations may be taken under the abandonment or nonsup-
+31 port statutes or other appropriate statutes of this state.
+32 The department may charge fees to compensate it for services rendered in
+33 establishment of or enforcement of support obligations. The director shall,
+34 by rule, establish reasonable fees for support enforcement services, and
+35 said schedules of fees shall be made available to all applicants for support
+36 enforcement services. The department may, on showing of necessity, waive or
+37 defer any such fee.
+38 (3) Effective October 1, 1998, the The department shall maintain a
+39 state case registry that contains records of each case in which enforcement
+40 services are being provided under this section and each child support order
+41 established or modified in the state from and after that date. Effective the
+42 same date, the The department shall collect and disburse payments for all
+43 support orders related to cases for which services are provided under this
+44 section and each child support order established or modified after January
+45 1, 1994, that is subject to income withholding orders. For child support
+46 orders established prior to January 1, 1994, at the option of each county and
+47 upon payment of the cost of the service, the department shall collect and
+48 disburse payments.
+
+6
+1 SECTION 9. The rules contained in IDAPA 16.03.03, Idaho Department of
+2 Health and Welfare, relating to Child Support Services, shall be null, void,
+3 and of no force and effect on and after July 1, 2025.
+4 SECTION 10. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YHHADWECNAGTOCDS;AGSN7,IOC,TOPRCNAER;AGSN7,IOCOPETTTEDTOFHHADWESLNYCRRGASRGCNOESTPGSN3,IOC,TOREPSRGJLPSFRIEW;AGS,IOC,TOREAPNRGA;RGSN3,IOC,RGTOAFTEDTTOPER;AGCR1,TE3OC,BYTEANOFANWSN3,IOC,THPSRGTEETOFMLSGCR1,TE3,IOC,BYTEANOFANN3,IOC,TOEHPSRGRDMNOFSTO;AGSN5,I,TOREPSRGTEAYOFTEDOEECDS;PGTTCNAERDINIA13SLBEN,V,ADOFNOFEADE;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn7,IoC,b,adteseishdtordasf.AER.Inantoorrsaotedtoro,cnofaydyfmanonbfofanoeslbeadthayoftef)Tedtslitadwdtxrstosdstospttosn5,IoC)Tedtslitadwdapnofayutbtpetoanorpttosn7,I)Tedtslarapmtowdapnonosiefrtebtofteoepttocr1e3,IoC)Tedtslitadwdapnofayvsbspetoanorpttoseorfll)Tedtsla,g,oritadwpnofaywscnbswhaepetoarpttote7,IoC)Tedtslitadrnaysttoredtfrfrceaep,aswlasteceatoftecdinfrc]
+[DELETED: )Tedtsldtllcsidbytedptoammoftypt()ofayc.Tedlattoonanorattenlpsfrttofshllc)Tedtslcefstocetedtfsrdinetoretofsto)Atedr()anfepdinaeoys)Atedr()fetobeddehtectiscdasartofanietxo)Aoehdtodradfyct()fefrrltoteilresefrflcnoftecto)Afefrlnsswhteflptlrssf)Uptotnds()frlnofan;a)Frds()fraslsyn;a)Atedr()alsefefrehceihtedthscdadddatltfehyds()ofstinteflflyN2.TtSn7,IoC,b,adteseishdtordasf.DTLNFRCDSTD.()Unyuracdstorfrwhtedtisorhnpgcdstets,alnasunastoterladplpyofano.Wnteaftelniseltoorgrtntetlstogfratly()d,ortotdds(,wrisl,tnmybepdbyafgwhteoeoftesyofspdlnsliealsyagdnalnhsbnpdpttotssnadteuyrsazobeorisoes,telniyr.Aystorordeidormdarteeedeoftsatslieapnngtrttalnwlaeayunad.Aneoeoflnslbefdpttosn4,IoC)AlnagotofacdstorordyuelsofarseslbegnflfhadctasifteleotofacdstorordyurIol)Tedtslnyehorbycdmloftgoftelnatteseteteneisddtotesfs.Noshlnmybeedultn()dsarneoftgoftelnhsbngntoteo)Tedtslnycrrgasofalptwoosoestegtotdds()adisatltte()msinasartecrisf.Neslbepdtotenlp]
+[DELETED: rtotertbgm,igtemsaefrcgteayofteiN3.TtSn3,IoC,b,adteseishdtordasf.JLPSFRIEW.()Apgtoeeadyofstisc)Byfgapnorctfranola;o)Bymninaneganoruranegcen)Vefrteanisintedtctoftecywettcdrsorisp,weteorr,orweprstorwse.Tepnormnmybefdbeo,tes,orayaypgceorsttotedtc)AfgfeslntbeadincsbtonbfofteofI)Apnormnslieasnstbyteogtefsagteieofteiewgottosn34or3,IoC,a)Ten,a,adslsynrofteo)Acyoftesto)Teneadasofteose)Teatofayd;a)Incsntfdbytes,wrteoehsrcaefmayseonbfoftemrc,a,i,fmwhs)Unrtofapnorm,tectslieaniewgorpttosn34or3,IoCoteerugterdiewgfrstfdslpeafmfranartoteiewgorwlberdtotectwntn()d.Tectslarteertortteatwdtotedtofhdwewnsn()bsdsartedeteatwebnpdorcdtoteo.Tedtslsyeywhterdiewgfrstfmadatcywhterspdbyted,adwhi)Temmatofcts,ifa,tobewdfeosesehm,orfmehesd)Tetlatofteaeorrtjtpyedbytec,ifa,trwhi,ifa;a)Teatofaepssdintesto,i)Iftepnormnisteoehsrdpefmayseonbfofamrc,tecksliyfdacyoftepnortemntoted)Tectrscgjnurtscruldsofstofteo,igayd,hebdorulteorisoeu]
+[DELETED: N4.TtSn3,IoC,b,adteseishdtordasf.NEOFMLSTO.AystorordtrsacdtobecdbyahhbtpnidarJ,2,slieastinsytefgfetopemliecemyrtinttetofamlstorbyerteorteDtofHhadW.Anlmlstnewlbesttoyre,rgyreoeltecdinahhbtpnaspdbySAth3,IoC,adaersoftN5.TtSn3,IoC,b,adteseishN6.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.ETOFMLS.()Inaycefrwhatofmlstisine,tedtslpecttoiehhiettisaetherargphhbtpntoerp,adtedlteayannytoeettoe()ptssasmlierdbytesto)Anormyrtanaerwwnty(saraneofittoeloe()ormecninahtpnismdbyted)Tedtslclaneofittoeloranlmlstneifteptdsntoemls,ttisnolrodtopemls,ormlsrtnmdisaybgpdbyerpN7.TtCr1,Te3,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn3,IoC,adtordasf.RWADMNOFSTO.()Ehpttoacdstorttisbgedbytedlbendofterttortarwofteorbytedteytx()m.Rsslntbecdmyustehsbnasladmlceinc,igbtntldt)Anieordeinieorasoferptorpnlyodfrtestofac)Aslceintensoftec;o)Aceincyorvnrsoftenlp)Astorslberdfrpem]
+[DELETED: )Ifrdbyerp)Ifrdbyays,t,orfncdstssa;o)A,atlteytx()m,inayceerptisrgstptto42U.61e)Ararwpttotss,ehptslbendofteo.Tedtsloyskamnofastorifterwrsinanonttdsfmteegorbyatltfnpt(,btntlstnfyds()prmN8.TtSn5,IoC,b,adteseishdtordasf.AYOFDTTOEECDST--STS.()Wrtedtrsanarpcaeonbfofacdaditslartotesnoftedtttsdcdhsbnadbyisprtttecdadoe()pthebnadbyteorprttteptororpnwohsaryfrtec,stormeofshcdhsfdorndtogeprcrsttoshc,tedtslteaeanuepsoftsc,teatornts,oraessoftssetoeettshptoronreslpyfrtec,stormeofsddtc)Tedtmyatasfrstesonbfofpswoaentrsofpcadmyteanasitdsaetoe,myoretosatpsogadytopys.Anthstosmybetnurteatorntssororaessoftssedtmycefstoceitfrssrditoforetofsto.Tedrsyr,ehrefsfrstets,adssoffsslbemeaetoalasfrsts.Tedtm,onsgofn,weorayshf)EeOr1,1,teTedtslmneceryttcsrsofehceinwhesaebgpdurtssnadehcdstodormdintesefmadarttd.Eeted,teTedtslctaddepsfratosrdtocsfrwhssaepdurtnadehcdstoredormdarJ,1,ttissttoiewgo.FrcdssedprtoJy1,1,atteonofehcyanptoftectoftes,tedtslctaep]
+[DELETED: N9.TerscdinIA1,IoDtohadW,rgtoCdStS,slben,vdofnofeadetonadarJy1,2N1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,132 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1116
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE STATE BUDGET; AMENDING SECTION 67-3531, IDAHO CODE, TO
+3 PROVIDE FOR THE OFFICE OF ADMINISTRATIVE HEARINGS; REPEALING SECTION
+4 67-5285, IDAHO CODE, RELATING TO THE OFFICE OF ADMINISTRATIVE HEARINGS,
+5 COST ESTIMATES, AND THE ASSESSMENT OF RECIPIENT AGENCIES; AMENDING
+6 CHAPTER 52, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+7 67-5285, IDAHO CODE, TO PROVIDE FOR THE BILLING OF STATE AGENCIES FOR
+8 CERTAIN SERVICES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+9 DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 67-3531, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 67-3531. ANNUAL STATEWIDE INDIRECT COST ALLOCATION PLAN. (1) The di-
+14 vision of financial management shall develop an annual statewide indirect
+15 cost allocation plan in accordance with 2 CFR 225 et seq. The central ser-
+16 vice costs of the various central service agencies shall be allocated annu-
+17 ally to the recipient state agencies, and such central service costs shall be
+18 included in an agency's indirect cost plans for the purpose of determining an
+19 indirect cost rate with the cognizant federal agency, and shall be included
+20 in an agency's federal grant application.
+21 (2) In conjunction with the respective state service agency, the di-
+22 vision of financial management shall prepare an estimate of costs for state
+23 budgeting purposes for services provided by the attorney general, the state
+24 treasurer, the office of administrative hearings, and the state controller.
+25 The division of financial management shall notify all state agencies of
+26 these cost estimates for the next fiscal year on or before November 1. The
+27 division of financial management and the legislative services office shall
+28 allow state agencies to modify their budget requests in response to such
+29 estimates.
+30 (3) The division of financial management shall assess each recipient
+31 agency up to one hundred percent (100%) of the amounts allocated in the
+32 statewide cost allocation plan. Amounts so assessed shall be separately
+33 accounted for and can be expended only after legislative appropriation.
+34 SECTION 2. That Section 67-5285, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 3. That Chapter 52, Title 67, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 67-5285, Idaho Code, and to read as follows:
+39 67-5285. OFFICE OF ADMINISTRATIVE HEARINGS -- FEES ASSESSED FOR SER-
+40 VICES. In conjunction with the office of administrative hearings, the divi-
+2
+1 sion of financial management shall, on or before November 1 of each year, de-
+2 termine an amount to be billed to state agencies for the purposes of carrying
+3 out the provisions of this chapter in accordance with the provisions of sec-
+4 tion 67-3531, Idaho Code. Such amount shall be paid by each state agency in
+5 the succeeding fiscal year to the indirect cost recovery fund. Before June
+6 30 of each fiscal year, the state controller shall transfer an amount equal
+7 to such deposits to the state general fund.
+8 SECTION 4. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YFECNAGTOTESEB;AGSN6,IOC,TEFRTEOEOFAEH;RGS,IOC,RGTOTEOEOFAEHTE,ADTEATOFRTA;AR5,TE6,IOC,BYTEANOFANWS,IOC,TOPEFRTEBGOFSEASFNS;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.ALSEITCTANP.()Tednofflmtsldpanalseitanpninaewh2CR25ets.Teclsecsoftevsclseasslbeadaytotertsea,adshclsecsslbdinanasitctpsfrtepeofdgatctrewhtectfla,adslbeinanasflgta)Incnwhteresesea,tednofflmtslpeaneeofcsfrsgpsfrsspdbyteayg,tes,teoeofaeh,adtesecednofflmtslnyalseasoectesfrtentflyronorbeNr1.Tnofflmtadtelessoeswseastomytrbtrsinretos)Tednofflmtslasehryuptooehdpt()ofteasadintectanp.AssoadslbesdfradcnbeedoyarleaN2.TtSn6,IoC,b,adteseishN3.TtCr5,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.OEOFAEHS--FSADFRS.Incnwhteoeofaeh,ted]
+[DELETED: nofflmts,onorbeNr1ofehy,deanattobebdtoseasfrtepsofcttepsoftscrinaewhtepsofsn6,IoC.Shatslbepdbyehseayiesgflyrtoteitctryf.BeJ0ofehfly,tesecrsltranateoshdstoteseglfN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1116
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE STATE BUDGET; AMENDING SECTION 67-3531, IDAHO CODE, TO
+3 PROVIDE FOR THE OFFICE OF ADMINISTRATIVE HEARINGS; REPEALING SECTION
+4 67-5285, IDAHO CODE, RELATING TO THE OFFICE OF ADMINISTRATIVE HEARINGS,
+5 COST ESTIMATES, AND THE ASSESSMENT OF RECIPIENT AGENCIES; AMENDING
+6 CHAPTER 52, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+7 67-5285, IDAHO CODE, TO PROVIDE FOR THE BILLING OF STATE AGENCIES FOR
+8 CERTAIN SERVICES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+9 DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 67-3531, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 67-3531. ANNUAL STATEWIDE INDIRECT COST ALLOCATION PLAN. (1) The di-
+14 vision of financial management shall develop an annual statewide indirect
+15 cost allocation plan in accordance with 2 CFR 225 et seq. The central ser-
+16 vice costs of the various central service agencies shall be allocated annu-
+17 ally to the recipient state agencies, and such central service costs shall be
+18 included in an agency's indirect cost plans for the purpose of determining an
+19 indirect cost rate with the cognizant federal agency, and shall be included
+20 in an agency's federal grant application.
+21 (2) In conjunction with the respective state service agency, the di-
+22 vision of financial management shall prepare an estimate of costs for state
+23 budgeting purposes for services provided by the attorney general, the state
+24 treasurer, the office of administrative hearings, and the state controller.
+25 The division of financial management shall notify all state agencies of
+26 these cost estimates for the next fiscal year on or before November 1. The
+27 division of financial management and the legislative services office shall
+28 allow state agencies to modify their budget requests in response to such
+29 estimates.
+30 (3) The division of financial management shall assess each recipient
+31 agency up to one hundred percent (100%) of the amounts allocated in the
+32 statewide cost allocation plan. Amounts so assessed shall be separately
+33 accounted for and can be expended only after legislative appropriation.
+34 SECTION 2. That Section 67-5285, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 3. That Chapter 52, Title 67, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 67-5285, Idaho Code, and to read as follows:
+39 67-5285. OFFICE OF ADMINISTRATIVE HEARINGS -- FEES ASSESSED FOR SER-
+40 VICES. In conjunction with the office of administrative hearings, the divi-
+
+2
+1 sion of financial management shall, on or before November 1 of each year, de-
+2 termine an amount to be billed to state agencies for the purposes of carrying
+3 out the provisions of this chapter in accordance with the provisions of sec-
+4 tion 67-3531, Idaho Code. Such amount shall be paid by each state agency in
+5 the succeeding fiscal year to the indirect cost recovery fund. Before June
+6 30 of each fiscal year, the state controller shall transfer an amount equal
+7 to such deposits to the state general fund.
+8 SECTION 4. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YFECNAGTOTESEB;AGSN6,IOC,TEFRTEOEOFAEH;RGS,IOC,RGTOTEOEOFAEHTE,ADTEATOFRTA;AR5,TE6,IOC,BYTEANOFANWS,IOC,TOPEFRTEBGOFSEASFNS;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.ALSEITCTANP.()Tednofflmtsldpanalseitanpninaewh2CR25ets.Teclsecsoftevsclseasslbeadaytotertsea,adshclsecsslbdinanasitctpsfrtepeofdgatctrewhtectfla,adslbeinanasflgta)Incnwhteresesea,tednofflmtslpeaneeofcsfrsgpsfrsspdbyteayg,tes,teoeofaeh,adtesecednofflmtslnyalseasoectesfrtentflyronorbeNr1.Tnofflmtadtelessoeswseastomytrbtrsinretos)Tednofflmtslasehryuptooehdpt()ofteasadintectanp.AssoadslbesdfradcnbeedoyarleaN2.TtSn6,IoC,b,adteseishN3.TtCr5,Te6,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn6,IoC,adtordasf.OEOFAEHS--FSADFRS.Incnwhteoeofaeh,ted]
+[DELETED: nofflmts,onorbeNr1ofehy,deanattobebdtoseasfrtepsofcttepsoftscrinaewhtepsofsn6,IoC.Shatslbepdbyehseayiesgflyrtoteitctryf.BeJ0ofehfly,tesecrsltranateoshdstoteseglfN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

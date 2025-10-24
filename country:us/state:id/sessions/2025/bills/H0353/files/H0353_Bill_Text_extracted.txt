@@ -1,0 +1,158 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 353
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; AMENDING CHAPTER 3, TITLE 41, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 41-351, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING COST-SHARING REQUIREMENTS FOR HEALTH BENEFIT PLANS;
+5 AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 3, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-351, Idaho Code, and to read as follows:
+10 41-351. COST-SHARING REQUIREMENTS FOR HEALTH BENEFIT PLANS. (1) As
+11 used in this section, "cost-sharing requirement" means any copayment, coin-
+12 surance, deductible, or annual limitation on cost-sharing required by a
+13 health benefit plan for a specific health care service covered by the health
+14 benefit plan.
+15 (2) When calculating an enrollee's contribution to any applicable
+16 cost-sharing requirement for a covered prescription drug, an insurer shall
+17 include any cost-sharing amounts paid:
+18 (a) By the enrollee; or
+19 (b) On behalf of the enrollee by another party.
+20 (3) If a manufacturer pays an amount on behalf of an enrollee or pro-
+21 vides other financial assistance for a covered prescription drug, such manu-
+22 facturer:
+23 (a) Shall provide the full value of the assistance to the enrollee until
+24 the enrollee meets the enrollee's cost-sharing requirements, and to the
+25 enrollee's health benefit plan thereafter;
+26 (b) May not discontinue a coupon during the calendar year;
+27 (c) Shall notify an enrollee prior to October 1 if financial assistance
+28 will be discontinued in the subsequent calendar year;
+29 (d) Shall provide assistance to an individual without health insurance
+30 coverage on terms no less favorable than those offered to an insured in-
+31 dividual;
+32 (e) May not adjust the amount of assistance it provides to an enrollee
+33 if the enrollee's health benefit plan eliminates the enrollee's cost-
+34 sharing requirements when payments are made on an enrollee's behalf for
+35 a qualified prescription drug; and
+36 (f) May not provide assistance in the form of a post-claim reimburse-
+37 ment to an enrollee.
+38 (4) On or before August 1, 2027, and on or before August 1 of each year
+39 thereafter, a manufacturer shall report to the department of insurance the
+40 following information for the preceding calendar year for each prescription
+41 drug for which assistance, including a discount, rebate, product voucher, or
+42 other reduction intended to lower an insured's cost-sharing, is offered:
+2
+1 (a) The number of patients in the state who received assistance;
+2 (b) The total value of such assistance;
+3 (c) The terms and conditions to qualify for assistance and how the eli-
+4 gibility is verified for accuracy; and
+5 (d) The total sales of the prescription drug in the state, based on the
+6 wholesale acquisition cost of the prescription drug.
+7 (5) This section applies to any health benefit plan entered into,
+8 amended, extended, or renewed on or after January 1, 2027, and applies to a
+9 qualified high-deductible health plan only after an enrollee satisfies the
+10 deductible of such plan.
+11 (6) The provisions of this section shall not apply to a prescription
+12 drug if:
+13 (a) There is a medically appropriate generic equivalent or biosimilar
+14 prescription drug that is covered under the health benefit plan; and
+15 (b) The patient's doctor has indicated that the medically appropriate
+16 generic equivalent or biosimilar prescription drug is appropriate for
+17 the patient.
+18 (7) The department of insurance may promulgate rules, subject to leg-
+19 islative approval, to carry out the provisions of this section.
+20 SECTION 2. This act shall be in full force and effect on and after Jan-
+21 uary 1, 2027.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YHHADWECNAGTOHHI;AGCR3,TE4,IOC,BEANOFANWSN4,IOC,TOEHPSRGCGRSFRHHBTPDPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.CGRSFRHHBTP.()Adintss,"gr"msayc,c,d,orallnoncgrdbyhbtpnfraschhcesecdbytehtp)Wncganescntoayagrtfracdpnd,anirseaycgasp)Bytee;o)Onbfofteeebyarp)Ifamrpsanatonbfofaneeorpsorflaefracdpnd,shm)Slpeteflveofteaetoteeeueeemsteescgr,adtotshhbtpnt)Myntdeacndgtecry)SlnyaneeprtoOr1ifflalbeddintestcry)Slpeaetoanilwthhieontsnolsfetnteodtoanidi)Myntatteatofaeitpstoanefteeshhbtpnesteescgrswnpsaemeonanesbffqdpnd;a)Myntpeaeintefmofapmrttoane)OnorbeAt1,2,adonorbeAt1ofehy,amrslrttotedtofietginfrtepgcryrfrehpgfrwha,igad,r,ptv,orrnidtolranisc,iso]
+[DELETED: )Tenrofpsinteseworda)Tetlveofsha)Tetsadcstoqyfraeadhwteeyisvdfra;a)Tetlssoftepndgintes,bdonteanctoftepnd)Tssnastoayhhbtpnedi,e,orrdonorarJy1,2,adastodhehhpnoyaraneessteofshp)Tepsoftssnslntaytoapgi)Teisamyaegcetorbndgttiscdurtehhbtp;a)Tepsdrhsidtttemyacetorbrpndgisaefep)Tedtofiemyper,sttolea,tocyottepsoftssN2.TsatslbeinflfeadetonadarJy1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 353
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; AMENDING CHAPTER 3, TITLE 41, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 41-351, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING COST-SHARING REQUIREMENTS FOR HEALTH BENEFIT PLANS;
+5 AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 3, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-351, Idaho Code, and to read as follows:
+10 41-351. COST-SHARING REQUIREMENTS FOR HEALTH BENEFIT PLANS. (1) As
+11 used in this section, "cost-sharing requirement" means any copayment, coin-
+12 surance, deductible, or annual limitation on cost-sharing required by a
+13 health benefit plan for a specific health care service covered by the health
+14 benefit plan.
+15 (2) When calculating an enrollee's contribution to any applicable
+16 cost-sharing requirement for a covered prescription drug, an insurer shall
+17 include any cost-sharing amounts paid:
+18 (a) By the enrollee; or
+19 (b) On behalf of the enrollee by another party.
+20 (3) If a manufacturer pays an amount on behalf of an enrollee or pro-
+21 vides other financial assistance for a covered prescription drug, such manu-
+22 facturer:
+23 (a) Shall provide the full value of the assistance to the enrollee until
+24 the enrollee meets the enrollee's cost-sharing requirements, and to the
+25 enrollee's health benefit plan thereafter;
+26 (b) May not discontinue a coupon during the calendar year;
+27 (c) Shall notify an enrollee prior to October 1 if financial assistance
+28 will be discontinued in the subsequent calendar year;
+29 (d) Shall provide assistance to an individual without health insurance
+30 coverage on terms no less favorable than those offered to an insured in-
+31 dividual;
+32 (e) May not adjust the amount of assistance it provides to an enrollee
+33 if the enrollee's health benefit plan eliminates the enrollee's cost-
+34 sharing requirements when payments are made on an enrollee's behalf for
+35 a qualified prescription drug; and
+36 (f) May not provide assistance in the form of a post-claim reimburse-
+37 ment to an enrollee.
+38 (4) On or before August 1, 2027, and on or before August 1 of each year
+39 thereafter, a manufacturer shall report to the department of insurance the
+40 following information for the preceding calendar year for each prescription
+41 drug for which assistance, including a discount, rebate, product voucher, or
+42 other reduction intended to lower an insured's cost-sharing, is offered:
+
+2
+1 (a) The number of patients in the state who received assistance;
+2 (b) The total value of such assistance;
+3 (c) The terms and conditions to qualify for assistance and how the eli-
+4 gibility is verified for accuracy; and
+5 (d) The total sales of the prescription drug in the state, based on the
+6 wholesale acquisition cost of the prescription drug.
+7 (5) This section applies to any health benefit plan entered into,
+8 amended, extended, or renewed on or after January 1, 2027, and applies to a
+9 qualified high-deductible health plan only after an enrollee satisfies the
+10 deductible of such plan.
+11 (6) The provisions of this section shall not apply to a prescription
+12 drug if:
+13 (a) There is a medically appropriate generic equivalent or biosimilar
+14 prescription drug that is covered under the health benefit plan; and
+15 (b) The patient's doctor has indicated that the medically appropriate
+16 generic equivalent or biosimilar prescription drug is appropriate for
+17 the patient.
+18 (7) The department of insurance may promulgate rules, subject to leg-
+19 islative approval, to carry out the provisions of this section.
+20 SECTION 2. This act shall be in full force and effect on and after Jan-
+21 uary 1, 2027.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YHHADWECNAGTOHHI;AGCR3,TE4,IOC,BEANOFANWSN4,IOC,TOEHPSRGCGRSFRHHBTPDPGANEEDeItEdbyteLeofteSeofIN1.TtCr3,Te4,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn4,IoC,adtordasf.CGRSFRHHBTP.()Adintss,"gr"msayc,c,d,orallnoncgrdbyhbtpnfraschhcesecdbytehtp)Wncganescntoayagrtfracdpnd,anirseaycgasp)Bytee;o)Onbfofteeebyarp)Ifamrpsanatonbfofaneeorpsorflaefracdpnd,shm)Slpeteflveofteaetoteeeueeemsteescgr,adtotshhbtpnt)Myntdeacndgtecry)SlnyaneeprtoOr1ifflalbeddintestcry)Slpeaetoanilwthhieontsnolsfetnteodtoanidi)Myntatteatofaeitpstoanefteeshhbtpnesteescgrswnpsaemeonanesbffqdpnd;a)Myntpeaeintefmofapmrttoane)OnorbeAt1,2,adonorbeAt1ofehy,amrslrttotedtofietginfrtepgcryrfrehpgfrwha,igad,r,ptv,orrnidtolranisc,iso]
+[DELETED: )Tenrofpsinteseworda)Tetlveofsha)Tetsadcstoqyfraeadhwteeyisvdfra;a)Tetlssoftepndgintes,bdonteanctoftepnd)Tssnastoayhhbtpnedi,e,orrdonorarJy1,2,adastodhehhpnoyaraneessteofshp)Tepsoftssnslntaytoapgi)Teisamyaegcetorbndgttiscdurtehhbtp;a)Tepsdrhsidtttemyacetorbrpndgisaefep)Tedtofiemyper,sttolea,tocyottepsoftssN2.TsatslbeinflfeadetonadarJy1,2]

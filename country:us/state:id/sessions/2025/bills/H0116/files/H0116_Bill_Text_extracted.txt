@@ -1,0 +1,1426 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 116
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO INSURANCE; REPEALING SECTION 41-2210D, IDAHO CODE, RELATING
+3 TO CONVERSION PLANS; AMENDING SECTION 41-4703, IDAHO CODE, TO RE-
+4 MOVE DEFINITIONS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+5 41-4706, IDAHO CODE, TO REMOVE A CODE REFERENCE AND TO MAKE TECHNI-
+6 CAL CORRECTIONS; AMENDING SECTION 41-4707, IDAHO CODE, TO PROVIDE A
+7 CORRECT CODE REFERENCE AND TO MAKE A TECHNICAL CORRECTION; REPEALING
+8 SECTION 41-4708B, IDAHO CODE, RELATING TO CONVERSION PLANS; REPEALING
+9 SECTION 41-4709, IDAHO CODE, RELATING TO NOTICE OF INTENT TO OPERATE
+10 AS A RISK-ASSUMING CARRIER OR A REINSURING CARRIER; REPEALING SECTION
+11 41-4710, IDAHO CODE, RELATING TO APPLICATIONS TO BECOME A RISK-ASSUM-
+12 ING CARRIER; REPEALING SECTION 41-4711, IDAHO CODE, RELATING TO THE
+13 SMALL EMPLOYER CARRIER REINSURANCE PROGRAM; REPEALING SECTION 41-4712,
+14 IDAHO CODE, RELATING TO SMALL EMPLOYER HEALTH BENEFIT PLANS; REPEALING
+15 SECTION 41-4713, IDAHO CODE, RELATING TO PERIODIC MARKET EVALUATION;
+16 AMENDING SECTION 41-5206, IDAHO CODE, TO REMOVE A CODE REFERENCE AND
+17 TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 41-5210, IDAHO CODE,
+18 TO REMOVE A PROVISION REGARDING APPLICATIONS TO BECOME A RISK-ASSUMING
+19 CARRIER AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION 41-5501,
+20 IDAHO CODE, TO REVISE A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS;
+21 AMENDING SECTION 41-5502, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+22 CREATION OF THE INDIVIDUAL HIGH RISK REINSURANCE POOL AND TO MAKE A
+23 TECHNICAL CORRECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+24 FECTIVE DATE.
+25 Be It Enacted by the Legislature of the State of Idaho:
+26 SECTION 1. That Section 41-2210D, Idaho Code, be, and the same is hereby
+27 repealed.
+28 SECTION 2. That Section 41-4703, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 41-4703. DEFINITIONS. As used in this chapter:
+31 (1) "Actuarial certification" means a written statement by a member of
+32 the American academy of actuaries or other individual acceptable to the di-
+33 rector that a small employer carrier is in compliance with the provisions of
+34 section 41-4706, Idaho Code, based upon on the person's examination and in-
+35 cluding a review of the appropriate records and the actuarial assumptions
+36 and methods used by the small employer carrier in establishing premium rates
+37 for applicable health benefit plans.
+38 (2) "Affiliate" or "affiliated" means any entity or person who directly
+39 or indirectly through one (1) or more intermediaries, controls or is con-
+40 trolled by, or is under common control with, a specified entity or person.
+2
+1 (3) "Agent" means a producer as defined in section 41-1003(8), Idaho
+2 Code.
+3 (4) "Base premium rate" means, for each class of business as to a rating
+4 period, the lowest premium rate charged or that could have been charged under
+5 a rating system for that class of business by the small employer carrier to
+6 small employers with similar case characteristics for health benefit plans
+7 with the same or similar coverage.
+8 (5) "Board" means the board of directors of the small employer reinsur-
+9 ance program and the individual high risk reinsurance pool as provided for in
+10 section 41-5502, Idaho Code.
+11 (6) (5) "Carrier" means any entity that provides, or is authorized to
+12 provide, health insurance in this state. For the purposes of this chap-
+13 ter, carrier includes an insurance company, a hospital or professional
+14 service corporation, a fraternal benefit society, a health maintenance or-
+15 ganization, any entity providing health insurance coverage or benefits to
+16 residents of this state as certificate holders under a group policy issued
+17 or delivered outside of this state, and any other entity providing a plan of
+18 health insurance or health benefits subject to state insurance regulation.
+19 (7) (6) "Case characteristics" means demographic or other objective
+20 characteristics of a small employer that are considered by the small em-
+21 ployer carrier in the determination of premium rates for the small employer,
+22 provided that claim experience, health status and duration of coverage shall
+23 not be case characteristics for the purposes of this chapter.
+24 (8) "Catastrophic health benefit plan" means a higher limit health ben-
+25 efit plan developed pursuant to section 41-4712, Idaho Code.
+26 (9) (7) "Class of business" means all or a separate grouping of small
+27 employers established pursuant to section 41-4705, Idaho Code.
+28 (10) (8) "Control" shall be defined in the same manner as in section
+29 41-3802(2), Idaho Code.
+30 (11) (9) "Dependent" in any new or renewing plan means a spouse, an un-
+31 married child under the age of twenty-five (25) years and who receives more
+32 than one-half (1/2) of his financial support from the parent, or an unmarried
+33 child of any age who is medically certified as disabled and dependent upon
+34 the parent.
+35 (12) (10) "Director" means the director of the department of insurance
+36 of the state of Idaho.
+37 (13) (11) "Eligible employee" means an employee who works on a full-time
+38 basis and has a normal work week of thirty (30) or more hours or, by agreement
+39 between the employer and the carrier, an employee who works between twenty
+40 (20) and thirty (30) hours per week. The term includes a sole proprietor, a
+41 partner of a partnership, and an independent contractor, if the sole propri-
+42 etor, partner or independent contractor is included as an employee under a
+43 health benefit plan of a small employer, but does not include an employee who
+44 works on a part-time, temporary, seasonal or substitute basis. The term el-
+45 igible employee may include public officers and public employees without re-
+46 gard to the number of hours worked when designated by a small employer.
+47 (14) (12) "Established geographic service area" means a geographic
+48 area, as approved by the director and based on the carrier's certificate of
+49 authority to transact insurance in this state, within which the carrier is
+50 authorized to provide coverage.
+3
+1 (15) (13) "Health benefit plan" means any hospital or medical policy or
+2 certificate, any subscriber contract provided by a hospital or professional
+3 service corporation, or managed care organization subscriber contract.
+4 Health benefit plan does not include policies or certificates of insur-
+5 ance for specific disease, hospital confinement indemnity, accident-only,
+6 credit, dental, vision, medicare supplement, long-term care, or disability
+7 income insurance, student health benefits only coverage issued as a supple-
+8 ment to liability insurance, worker's compensation or similar insurance,
+9 automobile medical payment insurance or nonrenewable short-term coverage
+10 issues issued for a period of twelve (12) months or less.
+11 (16) (14) "Index rate" means, for each class of business as to a rating
+12 period for small employers with similar case characteristics, the arith-
+13 metic average of the applicable base premium rate and the corresponding
+14 highest premium rate.
+15 (17) (15) "Late enrollee" means an eligible employee or dependent who
+16 requests enrollment in a health benefit plan of a small employer following
+17 the initial enrollment period during which the individual is entitled to en-
+18 roll under the terms of the health benefit plan, provided that the initial
+19 enrollment period is a period of at least thirty (30) days. However, an eli-
+20 gible employee or dependent shall not be considered a late enrollee if:
+21 (a) The individual meets each of the following:
+22 (i) The individual was covered under qualifying previous cover-
+23 age at the time of the initial enrollment;
+24 (ii) The individual lost coverage under qualifying previous cov-
+25 erage as a result of termination of employment or eligibility, or
+26 the involuntary termination of the qualifying previous coverage;
+27 and
+28 (iii) The individual requests enrollment within thirty (30) days
+29 after termination of the qualifying previous coverage.
+30 (b) The individual is employed by an employer which offers multiple
+31 health benefit plans and the individual elects a different plan during
+32 an open enrollment period.
+33 (c) A court has ordered coverage be provided for a spouse or minor or
+34 dependent child under a covered employee's health benefit plan and re-
+35 quest for enrollment is made within thirty (30) days after issuance of
+36 the court order.
+37 (d) The individual first becomes eligible.
+38 (e) If an individual seeks to enroll a dependent during the first sixty
+39 (60) days of eligibility, the coverage of the dependent shall become ef-
+40 fective:
+41 (i) In the case of marriage, not later than the first day of the
+42 first month beginning after the date the completed request for en-
+43 rollment is received;
+44 (ii) In the case of a dependent's birth, as of the date of such
+45 birth; or
+46 (iii) In the case of a dependent's adoption or placement for adop-
+47 tion, the date of such adoption or placement for adoption.
+48 (18) (16) "New business premium rate" means, for each class of business
+49 as to a rating period, the lowest premium rate charged or offered or which
+50 could have been charged or offered by the small employer carrier to small em-
+4
+1 ployers with similar case characteristics for newly issued health benefit
+2 plans with the same or similar coverage.
+3 (19) "Plan of operation" means the plan of operation of the program es-
+4 tablished pursuant to section 41-4711, Idaho Code.
+5 (20) (17) "Plan year" means the year that is designated as the plan year
+6 in the plan document of a group health benefit plan, except that if the plan
+7 document does not designate a plan year or if there is no plan document, the
+8 plan year is:
+9 (a) The deductible/limit year used under the plan;
+10 (b) If the plan does not impose deductibles or limits on a yearly basis,
+11 then the plan year is the policy year;
+12 (c) If the plan does not impose deductibles or limits on a yearly basis
+13 or the insurance policy is not renewed on an annual basis, then the plan
+14 year is the employer's taxable year; or
+15 (d) In any other case, the plan year is the calendar year.
+16 (21) (18) "Premium" means all moneys paid by a small employer and eligi-
+17 ble employees as a condition of receiving coverage from a small employer car-
+18 rier, including any fees or other contributions associated with the health
+19 benefit plan.
+20 (22) "Program" means the Idaho small employer reinsurance program cre-
+21 ated in section 41-4711, Idaho Code.
+22 (23) (19) "Qualifying previous coverage" and "qualifying existing cov-
+23 erage" mean benefits or coverage provided under:
+24 (a) Medicare or medicaid, civilian health and medical program for uni-
+25 formed services (CHAMPUS), the Indian health service program, a state
+26 health benefit risk pool or any other similar publicly sponsored pro-
+27 gram; or
+28 (b) Any other group or individual health insurance policy or health
+29 benefit arrangement whether or not subject to the state insurance laws,
+30 including coverage provided by a health maintenance organization,
+31 hospital or professional service corporation, or a fraternal benefit
+32 society, that provides benefits similar to or exceeding benefits pro-
+33 vided under the basic health benefit plan.
+34 (24) (20) "Rating period" means the calendar period for which premium
+35 rates established by a small employer carrier are assumed to be in effect.
+36 (25) "Reinsuring carrier" means a small employer carrier participating
+37 in the reinsurance program pursuant to section 41-4711, Idaho Code.
+38 (26) (21) "Restricted network provision" means any provision of a
+39 health benefit plan that conditions the payment of benefits, in whole or in
+40 part, on the use of health care providers that have entered into a contrac-
+41 tual arrangement with the carrier to provide health care services to covered
+42 individuals.
+43 (27) "Risk-assuming carrier" means a small employer carrier whose ap-
+44 plication is approved by the director pursuant to section 41-4710, Idaho
+45 Code.
+46 (28) (22) "Small employer" means any person, firm, corporation, part-
+47 nership or association that is actively engaged in business that employed an
+48 average of at least two (2) but no more than fifty (50) eligible employees on
+49 business days during the preceding calendar year and that employs at least
+50 two (2) but no more than fifty (50) eligible employees on the first day of the
+5
+1 plan year, the majority of whom were and are employed within this state. In
+2 determining the number of eligible employees, companies that are affiliated
+3 companies, or that are eligible to file a combined tax return for purposes of
+4 state taxation, shall be considered one (1) employer.
+5 (29) "Small employer basic health benefit plan" means a lower cost
+6 health benefit plan developed pursuant to section 41-4712, Idaho Code.
+7 (30) (23) "Small employer carrier" means a carrier that offers health
+8 benefit plans covering eligible employees of one (1) or more small employers
+9 in this state.
+10 (31) "Small employer catastrophic health benefit plan" means a higher
+11 limit health benefit plan developed pursuant to section 41-4712, Idaho Code.
+12 (32) "Small employer standard health benefit plan" means a health bene-
+13 fit plan developed pursuant to section 41-4712, Idaho Code.
+14 SECTION 3. That Section 41-4706, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 41-4706. RESTRICTIONS RELATING TO PREMIUM RATES. (1) Premium rates
+17 for health benefit plans subject to the provisions of this chapter shall be
+18 subject to the following provisions:
+19 (a) The index rate for a rating period for any class of business shall
+20 not exceed the index rate for any other class of business by more than
+21 twenty percent (20%).
+22 (b) For a class of business, the premium rates charged during a rat-
+23 ing period to small employers with similar case characteristics for the
+24 same or similar coverage, or the rates that could be charged to such em-
+25 ployers under the rating system for that class of business, shall not
+26 vary from the index rate by more than fifty percent (50%) of the index
+27 rate.
+28 (c) The percentage increase in the premium rate charged to a small em-
+29 ployer for a new rating period may not exceed the sum of the following:
+30 (i) The percentage change in the new business premium rate mea-
+31 sured from the first day of the prior rating period to the first
+32 day of the new rating period. In the case of a health benefit plan
+33 into which the small employer carrier is no longer enrolling new
+34 small employers, the small employer carrier shall use the percent-
+35 age change in the base premium rate, provided that such change does
+36 not exceed, on a percentage basis, the change in the new business
+37 premium rate for the most similar health benefit plan into which
+38 the small employer carrier is actively enrolling new small employ-
+39 ers;
+40 (ii) Any adjustment, not to exceed fifteen percent (15%) annually
+41 and adjusted pro rata for rating periods of less than one (1) year,
+42 due to the claim experience, health status or duration of cover-
+43 age of the employees or dependents of the small employer as deter-
+44 mined from the small employer carrier's rate manual for the class
+45 of business; and
+46 (iii) Any adjustment due to change in coverage or change in the
+47 case characteristics of the small employer as determined from the
+48 small employer carrier's rate manual for the class of business.
+6
+1 (d) Adjustments in rates for claim experience, health status and du-
+2 ration of coverage shall not be charged to individual employees or de-
+3 pendents. Any such adjustment shall be applied uniformly to the rates
+4 charged for all employees and dependents of the small employer.
+5 (e) Premium rates for health benefit plans shall comply with the re-
+6 quirements of this section notwithstanding any assessments paid or
+7 payable by small employer carriers pursuant to section 41-4711, Idaho
+8 Code, or chapter 55, title 41, Idaho Code.
+9 (f)(i) Small employer carriers shall apply rating factors, in-
+10 cluding case characteristics, consistently with respect to all
+11 small employers in a class of business. Rating factors shall
+12 produce premiums for identical groups which differ only by the
+13 amounts attributable to plan design and do not reflect differences
+14 due to the nature of the groups assumed to select particular health
+15 benefit plans; and
+16 (ii) A small employer carrier shall treat all health benefit plans
+17 issued or renewed in the same calendar month as having the same
+18 rating period.
+19 (g) For the purposes of this subsection, a health benefit plan that
+20 utilizes a restricted provider network shall not be considered similar
+21 coverage to a health benefit plan that does not utilize such a network,
+22 provided that utilization of the restricted provider network results in
+23 substantial differences in claims costs.
+24 (h) The small employer carrier shall not use case characteristics,
+25 other than age, individual tobacco use, geography, as defined by rule of
+26 the director, or gender, without prior approval of the director.
+27 (i) A small employer carrier may utilize age as a case characteristic in
+28 establishing premium rates, provided that the same rating factor shall
+29 be applied to all dependents under twenty-five (25) years of age, and
+30 the same rating factor may be applied on an annual basis as to individu-
+31 als or nondependents twenty (20) years of age or older.
+32 (j) The director may establish rules to implement the provisions of
+33 this section and to assure that rating practices used by small employer
+34 carriers are consistent with the purposes of this chapter, including
+35 rules that:
+36 (i) Assure that differences in rates charged for health benefit
+37 plans by small employer carriers are reasonable and reflect objec-
+38 tive differences in plan design, not including differences due to
+39 the nature of the groups assumed to select particular health bene-
+40 fit plans;
+41 (ii) Prescribe the manner in which case characteristics may be
+42 used by small employer carriers; and
+43 (iii) Prescribe the manner in which a small employer carrier is to
+44 demonstrate compliance with the provisions of this section, in-
+45 cluding requirements that a small employer carrier provide the di-
+46 rector with actuarial certification as to such compliance.
+47 (2) A small employer carrier shall not transfer a small employer invol-
+48 untarily into or out of a class of business. A small employer carrier shall
+49 not offer to transfer a small employer into or out of a class of business un-
+50 less such offer is made to transfer all small employers in the class of busi-
+7
+1 ness without regard to case characteristics, claim experience, health sta-
+2 tus or duration of coverage since issue.
+3 (3) The director may suspend for a specified period the application of
+4 subsection (1)(a) of this section as to the premium rates applicable to one
+5 (1) or more small employers included within a class of business of a small em-
+6 ployer carrier for one (1) or more rating periods upon a filing by the small
+7 employer carrier and a finding by the director either that the suspension is
+8 reasonable in light of the financial condition of the small employer carrier
+9 or that the suspension would enhance the efficiency and fairness of the mar-
+10 ketplace for small employer health insurance.
+11 (4) In connection with the offering for sale of any health benefit plan
+12 to a small employer, a small employer carrier shall make a reasonable disclo-
+13 sure, as part of its solicitation and sales materials, of all of the follow-
+14 ing:
+15 (a) The extent to which premium rates for a specified small employer are
+16 established or adjusted based upon on the actual or expected variation
+17 in claims costs or actual or expected variation in health status of the
+18 employees of the small employer and their dependents;
+19 (b) The provisions of the health benefit plan concerning the small em-
+20 ployer carrier's right to change premium rates and the factors, other
+21 than claim experience, that affect changes in premium rates;
+22 (c) The provisions relating to renewability of policies and contracts;
+23 and
+24 (d) The provisions relating to any preexisting condition provision.
+25 (5)(a) Each small employer carrier shall maintain at its principal
+26 place of business a complete and detailed description of its rating
+27 practices and renewal underwriting practices, including information
+28 and documentation that demonstrate that its rating methods and prac-
+29 tices are based upon on commonly accepted actuarial assumptions and are
+30 in accordance with sound actuarial principles.
+31 (b) Each small employer carrier shall file with the director annually
+32 on or before March 15, an actuarial certification certifying that the
+33 carrier is in compliance with the provisions of this chapter and that
+34 the rating methods of the small employer carrier are actuarially sound.
+35 Such certification shall be in a form and manner, and shall contain such
+36 information, as specified by the director. A copy of the certification
+37 shall be retained by the small employer carrier at its principal place
+38 of business.
+39 (c) A small employer carrier shall make the information and documenta-
+40 tion described in subsection (4)(a) of this section available to the di-
+41 rector upon request. Except in cases of violations of the provisions of
+42 this chapter, the information shall be considered proprietary and trade
+43 secret information and shall not be subject to disclosure by the direc-
+44 tor to persons outside of the department except as agreed to by the small
+45 employer carrier or as ordered by a court of competent jurisdiction.
+46 SECTION 4. That Section 41-4707, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 41-4707. RENEWABILITY OF COVERAGE. (1) A health benefit plan subject
+49 to the provisions of this chapter shall be renewable with respect to all eli-
+8
+1 gible employees or dependents, at the option of the small employer, except in
+2 any of the following cases:
+3 (a) Nonpayment of the required premiums;
+4 (b) Fraud or intentional misrepresentation of material fact by the
+5 small employer;
+6 (c) Noncompliance with the carrier's minimum participation require-
+7 ments;
+8 (d) Noncompliance with the carrier's employer contribution require-
+9 ments;
+10 (e) In the case of health benefit plans that are made available in the
+11 small employer market only through one (1) or more associations as de-
+12 fined in section 41-2202, Idaho Code, the membership of an employer in
+13 the association, on the basis of which the coverage is provided ceases,
+14 but only if the coverage is terminated under this paragraph uniformly
+15 without regard to any health status-related factor relating to any cov-
+16 ered individual;
+17 (f) The small employer no longer meets the requirements of section
+18 41-4703(28)(22), Idaho Code;
+19 (g) The small employer carrier elects, at the time of coverage renewal,
+20 to discontinue offering a particular health benefit plan delivered or
+21 issued for delivery to small employers in this state. Unless otherwise
+22 authorized in advance by the department of insurance, a carrier may dis-
+23 continue a product only after the product has been in use for at least
+24 thirty-six (36) consecutive months, provided the carrier may not dis-
+25 continue more than fifteen percent (15%) of its total number of employ-
+26 ees and dependents in all lines of business regulated by this chapter in
+27 a twelve (12) month period. The carrier shall:
+28 (i) Provide advance written or electronic notice of its decision
+29 under this paragraph to the director;
+30 (ii) Provide notice of the discontinuation to all affected em-
+31 ployers and employees or dependents at least ninety (90) calendar
+32 days prior to the date the particular health benefit plan will be
+33 discontinued by the carrier, provided that notice to the director
+34 under the provisions of this paragraph shall be provided at least
+35 fourteen (14) calendar days prior to the notice to the affected em-
+36 ployers;
+37 (iii) Offer to each affected employer, on a guaranteed issue
+38 basis, the option to purchase all other health benefit plans cur-
+39 rently being offered by the carrier to small employers in this
+40 state;
+41 (iv) In exercising the option to discontinue the health benefit
+42 plan and in offering the option to purchase all other health ben-
+43 efit plans under the provisions of this paragraph, act uniformly
+44 without regard to:
+45 1. The claims experience of an affected employer;
+46 2. Any health status-related factor relating to any af-
+47 fected employee or dependent; or
+48 3. Any health status-related factor relating to any new em-
+49 ployee or dependent who may become eligible for the cover-
+50 age; and
+9
+1 (v) Offer the new products at rates that comply with section
+2 41-4706(1)(c), Idaho Code.
+3 (h) The small employer carrier elects to nonrenew all of its health ben-
+4 efit plans delivered or issued for delivery to small employers in this
+5 state. In such a case the carrier shall:
+6 (i) Provide advance notice of its decision under this paragraph
+7 to the director in each state in which it is licensed; and
+8 (ii) Provide notice of the decision not to renew coverage to all
+9 affected small employers and to the director at least one hundred
+10 eighty (180) calendar days prior to the nonrenewal of any health
+11 benefit plans by the carrier. Notice to the director under the
+12 provisions of this paragraph shall be provided at least three (3)
+13 working days prior to the notice to the affected small employers;
+14 or
+15 (i) The director finds that the continuation of the coverage would:
+16 (i) Not be in the best interests of the policyholders or certifi-
+17 cate holders; or
+18 (ii) Impair the carrier's ability to meet its contractual obliga-
+19 tions.
+20 In such instance the director shall assist affected small employers in
+21 finding replacement coverage.
+22 (2) A small employer carrier that elects not to renew a health benefit
+23 plan under the provisions of subsection (1)(h) of this section shall be pro-
+24 hibited from writing new business in the small employer market in this state
+25 for a period of five (5) years from the date of notice to the director.
+26 (3) In the case of a small employer carrier doing business in one (1) es-
+27 tablished geographic service area of the state, the rules set forth in this
+28 subsection section shall apply only to the carrier's operations in that ser-
+29 vice area.
+30 SECTION 5. That Section 41-4708B, Idaho Code, be, and the same is hereby
+31 repealed.
+32 SECTION 6. That Section 41-4709, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 7. That Section 41-4710, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 8. That Section 41-4711, Idaho Code, be, and the same is hereby
+37 repealed.
+38 SECTION 9. That Section 41-4712, Idaho Code, be, and the same is hereby
+39 repealed.
+40 SECTION 10. That Section 41-4713, Idaho Code, be, and the same is hereby
+41 repealed.
+42 SECTION 11. That Section 41-5206, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+10
+1 41-5206. RESTRICTIONS RELATING TO PREMIUM RATES. (1) Premium rates
+2 for health benefit plans subject to the provisions of this chapter shall be
+3 subject to the following provisions:
+4 (a) The premium rates charged during a rating period to individuals
+5 with similar case characteristics for the same or similar coverage, or
+6 the rates that could be charged to such individuals under the rating
+7 system, shall not vary from the index rate by more than fifty percent
+8 (50%) of the index rate.
+9 (b) The percentage increase in the premium rate charged to an individ-
+10 ual for a new rating period may not exceed the sum of the following:
+11 (i) The percentage change in the new business premium rate mea-
+12 sured from the first day of the prior rating period to the first
+13 day of the new rating period. In the case of a health benefit plan
+14 into which the individual carrier is no longer enrolling new indi-
+15 viduals, the individual carrier shall use the percentage change in
+16 the base premium rate, provided that such change does not exceed,
+17 on a percentage basis, the change in the new business premium rate
+18 for the most similar health benefit plan into which the individual
+19 carrier is actively enrolling new individuals.
+20 (ii) Any adjustment, not to exceed fifteen percent (15%) annually
+21 and adjusted pro rata for rating periods of less than one (1) year,
+22 due to the claim experience, health status or duration of coverage
+23 of the individual or dependents as determined from the individual
+24 carrier's rate manual; and
+25 (iii) Any adjustment due to change in coverage or change in the
+26 case characteristics of the individual as determined from the in-
+27 dividual carrier's rate manual.
+28 (c) Premium rates for health benefit plans shall comply with the re-
+29 quirements of this section notwithstanding any assessments paid or
+30 payable by carriers pursuant to section 41-4711, Idaho Code, or chapter
+31 55, title 41, Idaho Code.
+32 (d)(i) Individual carriers shall apply rating factors, including
+33 case characteristics, consistently with respect to all individu-
+34 als. Rating factors shall produce premiums for identical individ-
+35 uals which differ only by the amounts attributable to plan design
+36 and do not reflect differences due to the nature of the individuals
+37 assumed to select particular health benefit plans; and
+38 (ii) An individual carrier shall treat all health benefit plans
+39 issued or renewed in the same calendar month as having the same
+40 rating period.
+41 (e) For purposes of this subsection, a health benefit plan that uti-
+42 lizes a restricted provider network shall not be considered similar
+43 coverage to a health benefit plan that does not utilize such a network,
+44 provided that utilization of the restricted provider network results in
+45 substantial differences in claims costs.
+46 (f) The individual carrier shall not use case characteristics, other
+47 than age, individual tobacco use, geography as defined by rule of the
+48 director, or gender, without prior approval of the director.
+49 (g) An individual carrier may utilize age as a case characteristic in
+50 establishing premium rates, provided that the same rating factor shall
+11
+1 be applied to all dependents under twenty-five (25) years of age, and
+2 the same rating factor may be applied on an annual basis as to individu-
+3 als or nondependents twenty (20) years of age or older.
+4 (h) The director may establish rules to implement the provisions of
+5 this section and to assure that rating practices used by individual car-
+6 riers are consistent with the purposes of this chapter, including rules
+7 that:
+8 (i) Assure that differences in rates charged for health benefit
+9 plans by individual carriers are reasonable and reflect objective
+10 differences in plan design, not including differences due to the
+11 nature of the individuals assumed to select particular health ben-
+12 efit plans;
+13 (ii) Prescribe the manner in which case characteristics may be
+14 used by individual carriers; and
+15 (iii) Prescribe the manner in which an individual carrier is to
+16 demonstrate compliance with the provisions of this section, in-
+17 cluding requirements that an individual carrier provide the di-
+18 rector with actuarial certification as to such compliance.
+19 (2) The director may suspend for a specified period the application of
+20 subsection (1)(a) of this section as to the premium rates applicable to one
+21 (1) or more individuals for one (1) or more rating periods upon a filing by
+22 the individual carrier and a finding by the director either that the suspen-
+23 sion is reasonable in light of the financial condition of the individual car-
+24 rier or that the suspension would enhance the efficiency and fairness of the
+25 marketplace for individual health insurance.
+26 (3) In connection with the offering for sale of any health benefit plan
+27 to an individual, an individual carrier shall make a reasonable disclosure,
+28 as part of its solicitation and sales materials, of all of the following:
+29 (a) The extent to which premium rates for an individual are established
+30 or adjusted based upon on the actual or expected variation in claims
+31 costs or actual or expected variation in health status of the individual
+32 and his dependents;
+33 (b) The provisions of the health benefit plan concerning the individ-
+34 ual carrier's right to change premium rates and the factors, other than
+35 claim experience, that affect changes in premium rates;
+36 (c) The provisions relating to renewability of policies and contracts;
+37 and
+38 (d) The provisions relating to any preexisting condition provision.
+39 (4)(a) Each individual carrier shall maintain at its principal place
+40 of business a complete and detailed description of its rating practices
+41 and renewal underwriting practices, including information and documen-
+42 tation that demonstrate that its rating methods and practices are based
+43 upon on commonly accepted actuarial assumptions and are in accordance
+44 with sound actuarial principles.
+45 (b) Each individual carrier shall file with the director annually on
+46 or before September 15, an actuarial certification certifying that the
+47 carrier is in compliance with the provisions of this chapter and that
+48 the rating methods of the individual carrier are actuarially sound.
+49 Such certification shall be in a form and manner, and shall contain such
+50 information, as specified by the director. A copy of the certification
+12
+1 shall be retained by the individual carrier at its principal place of
+2 business.
+3 (c) An individual carrier shall make the information and documentation
+4 described in subsection (4)(a) of this section available to the direc-
+5 tor upon request. Except in cases of violations of the provisions of
+6 this chapter, the information shall be considered proprietary and trade
+7 secret information and shall not be subject to disclosure by the direc-
+8 tor to persons outside of the department except as agreed to by the indi-
+9 vidual carrier or as ordered by a court of competent jurisdiction.
+10 SECTION 12. That Section 41-5210, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 41-5210. APPLICATION TO BECOME A RISK-ASSUMING CARRIER. (1) An indi-
+13 vidual carrier may apply to become a risk-assuming carrier by filing an ap-
+14 plication with the director in a form and manner prescribed by the director.
+15 (2) The director shall consider the following factors in evaluating an
+16 application filed under the provisions of subsection (1) of this section:
+17 (a) The carrier's financial condition;
+18 (b) The carrier's history of rating and underwriting individuals;
+19 (c) The carrier's commitment to market fairly to all individuals in the
+20 state or its established geographic service area, as applicable;
+21 (d) The carrier's experience with managing the risk of individuals; and
+22 (e) The extent to which a carrier has and will be able to maintain
+23 reinsurance pursuant to the provisions of subsection (3) of section
+24 41-5204, Idaho Code.
+25 (3) The director shall provide public notice of an application by an in-
+26 dividual carrier to be a risk-assuming carrier and shall provide at least a
+27 sixty (60) day period for public comment prior to making a decision on the ap-
+28 plication. If the application is not acted upon on within ninety (90) days
+29 of the receipt of the application by the director, the carrier may request a
+30 hearing.
+31 (4) The director may rescind the approval granted to a risk-assuming
+32 carrier under the provisions of this section if the director finds that:
+33 (a) The carrier's financial condition will no longer support the as-
+34 sumption of risk from issuing coverage to individuals in compliance
+35 with the provisions of section 41-5208, Idaho Code, without the protec-
+36 tion afforded by the program;
+37 (b) The carrier has failed to market fairly to all individuals in the
+38 state or its established geographic service area, as applicable; or
+39 (c) The carrier has failed to provide coverage to eligible individuals
+40 as required in section 41-5208, Idaho Code.
+41 (5) An individual carrier electing to be a risk-assuming carrier shall
+42 not be subject to the provisions of section 41-4711, Idaho Code, except to
+43 the extent such individual carrier is subject to assessment for additional
+44 funding pursuant to the provisions of subsection (12)(c) of section 41-4711,
+45 Idaho Code.
+46 SECTION 13. That Section 41-5501, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+13
+1 41-5501. DEFINITIONS. As used in this chapter:
+2 (1) "Agent" means a producer as defined in section 41-1003(8), Idaho
+3 Code.
+4 (2) "Board" means the board of directors of the Idaho individual high
+5 risk reinsurance pool established in this chapter and the Idaho small em-
+6 ployer health reinsurance program established in section 41-4711, Idaho
+7 Code.
+8 (3) "Carrier" means any entity that provides, or is authorized to pro-
+9 vide, health insurance in this state. For purposes of this chapter, car-
+10 rier includes an insurance company, any other entity providing reinsurance
+11 including excess or stop loss coverage, a hospital or professional service
+12 corporation, a fraternal benefit society, a managed care organization, any
+13 entity providing health insurance coverage or benefits to residents of this
+14 state as certificate holders under a group policy issued or delivered out-
+15 side of this state, and any other entity providing a plan of health insurance
+16 or health benefits subject to state insurance regulation.
+17 (4) "Dependent" means a spouse, a child or any other individual listed
+18 as having coverage under the primary policy holder's policyholder's or sub-
+19 scriber's health benefit plan.
+20 (5) "Director" means the director of the department of insurance of the
+21 state of Idaho.
+22 (6) "Eligible individual" means an Idaho resident individual or depen-
+23 dent of an Idaho resident who is:
+24 (a) Not eligible for coverage under a group health benefit plan, part
+25 A or part B of title XVIII of the social security act (medicare), or a
+26 state plan under title XIX (medicaid) or any successor program, and who
+27 does not have other health insurance coverage; and
+28 (b) Enrolled in an individual health benefit plan.
+29 (7) "Health benefit plan" means any hospital or medical policy or
+30 certificate, any subscriber contract provided by a hospital or profes-
+31 sional service corporation, or health maintenance organization subscriber
+32 contract. Health benefit plan does not include policies or certificates
+33 of insurance for specific disease, hospital confinement indemnity, acci-
+34 dent-only, credit, dental, vision, medicare supplement, long-term care, or
+35 disability income insurance, student health benefits only, coverage issued
+36 as a supplement to liability insurance, worker's compensation or similar in-
+37 surance, automobile medical payment insurance, or nonrenewable short-term
+38 coverage issued for a period of twelve (12) months or less.
+39 (8) "High risk medical condition" means a medical condition or diagno-
+40 sis identified by the board in its plan of operation as making an individual
+41 eligible for reinsurance through the pool.
+42 (9) "High risk pool plan" means an individual basic, standard, cata-
+43 strophic A, catastrophic B, or HSA compatible health benefit plan issued
+44 pursuant to this chapter prior to April 1, 2017.
+45 (10) "High risk pool plan premium" means all moneys paid by an individ-
+46 ual or a dependent as a condition of receiving coverage from a carrier, in-
+47 cluding any fees or other contributions associated with the health benefit
+48 plan.
+49 (11) "Individual carrier" means a carrier that offers individual health
+50 benefit plans.
+14
+1 (12) "Plan of operation" means the plan of operation of the individual
+2 high risk reinsurance pool established pursuant to this chapter.
+3 (13) "Pool" means the Idaho individual high risk reinsurance pool.
+4 (14) "Reinsurance premium" means the premium set by the board pursuant
+5 to section 41-5506, Idaho Code, to be paid by a reinsuring carrier for eligi-
+6 ble individuals ceded to the pool.
+7 (15) "Reinsuring carrier" means a carrier participating in the individ-
+8 ual high risk reinsurance pool established by this chapter.
+9 SECTION 14. That Section 41-5502, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 41-5502. CREATION OF THE INDIVIDUAL HIGH RISK REINSURANCE POOL --
+12 BOARD. (1) There is hereby created an independent public body corporate and
+13 politic to be known as the Idaho individual high risk reinsurance pool. The
+14 pool will perform an essential governmental function in the exercise of
+15 powers conferred upon on it in this chapter. The pool and any assessments
+16 imposed or collected pursuant to the operation of the pool shall at all times
+17 be free from taxation of every kind.
+18 (2) The pool created by this chapter and the small employer reinsurance
+19 program established in section 41-4711, Idaho Code, shall operate subject to
+20 the supervision and control of the board. The board shall consist of ten (10)
+21 members. Eight (8) members shall be appointed by the director and serve at
+22 the pleasure of the director. The director or his designated representative
+23 shall serve as an ex officio member of the board. In selecting the members of
+24 the board the director shall appoint four (4) members representing carriers,
+25 two (2) disability agents and two (2) members representing consumer inter-
+26 ests. One (1) member shall be a member of the senate appointed by the pres-
+27 ident pro tempore of the senate and one (1) member shall be a member of the
+28 house of representatives appointed by the speaker of the house.
+29 (3) The initial nonlegislative board members shall be appointed as fol-
+30 lows: two (2) of the members to serve a term of two (2) years; three (3) of
+31 the members to serve a term of four (4) years; and three (3) of the members to
+32 serve a term of six (6) years. Subsequent nonlegislative board members shall
+33 serve for a term of three (3) years. Legislative members of the board shall
+34 serve for a term of two (2) years. A vacancy in a legislative member's posi-
+35 tion on the board shall be filled in the same manner as the original appoint-
+36 ment. All other vacancies on the board shall be filled by the director. A
+37 nonlegislative board member may be removed by the director for cause.
+38 SECTION 15. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOI;RGSN4,IOC,ROCNP;AGSN4,IOC,TOREDSADTOMETLC;AGS,IOC,TOREACEREADTOMETLC;AGSN4,IOC,TOPETCEREADTOMEATLC;RN4,IOC,RGTOCNP;RN4,IOC,RGTONEOFITTOOSARGCRORARGC;RGS,IOC,RGTOASTOBEARGC;RGSN4,IOC,RGTOTLERCRREP;RGSN4OC,RGTOSLERHHBTP;RN4,IOC,RGTOPCMTEGSN4,IOC,TOREACEREAOMETLC;AGSN4,IOCOREAPNRGASTOBEARRADTOMEATLC;AGSN4OC,TOREADNADTOMETLCGSN4,IOC,TOREPSRNOFTEILHHRKREPLADTOMELC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishN2.TtSn4,IoC,b,adteseishdtordasf.D.Asudintsc)"lc"msawnstbyamroeAnayofasororilaetotedrttaslercrisincewhtepson4,IoC,bdunontepsenadigarwofteaersadtealadmsudbyteslercrinegpmrraehhbtp)""or""msayeyorpnwodriythoe()ormei,csoriscdb,orisurcnclw,asdeyorp]
+[DELETED: )""msaprasddinsn4,I)"epmr"m,frehcsofbsastoar,teltpmrecdorttcdhebncdurgsmfrttcsofbsbyteslercrtleswhsrcecsfrhhbtphteseorsrc)""mstebdofdsofteslerrepmadteilhhrkreplaspdfrin4,IoC)()""msayeyttp,orisadt,hhieintss.Frtepsoftsc,crisaniec,ahlorpec,aflbts,ahhmeo,ayeypghhieceorbstsoftsseascehsuragppyirddoeoftss,adayoreypgapnohieorhhbssttoseier)()"ec"msdcororosofaslerttaecdbyteslercrintednofpmrsfrtesledttcme,hhssaddnofcestbececsfrtepsoftsc)"chhbtp"msahrlthhbtpnddpttosn4,IoC)()"sofb"msaloraseggofssedpttosn4,IoC)()""slbeddintesemrasins,IoC)()""inaynworrgpnmsas,anudcdurteaeofte()ysadworsmnof()ofhsflstfmtep,oranudofayaewoismycdasddaddtuep)()""mstedroftedtofifteseofI)()"ee"msaneewowsonafsadhsanlwkwkofty()ormehso,byanteeradtec,aneewowsbnt)adty()hsprw.Tetmisasep,rofap,adanitc,iftesep,proritcrisidasaneeurhbtpnofasle,btdsntieaneewsonap,t,slorseb.Tetmeeeemyiepcosadpceswtrdtotenrofhswdwnddbyasle)()"dgcsea"msag,asadbytedradbdontecsceoytottieintss,wnwhtecridtopec]
+[DELETED: )()"hbtp"msayhlormlpyo,aysrctpdbyahlorpec,ormdceonsrchbtpndsntiepsorcsofiefrscd,hlcti,a,d,v,mes,lmc,ordei,sthhbsoyceidasasttolyi,wscnorsriemlptieornesmcsidfrapdofte()msorl)()"xr"m,frehcsofbsastoardfrsleswhsrcec,teacaeofteaebepmreadtectpmr)()"ee"msaneeeeordtwsetinahhbtpnofaslerfeiletpddgwhteilisedtoelurtetsoftehhbtp,pdttteitpdisapdofatltty()d.H,aneeeeordtslntbecdaleeei)Teilmsehoftef)Teilwscdurqgpsceatteteofteile)Teilltceurqgpsceasartoftnofetore,oeiytnofteqgpsc)Teilrsetwnty()drtnofteqgpsc)Teilisedbyanerwhosmhbtpsadteilesadtpndnonetp)Acthsodcebepdfraseormrotcduracdeshhbtpnadrtfretismewnty()dsarieoecto)Teilftbse)Ifanilsstoeladtdgtefts)dsofe,teceoftedtslbee)Inteceofm,ntlrtnteftdyofttmhbgartedetecdrtfretisr)Inteceofadsb,asoftedeofs;o)Inteceofadsanorptfra,tedeofshanorptfra)()"wbspmr"m,frehcsofbstoargp,teltpmrecdorodorwdhebncdorodbyteslercrtosle]
+[DELETED: swhsrcecsfrnyidhhbswhteseorsrc)"nofo"mstepnofonoftepmedpttosn4,IoC)()"ny"msteyrttisddastepnyntepndtofagphhbtp,etttifteptdsntdeapnyrorifteisnopnd,tnyri)Tedtyrudurtep)Iftepndsntiedsorlsonayybntepnyristepyy)Iftepndsntiedsorlsonayybrteiepyisntrdonanalb,tntepristeestey;o)Inayorc,tepnyristecry)()""msalmspdbyasleradeeesasacnofrgcefmaslerc,igayfsororcsadwhtehtp)""msteIoslerrepmcdinsn4,IoC)()"gpsc"ad"gegc"mnbsorcepdu)Meorm,cnhhadmlpmfrudss(,teInhhsep,ashbtrkplorayorsrpysdp;o)Ayorgporilhhiepyorhtatwrorntsttoteseielgcepdbyahhmeolorplsec,oraflb,ttpsbssrtooregbspdurtebchhbtp)()"gp"mstecrpdfrwhpsedbyaslercraeadtobeine)"gc"msaslercrpnterepmpttosn4,IoC)()"dnkp"msaypnofhbtpnttcsteptofb,inweori,onteueofhhcepsttheedioaclatwhtecrtopehhcesstoc)"gc"msaslercrweanisadbytedrpttosn4,I)()"le"msayp,f,c,pporanttisayedinbsttedaeofatltto()btnometnfy()eeesosdsdgtepgcryradttesatlo()btnometnfy()eeesonteftdyoft]
+[DELETED: ny,temyofwmweadaeedwntss.Igtenrofeee,csttaea,orttaeeetofeacdtxrnfrpsoet,slbecdoe()e)"lerbchhbtp"msalrchbtpnddpttosn4,IoC)()"lerc"msacrttoshtpscgeeesofoe()ormeslentss)"lercchhbtp"msahthhbtpnddpttosn4,IoC)"lersdhhbtp"msahhbtpnddpttosn4,IoCN3.TtSn4,IoC,b,adteseishdtordasf.RSRGTOPMR.()Pmrrhhbtpssttotepsoftscrslbttotefgp)Teixrefrargpdfraycsofbsstedteixrefrayorcsofbsbymetypt()Fracsofb,tepmrscddgargpdtosleswhsrcecsfrteorsrc,ortersttcdbecdtoshesurtergsmfrttcsofb,slnyfmteixrebymetnfypt()oftei)Tepeieintepmrecdtoaslerfranwrgpdmyntedtesmoftef)Tepeceintenwbspmremdfmteftdyofteprrgpdtotefyoftenwrgp.Inteceofahhbtpowhteslercrisnolregnle,teslercrsluetepeceintebepmr,pdttshcedte,onapeb,teceintenwbmrefrtemtsrhhbtpnioweslercrisayegnwsle)Aya,nttoedfnpt()adadporafrrgpsoflstnoe()yetotecme,hhssordnofceofteesordsofteslerasddfmteslercsremlfrtecfb;a)Ayatdetoceinceorceintecsofteslerasddfmtlercsremlfrtecsofb]
+[DELETED: )Asinrsfrcme,hhssaddnofceslntbecdtoilesord.Ayshatslbeaduytoterdfralesaddsoftesle)Pmrsfrhhbtpsslcywhtersoftssnngayaspdoebyslercspttosn4,I,orcr5,te4,IoC)Slercsslayrgf,igcec,cywhrttoalesinacsofb.Rgfssepsfrilgswhdroybytsaetopndnaddontrtdetoteneoftegsadtostprhtp;a)Aslercrslttalhhbtpdorrdintesecrmhashgtesgp)Frtepsoftss,ahhbtpntsardprnkslntbecdsetoahhbtpnttdsntueshandttunofterdprnkrsildsincsc)Teslercrslntuececrtna,iltou,g,asddbyreoed,org,wtpralofted)Aslercrmyueaeasaceccigpmr,pdtttesergfrseadtoaldsurte()ysofa,aesergfrmybeadonanalbsastoisornsty()ysofaeoro)Tedrmyehrstoittepsossnadtoaettrgpsudbyslesaectwhtepsoftsc,ist)Aettdsinrscdfrhhbsbyslercsaereadrtoedsinpnd,ntigdsdeteneoftegsadtostprhhbtp)Petemrinwhcecsmybdbyslerc;a)Petemrinwhaslercristecewhtepsoftss,igrsttaslercrpetedrwhalcnastoshc)Aslercrslnttrasleriyioorotofacsofb.Aslercrstortotraslerioorotofacsofbsusshorismetotralslesintecsofb]
+[DELETED: swtrdtocec,cme,hhssordnofcesei)Tedrmysdfrasdpdteanon()oftssnastotepmrsaetoo)ormeslesidwnacsofbsofaslercrfroe()ormergpsunafgbytesrcradafgbytedrertttesnieinltofteflcnofteslercrtttesnwdeeteeyadfsoftemefrslerhhi)Incnwhteogfrseofayhhbtpoasle,aslercrslmeared,asptofissnadssm,ofaloftef)Teettowhpmrsfrasdsleradoradbdunontealoredvncscsoraloredvninhhssoftsoftesleradtrd)Tepsoftehhbtpncgteslercsrttocepmrsadtef,oncme,ttatcsinpmr)Tepsrgtoryofpsadc)Tepsrgtoaypgcnp)Ehslercrslmnatispeofbsaceaddddnofisrsadrlugp,igiddnttdettisrgmsadpsaebdunoncyadalasadanaewhsdalp)EhslercrslfewhtedranorbeMh1,analcncgtttrisincewhtepsoftscradtergmsofteslercraeayshcnslbeinafmadm,adslcns,assdbyted.Acyofteclberdbyteslercratisplpfb)Aslercrslmeteinaddnddinsn()oftssnaetotedrunr.Etincsofvsoftepsosc,teinslbecdpyadttinadslntbesttodebytedrtopsoeoftedtetasadtobytesrcrorasodbyactofctjN4.TtSn4,IoC,b,adteseishdtordasf.RYOFC.()Ahhbtpnsotepsoftscrslberewhrttoale]
+[DELETED: eesord,atteonoftesle,etiyoftefgc)Ntofterdp)Fdorilmnofmlftbytle)Newhtecsmmpnr)Newhtecsercnr)Inteceofhhbtpsttaemeaeintlermtoythoe()ormeasasddinsn4,IoC,tempofaneriea,ontebsofwhteceispdctoyifteceistdurtsphutrdtoayhhsdfrrgtoaycdi)Teslernolrmstersofs,IoC)Teslercre,atteteofcerodeogaprhhbtpnddodfrdytoslesintss.Usodinaebytedtofi,acrmydeaptoyartepthsbninuefratlx()cem,pdtecrmyntdemetnfnpt()ofistlnrofesaddsinallsofbsrdbytscrite()mhp.Tecrs)Peaewnorecneofisdrtsphtoted)Peneoftedntoaladesadesordsatltny()csprtotedeteprhhbtpnwlbdbytec,pdttnetotedrtepsoftsphslbepdatln()crdsprtotenetoteade)Ortoehade,onagdi,teontopealorhhbtpscybgodbytecrtoslesint)Inegteontodetehhbnadinogteontopealorhhbtpsurtepsoftsp,atutrdt.Tecseeofanade.Ayhhsdfrrgtoayadeeord;o.Ayhhsdfrrgtoaynweeordtwomybeeefrtec;a]
+[DELETED: )Ortenwpsatrsttcywhs,IoC)Teslercrestonwalofishhbtpsddoridfrdytoslesint.Inshacetecrs)Peaeneofisdnurtspotedrinehseinwhitisl;a)Peneoftednnttorwcetoadslesadtotedratltoehy()crdsprtotenlofayhtpsbytec.Netotedrurtsoftsphslbepdatltte(gdsprtotenetoteadsle)Tedrfstttecnoftecew)Ntbeintebtisoftepsorceh;o)Irtecsaytomtisclonshietedrslatadslesigrtc)Aslercrttesnttorwahhbnurtepsofsn()oftssnslbepdfmwgnwbsinteslermtintssrapdoffe()ysfmtedeofnetoted)Inteceofaslercrdgbsinoe()edgcseaaoftes,tersstfhintnsnslayoytotecsosinttseaN5.TtSn4,IoC,b,adteseishN6.TtSn4,IoC,b,adteseishN7.TtSn4,IoC,b,adteseishN8.TtSn4,IoC,b,adteseishN9.TtSn4,IoC,b,adteseishN1.TtSn4,IoC,b,adteseishN1.TtSn4,IoC,b,adteseishdtordasf]
+[DELETED: .RSRGTOPMR.()Pmrrhhbtpssttotepsoftscrslbttotefgp)Tepmrscddgargpdtoihsrcecsfrteseorsrc,oersttcdbecdtoshisurter,slntvyfmteixrebymetnfyp)ofteixr)Tepeieintepmrecdtoanilfranwrgpdmyntedtesmoftef)Tepeceintenwbspmremdfmteftdyofteprrgpdtotefyoftenwrgp.Inteceofahhbtpowhteilcrisnolregnwi,teilcrsluetepeceiebepmr,pdttshcedsntenapeb,teceintenwbspmrrtemtsrhhbtpniowhteirisayegnwi)Aya,nttoedfnpt()adadporafrrgpsoflstnoe()yetotecme,hhssordnofcfteilordsasddfmteisrem;a)Ayatdetoceinceorceintecsofteilasddfmteilcsrem)Pmrsfrhhbtpsslcywhtersoftssnngayaspdoebycspttosn4,IoC,orc,te4,IoC)Ilcsslayrgf,iec,cywhrttoali.Rgfsslpepsfriliswhdroybyteasaetopndddontrtdsdetoteneofteidtostprhhbtp;a)Anilcrslttalhhbtpdorrdintesecrmhashgtesgp)Frpsoftss,ahhbtpnttusardprnkslntbecdsetoahhbtpnttdsntueshandttunofterdprnkrsildsincsc)Teilcrslntuecec,ona,iltou,gyasddbyreoft,org,wtpralofted)Anilcrmyueaeasaceccigpmr,pdtttesergfrs]
+[DELETED: eadtoaldsurte()ysofa,aesergfrmybeadonanalbsastoisornsty()ysofaeoro)Tedrmyehrstoittepsossnadtoaettrgpsudbyilcsaectwhtepsoftsc,igr)Aettdsinrscdfrhhbsbyilcsaereadrtosinpnd,ntigdsdetoteofteisadtostprhhbtp)Petemrinwhcecsmybdbyilc;a)Petemrinwhanilcristecewhtepsoftss,igrsttanilcrpetedrwhalcnastoshc)Tedrmysdfrasdpdteanon()oftssnastotepmrsaetoo)ormeisfroe()ormergpsunafgbeilcradafgbytedrertttesnisreinltofteflcnofteilcrortttesnwdeeteeyadfsoftefrilhhi)Incnwhteogfrseofayhhbtpoani,anilcrslmearedsptofissnadssm,ofaloftef)Teettowhpmrsfranilaeeradbdunontealoredvnincsoraloredvninhhssofteidhsd)Tepsoftehhbtpncgteilcsrttocepmrsadtef,ortme,ttatcsinpmr)Tepsrgtoryofpsadc)Tepsrgtoaypgcnp)Ehilcrslmnatisplpfbsaceaddddnofisrgpdrlugp,iginaddnttdettisrgmsadpsaebnoncyadalasadaeinahsdalp)EhilcrslfewhtedrayorbeSr1nalcncgtttrisincewhtepsoftscradtergmsofteilcraeayshcnslbeinafmadm,adslcns,assdbyted.Acyoftec]
+[DELETED: lberdbyteilcratisplpeo)Anilcrslmeteinadddinsn()oftssnaetotedrunr.Etincsofvsoftepsosc,teinslbecdpyadttinadslntbesttodebytedrtopsoeoftedtetasadtobyteilcrorasodbyactofctjN1.TtSn4,IoC,b,adteseishdtordasf.ANTOBEARGC.()Anilcrmyaytobeargcrbyfgananwhtedrinafmadmrpdbyted)Tedrslcrtefgfsineganfdurtepsofsn()oftss)Tecsflc)Tecshyofrgadugi)Tecscttomtfytoalisinteorisedgcsea,asa)Tecseewhmgterkofi;a)Teettowhacrhsadwlbeaetomepttotepsofsn()ofs,IoC)Tedrslpepcneofananbyanilcrtobeargcradslpeatlty()dypdfrpcctprtomgadnontea.Ifteanisntadunonwnny()dftertofteanbyted,tecrmyrt)Tedrmyrdtealgdtoarrurtepsoftssniftedrfst)Tecsflcnwlnolrstteanofrkfmigcetoisinchtepsofsn4,IoC,wttepnadbytep)Tecrhsfdtomtfytoalisinteorisedgcsea,asa;o)Tecrhsfdtopecetoeeisrdinsn4,IoC)Anilcregtobeargcrstbesttotepsofsn4,IoC,etteetshilcrissttoatfragpttotepsofsn()ofsn4oCN1.TtSn4,IoC,b,adteseishdtordasf]
+[DELETED: .D.Asudintsc)""msaprasddinsn4,I)""mstebdofdsofteIoilhkrepledintscradteIoslerhhrepmedinsn4,I)""msayeyttp,orisadtop,hhieintss.Frpsoftsc,crisaniec,ayoreypgrgesorsplsc,ahlorpls,aflbts,amdceo,aypghhieceorbstorsofteascehsuragppyidorddoeoftss,adayoreypgapnofhhirhhbssttoseier)""msas,acdorayorillshgceurtepypyhspsorsshhbtp)""mstedroftedtofieofteofI)"ei"msanIortilordtofanIortwoi)Nteefrceuragphhbtp,porptBofteXIofteslsyat(,orepnurteXX()oraysrp,adwsntheorhhiec;a)Edinanilhhbtp)"hbtp"msayhlormlpyo,aysrctpdbyahlorplsec,orhhmeons.Hhbtpndsntiepsorcfiefrscd,hlcti,a,c,d,v,mes,lmc,oyiei,sthhbso,ceisasttolyi,wscnorsri,aemlpti,orneseidfrapdofte()msorl)"hrkmlc"msamlcnordsidbytebdinispnofonasmganiefrrethtep)"hrkplp"msanilb,s,ccA,ccB,orHAcehhbtpnittotscrprtoAl1,2)"hrkplpnp"msalmspdbyaniloradtasacnofrgcefmac,igayfsororcsadwhtehhb)"lc"msacrttosilhtp]
+[DELETED: )"nofo"mstepnofonofteihrkrepledpttotsc)""msteIoilhhrkrep)"ep"mstepmstbytebdposn4,IoC,tobepdbyargcrfreeiscdtotep)"gc"msacrpginteilhhrkrepledbytscN1.TtSn4,IoC,b,adteseishdtordasf.CNOFTEILHHRKREPL-.()TeishycdanitpcbyceactobeknasteIoilhhrkrep.Tlwlpmanelglfninteeeoscdunonitintsc.Tepladayadorcdpttoteonofteplslataltefefmtnofeyk)Teplcdbytscradteslerrmedinsn4,IoC,sloesttesnadclofteb.Tebdslctoftn(.Et()msslbeadbytedradseaepeofted.Tedrorhsddrlseasanexoomrofteb.Insgtemsoebdtedrslatfr()msrgco()dyasadto()msrgcri.Oe()mrslbeamrofteseadbyteptpoteofteseadoe()mrslbeamrofteofrsadbytesrofteh)Teilnebdmsslbeadasf:to()oftemstoseatmofto()y;te()oemstoseatmoffr()y;adte()oftemsteatmofsx()y.Stnebdmssefratmofte()y.Lemsoftebdsefratmofto()y.Avyinalemspnontebdslbefdintesemrasteola.Alorvsontebdslbefdbyted.ebdmrmyberdbytedrfrcN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 116
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO INSURANCE; REPEALING SECTION 41-2210D, IDAHO CODE, RELATING
+3 TO CONVERSION PLANS; AMENDING SECTION 41-4703, IDAHO CODE, TO RE-
+4 MOVE DEFINITIONS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+5 41-4706, IDAHO CODE, TO REMOVE A CODE REFERENCE AND TO MAKE TECHNI-
+6 CAL CORRECTIONS; AMENDING SECTION 41-4707, IDAHO CODE, TO PROVIDE A
+7 CORRECT CODE REFERENCE AND TO MAKE A TECHNICAL CORRECTION; REPEALING
+8 SECTION 41-4708B, IDAHO CODE, RELATING TO CONVERSION PLANS; REPEALING
+9 SECTION 41-4709, IDAHO CODE, RELATING TO NOTICE OF INTENT TO OPERATE
+10 AS A RISK-ASSUMING CARRIER OR A REINSURING CARRIER; REPEALING SECTION
+11 41-4710, IDAHO CODE, RELATING TO APPLICATIONS TO BECOME A RISK-ASSUM-
+12 ING CARRIER; REPEALING SECTION 41-4711, IDAHO CODE, RELATING TO THE
+13 SMALL EMPLOYER CARRIER REINSURANCE PROGRAM; REPEALING SECTION 41-4712,
+14 IDAHO CODE, RELATING TO SMALL EMPLOYER HEALTH BENEFIT PLANS; REPEALING
+15 SECTION 41-4713, IDAHO CODE, RELATING TO PERIODIC MARKET EVALUATION;
+16 AMENDING SECTION 41-5206, IDAHO CODE, TO REMOVE A CODE REFERENCE AND
+17 TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 41-5210, IDAHO CODE,
+18 TO REMOVE A PROVISION REGARDING APPLICATIONS TO BECOME A RISK-ASSUMING
+19 CARRIER AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION 41-5501,
+20 IDAHO CODE, TO REVISE A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS;
+21 AMENDING SECTION 41-5502, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+22 CREATION OF THE INDIVIDUAL HIGH RISK REINSURANCE POOL AND TO MAKE A
+23 TECHNICAL CORRECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+24 FECTIVE DATE.
+25 Be It Enacted by the Legislature of the State of Idaho:
+26 SECTION 1. That Section 41-2210D, Idaho Code, be, and the same is hereby
+27 repealed.
+28 SECTION 2. That Section 41-4703, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 41-4703. DEFINITIONS. As used in this chapter:
+31 (1) "Actuarial certification" means a written statement by a member of
+32 the American academy of actuaries or other individual acceptable to the di-
+33 rector that a small employer carrier is in compliance with the provisions of
+34 section 41-4706, Idaho Code, based upon on the person's examination and in-
+35 cluding a review of the appropriate records and the actuarial assumptions
+36 and methods used by the small employer carrier in establishing premium rates
+37 for applicable health benefit plans.
+38 (2) "Affiliate" or "affiliated" means any entity or person who directly
+39 or indirectly through one (1) or more intermediaries, controls or is con-
+40 trolled by, or is under common control with, a specified entity or person.
+
+2
+1 (3) "Agent" means a producer as defined in section 41-1003(8), Idaho
+2 Code.
+3 (4) "Base premium rate" means, for each class of business as to a rating
+4 period, the lowest premium rate charged or that could have been charged under
+5 a rating system for that class of business by the small employer carrier to
+6 small employers with similar case characteristics for health benefit plans
+7 with the same or similar coverage.
+8 (5) "Board" means the board of directors of the small employer reinsur-
+9 ance program and the individual high risk reinsurance pool as provided for in
+10 section 41-5502, Idaho Code.
+11 (6) (5) "Carrier" means any entity that provides, or is authorized to
+12 provide, health insurance in this state. For the purposes of this chap-
+13 ter, carrier includes an insurance company, a hospital or professional
+14 service corporation, a fraternal benefit society, a health maintenance or-
+15 ganization, any entity providing health insurance coverage or benefits to
+16 residents of this state as certificate holders under a group policy issued
+17 or delivered outside of this state, and any other entity providing a plan of
+18 health insurance or health benefits subject to state insurance regulation.
+19 (7) (6) "Case characteristics" means demographic or other objective
+20 characteristics of a small employer that are considered by the small em-
+21 ployer carrier in the determination of premium rates for the small employer,
+22 provided that claim experience, health status and duration of coverage shall
+23 not be case characteristics for the purposes of this chapter.
+24 (8) "Catastrophic health benefit plan" means a higher limit health ben-
+25 efit plan developed pursuant to section 41-4712, Idaho Code.
+26 (9) (7) "Class of business" means all or a separate grouping of small
+27 employers established pursuant to section 41-4705, Idaho Code.
+28 (10) (8) "Control" shall be defined in the same manner as in section
+29 41-3802(2), Idaho Code.
+30 (11) (9) "Dependent" in any new or renewing plan means a spouse, an un-
+31 married child under the age of twenty-five (25) years and who receives more
+32 than one-half (1/2) of his financial support from the parent, or an unmarried
+33 child of any age who is medically certified as disabled and dependent upon
+34 the parent.
+35 (12) (10) "Director" means the director of the department of insurance
+36 of the state of Idaho.
+37 (13) (11) "Eligible employee" means an employee who works on a full-time
+38 basis and has a normal work week of thirty (30) or more hours or, by agreement
+39 between the employer and the carrier, an employee who works between twenty
+40 (20) and thirty (30) hours per week. The term includes a sole proprietor, a
+41 partner of a partnership, and an independent contractor, if the sole propri-
+42 etor, partner or independent contractor is included as an employee under a
+43 health benefit plan of a small employer, but does not include an employee who
+44 works on a part-time, temporary, seasonal or substitute basis. The term el-
+45 igible employee may include public officers and public employees without re-
+46 gard to the number of hours worked when designated by a small employer.
+47 (14) (12) "Established geographic service area" means a geographic
+48 area, as approved by the director and based on the carrier's certificate of
+49 authority to transact insurance in this state, within which the carrier is
+50 authorized to provide coverage.
+
+3
+1 (15) (13) "Health benefit plan" means any hospital or medical policy or
+2 certificate, any subscriber contract provided by a hospital or professional
+3 service corporation, or managed care organization subscriber contract.
+4 Health benefit plan does not include policies or certificates of insur-
+5 ance for specific disease, hospital confinement indemnity, accident-only,
+6 credit, dental, vision, medicare supplement, long-term care, or disability
+7 income insurance, student health benefits only coverage issued as a supple-
+8 ment to liability insurance, worker's compensation or similar insurance,
+9 automobile medical payment insurance or nonrenewable short-term coverage
+10 issues issued for a period of twelve (12) months or less.
+11 (16) (14) "Index rate" means, for each class of business as to a rating
+12 period for small employers with similar case characteristics, the arith-
+13 metic average of the applicable base premium rate and the corresponding
+14 highest premium rate.
+15 (17) (15) "Late enrollee" means an eligible employee or dependent who
+16 requests enrollment in a health benefit plan of a small employer following
+17 the initial enrollment period during which the individual is entitled to en-
+18 roll under the terms of the health benefit plan, provided that the initial
+19 enrollment period is a period of at least thirty (30) days. However, an eli-
+20 gible employee or dependent shall not be considered a late enrollee if:
+21 (a) The individual meets each of the following:
+22 (i) The individual was covered under qualifying previous cover-
+23 age at the time of the initial enrollment;
+24 (ii) The individual lost coverage under qualifying previous cov-
+25 erage as a result of termination of employment or eligibility, or
+26 the involuntary termination of the qualifying previous coverage;
+27 and
+28 (iii) The individual requests enrollment within thirty (30) days
+29 after termination of the qualifying previous coverage.
+30 (b) The individual is employed by an employer which offers multiple
+31 health benefit plans and the individual elects a different plan during
+32 an open enrollment period.
+33 (c) A court has ordered coverage be provided for a spouse or minor or
+34 dependent child under a covered employee's health benefit plan and re-
+35 quest for enrollment is made within thirty (30) days after issuance of
+36 the court order.
+37 (d) The individual first becomes eligible.
+38 (e) If an individual seeks to enroll a dependent during the first sixty
+39 (60) days of eligibility, the coverage of the dependent shall become ef-
+40 fective:
+41 (i) In the case of marriage, not later than the first day of the
+42 first month beginning after the date the completed request for en-
+43 rollment is received;
+44 (ii) In the case of a dependent's birth, as of the date of such
+45 birth; or
+46 (iii) In the case of a dependent's adoption or placement for adop-
+47 tion, the date of such adoption or placement for adoption.
+48 (18) (16) "New business premium rate" means, for each class of business
+49 as to a rating period, the lowest premium rate charged or offered or which
+50 could have been charged or offered by the small employer carrier to small em-
+
+4
+1 ployers with similar case characteristics for newly issued health benefit
+2 plans with the same or similar coverage.
+3 (19) "Plan of operation" means the plan of operation of the program es-
+4 tablished pursuant to section 41-4711, Idaho Code.
+5 (20) (17) "Plan year" means the year that is designated as the plan year
+6 in the plan document of a group health benefit plan, except that if the plan
+7 document does not designate a plan year or if there is no plan document, the
+8 plan year is:
+9 (a) The deductible/limit year used under the plan;
+10 (b) If the plan does not impose deductibles or limits on a yearly basis,
+11 then the plan year is the policy year;
+12 (c) If the plan does not impose deductibles or limits on a yearly basis
+13 or the insurance policy is not renewed on an annual basis, then the plan
+14 year is the employer's taxable year; or
+15 (d) In any other case, the plan year is the calendar year.
+16 (21) (18) "Premium" means all moneys paid by a small employer and eligi-
+17 ble employees as a condition of receiving coverage from a small employer car-
+18 rier, including any fees or other contributions associated with the health
+19 benefit plan.
+20 (22) "Program" means the Idaho small employer reinsurance program cre-
+21 ated in section 41-4711, Idaho Code.
+22 (23) (19) "Qualifying previous coverage" and "qualifying existing cov-
+23 erage" mean benefits or coverage provided under:
+24 (a) Medicare or medicaid, civilian health and medical program for uni-
+25 formed services (CHAMPUS), the Indian health service program, a state
+26 health benefit risk pool or any other similar publicly sponsored pro-
+27 gram; or
+28 (b) Any other group or individual health insurance policy or health
+29 benefit arrangement whether or not subject to the state insurance laws,
+30 including coverage provided by a health maintenance organization,
+31 hospital or professional service corporation, or a fraternal benefit
+32 society, that provides benefits similar to or exceeding benefits pro-
+33 vided under the basic health benefit plan.
+34 (24) (20) "Rating period" means the calendar period for which premium
+35 rates established by a small employer carrier are assumed to be in effect.
+36 (25) "Reinsuring carrier" means a small employer carrier participating
+37 in the reinsurance program pursuant to section 41-4711, Idaho Code.
+38 (26) (21) "Restricted network provision" means any provision of a
+39 health benefit plan that conditions the payment of benefits, in whole or in
+40 part, on the use of health care providers that have entered into a contrac-
+41 tual arrangement with the carrier to provide health care services to covered
+42 individuals.
+43 (27) "Risk-assuming carrier" means a small employer carrier whose ap-
+44 plication is approved by the director pursuant to section 41-4710, Idaho
+45 Code.
+46 (28) (22) "Small employer" means any person, firm, corporation, part-
+47 nership or association that is actively engaged in business that employed an
+48 average of at least two (2) but no more than fifty (50) eligible employees on
+49 business days during the preceding calendar year and that employs at least
+50 two (2) but no more than fifty (50) eligible employees on the first day of the
+
+5
+1 plan year, the majority of whom were and are employed within this state. In
+2 determining the number of eligible employees, companies that are affiliated
+3 companies, or that are eligible to file a combined tax return for purposes of
+4 state taxation, shall be considered one (1) employer.
+5 (29) "Small employer basic health benefit plan" means a lower cost
+6 health benefit plan developed pursuant to section 41-4712, Idaho Code.
+7 (30) (23) "Small employer carrier" means a carrier that offers health
+8 benefit plans covering eligible employees of one (1) or more small employers
+9 in this state.
+10 (31) "Small employer catastrophic health benefit plan" means a higher
+11 limit health benefit plan developed pursuant to section 41-4712, Idaho Code.
+12 (32) "Small employer standard health benefit plan" means a health bene-
+13 fit plan developed pursuant to section 41-4712, Idaho Code.
+14 SECTION 3. That Section 41-4706, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 41-4706. RESTRICTIONS RELATING TO PREMIUM RATES. (1) Premium rates
+17 for health benefit plans subject to the provisions of this chapter shall be
+18 subject to the following provisions:
+19 (a) The index rate for a rating period for any class of business shall
+20 not exceed the index rate for any other class of business by more than
+21 twenty percent (20%).
+22 (b) For a class of business, the premium rates charged during a rat-
+23 ing period to small employers with similar case characteristics for the
+24 same or similar coverage, or the rates that could be charged to such em-
+25 ployers under the rating system for that class of business, shall not
+26 vary from the index rate by more than fifty percent (50%) of the index
+27 rate.
+28 (c) The percentage increase in the premium rate charged to a small em-
+29 ployer for a new rating period may not exceed the sum of the following:
+30 (i) The percentage change in the new business premium rate mea-
+31 sured from the first day of the prior rating period to the first
+32 day of the new rating period. In the case of a health benefit plan
+33 into which the small employer carrier is no longer enrolling new
+34 small employers, the small employer carrier shall use the percent-
+35 age change in the base premium rate, provided that such change does
+36 not exceed, on a percentage basis, the change in the new business
+37 premium rate for the most similar health benefit plan into which
+38 the small employer carrier is actively enrolling new small employ-
+39 ers;
+40 (ii) Any adjustment, not to exceed fifteen percent (15%) annually
+41 and adjusted pro rata for rating periods of less than one (1) year,
+42 due to the claim experience, health status or duration of cover-
+43 age of the employees or dependents of the small employer as deter-
+44 mined from the small employer carrier's rate manual for the class
+45 of business; and
+46 (iii) Any adjustment due to change in coverage or change in the
+47 case characteristics of the small employer as determined from the
+48 small employer carrier's rate manual for the class of business.
+
+6
+1 (d) Adjustments in rates for claim experience, health status and du-
+2 ration of coverage shall not be charged to individual employees or de-
+3 pendents. Any such adjustment shall be applied uniformly to the rates
+4 charged for all employees and dependents of the small employer.
+5 (e) Premium rates for health benefit plans shall comply with the re-
+6 quirements of this section notwithstanding any assessments paid or
+7 payable by small employer carriers pursuant to section 41-4711, Idaho
+8 Code, or chapter 55, title 41, Idaho Code.
+9 (f)(i) Small employer carriers shall apply rating factors, in-
+10 cluding case characteristics, consistently with respect to all
+11 small employers in a class of business. Rating factors shall
+12 produce premiums for identical groups which differ only by the
+13 amounts attributable to plan design and do not reflect differences
+14 due to the nature of the groups assumed to select particular health
+15 benefit plans; and
+16 (ii) A small employer carrier shall treat all health benefit plans
+17 issued or renewed in the same calendar month as having the same
+18 rating period.
+19 (g) For the purposes of this subsection, a health benefit plan that
+20 utilizes a restricted provider network shall not be considered similar
+21 coverage to a health benefit plan that does not utilize such a network,
+22 provided that utilization of the restricted provider network results in
+23 substantial differences in claims costs.
+24 (h) The small employer carrier shall not use case characteristics,
+25 other than age, individual tobacco use, geography, as defined by rule of
+26 the director, or gender, without prior approval of the director.
+27 (i) A small employer carrier may utilize age as a case characteristic in
+28 establishing premium rates, provided that the same rating factor shall
+29 be applied to all dependents under twenty-five (25) years of age, and
+30 the same rating factor may be applied on an annual basis as to individu-
+31 als or nondependents twenty (20) years of age or older.
+32 (j) The director may establish rules to implement the provisions of
+33 this section and to assure that rating practices used by small employer
+34 carriers are consistent with the purposes of this chapter, including
+35 rules that:
+36 (i) Assure that differences in rates charged for health benefit
+37 plans by small employer carriers are reasonable and reflect objec-
+38 tive differences in plan design, not including differences due to
+39 the nature of the groups assumed to select particular health bene-
+40 fit plans;
+41 (ii) Prescribe the manner in which case characteristics may be
+42 used by small employer carriers; and
+43 (iii) Prescribe the manner in which a small employer carrier is to
+44 demonstrate compliance with the provisions of this section, in-
+45 cluding requirements that a small employer carrier provide the di-
+46 rector with actuarial certification as to such compliance.
+47 (2) A small employer carrier shall not transfer a small employer invol-
+48 untarily into or out of a class of business. A small employer carrier shall
+49 not offer to transfer a small employer into or out of a class of business un-
+50 less such offer is made to transfer all small employers in the class of busi-
+
+7
+1 ness without regard to case characteristics, claim experience, health sta-
+2 tus or duration of coverage since issue.
+3 (3) The director may suspend for a specified period the application of
+4 subsection (1)(a) of this section as to the premium rates applicable to one
+5 (1) or more small employers included within a class of business of a small em-
+6 ployer carrier for one (1) or more rating periods upon a filing by the small
+7 employer carrier and a finding by the director either that the suspension is
+8 reasonable in light of the financial condition of the small employer carrier
+9 or that the suspension would enhance the efficiency and fairness of the mar-
+10 ketplace for small employer health insurance.
+11 (4) In connection with the offering for sale of any health benefit plan
+12 to a small employer, a small employer carrier shall make a reasonable disclo-
+13 sure, as part of its solicitation and sales materials, of all of the follow-
+14 ing:
+15 (a) The extent to which premium rates for a specified small employer are
+16 established or adjusted based upon on the actual or expected variation
+17 in claims costs or actual or expected variation in health status of the
+18 employees of the small employer and their dependents;
+19 (b) The provisions of the health benefit plan concerning the small em-
+20 ployer carrier's right to change premium rates and the factors, other
+21 than claim experience, that affect changes in premium rates;
+22 (c) The provisions relating to renewability of policies and contracts;
+23 and
+24 (d) The provisions relating to any preexisting condition provision.
+25 (5)(a) Each small employer carrier shall maintain at its principal
+26 place of business a complete and detailed description of its rating
+27 practices and renewal underwriting practices, including information
+28 and documentation that demonstrate that its rating methods and prac-
+29 tices are based upon on commonly accepted actuarial assumptions and are
+30 in accordance with sound actuarial principles.
+31 (b) Each small employer carrier shall file with the director annually
+32 on or before March 15, an actuarial certification certifying that the
+33 carrier is in compliance with the provisions of this chapter and that
+34 the rating methods of the small employer carrier are actuarially sound.
+35 Such certification shall be in a form and manner, and shall contain such
+36 information, as specified by the director. A copy of the certification
+37 shall be retained by the small employer carrier at its principal place
+38 of business.
+39 (c) A small employer carrier shall make the information and documenta-
+40 tion described in subsection (4)(a) of this section available to the di-
+41 rector upon request. Except in cases of violations of the provisions of
+42 this chapter, the information shall be considered proprietary and trade
+43 secret information and shall not be subject to disclosure by the direc-
+44 tor to persons outside of the department except as agreed to by the small
+45 employer carrier or as ordered by a court of competent jurisdiction.
+46 SECTION 4. That Section 41-4707, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 41-4707. RENEWABILITY OF COVERAGE. (1) A health benefit plan subject
+49 to the provisions of this chapter shall be renewable with respect to all eli-
+
+8
+1 gible employees or dependents, at the option of the small employer, except in
+2 any of the following cases:
+3 (a) Nonpayment of the required premiums;
+4 (b) Fraud or intentional misrepresentation of material fact by the
+5 small employer;
+6 (c) Noncompliance with the carrier's minimum participation require-
+7 ments;
+8 (d) Noncompliance with the carrier's employer contribution require-
+9 ments;
+10 (e) In the case of health benefit plans that are made available in the
+11 small employer market only through one (1) or more associations as de-
+12 fined in section 41-2202, Idaho Code, the membership of an employer in
+13 the association, on the basis of which the coverage is provided ceases,
+14 but only if the coverage is terminated under this paragraph uniformly
+15 without regard to any health status-related factor relating to any cov-
+16 ered individual;
+17 (f) The small employer no longer meets the requirements of section
+18 41-4703(28)(22), Idaho Code;
+19 (g) The small employer carrier elects, at the time of coverage renewal,
+20 to discontinue offering a particular health benefit plan delivered or
+21 issued for delivery to small employers in this state. Unless otherwise
+22 authorized in advance by the department of insurance, a carrier may dis-
+23 continue a product only after the product has been in use for at least
+24 thirty-six (36) consecutive months, provided the carrier may not dis-
+25 continue more than fifteen percent (15%) of its total number of employ-
+26 ees and dependents in all lines of business regulated by this chapter in
+27 a twelve (12) month period. The carrier shall:
+28 (i) Provide advance written or electronic notice of its decision
+29 under this paragraph to the director;
+30 (ii) Provide notice of the discontinuation to all affected em-
+31 ployers and employees or dependents at least ninety (90) calendar
+32 days prior to the date the particular health benefit plan will be
+33 discontinued by the carrier, provided that notice to the director
+34 under the provisions of this paragraph shall be provided at least
+35 fourteen (14) calendar days prior to the notice to the affected em-
+36 ployers;
+37 (iii) Offer to each affected employer, on a guaranteed issue
+38 basis, the option to purchase all other health benefit plans cur-
+39 rently being offered by the carrier to small employers in this
+40 state;
+41 (iv) In exercising the option to discontinue the health benefit
+42 plan and in offering the option to purchase all other health ben-
+43 efit plans under the provisions of this paragraph, act uniformly
+44 without regard to:
+45 1. The claims experience of an affected employer;
+46 2. Any health status-related factor relating to any af-
+47 fected employee or dependent; or
+48 3. Any health status-related factor relating to any new em-
+49 ployee or dependent who may become eligible for the cover-
+50 age; and
+
+9
+1 (v) Offer the new products at rates that comply with section
+2 41-4706(1)(c), Idaho Code.
+3 (h) The small employer carrier elects to nonrenew all of its health ben-
+4 efit plans delivered or issued for delivery to small employers in this
+5 state. In such a case the carrier shall:
+6 (i) Provide advance notice of its decision under this paragraph
+7 to the director in each state in which it is licensed; and
+8 (ii) Provide notice of the decision not to renew coverage to all
+9 affected small employers and to the director at least one hundred
+10 eighty (180) calendar days prior to the nonrenewal of any health
+11 benefit plans by the carrier. Notice to the director under the
+12 provisions of this paragraph shall be provided at least three (3)
+13 working days prior to the notice to the affected small employers;
+14 or
+15 (i) The director finds that the continuation of the coverage would:
+16 (i) Not be in the best interests of the policyholders or certifi-
+17 cate holders; or
+18 (ii) Impair the carrier's ability to meet its contractual obliga-
+19 tions.
+20 In such instance the director shall assist affected small employers in
+21 finding replacement coverage.
+22 (2) A small employer carrier that elects not to renew a health benefit
+23 plan under the provisions of subsection (1)(h) of this section shall be pro-
+24 hibited from writing new business in the small employer market in this state
+25 for a period of five (5) years from the date of notice to the director.
+26 (3) In the case of a small employer carrier doing business in one (1) es-
+27 tablished geographic service area of the state, the rules set forth in this
+28 subsection section shall apply only to the carrier's operations in that ser-
+29 vice area.
+30 SECTION 5. That Section 41-4708B, Idaho Code, be, and the same is hereby
+31 repealed.
+32 SECTION 6. That Section 41-4709, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 7. That Section 41-4710, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 8. That Section 41-4711, Idaho Code, be, and the same is hereby
+37 repealed.
+38 SECTION 9. That Section 41-4712, Idaho Code, be, and the same is hereby
+39 repealed.
+40 SECTION 10. That Section 41-4713, Idaho Code, be, and the same is hereby
+41 repealed.
+42 SECTION 11. That Section 41-5206, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+
+10
+1 41-5206. RESTRICTIONS RELATING TO PREMIUM RATES. (1) Premium rates
+2 for health benefit plans subject to the provisions of this chapter shall be
+3 subject to the following provisions:
+4 (a) The premium rates charged during a rating period to individuals
+5 with similar case characteristics for the same or similar coverage, or
+6 the rates that could be charged to such individuals under the rating
+7 system, shall not vary from the index rate by more than fifty percent
+8 (50%) of the index rate.
+9 (b) The percentage increase in the premium rate charged to an individ-
+10 ual for a new rating period may not exceed the sum of the following:
+11 (i) The percentage change in the new business premium rate mea-
+12 sured from the first day of the prior rating period to the first
+13 day of the new rating period. In the case of a health benefit plan
+14 into which the individual carrier is no longer enrolling new indi-
+15 viduals, the individual carrier shall use the percentage change in
+16 the base premium rate, provided that such change does not exceed,
+17 on a percentage basis, the change in the new business premium rate
+18 for the most similar health benefit plan into which the individual
+19 carrier is actively enrolling new individuals.
+20 (ii) Any adjustment, not to exceed fifteen percent (15%) annually
+21 and adjusted pro rata for rating periods of less than one (1) year,
+22 due to the claim experience, health status or duration of coverage
+23 of the individual or dependents as determined from the individual
+24 carrier's rate manual; and
+25 (iii) Any adjustment due to change in coverage or change in the
+26 case characteristics of the individual as determined from the in-
+27 dividual carrier's rate manual.
+28 (c) Premium rates for health benefit plans shall comply with the re-
+29 quirements of this section notwithstanding any assessments paid or
+30 payable by carriers pursuant to section 41-4711, Idaho Code, or chapter
+31 55, title 41, Idaho Code.
+32 (d)(i) Individual carriers shall apply rating factors, including
+33 case characteristics, consistently with respect to all individu-
+34 als. Rating factors shall produce premiums for identical individ-
+35 uals which differ only by the amounts attributable to plan design
+36 and do not reflect differences due to the nature of the individuals
+37 assumed to select particular health benefit plans; and
+38 (ii) An individual carrier shall treat all health benefit plans
+39 issued or renewed in the same calendar month as having the same
+40 rating period.
+41 (e) For purposes of this subsection, a health benefit plan that uti-
+42 lizes a restricted provider network shall not be considered similar
+43 coverage to a health benefit plan that does not utilize such a network,
+44 provided that utilization of the restricted provider network results in
+45 substantial differences in claims costs.
+46 (f) The individual carrier shall not use case characteristics, other
+47 than age, individual tobacco use, geography as defined by rule of the
+48 director, or gender, without prior approval of the director.
+49 (g) An individual carrier may utilize age as a case characteristic in
+50 establishing premium rates, provided that the same rating factor shall
+
+11
+1 be applied to all dependents under twenty-five (25) years of age, and
+2 the same rating factor may be applied on an annual basis as to individu-
+3 als or nondependents twenty (20) years of age or older.
+4 (h) The director may establish rules to implement the provisions of
+5 this section and to assure that rating practices used by individual car-
+6 riers are consistent with the purposes of this chapter, including rules
+7 that:
+8 (i) Assure that differences in rates charged for health benefit
+9 plans by individual carriers are reasonable and reflect objective
+10 differences in plan design, not including differences due to the
+11 nature of the individuals assumed to select particular health ben-
+12 efit plans;
+13 (ii) Prescribe the manner in which case characteristics may be
+14 used by individual carriers; and
+15 (iii) Prescribe the manner in which an individual carrier is to
+16 demonstrate compliance with the provisions of this section, in-
+17 cluding requirements that an individual carrier provide the di-
+18 rector with actuarial certification as to such compliance.
+19 (2) The director may suspend for a specified period the application of
+20 subsection (1)(a) of this section as to the premium rates applicable to one
+21 (1) or more individuals for one (1) or more rating periods upon a filing by
+22 the individual carrier and a finding by the director either that the suspen-
+23 sion is reasonable in light of the financial condition of the individual car-
+24 rier or that the suspension would enhance the efficiency and fairness of the
+25 marketplace for individual health insurance.
+26 (3) In connection with the offering for sale of any health benefit plan
+27 to an individual, an individual carrier shall make a reasonable disclosure,
+28 as part of its solicitation and sales materials, of all of the following:
+29 (a) The extent to which premium rates for an individual are established
+30 or adjusted based upon on the actual or expected variation in claims
+31 costs or actual or expected variation in health status of the individual
+32 and his dependents;
+33 (b) The provisions of the health benefit plan concerning the individ-
+34 ual carrier's right to change premium rates and the factors, other than
+35 claim experience, that affect changes in premium rates;
+36 (c) The provisions relating to renewability of policies and contracts;
+37 and
+38 (d) The provisions relating to any preexisting condition provision.
+39 (4)(a) Each individual carrier shall maintain at its principal place
+40 of business a complete and detailed description of its rating practices
+41 and renewal underwriting practices, including information and documen-
+42 tation that demonstrate that its rating methods and practices are based
+43 upon on commonly accepted actuarial assumptions and are in accordance
+44 with sound actuarial principles.
+45 (b) Each individual carrier shall file with the director annually on
+46 or before September 15, an actuarial certification certifying that the
+47 carrier is in compliance with the provisions of this chapter and that
+48 the rating methods of the individual carrier are actuarially sound.
+49 Such certification shall be in a form and manner, and shall contain such
+50 information, as specified by the director. A copy of the certification
+
+12
+1 shall be retained by the individual carrier at its principal place of
+2 business.
+3 (c) An individual carrier shall make the information and documentation
+4 described in subsection (4)(a) of this section available to the direc-
+5 tor upon request. Except in cases of violations of the provisions of
+6 this chapter, the information shall be considered proprietary and trade
+7 secret information and shall not be subject to disclosure by the direc-
+8 tor to persons outside of the department except as agreed to by the indi-
+9 vidual carrier or as ordered by a court of competent jurisdiction.
+10 SECTION 12. That Section 41-5210, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 41-5210. APPLICATION TO BECOME A RISK-ASSUMING CARRIER. (1) An indi-
+13 vidual carrier may apply to become a risk-assuming carrier by filing an ap-
+14 plication with the director in a form and manner prescribed by the director.
+15 (2) The director shall consider the following factors in evaluating an
+16 application filed under the provisions of subsection (1) of this section:
+17 (a) The carrier's financial condition;
+18 (b) The carrier's history of rating and underwriting individuals;
+19 (c) The carrier's commitment to market fairly to all individuals in the
+20 state or its established geographic service area, as applicable;
+21 (d) The carrier's experience with managing the risk of individuals; and
+22 (e) The extent to which a carrier has and will be able to maintain
+23 reinsurance pursuant to the provisions of subsection (3) of section
+24 41-5204, Idaho Code.
+25 (3) The director shall provide public notice of an application by an in-
+26 dividual carrier to be a risk-assuming carrier and shall provide at least a
+27 sixty (60) day period for public comment prior to making a decision on the ap-
+28 plication. If the application is not acted upon on within ninety (90) days
+29 of the receipt of the application by the director, the carrier may request a
+30 hearing.
+31 (4) The director may rescind the approval granted to a risk-assuming
+32 carrier under the provisions of this section if the director finds that:
+33 (a) The carrier's financial condition will no longer support the as-
+34 sumption of risk from issuing coverage to individuals in compliance
+35 with the provisions of section 41-5208, Idaho Code, without the protec-
+36 tion afforded by the program;
+37 (b) The carrier has failed to market fairly to all individuals in the
+38 state or its established geographic service area, as applicable; or
+39 (c) The carrier has failed to provide coverage to eligible individuals
+40 as required in section 41-5208, Idaho Code.
+41 (5) An individual carrier electing to be a risk-assuming carrier shall
+42 not be subject to the provisions of section 41-4711, Idaho Code, except to
+43 the extent such individual carrier is subject to assessment for additional
+44 funding pursuant to the provisions of subsection (12)(c) of section 41-4711,
+45 Idaho Code.
+46 SECTION 13. That Section 41-5501, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+13
+1 41-5501. DEFINITIONS. As used in this chapter:
+2 (1) "Agent" means a producer as defined in section 41-1003(8), Idaho
+3 Code.
+4 (2) "Board" means the board of directors of the Idaho individual high
+5 risk reinsurance pool established in this chapter and the Idaho small em-
+6 ployer health reinsurance program established in section 41-4711, Idaho
+7 Code.
+8 (3) "Carrier" means any entity that provides, or is authorized to pro-
+9 vide, health insurance in this state. For purposes of this chapter, car-
+10 rier includes an insurance company, any other entity providing reinsurance
+11 including excess or stop loss coverage, a hospital or professional service
+12 corporation, a fraternal benefit society, a managed care organization, any
+13 entity providing health insurance coverage or benefits to residents of this
+14 state as certificate holders under a group policy issued or delivered out-
+15 side of this state, and any other entity providing a plan of health insurance
+16 or health benefits subject to state insurance regulation.
+17 (4) "Dependent" means a spouse, a child or any other individual listed
+18 as having coverage under the primary policy holder's policyholder's or sub-
+19 scriber's health benefit plan.
+20 (5) "Director" means the director of the department of insurance of the
+21 state of Idaho.
+22 (6) "Eligible individual" means an Idaho resident individual or depen-
+23 dent of an Idaho resident who is:
+24 (a) Not eligible for coverage under a group health benefit plan, part
+25 A or part B of title XVIII of the social security act (medicare), or a
+26 state plan under title XIX (medicaid) or any successor program, and who
+27 does not have other health insurance coverage; and
+28 (b) Enrolled in an individual health benefit plan.
+29 (7) "Health benefit plan" means any hospital or medical policy or
+30 certificate, any subscriber contract provided by a hospital or profes-
+31 sional service corporation, or health maintenance organization subscriber
+32 contract. Health benefit plan does not include policies or certificates
+33 of insurance for specific disease, hospital confinement indemnity, acci-
+34 dent-only, credit, dental, vision, medicare supplement, long-term care, or
+35 disability income insurance, student health benefits only, coverage issued
+36 as a supplement to liability insurance, worker's compensation or similar in-
+37 surance, automobile medical payment insurance, or nonrenewable short-term
+38 coverage issued for a period of twelve (12) months or less.
+39 (8) "High risk medical condition" means a medical condition or diagno-
+40 sis identified by the board in its plan of operation as making an individual
+41 eligible for reinsurance through the pool.
+42 (9) "High risk pool plan" means an individual basic, standard, cata-
+43 strophic A, catastrophic B, or HSA compatible health benefit plan issued
+44 pursuant to this chapter prior to April 1, 2017.
+45 (10) "High risk pool plan premium" means all moneys paid by an individ-
+46 ual or a dependent as a condition of receiving coverage from a carrier, in-
+47 cluding any fees or other contributions associated with the health benefit
+48 plan.
+49 (11) "Individual carrier" means a carrier that offers individual health
+50 benefit plans.
+
+14
+1 (12) "Plan of operation" means the plan of operation of the individual
+2 high risk reinsurance pool established pursuant to this chapter.
+3 (13) "Pool" means the Idaho individual high risk reinsurance pool.
+4 (14) "Reinsurance premium" means the premium set by the board pursuant
+5 to section 41-5506, Idaho Code, to be paid by a reinsuring carrier for eligi-
+6 ble individuals ceded to the pool.
+7 (15) "Reinsuring carrier" means a carrier participating in the individ-
+8 ual high risk reinsurance pool established by this chapter.
+9 SECTION 14. That Section 41-5502, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 41-5502. CREATION OF THE INDIVIDUAL HIGH RISK REINSURANCE POOL --
+12 BOARD. (1) There is hereby created an independent public body corporate and
+13 politic to be known as the Idaho individual high risk reinsurance pool. The
+14 pool will perform an essential governmental function in the exercise of
+15 powers conferred upon on it in this chapter. The pool and any assessments
+16 imposed or collected pursuant to the operation of the pool shall at all times
+17 be free from taxation of every kind.
+18 (2) The pool created by this chapter and the small employer reinsurance
+19 program established in section 41-4711, Idaho Code, shall operate subject to
+20 the supervision and control of the board. The board shall consist of ten (10)
+21 members. Eight (8) members shall be appointed by the director and serve at
+22 the pleasure of the director. The director or his designated representative
+23 shall serve as an ex officio member of the board. In selecting the members of
+24 the board the director shall appoint four (4) members representing carriers,
+25 two (2) disability agents and two (2) members representing consumer inter-
+26 ests. One (1) member shall be a member of the senate appointed by the pres-
+27 ident pro tempore of the senate and one (1) member shall be a member of the
+28 house of representatives appointed by the speaker of the house.
+29 (3) The initial nonlegislative board members shall be appointed as fol-
+30 lows: two (2) of the members to serve a term of two (2) years; three (3) of
+31 the members to serve a term of four (4) years; and three (3) of the members to
+32 serve a term of six (6) years. Subsequent nonlegislative board members shall
+33 serve for a term of three (3) years. Legislative members of the board shall
+34 serve for a term of two (2) years. A vacancy in a legislative member's posi-
+35 tion on the board shall be filled in the same manner as the original appoint-
+36 ment. All other vacancies on the board shall be filled by the director. A
+37 nonlegislative board member may be removed by the director for cause.
+38 SECTION 15. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOI;RGSN4,IOC,ROCNP;AGSN4,IOC,TOREDSADTOMETLC;AGS,IOC,TOREACEREADTOMETLC;AGSN4,IOC,TOPETCEREADTOMEATLC;RN4,IOC,RGTOCNP;RN4,IOC,RGTONEOFITTOOSARGCRORARGC;RGS,IOC,RGTOASTOBEARGC;RGSN4,IOC,RGTOTLERCRREP;RGSN4OC,RGTOSLERHHBTP;RN4,IOC,RGTOPCMTEGSN4,IOC,TOREACEREAOMETLC;AGSN4,IOCOREAPNRGASTOBEARRADTOMEATLC;AGSN4OC,TOREADNADTOMETLCGSN4,IOC,TOREPSRNOFTEILHHRKREPLADTOMELC;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn4,IoC,b,adteseishN2.TtSn4,IoC,b,adteseishdtordasf.D.Asudintsc)"lc"msawnstbyamroeAnayofasororilaetotedrttaslercrisincewhtepson4,IoC,bdunontepsenadigarwofteaersadtealadmsudbyteslercrinegpmrraehhbtp)""or""msayeyorpnwodriythoe()ormei,csoriscdb,orisurcnclw,asdeyorp]
+[DELETED: )""msaprasddinsn4,I)"epmr"m,frehcsofbsastoar,teltpmrecdorttcdhebncdurgsmfrttcsofbsbyteslercrtleswhsrcecsfrhhbtphteseorsrc)""mstebdofdsofteslerrepmadteilhhrkreplaspdfrin4,IoC)()""msayeyttp,orisadt,hhieintss.Frtepsoftsc,crisaniec,ahlorpec,aflbts,ahhmeo,ayeypghhieceorbstsoftsseascehsuragppyirddoeoftss,adayoreypgapnohieorhhbssttoseier)()"ec"msdcororosofaslerttaecdbyteslercrintednofpmrsfrtesledttcme,hhssaddnofcestbececsfrtepsoftsc)"chhbtp"msahrlthhbtpnddpttosn4,IoC)()"sofb"msaloraseggofssedpttosn4,IoC)()""slbeddintesemrasins,IoC)()""inaynworrgpnmsas,anudcdurteaeofte()ysadworsmnof()ofhsflstfmtep,oranudofayaewoismycdasddaddtuep)()""mstedroftedtofifteseofI)()"ee"msaneewowsonafsadhsanlwkwkofty()ormehso,byanteeradtec,aneewowsbnt)adty()hsprw.Tetmisasep,rofap,adanitc,iftesep,proritcrisidasaneeurhbtpnofasle,btdsntieaneewsonap,t,slorseb.Tetmeeeemyiepcosadpceswtrdtotenrofhswdwnddbyasle)()"dgcsea"msag,asadbytedradbdontecsceoytottieintss,wnwhtecridtopec]
+[DELETED: )()"hbtp"msayhlormlpyo,aysrctpdbyahlorpec,ormdceonsrchbtpndsntiepsorcsofiefrscd,hlcti,a,d,v,mes,lmc,ordei,sthhbsoyceidasasttolyi,wscnorsriemlptieornesmcsidfrapdofte()msorl)()"xr"m,frehcsofbsastoardfrsleswhsrcec,teacaeofteaebepmreadtectpmr)()"ee"msaneeeeordtwsetinahhbtpnofaslerfeiletpddgwhteilisedtoelurtetsoftehhbtp,pdttteitpdisapdofatltty()d.H,aneeeeordtslntbecdaleeei)Teilmsehoftef)Teilwscdurqgpsceatteteofteile)Teilltceurqgpsceasartoftnofetore,oeiytnofteqgpsc)Teilrsetwnty()drtnofteqgpsc)Teilisedbyanerwhosmhbtpsadteilesadtpndnonetp)Acthsodcebepdfraseormrotcduracdeshhbtpnadrtfretismewnty()dsarieoecto)Teilftbse)Ifanilsstoeladtdgtefts)dsofe,teceoftedtslbee)Inteceofm,ntlrtnteftdyofttmhbgartedetecdrtfretisr)Inteceofadsb,asoftedeofs;o)Inteceofadsanorptfra,tedeofshanorptfra)()"wbspmr"m,frehcsofbstoargp,teltpmrecdorodorwdhebncdorodbyteslercrtosle]
+[DELETED: swhsrcecsfrnyidhhbswhteseorsrc)"nofo"mstepnofonoftepmedpttosn4,IoC)()"ny"msteyrttisddastepnyntepndtofagphhbtp,etttifteptdsntdeapnyrorifteisnopnd,tnyri)Tedtyrudurtep)Iftepndsntiedsorlsonayybntepnyristepyy)Iftepndsntiedsorlsonayybrteiepyisntrdonanalb,tntepristeestey;o)Inayorc,tepnyristecry)()""msalmspdbyasleradeeesasacnofrgcefmaslerc,igayfsororcsadwhtehtp)""msteIoslerrepmcdinsn4,IoC)()"gpsc"ad"gegc"mnbsorcepdu)Meorm,cnhhadmlpmfrudss(,teInhhsep,ashbtrkplorayorsrpysdp;o)Ayorgporilhhiepyorhtatwrorntsttoteseielgcepdbyahhmeolorplsec,oraflb,ttpsbssrtooregbspdurtebchhbtp)()"gp"mstecrpdfrwhpsedbyaslercraeadtobeine)"gc"msaslercrpnterepmpttosn4,IoC)()"dnkp"msaypnofhbtpnttcsteptofb,inweori,onteueofhhcepsttheedioaclatwhtecrtopehhcesstoc)"gc"msaslercrweanisadbytedrpttosn4,I)()"le"msayp,f,c,pporanttisayedinbsttedaeofatltto()btnometnfy()eeesosdsdgtepgcryradttesatlo()btnometnfy()eeesonteftdyoft]
+[DELETED: ny,temyofwmweadaeedwntss.Igtenrofeee,csttaea,orttaeeetofeacdtxrnfrpsoet,slbecdoe()e)"lerbchhbtp"msalrchbtpnddpttosn4,IoC)()"lerc"msacrttoshtpscgeeesofoe()ormeslentss)"lercchhbtp"msahthhbtpnddpttosn4,IoC)"lersdhhbtp"msahhbtpnddpttosn4,IoCN3.TtSn4,IoC,b,adteseishdtordasf.RSRGTOPMR.()Pmrrhhbtpssttotepsoftscrslbttotefgp)Teixrefrargpdfraycsofbsstedteixrefrayorcsofbsbymetypt()Fracsofb,tepmrscddgargpdtosleswhsrcecsfrteorsrc,ortersttcdbecdtoshesurtergsmfrttcsofb,slnyfmteixrebymetnfypt()oftei)Tepeieintepmrecdtoaslerfranwrgpdmyntedtesmoftef)Tepeceintenwbspmremdfmteftdyofteprrgpdtotefyoftenwrgp.Inteceofahhbtpowhteslercrisnolregnle,teslercrsluetepeceintebepmr,pdttshcedte,onapeb,teceintenwbmrefrtemtsrhhbtpnioweslercrisayegnwsle)Aya,nttoedfnpt()adadporafrrgpsoflstnoe()yetotecme,hhssordnofceofteesordsofteslerasddfmteslercsremlfrtecfb;a)Ayatdetoceinceorceintecsofteslerasddfmtlercsremlfrtecsofb]
+[DELETED: )Asinrsfrcme,hhssaddnofceslntbecdtoilesord.Ayshatslbeaduytoterdfralesaddsoftesle)Pmrsfrhhbtpsslcywhtersoftssnngayaspdoebyslercspttosn4,I,orcr5,te4,IoC)Slercsslayrgf,igcec,cywhrttoalesinacsofb.Rgfssepsfrilgswhdroybytsaetopndnaddontrtdetoteneoftegsadtostprhtp;a)Aslercrslttalhhbtpdorrdintesecrmhashgtesgp)Frtepsoftss,ahhbtpntsardprnkslntbecdsetoahhbtpnttdsntueshandttunofterdprnkrsildsincsc)Teslercrslntuececrtna,iltou,g,asddbyreoed,org,wtpralofted)Aslercrmyueaeasaceccigpmr,pdtttesergfrseadtoaldsurte()ysofa,aesergfrmybeadonanalbsastoisornsty()ysofaeoro)Tedrmyehrstoittepsossnadtoaettrgpsudbyslesaectwhtepsoftsc,ist)Aettdsinrscdfrhhbsbyslercsaereadrtoedsinpnd,ntigdsdeteneoftegsadtostprhhbtp)Petemrinwhcecsmybdbyslerc;a)Petemrinwhaslercristecewhtepsoftss,igrsttaslercrpetedrwhalcnastoshc)Aslercrslnttrasleriyioorotofacsofb.Aslercrstortotraslerioorotofacsofbsusshorismetotralslesintecsofb]
+[DELETED: swtrdtocec,cme,hhssordnofcesei)Tedrmysdfrasdpdteanon()oftssnastotepmrsaetoo)ormeslesidwnacsofbsofaslercrfroe()ormergpsunafgbytesrcradafgbytedrertttesnieinltofteflcnofteslercrtttesnwdeeteeyadfsoftemefrslerhhi)Incnwhteogfrseofayhhbtpoasle,aslercrslmeared,asptofissnadssm,ofaloftef)Teettowhpmrsfrasdsleradoradbdunontealoredvncscsoraloredvninhhssoftsoftesleradtrd)Tepsoftehhbtpncgteslercsrttocepmrsadtef,oncme,ttatcsinpmr)Tepsrgtoryofpsadc)Tepsrgtoaypgcnp)Ehslercrslmnatispeofbsaceaddddnofisrsadrlugp,igiddnttdettisrgmsadpsaebdunoncyadalasadanaewhsdalp)EhslercrslfewhtedranorbeMh1,analcncgtttrisincewhtepsoftscradtergmsofteslercraeayshcnslbeinafmadm,adslcns,assdbyted.Acyofteclberdbyteslercratisplpfb)Aslercrslmeteinaddnddinsn()oftssnaetotedrunr.Etincsofvsoftepsosc,teinslbecdpyadttinadslntbesttodebytedrtopsoeoftedtetasadtobytesrcrorasodbyactofctjN4.TtSn4,IoC,b,adteseishdtordasf.RYOFC.()Ahhbtpnsotepsoftscrslberewhrttoale]
+[DELETED: eesord,atteonoftesle,etiyoftefgc)Ntofterdp)Fdorilmnofmlftbytle)Newhtecsmmpnr)Newhtecsercnr)Inteceofhhbtpsttaemeaeintlermtoythoe()ormeasasddinsn4,IoC,tempofaneriea,ontebsofwhteceispdctoyifteceistdurtsphutrdtoayhhsdfrrgtoaycdi)Teslernolrmstersofs,IoC)Teslercre,atteteofcerodeogaprhhbtpnddodfrdytoslesintss.Usodinaebytedtofi,acrmydeaptoyartepthsbninuefratlx()cem,pdtecrmyntdemetnfnpt()ofistlnrofesaddsinallsofbsrdbytscrite()mhp.Tecrs)Peaewnorecneofisdrtsphtoted)Peneoftedntoaladesadesordsatltny()csprtotedeteprhhbtpnwlbdbytec,pdttnetotedrtepsoftsphslbepdatln()crdsprtotenetoteade)Ortoehade,onagdi,teontopealorhhbtpscybgodbytecrtoslesint)Inegteontodetehhbnadinogteontopealorhhbtpsurtepsoftsp,atutrdt.Tecseeofanade.Ayhhsdfrrgtoayadeeord;o.Ayhhsdfrrgtoaynweeordtwomybeeefrtec;a]
+[DELETED: )Ortenwpsatrsttcywhs,IoC)Teslercrestonwalofishhbtpsddoridfrdytoslesint.Inshacetecrs)Peaeneofisdnurtspotedrinehseinwhitisl;a)Peneoftednnttorwcetoadslesadtotedratltoehy()crdsprtotenlofayhtpsbytec.Netotedrurtsoftsphslbepdatltte(gdsprtotenetoteadsle)Tedrfstttecnoftecew)Ntbeintebtisoftepsorceh;o)Irtecsaytomtisclonshietedrslatadslesigrtc)Aslercrttesnttorwahhbnurtepsofsn()oftssnslbepdfmwgnwbsinteslermtintssrapdoffe()ysfmtedeofnetoted)Inteceofaslercrdgbsinoe()edgcseaaoftes,tersstfhintnsnslayoytotecsosinttseaN5.TtSn4,IoC,b,adteseishN6.TtSn4,IoC,b,adteseishN7.TtSn4,IoC,b,adteseishN8.TtSn4,IoC,b,adteseishN9.TtSn4,IoC,b,adteseishN1.TtSn4,IoC,b,adteseishN1.TtSn4,IoC,b,adteseishdtordasf]
+[DELETED: .RSRGTOPMR.()Pmrrhhbtpssttotepsoftscrslbttotefgp)Tepmrscddgargpdtoihsrcecsfrteseorsrc,oersttcdbecdtoshisurter,slntvyfmteixrebymetnfyp)ofteixr)Tepeieintepmrecdtoanilfranwrgpdmyntedtesmoftef)Tepeceintenwbspmremdfmteftdyofteprrgpdtotefyoftenwrgp.Inteceofahhbtpowhteilcrisnolregnwi,teilcrsluetepeceiebepmr,pdttshcedsntenapeb,teceintenwbspmrrtemtsrhhbtpniowhteirisayegnwi)Aya,nttoedfnpt()adadporafrrgpsoflstnoe()yetotecme,hhssordnofcfteilordsasddfmteisrem;a)Ayatdetoceinceorceintecsofteilasddfmteilcsrem)Pmrsfrhhbtpsslcywhtersoftssnngayaspdoebycspttosn4,IoC,orc,te4,IoC)Ilcsslayrgf,iec,cywhrttoali.Rgfsslpepsfriliswhdroybyteasaetopndddontrtdsdetoteneofteidtostprhhbtp;a)Anilcrslttalhhbtpdorrdintesecrmhashgtesgp)Frpsoftss,ahhbtpnttusardprnkslntbecdsetoahhbtpnttdsntueshandttunofterdprnkrsildsincsc)Teilcrslntuecec,ona,iltou,gyasddbyreoft,org,wtpralofted)Anilcrmyueaeasaceccigpmr,pdtttesergfrs]
+[DELETED: eadtoaldsurte()ysofa,aesergfrmybeadonanalbsastoisornsty()ysofaeoro)Tedrmyehrstoittepsossnadtoaettrgpsudbyilcsaectwhtepsoftsc,igr)Aettdsinrscdfrhhbsbyilcsaereadrtosinpnd,ntigdsdetoteofteisadtostprhhbtp)Petemrinwhcecsmybdbyilc;a)Petemrinwhanilcristecewhtepsoftss,igrsttanilcrpetedrwhalcnastoshc)Tedrmysdfrasdpdteanon()oftssnastotepmrsaetoo)ormeisfroe()ormergpsunafgbeilcradafgbytedrertttesnisreinltofteflcnofteilcrortttesnwdeeteeyadfsoftefrilhhi)Incnwhteogfrseofayhhbtpoani,anilcrslmearedsptofissnadssm,ofaloftef)Teettowhpmrsfranilaeeradbdunontealoredvnincsoraloredvninhhssofteidhsd)Tepsoftehhbtpncgteilcsrttocepmrsadtef,ortme,ttatcsinpmr)Tepsrgtoryofpsadc)Tepsrgtoaypgcnp)Ehilcrslmnatisplpfbsaceaddddnofisrgpdrlugp,iginaddnttdettisrgmsadpsaebnoncyadalasadaeinahsdalp)EhilcrslfewhtedrayorbeSr1nalcncgtttrisincewhtepsoftscradtergmsofteilcraeayshcnslbeinafmadm,adslcns,assdbyted.Acyoftec]
+[DELETED: lberdbyteilcratisplpeo)Anilcrslmeteinadddinsn()oftssnaetotedrunr.Etincsofvsoftepsosc,teinslbecdpyadttinadslntbesttodebytedrtopsoeoftedtetasadtobyteilcrorasodbyactofctjN1.TtSn4,IoC,b,adteseishdtordasf.ANTOBEARGC.()Anilcrmyaytobeargcrbyfgananwhtedrinafmadmrpdbyted)Tedrslcrtefgfsineganfdurtepsofsn()oftss)Tecsflc)Tecshyofrgadugi)Tecscttomtfytoalisinteorisedgcsea,asa)Tecseewhmgterkofi;a)Teettowhacrhsadwlbeaetomepttotepsofsn()ofs,IoC)Tedrslpepcneofananbyanilcrtobeargcradslpeatlty()dypdfrpcctprtomgadnontea.Ifteanisntadunonwnny()dftertofteanbyted,tecrmyrt)Tedrmyrdtealgdtoarrurtepsoftssniftedrfst)Tecsflcnwlnolrstteanofrkfmigcetoisinchtepsofsn4,IoC,wttepnadbytep)Tecrhsfdtomtfytoalisinteorisedgcsea,asa;o)Tecrhsfdtopecetoeeisrdinsn4,IoC)Anilcregtobeargcrstbesttotepsofsn4,IoC,etteetshilcrissttoatfragpttotepsofsn()ofsn4oCN1.TtSn4,IoC,b,adteseishdtordasf]
+[DELETED: .D.Asudintsc)""msaprasddinsn4,I)""mstebdofdsofteIoilhkrepledintscradteIoslerhhrepmedinsn4,I)""msayeyttp,orisadtop,hhieintss.Frpsoftsc,crisaniec,ayoreypgrgesorsplsc,ahlorpls,aflbts,amdceo,aypghhieceorbstorsofteascehsuragppyidorddoeoftss,adayoreypgapnofhhirhhbssttoseier)""msas,acdorayorillshgceurtepypyhspsorsshhbtp)""mstedroftedtofieofteofI)"ei"msanIortilordtofanIortwoi)Nteefrceuragphhbtp,porptBofteXIofteslsyat(,orepnurteXX()oraysrp,adwsntheorhhiec;a)Edinanilhhbtp)"hbtp"msayhlormlpyo,aysrctpdbyahlorplsec,orhhmeons.Hhbtpndsntiepsorcfiefrscd,hlcti,a,c,d,v,mes,lmc,oyiei,sthhbso,ceisasttolyi,wscnorsri,aemlpti,orneseidfrapdofte()msorl)"hrkmlc"msamlcnordsidbytebdinispnofonasmganiefrrethtep)"hrkplp"msanilb,s,ccA,ccB,orHAcehhbtpnittotscrprtoAl1,2)"hrkplpnp"msalmspdbyaniloradtasacnofrgcefmac,igayfsororcsadwhtehhb)"lc"msacrttosilhtp]
+[DELETED: )"nofo"mstepnofonofteihrkrepledpttotsc)""msteIoilhhrkrep)"ep"mstepmstbytebdposn4,IoC,tobepdbyargcrfreeiscdtotep)"gc"msacrpginteilhhrkrepledbytscN1.TtSn4,IoC,b,adteseishdtordasf.CNOFTEILHHRKREPL-.()TeishycdanitpcbyceactobeknasteIoilhhrkrep.Tlwlpmanelglfninteeeoscdunonitintsc.Tepladayadorcdpttoteonofteplslataltefefmtnofeyk)Teplcdbytscradteslerrmedinsn4,IoC,sloesttesnadclofteb.Tebdslctoftn(.Et()msslbeadbytedradseaepeofted.Tedrorhsddrlseasanexoomrofteb.Insgtemsoebdtedrslatfr()msrgco()dyasadto()msrgcri.Oe()mrslbeamrofteseadbyteptpoteofteseadoe()mrslbeamrofteofrsadbytesrofteh)Teilnebdmsslbeadasf:to()oftemstoseatmofto()y;te()oemstoseatmoffr()y;adte()oftemsteatmofsx()y.Stnebdmssefratmofte()y.Lemsoftebdsefratmofto()y.Avyinalemspnontebdslbefdintesemrasteola.Alorvsontebdslbefdbyted.ebdmrmyberdbytedrfrcN1.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

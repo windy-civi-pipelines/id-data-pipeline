@@ -1,0 +1,968 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1089
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO WASTE TIRE DISPOSAL AND RECYCLING; REPEALING CHAPTER 65, TITLE
+3 39, IDAHO CODE, RELATING TO WASTE TIRE DISPOSAL; AMENDING TITLE 39,
+4 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 65, TITLE 39, IDAHO CODE,
+5 TO PROVIDE A SHORT TITLE, TO PROVIDE LEGISLATIVE FINDINGS, TO DEFINE
+6 TERMS, TO ESTABLISH PROVISIONS REGARDING WASTE TIRE STORAGE SITES, TO
+7 PROVIDE FOR WASTE TIRE DISPOSAL, TO ESTABLISH PROVISIONS REGARDING THE
+8 TRANSPORT OF WASTE TIRES, TO ESTABLISH A WASTE TIRE RECYCLING FEE, TO
+9 ESTABLISH A WASTE TIRE RECYCLING AND REMEDIATION FUND, TO ESTABLISH A
+10 PILOT PROJECT, TO PROVIDE FOR THE PAYMENT OF A WASTE TIRE RECYCLING FEE
+11 AND ADMINISTRATIVE CHARGE, TO PROVIDE FOR PARTIAL REIMBURSEMENT, TO
+12 ESTABLISH LIMITATIONS ON REIMBURSEMENT, TO ESTABLISH PROHIBITED ACTS,
+13 TO PROVIDE FOR THE RECYCLING AND REUSE OF WASTE TIRES, TO ESTABLISH
+14 PENALTIES, TO PROVIDE FOR APPLICABILITY, TO REQUIRE A CERTAIN ANNUAL
+15 REPORT TO THE LEGISLATURE, AND TO PROVIDE FOR RULEMAKING AUTHORITY; AND
+16 DECLARING AN EMERGENCY.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Chapter 65, Title 39, Idaho Code, be, and the same is
+19 hereby repealed.
+20 SECTION 2. That Title 39, Idaho Code, be, and the same is hereby amended
+21 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+22 ter 65, Title 39, Idaho Code, and to read as follows:
+23 CHAPTER 65
+24 WASTE TIRE DISPOSAL AND RECYCLING
+25 39-6501. SHORT TITLE. This chapter shall be known and may be cited as
+26 the "Waste Tire Disposal and Recycling Act."
+27 39-6502. LEGISLATIVE FINDINGS. (1) The state of Idaho supports and
+28 encourages the reuse and recycling of waste tires. The legislature finds
+29 the paramount public interest in regulating waste tires is to protect public
+30 health and safety. In particular, the legislature is concerned with elimi-
+31 nating potential fire hazards, minimizing or eliminating potential breeding
+32 grounds for disease-bearing insects, and eliminating potential sources of
+33 surface and ground water contamination.
+34 (2) The legislature finds that the Idaho department of environmental
+35 quality identified twenty-two (22) abandoned tire piles in the state of
+36 Idaho.
+37 (3) The legislature finds that the disposal of waste tires is a matter
+38 of statewide concern and that recycling of waste tires should be promoted
+39 considering the health, environmental, economic benefits, and fire safety
+40 benefits.
+2
+1 (4) The legislature further finds that the recycling of waste tires
+2 will decrease the number of tires disposed in landfills and reduce the health
+3 and safety hazards posed by abandoned waste tire storage sites not in compli-
+4 ance with this chapter.
+5 (5) The legislature further finds that the establishment of a fee to
+6 be used for partial reimbursement of the costs of transporting, processing,
+7 and recycling waste tires; for remediation of waste tire storage sites that
+8 are not permitted by or have not received written county or city authoriza-
+9 tion for operation; for providing moneys to cities and counties to enforce
+10 the provisions of this chapter; and for administration of this chapter by the
+11 department of environmental quality is environmentally and economically in
+12 the best interest of the state.
+13 39-6503. DEFINITIONS. As used in this chapter:
+14 (1) "Abandoned waste tire storage site" means a site that contains more
+15 than two hundred (200) tires and is not permitted by a city or county or is
+16 otherwise in violation of this chapter.
+17 (2) "Beneficial reuse" means the conversion of a waste tire to a product
+18 that is environmentally useful.
+19 (3) "City" means the city where the waste tire storage site is located.
+20 (4) "Commission" means the Idaho state tax commission.
+21 (5) "County" means the county where the waste tire storage site is lo-
+22 cated.
+23 (6) "Department" means the Idaho department of environmental quality.
+24 (7) "Director" means the director of the department.
+25 (8) "Dispose" means to drop, deposit, dump, spill, or permanently place
+26 any waste tire onto or under the ground or into the waters of this state or
+27 to own or control property where waste tires are dropped, deposited, dumped,
+28 spilled, or permanently placed onto or under the ground or into the waters of
+29 this state.
+30 (9) "End product" means a product that has component material derived
+31 from waste tires and that the department has determined to have a demon-
+32 strated market and substantial recycled tire content.
+33 (10) "Existing waste tire storage site" means any property storing
+34 waste tires prior to recycle, reuse, or final disposal, regardless of
+35 whether the owner or operator possesses a permit or other written city or
+36 county authorization authorizing the storage of waste tires at the property.
+37 (11) "Fund" means the waste tire recycling and remediation fund estab-
+38 lished pursuant to section 39-6508, Idaho Code.
+39 (12) "Ground rubber" means waste tires that have been ground, shredded,
+40 or otherwise reduced in size such that the particles are less than or equal
+41 to three quarters (3/4) of an inch in diameter and are ninety-eight percent
+42 (98%) wire-free by weight.
+43 (13) "Materials derived from waste tires" means ground rubber, tire
+44 sections, tire shreds, rubber, steel, fabric, or other similar materials
+45 derived from waste tires.
+46 (14) "Mining waste tire" means a waste tire that is greater than fifty-
+47 four (54) inches in diameter and was used in mining operations. Mining waste
+48 tires may be disposed of by burial. The department of lands shall prepare
+49 guidelines to govern the burial of mining waste tires.
+3
+1 (15) "Motor vehicle tire" has the same meaning as provided in section
+2 49-121(2), Idaho Code, with such tires used on a motor vehicle that operates
+3 on the roads of the state.
+4 (16) "New waste tire storage site" means any property that is not stor-
+5 ing waste tires and applies for and receives a permit or other written city or
+6 county authorization to store waste tires prior to recycle, reuse, or final
+7 disposal.
+8 (17) "Operator" means any person presently or who was during any period
+9 of waste tire storage or disposal in control of or having responsibility for
+10 a waste tire storage site or a waste tire disposal site.
+11 (18) "Owner" means a person who previously owned a waste tire storage
+12 site or disposal site at any time waste tires were stored or disposed at the
+13 property and the current owner of the waste tire storage site or waste tire
+14 disposal site.
+15 (19) "Person" means an individual, public or private corporation, part-
+16 nership, association, firm, joint stock company, joint venture, trust, es-
+17 tate, municipality, commission, political subdivision of the state, state
+18 or federal agency, department or instrumentality, special district, inter-
+19 state body or any legal entity that is recognized by law as the subject of
+20 rights and duties.
+21 (20) "Recycler" means a business operating in the state that annually
+22 uses:
+23 (a) Or can reasonably be expected during the next year to use a minimum
+24 of one hundred thousand (100,000) waste tires generated in the state or
+25 one thousand two hundred fifty (1,250) tons of waste tires generated in
+26 the state to recover energy or produce energy, ground rubber, or an end
+27 product; or
+28 (b) One hundred twenty-five (125) tons or more of waste tires generated
+29 in the state in end products.
+30 (21) "Retail tire dealer" means any person actively engaged in the busi-
+31 ness of selling new, used, or retread replacement tires at the retail level.
+32 (22) "Store" or "storage" means to accumulate more than two hundred
+33 (200) waste tires at any time in a manner that does not constitute final
+34 disposal at a waste tire disposal site or to own or control property on which
+35 more than two hundred (200) waste tires accumulate at any given time in a
+36 manner that does not constitute final disposal at a waste tire disposal site.
+37 The following activities shall not constitute "storing" or "storage" of
+38 waste tires:
+39 (a) A retail tire dealer collecting less than one thousand five hundred
+40 (1,500) waste tires at any point in time for each retail business loca-
+41 tion;
+42 (b) A tire retreader collecting less than three thousand (3,000) waste
+43 tires at any point in time for each individual retread operation as long
+44 as the waste tires are of the type the retreader is actively retreading;
+45 (c) A wrecking salvage business collecting less than one thousand five
+46 hundred (1,500) waste tires for each retail business location;
+47 (d) A waste tire disposal site collecting waste tires for disposal at
+48 the site in accordance with the site's approved operating plan;
+4
+1 (e) A wholesale tire dealer collecting less than one thousand five hun-
+2 dred (1,500) waste tires at any point in time for each wholesale busi-
+3 ness location;
+4 (f) An approved solid waste transfer station or solid waste landfill
+5 collecting less than one thousand five hundred (1,500) waste tires
+6 prior to transfer to an approved waste tire storage or disposal site;
+7 (g) A farm or livestock operation that utilizes waste tires to secure
+8 farm or livestock silage or wastes provided the total number of waste
+9 tires shall not exceed one thousand five hundred (1,500); or
+10 (h) A recycler using a total amount of waste tires that does not exceed
+11 three thousand (3,000) tons. However, a tire recycler may possess more
+12 tires than are provided for in this paragraph if such tire recycler sat-
+13 isfies a bonding requirement as provided for in this chapter.
+14 (23) "Tire retreader" means any person actively engaged in the business
+15 of retreading tires by scarifying the surface to remove the old surface tread
+16 and attaching a new tread to make a usable tire.
+17 (24) "Transport" or "transporting" means picking up or hauling waste
+18 tires.
+19 (25) "Waste tire" means a motor vehicle tire originally used for opera-
+20 tion of a vehicle on a public roadway that is no longer suitable for its orig-
+21 inal intended purpose because of wear, damage, or defect.
+22 (26) "Waste tire disposal site" means a public or private municipal
+23 solid waste landfill operating in compliance with section 39-6504, Idaho
+24 Code.
+25 (27) "Waste tire storage site" means a new or existing waste tire stor-
+26 age site.
+27 (28) "Wholesale tire dealer" means any person engaged in the business of
+28 selling new replacement tires to tire retailers.
+29 (29) "Wrecking salvage business" means any establishment or place of
+30 business that is maintained, used, or operated for storing, keeping, buying,
+31 or selling wrecked, scrapped, ruined, or dismantled motor vehicles or motor
+32 vehicle parts.
+33 39-6504. WASTE TIRE STORAGE SITES. (1) No person shall store waste
+34 tires on any public or private property in this state or in the waters of this
+35 state unless the property is a waste tire storage site as defined or other-
+36 wise exempted in this chapter.
+37 (2) No person shall own or operate a waste tire storage site without a
+38 permit or other written county or city authorization.
+39 (a) Counties and cities shall only issue permits or other written au-
+40 thorizations that contain terms and conditions that assure waste tire
+41 storage sites are operated in compliance with this chapter and any addi-
+42 tional requirements the county or city deems appropriate.
+43 (b) If a county or city determines not to issue a permit, other writ-
+44 ten authorization, or a modification to an existing permit or approval
+45 for an existing waste tire storage site, the existing waste tire stor-
+46 age site shall cease storing waste tires no later than three (3) months
+47 after receiving notice of the determination not to issue a permit, other
+48 written authorization, or modification for the site.
+5
+1 (c) The current owner or operator of a new waste tire storage site
+2 shall not commence waste tire storage at the site until the county or
+3 city issues a permit or other written authorization permitting waste
+4 tire storage. A recycler who owns and operates a recycling facility
+5 in the state of Idaho on the effective date of this chapter shall not
+6 be required to obtain any permits, licenses, or other authorizations
+7 from a county or city. In addition to the provisions of this section, a
+8 recycler shall be regulated as provided for in section 39-6503(22)(h),
+9 Idaho Code.
+10 (d) Counties and cities shall issue permits and other written local au-
+11 thorizations for waste tire storage sites. Upon written request from
+12 the city council or board of county commissioners to the department, the
+13 department shall be responsible for the permitting and authorization
+14 requirements of this section with respect to any application submitted
+15 to the county or city, in lieu of the county or city.
+16 (e) The owner or operator of a waste tire storage site shall maintain
+17 financial assurance in the form of a cash bond payable to the county or
+18 city, in an amount acceptable to the county or city where the waste tire
+19 storage site is located; provided however, counties and cities shall
+20 require a minimum initial financial assurance of two dollars and fifty
+21 cents ($2.50) per tire authorized to be stored at the site. The amount
+22 of financial assurance shall be adjusted each year in accordance with
+23 the consumer price index on the anniversary date of the issuance of the
+24 permit or other city or county written authorization. Failure to ad-
+25 just the amount of financial assurance on the anniversary date each year
+26 shall constitute failure to comply with the provisions of this chapter
+27 and shall result in automatic revocation of the permit or other writ-
+28 ten city or county authorization and forfeiture of the bond. Cities and
+29 counties shall only process an application submitted under this section
+30 when documentation submitted with the application establishes compli-
+31 ance with the financial assurance requirement of this paragraph. The
+32 current owner or operator of a new waste tire storage site shall com-
+33 ply with the financial assurance requirement of this section prior to
+34 commencing waste tire storage at the site. Upon written request from
+35 the city council or board of county commissioners to the department, the
+36 cash bond will be written in favor of the department, in lieu of the city
+37 or county. In such cases, the department will oversee use of the bond
+38 should two (2) bond holders become liable on the bond obligation.
+39 (f) Counties and cities shall only issue a permit or written authoriza-
+40 tion to a waste tire storage site when the application establishes that
+41 the proposed or existing site is located on property owned as exclu-
+42 sively for industrial use.
+43 (g) Counties and cities may charge a fee for processing a waste tire
+44 storage site permit or authorization application or renewal.
+45 (h) Owners and operators of a waste tire storage site shall record and
+46 maintain on-site operational records for a period of three (3) years,
+47 including but not limited to the daily quantity of tires transported
+48 to and from the site and the estimated quantity of tires located at the
+49 site.
+6
+1 (i) The county or city may suspend, revoke, or refuse to renew a waste
+2 tire storage site's permit or written authorization if the county or
+3 city determines that the site is operating in violation of any require-
+4 ment of this chapter or any term or condition of the site's permit or
+5 written authorization.
+6 (3) In the event the current owner or operator of an existing or new
+7 waste tire storage site fails to comply with the requirements of this sec-
+8 tion, the board of county commissioners or city council may declare the site
+9 a public nuisance and may declare a public health or safety emergency based
+10 on potential fire hazard, threat of insect borne disease, or potential con-
+11 tamination of the state's ground or surface waters. If the respective gov-
+12 erning authority has declared a public health or safety emergency, the di-
+13 rector is authorized and directed to use the fund created in section 39-6508,
+14 Idaho Code, for the purpose of removing and properly disposing of the tires
+15 upon the recommendation of the state fire marshal in the event of fire haz-
+16 ard, the district health department in the event of insect borne disease haz-
+17 ard, or the department in the event of ground or surface water contamination
+18 hazard.
+19 (a) The director shall be authorized to expend funds from the waste tire
+20 recycling and remediation fund if revenues in the fund are sufficient to
+21 cover the costs or, if revenues in the waste tire recycling and remedi-
+22 ation fund are not sufficient to cover the costs, then against the gen-
+23 eral fund, subject to approval by the board of examiners.
+24 (b) Nothing contained in this subsection shall be construed to change
+25 or impair any right of recovery or subrogation arising under any other
+26 provision of law.
+27 (c) The prosecuting attorney of the relevant county may act to fully re-
+28 cover all costs incurred by the state of Idaho and its political subdi-
+29 visions pursuant to this subsection, including but not limited to seek-
+30 ing recovery from the owners and operators of an existing or new waste
+31 tire storage site of the cost of any grant that may have been awarded
+32 pursuant to this chapter.
+33 39-6505. WASTE TIRE DISPOSAL. (1) No person shall dispose of waste
+34 tires on any public or private property in this state or in the waters of this
+35 state except at permitted public or private municipal solid waste landfills
+36 that have been approved to accept waste tires in their operating plans.
+37 (2) Waste tires may be disposed at a permitted public or private munic-
+38 ipal solid waste landfill with an approved operating plan only if the waste
+39 tires have been processed to meet the following criteria:
+40 (a) The volume of one hundred (100) unprepared randomly selected whole
+41 tires in one (1) continuous test period shall be reduced by at least
+42 sixty-five percent (65%) of the original volume pursuant to subsection
+43 (3) of this section. No single void space greater than one hundred
+44 twenty-five (125) cubic inches may remain in the randomly placed pro-
+45 cessed tires; or
+46 (b) The tires shall be reduced to an average chip size no greater than
+47 sixty-four (64) square inches in any randomly selected sample of ten
+48 (10) tires or more. No more than forty percent (40%) of the chips may
+49 exceed sixty-four (64) square inches.
+7
+1 (3) Tire volumes shall be calculated as follows:
+2 (a) Unprocessed whole tire volume shall be calculated by randomly
+3 placing one hundred (100) unprepared randomly selected whole tires in a
+4 rectangular container and multiplying the depth of unprocessed tires by
+5 the bottom area of the container; and
+6 (b) Processed tire volume shall be determined by randomly placing the
+7 processed tire test quantity in a rectangular container and leveling
+8 the surface. It shall be calculated by multiplying the depth of pro-
+9 cessed tires by the bottom area of the container.
+10 39-6506. TRANSPORT OF WASTE TIRES. (1) No person shall transport waste
+11 tires for storage to any location in this state other than to a waste tire
+12 storage site for which a city or county has issued a permit or other written
+13 city or county authorization in active status.
+14 (2) No person shall transport waste tires for disposal to any location
+15 in this state other than to a municipal solid waste landfill that is operat-
+16 ing in compliance with the requirements of section 39-6505, Idaho Code.
+17 39-6507. WASTE TIRE RECYCLING FEE. (1) There is hereby imposed a waste
+18 tire recycling fee of fifty cents (50¢) per new motor vehicle tire sold at re-
+19 tail. The waste tire recycling fee shall be separate from other nongovern-
+20 mental fees charged by a retailer.
+21 (2) The amount of the fee that is collected by a seller from a purchaser
+22 shall be separately designated by the retailer and designated on the receipt
+23 or invoice accompanying the sale.
+24 (3) The waste tire recycling fee shall not be imposed on the sale of re-
+25 treaded or used tires.
+26 (4) The fee for each tire with a rim diameter up to and including twenty-
+27 four and one-half (24.5) inches, single or dual bead capacity, is fifty cents
+28 (50¢).
+29 (5) The provisions of this section shall be null, void, and of no force
+30 and effect on and after July 1, 2028.
+31 39-6508. WASTE TIRE RECYCLING AND REMEDIATION FUND. There is hereby
+32 established in the state treasury the waste tire recycling and remediation
+33 fund, which shall be administered by the director and shall be subject to
+34 legislative appropriation. Moneys in the fund shall consist of:
+35 (1) Proceeds of any waste tire recycling fee;
+36 (2) Penalties collected under this chapter;
+37 (3) Interest earned on moneys in the fund; and
+38 (4) Moneys recovered by a prosecuting attorney in any action pursuant
+39 to the provisions of this chapter.
+40 39-6509. PILOT PROJECT. (1) There is hereby created a pilot project
+41 for the purposes of:
+42 (a) Developing a department strategy, staff, and equipment necessary
+43 to conduct the pilot project;
+44 (b) Remediating abandoned tire piles as determined by the department;
+45 (c) Providing moneys to cities and counties to enforce the provisions
+46 of this chapter; and
+8
+1 (d) Providing rebates to recyclers who recycle tires found in this
+2 state.
+3 (2) For the purposes of the pilot project established in this section:
+4 (a) For fiscal year 2026, moneys in the waste tire recycling and remedi-
+5 ation fund shall be appropriated to the department exclusively for the
+6 administrative costs, including staff and equipment, to operate the pi-
+7 lot project and for providing moneys to the department to make grants to
+8 cities and counties to enforce the provisions of this chapter; and
+9 (b) For fiscal years 2027 and 2028, the waste tire recycling and remedi-
+10 ation fund shall be appropriated in the following order for:
+11 (i) Providing moneys to the department to make grants to cities
+12 and counties to enforce the provisions of this chapter or for the
+13 director to contract directly with third parties to remediate
+14 abandoned tire piles;
+15 (ii) Departmental administrative costs, including personnel and
+16 equipment to operate the pilot project;
+17 (iii) The remediation of abandoned tire piles; and
+18 (iv) Rebates to recyclers as provided in this chapter.
+19 39-6510. PAYMENT OF WASTE TIRE RECYCLING FEE -- ADMINISTRATIVE
+20 CHARGE. (1) A retail tire dealer shall remit the fees collected from waste
+21 tire recycling to the state tax commission.
+22 (2) Fees collected by sellers shall be remitted to the state tax com-
+23 mission at the times and in the manner provided for in chapter 36, title 63,
+24 Idaho Code, with respect to the sales tax. The state tax commission shall
+25 establish registration, reporting, and payment procedures that substan-
+26 tially coincide with the registration and payment procedures that apply to
+27 the sales tax pursuant to the provisions of chapter 36, title 63, Idaho Code.
+28 (3) The payment shall be accompanied by a form prescribed by the state
+29 tax commission.
+30 (4)(a) The proceeds of the fee shall be transferred by the state tax
+31 commission to the waste tire recycling and remediation fund for use as
+32 prescribed in section 39-6508, Idaho Code.
+33 (b) The state tax commission shall retain and deposit an administrative
+34 charge of ten dollars ($10.00) for the revenue the state tax commission
+35 collects from a fee under section 39-6507, Idaho Code.
+36 (5)(a) The state tax commission shall administer, collect, and enforce
+37 the fee authorized under this chapter in accordance with the same pro-
+38 cedures used in the administration, collection, and enforcement of the
+39 state sales and use tax. The following provisions of chapter 36, title
+40 63, Idaho Code, with respect to sales tax, shall apply to the waste tire
+41 recycling fee:
+42 (i) Audit and appeal procedures;
+43 (ii) Collection, enforcement, penalties, and interest; and
+44 (iii) Statute of limitations and refunds of fees paid erroneously.
+45 (b) A retail tire dealer may retain two and one-half percent (2.5%) of
+46 the waste tire recycling fee collected under this chapter for the cost
+47 of collecting the fee.
+48 (6) The fee imposed by this chapter is in addition to all other state,
+49 county, or municipal fees and taxes imposed on the sale of new tires.
+9
+1 (7) The state tax commission shall have the authority to promul-
+2 gate rules, subject to legislative approval, applicable to the waste tire
+3 recycling fee. Such rules shall, to the extent practicable, minimize ad-
+4 ministrative burdens on sellers by incorporating existing provisions of
+5 chapter 36, title 63, Idaho Code, that apply to audits, appeals, collection,
+6 enforcement, penalties, interest, statute of limitations, and refunds of
+7 fees paid erroneously.
+8 (8) The provisions of this section shall be null, void, and of no force
+9 and effect on and after July 1, 2028.
+10 39-6511. PARTIAL REIMBURSEMENT. (1) Waste tires generated in the
+11 state shall include those generated at a retail tire dealer, those generated
+12 from cleanup at a waste tire storage site not meeting the requirements of
+13 this chapter, and those generated by Idaho residents and deposited at an
+14 approved solid waste landfill or recycler within the state.
+15 (2) Subject to the limitations in section 39-6512, Idaho Code, a recy-
+16 cler is entitled to:
+17 (a) Sixty-five dollars ($65.00) as partial reimbursement for each ton
+18 of waste tires or material derived from waste tires converted to ground
+19 rubber, if a contract exists for the sale of the ground rubber for use as
+20 a component in an end product;
+21 (b) Fifty dollars ($50.00) as partial reimbursement for each ton of
+22 waste tires or material derived from waste tires recycled, other than as
+23 ground rubber; and
+24 (c) Twenty dollars ($20.00) as partial reimbursement for each ton of
+25 ground rubber used for a beneficial reuse.
+26 39-6512. LIMITATIONS ON REIMBURSEMENT. (1) The costs reimbursed under
+27 this chapter may not exceed available moneys in the fund.
+28 (2) If applications for reimbursement under this chapter exceed the
+29 moneys in the fund, the director shall, as incoming funds allow, distribute
+30 reimbursements in order from oldest to newest.
+31 39-6513. PROHIBITED ACTS. No person shall advertise or represent him-
+32 self as being in the business of accepting waste tires for transport, stor-
+33 age, or disposal without being in full compliance with all the provisions of
+34 this chapter.
+35 39-6514. RECYCLING AND REUSE OF WASTE TIRES. The state of Idaho seeks
+36 to protect human health and the environment by encouraging the recycling and
+37 reuse of waste tires. Accordingly, the department shall identify approved
+38 methods of recycling and beneficial reuse of waste tires.
+39 39-6515. PENALTIES. Any person who knowingly stores, transports, or
+40 disposes of a tire in violation of the provisions of this chapter is subject
+41 to a civil penalty of not more than five hundred dollars ($500) per viola-
+42 tion. For the purposes of this chapter, a city council or board of county
+43 commissioners, or their designees, shall have the same authority as the
+44 director of the department of environmental quality pursuant to section
+45 39-108, Idaho Code, with respect to:
+10
+1 (1) Conducting investigations and inspections;
+2 (2) Having the right of entry;
+3 (3) Issuing violations;
+4 (4) Having enforcement authority; and
+5 (5) Seeking injunctive relief.
+6 39-6516. APPLICABILITY. The provisions of this chapter shall not ap-
+7 ply to waste tires from any device moved exclusively by human power.
+8 39-6517. ANNUAL REPORT TO LEGISLATURE REQUIRED. The director shall
+9 publish annually by December 15 and provide to the appropriate germane leg-
+10 islative committees information on the impact of this chapter in promoting
+11 the cleanup of waste tires in Idaho. A copy of such report shall be submitted
+12 to the legislative services office electronically. At a minimum, the infor-
+13 mation shall include each of the following with respect to the prior year:
+14 (1) The approximate number of tires recycled;
+15 (2) The approximate number of waste tire storage sites remediated;
+16 (3) The dollar amount expended on waste tire recycling, cleanup, and
+17 remediation; and
+18 (4) The dollar amount expended on partial reimbursements pursuant to
+19 section 39-6511, Idaho Code.
+20 39-6518. RULEMAKING AUTHORITY. The department is authorized to pro-
+21 mulgate rules, subject to legislative approval, to implement the provisions
+22 of this chapter.
+23 SECTION 3. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after its
+25 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOWETEDLADR;RGCR6,T,IOC,RGTOWETED;AGTE3OC,BYTEANOFANWCR6,TE3,IOCOPEASTT,TOPELEF,TOD,TOEHPSRGWETESES,TEFRWETED,TOEHPSRGTTOFWET,TOEHAWETERGF,THAWETERGADRNF,TOEHTP,TOPEFRTEPTOFAWETERGFDAEC,TOPEFRPLR,THLSONR,TOEHPDAOPEFRTERGADREOFWET,TOE,TOPEFRA,TOREACNATTOTEL,ADTOPEFRRGA;AGANEeItEdbyteLeofteSeofIN1.TtCr6,Te3,IoC,b,adteseiyrN2.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6ETEDLADR.STT.Tscrslbeknadmybecdae"eTeDladRgA.LEF.()TeseofIossastereadrgofwet.Telefeptpcitinrgwetsistoptphads.Inp,teleiscdwhegplfeh,mgoregplbsfrdgi,adegplssoeadgdwrc)TelefsttteIodtofeyidto()adtepsinteseo)Telefstttedlofwetsisamfsecnadttrgofwetssdbepgteh,e,ecb,adfes]
+[DELETED: )Telefrfstttergofwetldetenroftsddinlsadretehdsyhspdbyadwetesessntincewhtsc)Telefrfsttteetofafeteudfrplrtoftecsoft,pdrgwet;frrnofwetesesstentpdbyorhentrdwncyorcyanfro;frpgmstocsadcstoeepsoftsc;adfranoftscrbyttofelqyiseyadeyiebtitoftes.D.Asudintsc)"dweteses"msasettcsmntohd()tsadisntpdbyacyorcyorieinvnoftsc)"lr"mstecnofawetetoaptiseyu)""mstecyweteweteseseisl)""msteIosetxc)""mstecyweteweteseseisl)""msteIodtofelq)""mstedrofted)""mstod,d,d,s,orpypyweteooorurtegdoriotewsoftsseooonorclpywewetsaed,d,d,orpypdooorurtegdoriotewsoss)"dp"msapttthsctmldmwetsadtttedthsddtoheaddmtadslrdtec)"gweteses"msaypysetsprtor,r,orfld,rsorteorororpsaptororwncyoyanagteseofwetsattep)""mstewetergadrnfdedpttosn3,IoC)"dr"mswetstthebng,sroerdinseshtttepsaelstnoreoteqs()ofanihindradaentp)webyw)"sddfmwet"msgdr,t,tes,r,s,f,ororsrmdfmwet)"gwet"msawetettisgrtnfr()isindradwsudinmgo.Mgwsmybeddofbyb.Tedtoflsslpstognteblofmgwet]
+[DELETED: )"rvet"hstesemgaspdins,IoC,whshtsudonamrvettontersoftes)"wweteses"msaypyttisntsgwetsadasfradrsaptororwncyoyantosewetsprtor,r,orf)""msaypnpyorwowsdgaypfweteseordlincloforhgryfweteseseorawetedls)""msapnwopyodaweteseordlseataytewetswesdorddattyadtectorofteweteseseorwetls)""msani,pcorpec,p,a,f,jtskc,jtv,t,e,m,c,plsnoftes,srfla,dtori,sld,iebyoraylleyttisrdbylwastestosadd)""msabsogintesetta)Orcnrybeeddgtentyrtoueamfoehdtd()wetsgdinteseoetdtohdfy()tsofwetsgdiesetorreyorpee,gdr,orane;o)Oehdte()tsormeofwetsgnteseinedp)"lted"msaypnayedintebsofsgn,u,orrdrttsatterll)""or""mstoaemetntoh)wetsatayteinamrttdsntceflatawetedlseortoonorclpyonwetntohd()wetsaeataygnteinrttdsntcefldlatawetedlsefgasslntce""or""oet)Arltedrcglstnoetdfeh)wetsatayptintefrehrlbsl)Aterrcglstntetd()wsatayptintefrehilrdonaslstewetsaeofteteterrisayr)Awgsebscglstnoetdfd()wetsfrehrlbsl)Awetedlsecgwetsfrdlaeseinaewhtessadogp]
+[DELETED: )Awetedrcglstnoetdfehd()wetsatayptintefrehwebsl)Anadsdwetrsnorsdwelglstnoetdfehd()wetrtotrtoanadweteseordls)Afmorlkonttuswetstosmorlkseorwspdtetlnrofwsslntedoetdfehd(;o)Arrugatlatofwetsttdsnteetd()t.H,aterrmypsmstnaepdfrintsphifshterrssabgrtaspdfrintsc)"er"msaypnayedintebfrgtsbysgtesetoreteodsetdaganwtdtomeauet)""or""mspguporhgw)"et"msamrveteoyudfronofaveonapcryttisnolrsefrisolidpebeofw,d,ord)"etedls"msapcorpemdwellogincewhsn3,I)"eteses"msanworegweteses)"eted"msaypnedintebsognwrttstoter)"gseb"msayetorpeosttism,u,orodfrs,k,brsgw,s,r,orddmrvsormep.WETESES.()Nopnslsewsonaypcorpepyintsseorintewsofteustepyisaweteseseasddoroeedintsc)Nopnslonoroeawetesesewttororwncyorcya)Csadcssloyiepsororwnasttcntsadcsttaewetessaeodincewhtscradayalrstecyorcydsa)Ifacyorcydsnttoieap,orwna,oramntoanegptoraranegweteses,teegweteseseslcesgwetsnolrtnte()mrrgneoftednnttoieap,ona,ormnfrtes]
+[DELETED: )Tectorororofanwweteseslntceweteseatteseultecyoyisaptororwnanpgwes.ArrwoosadosargfnteseofIoonteeedeoftscrslnerdtoonayp,l,ororamacyorc.Inantotepsoftss,rslberdaspdfrinsn3oC)Csadcssliepsadorwnllasfrweteses.Unwnrtfecyclorbdofcycstoted,ttslberefrtepgadasoftssnwhrttoayansotecyorc,inluoftecyorc)Teorororofaweteseseslmlaeintefmofachbdpetotecyo,inanataetotecyorcyweteweteseisl;pdh,csadcsseammilflaeoftodsadfs()prteadtobesdattes.Teafflaeslbeadehyrinaewecrpeixonteaydeofteieofttororcyorcywna.Fetoatteatofflaeonteaydeehylcefetocywhtepsoftscdslrtinacrnofteptororwncyorcyanadfeofteb.Csassloypsanansdurtssndnsdwhteanescewhteflaertoftsp.Ttorororofanwweteseseslcywhteflaertoftssnprtgweteseattes.Unwnrtfecyclorbdofcycstoted,thbdwlbewninfrofted,inluoftecrc.Inshc,tedtwloeueoftebdto()bdhsbeleontebdo)Csadcssloyieaptorwnantoawetesesewnteanestepdoregseisldonpyodaseyfrilu)Csadcsmyceafefrpgaweteseptorananorr)Osadosofaweteseseslrdanoeolrsfrapdofte()ygbtntldtotedyqyoftstoadfmteseadteedqyoftsldatt]
+[DELETED: )Tecyorcymys,r,orretorwawesessptorwnaniftecyoydsttteseisoginvnofayrtoftscroraytmorcnoftessptona)Inteettectorororofanegornetesesefstocywhtersoftss,tebdofcycsorcyclmydetespcneadmydeapchhorsyeybnplfeh,ttofitbed,orplcnoftessgdorsew.Iftereggayhsddapchhorsye,tedrisadadddtouetefdcdinsn3oC,frtepeofrgadpydgoftetnternoftesefemlinteetoffeh,tedthhdtinteetofitbedeh,ortedtinteetofgdorsewrc)Tedrslbeadtoedfsfmtewetgadrnfdifrsintefdaesttrtecso,ifrsintewetergadrnfdaentsttocrtec,tnatteglf,sttoalbytebdofe)Ngcdintssnslbecdtocrirayrtofryorsnagurayonofl)TepgayoftertcymyattofyrralcsidbyteseofIoadisplsspttotss,igbtntldtosgryfmteosadosofanegornwweseseoftectofaygtttmyhebnattotsc.WETED.()Nopnsldeofwsonaypcorpepyintsseorintewsofteetatpdpcorpemlsdwelthebnadtoatwetsintrogp)Wetsmybeddatapdpcorpemlsdwellwhanadogpnoyiftewshebnpdtomttefgc)Teveofoehd()udrysdwsinoe()csttpdslberdbyatlept()ofteolvepttos)oftss.Nosevdsegrtnoehe()ccismyrninterypdpdt;o)Tetsslberdtoanaecpsenogrtr()seisinayrysdseoft)tsorm.Nometnfypt()oftecsmdsr()sei]
+[DELETED: )Tevsslbecdasf)Udweteveslbecdbyrgoehd()udrysdwetsinrcradmgtedhofudtsbebmaaoftec;a)Pdteveslbeddbyrypgtdtettqyinarrcradles.Itslbecdbymgtedhofpdtsbytebmaaoftec.TTOFWET.()Nopnslttwsfrsetoaylnintsseortntoawetesefrwhacyorcyhsidaptororwyorcyaninaes)Nopnslttwetsfrdltoaylntsseortntoamlsdwellttisogincewhtersofsn3,IoC.WETERGF.()Teishyidawergfeoffycs()prnwmrvetesdatr.Tewetergfeslbesefmornlfscdbyar)Teatoftefettiscdbyasrfmaplbesyddbyterradddonterrieagtes)Tewetergfeslntbeidonteseofrdorudt)Tefefrehtewharmdruptoadigtradof()i,seordlbdc,isfyc)Tepsoftssnslben,v,adofnofdetonadarJy1,2.WETERGADRNF.Teishdintesetytewetergadr,whslbeadbytedradslbesttea.Msintefdslcto)Psofaywetergf)Pscdurtsc)Itedonmsintef;a)Msrdbyapgayinayanpotepsoftsc.PTP.()Teishycdaptprtepso)Dgadts,s,adetnoctteptp)Rgadtepsasddbyted)Pgmstocsadcstoeetepftsc;a]
+[DELETED: )Pgrstorsworetsfdint)Frtepsofteptptedintss)Frflyr2,msintewetergadrnfdslbeadtotedteyfrtec,igsfade,tooeteptptadfrpgmstotedttomegstsadcstoeetepsoftsc;a)Frflys27ad2,tewetergadrnfdslbeadintefgorf)Pgmstotedttomegstocdcstoeetepsoftscrorfrtrtoctdywhtdpstordtep)Dlaec,igplattooeteptp)Ternofadtep;a)Rstorsaspdintsc.PTOFWETERGFE--A.()Arltedrslrttefscdfmwergtotesetxc)Fscdbyssslberdtotesetxcnattetsadintemrpdfrincr3,te6oC,whrttotesst.Tesetxcnshr,r,adptpsttsycewhternadptpsttaytesstxpttotepsofcr3,te6,IoC)Teptslbeadbyafmpdbytesxc)Tepsoftefeslbetdbytesetntotewetergadrnfdfrueadinsn3,IoC)Tesetxcnslrnaddtanaeoftnds()frteretesetxcsfmafeursn3,IoC)Tesetxcnsla,c,adeefeadurtscrinaewhtesepsudintea,c,adetoftessaduet.Tefgpsofcr3,t,IoC,whrttosst,slaytotewetgf)Atadalp)C,e,p,adi;a)Seoflsadrsoffspde)Arltedrmyrntoadofpt()oewetergfecdurtscrfrtecfcgtef)Tefeidbytscrisinantoalors,ormlfsadtsidonteseofnwt]
+[DELETED: )Tesetxcnslheteaytoper,sttolea,aetotewetgf.Shrss,toteetp,meaebsonssbyigegpsor3,te6,IoC,ttaytoa,a,c,p,i,seofl,adrsospde)Tepsoftssnslben,v,adofnofdetonadarJy1,2.PLR.()Wetsgdinteslietegdatarlted,tegmcpatawetesesentmgtersosc,adtegdbyIorsadddatadsdwellorrrwntes)Sttotelsinsn3,IoC,arrisedt)Seds()asplrtfrehtfwetsormlddfmwetscdtog,ifactesfrteseoftegdrrfrueactinanedp)Fyds()asplrtfrehtnoetsormlddfmwetsr,ortnadr;a)Tyds()asplrtfrehtnodrrudfrablr.LSONR.()Tecsrduscrmyntedaemsintef)Ifasfrrturtscredtsintef,tedrs,asigfsa,dsinorfmotton.PDA.Nopnslaeorrthfasbgintebsofagwetsfrt,s,ordlwtbginflcewhaltepsosc.RGADREOFWET.TeseofIosopthnhhadteetbyegtergaeofwet.A,tedtsliyasofrgadblreofwet.P.Aypnwokys,t,osofateinvnoftepsoftscrissoaclpyofntmetnfehdds()prv.Frtepsoftsc,acyclorbdofc,ortrd,slheteseayastroftedtofelqypttos,IoC,whrtt]
+[DELETED: )Cgisadi)Hgtertofe)Igv)Hgeta;a)Sgier.A.Tepsoftscrslntaytowetsfmaydemdeybyhnp.ALRTTOLER.TedrshaybyDr15adpetoteaegelecsinonteitoftscrinpecpofwetsinI.Acyofshrtslbesotelessoee.Atam,teinslieehoftefgwhrttotepry)Teaenroftsr)Teaenrofwetesessr)Tedratedonweter,c,a;a)Tedratedonplrspttn3,IoC.RGA.Tedtisadtoper,sttolea,toittepftscN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1089
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO WASTE TIRE DISPOSAL AND RECYCLING; REPEALING CHAPTER 65, TITLE
+3 39, IDAHO CODE, RELATING TO WASTE TIRE DISPOSAL; AMENDING TITLE 39,
+4 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 65, TITLE 39, IDAHO CODE,
+5 TO PROVIDE A SHORT TITLE, TO PROVIDE LEGISLATIVE FINDINGS, TO DEFINE
+6 TERMS, TO ESTABLISH PROVISIONS REGARDING WASTE TIRE STORAGE SITES, TO
+7 PROVIDE FOR WASTE TIRE DISPOSAL, TO ESTABLISH PROVISIONS REGARDING THE
+8 TRANSPORT OF WASTE TIRES, TO ESTABLISH A WASTE TIRE RECYCLING FEE, TO
+9 ESTABLISH A WASTE TIRE RECYCLING AND REMEDIATION FUND, TO ESTABLISH A
+10 PILOT PROJECT, TO PROVIDE FOR THE PAYMENT OF A WASTE TIRE RECYCLING FEE
+11 AND ADMINISTRATIVE CHARGE, TO PROVIDE FOR PARTIAL REIMBURSEMENT, TO
+12 ESTABLISH LIMITATIONS ON REIMBURSEMENT, TO ESTABLISH PROHIBITED ACTS,
+13 TO PROVIDE FOR THE RECYCLING AND REUSE OF WASTE TIRES, TO ESTABLISH
+14 PENALTIES, TO PROVIDE FOR APPLICABILITY, TO REQUIRE A CERTAIN ANNUAL
+15 REPORT TO THE LEGISLATURE, AND TO PROVIDE FOR RULEMAKING AUTHORITY; AND
+16 DECLARING AN EMERGENCY.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Chapter 65, Title 39, Idaho Code, be, and the same is
+19 hereby repealed.
+20 SECTION 2. That Title 39, Idaho Code, be, and the same is hereby amended
+21 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+22 ter 65, Title 39, Idaho Code, and to read as follows:
+23 CHAPTER 65
+24 WASTE TIRE DISPOSAL AND RECYCLING
+25 39-6501. SHORT TITLE. This chapter shall be known and may be cited as
+26 the "Waste Tire Disposal and Recycling Act."
+27 39-6502. LEGISLATIVE FINDINGS. (1) The state of Idaho supports and
+28 encourages the reuse and recycling of waste tires. The legislature finds
+29 the paramount public interest in regulating waste tires is to protect public
+30 health and safety. In particular, the legislature is concerned with elimi-
+31 nating potential fire hazards, minimizing or eliminating potential breeding
+32 grounds for disease-bearing insects, and eliminating potential sources of
+33 surface and ground water contamination.
+34 (2) The legislature finds that the Idaho department of environmental
+35 quality identified twenty-two (22) abandoned tire piles in the state of
+36 Idaho.
+37 (3) The legislature finds that the disposal of waste tires is a matter
+38 of statewide concern and that recycling of waste tires should be promoted
+39 considering the health, environmental, economic benefits, and fire safety
+40 benefits.
+
+2
+1 (4) The legislature further finds that the recycling of waste tires
+2 will decrease the number of tires disposed in landfills and reduce the health
+3 and safety hazards posed by abandoned waste tire storage sites not in compli-
+4 ance with this chapter.
+5 (5) The legislature further finds that the establishment of a fee to
+6 be used for partial reimbursement of the costs of transporting, processing,
+7 and recycling waste tires; for remediation of waste tire storage sites that
+8 are not permitted by or have not received written county or city authoriza-
+9 tion for operation; for providing moneys to cities and counties to enforce
+10 the provisions of this chapter; and for administration of this chapter by the
+11 department of environmental quality is environmentally and economically in
+12 the best interest of the state.
+13 39-6503. DEFINITIONS. As used in this chapter:
+14 (1) "Abandoned waste tire storage site" means a site that contains more
+15 than two hundred (200) tires and is not permitted by a city or county or is
+16 otherwise in violation of this chapter.
+17 (2) "Beneficial reuse" means the conversion of a waste tire to a product
+18 that is environmentally useful.
+19 (3) "City" means the city where the waste tire storage site is located.
+20 (4) "Commission" means the Idaho state tax commission.
+21 (5) "County" means the county where the waste tire storage site is lo-
+22 cated.
+23 (6) "Department" means the Idaho department of environmental quality.
+24 (7) "Director" means the director of the department.
+25 (8) "Dispose" means to drop, deposit, dump, spill, or permanently place
+26 any waste tire onto or under the ground or into the waters of this state or
+27 to own or control property where waste tires are dropped, deposited, dumped,
+28 spilled, or permanently placed onto or under the ground or into the waters of
+29 this state.
+30 (9) "End product" means a product that has component material derived
+31 from waste tires and that the department has determined to have a demon-
+32 strated market and substantial recycled tire content.
+33 (10) "Existing waste tire storage site" means any property storing
+34 waste tires prior to recycle, reuse, or final disposal, regardless of
+35 whether the owner or operator possesses a permit or other written city or
+36 county authorization authorizing the storage of waste tires at the property.
+37 (11) "Fund" means the waste tire recycling and remediation fund estab-
+38 lished pursuant to section 39-6508, Idaho Code.
+39 (12) "Ground rubber" means waste tires that have been ground, shredded,
+40 or otherwise reduced in size such that the particles are less than or equal
+41 to three quarters (3/4) of an inch in diameter and are ninety-eight percent
+42 (98%) wire-free by weight.
+43 (13) "Materials derived from waste tires" means ground rubber, tire
+44 sections, tire shreds, rubber, steel, fabric, or other similar materials
+45 derived from waste tires.
+46 (14) "Mining waste tire" means a waste tire that is greater than fifty-
+47 four (54) inches in diameter and was used in mining operations. Mining waste
+48 tires may be disposed of by burial. The department of lands shall prepare
+49 guidelines to govern the burial of mining waste tires.
+
+3
+1 (15) "Motor vehicle tire" has the same meaning as provided in section
+2 49-121(2), Idaho Code, with such tires used on a motor vehicle that operates
+3 on the roads of the state.
+4 (16) "New waste tire storage site" means any property that is not stor-
+5 ing waste tires and applies for and receives a permit or other written city or
+6 county authorization to store waste tires prior to recycle, reuse, or final
+7 disposal.
+8 (17) "Operator" means any person presently or who was during any period
+9 of waste tire storage or disposal in control of or having responsibility for
+10 a waste tire storage site or a waste tire disposal site.
+11 (18) "Owner" means a person who previously owned a waste tire storage
+12 site or disposal site at any time waste tires were stored or disposed at the
+13 property and the current owner of the waste tire storage site or waste tire
+14 disposal site.
+15 (19) "Person" means an individual, public or private corporation, part-
+16 nership, association, firm, joint stock company, joint venture, trust, es-
+17 tate, municipality, commission, political subdivision of the state, state
+18 or federal agency, department or instrumentality, special district, inter-
+19 state body or any legal entity that is recognized by law as the subject of
+20 rights and duties.
+21 (20) "Recycler" means a business operating in the state that annually
+22 uses:
+23 (a) Or can reasonably be expected during the next year to use a minimum
+24 of one hundred thousand (100,000) waste tires generated in the state or
+25 one thousand two hundred fifty (1,250) tons of waste tires generated in
+26 the state to recover energy or produce energy, ground rubber, or an end
+27 product; or
+28 (b) One hundred twenty-five (125) tons or more of waste tires generated
+29 in the state in end products.
+30 (21) "Retail tire dealer" means any person actively engaged in the busi-
+31 ness of selling new, used, or retread replacement tires at the retail level.
+32 (22) "Store" or "storage" means to accumulate more than two hundred
+33 (200) waste tires at any time in a manner that does not constitute final
+34 disposal at a waste tire disposal site or to own or control property on which
+35 more than two hundred (200) waste tires accumulate at any given time in a
+36 manner that does not constitute final disposal at a waste tire disposal site.
+37 The following activities shall not constitute "storing" or "storage" of
+38 waste tires:
+39 (a) A retail tire dealer collecting less than one thousand five hundred
+40 (1,500) waste tires at any point in time for each retail business loca-
+41 tion;
+42 (b) A tire retreader collecting less than three thousand (3,000) waste
+43 tires at any point in time for each individual retread operation as long
+44 as the waste tires are of the type the retreader is actively retreading;
+45 (c) A wrecking salvage business collecting less than one thousand five
+46 hundred (1,500) waste tires for each retail business location;
+47 (d) A waste tire disposal site collecting waste tires for disposal at
+48 the site in accordance with the site's approved operating plan;
+
+4
+1 (e) A wholesale tire dealer collecting less than one thousand five hun-
+2 dred (1,500) waste tires at any point in time for each wholesale busi-
+3 ness location;
+4 (f) An approved solid waste transfer station or solid waste landfill
+5 collecting less than one thousand five hundred (1,500) waste tires
+6 prior to transfer to an approved waste tire storage or disposal site;
+7 (g) A farm or livestock operation that utilizes waste tires to secure
+8 farm or livestock silage or wastes provided the total number of waste
+9 tires shall not exceed one thousand five hundred (1,500); or
+10 (h) A recycler using a total amount of waste tires that does not exceed
+11 three thousand (3,000) tons. However, a tire recycler may possess more
+12 tires than are provided for in this paragraph if such tire recycler sat-
+13 isfies a bonding requirement as provided for in this chapter.
+14 (23) "Tire retreader" means any person actively engaged in the business
+15 of retreading tires by scarifying the surface to remove the old surface tread
+16 and attaching a new tread to make a usable tire.
+17 (24) "Transport" or "transporting" means picking up or hauling waste
+18 tires.
+19 (25) "Waste tire" means a motor vehicle tire originally used for opera-
+20 tion of a vehicle on a public roadway that is no longer suitable for its orig-
+21 inal intended purpose because of wear, damage, or defect.
+22 (26) "Waste tire disposal site" means a public or private municipal
+23 solid waste landfill operating in compliance with section 39-6504, Idaho
+24 Code.
+25 (27) "Waste tire storage site" means a new or existing waste tire stor-
+26 age site.
+27 (28) "Wholesale tire dealer" means any person engaged in the business of
+28 selling new replacement tires to tire retailers.
+29 (29) "Wrecking salvage business" means any establishment or place of
+30 business that is maintained, used, or operated for storing, keeping, buying,
+31 or selling wrecked, scrapped, ruined, or dismantled motor vehicles or motor
+32 vehicle parts.
+33 39-6504. WASTE TIRE STORAGE SITES. (1) No person shall store waste
+34 tires on any public or private property in this state or in the waters of this
+35 state unless the property is a waste tire storage site as defined or other-
+36 wise exempted in this chapter.
+37 (2) No person shall own or operate a waste tire storage site without a
+38 permit or other written county or city authorization.
+39 (a) Counties and cities shall only issue permits or other written au-
+40 thorizations that contain terms and conditions that assure waste tire
+41 storage sites are operated in compliance with this chapter and any addi-
+42 tional requirements the county or city deems appropriate.
+43 (b) If a county or city determines not to issue a permit, other writ-
+44 ten authorization, or a modification to an existing permit or approval
+45 for an existing waste tire storage site, the existing waste tire stor-
+46 age site shall cease storing waste tires no later than three (3) months
+47 after receiving notice of the determination not to issue a permit, other
+48 written authorization, or modification for the site.
+
+5
+1 (c) The current owner or operator of a new waste tire storage site
+2 shall not commence waste tire storage at the site until the county or
+3 city issues a permit or other written authorization permitting waste
+4 tire storage. A recycler who owns and operates a recycling facility
+5 in the state of Idaho on the effective date of this chapter shall not
+6 be required to obtain any permits, licenses, or other authorizations
+7 from a county or city. In addition to the provisions of this section, a
+8 recycler shall be regulated as provided for in section 39-6503(22)(h),
+9 Idaho Code.
+10 (d) Counties and cities shall issue permits and other written local au-
+11 thorizations for waste tire storage sites. Upon written request from
+12 the city council or board of county commissioners to the department, the
+13 department shall be responsible for the permitting and authorization
+14 requirements of this section with respect to any application submitted
+15 to the county or city, in lieu of the county or city.
+16 (e) The owner or operator of a waste tire storage site shall maintain
+17 financial assurance in the form of a cash bond payable to the county or
+18 city, in an amount acceptable to the county or city where the waste tire
+19 storage site is located; provided however, counties and cities shall
+20 require a minimum initial financial assurance of two dollars and fifty
+21 cents ($2.50) per tire authorized to be stored at the site. The amount
+22 of financial assurance shall be adjusted each year in accordance with
+23 the consumer price index on the anniversary date of the issuance of the
+24 permit or other city or county written authorization. Failure to ad-
+25 just the amount of financial assurance on the anniversary date each year
+26 shall constitute failure to comply with the provisions of this chapter
+27 and shall result in automatic revocation of the permit or other writ-
+28 ten city or county authorization and forfeiture of the bond. Cities and
+29 counties shall only process an application submitted under this section
+30 when documentation submitted with the application establishes compli-
+31 ance with the financial assurance requirement of this paragraph. The
+32 current owner or operator of a new waste tire storage site shall com-
+33 ply with the financial assurance requirement of this section prior to
+34 commencing waste tire storage at the site. Upon written request from
+35 the city council or board of county commissioners to the department, the
+36 cash bond will be written in favor of the department, in lieu of the city
+37 or county. In such cases, the department will oversee use of the bond
+38 should two (2) bond holders become liable on the bond obligation.
+39 (f) Counties and cities shall only issue a permit or written authoriza-
+40 tion to a waste tire storage site when the application establishes that
+41 the proposed or existing site is located on property owned as exclu-
+42 sively for industrial use.
+43 (g) Counties and cities may charge a fee for processing a waste tire
+44 storage site permit or authorization application or renewal.
+45 (h) Owners and operators of a waste tire storage site shall record and
+46 maintain on-site operational records for a period of three (3) years,
+47 including but not limited to the daily quantity of tires transported
+48 to and from the site and the estimated quantity of tires located at the
+49 site.
+
+6
+1 (i) The county or city may suspend, revoke, or refuse to renew a waste
+2 tire storage site's permit or written authorization if the county or
+3 city determines that the site is operating in violation of any require-
+4 ment of this chapter or any term or condition of the site's permit or
+5 written authorization.
+6 (3) In the event the current owner or operator of an existing or new
+7 waste tire storage site fails to comply with the requirements of this sec-
+8 tion, the board of county commissioners or city council may declare the site
+9 a public nuisance and may declare a public health or safety emergency based
+10 on potential fire hazard, threat of insect borne disease, or potential con-
+11 tamination of the state's ground or surface waters. If the respective gov-
+12 erning authority has declared a public health or safety emergency, the di-
+13 rector is authorized and directed to use the fund created in section 39-6508,
+14 Idaho Code, for the purpose of removing and properly disposing of the tires
+15 upon the recommendation of the state fire marshal in the event of fire haz-
+16 ard, the district health department in the event of insect borne disease haz-
+17 ard, or the department in the event of ground or surface water contamination
+18 hazard.
+19 (a) The director shall be authorized to expend funds from the waste tire
+20 recycling and remediation fund if revenues in the fund are sufficient to
+21 cover the costs or, if revenues in the waste tire recycling and remedi-
+22 ation fund are not sufficient to cover the costs, then against the gen-
+23 eral fund, subject to approval by the board of examiners.
+24 (b) Nothing contained in this subsection shall be construed to change
+25 or impair any right of recovery or subrogation arising under any other
+26 provision of law.
+27 (c) The prosecuting attorney of the relevant county may act to fully re-
+28 cover all costs incurred by the state of Idaho and its political subdi-
+29 visions pursuant to this subsection, including but not limited to seek-
+30 ing recovery from the owners and operators of an existing or new waste
+31 tire storage site of the cost of any grant that may have been awarded
+32 pursuant to this chapter.
+33 39-6505. WASTE TIRE DISPOSAL. (1) No person shall dispose of waste
+34 tires on any public or private property in this state or in the waters of this
+35 state except at permitted public or private municipal solid waste landfills
+36 that have been approved to accept waste tires in their operating plans.
+37 (2) Waste tires may be disposed at a permitted public or private munic-
+38 ipal solid waste landfill with an approved operating plan only if the waste
+39 tires have been processed to meet the following criteria:
+40 (a) The volume of one hundred (100) unprepared randomly selected whole
+41 tires in one (1) continuous test period shall be reduced by at least
+42 sixty-five percent (65%) of the original volume pursuant to subsection
+43 (3) of this section. No single void space greater than one hundred
+44 twenty-five (125) cubic inches may remain in the randomly placed pro-
+45 cessed tires; or
+46 (b) The tires shall be reduced to an average chip size no greater than
+47 sixty-four (64) square inches in any randomly selected sample of ten
+48 (10) tires or more. No more than forty percent (40%) of the chips may
+49 exceed sixty-four (64) square inches.
+
+7
+1 (3) Tire volumes shall be calculated as follows:
+2 (a) Unprocessed whole tire volume shall be calculated by randomly
+3 placing one hundred (100) unprepared randomly selected whole tires in a
+4 rectangular container and multiplying the depth of unprocessed tires by
+5 the bottom area of the container; and
+6 (b) Processed tire volume shall be determined by randomly placing the
+7 processed tire test quantity in a rectangular container and leveling
+8 the surface. It shall be calculated by multiplying the depth of pro-
+9 cessed tires by the bottom area of the container.
+10 39-6506. TRANSPORT OF WASTE TIRES. (1) No person shall transport waste
+11 tires for storage to any location in this state other than to a waste tire
+12 storage site for which a city or county has issued a permit or other written
+13 city or county authorization in active status.
+14 (2) No person shall transport waste tires for disposal to any location
+15 in this state other than to a municipal solid waste landfill that is operat-
+16 ing in compliance with the requirements of section 39-6505, Idaho Code.
+17 39-6507. WASTE TIRE RECYCLING FEE. (1) There is hereby imposed a waste
+18 tire recycling fee of fifty cents (50¢) per new motor vehicle tire sold at re-
+19 tail. The waste tire recycling fee shall be separate from other nongovern-
+20 mental fees charged by a retailer.
+21 (2) The amount of the fee that is collected by a seller from a purchaser
+22 shall be separately designated by the retailer and designated on the receipt
+23 or invoice accompanying the sale.
+24 (3) The waste tire recycling fee shall not be imposed on the sale of re-
+25 treaded or used tires.
+26 (4) The fee for each tire with a rim diameter up to and including twenty-
+27 four and one-half (24.5) inches, single or dual bead capacity, is fifty cents
+28 (50¢).
+29 (5) The provisions of this section shall be null, void, and of no force
+30 and effect on and after July 1, 2028.
+31 39-6508. WASTE TIRE RECYCLING AND REMEDIATION FUND. There is hereby
+32 established in the state treasury the waste tire recycling and remediation
+33 fund, which shall be administered by the director and shall be subject to
+34 legislative appropriation. Moneys in the fund shall consist of:
+35 (1) Proceeds of any waste tire recycling fee;
+36 (2) Penalties collected under this chapter;
+37 (3) Interest earned on moneys in the fund; and
+38 (4) Moneys recovered by a prosecuting attorney in any action pursuant
+39 to the provisions of this chapter.
+40 39-6509. PILOT PROJECT. (1) There is hereby created a pilot project
+41 for the purposes of:
+42 (a) Developing a department strategy, staff, and equipment necessary
+43 to conduct the pilot project;
+44 (b) Remediating abandoned tire piles as determined by the department;
+45 (c) Providing moneys to cities and counties to enforce the provisions
+46 of this chapter; and
+
+8
+1 (d) Providing rebates to recyclers who recycle tires found in this
+2 state.
+3 (2) For the purposes of the pilot project established in this section:
+4 (a) For fiscal year 2026, moneys in the waste tire recycling and remedi-
+5 ation fund shall be appropriated to the department exclusively for the
+6 administrative costs, including staff and equipment, to operate the pi-
+7 lot project and for providing moneys to the department to make grants to
+8 cities and counties to enforce the provisions of this chapter; and
+9 (b) For fiscal years 2027 and 2028, the waste tire recycling and remedi-
+10 ation fund shall be appropriated in the following order for:
+11 (i) Providing moneys to the department to make grants to cities
+12 and counties to enforce the provisions of this chapter or for the
+13 director to contract directly with third parties to remediate
+14 abandoned tire piles;
+15 (ii) Departmental administrative costs, including personnel and
+16 equipment to operate the pilot project;
+17 (iii) The remediation of abandoned tire piles; and
+18 (iv) Rebates to recyclers as provided in this chapter.
+19 39-6510. PAYMENT OF WASTE TIRE RECYCLING FEE -- ADMINISTRATIVE
+20 CHARGE. (1) A retail tire dealer shall remit the fees collected from waste
+21 tire recycling to the state tax commission.
+22 (2) Fees collected by sellers shall be remitted to the state tax com-
+23 mission at the times and in the manner provided for in chapter 36, title 63,
+24 Idaho Code, with respect to the sales tax. The state tax commission shall
+25 establish registration, reporting, and payment procedures that substan-
+26 tially coincide with the registration and payment procedures that apply to
+27 the sales tax pursuant to the provisions of chapter 36, title 63, Idaho Code.
+28 (3) The payment shall be accompanied by a form prescribed by the state
+29 tax commission.
+30 (4)(a) The proceeds of the fee shall be transferred by the state tax
+31 commission to the waste tire recycling and remediation fund for use as
+32 prescribed in section 39-6508, Idaho Code.
+33 (b) The state tax commission shall retain and deposit an administrative
+34 charge of ten dollars ($10.00) for the revenue the state tax commission
+35 collects from a fee under section 39-6507, Idaho Code.
+36 (5)(a) The state tax commission shall administer, collect, and enforce
+37 the fee authorized under this chapter in accordance with the same pro-
+38 cedures used in the administration, collection, and enforcement of the
+39 state sales and use tax. The following provisions of chapter 36, title
+40 63, Idaho Code, with respect to sales tax, shall apply to the waste tire
+41 recycling fee:
+42 (i) Audit and appeal procedures;
+43 (ii) Collection, enforcement, penalties, and interest; and
+44 (iii) Statute of limitations and refunds of fees paid erroneously.
+45 (b) A retail tire dealer may retain two and one-half percent (2.5%) of
+46 the waste tire recycling fee collected under this chapter for the cost
+47 of collecting the fee.
+48 (6) The fee imposed by this chapter is in addition to all other state,
+49 county, or municipal fees and taxes imposed on the sale of new tires.
+
+9
+1 (7) The state tax commission shall have the authority to promul-
+2 gate rules, subject to legislative approval, applicable to the waste tire
+3 recycling fee. Such rules shall, to the extent practicable, minimize ad-
+4 ministrative burdens on sellers by incorporating existing provisions of
+5 chapter 36, title 63, Idaho Code, that apply to audits, appeals, collection,
+6 enforcement, penalties, interest, statute of limitations, and refunds of
+7 fees paid erroneously.
+8 (8) The provisions of this section shall be null, void, and of no force
+9 and effect on and after July 1, 2028.
+10 39-6511. PARTIAL REIMBURSEMENT. (1) Waste tires generated in the
+11 state shall include those generated at a retail tire dealer, those generated
+12 from cleanup at a waste tire storage site not meeting the requirements of
+13 this chapter, and those generated by Idaho residents and deposited at an
+14 approved solid waste landfill or recycler within the state.
+15 (2) Subject to the limitations in section 39-6512, Idaho Code, a recy-
+16 cler is entitled to:
+17 (a) Sixty-five dollars ($65.00) as partial reimbursement for each ton
+18 of waste tires or material derived from waste tires converted to ground
+19 rubber, if a contract exists for the sale of the ground rubber for use as
+20 a component in an end product;
+21 (b) Fifty dollars ($50.00) as partial reimbursement for each ton of
+22 waste tires or material derived from waste tires recycled, other than as
+23 ground rubber; and
+24 (c) Twenty dollars ($20.00) as partial reimbursement for each ton of
+25 ground rubber used for a beneficial reuse.
+26 39-6512. LIMITATIONS ON REIMBURSEMENT. (1) The costs reimbursed under
+27 this chapter may not exceed available moneys in the fund.
+28 (2) If applications for reimbursement under this chapter exceed the
+29 moneys in the fund, the director shall, as incoming funds allow, distribute
+30 reimbursements in order from oldest to newest.
+31 39-6513. PROHIBITED ACTS. No person shall advertise or represent him-
+32 self as being in the business of accepting waste tires for transport, stor-
+33 age, or disposal without being in full compliance with all the provisions of
+34 this chapter.
+35 39-6514. RECYCLING AND REUSE OF WASTE TIRES. The state of Idaho seeks
+36 to protect human health and the environment by encouraging the recycling and
+37 reuse of waste tires. Accordingly, the department shall identify approved
+38 methods of recycling and beneficial reuse of waste tires.
+39 39-6515. PENALTIES. Any person who knowingly stores, transports, or
+40 disposes of a tire in violation of the provisions of this chapter is subject
+41 to a civil penalty of not more than five hundred dollars ($500) per viola-
+42 tion. For the purposes of this chapter, a city council or board of county
+43 commissioners, or their designees, shall have the same authority as the
+44 director of the department of environmental quality pursuant to section
+45 39-108, Idaho Code, with respect to:
+
+10
+1 (1) Conducting investigations and inspections;
+2 (2) Having the right of entry;
+3 (3) Issuing violations;
+4 (4) Having enforcement authority; and
+5 (5) Seeking injunctive relief.
+6 39-6516. APPLICABILITY. The provisions of this chapter shall not ap-
+7 ply to waste tires from any device moved exclusively by human power.
+8 39-6517. ANNUAL REPORT TO LEGISLATURE REQUIRED. The director shall
+9 publish annually by December 15 and provide to the appropriate germane leg-
+10 islative committees information on the impact of this chapter in promoting
+11 the cleanup of waste tires in Idaho. A copy of such report shall be submitted
+12 to the legislative services office electronically. At a minimum, the infor-
+13 mation shall include each of the following with respect to the prior year:
+14 (1) The approximate number of tires recycled;
+15 (2) The approximate number of waste tire storage sites remediated;
+16 (3) The dollar amount expended on waste tire recycling, cleanup, and
+17 remediation; and
+18 (4) The dollar amount expended on partial reimbursements pursuant to
+19 section 39-6511, Idaho Code.
+20 39-6518. RULEMAKING AUTHORITY. The department is authorized to pro-
+21 mulgate rules, subject to legislative approval, to implement the provisions
+22 of this chapter.
+23 SECTION 3. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after its
+25 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YHHADWECNAGTOWETEDLADR;RGCR6,T,IOC,RGTOWETED;AGTE3OC,BYTEANOFANWCR6,TE3,IOCOPEASTT,TOPELEF,TOD,TOEHPSRGWETESES,TEFRWETED,TOEHPSRGTTOFWET,TOEHAWETERGF,THAWETERGADRNF,TOEHTP,TOPEFRTEPTOFAWETERGFDAEC,TOPEFRPLR,THLSONR,TOEHPDAOPEFRTERGADREOFWET,TOE,TOPEFRA,TOREACNATTOTEL,ADTOPEFRRGA;AGANEeItEdbyteLeofteSeofIN1.TtCr6,Te3,IoC,b,adteseiyrN2.TtTe3,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te3,IoC,adtordasfR6ETEDLADR.STT.Tscrslbeknadmybecdae"eTeDladRgA.LEF.()TeseofIossastereadrgofwet.Telefeptpcitinrgwetsistoptphads.Inp,teleiscdwhegplfeh,mgoregplbsfrdgi,adegplssoeadgdwrc)TelefsttteIodtofeyidto()adtepsinteseo)Telefstttedlofwetsisamfsecnadttrgofwetssdbepgteh,e,ecb,adfes]
+[DELETED: )Telefrfstttergofwetldetenroftsddinlsadretehdsyhspdbyadwetesessntincewhtsc)Telefrfsttteetofafeteudfrplrtoftecsoft,pdrgwet;frrnofwetesesstentpdbyorhentrdwncyorcyanfro;frpgmstocsadcstoeepsoftsc;adfranoftscrbyttofelqyiseyadeyiebtitoftes.D.Asudintsc)"dweteses"msasettcsmntohd()tsadisntpdbyacyorcyorieinvnoftsc)"lr"mstecnofawetetoaptiseyu)""mstecyweteweteseseisl)""msteIosetxc)""mstecyweteweteseseisl)""msteIodtofelq)""mstedrofted)""mstod,d,d,s,orpypyweteooorurtegdoriotewsoftsseooonorclpywewetsaed,d,d,orpypdooorurtegdoriotewsoss)"dp"msapttthsctmldmwetsadtttedthsddtoheaddmtadslrdtec)"gweteses"msaypysetsprtor,r,orfld,rsorteorororpsaptororwncyoyanagteseofwetsattep)""mstewetergadrnfdedpttosn3,IoC)"dr"mswetstthebng,sroerdinseshtttepsaelstnoreoteqs()ofanihindradaentp)webyw)"sddfmwet"msgdr,t,tes,r,s,f,ororsrmdfmwet)"gwet"msawetettisgrtnfr()isindradwsudinmgo.Mgwsmybeddofbyb.Tedtoflsslpstognteblofmgwet]
+[DELETED: )"rvet"hstesemgaspdins,IoC,whshtsudonamrvettontersoftes)"wweteses"msaypyttisntsgwetsadasfradrsaptororwncyoyantosewetsprtor,r,orf)""msaypnpyorwowsdgaypfweteseordlincloforhgryfweteseseorawetedls)""msapnwopyodaweteseordlseataytewetswesdorddattyadtectorofteweteseseorwetls)""msani,pcorpec,p,a,f,jtskc,jtv,t,e,m,c,plsnoftes,srfla,dtori,sld,iebyoraylleyttisrdbylwastestosadd)""msabsogintesetta)Orcnrybeeddgtentyrtoueamfoehdtd()wetsgdinteseoetdtohdfy()tsofwetsgdiesetorreyorpee,gdr,orane;o)Oehdte()tsormeofwetsgnteseinedp)"lted"msaypnayedintebsofsgn,u,orrdrttsatterll)""or""mstoaemetntoh)wetsatayteinamrttdsntceflatawetedlseortoonorclpyonwetntohd()wetsaeataygnteinrttdsntcefldlatawetedlsefgasslntce""or""oet)Arltedrcglstnoetdfeh)wetsatayptintefrehrlbsl)Aterrcglstntetd()wsatayptintefrehilrdonaslstewetsaeofteteterrisayr)Awgsebscglstnoetdfd()wetsfrehrlbsl)Awetedlsecgwetsfrdlaeseinaewhtessadogp]
+[DELETED: )Awetedrcglstnoetdfehd()wetsatayptintefrehwebsl)Anadsdwetrsnorsdwelglstnoetdfehd()wetrtotrtoanadweteseordls)Afmorlkonttuswetstosmorlkseorwspdtetlnrofwsslntedoetdfehd(;o)Arrugatlatofwetsttdsnteetd()t.H,aterrmypsmstnaepdfrintsphifshterrssabgrtaspdfrintsc)"er"msaypnayedintebfrgtsbysgtesetoreteodsetdaganwtdtomeauet)""or""mspguporhgw)"et"msamrveteoyudfronofaveonapcryttisnolrsefrisolidpebeofw,d,ord)"etedls"msapcorpemdwellogincewhsn3,I)"eteses"msanworegweteses)"eted"msaypnedintebsognwrttstoter)"gseb"msayetorpeosttism,u,orodfrs,k,brsgw,s,r,orddmrvsormep.WETESES.()Nopnslsewsonaypcorpepyintsseorintewsofteustepyisaweteseseasddoroeedintsc)Nopnslonoroeawetesesewttororwncyorcya)Csadcssloyiepsororwnasttcntsadcsttaewetessaeodincewhtscradayalrstecyorcydsa)Ifacyorcydsnttoieap,orwna,oramntoanegptoraranegweteses,teegweteseseslcesgwetsnolrtnte()mrrgneoftednnttoieap,ona,ormnfrtes]
+[DELETED: )Tectorororofanwweteseslntceweteseatteseultecyoyisaptororwnanpgwes.ArrwoosadosargfnteseofIoonteeedeoftscrslnerdtoonayp,l,ororamacyorc.Inantotepsoftss,rslberdaspdfrinsn3oC)Csadcssliepsadorwnllasfrweteses.Unwnrtfecyclorbdofcycstoted,ttslberefrtepgadasoftssnwhrttoayansotecyorc,inluoftecyorc)Teorororofaweteseseslmlaeintefmofachbdpetotecyo,inanataetotecyorcyweteweteseisl;pdh,csadcsseammilflaeoftodsadfs()prteadtobesdattes.Teafflaeslbeadehyrinaewecrpeixonteaydeofteieofttororcyorcywna.Fetoatteatofflaeonteaydeehylcefetocywhtepsoftscdslrtinacrnofteptororwncyorcyanadfeofteb.Csassloypsanansdurtssndnsdwhteanescewhteflaertoftsp.Ttorororofanwweteseseslcywhteflaertoftssnprtgweteseattes.Unwnrtfecyclorbdofcycstoted,thbdwlbewninfrofted,inluoftecrc.Inshc,tedtwloeueoftebdto()bdhsbeleontebdo)Csadcssloyieaptorwnantoawetesesewnteanestepdoregseisldonpyodaseyfrilu)Csadcsmyceafefrpgaweteseptorananorr)Osadosofaweteseseslrdanoeolrsfrapdofte()ygbtntldtotedyqyoftstoadfmteseadteedqyoftsldatt]
+[DELETED: )Tecyorcymys,r,orretorwawesessptorwnaniftecyoydsttteseisoginvnofayrtoftscroraytmorcnoftessptona)Inteettectorororofanegornetesesefstocywhtersoftss,tebdofcycsorcyclmydetespcneadmydeapchhorsyeybnplfeh,ttofitbed,orplcnoftessgdorsew.Iftereggayhsddapchhorsye,tedrisadadddtouetefdcdinsn3oC,frtepeofrgadpydgoftetnternoftesefemlinteetoffeh,tedthhdtinteetofitbedeh,ortedtinteetofgdorsewrc)Tedrslbeadtoedfsfmtewetgadrnfdifrsintefdaesttrtecso,ifrsintewetergadrnfdaentsttocrtec,tnatteglf,sttoalbytebdofe)Ngcdintssnslbecdtocrirayrtofryorsnagurayonofl)TepgayoftertcymyattofyrralcsidbyteseofIoadisplsspttotss,igbtntldtosgryfmteosadosofanegornwweseseoftectofaygtttmyhebnattotsc.WETED.()Nopnsldeofwsonaypcorpepyintsseorintewsofteetatpdpcorpemlsdwelthebnadtoatwetsintrogp)Wetsmybeddatapdpcorpemlsdwellwhanadogpnoyiftewshebnpdtomttefgc)Teveofoehd()udrysdwsinoe()csttpdslberdbyatlept()ofteolvepttos)oftss.Nosevdsegrtnoehe()ccismyrninterypdpdt;o)Tetsslberdtoanaecpsenogrtr()seisinayrysdseoft)tsorm.Nometnfypt()oftecsmdsr()sei]
+[DELETED: )Tevsslbecdasf)Udweteveslbecdbyrgoehd()udrysdwetsinrcradmgtedhofudtsbebmaaoftec;a)Pdteveslbeddbyrypgtdtettqyinarrcradles.Itslbecdbymgtedhofpdtsbytebmaaoftec.TTOFWET.()Nopnslttwsfrsetoaylnintsseortntoawetesefrwhacyorcyhsidaptororwyorcyaninaes)Nopnslttwetsfrdltoaylntsseortntoamlsdwellttisogincewhtersofsn3,IoC.WETERGF.()Teishyidawergfeoffycs()prnwmrvetesdatr.Tewetergfeslbesefmornlfscdbyar)Teatoftefettiscdbyasrfmaplbesyddbyterradddonterrieagtes)Tewetergfeslntbeidonteseofrdorudt)Tefefrehtewharmdruptoadigtradof()i,seordlbdc,isfyc)Tepsoftssnslben,v,adofnofdetonadarJy1,2.WETERGADRNF.Teishdintesetytewetergadr,whslbeadbytedradslbesttea.Msintefdslcto)Psofaywetergf)Pscdurtsc)Itedonmsintef;a)Msrdbyapgayinayanpotepsoftsc.PTP.()Teishycdaptprtepso)Dgadts,s,adetnoctteptp)Rgadtepsasddbyted)Pgmstocsadcstoeetepftsc;a]
+[DELETED: )Pgrstorsworetsfdint)Frtepsofteptptedintss)Frflyr2,msintewetergadrnfdslbeadtotedteyfrtec,igsfade,tooeteptptadfrpgmstotedttomegstsadcstoeetepsoftsc;a)Frflys27ad2,tewetergadrnfdslbeadintefgorf)Pgmstotedttomegstocdcstoeetepsoftscrorfrtrtoctdywhtdpstordtep)Dlaec,igplattooeteptp)Ternofadtep;a)Rstorsaspdintsc.PTOFWETERGFE--A.()Arltedrslrttefscdfmwergtotesetxc)Fscdbyssslberdtotesetxcnattetsadintemrpdfrincr3,te6oC,whrttotesst.Tesetxcnshr,r,adptpsttsycewhternadptpsttaytesstxpttotepsofcr3,te6,IoC)Teptslbeadbyafmpdbytesxc)Tepsoftefeslbetdbytesetntotewetergadrnfdfrueadinsn3,IoC)Tesetxcnslrnaddtanaeoftnds()frteretesetxcsfmafeursn3,IoC)Tesetxcnsla,c,adeefeadurtscrinaewhtesepsudintea,c,adetoftessaduet.Tefgpsofcr3,t,IoC,whrttosst,slaytotewetgf)Atadalp)C,e,p,adi;a)Seoflsadrsoffspde)Arltedrmyrntoadofpt()oewetergfecdurtscrfrtecfcgtef)Tefeidbytscrisinantoalors,ormlfsadtsidonteseofnwt]
+[DELETED: )Tesetxcnslheteaytoper,sttolea,aetotewetgf.Shrss,toteetp,meaebsonssbyigegpsor3,te6,IoC,ttaytoa,a,c,p,i,seofl,adrsospde)Tepsoftssnslben,v,adofnofdetonadarJy1,2.PLR.()Wetsgdinteslietegdatarlted,tegmcpatawetesesentmgtersosc,adtegdbyIorsadddatadsdwellorrrwntes)Sttotelsinsn3,IoC,arrisedt)Seds()asplrtfrehtfwetsormlddfmwetscdtog,ifactesfrteseoftegdrrfrueactinanedp)Fyds()asplrtfrehtnoetsormlddfmwetsr,ortnadr;a)Tyds()asplrtfrehtnodrrudfrablr.LSONR.()Tecsrduscrmyntedaemsintef)Ifasfrrturtscredtsintef,tedrs,asigfsa,dsinorfmotton.PDA.Nopnslaeorrthfasbgintebsofagwetsfrt,s,ordlwtbginflcewhaltepsosc.RGADREOFWET.TeseofIosopthnhhadteetbyegtergaeofwet.A,tedtsliyasofrgadblreofwet.P.Aypnwokys,t,osofateinvnoftepsoftscrissoaclpyofntmetnfehdds()prv.Frtepsoftsc,acyclorbdofc,ortrd,slheteseayastroftedtofelqypttos,IoC,whrtt]
+[DELETED: )Cgisadi)Hgtertofe)Igv)Hgeta;a)Sgier.A.Tepsoftscrslntaytowetsfmaydemdeybyhnp.ALRTTOLER.TedrshaybyDr15adpetoteaegelecsinonteitoftscrinpecpofwetsinI.Acyofshrtslbesotelessoee.Atam,teinslieehoftefgwhrttotepry)Teaenroftsr)Teaenrofwetesessr)Tedratedonweter,c,a;a)Tedratedonplrspttn3,IoC.RGA.Tedtisadtoper,sttolea,toittepftscN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

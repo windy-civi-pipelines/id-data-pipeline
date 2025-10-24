@@ -1,0 +1,118 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Lent
+Seconded by Woodward
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1025
+1 AMENDMENT TO THE BILL
+2 On page 1 of the printed bill, delete lines 17 through 40; on page 2,
+3 delete lines 1 through 29; and renumber succeeding sections accordingly.
+4 AMENDMENT TO SECTION 3
+5 On page 3, in line 18, following "board," insert: "but not including
+6 childcare,"; delete lines 28 and 29; in line 30, delete "(7) (8)" and in-
+7 sert: "(7)"; in line 32, delete "(8) (9)" and insert: "(8)"; in line 34,
+8 delete "(10)" and insert: "(9)"; in line 40, following "providing" insert:
+9 "eligible"; in line 43, delete "(11)" and insert: "(10)"; and delete lines
+10 44 through 49, and insert:
+11 "(a) Meets one (1) of the following qualifications:
+12 (i) Is a secondary school accredited by an accrediting body rec-
+13 ognized by the state board of education; or
+14 (ii) Is an elementary school that creates and maintains a student
+15 learning portfolio;
+16 (b) Does not discriminate regarding student admission or enrollment
+17 based on a student's or a parent's religion, disability, or race;
+18 (c) Respects the dignity of others, acknowledges the right of others to
+19 express differing opinions, and fosters and defends intellectual hon-
+20 esty, freedom of inquiry and instruction, and freedom of speech and as-
+21 sociation;
+22 (d) Respects requests for reasonable accommodations, which means re-
+23 quests by a student's parent or legal guardian requiring the school to
+24 make its best effort to enable parents or legal guardians to exercise
+25 their rights without substantial impact to staff and resources, in-
+26 cluding employee working conditions, safety and supervision on school
+27 premises for school activities, and the efficient allocation of ex-
+28 penditures, while balancing the parental rights of parents and legal
+29 guardians, the educational needs of other students, the academic and
+30 behavioral impacts to a classroom, a teacher's workload, and the assur-
+31 ance of the safe and efficient operations of the school;".
+32 On page 4, in line 2, following "education" insert: "to verify student
+33 enrollment and progress"; in line 12, delete "(9) (12)" and insert: "(9)
+34 (11)"; and in line 14, delete "(13)" and insert: "(12)".
+35 AMENDMENT TO THE BILL
+36 On page 6, delete lines 37 through 46; delete page 7; delete page 8; on
+37 page 9, delete lines 1 through 40; and renumber succeeding sections accord-
+38 ingly.
+2
+1 CORRECTION TO TITLE
+2 On page 1, delete lines 2 through 5, and insert: "RELATING TO EDUCATION;
+3 AMENDING SECTION"; and delete lines 10 through 14, and insert: "REGARDING
+4 THE EMPOWERING PARENTS GRANT PROGRAM FUND; PROVIDING SEVER-".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyLdbyWNTESEATTOS.N.1TTOTEBnpe1oftepdb,dels17th4;onpe2els1th2;adrrsgssaTTOSNnpe3,inle1,fg""i:"tnti;dels28ad2;inle3,de")("adi:";inle3,de")("adi:";inle3e""adi:";inle4,fg""i;inle4,de""adi:";addel4th4,adi)Msoe()oftefgq)Isasysladbyanagbyrdbytesebdofe;o)Isaneyslttcsadmsasgp)Dsntdergstanoredonassorapsr,d,orr)Rstedyofo,astertofostsdgo,adfsaddsilh,fmofiyadi,adfmofshada)Rsrsfrrea,whmsrsbyassptorllgnrgteslteisbtettoeepsorllgstoerrswtslittosfadr,igeewgc,syadsnonssfrsla,adteetanofe,webgteplrsofpsadl,teelnsofors,teacalistoac,atsw,adteaeofteseadetosoftesnpe4,inle2,fg""i:"ovystadp;inle1,de")("adi:";adinle1,de""adi:"TTOTEBnpe6,dels37th4;depe7;depe8;oe9,dels1th4;adrrsgssa]
+[DELETED: NTOTnpe1,dels2th5,adi:"GTOEGS;addels10th1,adi:"EEGPSGTPMF;PGS]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Lent
+Seconded by Woodward
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1025
+1 AMENDMENT TO THE BILL
+2 On page 1 of the printed bill, delete lines 17 through 40; on page 2,
+3 delete lines 1 through 29; and renumber succeeding sections accordingly.
+4 AMENDMENT TO SECTION 3
+5 On page 3, in line 18, following "board," insert: "but not including
+6 childcare,"; delete lines 28 and 29; in line 30, delete "(7) (8)" and in-
+7 sert: "(7)"; in line 32, delete "(8) (9)" and insert: "(8)"; in line 34,
+8 delete "(10)" and insert: "(9)"; in line 40, following "providing" insert:
+9 "eligible"; in line 43, delete "(11)" and insert: "(10)"; and delete lines
+10 44 through 49, and insert:
+11 "(a) Meets one (1) of the following qualifications:
+12 (i) Is a secondary school accredited by an accrediting body rec-
+13 ognized by the state board of education; or
+14 (ii) Is an elementary school that creates and maintains a student
+15 learning portfolio;
+16 (b) Does not discriminate regarding student admission or enrollment
+17 based on a student's or a parent's religion, disability, or race;
+18 (c) Respects the dignity of others, acknowledges the right of others to
+19 express differing opinions, and fosters and defends intellectual hon-
+20 esty, freedom of inquiry and instruction, and freedom of speech and as-
+21 sociation;
+22 (d) Respects requests for reasonable accommodations, which means re-
+23 quests by a student's parent or legal guardian requiring the school to
+24 make its best effort to enable parents or legal guardians to exercise
+25 their rights without substantial impact to staff and resources, in-
+26 cluding employee working conditions, safety and supervision on school
+27 premises for school activities, and the efficient allocation of ex-
+28 penditures, while balancing the parental rights of parents and legal
+29 guardians, the educational needs of other students, the academic and
+30 behavioral impacts to a classroom, a teacher's workload, and the assur-
+31 ance of the safe and efficient operations of the school;".
+32 On page 4, in line 2, following "education" insert: "to verify student
+33 enrollment and progress"; in line 12, delete "(9) (12)" and insert: "(9)
+34 (11)"; and in line 14, delete "(13)" and insert: "(12)".
+35 AMENDMENT TO THE BILL
+36 On page 6, delete lines 37 through 46; delete page 7; delete page 8; on
+37 page 9, delete lines 1 through 40; and renumber succeeding sections accord-
+38 ingly.
+
+2
+1 CORRECTION TO TITLE
+2 On page 1, delete lines 2 through 5, and insert: "RELATING TO EDUCATION;
+3 AMENDING SECTION"; and delete lines 10 through 14, and insert: "REGARDING
+4 THE EMPOWERING PARENTS GRANT PROGRAM FUND; PROVIDING SEVER-".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyLdbyWNTESEATTOS.N.1TTOTEBnpe1oftepdb,dels17th4;onpe2els1th2;adrrsgssaTTOSNnpe3,inle1,fg""i:"tnti;dels28ad2;inle3,de")("adi:";inle3,de")("adi:";inle3e""adi:";inle4,fg""i;inle4,de""adi:";addel4th4,adi)Msoe()oftefgq)Isasysladbyanagbyrdbytesebdofe;o)Isaneyslttcsadmsasgp)Dsntdergstanoredonassorapsr,d,orr)Rstedyofo,astertofostsdgo,adfsaddsilh,fmofiyadi,adfmofshada)Rsrsfrrea,whmsrsbyassptorllgnrgteslteisbtettoeepsorllgstoerrswtslittosfadr,igeewgc,syadsnonssfrsla,adteetanofe,webgteplrsofpsadl,teelnsofors,teacalistoac,atsw,adteaeofteseadetosoftesnpe4,inle2,fg""i:"ovystadp;inle1,de")("adi:";adinle1,de""adi:"TTOTEBnpe6,dels37th4;depe7;depe8;oe9,dels1th4;adrrsgssa]
+[DELETED: NTOTnpe1,dels2th5,adi:"GTOEGS;addels10th1,adi:"EEGPSGTPMF;PGS]

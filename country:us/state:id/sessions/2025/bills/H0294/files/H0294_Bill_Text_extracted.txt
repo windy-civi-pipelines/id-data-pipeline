@@ -1,0 +1,67 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 294
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE PUBLIC UTILITIES COMMISSION; AMENDING SECTION 61-712A,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING CIVIL PENALTIES FOR VIOLA-
+4 TIONS; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 61-712A, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 61-712A. CIVIL PENALTY FOR VIOLATION. Any person who violates or fails
+9 to comply with, or who procures, aids, or abets any violation of title 61,
+10 Idaho Code, governing safety of pipeline facilities and the transportation
+11 of gas, or of any order, decision, rule, or regulation duly issued by the
+12 Idaho public utilities commission governing the safety of pipeline facili-
+13 ties and the transportation of gas, shall be subject to a civil penalty of not
+14 to exceed two thousand dollars ($2,000) for each violation for each day that
+15 the violation persists. However, the maximum civil penalty shall not exceed
+16 two hundred thousand dollars ($200,000) for any related series of violation
+17 pursuant to 49 CFR 190.223 at the time the violation occurred.
+18 SECTION 2. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after its
+20 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOTEPCUSC;AGSN6OC,TOREPSRGCLPSFRV;ADDGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.CLPYFRV.Aypnwovsorfocyw,orwop,a,orasayvnofte6oC,ggsyofpefsadtetfg,orofayo,d,r,orrndyidbytopcuscnggtesyofpefsadtetnofg,slbesttoaclpyofnoedtotdds()frehvnfrehdytevnp.H,temmclpyslnteohdtdds()frayrdssofvtto49CR13attetetevnoN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 294
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE PUBLIC UTILITIES COMMISSION; AMENDING SECTION 61-712A,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING CIVIL PENALTIES FOR VIOLA-
+4 TIONS; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 61-712A, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 61-712A. CIVIL PENALTY FOR VIOLATION. Any person who violates or fails
+9 to comply with, or who procures, aids, or abets any violation of title 61,
+10 Idaho Code, governing safety of pipeline facilities and the transportation
+11 of gas, or of any order, decision, rule, or regulation duly issued by the
+12 Idaho public utilities commission governing the safety of pipeline facili-
+13 ties and the transportation of gas, shall be subject to a civil penalty of not
+14 to exceed two thousand dollars ($2,000) for each violation for each day that
+15 the violation persists. However, the maximum civil penalty shall not exceed
+16 two hundred thousand dollars ($200,000) for any related series of violation
+17 pursuant to 49 CFR 190.223 at the time the violation occurred.
+18 SECTION 2. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after its
+20 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.2YSEASCNAGTOTEPCUSC;AGSN6OC,TOREPSRGCLPSFRV;ADDGANEeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.CLPYFRV.Aypnwovsorfocyw,orwop,a,orasayvnofte6oC,ggsyofpefsadtetfg,orofayo,d,r,orrndyidbytopcuscnggtesyofpefsadtetnofg,slbesttoaclpyofnoedtotdds()frehvnfrehdytevnp.H,temmclpyslnteohdtdds()frayrdssofvtto49CR13attetetevnoN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

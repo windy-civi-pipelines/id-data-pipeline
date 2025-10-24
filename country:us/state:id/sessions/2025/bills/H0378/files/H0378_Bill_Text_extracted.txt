@@ -1,0 +1,124 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 378
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO TRANSPARENT AND ETHICAL GOVERNMENT; AMENDING TITLE 74, IDAHO
+3 CODE, BY THE ADDITION OF A NEW CHAPTER 7, TITLE 74, IDAHO CODE, TO
+4 PROVIDE LEGISLATIVE INTENT AND TO PROVIDE FOR REPORTING OF PAID LEG-
+5 ISLATIVE TRAVEL AND A PENALTY; AND DECLARING AN EMERGENCY AND PROVIDING
+6 AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Title 74, Idaho Code, be, and the same is hereby amended
+9 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+10 ter 7, Title 74, Idaho Code, and to read as follows:
+11 CHAPTER 7
+12 TRANSPARENCY IN LEGISLATIVE TRAVEL
+13 74-701. LEGISLATIVE INTENT. It is the intent of the legislature to
+14 promote public confidence in government and to promote transparency by
+15 requiring legislators, legislators-elect, and candidates for legislative
+16 office to report travel paid for by others.
+17 74-702. REPORTING OF PAID TRAVEL -- PENALTY. (1) All legislative offi-
+18 cials shall report to the secretary of state all travel outside of Idaho rea-
+19 sonably related to a legislative or governmental purpose or to an issue of
+20 state, national, or international public policy paid for by another individ-
+21 ual or entity. Travel paid through campaign funds that are reported pursuant
+22 to chapter 66, title 67, Idaho Code, or solely through personal funds of a
+23 legislative official shall not be subject to the requirements of this sec-
+24 tion. For the purposes of this section, "legislative official" means a leg-
+25 islative candidate who will appear on a general election ballot, a member of
+26 the Idaho legislature, and a member-elect of the Idaho legislature who has
+27 prevailed in a general election but has not yet received the oath of office.
+28 (2) Within thirty (30) days of the return date of any travel subject to
+29 the provisions of subsection (1) of this section, a legislative official who
+30 is subject to the reporting requirements provided for in subsection (1) of
+31 this section shall file a report with the secretary of state that includes:
+32 (a) The travel destination;
+33 (b) The dates of travel;
+34 (c) The purpose of the travel; and
+35 (d) The name and address of the person or entity that paid for the
+36 travel, including whether the travel was a campaign contribution and,
+37 in the case of current members of the legislature, whether the travel
+38 was made in such member's official capacity as a legislator.
+39 (3) Any legislative official who fails to file the report required pur-
+40 suant to subsection (2) of this section within thirty (30) days shall be sub-
+2
+1 ject to a late fee in the amount of twenty-five dollars ($25.00) each day un-
+2 til the report is filed, which fee shall be deposited in the public school in-
+3 come fund.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YSEASCNAGTOTTADELG;AGTE7,I,BYTEANOFANWCR7,TE7,IOC,TELEITADTOPEFRRGOFPDLETLADAP;ADDGANEYADPNEEDeItEdbyteLeofteSeofIN1.TtTe7,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr7,Te7,IoC,adtordasfRYINLET.LEI.Itisteitofteletepcceingtadtopetybgl,l,adcsfrletorttlpdfrbyo.RGOFPDTL--P.()AlleosslrttotesyofsealtloeofIoryrdtoaleorglpeortoanieo,n,orilpcpypdfrbyarilore.Tlpdthcnfsttaerdpocr6,te6,IoC,orsythplfsofeolslntbesttotersoftss.Frtepsoftss,"eo"msalecewowlaronaglenb,amroeIol,adamtofteIolewohdinaglenbthsntytrdteohofo)Wnty()dsofterndeofaytlsttepsofsn()oftss,aleolwssttotergrspdfrinsn()ossnslfeartwhtesyofsetti)Tetld)Tedsoft)Tepeoftet;a)Teneadasoftepnoreyttpdfrt,igwrtetlwsacncnanteceofctmsoftel,wrtetsmeinshmsolcyasal)Ayleolwofstofetertrdpttosn()oftssnwnty()dsslbes]
+[DELETED: ttoalefeinteatofteds()ehdyultertisf,whfeslbeddintepcsliefN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 378
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO TRANSPARENT AND ETHICAL GOVERNMENT; AMENDING TITLE 74, IDAHO
+3 CODE, BY THE ADDITION OF A NEW CHAPTER 7, TITLE 74, IDAHO CODE, TO
+4 PROVIDE LEGISLATIVE INTENT AND TO PROVIDE FOR REPORTING OF PAID LEG-
+5 ISLATIVE TRAVEL AND A PENALTY; AND DECLARING AN EMERGENCY AND PROVIDING
+6 AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Title 74, Idaho Code, be, and the same is hereby amended
+9 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+10 ter 7, Title 74, Idaho Code, and to read as follows:
+11 CHAPTER 7
+12 TRANSPARENCY IN LEGISLATIVE TRAVEL
+13 74-701. LEGISLATIVE INTENT. It is the intent of the legislature to
+14 promote public confidence in government and to promote transparency by
+15 requiring legislators, legislators-elect, and candidates for legislative
+16 office to report travel paid for by others.
+17 74-702. REPORTING OF PAID TRAVEL -- PENALTY. (1) All legislative offi-
+18 cials shall report to the secretary of state all travel outside of Idaho rea-
+19 sonably related to a legislative or governmental purpose or to an issue of
+20 state, national, or international public policy paid for by another individ-
+21 ual or entity. Travel paid through campaign funds that are reported pursuant
+22 to chapter 66, title 67, Idaho Code, or solely through personal funds of a
+23 legislative official shall not be subject to the requirements of this sec-
+24 tion. For the purposes of this section, "legislative official" means a leg-
+25 islative candidate who will appear on a general election ballot, a member of
+26 the Idaho legislature, and a member-elect of the Idaho legislature who has
+27 prevailed in a general election but has not yet received the oath of office.
+28 (2) Within thirty (30) days of the return date of any travel subject to
+29 the provisions of subsection (1) of this section, a legislative official who
+30 is subject to the reporting requirements provided for in subsection (1) of
+31 this section shall file a report with the secretary of state that includes:
+32 (a) The travel destination;
+33 (b) The dates of travel;
+34 (c) The purpose of the travel; and
+35 (d) The name and address of the person or entity that paid for the
+36 travel, including whether the travel was a campaign contribution and,
+37 in the case of current members of the legislature, whether the travel
+38 was made in such member's official capacity as a legislator.
+39 (3) Any legislative official who fails to file the report required pur-
+40 suant to subsection (2) of this section within thirty (30) days shall be sub-
+
+2
+1 ject to a late fee in the amount of twenty-five dollars ($25.00) each day un-
+2 til the report is filed, which fee shall be deposited in the public school in-
+3 come fund.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.3YSEASCNAGTOTTADELG;AGTE7,I,BYTEANOFANWCR7,TE7,IOC,TELEITADTOPEFRRGOFPDLETLADAP;ADDGANEYADPNEEDeItEdbyteLeofteSeofIN1.TtTe7,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr7,Te7,IoC,adtordasfRYINLET.LEI.Itisteitofteletepcceingtadtopetybgl,l,adcsfrletorttlpdfrbyo.RGOFPDTL--P.()AlleosslrttotesyofsealtloeofIoryrdtoaleorglpeortoanieo,n,orilpcpypdfrbyarilore.Tlpdthcnfsttaerdpocr6,te6,IoC,orsythplfsofeolslntbesttotersoftss.Frtepsoftss,"eo"msalecewowlaronaglenb,amroeIol,adamtofteIolewohdinaglenbthsntytrdteohofo)Wnty()dsofterndeofaytlsttepsofsn()oftss,aleolwssttotergrspdfrinsn()ossnslfeartwhtesyofsetti)Tetld)Tedsoft)Tepeoftet;a)Teneadasoftepnoreyttpdfrt,igwrtetlwsacncnanteceofctmsoftel,wrtetsmeinshmsolcyasal)Ayleolwofstofetertrdpttosn()oftssnwnty()dsslbes]
+[DELETED: ttoalefeinteatofteds()ehdyultertisf,whfeslbeddintepcsliefN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

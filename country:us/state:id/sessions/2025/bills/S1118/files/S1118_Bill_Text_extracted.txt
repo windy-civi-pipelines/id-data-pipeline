@@ -1,0 +1,1067 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1118
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PROCUREMENT BY POLITICAL SUBDIVISIONS; AMENDING SECTION
+3 67-2803, IDAHO CODE, TO REVISE A PROVISION REGARDING CERTAIN EXCLUSIONS
+4 FROM CERTAIN PROCUREMENT REQUIREMENTS; AMENDING SECTION 67-2805, IDAHO
+5 CODE, TO REVISE PROVISIONS REGARDING PROCUREMENT OF PUBLIC WORKS CON-
+6 STRUCTION; AMENDING SECTION 67-2806, IDAHO CODE, TO REVISE PROVISIONS
+7 REGARDING PROCURING SERVICES OR PERSONAL PROPERTY; AND DECLARING AN
+8 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 67-2803, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-2803. EXCLUSIONS. The procurement requirements established in
+13 this chapter shall not be applicable to:
+14 (1) The acquisition of personal property when the procurement dupli-
+15 cates the price and substance of a contract for like goods or services that
+16 has been competitively bid by the state of Idaho, one (1) of its political
+17 subdivisions, or an agency of the federal government;
+18 (2) Contracts or purchases where expenditures to procure public works
+19 construction are less than fifty thousand dollars ($50,000) one hundred
+20 thousand dollars ($100,000) or where expenditures to procure services or
+21 personal property are less than seventy-five thousand dollars ($75,000) one
+22 hundred thousand dollars ($100,000), provided such contracts or purchases
+23 shall be guided by the best interests of the political subdivision procuring
+24 the goods and services as determined by the governing board;
+25 (3) Disbursement of wages or compensation to any employee, official or
+26 agent of a political subdivision for the performance of personal services
+27 for the political subdivision;
+28 (4) Procurement of personal or professional services to be performed by
+29 an independent contractor for the political subdivision;
+30 (5) Procurement of an interest in real property;
+31 (6) Procurement of insurance;
+32 (7) Costs of participation in a joint powers agreement with other units
+33 of government;
+34 (8) Procurement of used personal property;
+35 (9) Procurement from federal government general services administra-
+36 tion (GSA) schedules or federal multiple award schedules (MAS);
+37 (10) Procurement of personal property or services through contracts en-
+38 tered into by the division of purchasing of the department of administration
+39 of the state of Idaho;
+40 (11) Procurement of goods for direct resale;
+41 (12) Procurement of travel and training;
+2
+1 (13) Procurement of goods and services from Idaho correctional indus-
+2 tries;
+3 (14) Procurement of repair for heavy equipment;
+4 (15) Procurement of software maintenance, support and licenses of an
+5 existing system or platform that was bid in compliance with state law;
+6 (16) Procurement of public utilities;
+7 (17) Procurement of food for use in jails or detention facilities; or
+8 (18) Procurement of used equipment at an auction if authorized by the
+9 governing board.
+10 SECTION 2. That Section 67-2805, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-2805. PROCUREMENT OF PUBLIC WORKS CONSTRUCTION. (1) When a po-
+13 litical subdivision contemplates an expenditure to procure public works
+14 construction valued at or in excess of fifty thousand dollars ($50,000) but
+15 not to exceed two hundred thousand dollars ($200,000) one hundred thousand
+16 dollars ($100,000) but not to exceed two hundred fifty thousand dollars
+17 ($250,000), the procurement procedures of this subsection shall apply:
+18 (a) The solicitation for bids for the public works construction to be
+19 performed shall be supplied to no fewer than three (3) owner-desig-
+20 nated licensed public works contractors by written means, either by
+21 electronic or physical delivery. The solicitation shall describe the
+22 construction work to be completed in sufficient detail to allow an expe-
+23 rienced public works contractor to understand the construction project
+24 the political subdivision seeks to build.
+25 (b) The solicitation for bids shall describe the electronic or physi-
+26 cal delivery method or methods authorized to submit a bid, the date and
+27 time by which a bid proposal must be received by the clerk, secretary or
+28 other authorized official of the political subdivision, and shall pro-
+29 vide a reasonable time to respond to the solicitation, provided that ex-
+30 cept in the event of an emergency, such time shall not be less than three
+31 (3) business days.
+32 (c) Written objections to specifications or bid procedures must be re-
+33 ceived by the clerk, secretary or other authorized official of the po-
+34 litical subdivision at least one (1) business day before the date and
+35 time upon which bids are scheduled to be received.
+36 (d) When written bids have been received, by either physical or elec-
+37 tronic delivery, they shall be submitted to the governing board or a de-
+38 signee of the governing board who shall present the lowest responsive
+39 bid to the governing board for approval or, if authorized, approve the
+40 bid. The governing board or the board's designee shall approve the re-
+41 sponsive bid proposing the lowest procurement price or reject all bids
+42 and publish notice for bids, as before.
+43 (e) If the political subdivision finds that it is impractical or impos-
+44 sible to obtain three (3) bids for the proposed public works procure-
+45 ment, the political subdivision may acquire the work in any manner the
+46 political subdivision deems best from a qualified public works contrac-
+47 tor quoting the lowest price. When fewer than three (3) bids are consid-
+48 ered, a description of the efforts undertaken to procure at least three
+49 (3) bids shall be documented by the political subdivision and such docu-
+3
+1 mentation shall be maintained for at least six (6) months after the pro-
+2 curement decision is made. If two (2) or more price quotations offered
+3 by different licensed public works contractors are the same and the low-
+4 est responsive bids, the governing board or governing-board authorized
+5 official may accept the one (1) it chooses.
+6 (2) When a political subdivision contemplates an expenditure to pur-
+7 chase public works construction valued in excess of two hundred thousand
+8 dollars ($200,000) two hundred fifty thousand dollars ($250,000), the
+9 procurement procedures of this subsection shall apply. The purchase of
+10 construction services shall be made pursuant to a competitive sealed bid
+11 process with the purchase to be made from the qualified public works contrac-
+12 tor submitting the lowest bid price complying with bidding procedures and
+13 meeting the prequalifications, if any are provided, established by the bid
+14 documents. Competitive bidding for public works may proceed through either
+15 of two (2) alternative procedures as set forth below:
+16 (a) Category A. Competitive bidding procedures shall be open to receipt
+17 of bids from any licensed public works contractor desiring to bid upon a
+18 public works project. For a category A bid, the political subdivision
+19 may only consider the amount bid, bidder compliance with administrative
+20 requirements of the bidding process, and whether the bidder holds the
+21 requisite license, and shall award the bid to the qualified bidder sub-
+22 mitting the lowest responsive bid.
+23 (i) The request for bids for a category A procurement shall set
+24 a date and place for the public opening of bids. Two (2) notices
+25 soliciting bids shall be published in the official newspaper of
+26 the political subdivision. The first notice shall be published
+27 at least two (2) weeks before the date for opening bids, with the
+28 second notice to be published in the succeeding week at least seven
+29 (7) days before the date that bids are scheduled to be opened. The
+30 notice shall succinctly describe the project to be constructed.
+31 Copies of specifications, bid forms, bidder's instructions, con-
+32 tract documents, and general and special instructions shall be
+33 made available upon request and payment of a reasonable plan copy
+34 fee by any interested bidder.
+35 (ii) Written objections to specifications or bidding procedures
+36 must be received by the clerk, secretary or other authorized of-
+37 ficial of the political subdivision at least three (3) business
+38 days before the date and time upon which bids are scheduled to
+39 be opened. The administrative officer or governing board super-
+40 vising the bidding process shall respond to any such objection
+41 in writing and communicate such response to the objector and all
+42 other plan holders, adjusting bidding timeframes if necessary.
+43 (iii) All bids shall be presented or otherwise delivered under
+44 sealed cover to the clerk of the political subdivision or other au-
+45 thorized agent of the political subdivision designated by the in-
+46 formation provided to bidders by the political subdivision with a
+47 concise statement marked on the outside generally identifying the
+48 project to which the bid pertains.
+49 (iv) If the political subdivision deems it is in the political
+50 subdivision's best interest, it may require the bidder to provide
+4
+1 bid security in an amount equal to at least five percent (5%) of the
+2 amount bid. If required, a bid shall not be considered unless one
+3 (1) of the forms of bidder's security is enclosed with it, and un-
+4 less the bid is submitted in a form which substantially complies
+5 with the form provided by the political subdivision. The politi-
+6 cal subdivision may require that the bid security be in one (1) of
+7 the following forms:
+8 (A) Cash;
+9 (B) A cashier's check made payable to the political subdivi-
+10 sion;
+11 (C) A certified check made payable to the political subdivi-
+12 sion; or
+13 (D) A bidder's bond executed by a qualified surety company,
+14 made payable to the political subdivision.
+15 (v) Any bid received by the political subdivision may not be
+16 withdrawn after the date and time set in the notice for opening of
+17 bids. When sealed bids have been received, they shall be opened in
+18 public at a designated place and time, thereafter to be compiled
+19 and submitted to the governing board for award or, if a designee is
+20 authorized, for approval of the award.
+21 (vi) If the successful bidder fails to execute the contract, the
+22 amount of his bidder's security may be forfeited to the political
+23 subdivision at the sole discretion of the political subdivision
+24 and the proceeds shall be deposited in a designated fund out of
+25 which the expenses of procuring substitute performance are paid.
+26 (vii) The political subdivision may, on the refusal or failure of
+27 the successful bidder to execute the contract, award the contract
+28 to the qualified bidder submitting the next lowest responsive bid.
+29 If the governing board awards the contract to the next lowest qual-
+30 ified bidder, the amount of the lowest qualified bidder's secu-
+31 rity may be applied by the political subdivision to the difference
+32 between the lowest responsive bid and the next lowest responsive
+33 bid, and the surplus, if any, shall be returned to the lowest bid-
+34 der if cash or check is used, or to the surety on the bidder's bond
+35 if a bond is used, less reasonable administrative costs not to ex-
+36 ceed twenty-five percent (25%) of the amount of the bidder's secu-
+37 rity to the owner.
+38 (viii) In its discretion, the governing board may reject all bids
+39 presented and re-bid, or the governing board may, after finding it
+40 to be a fact, pass a resolution declaring that the project sought
+41 to be accomplished by the expenditure can be performed more eco-
+42 nomically by purchasing goods and services on the open market. If
+43 identical bids are received, the governing board may choose the
+44 bidder it prefers. If no bids are received, the governing board
+45 may procure the goods or services without further competitive bid-
+46 ding procedures.
+47 (ix) If the governing board of any political subdivision chooses
+48 to award a competitively bid contract involving the procurement of
+49 public works construction to a bidder other than the apparent low
+50 bidder, the political subdivision shall declare its reason or rea-
+5
+1 sons on the record and shall communicate such reason or reasons in
+2 writing to all persons who have submitted a competing bid.
+3 (x) If any participating bidder objects to such award, such bid-
+4 der shall respond in writing to the notice from the political sub-
+5 division within seven (7) calendar days of the date of transmittal
+6 of the notice, setting forth in such response the express reason
+7 or reasons that the award decision of the governing board is in er-
+8 ror. Thereafter, staying performance of any procurement until af-
+9 ter addressing the contentions raised by the objecting bidder, the
+10 governing board shall review its decision and determine whether to
+11 affirm its prior award, modify the award, or choose to re-bid, set-
+12 ting forth its reason or reasons therefor. After completion of the
+13 review process, the political subdivision may proceed as it deems
+14 to be in the public interest.
+15 (b) Category B. Competitive bidding procedures shall be open to li-
+16 censed public works contractors only after meeting preliminary supple-
+17 mental qualifications established by the political subdivision. The
+18 solicitation for bids in a category B procurement shall consist of two
+19 (2) stages, an initial stage determining supplemental prequalifica-
+20 tions for licensed contractors, either prime or specialty contractors,
+21 followed by a stage during which bid prices will be accepted only from
+22 prequalified contractors.
+23 (i) Notice of the prequalification stage of the category B com-
+24 petitive bidding process shall be given in the same manner that
+25 notice of competitive bidding is provided for a category A com-
+26 petitive bid request, providing a specific date and time by which
+27 qualifications statements must be received. Political subdi-
+28 visions may establish prequalification standards premised upon
+29 demonstrated technical competence, experience constructing simi-
+30 lar facilities, prior experience with the political subdivision,
+31 available nonfinancial resources, equipment and personnel as
+32 they relate to the subject project, and overall performance his-
+33 tory based upon a contractor's entire body of work. Such request
+34 must include the standards for evaluating the qualifications of
+35 prospective bidders.
+36 (ii) During the initial stage of the category B bidding process,
+37 licensed contractors desiring to be prequalified to bid on a
+38 project must submit a written response to a political subdivi-
+39 sion's request for qualifications.
+40 (iii) Written objections to prequalification procedures must be
+41 received by the clerk, secretary or other authorized official of
+42 the political subdivision at least three (3) business days before
+43 the date and time upon which prequalification statements are due.
+44 The administrative officer or governing board supervising the
+45 bidding process shall respond to any such objection in writing
+46 and communicate such response to the objector and all other con-
+47 tractors seeking to prequalify, adjusting bidding timeframes if
+48 necessary. After a review of qualification submittals, the po-
+49 litical subdivision may select licensed contractors that meet the
+50 prequalification standards. If any licensed contractor submits
+6
+1 a statement of qualifications but is not selected as a qualified
+2 bidder, the political subdivision shall supply a written state-
+3 ment of the reason or reasons why the contractor failed to meet
+4 prequalification standards.
+5 (iv) Any licensed contractor that fails the prequalification
+6 stage can appeal any such determination to the governing board
+7 within seven (7) days after transmittal of the prequalification
+8 results to contest the determination. If the governing board
+9 sustains the decision that a contractor fails to meet prequali-
+10 fication standards, it shall state its reason or reasons for the
+11 record. A governing board decision concerning prequalification
+12 may be appealed to the public works contractors license board
+13 no more than fourteen (14) days following any decision on appeal
+14 made by the governing board. The public works contractors license
+15 board shall decide any such appeal within thirty-five (35) days
+16 of the filing of a timely appeal. The public works contractors
+17 license board shall allow participation, written or oral, by the
+18 appealing contractor and the political subdivision, either by
+19 employing a hearing officer or otherwise. The public works con-
+20 tractors license board shall not substitute its judgment for that
+21 of the political subdivision, limiting its review to determining
+22 whether the decision of the governing board is consistent with the
+23 announced prequalification standards, whether the prequalifi-
+24 cation standards comport with the law and whether the governing
+25 board's decision is supported by the entirety of the record. The
+26 decision of the public works contractors license board shall be
+27 written and shall state the reason or reasons for the decision.
+28 Category B prequalification procedures that are appealed shall be
+29 stayed during the pendency of the prequalification appeal until
+30 the public works contractors license board completes its review,
+31 but in no instance more than forty-nine (49) days after the appel-
+32 late decision of the governing board regarding prequalification.
+33 Any licensed public works contractor affected by a decision on
+34 appeal by the public works contractors license board may, within
+35 twenty-eight (28) days of the final decision, seek judicial review
+36 as provided by chapter 52, title 67, Idaho Code.
+37 (v) Following the conclusion of the prequalification adminis-
+38 trative procedures, the bidding stage shall proceed by the setting
+39 of a time, date and place for the public opening of bids. In cir-
+40 cumstances involving prequalified prime contractors, a notice
+41 soliciting bids shall be transmitted to prequalified bidders at
+42 least fourteen (14) days before the date of opening the bids. In
+43 circumstances involving prequalified specialty or subordinate
+44 contractors, the notice soliciting bids shall be published in the
+45 same manner applicable to category A bids. The notice shall suc-
+46 cinctly describe the project to be constructed. Copies of speci-
+47 fications, bid forms, bidder's instructions, contract documents,
+48 and general and special instructions shall be made available upon
+49 request and payment of a reasonable plan copy fee by any eligible
+50 bidder.
+7
+1 (vi) Written objections to specifications or bidding procedures
+2 must be received by the clerk, secretary or other authorized of-
+3 ficial of the political subdivision at least three (3) business
+4 days before the date and time upon which bids are scheduled to be
+5 opened.
+6 (vii) All category B bids shall be presented or otherwise deliv-
+7 ered under sealed cover to the clerk or other authorized agent
+8 of the political subdivision designated by the instructions to
+9 bidders with a concise statement marked on the outside generally
+10 identifying the project to which the bid pertains.
+11 (viii) If the political subdivision deems it is in the political
+12 subdivision's best interest, it may require the bidder to provide
+13 bid security in an amount equal to at least five percent (5%) of the
+14 amount bid. If required, a bid shall not be considered unless one
+15 (1) of the forms of bidder's security is enclosed with it, and un-
+16 less the bid is submitted in a form which substantially complies
+17 with the form provided by the political subdivision. The politi-
+18 cal subdivision may require that the bid security be in one (1) of
+19 the following forms:
+20 (A) Cash;
+21 (B) A cashier's check made payable to the political subdivi-
+22 sion;
+23 (C) A certified check made payable to the political subdivi-
+24 sion; or
+25 (D) A bidder's bond executed by a qualified surety company,
+26 made payable to the political subdivision.
+27 (ix) Any category B bid received by a political subdivision may
+28 not be withdrawn after the date and time set in the notice for open-
+29 ing of bids. When sealed bids have been received, they shall be
+30 opened in public by the governing board or the board's designee at
+31 a designated place and time. The governing board's designee shall
+32 thereafter compile and submit to the governing board for award or,
+33 if authorized, approve the award. If identical bids are received,
+34 the governing board may choose the bidder it prefers. If the suc-
+35 cessful bidder fails to execute the contract, the amount of his
+36 bidder's security may be forfeited to the political subdivision,
+37 in the sole discretion of the political subdivision, and the pro-
+38 ceeds shall be deposited in a designated fund out of which the ex-
+39 penses for procuring substitute performance are paid.
+40 (x) The political subdivision may, on the refusal or failure of
+41 the successful bidder to execute the contract, award the contract
+42 to the qualified bidder submitting the next lowest responsive bid.
+43 If the governing board awards the contract to the next lowest qual-
+44 ified bidder, the amount of the lowest qualified bidder's secu-
+45 rity, if forfeited, shall be applied by the political subdivision
+46 to the difference between the lowest responsive bid and the next
+47 lowest responsive bid, and the surplus, if any, shall be returned
+48 to the lowest bidder if cash or check is used, or to the surety on
+49 the bidder's bond if a bond is used, less reasonable administra-
+8
+1 tive costs not to exceed twenty-five percent (25%) of the amount of
+2 the bidder's security.
+3 (xi) In its discretion, the governing board may reject all bids
+4 presented and re-bid, or the governing board may, after finding it
+5 to be a fact, pass a resolution declaring that the project sought
+6 to be accomplished by the expenditure can be performed more eco-
+7 nomically by purchasing goods and services on the open market. If
+8 no bids are received, the governing board may make the expenditure
+9 without further competitive bidding procedures.
+10 (xii) If the governing board of any political subdivision chooses
+11 to award a competitively bid contract involving the procurement of
+12 public works construction to a bidder other than the apparent low
+13 bidder, the political subdivision shall declare its reason or rea-
+14 sons on the record and shall communicate such reason or reasons in
+15 writing to all persons who have submitted a competing bid.
+16 (xiii) If any participating bidder objects to such award, such
+17 bidder shall respond in writing to the notice from the political
+18 subdivision within seven (7) calendar days of the date of trans-
+19 mittal of the notice, setting forth in such response the express
+20 reason or reasons that the award decision of the governing board
+21 is in error. Thereafter, staying performance of any procurement
+22 until after addressing the contentions raised by the objecting
+23 bidder, the governing board shall review its decision and deter-
+24 mine whether to affirm its prior award, modify the award, or choose
+25 to re-bid, setting forth its reason or reasons therefor. After
+26 completion of the review process, the political subdivision may
+27 proceed as it deems to be in the public interest.
+28 SECTION 3. That Section 67-2806, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 67-2806. PROCURING SERVICES OR PERSONAL PROPERTY. (1) When a polit-
+31 ical subdivision contemplates an expenditure to purchase or lease personal
+32 property or to procure services, other than personal property or services
+33 excluded pursuant to section 67-2803, Idaho Code, valued at or in excess of
+34 seventy-five thousand dollars ($75,000) but not to exceed one hundred fifty
+35 thousand dollars ($150,000) one hundred thousand dollars ($100,000) but not
+36 to exceed two hundred fifty thousand dollars ($250,000), the procurement
+37 procedures of this subsection shall apply.
+38 (a) The solicitation for bids shall be supplied to no fewer than three
+39 (3) vendors by written means, either by electronic or physical deliv-
+40 ery. The solicitation shall describe the personal property or services
+41 to be purchased or leased in sufficient detail to allow a vendor dealing
+42 in such goods or services to understand what the political subdivision
+43 seeks to procure.
+44 (b) The solicitation for bids shall describe the electronic or physi-
+45 cal delivery method or methods authorized to submit a bid, the date and
+46 time by which a bid proposal must be received by the clerk, secretary or
+47 other authorized official of the political subdivision, and shall pro-
+48 vide a reasonable time to respond to the solicitation, provided that ex-
+9
+1 cept in the event of an emergency, such time shall not be less than three
+2 (3) business days.
+3 (c) Written objections to specifications or bid procedures must be re-
+4 ceived by the clerk, secretary or other authorized official of the po-
+5 litical subdivision at least one (1) business day before the date and
+6 time upon which bids are scheduled to be received.
+7 (d) When written bids have been received, by either physical or elec-
+8 tronic delivery, they shall be compiled and submitted to the governing
+9 board or governing board-authorized official which shall approve the
+10 responsive bid proposing the lowest procurement price or reject all
+11 bids and publish notice for bids, as before.
+12 (e) If the political subdivision finds that it is impractical or im-
+13 possible to obtain three (3) bids for the proposed procurement, the
+14 political subdivision may acquire the property in any manner the polit-
+15 ical subdivision deems best from a qualified vendor quoting the lowest
+16 price. When fewer than three (3) bids are considered, a description
+17 of the efforts undertaken to procure at least three (3) bids shall be
+18 documented by the political subdivision and such documentation shall
+19 be maintained for at least six (6) months after any such procurement is
+20 made. If two (2) or more bids are the same and the lowest responsive
+21 bids, the authorized decision maker may accept the one (1) it chooses.
+22 (2) When a political subdivision contemplates an expenditure to pur-
+23 chase or lease personal property or to procure services, other than personal
+24 property or services excluded pursuant to section 67-2803, Idaho Code, val-
+25 ued in excess of one hundred fifty thousand dollars ($150,000) two hundred
+26 fifty thousand dollars ($250,000), the procurement procedures of this sub-
+27 section shall apply.
+28 (a) The purchase or lease shall be made pursuant to an open competitive
+29 sealed bid process with the procurement to be made from the qualified
+30 bidder submitting the lowest bid price complying with bidding pro-
+31 cedures and meeting the specifications for the goods and/or services
+32 sought to be procured.
+33 (b) The request for bids shall set a date, time and place for the opening
+34 of bids. Two (2) notices soliciting bids shall be published in the of-
+35 ficial newspaper of the political subdivision. The first notice shall
+36 be published at least two (2) weeks before the date for opening bids,
+37 with the second notice to be published in the succeeding week at least
+38 seven (7) days before the date that bids are scheduled to be opened. The
+39 notice shall succinctly describe the personal property and/or service
+40 to be procured. Copies of specifications, bid forms, bidder's instruc-
+41 tions, contract documents, and general and special instructions shall
+42 be made available upon request by any interested bidder.
+43 (c) Written objections to specifications or bidding procedures must be
+44 received by the clerk, secretary or other authorized official of the po-
+45 litical subdivision at least three (3) business days before the date and
+46 time upon which bids are scheduled to be opened.
+47 (d) If the political subdivision deems it is in the political subdi-
+48 vision's best interest, it may require the bidder to provide bid secu-
+49 rity in an amount equal to at least five percent (5%) of the amount bid.
+50 If required, a bid shall not be considered unless one (1) of the forms
+10
+1 of bidder's security is enclosed with it, and unless the bid is submit-
+2 ted in a form which substantially complies with the form provided by the
+3 political subdivision. The political subdivision may require that the
+4 bid security be in one (1) of the following forms:
+5 (i) Cash;
+6 (ii) A cashier's check made payable to the political subdivision;
+7 (iii) A certified check made payable to the political subdivision;
+8 or
+9 (iv) A bidder's bond executed by a qualified surety company, made
+10 payable to the political subdivision.
+11 (e) Any bid received by the political subdivision may not be withdrawn
+12 after the time set in the notice for opening of bids. When sealed bids
+13 have been received, they shall be opened in public at a designated place
+14 and time, thereafter to be compiled and submitted to the governing board
+15 for award or, if a designee is authorized, for approval of the award.
+16 (f) If the successful bidder fails to execute the contract, the amount
+17 of his bidder's security may be forfeited to the political subdivision
+18 at the sole discretion of the governing board and thereafter the pro-
+19 ceeds may be deposited in a designated fund out of which the reasonable
+20 expenses for procuring substitute performance are paid.
+21 (g) The political subdivision may, on the refusal or failure of the suc-
+22 cessful bidder to execute the contract, award the contract to the next
+23 lowest qualified bidder. If the governing board awards the contract to
+24 the next lowest qualified bidder, the amount of the lowest qualified
+25 bidder's security may be applied by the political subdivision to the
+26 difference between the lowest responsive bid and the next lowest re-
+27 sponsive bid, and the surplus, if any, shall be returned to the lowest
+28 bidder if cash or check is used, or to the surety on the bidder's bond
+29 if a bond is used, less reasonable administrative costs not to exceed
+30 twenty-five percent (25%) of the amount of the bidder's security.
+31 (h) In its discretion, the governing board or its designee may reject
+32 all bids presented and re-bid or, after finding it to be a fact, the gov-
+33 erning board may pass a resolution declaring that the subject goods or
+34 services can be procured more economically on the open market. If two
+35 (2) or more bids are the same and the lowest responsive bids, the gov-
+36 erning board or its designee may accept the one (1) it chooses. In its
+37 discretion, the governing board of a political subdivision may preau-
+38 thorize the purchase of equipment at a public auction.
+39 (i) If the governing board of any political subdivision chooses to
+40 award a competitively bid contract involving the procurement of per-
+41 sonal property or services to a bidder other than the apparent low
+42 bidder, the political subdivision shall declare its reason or reasons
+43 on the record and shall communicate such reason or reasons in writing to
+44 all who have submitted a competing bid.
+45 (j) If any participating bidder objects to such award, such bidder
+46 shall respond in writing to the notice from the political subdivision
+47 within seven (7) calendar days of the date of transmittal of the notice,
+48 setting forth in such response the express reason or reasons that the
+49 award decision of the governing board is in error. Thereafter, staying
+50 performance of any procurement until after addressing the contentions
+11
+1 raised by the objecting bidder, the governing board shall review its
+2 decision and determine whether to affirm its prior award, modify the
+3 award, or choose to re-bid, setting forth its reason or reasons there-
+4 for. After completion of the review process, the political subdivision
+5 may proceed as it deems to be in the public interest.
+6 SECTION 4. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOPTBYPLS;AGS,IOC,TOREAPNRGCNEMCNPTR;AGSN6,I,TOREPSRGPTOFPCWSC;AGSN6,IOC,TOREPGPGSSORPLP;ADDGAYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.E.Teptrsediscrslntbeaet)TeanofplpywnteptdstepeadseofactfrlegsorsstsbncybdbyteseofI,oe()ofisp,oranayofteflg)Csorpsweestopepcwnaelstnfytdds()oehdds()orweestopessolpyaelstnsetdds()odtdds(,pdshcsorplbegdbytebtisofteplsnpegsadssasddbyteggb)Dtofwsorcntoaye,olotofaplsnfrtepeofplsrtepls)Ptofplorplsstobepdbnitcrfrtepls)Ptofanitinrlp)Ptofi)Csofpninajtpsatwhorufg)Ptofudplp)Ptfmflgtglssan()ssorflmeadss()PtofplpyorssthcsediobytednofpgoftedtofafteseofI)Ptofgsfrdtr)Ptoftladt]
+[DELETED: )PtofgsadssfmIocli)Ptofrrfrhye)Ptofsem,stadlsofagsmorpmttwsbdincewhsel)Ptofpcu)Ptoffdfrueinjsordnf;o)PtofudetatananifadbytgbN2.TtSn6,IoC,b,adteseishdtordasf.PTOFPCWSC.()Wnaplsncsaneetopepcwnvdatorinesoffytdds()bttoedtohdtdds()oehdts()btnttoedtohdfytdd,teptpsoftssnsla)Tesnfrbsfrtepcwscntobdslbesdtonofrtnte()odldpcwscsbywnm,erbcorpld.Tesnsldetnwktobecdinstdltoawanedpcwscrtoudtecnpeplsnsstob)Tesnfrbssldeteecorpldymdormsadtostab,tedeaebywhabdplmtberdbytec,syoradoloftepls,adslpearetetordtotes,pdttetinteetofane,shteslntbelstnt)bsd)Wnostossorbdpsmtberdbytec,syororadolofteplsnatltoe()bsdybetedeaeunwhbsaesdtober)Wnwnbshebnr,byerplorecd,tyslbesdtoteggbdoradeofteggbdwoslptteltrdtoteggbdfralo,ifa,aet.Teggbdortebsdeslaeterebdpgteltptpeorrtalbdphnefrb,asb)Ifteplsnfsttitisilorietoonte()bsfrtepdpcwsp,teplsnmyaetewkinaymrtlsndsbtfmaqdpcwscrqgteltp.Wnfrtnte()bsaec,adnofteesuntopeatltt)bsslbeddbyteplsnadshd]
+[DELETED: nslbemdfratltsx()msarteptdnism.Ifto()ormepeqsoydtldpcwscsaeteseadteltreb,teggbdorgdalmyatteoe()itc)Wnaplsncsaneetopepcwscnvdinesoftohdts()tohdfytdds(,ttpsoftssnsla.Tepeonssslbemepttoacesdbswhtepetobemefmteqdpcwscrsgteltbdpecgwhbgpsagtep,ifayaep,edbyteb.Cebgfrpcwsmypdthefto()aepsasstfhb)CyA.Cebgpsslbeontorfbsfmayldpcwscrdgtobduncwsp.FracyAb,teplsyoycrteatb,brcewhasoftebgp,adwrtebrhstel,adsladtebdtoteqdbrsgteltreb)TertfrbsfracyAptslsdeadpefrtepcogofb.To()ngbsslbepdinteolnroepls.Teftneslbeptltto()wsbetedefrogb,whtdnetobepdintesgwkatlts)dsbetedettbsaesdtobeo.Teslsydetepttobecsofs,bdf,bsi,ctd,adgladslisslbeaeunrtadptofarepncebyayidb)Wnostossorbgptberdbytec,syororadolofteplsnatltte()bsbetedeadteunwhbsaesdteo.Teaeororggbdsgtebgpsslrdtoayshonwgadceshretoteoradarpnh,agbgtsifn)Albsslbepdoroeddudcrtoteckofteplsnororadatofteplsnddbyteinpdtobsbyteplsnwhestmdonteoegyigtttowhtebdp)Ifteplsndsitisintepsbti,itmyretebrtop]
+[DELETED: dsyinanateltoatltfept()ofttb.Ifr,abdslntbecduso)oftefsofbssyisedwhi,adustebdissdinafmwhsychtefmpdbytepls.Teplsnmyretttebdsybeinoe()oefgf)C)Acsckmepetotepls)Acdckmepetotepls;o)Absbdedbyaqdsycepetotepls)Aybdrdbyteplsnmyntbnartedeadtestintenefrogo.Wnsdbshebnr,tyslbeodicataddpeadt,trtobecdsdtoteggbdfrado,ifadei,fraloftea)Ifteslbrfstoeetec,ttofhsbssymybefdtotepnattesednofteplsdtepsslbeddinaddfdotohteesofpgsepeaep)Teplsnm,onterlorfeoeslbrtoeetec,adtecoteqdbrsgtentltrebfteggbdastecttotentltqdb,teatofteltqdbssymybeadbyteplsntotednteltrebdadtentltr,adtes,ifa,slberdtoteltbrifchorckisu,ortotesyontebsbfabdisu,lsreaecsnttoedtept()ofteatoftebssytoteo)Inisd,teggbdmyrtalbdadr,orteggbdm,arfgiobeaf,psarndgttteptsobeadbyteeecnbepdmeeybypggsadssonteonm.Ilbsaer,teggbdmycetritp.Ifnobsaer,teggbypetegsorsswtfrcebgp)Ifteggbdofayplsncoadacybdctigteptocwscntoabrortnteatl,teplsnsldeisrnorr]
+[DELETED: sonterdadslceshrnorrsigtoalpswohesdacgb)Ifaypgbrostosha,shbrslrdinwgtotenefmteplsnwnsn()crdsoftedeoftften,sgfhinshreteesrrrsttteaddnofteggbdisine.T,sgpeofayptularagtecsrdbyteogb,tgbdslrwisdnaddewrtmispra,mytea,orcetor,sgfhisrnorrst.Arcnoftwp,teplsnmypdasitdobeintepci)CyB.Cebgpsslbeontoldpcwscsoyarmgpyslqsedbytepls.TnfrbsinacyBptslctoft)s,anilsedgslpsfrldc,erpeorsycdbyasedgwhbdpswlbeadoyfdc)NeoftepnseoftecyBcebgpsslbegnintesemrteofcebgispdfracyAcebdr,pgascdeadtebywsssmtber.Plssmyehpnsspdudtlc,eecgsrf,preewhteplsenlr,etadplayretotestp,adolpehybdunacseebyofw.Shrtietessfregteqsoeb)DgteilseoftecyBbgpdcsdgtobepdtobdontmtstawnretoaplssrtfrq)Wnostopnpsmtbdbytec,syororadoloeplsnatltte()bsdsbedeadteunwhpnssaedeaeororggbdsgtgpsslrdtoayshoninwdceshretoteoradalorcssgtop,agbgtsi.Ararwofqns,teplsnmystldcsttmttns.Ifayldcrs]
+[DELETED: stofqsbtisntsdasaq,teplsnslsyawnstofternorrswytecrfdtomns)Ayldcrttfstepecnalayshdntoteggbnsn()dsartloftepstoctted.Ifteggbstednttacrfstomtpns,itslseisrnorrsfrt.Aggbddncgpybeadtotepcwscslebometnfn()dsfgaydnonaebyteggb.Tepcwscsldsldeayshalwnte()dftefgofatya.Tepcwscebdslawp,wnoro,bytgcradtepls,erbgahgororo.Tepcwscslebdslntseisjtfrtftepls,lgisrwtodrtednofteggbdisctwhtdpns,wrtepnssctwhtelwadwrtegsdnissdbyteeyofter.TnoftepcwscslebdslbnadslseternorrsfrtedyBpnpsttaeadslbddgtepyoftepnaluepcwscslebdcsisrtinnoiemetnfe()dsarteaednofteggbdrgpyldpcwscradbyadnolbytepcwscslebdm,wt()dsoftefld,skjlrspdbycr5,te6,IoC)Fgtecnoftepnaep,tebgseslpdbytesfat,deadpefrtepcogofb.Incsigpdpec,angbsslbetdtopdbsatfn()dsbetedeofogteb.Isigpdsyors,tenesgbsslbepdintemraetocyAb.Teneslsydetepttobec.Csofs,bdf,bsi,ctddgladslisslbemeaeutadptofarepncyfebyaye]
+[DELETED: )Wnostossorbgptberdbytec,syororadolofteplsnatltte()bsbetedeadteunwhbsaesdtob)AlcyBbsslbepdoroeddursdcrtoteckororadafteplsnddbyteistswhacestmdonteoeggtepttowhtebdp)Ifteplsndsitisintepsbti,itmyretebrtopdsyinanateltoatltfept()ofttb.Ifr,abdslntbecduso)oftefsofbssyisedwhi,adustebdissdinafmwhsychtefmpdbytepls.Teplsnmyretttebdsybeinoe()oefgf)C)Acsckmepetotepls)Acdckmepetotepls;o)Absbdedbyaqdsycepetotepls)AycyBbdrdbyaplsnmtbewnartedeadtestintenefrogofb.Wnsdbshebnr,tyslbdinpcbyteggbdortebsdeaddpeadt.Teggbsdesrceadsttoteggbdfradofa,aetea.Ifilbsaereggbdmycetebritp.Ifteslbrfstoeetec,teatofhssymybefdtoteplsntesednoftepls,adtepsslbeddinaddfdotofwhteesfrpgsepeaep)Teplsnm,onterlorfeoeslbrtoeetec,adtecoteqdbrsgtentltrebfteggbdastecttotentltqdb,teatofteltqdbss,iff,slbeadbyteplsotedebnteltrebdadtentreb,adtes,ifa,slberoteltbrifchorckisu,ortotesyoebsbdifabdisu,lsrea]
+[DELETED: ecsnttoedtept()ofteatoebss)Inisd,teggbdmyrtalbdadr,orteggbdm,arfgiobeaf,psarndgttteptsobeadbyteeecnbepdmeeybypggsadssonteonm.Iobsaer,teggbdmymeteetfrcebgp)Ifteggbdofayplsncoadacybdctigteptocwscntoabrortnteatl,teplsnsldeisrnorrsonterdadslceshrnorrsigtoalpswohesdacgb)Ifaypgbrostosha,srslrdinwgtotenefmtepnwnsn()crdsoftedeoftloften,sgfhinshreteenorrsttteaddnofteggbsine.T,sgpeofayplaragtecsrdbyteo,teggbdslrwisdnaddewrtoamispra,mytea,orcor,sgfhisrnorrst.Anofterwp,teplsnmdasitdstobeintepciN3.TtSn6,IoC,b,adteseishdtordasf.PGSSORPLP.()Wnaplsncsaneetopeorlepyortopes,ortnplpyorsdpttosn6,IoC,vdatorinesoetdds()btnttoedoehdfdds()oehdtdds()btnoedtohdfytdds(tepsoftssnsla)Tesnfrbsslbesdtonofrtnt)vsbywnm,erbyecorpld.Tesnsldeteplpyorsobepdorldinstdltoawavrdnshgsorsstoudwtteplsstop)Tesnfrbssldeteecorpldymdormsadtostab,tedeaebywhabdplmtberdbytec,syoradoloftepls,adslpearetetordtotes,pdtte]
+[DELETED: tinteetofane,shteslntbelstnt)bsd)Wnostossorbdpsmtberdbytec,syororadolofteplsnatltoe()bsdybetedeaeunwhbsaesdtober)Wnwnbshebnr,byerplorecd,tyslbecdadsdtotegdorggbdolwhslaetebdpgteltptpeorrtasadphnefrb,asb)Ifteplsnfsttitisilorietoonte()bsfrtepdp,tlsnmyaetepyinaymrteplsndsbtfmaqdvrqgtel.Wnfrtnte()bsaec,adfteesuntopeatltte()bsslbdbyteplsnadshdnsemdfratltsx()msarayshpti.Ifto()ormebsaeteseadteltr,teaddnmrmyatteoe()itc)Wnaplsncsaneetopeorleplpyortopes,ortnpyorssedpttosn6,IoC,vdinesofoehdfytdds()tohytdds(,teptpsoftssnsla)Tepeorleslbemepttoanoncdbdpswhtepttobemefmteqrsgteltbdpecgwhbgpsadmgtessfrtegsarsttobep)Tertfrbsslstad,teadpefrteofb.To()nssgbsslbepdinteolnroftepls.Teftnesepdatltto()wsbetedefrogbhtesdnetobepdintesgwkatln()dsbetedettbsaesdtobeo.Teslsydeteplpyarsobep.Csofs,bdf,bsi,ctd,adgladslissemeaeunrtbyayidb)Wnostossorbgpsmtbdbytec,syororadolofteplsnatltte()bsdsbetedeaeunwhbsaesdtobeo)Ifteplsndsitisinteplssbti,itmyretebrtopebdsyinanateltoatltfept()ofteatbfr,abdslntbecdusoe()oftef]
+[DELETED: fbssyisedwhi,adustebdissdinafmwhsycswhtefmpdbytls.Teplsnmyretttdsybeinoe()oftefgf)C)Acsckmepetotepls)Acdckmepetotepls)Absbdedbyaqdsyc,metotepls)Aybdrdbyteplsnmyntbewrtetestintenefrogofb.Wnsdbebnr,tyslbeodinpcataddpdt,trtobecdadsdtoteggbrado,ifadeisa,fraloftea)Ifteslbrfstoeetec,teafhsbssymybefdtoteplsttesednofteggbdadtrtepsmybeddinaddfdotofwhtersfrpgsepeaep)Teplsnm,onterlorfeofteslbrtoeetec,adtecttotentqdb.Ifteggbdastecttentltqdb,teatofteltqssymybeadbyteplsntotebnteltrebdadtentltreb,adtes,ifa,slberdtotelrifchorckisu,ortotesyontebsbfabdisu,lsreaecsnttoeept()ofteatoftebss)Inisd,teggbdorisdemyrlbspdadrdo,arfgittobeaf,teggbdmypsarndgtttestgsoscnbepdmeeyonteonm.Ift)ormebsaeteseadteltreb,teggbdorisdemyatteoe()itc.Ini,teggbdofaplsnmypetepeofetatapca)Ifteggbdofayplsncstdacybdctigteptofplpyorsstoabrortnteatl,teplsnsldeisrnorrnterdadslceshrnorrsinwgtlwohesdacgb)Ifaypgbrostosha,shblrdinwgtotenefmteplsnsn()crdsoftedeoftloftengfhinshreteesrnorrstttddnofteggbdisine.T,seofayptularagtec]
+[DELETED: dbyteogb,teggbdslrwinaddewrtoamispra,myt,orcetor,sgfhisrnorrst.Arcnofterwp,teplsypdasitdstobeintepciN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1118
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PROCUREMENT BY POLITICAL SUBDIVISIONS; AMENDING SECTION
+3 67-2803, IDAHO CODE, TO REVISE A PROVISION REGARDING CERTAIN EXCLUSIONS
+4 FROM CERTAIN PROCUREMENT REQUIREMENTS; AMENDING SECTION 67-2805, IDAHO
+5 CODE, TO REVISE PROVISIONS REGARDING PROCUREMENT OF PUBLIC WORKS CON-
+6 STRUCTION; AMENDING SECTION 67-2806, IDAHO CODE, TO REVISE PROVISIONS
+7 REGARDING PROCURING SERVICES OR PERSONAL PROPERTY; AND DECLARING AN
+8 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 67-2803, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-2803. EXCLUSIONS. The procurement requirements established in
+13 this chapter shall not be applicable to:
+14 (1) The acquisition of personal property when the procurement dupli-
+15 cates the price and substance of a contract for like goods or services that
+16 has been competitively bid by the state of Idaho, one (1) of its political
+17 subdivisions, or an agency of the federal government;
+18 (2) Contracts or purchases where expenditures to procure public works
+19 construction are less than fifty thousand dollars ($50,000) one hundred
+20 thousand dollars ($100,000) or where expenditures to procure services or
+21 personal property are less than seventy-five thousand dollars ($75,000) one
+22 hundred thousand dollars ($100,000), provided such contracts or purchases
+23 shall be guided by the best interests of the political subdivision procuring
+24 the goods and services as determined by the governing board;
+25 (3) Disbursement of wages or compensation to any employee, official or
+26 agent of a political subdivision for the performance of personal services
+27 for the political subdivision;
+28 (4) Procurement of personal or professional services to be performed by
+29 an independent contractor for the political subdivision;
+30 (5) Procurement of an interest in real property;
+31 (6) Procurement of insurance;
+32 (7) Costs of participation in a joint powers agreement with other units
+33 of government;
+34 (8) Procurement of used personal property;
+35 (9) Procurement from federal government general services administra-
+36 tion (GSA) schedules or federal multiple award schedules (MAS);
+37 (10) Procurement of personal property or services through contracts en-
+38 tered into by the division of purchasing of the department of administration
+39 of the state of Idaho;
+40 (11) Procurement of goods for direct resale;
+41 (12) Procurement of travel and training;
+
+2
+1 (13) Procurement of goods and services from Idaho correctional indus-
+2 tries;
+3 (14) Procurement of repair for heavy equipment;
+4 (15) Procurement of software maintenance, support and licenses of an
+5 existing system or platform that was bid in compliance with state law;
+6 (16) Procurement of public utilities;
+7 (17) Procurement of food for use in jails or detention facilities; or
+8 (18) Procurement of used equipment at an auction if authorized by the
+9 governing board.
+10 SECTION 2. That Section 67-2805, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-2805. PROCUREMENT OF PUBLIC WORKS CONSTRUCTION. (1) When a po-
+13 litical subdivision contemplates an expenditure to procure public works
+14 construction valued at or in excess of fifty thousand dollars ($50,000) but
+15 not to exceed two hundred thousand dollars ($200,000) one hundred thousand
+16 dollars ($100,000) but not to exceed two hundred fifty thousand dollars
+17 ($250,000), the procurement procedures of this subsection shall apply:
+18 (a) The solicitation for bids for the public works construction to be
+19 performed shall be supplied to no fewer than three (3) owner-desig-
+20 nated licensed public works contractors by written means, either by
+21 electronic or physical delivery. The solicitation shall describe the
+22 construction work to be completed in sufficient detail to allow an expe-
+23 rienced public works contractor to understand the construction project
+24 the political subdivision seeks to build.
+25 (b) The solicitation for bids shall describe the electronic or physi-
+26 cal delivery method or methods authorized to submit a bid, the date and
+27 time by which a bid proposal must be received by the clerk, secretary or
+28 other authorized official of the political subdivision, and shall pro-
+29 vide a reasonable time to respond to the solicitation, provided that ex-
+30 cept in the event of an emergency, such time shall not be less than three
+31 (3) business days.
+32 (c) Written objections to specifications or bid procedures must be re-
+33 ceived by the clerk, secretary or other authorized official of the po-
+34 litical subdivision at least one (1) business day before the date and
+35 time upon which bids are scheduled to be received.
+36 (d) When written bids have been received, by either physical or elec-
+37 tronic delivery, they shall be submitted to the governing board or a de-
+38 signee of the governing board who shall present the lowest responsive
+39 bid to the governing board for approval or, if authorized, approve the
+40 bid. The governing board or the board's designee shall approve the re-
+41 sponsive bid proposing the lowest procurement price or reject all bids
+42 and publish notice for bids, as before.
+43 (e) If the political subdivision finds that it is impractical or impos-
+44 sible to obtain three (3) bids for the proposed public works procure-
+45 ment, the political subdivision may acquire the work in any manner the
+46 political subdivision deems best from a qualified public works contrac-
+47 tor quoting the lowest price. When fewer than three (3) bids are consid-
+48 ered, a description of the efforts undertaken to procure at least three
+49 (3) bids shall be documented by the political subdivision and such docu-
+
+3
+1 mentation shall be maintained for at least six (6) months after the pro-
+2 curement decision is made. If two (2) or more price quotations offered
+3 by different licensed public works contractors are the same and the low-
+4 est responsive bids, the governing board or governing-board authorized
+5 official may accept the one (1) it chooses.
+6 (2) When a political subdivision contemplates an expenditure to pur-
+7 chase public works construction valued in excess of two hundred thousand
+8 dollars ($200,000) two hundred fifty thousand dollars ($250,000), the
+9 procurement procedures of this subsection shall apply. The purchase of
+10 construction services shall be made pursuant to a competitive sealed bid
+11 process with the purchase to be made from the qualified public works contrac-
+12 tor submitting the lowest bid price complying with bidding procedures and
+13 meeting the prequalifications, if any are provided, established by the bid
+14 documents. Competitive bidding for public works may proceed through either
+15 of two (2) alternative procedures as set forth below:
+16 (a) Category A. Competitive bidding procedures shall be open to receipt
+17 of bids from any licensed public works contractor desiring to bid upon a
+18 public works project. For a category A bid, the political subdivision
+19 may only consider the amount bid, bidder compliance with administrative
+20 requirements of the bidding process, and whether the bidder holds the
+21 requisite license, and shall award the bid to the qualified bidder sub-
+22 mitting the lowest responsive bid.
+23 (i) The request for bids for a category A procurement shall set
+24 a date and place for the public opening of bids. Two (2) notices
+25 soliciting bids shall be published in the official newspaper of
+26 the political subdivision. The first notice shall be published
+27 at least two (2) weeks before the date for opening bids, with the
+28 second notice to be published in the succeeding week at least seven
+29 (7) days before the date that bids are scheduled to be opened. The
+30 notice shall succinctly describe the project to be constructed.
+31 Copies of specifications, bid forms, bidder's instructions, con-
+32 tract documents, and general and special instructions shall be
+33 made available upon request and payment of a reasonable plan copy
+34 fee by any interested bidder.
+35 (ii) Written objections to specifications or bidding procedures
+36 must be received by the clerk, secretary or other authorized of-
+37 ficial of the political subdivision at least three (3) business
+38 days before the date and time upon which bids are scheduled to
+39 be opened. The administrative officer or governing board super-
+40 vising the bidding process shall respond to any such objection
+41 in writing and communicate such response to the objector and all
+42 other plan holders, adjusting bidding timeframes if necessary.
+43 (iii) All bids shall be presented or otherwise delivered under
+44 sealed cover to the clerk of the political subdivision or other au-
+45 thorized agent of the political subdivision designated by the in-
+46 formation provided to bidders by the political subdivision with a
+47 concise statement marked on the outside generally identifying the
+48 project to which the bid pertains.
+49 (iv) If the political subdivision deems it is in the political
+50 subdivision's best interest, it may require the bidder to provide
+
+4
+1 bid security in an amount equal to at least five percent (5%) of the
+2 amount bid. If required, a bid shall not be considered unless one
+3 (1) of the forms of bidder's security is enclosed with it, and un-
+4 less the bid is submitted in a form which substantially complies
+5 with the form provided by the political subdivision. The politi-
+6 cal subdivision may require that the bid security be in one (1) of
+7 the following forms:
+8 (A) Cash;
+9 (B) A cashier's check made payable to the political subdivi-
+10 sion;
+11 (C) A certified check made payable to the political subdivi-
+12 sion; or
+13 (D) A bidder's bond executed by a qualified surety company,
+14 made payable to the political subdivision.
+15 (v) Any bid received by the political subdivision may not be
+16 withdrawn after the date and time set in the notice for opening of
+17 bids. When sealed bids have been received, they shall be opened in
+18 public at a designated place and time, thereafter to be compiled
+19 and submitted to the governing board for award or, if a designee is
+20 authorized, for approval of the award.
+21 (vi) If the successful bidder fails to execute the contract, the
+22 amount of his bidder's security may be forfeited to the political
+23 subdivision at the sole discretion of the political subdivision
+24 and the proceeds shall be deposited in a designated fund out of
+25 which the expenses of procuring substitute performance are paid.
+26 (vii) The political subdivision may, on the refusal or failure of
+27 the successful bidder to execute the contract, award the contract
+28 to the qualified bidder submitting the next lowest responsive bid.
+29 If the governing board awards the contract to the next lowest qual-
+30 ified bidder, the amount of the lowest qualified bidder's secu-
+31 rity may be applied by the political subdivision to the difference
+32 between the lowest responsive bid and the next lowest responsive
+33 bid, and the surplus, if any, shall be returned to the lowest bid-
+34 der if cash or check is used, or to the surety on the bidder's bond
+35 if a bond is used, less reasonable administrative costs not to ex-
+36 ceed twenty-five percent (25%) of the amount of the bidder's secu-
+37 rity to the owner.
+38 (viii) In its discretion, the governing board may reject all bids
+39 presented and re-bid, or the governing board may, after finding it
+40 to be a fact, pass a resolution declaring that the project sought
+41 to be accomplished by the expenditure can be performed more eco-
+42 nomically by purchasing goods and services on the open market. If
+43 identical bids are received, the governing board may choose the
+44 bidder it prefers. If no bids are received, the governing board
+45 may procure the goods or services without further competitive bid-
+46 ding procedures.
+47 (ix) If the governing board of any political subdivision chooses
+48 to award a competitively bid contract involving the procurement of
+49 public works construction to a bidder other than the apparent low
+50 bidder, the political subdivision shall declare its reason or rea-
+
+5
+1 sons on the record and shall communicate such reason or reasons in
+2 writing to all persons who have submitted a competing bid.
+3 (x) If any participating bidder objects to such award, such bid-
+4 der shall respond in writing to the notice from the political sub-
+5 division within seven (7) calendar days of the date of transmittal
+6 of the notice, setting forth in such response the express reason
+7 or reasons that the award decision of the governing board is in er-
+8 ror. Thereafter, staying performance of any procurement until af-
+9 ter addressing the contentions raised by the objecting bidder, the
+10 governing board shall review its decision and determine whether to
+11 affirm its prior award, modify the award, or choose to re-bid, set-
+12 ting forth its reason or reasons therefor. After completion of the
+13 review process, the political subdivision may proceed as it deems
+14 to be in the public interest.
+15 (b) Category B. Competitive bidding procedures shall be open to li-
+16 censed public works contractors only after meeting preliminary supple-
+17 mental qualifications established by the political subdivision. The
+18 solicitation for bids in a category B procurement shall consist of two
+19 (2) stages, an initial stage determining supplemental prequalifica-
+20 tions for licensed contractors, either prime or specialty contractors,
+21 followed by a stage during which bid prices will be accepted only from
+22 prequalified contractors.
+23 (i) Notice of the prequalification stage of the category B com-
+24 petitive bidding process shall be given in the same manner that
+25 notice of competitive bidding is provided for a category A com-
+26 petitive bid request, providing a specific date and time by which
+27 qualifications statements must be received. Political subdi-
+28 visions may establish prequalification standards premised upon
+29 demonstrated technical competence, experience constructing simi-
+30 lar facilities, prior experience with the political subdivision,
+31 available nonfinancial resources, equipment and personnel as
+32 they relate to the subject project, and overall performance his-
+33 tory based upon a contractor's entire body of work. Such request
+34 must include the standards for evaluating the qualifications of
+35 prospective bidders.
+36 (ii) During the initial stage of the category B bidding process,
+37 licensed contractors desiring to be prequalified to bid on a
+38 project must submit a written response to a political subdivi-
+39 sion's request for qualifications.
+40 (iii) Written objections to prequalification procedures must be
+41 received by the clerk, secretary or other authorized official of
+42 the political subdivision at least three (3) business days before
+43 the date and time upon which prequalification statements are due.
+44 The administrative officer or governing board supervising the
+45 bidding process shall respond to any such objection in writing
+46 and communicate such response to the objector and all other con-
+47 tractors seeking to prequalify, adjusting bidding timeframes if
+48 necessary. After a review of qualification submittals, the po-
+49 litical subdivision may select licensed contractors that meet the
+50 prequalification standards. If any licensed contractor submits
+
+6
+1 a statement of qualifications but is not selected as a qualified
+2 bidder, the political subdivision shall supply a written state-
+3 ment of the reason or reasons why the contractor failed to meet
+4 prequalification standards.
+5 (iv) Any licensed contractor that fails the prequalification
+6 stage can appeal any such determination to the governing board
+7 within seven (7) days after transmittal of the prequalification
+8 results to contest the determination. If the governing board
+9 sustains the decision that a contractor fails to meet prequali-
+10 fication standards, it shall state its reason or reasons for the
+11 record. A governing board decision concerning prequalification
+12 may be appealed to the public works contractors license board
+13 no more than fourteen (14) days following any decision on appeal
+14 made by the governing board. The public works contractors license
+15 board shall decide any such appeal within thirty-five (35) days
+16 of the filing of a timely appeal. The public works contractors
+17 license board shall allow participation, written or oral, by the
+18 appealing contractor and the political subdivision, either by
+19 employing a hearing officer or otherwise. The public works con-
+20 tractors license board shall not substitute its judgment for that
+21 of the political subdivision, limiting its review to determining
+22 whether the decision of the governing board is consistent with the
+23 announced prequalification standards, whether the prequalifi-
+24 cation standards comport with the law and whether the governing
+25 board's decision is supported by the entirety of the record. The
+26 decision of the public works contractors license board shall be
+27 written and shall state the reason or reasons for the decision.
+28 Category B prequalification procedures that are appealed shall be
+29 stayed during the pendency of the prequalification appeal until
+30 the public works contractors license board completes its review,
+31 but in no instance more than forty-nine (49) days after the appel-
+32 late decision of the governing board regarding prequalification.
+33 Any licensed public works contractor affected by a decision on
+34 appeal by the public works contractors license board may, within
+35 twenty-eight (28) days of the final decision, seek judicial review
+36 as provided by chapter 52, title 67, Idaho Code.
+37 (v) Following the conclusion of the prequalification adminis-
+38 trative procedures, the bidding stage shall proceed by the setting
+39 of a time, date and place for the public opening of bids. In cir-
+40 cumstances involving prequalified prime contractors, a notice
+41 soliciting bids shall be transmitted to prequalified bidders at
+42 least fourteen (14) days before the date of opening the bids. In
+43 circumstances involving prequalified specialty or subordinate
+44 contractors, the notice soliciting bids shall be published in the
+45 same manner applicable to category A bids. The notice shall suc-
+46 cinctly describe the project to be constructed. Copies of speci-
+47 fications, bid forms, bidder's instructions, contract documents,
+48 and general and special instructions shall be made available upon
+49 request and payment of a reasonable plan copy fee by any eligible
+50 bidder.
+
+7
+1 (vi) Written objections to specifications or bidding procedures
+2 must be received by the clerk, secretary or other authorized of-
+3 ficial of the political subdivision at least three (3) business
+4 days before the date and time upon which bids are scheduled to be
+5 opened.
+6 (vii) All category B bids shall be presented or otherwise deliv-
+7 ered under sealed cover to the clerk or other authorized agent
+8 of the political subdivision designated by the instructions to
+9 bidders with a concise statement marked on the outside generally
+10 identifying the project to which the bid pertains.
+11 (viii) If the political subdivision deems it is in the political
+12 subdivision's best interest, it may require the bidder to provide
+13 bid security in an amount equal to at least five percent (5%) of the
+14 amount bid. If required, a bid shall not be considered unless one
+15 (1) of the forms of bidder's security is enclosed with it, and un-
+16 less the bid is submitted in a form which substantially complies
+17 with the form provided by the political subdivision. The politi-
+18 cal subdivision may require that the bid security be in one (1) of
+19 the following forms:
+20 (A) Cash;
+21 (B) A cashier's check made payable to the political subdivi-
+22 sion;
+23 (C) A certified check made payable to the political subdivi-
+24 sion; or
+25 (D) A bidder's bond executed by a qualified surety company,
+26 made payable to the political subdivision.
+27 (ix) Any category B bid received by a political subdivision may
+28 not be withdrawn after the date and time set in the notice for open-
+29 ing of bids. When sealed bids have been received, they shall be
+30 opened in public by the governing board or the board's designee at
+31 a designated place and time. The governing board's designee shall
+32 thereafter compile and submit to the governing board for award or,
+33 if authorized, approve the award. If identical bids are received,
+34 the governing board may choose the bidder it prefers. If the suc-
+35 cessful bidder fails to execute the contract, the amount of his
+36 bidder's security may be forfeited to the political subdivision,
+37 in the sole discretion of the political subdivision, and the pro-
+38 ceeds shall be deposited in a designated fund out of which the ex-
+39 penses for procuring substitute performance are paid.
+40 (x) The political subdivision may, on the refusal or failure of
+41 the successful bidder to execute the contract, award the contract
+42 to the qualified bidder submitting the next lowest responsive bid.
+43 If the governing board awards the contract to the next lowest qual-
+44 ified bidder, the amount of the lowest qualified bidder's secu-
+45 rity, if forfeited, shall be applied by the political subdivision
+46 to the difference between the lowest responsive bid and the next
+47 lowest responsive bid, and the surplus, if any, shall be returned
+48 to the lowest bidder if cash or check is used, or to the surety on
+49 the bidder's bond if a bond is used, less reasonable administra-
+
+8
+1 tive costs not to exceed twenty-five percent (25%) of the amount of
+2 the bidder's security.
+3 (xi) In its discretion, the governing board may reject all bids
+4 presented and re-bid, or the governing board may, after finding it
+5 to be a fact, pass a resolution declaring that the project sought
+6 to be accomplished by the expenditure can be performed more eco-
+7 nomically by purchasing goods and services on the open market. If
+8 no bids are received, the governing board may make the expenditure
+9 without further competitive bidding procedures.
+10 (xii) If the governing board of any political subdivision chooses
+11 to award a competitively bid contract involving the procurement of
+12 public works construction to a bidder other than the apparent low
+13 bidder, the political subdivision shall declare its reason or rea-
+14 sons on the record and shall communicate such reason or reasons in
+15 writing to all persons who have submitted a competing bid.
+16 (xiii) If any participating bidder objects to such award, such
+17 bidder shall respond in writing to the notice from the political
+18 subdivision within seven (7) calendar days of the date of trans-
+19 mittal of the notice, setting forth in such response the express
+20 reason or reasons that the award decision of the governing board
+21 is in error. Thereafter, staying performance of any procurement
+22 until after addressing the contentions raised by the objecting
+23 bidder, the governing board shall review its decision and deter-
+24 mine whether to affirm its prior award, modify the award, or choose
+25 to re-bid, setting forth its reason or reasons therefor. After
+26 completion of the review process, the political subdivision may
+27 proceed as it deems to be in the public interest.
+28 SECTION 3. That Section 67-2806, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 67-2806. PROCURING SERVICES OR PERSONAL PROPERTY. (1) When a polit-
+31 ical subdivision contemplates an expenditure to purchase or lease personal
+32 property or to procure services, other than personal property or services
+33 excluded pursuant to section 67-2803, Idaho Code, valued at or in excess of
+34 seventy-five thousand dollars ($75,000) but not to exceed one hundred fifty
+35 thousand dollars ($150,000) one hundred thousand dollars ($100,000) but not
+36 to exceed two hundred fifty thousand dollars ($250,000), the procurement
+37 procedures of this subsection shall apply.
+38 (a) The solicitation for bids shall be supplied to no fewer than three
+39 (3) vendors by written means, either by electronic or physical deliv-
+40 ery. The solicitation shall describe the personal property or services
+41 to be purchased or leased in sufficient detail to allow a vendor dealing
+42 in such goods or services to understand what the political subdivision
+43 seeks to procure.
+44 (b) The solicitation for bids shall describe the electronic or physi-
+45 cal delivery method or methods authorized to submit a bid, the date and
+46 time by which a bid proposal must be received by the clerk, secretary or
+47 other authorized official of the political subdivision, and shall pro-
+48 vide a reasonable time to respond to the solicitation, provided that ex-
+
+9
+1 cept in the event of an emergency, such time shall not be less than three
+2 (3) business days.
+3 (c) Written objections to specifications or bid procedures must be re-
+4 ceived by the clerk, secretary or other authorized official of the po-
+5 litical subdivision at least one (1) business day before the date and
+6 time upon which bids are scheduled to be received.
+7 (d) When written bids have been received, by either physical or elec-
+8 tronic delivery, they shall be compiled and submitted to the governing
+9 board or governing board-authorized official which shall approve the
+10 responsive bid proposing the lowest procurement price or reject all
+11 bids and publish notice for bids, as before.
+12 (e) If the political subdivision finds that it is impractical or im-
+13 possible to obtain three (3) bids for the proposed procurement, the
+14 political subdivision may acquire the property in any manner the polit-
+15 ical subdivision deems best from a qualified vendor quoting the lowest
+16 price. When fewer than three (3) bids are considered, a description
+17 of the efforts undertaken to procure at least three (3) bids shall be
+18 documented by the political subdivision and such documentation shall
+19 be maintained for at least six (6) months after any such procurement is
+20 made. If two (2) or more bids are the same and the lowest responsive
+21 bids, the authorized decision maker may accept the one (1) it chooses.
+22 (2) When a political subdivision contemplates an expenditure to pur-
+23 chase or lease personal property or to procure services, other than personal
+24 property or services excluded pursuant to section 67-2803, Idaho Code, val-
+25 ued in excess of one hundred fifty thousand dollars ($150,000) two hundred
+26 fifty thousand dollars ($250,000), the procurement procedures of this sub-
+27 section shall apply.
+28 (a) The purchase or lease shall be made pursuant to an open competitive
+29 sealed bid process with the procurement to be made from the qualified
+30 bidder submitting the lowest bid price complying with bidding pro-
+31 cedures and meeting the specifications for the goods and/or services
+32 sought to be procured.
+33 (b) The request for bids shall set a date, time and place for the opening
+34 of bids. Two (2) notices soliciting bids shall be published in the of-
+35 ficial newspaper of the political subdivision. The first notice shall
+36 be published at least two (2) weeks before the date for opening bids,
+37 with the second notice to be published in the succeeding week at least
+38 seven (7) days before the date that bids are scheduled to be opened. The
+39 notice shall succinctly describe the personal property and/or service
+40 to be procured. Copies of specifications, bid forms, bidder's instruc-
+41 tions, contract documents, and general and special instructions shall
+42 be made available upon request by any interested bidder.
+43 (c) Written objections to specifications or bidding procedures must be
+44 received by the clerk, secretary or other authorized official of the po-
+45 litical subdivision at least three (3) business days before the date and
+46 time upon which bids are scheduled to be opened.
+47 (d) If the political subdivision deems it is in the political subdi-
+48 vision's best interest, it may require the bidder to provide bid secu-
+49 rity in an amount equal to at least five percent (5%) of the amount bid.
+50 If required, a bid shall not be considered unless one (1) of the forms
+
+10
+1 of bidder's security is enclosed with it, and unless the bid is submit-
+2 ted in a form which substantially complies with the form provided by the
+3 political subdivision. The political subdivision may require that the
+4 bid security be in one (1) of the following forms:
+5 (i) Cash;
+6 (ii) A cashier's check made payable to the political subdivision;
+7 (iii) A certified check made payable to the political subdivision;
+8 or
+9 (iv) A bidder's bond executed by a qualified surety company, made
+10 payable to the political subdivision.
+11 (e) Any bid received by the political subdivision may not be withdrawn
+12 after the time set in the notice for opening of bids. When sealed bids
+13 have been received, they shall be opened in public at a designated place
+14 and time, thereafter to be compiled and submitted to the governing board
+15 for award or, if a designee is authorized, for approval of the award.
+16 (f) If the successful bidder fails to execute the contract, the amount
+17 of his bidder's security may be forfeited to the political subdivision
+18 at the sole discretion of the governing board and thereafter the pro-
+19 ceeds may be deposited in a designated fund out of which the reasonable
+20 expenses for procuring substitute performance are paid.
+21 (g) The political subdivision may, on the refusal or failure of the suc-
+22 cessful bidder to execute the contract, award the contract to the next
+23 lowest qualified bidder. If the governing board awards the contract to
+24 the next lowest qualified bidder, the amount of the lowest qualified
+25 bidder's security may be applied by the political subdivision to the
+26 difference between the lowest responsive bid and the next lowest re-
+27 sponsive bid, and the surplus, if any, shall be returned to the lowest
+28 bidder if cash or check is used, or to the surety on the bidder's bond
+29 if a bond is used, less reasonable administrative costs not to exceed
+30 twenty-five percent (25%) of the amount of the bidder's security.
+31 (h) In its discretion, the governing board or its designee may reject
+32 all bids presented and re-bid or, after finding it to be a fact, the gov-
+33 erning board may pass a resolution declaring that the subject goods or
+34 services can be procured more economically on the open market. If two
+35 (2) or more bids are the same and the lowest responsive bids, the gov-
+36 erning board or its designee may accept the one (1) it chooses. In its
+37 discretion, the governing board of a political subdivision may preau-
+38 thorize the purchase of equipment at a public auction.
+39 (i) If the governing board of any political subdivision chooses to
+40 award a competitively bid contract involving the procurement of per-
+41 sonal property or services to a bidder other than the apparent low
+42 bidder, the political subdivision shall declare its reason or reasons
+43 on the record and shall communicate such reason or reasons in writing to
+44 all who have submitted a competing bid.
+45 (j) If any participating bidder objects to such award, such bidder
+46 shall respond in writing to the notice from the political subdivision
+47 within seven (7) calendar days of the date of transmittal of the notice,
+48 setting forth in such response the express reason or reasons that the
+49 award decision of the governing board is in error. Thereafter, staying
+50 performance of any procurement until after addressing the contentions
+
+11
+1 raised by the objecting bidder, the governing board shall review its
+2 decision and determine whether to affirm its prior award, modify the
+3 award, or choose to re-bid, setting forth its reason or reasons there-
+4 for. After completion of the review process, the political subdivision
+5 may proceed as it deems to be in the public interest.
+6 SECTION 4. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOPTBYPLS;AGS,IOC,TOREAPNRGCNEMCNPTR;AGSN6,I,TOREPSRGPTOFPCWSC;AGSN6,IOC,TOREPGPGSSORPLP;ADDGAYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn6,IoC,b,adteseishdtordasf.E.Teptrsediscrslntbeaet)TeanofplpywnteptdstepeadseofactfrlegsorsstsbncybdbyteseofI,oe()ofisp,oranayofteflg)Csorpsweestopepcwnaelstnfytdds()oehdds()orweestopessolpyaelstnsetdds()odtdds(,pdshcsorplbegdbytebtisofteplsnpegsadssasddbyteggb)Dtofwsorcntoaye,olotofaplsnfrtepeofplsrtepls)Ptofplorplsstobepdbnitcrfrtepls)Ptofanitinrlp)Ptofi)Csofpninajtpsatwhorufg)Ptofudplp)Ptfmflgtglssan()ssorflmeadss()PtofplpyorssthcsediobytednofpgoftedtofafteseofI)Ptofgsfrdtr)Ptoftladt]
+[DELETED: )PtofgsadssfmIocli)Ptofrrfrhye)Ptofsem,stadlsofagsmorpmttwsbdincewhsel)Ptofpcu)Ptoffdfrueinjsordnf;o)PtofudetatananifadbytgbN2.TtSn6,IoC,b,adteseishdtordasf.PTOFPCWSC.()Wnaplsncsaneetopepcwnvdatorinesoffytdds()bttoedtohdtdds()oehdts()btnttoedtohdfytdd,teptpsoftssnsla)Tesnfrbsfrtepcwscntobdslbesdtonofrtnte()odldpcwscsbywnm,erbcorpld.Tesnsldetnwktobecdinstdltoawanedpcwscrtoudtecnpeplsnsstob)Tesnfrbssldeteecorpldymdormsadtostab,tedeaebywhabdplmtberdbytec,syoradoloftepls,adslpearetetordtotes,pdttetinteetofane,shteslntbelstnt)bsd)Wnostossorbdpsmtberdbytec,syororadolofteplsnatltoe()bsdybetedeaeunwhbsaesdtober)Wnwnbshebnr,byerplorecd,tyslbesdtoteggbdoradeofteggbdwoslptteltrdtoteggbdfralo,ifa,aet.Teggbdortebsdeslaeterebdpgteltptpeorrtalbdphnefrb,asb)Ifteplsnfsttitisilorietoonte()bsfrtepdpcwsp,teplsnmyaetewkinaymrtlsndsbtfmaqdpcwscrqgteltp.Wnfrtnte()bsaec,adnofteesuntopeatltt)bsslbeddbyteplsnadshd]
+[DELETED: nslbemdfratltsx()msarteptdnism.Ifto()ormepeqsoydtldpcwscsaeteseadteltreb,teggbdorgdalmyatteoe()itc)Wnaplsncsaneetopepcwscnvdinesoftohdts()tohdfytdds(,ttpsoftssnsla.Tepeonssslbemepttoacesdbswhtepetobemefmteqdpcwscrsgteltbdpecgwhbgpsagtep,ifayaep,edbyteb.Cebgfrpcwsmypdthefto()aepsasstfhb)CyA.Cebgpsslbeontorfbsfmayldpcwscrdgtobduncwsp.FracyAb,teplsyoycrteatb,brcewhasoftebgp,adwrtebrhstel,adsladtebdtoteqdbrsgteltreb)TertfrbsfracyAptslsdeadpefrtepcogofb.To()ngbsslbepdinteolnroepls.Teftneslbeptltto()wsbetedefrogb,whtdnetobepdintesgwkatlts)dsbetedettbsaesdtobeo.Teslsydetepttobecsofs,bdf,bsi,ctd,adgladslisslbeaeunrtadptofarepncebyayidb)Wnostossorbgptberdbytec,syororadolofteplsnatltte()bsbetedeadteunwhbsaesdteo.Teaeororggbdsgtebgpsslrdtoayshonwgadceshretoteoradarpnh,agbgtsifn)Albsslbepdoroeddudcrtoteckofteplsnororadatofteplsnddbyteinpdtobsbyteplsnwhestmdonteoegyigtttowhtebdp)Ifteplsndsitisintepsbti,itmyretebrtop]
+[DELETED: dsyinanateltoatltfept()ofttb.Ifr,abdslntbecduso)oftefsofbssyisedwhi,adustebdissdinafmwhsychtefmpdbytepls.Teplsnmyretttebdsybeinoe()oefgf)C)Acsckmepetotepls)Acdckmepetotepls;o)Absbdedbyaqdsycepetotepls)Aybdrdbyteplsnmyntbnartedeadtestintenefrogo.Wnsdbshebnr,tyslbeodicataddpeadt,trtobecdsdtoteggbdfrado,ifadei,fraloftea)Ifteslbrfstoeetec,ttofhsbssymybefdtotepnattesednofteplsdtepsslbeddinaddfdotohteesofpgsepeaep)Teplsnm,onterlorfeoeslbrtoeetec,adtecoteqdbrsgtentltrebfteggbdastecttotentltqdb,teatofteltqdbssymybeadbyteplsntotednteltrebdadtentltr,adtes,ifa,slberdtoteltbrifchorckisu,ortotesyontebsbfabdisu,lsreaecsnttoedtept()ofteatoftebssytoteo)Inisd,teggbdmyrtalbdadr,orteggbdm,arfgiobeaf,psarndgttteptsobeadbyteeecnbepdmeeybypggsadssonteonm.Ilbsaer,teggbdmycetritp.Ifnobsaer,teggbypetegsorsswtfrcebgp)Ifteggbdofayplsncoadacybdctigteptocwscntoabrortnteatl,teplsnsldeisrnorr]
+[DELETED: sonterdadslceshrnorrsigtoalpswohesdacgb)Ifaypgbrostosha,shbrslrdinwgtotenefmteplsnwnsn()crdsoftedeoftften,sgfhinshreteesrrrsttteaddnofteggbdisine.T,sgpeofayptularagtecsrdbyteogb,tgbdslrwisdnaddewrtmispra,mytea,orcetor,sgfhisrnorrst.Arcnoftwp,teplsnmypdasitdobeintepci)CyB.Cebgpsslbeontoldpcwscsoyarmgpyslqsedbytepls.TnfrbsinacyBptslctoft)s,anilsedgslpsfrldc,erpeorsycdbyasedgwhbdpswlbeadoyfdc)NeoftepnseoftecyBcebgpsslbegnintesemrteofcebgispdfracyAcebdr,pgascdeadtebywsssmtber.Plssmyehpnsspdudtlc,eecgsrf,preewhteplsenlr,etadplayretotestp,adolpehybdunacseebyofw.Shrtietessfregteqsoeb)DgteilseoftecyBbgpdcsdgtobepdtobdontmtstawnretoaplssrtfrq)Wnostopnpsmtbdbytec,syororadoloeplsnatltte()bsdsbedeadteunwhpnssaedeaeororggbdsgtgpsslrdtoayshoninwdceshretoteoradalorcssgtop,agbgtsi.Ararwofqns,teplsnmystldcsttmttns.Ifayldcrs]
+[DELETED: stofqsbtisntsdasaq,teplsnslsyawnstofternorrswytecrfdtomns)Ayldcrttfstepecnalayshdntoteggbnsn()dsartloftepstoctted.Ifteggbstednttacrfstomtpns,itslseisrnorrsfrt.Aggbddncgpybeadtotepcwscslebometnfn()dsfgaydnonaebyteggb.Tepcwscsldsldeayshalwnte()dftefgofatya.Tepcwscebdslawp,wnoro,bytgcradtepls,erbgahgororo.Tepcwscslebdslntseisjtfrtftepls,lgisrwtodrtednofteggbdisctwhtdpns,wrtepnssctwhtelwadwrtegsdnissdbyteeyofter.TnoftepcwscslebdslbnadslseternorrsfrtedyBpnpsttaeadslbddgtepyoftepnaluepcwscslebdcsisrtinnoiemetnfe()dsarteaednofteggbdrgpyldpcwscradbyadnolbytepcwscslebdm,wt()dsoftefld,skjlrspdbycr5,te6,IoC)Fgtecnoftepnaep,tebgseslpdbytesfat,deadpefrtepcogofb.Incsigpdpec,angbsslbetdtopdbsatfn()dsbetedeofogteb.Isigpdsyors,tenesgbsslbepdintemraetocyAb.Teneslsydetepttobec.Csofs,bdf,bsi,ctddgladslisslbemeaeutadptofarepncyfebyaye]
+[DELETED: )Wnostossorbgptberdbytec,syororadolofteplsnatltte()bsbetedeadteunwhbsaesdtob)AlcyBbsslbepdoroeddursdcrtoteckororadafteplsnddbyteistswhacestmdonteoeggtepttowhtebdp)Ifteplsndsitisintepsbti,itmyretebrtopdsyinanateltoatltfept()ofttb.Ifr,abdslntbecduso)oftefsofbssyisedwhi,adustebdissdinafmwhsychtefmpdbytepls.Teplsnmyretttebdsybeinoe()oefgf)C)Acsckmepetotepls)Acdckmepetotepls;o)Absbdedbyaqdsycepetotepls)AycyBbdrdbyaplsnmtbewnartedeadtestintenefrogofb.Wnsdbshebnr,tyslbdinpcbyteggbdortebsdeaddpeadt.Teggbsdesrceadsttoteggbdfradofa,aetea.Ifilbsaereggbdmycetebritp.Ifteslbrfstoeetec,teatofhssymybefdtoteplsntesednoftepls,adtepsslbeddinaddfdotofwhteesfrpgsepeaep)Teplsnm,onterlorfeoeslbrtoeetec,adtecoteqdbrsgtentltrebfteggbdastecttotentltqdb,teatofteltqdbss,iff,slbeadbyteplsotedebnteltrebdadtentreb,adtes,ifa,slberoteltbrifchorckisu,ortotesyoebsbdifabdisu,lsrea]
+[DELETED: ecsnttoedtept()ofteatoebss)Inisd,teggbdmyrtalbdadr,orteggbdm,arfgiobeaf,psarndgttteptsobeadbyteeecnbepdmeeybypggsadssonteonm.Iobsaer,teggbdmymeteetfrcebgp)Ifteggbdofayplsncoadacybdctigteptocwscntoabrortnteatl,teplsnsldeisrnorrsonterdadslceshrnorrsigtoalpswohesdacgb)Ifaypgbrostosha,srslrdinwgtotenefmtepnwnsn()crdsoftedeoftloften,sgfhinshreteenorrsttteaddnofteggbsine.T,sgpeofayplaragtecsrdbyteo,teggbdslrwisdnaddewrtoamispra,mytea,orcor,sgfhisrnorrst.Anofterwp,teplsnmdasitdstobeintepciN3.TtSn6,IoC,b,adteseishdtordasf.PGSSORPLP.()Wnaplsncsaneetopeorlepyortopes,ortnplpyorsdpttosn6,IoC,vdatorinesoetdds()btnttoedoehdfdds()oehdtdds()btnoedtohdfytdds(tepsoftssnsla)Tesnfrbsslbesdtonofrtnt)vsbywnm,erbyecorpld.Tesnsldeteplpyorsobepdorldinstdltoawavrdnshgsorsstoudwtteplsstop)Tesnfrbssldeteecorpldymdormsadtostab,tedeaebywhabdplmtberdbytec,syoradoloftepls,adslpearetetordtotes,pdtte]
+[DELETED: tinteetofane,shteslntbelstnt)bsd)Wnostossorbdpsmtberdbytec,syororadolofteplsnatltoe()bsdybetedeaeunwhbsaesdtober)Wnwnbshebnr,byerplorecd,tyslbecdadsdtotegdorggbdolwhslaetebdpgteltptpeorrtasadphnefrb,asb)Ifteplsnfsttitisilorietoonte()bsfrtepdp,tlsnmyaetepyinaymrteplsndsbtfmaqdvrqgtel.Wnfrtnte()bsaec,adfteesuntopeatltte()bsslbdbyteplsnadshdnsemdfratltsx()msarayshpti.Ifto()ormebsaeteseadteltr,teaddnmrmyatteoe()itc)Wnaplsncsaneetopeorleplpyortopes,ortnpyorssedpttosn6,IoC,vdinesofoehdfytdds()tohytdds(,teptpsoftssnsla)Tepeorleslbemepttoanoncdbdpswhtepttobemefmteqrsgteltbdpecgwhbgpsadmgtessfrtegsarsttobep)Tertfrbsslstad,teadpefrteofb.To()nssgbsslbepdinteolnroftepls.Teftnesepdatltto()wsbetedefrogbhtesdnetobepdintesgwkatln()dsbetedettbsaesdtobeo.Teslsydeteplpyarsobep.Csofs,bdf,bsi,ctd,adgladslissemeaeunrtbyayidb)Wnostossorbgpsmtbdbytec,syororadolofteplsnatltte()bsdsbetedeaeunwhbsaesdtobeo)Ifteplsndsitisinteplssbti,itmyretebrtopebdsyinanateltoatltfept()ofteatbfr,abdslntbecdusoe()oftef]
+[DELETED: fbssyisedwhi,adustebdissdinafmwhsycswhtefmpdbytls.Teplsnmyretttdsybeinoe()oftefgf)C)Acsckmepetotepls)Acdckmepetotepls)Absbdedbyaqdsyc,metotepls)Aybdrdbyteplsnmyntbewrtetestintenefrogofb.Wnsdbebnr,tyslbeodinpcataddpdt,trtobecdadsdtoteggbrado,ifadeisa,fraloftea)Ifteslbrfstoeetec,teafhsbssymybefdtoteplsttesednofteggbdadtrtepsmybeddinaddfdotofwhtersfrpgsepeaep)Teplsnm,onterlorfeofteslbrtoeetec,adtecttotentqdb.Ifteggbdastecttentltqdb,teatofteltqssymybeadbyteplsntotebnteltrebdadtentltreb,adtes,ifa,slberdtotelrifchorckisu,ortotesyontebsbfabdisu,lsreaecsnttoeept()ofteatoftebss)Inisd,teggbdorisdemyrlbspdadrdo,arfgittobeaf,teggbdmypsarndgtttestgsoscnbepdmeeyonteonm.Ift)ormebsaeteseadteltreb,teggbdorisdemyatteoe()itc.Ini,teggbdofaplsnmypetepeofetatapca)Ifteggbdofayplsncstdacybdctigteptofplpyorsstoabrortnteatl,teplsnsldeisrnorrnterdadslceshrnorrsinwgtlwohesdacgb)Ifaypgbrostosha,shblrdinwgtotenefmteplsnsn()crdsoftedeoftloftengfhinshreteesrnorrstttddnofteggbdisine.T,seofayptularagtec]
+[DELETED: dbyteogb,teggbdslrwinaddewrtoamispra,myt,orcetor,sgfhisrnorrst.Arcnofterwp,teplsypdasitdstobeintepciN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

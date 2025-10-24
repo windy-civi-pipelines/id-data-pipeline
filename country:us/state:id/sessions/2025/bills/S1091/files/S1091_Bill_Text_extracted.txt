@@ -1,0 +1,93 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1091
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-5605, IDAHO CODE, TO REVISE A
+3 PROVISION REGARDING THE DISTRIBUTION OF CERTAIN APPROPRIATED MONEYS TO
+4 SCHOOL DISTRICTS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+5 DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 33-5605, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-5605. EDUCATION OPPORTUNITY RESOURCE ACT -- RULEMAKING. (1) The
+10 state department board of education shall distribute appropriated moneys
+11 to districts for reimbursement for the cost of internet service and other
+12 allowable services in accordance with the methodology established by the
+13 education opportunity resource committee.
+14 (2) The commission for libraries shall distribute appropriated moneys
+15 to Idaho public libraries for reimbursement for the cost of internet service
+16 and other allowable services in accordance with the methodology established
+17 by the education opportunity resource committee and shall provide techni-
+18 cal, E-rate, and security contracting, procurement guidance, and assistance
+19 to Idaho public libraries at any such entity's request.
+20 (3) The state board of education may:
+21 (a) Promulgate rules in compliance with chapter 52, title 67, Idaho
+22 Code, to implement the provisions of this chapter. In promulgating
+23 such rules, the board shall collaborate with the education opportunity
+24 resource committee;
+25 (b) Authorize funding increases for internet service levels when a dis-
+26 trict consistently exceeds utilization benchmarks, as established by
+27 the education opportunity resource committee, during school or busi-
+28 ness days and hours, provided adequate funding is available; and
+29 (c) Provide technical, E-rate, and security contracting, procurement
+30 guidance, and assistance to districts at any such entity's request.
+31 SECTION 2. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YENCNAGTOE;AGSN3,IOC,TORENRGTEDNOFCNADMSTLD;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.ENOYREAT--R.()Tedtbdofensldeadmodsfrrtfrtectofitseadoessinaewhtemyedbytnoyrec)TecnfrlssldeadmoIopclsfrrtfrtectofitsdoraessinaewhtemyeyteenoyreceadslpet,E,adsyc,ptg,adaoIopclsatayshesr)Tesebdofenm)Persincewhcr5,te6,I,toittepsoftsc.Inphr,tebdslcewhteenoec)Aefgisfritselswnadtcyesunb,asedbeenoyrec,dgslorbsdsadh,pdaefgisa;a)Pet,E,adsyc,p,adaetodsatayshesrN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1091
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-5605, IDAHO CODE, TO REVISE A
+3 PROVISION REGARDING THE DISTRIBUTION OF CERTAIN APPROPRIATED MONEYS TO
+4 SCHOOL DISTRICTS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+5 DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 33-5605, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-5605. EDUCATION OPPORTUNITY RESOURCE ACT -- RULEMAKING. (1) The
+10 state department board of education shall distribute appropriated moneys
+11 to districts for reimbursement for the cost of internet service and other
+12 allowable services in accordance with the methodology established by the
+13 education opportunity resource committee.
+14 (2) The commission for libraries shall distribute appropriated moneys
+15 to Idaho public libraries for reimbursement for the cost of internet service
+16 and other allowable services in accordance with the methodology established
+17 by the education opportunity resource committee and shall provide techni-
+18 cal, E-rate, and security contracting, procurement guidance, and assistance
+19 to Idaho public libraries at any such entity's request.
+20 (3) The state board of education may:
+21 (a) Promulgate rules in compliance with chapter 52, title 67, Idaho
+22 Code, to implement the provisions of this chapter. In promulgating
+23 such rules, the board shall collaborate with the education opportunity
+24 resource committee;
+25 (b) Authorize funding increases for internet service levels when a dis-
+26 trict consistently exceeds utilization benchmarks, as established by
+27 the education opportunity resource committee, during school or busi-
+28 ness days and hours, provided adequate funding is available; and
+29 (c) Provide technical, E-rate, and security contracting, procurement
+30 guidance, and assistance to districts at any such entity's request.
+31 SECTION 2. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YENCNAGTOE;AGSN3,IOC,TORENRGTEDNOFCNADMSTLD;ADDGANEYADPGANEeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.ENOYREAT--R.()Tedtbdofensldeadmodsfrrtfrtectofitseadoessinaewhtemyedbytnoyrec)TecnfrlssldeadmoIopclsfrrtfrtectofitsdoraessinaewhtemyeyteenoyreceadslpet,E,adsyc,ptg,adaoIopclsatayshesr)Tesebdofenm)Persincewhcr5,te6,I,toittepsoftsc.Inphr,tebdslcewhteenoec)Aefgisfritselswnadtcyesunb,asedbeenoyrec,dgslorbsdsadh,pdaefgisa;a)Pet,E,adsyc,p,adaetodsatayshesrN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

@@ -1,0 +1,57 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+Moved by Foreman
+Seconded by Lakey
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1210
+1 AMENDMENT TO SECTION 3
+2 On page 1 of the printed bill, delete lines 22 through 24 and insert:
+3 "benefit, advantage, or livelihood, whether for profit or not-for-profit.".
+4 AMENDMENT TO SECTION 4
+5 On page 3, delete lines 10 through 14, and insert:
+6 "(4) A school operating in the state or a business subject to chapter
+7 11, title 39, Idaho Code, operating in the state shall not mandate a med-
+8 ical intervention for any person to attend, enter campus or buildings, or
+9 be employed, subject to the requirements of the Idaho parental rights act,
+10 sections 32-1010 through 32-1015, Idaho Code; sections 39-4801 through
+11 39-4804, Idaho Code; and sections 33-205 and 33-512(7), Idaho Code.".
+12 CORRECTION TO TITLE
+13 On page 1, in line 4, delete "TO REVISE A"; and in line 5, delete "DEFINI-
+14 TION,".
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyFdbyLNTESEATTOS.N.1TTOSNnpe1oftepdb,dels22th24adi,a,orl,wrfrptornTTOSNnpe3,dels10th1,adi)Asloginteseorabssttoc,te3,IoC,oginteseslntmeamlinfraypntoa,ercsorb,oee,sttotersofteIoplrsas30th3,IoC;ss31t,IoC;adss35ad3,IoCNTOTnpe1,inle4,de"OREA;adinle5,de"]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+Moved by Foreman
+Seconded by Lakey
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1210
+1 AMENDMENT TO SECTION 3
+2 On page 1 of the printed bill, delete lines 22 through 24 and insert:
+3 "benefit, advantage, or livelihood, whether for profit or not-for-profit.".
+4 AMENDMENT TO SECTION 4
+5 On page 3, delete lines 10 through 14, and insert:
+6 "(4) A school operating in the state or a business subject to chapter
+7 11, title 39, Idaho Code, operating in the state shall not mandate a med-
+8 ical intervention for any person to attend, enter campus or buildings, or
+9 be employed, subject to the requirements of the Idaho parental rights act,
+10 sections 32-1010 through 32-1015, Idaho Code; sections 39-4801 through
+11 39-4804, Idaho Code; and sections 33-205 and 33-512(7), Idaho Code.".
+12 CORRECTION TO TITLE
+13 On page 1, in line 4, delete "TO REVISE A"; and in line 5, delete "DEFINI-
+14 TION,".
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2dbyFdbyLNTESEATTOS.N.1TTOSNnpe1oftepdb,dels22th24adi,a,orl,wrfrptornTTOSNnpe3,dels10th1,adi)Asloginteseorabssttoc,te3,IoC,oginteseslntmeamlinfraypntoa,ercsorb,oee,sttotersofteIoplrsas30th3,IoC;ss31t,IoC;adss35ad3,IoCNTOTnpe1,inle4,de"OREA;adinle5,de"]

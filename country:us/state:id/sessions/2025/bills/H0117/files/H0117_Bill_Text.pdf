@@ -1,0 +1,454 @@
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 117
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE INSURANCE DATA SECURITY ACT; AMENDING TITLE 41, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 67, TITLE 41, IDAHO CODE, TO PROVIDE A
+4 SHORT TITLE, TO DEFINE TERMS, TO PROVIDE THAT LICENSEES SHALL ESTABLISH
+5 INFORMATION SECURITY PROGRAMS, TO PROVIDE FOR AN INVESTIGATION OF A
+6 CYBERSECURITY EVENT, TO PROVIDE FOR NOTICE OF A CYBERSECURITY EVENT, TO
+7 PROVIDE FOR THE DIRECTOR'S POWER TO EXAMINE AND INVESTIGATE THE AFFAIRS
+8 OF A LICENSEE, TO PROVIDE FOR CONFIDENTIALITY AND SHARING OF DOCUMENTS,
+9 MATERIALS, AND OTHER INFORMATION, TO PROVIDE EXCEPTIONS, TO PROVIDE
+10 THAT THERE SHALL BE NO PRIVATE CAUSE OF ACTION FOR A VIOLATION, TO PRO-
+11 VIDE FOR PENALTIES, TO PROVIDE THAT STATE STANDARDS AND REQUIREMENTS
+12 SHALL BE EXCLUSIVE, TO PROVIDE RULEMAKING AUTHORITY, TO PROVIDE FOR
+13 CONSIDERATIONS WHEN ADMINISTERING, TO PROVIDE AN EFFECTIVE DATE, AND
+14 TO PROVIDE SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN
+15 EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Title 41, Idaho Code, be, and the same is hereby amended
+18 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+19 ter 67, Title 41, Idaho Code, and to read as follows:
+20 CHAPTER 67
+21 INSURANCE DATA SECURITY ACT
+22 41-6701. SHORT TITLE. This chapter shall be known and may be cited as
+23 the "Insurance Data Security Act."
+24 41-6702. DEFINITIONS. As used in this chapter:
+25 (1) "Authorized individual" means an individual known to and screened
+26 by the licensee and determined to be necessary and appropriate to have access
+27 to the nonpublic information held by the licensee and its information sys-
+28 tems.
+29 (2) "Consumer" means an individual, including but not limited to appli-
+30 cants, policyholders, insureds, beneficiaries, claimants, and certificate
+31 holders, who is a resident of this state and whose nonpublic information is
+32 in a licensee's possession, custody, or control.
+33 (3) "Cybersecurity event" means an event resulting in unauthorized ac-
+34 cess to, disruption of, or misuse of an information system or nonpublic in-
+35 formation stored on such information system. The term "cybersecurity event"
+36 does not include:
+37 (a) The unauthorized acquisition of encrypted nonpublic information if
+38 the encryption, process, or key is not also acquired, released, or used
+39 without authorization; or
+
+2
+1 (b) An event with regard to which the licensee has determined that the
+2 nonpublic information accessed by an unauthorized person has not been
+3 used or released and has been returned or destroyed.
+4 (4) "Encrypted" means the transformation of data into a form that re-
+5 sults in a low probability of assigning meaning without the use of a protec-
+6 tive process or key.
+7 (5) "Information security program" means the administrative, techni-
+8 cal, and physical safeguards that a licensee uses to access, collect, dis-
+9 tribute, process, protect, store, use, transmit, dispose of, or otherwise
+10 handle nonpublic information.
+11 (6) "Information system" means a discrete set of electronic informa-
+12 tion resources organized for the collection, processing, maintenance, use,
+13 sharing, dissemination, or disposition of electronic nonpublic informa-
+14 tion, as well as any specialized system such as industrial process controls
+15 systems, telephone switching and private branch exchange systems, and envi-
+16 ronmental control systems.
+17 (7) "Licensee" means any person who is licensed, authorized to operate,
+18 or registered, or who is required to be licensed, authorized, or registered,
+19 pursuant to the insurance laws of this state but does not include a purchas-
+20 ing group or a risk retention group chartered and licensed in a state other
+21 than this state or a person acting as an assuming insurer domiciled in an-
+22 other state or jurisdiction.
+23 (8) "Nonpublic information" means electronic information that is not
+24 publicly available information and is:
+25 (a) Business-related information of a licensee, the tampering with
+26 which, or unauthorized disclosure, access, or use of which, would cause
+27 a material adverse impact to the business, operations, or security of
+28 the licensee;
+29 (b) Any information concerning a consumer that because of name, number,
+30 or other identifier can be used to identify such consumer, in combina-
+31 tion with any one (1) or more of the following data elements:
+32 (i) Social security number;
+33 (ii) Driver's license number or nondriver identification card
+34 number;
+35 (iii) Financial account number or credit or debit card number;
+36 (iv) Any security code, access code, or password that would permit
+37 access to a consumer's financial account; or
+38 (v) Biometric records; or
+39 (c) Any information or data, except age or gender, in any form or medium
+40 created by or derived from a health care provider or a consumer that
+41 identifies a particular consumer and that relates to:
+42 (i) The past, present, or future physical, mental, or behavioral
+43 health or condition of any consumer or a member of the consumer's
+44 family;
+45 (ii) The provision of health care to any consumer; or
+46 (iii) Payment for the provision of health care to any consumer.
+47 (9) "Person" has the same meaning as provided in section 41-104, Idaho
+48 Code.
+49 (10)(a) "Publicly available information" means any information that a
+50 licensee has a reasonable basis to believe is lawfully made available to
+
+3
+1 the general public from: federal, state, or local government records;
+2 widely distributed media; or disclosures to the general public that are
+3 required to be made by federal, state, or local law.
+4 (b) For the purposes of this subsection, a licensee has a reasonable ba-
+5 sis to believe that information is lawfully made available to the gen-
+6 eral public if the licensee has taken steps to determine:
+7 (i) That the information is of the type that is available to the
+8 general public; and
+9 (ii) Whether a consumer can direct that the information not be
+10 made available to the general public and, if so, that such consumer
+11 has not done so.
+12 (11) "State" means the state of Idaho or, when used in a context signify-
+13 ing a jurisdiction other than the state of Idaho, any state, district, terri-
+14 tory, commonwealth, or possession of the United States of America.
+15 (12) "Third-party service provider" means a person, not otherwise de-
+16 fined as a licensee, that contracts with a licensee to maintain, process, or
+17 store nonpublic information or otherwise is permitted access to nonpublic
+18 information through its provision of services to the licensee.
+19 41-6703. INFORMATION SECURITY PROGRAM. (1) Commensurate with the
+20 size and complexity of the licensee, the nature and scope of the licensee's
+21 activities, including its use of third-party service providers, and the
+22 sensitivity of the nonpublic information used by the licensee or in the
+23 licensee's possession, custody, or control, each licensee must develop, im-
+24 plement, and maintain a comprehensive written information security program
+25 based on the licensee's risk assessment that contains administrative, tech-
+26 nical, and physical safeguards for the protection of nonpublic information
+27 and the licensee's information system.
+28 (2) A licensee must require that any of its third-party service
+29 providers implement appropriate administrative, technical, and physical
+30 measures to protect and secure the information systems and nonpublic infor-
+31 mation that are accessible to, or held by, a third-party service provider.
+32 Nonpublic information is not accessible to, or held by, a third-party ser-
+33 vice provider within the meaning of this section if it is encrypted and the
+34 associated protective process or key necessary to assign meaning to the non-
+35 public information is not within the possession of the third-party service
+36 provider.
+37 (3) As part of its information security program, each licensee must
+38 establish a written incident response plan designed to promptly respond
+39 to, and recover from, any cybersecurity event that compromises the con-
+40 fidentiality, integrity, or availability of nonpublic information in its
+41 possession, the licensee's information systems, or the continuing function-
+42 ality of any aspect of the licensee's business or operations.
+43 (4) Each licensee must maintain all records supporting its information
+44 security program for a period of five (5) years. To the extent a licensee has
+45 identified areas that require material improvement, the licensee must docu-
+46 ment the identification and the remedial efforts planned and underway to ad-
+47 dress such areas.
+
+4
+1 41-6704. INVESTIGATION OF A CYBERSECURITY EVENT. (1) If a licensee
+2 learns that a cybersecurity event has or may have occurred, such licensee
+3 or third-party service provider designated to act on behalf of the licensee
+4 shall conduct a prompt investigation.
+5 (2) During the investigation, the licensee or third-party service
+6 provider designated to act on behalf of the licensee shall, to the extent
+7 possible:
+8 (a) Determine whether a cybersecurity event has occurred;
+9 (b) Assess the nature and scope of the cybersecurity event;
+10 (c) Identify any nonpublic information that may have been involved in
+11 the cybersecurity event; and
+12 (d) Perform or oversee reasonable measures to restore the security of
+13 the information systems compromised in the cybersecurity event in order
+14 to prevent further unauthorized acquisition, release, or use of nonpub-
+15 lic information in the licensee's possession, custody, or control.
+16 (3) If a licensee learns that a cybersecurity event has or may have oc-
+17 curred that impacted the licensee's nonpublic information in a system main-
+18 tained by a third-party service provider, the licensee shall complete the
+19 steps provided in subsection (2) of this section or make reasonable efforts
+20 to confirm and document that the third-party service provider has completed
+21 such steps.
+22 (4) A licensee shall maintain records concerning all cybersecurity
+23 events for a period of at least five (5) years from the date of the cyberse-
+24 curity event.
+25 41-6705. NOTICE OF A CYBERSECURITY EVENT. (1) Each licensee must no-
+26 tify the director as promptly, in the form and manner prescribed by the di-
+27 rector, as reasonably practicable but not later than ten (10) business days
+28 after a determination that a cybersecurity event has occurred when either:
+29 (a) This state is the licensee's state of domicile, in the case of an in-
+30 surer, or this state is the licensee's home state, in the case of a pro-
+31 ducer, as those terms are defined in section 41-1003, Idaho Code, and
+32 the cybersecurity event has a reasonable likelihood of materially harm-
+33 ing:
+34 (i) Any consumer residing in this state; or
+35 (ii) Any material part of the normal operations of the licensee;
+36 or
+37 (b) The licensee reasonably believes that the nonpublic information
+38 involved is of two hundred fifty (250) or more consumers residing in
+39 this state and that the event is either:
+40 (i) A cybersecurity event impacting the licensee of which notice
+41 is required to be provided to any government body, self-regulatory
+42 agency, or any other supervisory body pursuant to any state or fed-
+43 eral law; or
+44 (ii) A cybersecurity event that has a reasonable likelihood of ma-
+45 terially harming:
+46 1. Any consumer residing in this state; or
+47 2. Any material part of the normal operations of the li-
+48 censee.
+
+5
+1 (2) A licensee shall notify each consumer residing in this state with-
+2 out unreasonable delay after a determination that a cybersecurity event has
+3 occurred that is reasonably likely to result in material harm to that con-
+4 sumer. Except as provided in subsection (5) of this section, a licensee that
+5 determines a cybersecurity event has occurred affecting data owned or li-
+6 censed by another licensee must provide a notice to the owner or licensor of
+7 the data affected by the cybersecurity event in place of the notification to
+8 affected consumers.
+9 (a) The licensee shall provide a copy of the notice sent to consumers to
+10 the director.
+11 (b) In determining whether a cybersecurity event is reasonably likely
+12 to result in material harm to consumers residing in this state pursuant
+13 to this subsection, a licensee shall act with the care an ordinarily
+14 prudent person in like position would exercise under similar circum-
+15 stances.
+16 (c) A licensee may delay providing notice without violating the provi-
+17 sions of this subsection if either:
+18 (i) A delay is necessary in order for the licensee to take any mea-
+19 sures necessary to determine the scope of the cybersecurity event
+20 and restore the reasonable integrity of the information system.
+21 However, the licensee must provide the notice required pursuant
+22 to this section without unreasonable delay after the licensee com-
+23 pletes the measures necessary to determine the scope of the cyber-
+24 security event and restore the reasonable integrity of the infor-
+25 mation system; or
+26 (ii) A law enforcement agency determines and advises the licensee
+27 that providing a notice will impede a criminal or civil investi-
+28 gation or jeopardize homeland or national security. However, the
+29 licensee must provide the notice required pursuant to this sec-
+30 tion without unreasonable delay after the law enforcement agency
+31 determines that providing the notice will no longer impede the in-
+32 vestigation or jeopardize homeland or national security.
+33 (3) In the case of a cybersecurity event impacting a licensee's nonpub-
+34 lic information in a system maintained by a third-party service provider, of
+35 which the licensee has become aware, the licensee must treat such event as
+36 it would pursuant to subsection (1) of this section unless the third-party
+37 service provider provides the notice required pursuant to subsection (1) of
+38 this section to the director.
+39 (a) The computation of the licensee's deadlines shall begin on the day
+40 after the third-party service provider notifies the licensee of the cy-
+41 bersecurity event or the licensee otherwise has actual knowledge of the
+42 cybersecurity event, whichever is sooner.
+43 (b) Nothing in this chapter prevents or abrogates an agreement between
+44 a licensee and another licensee, a third-party service provider, or any
+45 other party to fulfill any of the investigation requirements imposed
+46 pursuant to section 41-6704, Idaho Code, or notice requirements imposed
+47 pursuant to this section.
+48 (4) As to notice of cybersecurity events of reinsurers to insurers:
+49 (a) In the case of a cybersecurity event involving nonpublic infor-
+50 mation that is used by or in the possession, custody, or control of a
+
+6
+1 licensee acting as an assuming insurer, including an assuming insurer
+2 domiciled in another state or jurisdiction, and such licensee does not
+3 have a direct contractual relationship with the affected consumers:
+4 (i) The assuming insurer must notify its affected ceding insurers
+5 and the insurance director of its state or jurisdiction of domi-
+6 cile within ten (10) business days of making the determination
+7 that a cybersecurity event has occurred; and
+8 (ii) The ceding insurers that have a direct contractual relation-
+9 ship with affected consumers must fulfill the consumer notifica-
+10 tion requirements imposed pursuant to subsection (2) of this sec-
+11 tion and any other notification requirements relating to a cyber-
+12 security event imposed pursuant to this section.
+13 (b) In the case of a cybersecurity event involving nonpublic informa-
+14 tion that is in the possession, custody, or control of a third-party
+15 service provider of a licensee that is an assuming insurer, including an
+16 assuming insurer domiciled in another state or jurisdiction:
+17 (i) The assuming insurer must notify its affected ceding insurers
+18 and the insurance director of its state or jurisdiction of domi-
+19 cile within ten (10) business days of receiving notice from its
+20 third-party service provider that a cybersecurity event has oc-
+21 curred; and
+22 (ii) The ceding insurers that have a direct contractual relation-
+23 ship with affected consumers must fulfill the consumer notifica-
+24 tion requirements imposed pursuant to subsection (3) of this sec-
+25 tion and any other notification requirements relating to a cyber-
+26 security event imposed pursuant to this section.
+27 (c) Any licensee acting as an assuming insurer shall not have any other
+28 notice obligations relating to a cybersecurity event or other data
+29 breach pursuant to this section.
+30 (5) In the case of a cybersecurity event involving nonpublic infor-
+31 mation that is in the possession, custody, or control of a licensee that
+32 is an insurer or its third-party service provider for which a consumer ac-
+33 cessed the insurer's services through an independent insurance producer,
+34 and for which consumer notice is required pursuant to subsection (2) of
+35 this section, the insurer must notify the producers of record of all af-
+36 fected consumers of the cybersecurity event in a reasonable manner and at
+37 a time reasonably concurrent with the time at which notice is provided to
+38 the affected consumers. The insurer is excused from this obligation for
+39 any producer or producer's representative who is not authorized by law or
+40 contract to sell, solicit, or negotiate on behalf of the insurer and in those
+41 instances in which the insurer does not have the current producer of record
+42 information for any individual consumer.
+43 41-6706. DIRECTOR'S POWER TO EXAMINE AND INVESTIGATE. (1) The direc-
+44 tor shall have the power to examine and investigate the affairs of any li-
+45 censee to determine whether the licensee has been or is engaged in any con-
+46 duct in violation of the provisions of this chapter. This power is in ad-
+47 dition to the powers of the director pursuant to chapter 2, title 41, Idaho
+48 Code. Any such investigation or examination shall be conducted pursuant to
+49 chapter 2, title 41, Idaho Code.
+
+7
+1 (2) If the director has reason to believe that a licensee has been or is
+2 engaged in conduct in this state that violates the provisions of this chap-
+3 ter, the director may take action that is necessary or appropriate to enforce
+4 the provisions of this chapter.
+5 41-6707. CONFIDENTIALITY AND SHARING OF DOCUMENTS, MATERIALS, AND
+6 OTHER INFORMATION. (1) Any documents, materials, or other information in
+7 the control or possession of the department that are furnished by a licensee
+8 or an employee or agent thereof acting on behalf of a licensee pursuant to
+9 section 41-6703 or 41-6705, Idaho Code, or that are obtained by the director
+10 in an investigation or examination pursuant to section 41-6706, Idaho Code,
+11 are confidential by law and privileged, are not subject to the Idaho public
+12 records act, chapter 1, title 74, Idaho Code, are not subject to subpoena,
+13 and are not subject to discovery or admissible as evidence in any private
+14 civil action. However, the director is authorized to use the documents, ma-
+15 terials, or other information in the furtherance of any regulatory or legal
+16 action brought as a part of the director's duties.
+17 (2) Neither the director nor any person who received documents, materi-
+18 als, or other information while acting under the authority of the director is
+19 permitted or required to testify in any private civil action concerning any
+20 confidential documents, materials, or information subject to the provisions
+21 of subsection (1) of this section.
+22 (3) In order to assist in the performance of the director's duties under
+23 this chapter, the director may:
+24 (a) Share documents, materials, or other information, including the
+25 confidential and privileged documents, materials, or information sub-
+26 ject to the provisions of subsection (1) of this section, excluding
+27 nonpublic information as defined in section 41-6702(8)(b) and (c),
+28 Idaho Code, with other state, federal, and international regulatory
+29 agencies, with the national association of insurance commissioners,
+30 its affiliates or subsidiaries, and with state, federal, and interna-
+31 tional law enforcement authorities, provided that the recipient agrees
+32 in writing to maintain the confidentiality and privileged status of the
+33 document, material, or other information;
+34 (b) Receive documents, materials, or information, including otherwise
+35 confidential and privileged documents, materials, or information, from
+36 the national association of insurance commissioners, its affiliates or
+37 subsidiaries and from regulatory and law enforcement officials of other
+38 foreign or domestic jurisdictions and must maintain as confidential or
+39 privileged any document, material, or information received with notice
+40 or the understanding that it is confidential or privileged under the
+41 laws of the jurisdiction that is the source of the document, material,
+42 or information;
+43 (c) Share documents, materials, or other information subject to the
+44 provisions of subsection (1) of this section, excluding nonpublic in-
+45 formation as defined in section 41-6702(8)(b) and (c), Idaho Code, with
+46 a third-party consultant or vendor, provided the consultant agrees in
+47 writing to maintain the confidentiality and privileged status of the
+48 documents, materials, or other information; and
+
+8
+1 (d) Enter into agreements governing sharing and use of information con-
+2 sistent with the provisions of this subsection.
+3 (4) No waiver of any applicable privilege or claim of confidentiality
+4 in the documents, materials, or information will occur as a result of dis-
+5 closure to the director pursuant to this section or as a result of sharing
+6 as authorized pursuant to subsection (3) of this section. This includes all
+7 protections from disclosure granted by the provisions of subsection (1) of
+8 this section, including from disclosure pursuant to the Idaho public records
+9 act, by subpoena, and through discovery or being admissible in evidence in
+10 any private civil action.
+11 (5) Nothing in this chapter prohibits the director from releasing fi-
+12 nal, adjudicated actions that are open to public inspection pursuant to the
+13 Idaho public records act or to a database or other clearinghouse service
+14 maintained by the national association of insurance commissioners or its
+15 affiliates or subsidiaries.
+16 41-6708. EXCEPTIONS. (1) The following exceptions shall apply to this
+17 chapter:
+18 (a) A licensee is exempt from the provisions of section 41-6703, Idaho
+19 Code, if:
+20 (i) The licensee has fewer than fifty (50) employees who work at
+21 least thirty (30) hours per week for the licensee;
+22 (ii) The licensee has less than five million dollars ($5,000,000)
+23 in gross annual revenue; or
+24 (iii) The licensee has less than ten million dollars ($10,000,000)
+25 in year-end total assets.
+26 (b) A licensee that is subject to the health insurance portability and
+27 accountability act of 1996 (HIPAA) and any amendments thereto, that has
+28 established and maintains a written information security program pur-
+29 suant to any statutes, rules, regulations, procedures, or guidelines
+30 established under HIPAA, and that maintains nonpublic information in
+31 the same manner as protected health information will be considered to
+32 meet the requirements of this chapter except for the director notifica-
+33 tion requirements pursuant to section 41-6705(1), Idaho Code.
+34 (c) An employee, agent, representative, or designee of a licensee who
+35 is also a licensee is exempt from the provisions of sections 41-6703,
+36 41-6704, and 41-6705, Idaho Code, and need not develop its own informa-
+37 tion security program to the extent that the employee, agent, represen-
+38 tative, or designee is covered by the information security program of
+39 the other licensee.
+40 (d) A licensee that is a financial institution or affiliated with a
+41 financial institution as defined in 15 U.S.C. 6809 that maintains an
+42 information security program in compliance with the interagency guide-
+43 lines establishing standards for safeguarding customer information as
+44 set forth pursuant to 15 U.S.C. 6801 and 6805, the Gramm-Leach-Bliley
+45 act, will be considered to meet the requirements of section 41-6703,
+46 Idaho Code, with respect to establishing an information security pro-
+47 gram, provided that the information security program includes the
+48 protection of nonpublic information and the licensee's information
+49 system, and provided that the licensee produces, upon request, docu-
+
+9
+1 mentation satisfactory to the director that independently validates
+2 the financial institution or affiliated financial institution's adop-
+3 tion of an information security program that satisfies the interagency
+4 guidelines.
+5 (e) A licensee that is in compliance with another jurisdiction's man-
+6 dated written insurance data security requirements that are at least as
+7 restrictive as this chapter will be considered to meet the requirements
+8 of section 41-6703, Idaho Code, with respect to establishing an infor-
+9 mation security program.
+10 (2) In the event that a licensee ceases to qualify for an exception,
+11 such licensee has one hundred eighty (180) days to comply with the provisions
+12 of this chapter.
+13 41-6709. NO PRIVATE CAUSE OF ACTION. The provisions of this chapter
+14 shall not create or imply a private cause of action for violation of its pro-
+15 visions or any rules promulgated pursuant to it.
+16 41-6710. PENALTIES. In the case of a violation of the provisions of
+17 this chapter, a licensee may be subject to civil penalties in accordance with
+18 section 41-117, Idaho Code.
+19 41-6711. EXCLUSIVE STATE STANDARDS AND REQUIREMENTS. Notwithstanding
+20 any other provision of law to the contrary, the provisions of this chapter
+21 and any rules adopted pursuant to this chapter constitute the exclusive
+22 state standards and requirements applicable to licensees regarding an in-
+23 formation security program, cybersecurity events, the security of nonpublic
+24 information, data security, investigation of cybersecurity events, notice
+25 of cybersecurity events, and notification to the director of cybersecurity
+26 events. The requirements of sections 28-51-104 through 28-51-107, Idaho
+27 Code, shall not apply to a licensee.
+28 41-6712. RULEMAKING AUTHORITY. The director may, subject to legisla-
+29 tive approval, promulgate such rules as are necessary to carry out the provi-
+30 sions of this chapter.
+31 41-6713. CONSIDERATIONS WHEN ADMINISTERING. The director shall con-
+32 sider the nature, scale, and complexity of licensees in administering the
+33 provisions of this chapter and adopting rules pursuant to this chapter.
+34 41-6714. EFFECTIVE DATE. This chapter shall take effect on July 1,
+35 2025, provided that a licensee has until July 1, 2026, to comply with the
+36 provisions of section 41-6703, Idaho Code.
+37 41-6715. SEVERABILITY. If any provision of this chapter or the appli-
+38 cation thereof to any person or circumstance is for any reason held to be in-
+39 valid, the remainder of the chapter and the application of such provision to
+40 other persons or circumstances will not be affected thereby.
+41 SECTION 2. An emergency existing therefor, which emergency is hereby
+42 declared to exist, this act shall be in full force and effect on and after
+43 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YBSCNAGTOTEIEDASYA;AGTE4,IOCYTEANOFANWCR6,TE4,IOC,TOPETT,TODET,TOPETTLSSLENSYP,TOPEFRANINOFYE,TOPEFRNEOFACYE,TEFRTEDSPRTOEEADIETEAFAL,TOPEFRCYADSGOFD,ADORI,TOPEE,TOPTTESLBENOPECEOFANFRAV,TOPEFRP,TOPETTSESSADRLBEE,TOPERGA,TOPEFSWNA,TOPEANEED,AOPES;ADDGANEYADPGAEDeItEdbyteLeofteSeofIN1.TtTe4,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr6,Te4,IoC,adtordasfR6EDASYA.STT.Tscrslbeknadmybecdae"eDaSyA.D.Asudintsc)"di"msanilkntoadsyteleadddtobenyadaetoheaotencinhdbyteleadisins)""msani,igbtntldtoa,p,i,b,c,adc,woisartoftsseadwencininalsp,c,orc)"ye"msanetrginudast,dno,ormeofaninsmorncinsdonshins.Tetm"yesnti)Teudanofednciniee,p,orkyisntaoa,r,oruta;o]
+[DELETED: )Anetwhrdtowhtelehsddtttcinadbyanudpnhsntbdorrdadhsbnrdord)""mstetnofdaioafmttrsinalwpyofagmgwtteueofapepsork)"nsyp"mstea,t,adplssttaleustoa,c,d,p,p,s,u,t,deo,oroenci)"ns"msadestofecinrsodfrtec,p,m,u,d,ordnofecnci,aswlasaysdsmshasilpsc,tesgadpebhees,adelcls)""msaypnwoisl,adtoorr,orwoisrdtobel,a,orrttoteielsoftssebtdsntieapggporarkrngpcdadldinaseontsseorapnagasanagirddinarseorj)"ci"msecinttisnyaeinadi)Bdinofal,tetgw,orudd,a,orueofw,wdcmlaeittoteb,o,orsyoel)Ayincgacrttbeofn,nrorircnbeudtoiyshc,incnwhayoe()ormeoftefgdae)Slsyn)Dslenrornrinc)Flatnrorctordtcdn)Aysyc,asc,orpdttwdpstoacsfla;o)Bcr;o)Ayinord,etaeorg,inayfmormdbyorddfmahhceproracrtsaprcradttrst)Tep,p,orfep,m,orbhorcnofaycroramroftec)Tepnofhhcetoayc;o)Ptfrtepnofhhcetoayc)""hstesemgaspdinsn4,I)"yaei"msayinttehsarebstobeislymeaet]
+[DELETED: eglpcf:f,s,orllgtryddm;ordstoteglpcttadtobemebyf,s,orlll)Frtepsoftss,alehsarebstobettinislymeaetoteglpciftelehstnsstod)Ttteinisoftetettisaetotlp;a)Wracrcndtttteinntbeaetoteglpca,ifs,ttshcsntdes)""msteseofIoo,wnudinactsgajnortnteseofI,ays,d,t,c,orpnofteUdSsofA)"ysep"msap,ntoeddasal,ttcswhaletom,p,oencinoroeispdastonnthispnofsstotel.INSYP.()Cewhteadcyoftel,teneadseoftel,igisueoftysep,adtyoftencinudbyteleorintsp,c,orc,ehlemtd,i,admnacewninsypdontelsrkatttcsa,t,adplssfrtepnofncidtelsins)Alemtrettayofistyssitaea,t,adpstoptadseteinssadncinttaeaet,orhdb,atysepcinisntaet,orhdb,atyseprwntemgoftssnifitisedadtdpepsorkynytoanmgtotencinisntwntepnoftetys)Asptofisinsyp,ehlemhawnitrepnddtopyr,adrrf,aycyetttcstec,i,orayofncinini,telsins,ortecgfyofayatoftelsbsoro)Ehlemtmnalrssgisiypmfrapdoffe()y.Toteetalehdasttremli,telemtdtteinadterlespdaduytoassha]
+[DELETED: .INOFACYE.()Ifalsttacyethsormyheo,shlrtyseprddtoatonbfoftellctapti)Dgtei,teleortysrddtoatonbfofteles,totee)Dewracyethso)Asteneadseoftecye)Iyayncinttmyhebnidiecye;a)Pmoroeremstoretesyoeinsscdintecyetinooptfruda,r,orueofncinintelsp,c,orc)Ifalelsttacyethsormyheodttidtelsncininasmmdbyatysep,teleslcetspdinsn()oftssnormereeocmaddttttetyseprhschs)Aleslmnrscgalcsfrapdofatltfe()ysfmtedeoftecye.NEOFACYE.()Ehlemtnytedrasp,intefmadmrpdbyted,asrypebtntlrtntn()bsdradnttacyethsodwne)Tsseistelsseofd,inteceofani,ortsseistelshes,inteceofap,astetsaeddinsn4,IoC,aecyethsareldofmyh)Aycrrgintss;o)Aymlptoftenlosoftel)Telerybstttencidisoftohdfy()ormecsrgisseadttteetise)Acyetigteleofwhnsrdtobepdtoaygtb,s,orayorsybypttoayseorfll;o)Acyettthsareldofmyh.Aycrrgintss;o.Aymlptoftenlosoftel]
+[DELETED: )Aleslnyehcrrgintssewtuedyaradnttacyethdttisrylytortinmlhmtottc.Etaspdinsn()oftss,aletsacyethsodagdaodorldbyarlemtpeanetoteororlroedaadbytecyetinpeoftenntdc)Teleslpeacyoftenesttocsted)Indgwracyetisrylortinmlhmtocsrgintssepotss,aleslatwhteceanotpninlepnwdeeursrc)Alemydypgnewtvgtepsoftssnife)Adyisnyinorfrteletoteaymsnytodeteseoftecyedretereiyofteins,telemtpetenerdpotssnwtuedyartelecstemsnytodeteseoftecyetadretereiyofteins;o)Alwetaydsadasteltpganewlieaclorclinorjehdornls.H,temtpetenerdpttotssnwtuedyartelwetasttpgtenewlnolrieteinorjehdornls)Inteceofacyetigalsncininasmmdbyatysep,ohtelehsbea,telemtttshetatwdpttosn()oftssnusteteprpstenerdpttosn()ossntoted)Tecnoftelsdsslbnontedrtetyseprnsteleoftecyetorteleoehsalkeoftye,wriss)Ngintscrpsorasanatbleadarl,atysep,orarpytoflayofteinrsittosn4,IoC,ornersittotss)Astoneofcyesofrstoi)Inteceofacyetigncinttisudbyorintep,c,orclof]
+[DELETED: eagasanagi,iganagidinarseorj,adshledsneadtclrpwhteadc)Teagirmtnyisadcgidteiedrofisseorjnofdewntn()bsdsofmgtedtacyethso;a)Tecgisttheadtclrpwhadcsmtfltecrnnrsidpttosn()oftssnadayornnrsrgtoacyetidpttotss)Inteceofacyetigncinttisintep,c,orclofateprofalettisanagi,igagirddinarseorj)Teagirmtnyisadcgidteiedrofisseorjnofdewntn()bsdsofrgnefmiyseprttacyethso;a)Tecgisttheadtclrpwhadcsmtfltecrnnrsidpttosn()oftssnadayornnrsrgtoacyetidpttotss)Ayleagasanagirslntheayoeosrgtoacyetorordhpttotss)Inteceofacyetigncinttisintep,c,orclofaletsaniroristyseprfrwhacradteisssthanitiepdfrwhcrneisrdpttosn()oss,teirmtnytepsofrdofaladcsoftecyetinaremradateryctwhteteatwhneispdteadc.Teirisedfmtsonfyprorpsrewoisntadbylwottos,s,orneonbfofteiradintsinwhteirdsnthetectprofrnfrayilc.DSPRTOEEADI.()Tedrslheteprtoeeadieteasofayletodewrtelehsbnorisedinayctinvnoftepsoftsc.Tsprisinantotepsoftedrpttocr2,te4,I.Ayshinorenslbecdpttr2,te4,IoC]
+[DELETED: )Iftedrhsrntobettalehsbnoridinctintssettvstepsoftsc,tedrmyteanttisnyoraetoeepsoftsc.CYADSGOFD,M,ARI.()Ayd,m,ororinieclorpnoftedtttaefdbyalraneeorattfagonbfofalepttn43or4,IoC,orttaeodbytednaninorenpttosn4,IoCeclbylwadp,aentsttoteIopsa,cr1,te7,IoC,aentsttosdaentsttodyoraeaseeinaypla.H,tedrisadtoueted,m,ororinintefeofayryorlnbtasaptoftedsd)Nrtedrnraypnwordd,m,ororinweagurteayoftedridorrdtotyinaypeclancgald,m,orinsttotepfsn()oftss)Inortoatintepeoftedsdsusc,tedrm)Sed,m,orori,igtladpdd,m,orinsttotepsofsn()oftss,ecinasddinsn4)ad(oC,whors,f,adilr,whtenlanofiecsasors,adwhs,f,adillweta,pdtttertanwgtomntecyadpdssoft,m,orori)Red,m,ori,igoladpdd,m,ori,fenlanofiec,isasosadfmryadlwetosofonordcjsadmtmnasclodayd,m,orinrdwhnrteugttitisclorpdurtsoftejnttisteseofted,mri)Sed,m,ororinsttotsofsn()oftss,egncinasddinsn4)ad(,IoC,wtyctorv,pdtectasigtomntecyadpdssoft,m,orori;a]
+[DELETED: )Erioasggsgadueofinctwhtepsoftss)Nowrofayaepeorcmofcnted,m,orinwlorasartofdetotedrpttotssnorasartofssadpttosn()oftss.Tsisasfmdegdbytepsofsn()oss,igfmdepttoteIopcr,bys,adthdyorbgaeineeiypecla)Ngintscrpstedrfmrgf,adasttaeontopcinpttotopcrsatortoadeororcesdbytenlanofiecsorisors.E.()Tefgesslaytot)Aleisetfmtepsofsn4,I,i)Telehsfrtnfy()eswowkatty()hsprwkfrtel)Telehslstnfemnds(ngsalr;o)Telehslstntnmnds(nydtla)Alettissttotehhiepyayatof16()adayast,tthdadmsawninsypmpttoays,r,r,p,orgdurH,adttmsnciniesemraspdhhinwlbecdtttersoftscretfrtedrnnrspttosn4,IoC)Ane,a,r,ordeofalewsaoaleisetfmtepsofss4,ad4,IoC,adndntdpisoninsypmtoteettttee,a,r,ordeiscdbyteinsypmoeorl)Alettisaflinoradwhlinasddin15U.69ttmsansypmincewhteiygsegssfrsgcrinatfhptto15U.61ad6,teG,wlbecdtomttersofsn4oC,whrttoeganinsyp,pdttteinsypmistnofncinadtelsi,adpdtttelep,unr,d]
+[DELETED: nsytotedrttiyveflinoradflisanofaninsypmttsstei)Alettisincewharjsmdwniedasyrsttaeatltaeastscrwlbecdtomtterfsn4,IoC,whrttoeganinsyp)Inteetttalecstoqyfranehlehsoehdey()dstocywhtepftsc.NOPECEOFA.Tepsoftsclntceoriyapeceofanfrvnofispsorayrspdpttoi.P.Inteceofavnoftepsosc,alemybesttoclpsinaewn4,IoC.EESESSADR.Nyorpnoflwtotec,tepsoftscdayrsadpttotscrceteeessadrsaetolsrganinsyp,cye,tesyofn,das,inofcye,nfcye,adnntotedrofc.Tersofss24th2,I,slntaytoal.RGA.Tedrm,sttolea,peshrsasaenytocyottepsoftsc.CSWNA.Tedrslcrten,s,adcyoflsinagtsoftscradagrspttotsc.EED.TscrslteetonJy1,pdttalehsulJy1,2,tocywhtsofsn4,IoC.S.Ifaypnoftscrorteantftoaypnorceisfrayrnhdtobei,terroftecradteanofshpntrpsorcswlntbeadtN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

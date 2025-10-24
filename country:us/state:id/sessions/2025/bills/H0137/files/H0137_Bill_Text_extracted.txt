@@ -1,0 +1,311 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 137
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO UNIFORM CONTROLLED SUBSTANCES; AMENDING SECTION 37-2711, IDAHO
+3 CODE, TO PROVIDE THAT MIFEPRISTONE AND MISOPROSTOL SHALL BE SCHEDULE IV
+4 DRUGS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 37-2711, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 37-2711. SCHEDULE IV. (a) Schedule IV shall consist of the drugs and
+9 other substances, by whatever official name, common or usual name, chemical
+10 name, or brand name designated, listed in this section.
+11 (b) Narcotic drugs. Unless specifically excepted or unless listed in
+12 another schedule, any material, compound, mixture, or preparation contain-
+13 ing any of the following narcotic drugs, or their salts calculated as the
+14 free anhydrous base or alkaloid, in limited quantities as set forth below:
+15 (1) No more than 1 milligram of difenoxin and not less than 25 micro-
+16 grams of atropine sulfate per dosage unit;
+17 (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1, 2-diphenyl-
+18 3-methyl-2-propionoxybutane);
+19 (3) 2- [(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol (in-
+20 cluding tramadol), including its salts, optical and geometric isomers,
+21 and salts of isomers.
+22 (c) Depressants. Unless specifically excepted or unless listed in an-
+23 other schedule, any material, compound, mixture, or preparation which con-
+24 tains any quantity of the following substances, including its salts, iso-
+25 mers, and salts of isomers whenever the existence of such salts, isomers, and
+26 salts of isomers is possible within the specific chemical designation:
+27 (1) Alfaxalone 5[alpha]-pregnan-3[alpha]-ol-11,20-dione;
+28 (2) Alprazolam;
+29 (3) Barbital;
+30 (4) Bromazepam;
+31 (5) Camazepam;
+32 (6) Carisoprodol;
+33 (7) Chloral betaine;
+34 (8) Chloral hydrate;
+35 (9) Chlordiazepoxide;
+36 (10) Clobazam;
+37 (11) Clonazepam;
+38 (12) Clorazepate;
+39 (13) Clotiazepam;
+40 (14) Cloxazolam;
+41 (15) Daridorexant;
+42 (16) Delorazepam;
+2
+1 (17) Diazepam;
+2 (18) Dichloralphenazone;
+3 (19) Estazolam;
+4 (20) Ethchlorvynol;
+5 (21) Ethinamate;
+6 (22) Ethyl loflazepate;
+7 (23) Fludiazepam;
+8 (24) Flurazepam;
+9 (25) Fospropofol;
+10 (26) Halazepam;
+11 (27) Haloxazolam;
+12 (28) Ketazolam;
+13 (29) Lemborexant;
+14 (30) Loprazolam;
+15 (31) Lorazepam;
+16 (32) Lormetazepam;
+17 (33) Mebutamate;
+18 (34) Medazepam;
+19 (35) Meprobamate;
+20 (36) Methohexital;
+21 (37) Methylphenobarbital (mephobarbital);
+22 (38) Midazolam;
+23 (39) Nimetazepam;
+24 (40) Nitrazepam;
+25 (41) Nordiazepam;
+26 (42) Oxazepam;
+27 (43) Oxazolam;
+28 (44) Paraldehyde;
+29 (45) Petrichloral;
+30 (46) Phenobarbital;
+31 (47) Pinazepam;
+32 (48) Prazepam;
+33 (49) Quazepam;
+34 (50) Remimazolam;
+35 (51) Serdexmethylpheniate;
+36 (52) Suvorexant;
+37 (53) Temazepam;
+38 (54) Tetrazepam;
+39 (55) Triazolam;
+40 (56) Zaleplon;
+41 (57) Zolpidem;
+42 (58) Zopiclone.
+43 (d) Fenfluramine -- Any material, compound, mixture, or preparation
+44 which contains any quantity of the following substances, including its
+45 salts, isomers (whether optical, position, or geometric), and salts of such
+46 isomers, whenever the existence of such salts, isomers, and salts of isomers
+47 is possible:
+48 (1) Dexfenfluramine;
+49 (2) Fenfluramine.
+3
+1 (e) Stimulants. Unless specifically excepted or unless listed in an-
+2 other schedule, any material, compound, mixture, or preparation which con-
+3 tains any quantity of the following substances having a stimulant effect on
+4 the central nervous system, including its salts, isomers (whether optical,
+5 position, or geometric), and salts of such isomers whenever the existence
+6 of such salts, isomers, and salts of isomers is possible within the specific
+7 chemical designation:
+8 (1) Cathine ((+)-norpseudoephedrine);
+9 (2) Diethylpropion;
+10 (3) Fencamfamin;
+11 (4) Fenproporex;
+12 (5) Lorcaserin;
+13 (6) Mazindol;
+14 (7) Mefenorex;
+15 (8) Modafinil;
+16 (9) Pemoline (including organometallic complexes and chelates
+17 thereof);
+18 (10) Phentermine;
+19 (11) Pipradrol;
+20 (12) Sibutramine;
+21 (13) SPA ((-)-1-dimethylamino-1,2-diphenylethane);
+22 (14) Solriamfetol(2-amino-3-phenylpropyl carbamata; benzenepropanol,
+23 beta-amino-, carbamate(ester)).
+24 (f) Other substances. Unless specifically excepted, or unless listed
+25 in another schedule, any material, compound, mixture or preparation which
+26 contains any quantity of the following substances, including its salts:
+27 (1) Brexanolone (3A-hydroxy-5A-pregnan-20-one), allopregnanolone;
+28 (2) Butorphanol (including its optical isomers);
+29 (3) Eluxadoline (5-[[[(2S)-2-amino-3-[4-aminocarbonyl)-2,6-
+30 dimethylphenyl]-1-oxopropyl][(1S)-1-(4-phenyl-1H-imidazol-2-
+31 yl)ethyl]amino]methyl]-2-methoxybenzoic acid) (including its optical
+32 isomers) and its salts, isomers, and salts of isomers;
+33 (4) Mifepristone;
+34 (5) Misoprostol;
+35 (4) (6) Pentazocine.
+36 (g) The board may except, by rule, any compound, mixture, or prepara-
+37 tion containing any depressant substance listed in subsection (c) of this
+38 section from the application of all or any part of this act if the compound,
+39 mixture, or preparation contains one (1) or more active medicinal ingredi-
+40 ents not having a depressant effect on the central nervous system, and if the
+41 admixtures are included therein in combinations, quantity, proportion, or
+42 concentration that vitiate the potential for abuse of the substances which
+43 have a depressant effect on the central nervous system.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOUMCDS;AGSN3,I,TOPETTMEADMLSLBESEI;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.SEI.()SeIVslctoftedsars,bywroln,cnoruln,c,orbdned,ldintss)Ncd.Ussyedorusldirs,aym,c,m,orpncgayoftefgncd,ortrsscdasteasbeora,inldqsasstfhb)Nometn1mmofdnadntlstn25msofaeseprdeu)De(,2)2-[l(gt,igiss,oladgcidssofi)D.Ussyedorusldinars,aym,c,m,orpnwhcsayqyoftefgs,igiss,i,adssofiswrteeeofshs,i,asofisispewntesccld)Ae5)A)B)B)C)C)Clb)Clh)C)C)C)C)C)C)D)D]
+[DELETED: )D)D)E)E)E)Ell)F)F)F)H)H)K)L)L)L)L)M)M)M)M)Ml()M)N)N)N)O)O)P)P)P)P)P)Q)R)S)S)T)T)T)Z)Z)Z)Fe--Aym,c,m,orphcsayqyoftefgs,igi,is(ro,p,org,adssofs,wrteeeofshs,i,adssofisp)D)F]
+[DELETED: )S.Ussyedorusldinars,aym,c,m,orpnwhcsayqyoftefgsshgastetoeclnss,igiss,is(ro,org,adssofshiswrteefshs,i,adssofisispewntesld)Ce()D)F)F)L)M)M)M)Pe(goccsadc)P)P)S)SA()Slc;b,c)Ors.Ussye,oruslnars,aym,c,meorpnwsayqyoftefgs,igiss)Be(,a)Bl(gisoli)Ee(ca)(giso)adiss,i,adssofi)M)M)()P)Tebdmye,byr,ayc,m,orpncgaydtseldinsn()oftnfmteanofalorayptoftsatiftec,orpncsoe()ormeaemlisnthgadtetonteclnss,adiftsaeidtninc,q,p,onttveteplfraeoftessweadtetonteclnssN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 137
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO UNIFORM CONTROLLED SUBSTANCES; AMENDING SECTION 37-2711, IDAHO
+3 CODE, TO PROVIDE THAT MIFEPRISTONE AND MISOPROSTOL SHALL BE SCHEDULE IV
+4 DRUGS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 37-2711, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 37-2711. SCHEDULE IV. (a) Schedule IV shall consist of the drugs and
+9 other substances, by whatever official name, common or usual name, chemical
+10 name, or brand name designated, listed in this section.
+11 (b) Narcotic drugs. Unless specifically excepted or unless listed in
+12 another schedule, any material, compound, mixture, or preparation contain-
+13 ing any of the following narcotic drugs, or their salts calculated as the
+14 free anhydrous base or alkaloid, in limited quantities as set forth below:
+15 (1) No more than 1 milligram of difenoxin and not less than 25 micro-
+16 grams of atropine sulfate per dosage unit;
+17 (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1, 2-diphenyl-
+18 3-methyl-2-propionoxybutane);
+19 (3) 2- [(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol (in-
+20 cluding tramadol), including its salts, optical and geometric isomers,
+21 and salts of isomers.
+22 (c) Depressants. Unless specifically excepted or unless listed in an-
+23 other schedule, any material, compound, mixture, or preparation which con-
+24 tains any quantity of the following substances, including its salts, iso-
+25 mers, and salts of isomers whenever the existence of such salts, isomers, and
+26 salts of isomers is possible within the specific chemical designation:
+27 (1) Alfaxalone 5[alpha]-pregnan-3[alpha]-ol-11,20-dione;
+28 (2) Alprazolam;
+29 (3) Barbital;
+30 (4) Bromazepam;
+31 (5) Camazepam;
+32 (6) Carisoprodol;
+33 (7) Chloral betaine;
+34 (8) Chloral hydrate;
+35 (9) Chlordiazepoxide;
+36 (10) Clobazam;
+37 (11) Clonazepam;
+38 (12) Clorazepate;
+39 (13) Clotiazepam;
+40 (14) Cloxazolam;
+41 (15) Daridorexant;
+42 (16) Delorazepam;
+
+2
+1 (17) Diazepam;
+2 (18) Dichloralphenazone;
+3 (19) Estazolam;
+4 (20) Ethchlorvynol;
+5 (21) Ethinamate;
+6 (22) Ethyl loflazepate;
+7 (23) Fludiazepam;
+8 (24) Flurazepam;
+9 (25) Fospropofol;
+10 (26) Halazepam;
+11 (27) Haloxazolam;
+12 (28) Ketazolam;
+13 (29) Lemborexant;
+14 (30) Loprazolam;
+15 (31) Lorazepam;
+16 (32) Lormetazepam;
+17 (33) Mebutamate;
+18 (34) Medazepam;
+19 (35) Meprobamate;
+20 (36) Methohexital;
+21 (37) Methylphenobarbital (mephobarbital);
+22 (38) Midazolam;
+23 (39) Nimetazepam;
+24 (40) Nitrazepam;
+25 (41) Nordiazepam;
+26 (42) Oxazepam;
+27 (43) Oxazolam;
+28 (44) Paraldehyde;
+29 (45) Petrichloral;
+30 (46) Phenobarbital;
+31 (47) Pinazepam;
+32 (48) Prazepam;
+33 (49) Quazepam;
+34 (50) Remimazolam;
+35 (51) Serdexmethylpheniate;
+36 (52) Suvorexant;
+37 (53) Temazepam;
+38 (54) Tetrazepam;
+39 (55) Triazolam;
+40 (56) Zaleplon;
+41 (57) Zolpidem;
+42 (58) Zopiclone.
+43 (d) Fenfluramine -- Any material, compound, mixture, or preparation
+44 which contains any quantity of the following substances, including its
+45 salts, isomers (whether optical, position, or geometric), and salts of such
+46 isomers, whenever the existence of such salts, isomers, and salts of isomers
+47 is possible:
+48 (1) Dexfenfluramine;
+49 (2) Fenfluramine.
+
+3
+1 (e) Stimulants. Unless specifically excepted or unless listed in an-
+2 other schedule, any material, compound, mixture, or preparation which con-
+3 tains any quantity of the following substances having a stimulant effect on
+4 the central nervous system, including its salts, isomers (whether optical,
+5 position, or geometric), and salts of such isomers whenever the existence
+6 of such salts, isomers, and salts of isomers is possible within the specific
+7 chemical designation:
+8 (1) Cathine ((+)-norpseudoephedrine);
+9 (2) Diethylpropion;
+10 (3) Fencamfamin;
+11 (4) Fenproporex;
+12 (5) Lorcaserin;
+13 (6) Mazindol;
+14 (7) Mefenorex;
+15 (8) Modafinil;
+16 (9) Pemoline (including organometallic complexes and chelates
+17 thereof);
+18 (10) Phentermine;
+19 (11) Pipradrol;
+20 (12) Sibutramine;
+21 (13) SPA ((-)-1-dimethylamino-1,2-diphenylethane);
+22 (14) Solriamfetol(2-amino-3-phenylpropyl carbamata; benzenepropanol,
+23 beta-amino-, carbamate(ester)).
+24 (f) Other substances. Unless specifically excepted, or unless listed
+25 in another schedule, any material, compound, mixture or preparation which
+26 contains any quantity of the following substances, including its salts:
+27 (1) Brexanolone (3A-hydroxy-5A-pregnan-20-one), allopregnanolone;
+28 (2) Butorphanol (including its optical isomers);
+29 (3) Eluxadoline (5-[[[(2S)-2-amino-3-[4-aminocarbonyl)-2,6-
+30 dimethylphenyl]-1-oxopropyl][(1S)-1-(4-phenyl-1H-imidazol-2-
+31 yl)ethyl]amino]methyl]-2-methoxybenzoic acid) (including its optical
+32 isomers) and its salts, isomers, and salts of isomers;
+33 (4) Mifepristone;
+34 (5) Misoprostol;
+35 (4) (6) Pentazocine.
+36 (g) The board may except, by rule, any compound, mixture, or prepara-
+37 tion containing any depressant substance listed in subsection (c) of this
+38 section from the application of all or any part of this act if the compound,
+39 mixture, or preparation contains one (1) or more active medicinal ingredi-
+40 ents not having a depressant effect on the central nervous system, and if the
+41 admixtures are included therein in combinations, quantity, proportion, or
+42 concentration that vitiate the potential for abuse of the substances which
+43 have a depressant effect on the central nervous system.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YHHADWECNAGTOUMCDS;AGSN3,I,TOPETTMEADMLSLBESEI;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn3,IoC,b,adteseishdtordasf.SEI.()SeIVslctoftedsars,bywroln,cnoruln,c,orbdned,ldintss)Ncd.Ussyedorusldirs,aym,c,m,orpncgayoftefgncd,ortrsscdasteasbeora,inldqsasstfhb)Nometn1mmofdnadntlstn25msofaeseprdeu)De(,2)2-[l(gt,igiss,oladgcidssofi)D.Ussyedorusldinars,aym,c,m,orpnwhcsayqyoftefgs,igiss,i,adssofiswrteeeofshs,i,asofisispewntesccld)Ae5)A)B)B)C)C)Clb)Clh)C)C)C)C)C)C)D)D]
+[DELETED: )D)D)E)E)E)Ell)F)F)F)H)H)K)L)L)L)L)M)M)M)M)Ml()M)N)N)N)O)O)P)P)P)P)P)Q)R)S)S)T)T)T)Z)Z)Z)Fe--Aym,c,m,orphcsayqyoftefgs,igi,is(ro,p,org,adssofs,wrteeeofshs,i,adssofisp)D)F]
+[DELETED: )S.Ussyedorusldinars,aym,c,m,orpnwhcsayqyoftefgsshgastetoeclnss,igiss,is(ro,org,adssofshiswrteefshs,i,adssofisispewntesld)Ce()D)F)F)L)M)M)M)Pe(goccsadc)P)P)S)SA()Slc;b,c)Ors.Ussye,oruslnars,aym,c,meorpnwsayqyoftefgs,igiss)Be(,a)Bl(gisoli)Ee(ca)(giso)adiss,i,adssofi)M)M)()P)Tebdmye,byr,ayc,m,orpncgaydtseldinsn()oftnfmteanofalorayptoftsatiftec,orpncsoe()ormeaemlisnthgadtetonteclnss,adiftsaeidtninc,q,p,onttveteplfraeoftessweadtetonteclnssN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

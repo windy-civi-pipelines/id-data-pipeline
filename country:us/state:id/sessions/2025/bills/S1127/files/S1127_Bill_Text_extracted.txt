@@ -1,0 +1,469 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE SENATE
+SENATE BILL NO. 1127
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE USE OF GOLD AND SILVER COINS AND BULLION; PROVIDING LEGISLA-
+3 TIVE FINDINGS AND PURPOSE; AMENDING TITLE 67, IDAHO CODE, BY THE ADDI-
+4 TION OF A NEW CHAPTER 98, TITLE 67, IDAHO CODE, TO DEFINE TERMS, TO PRO-
+5 VIDE APPLICABILITY, TO PROVIDE FOR DOLLAR VALUES, TO PROVIDE FOR THE DE-
+6 TERMINATION OF CERTAIN EXCHANGE RATIOS BY THE STATE CONTROLLER, TO PRO-
+7 VIDE FOR LEGAL TENDER, TO PROVIDE FOR THE ENFORCEMENT OF GOLD AND SILVER
+8 CLAUSES, TO PROVIDE FOR THE PAYMENT OF CERTAIN TAXES AND FEES IN GOLD AND
+9 SILVER, TO PROVIDE FOR REQUIRED PAYMENTS IN GOLD AND SILVER, TO PROVIDE
+10 FOR A LIMITATION ON TAXES AND FEES TO CERTAIN EXCHANGES, TO PROVIDE FOR A
+11 PROHIBITION ON SEIZURE OF GOLD AND SILVER, AND TO PROVIDE FOR A CIVIL AC-
+12 TION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. LEGISLATIVE FINDINGS AND PURPOSE. (1) The Legislature finds
+15 and declares that this act is necessary and proper to:
+16 (a) Bring into compliance with the United States Constitution the poli-
+17 cies, practices, and procedures of this state with respect to the use of
+18 gold and silver as legal tender in the payment of debt;
+19 (b) Preserve, protect, and promote the sovereignty and independence
+20 of this state with respect to the performance of essential governmental
+21 functions that require the state to tender payment of debt;
+22 (c) Preserve, protect, and promote the economic security, safety,
+23 health, and welfare of the people of this state; and
+24 (d) Protect this state and its citizens in the acquisition and posses-
+25 sion of gold and silver and their use as legal tender in the payment of
+26 debt.
+27 (2) The purpose of this act is to recognize this state's constitutional
+28 duty, power, and right under Section 10, Article I of the Constitution of
+29 the United States and the Tenth Amendment to the Constitution of the United
+30 States to make gold and silver legal tender in the payment of debt and to se-
+31 cure the right of citizens of this state under the Ninth and Tenth Amendments
+32 to the Constitution of the United States to tender gold and silver in the pay-
+33 ment of debt.
+34 SECTION 2. That Title 67, Idaho Code, be, and the same is hereby amended
+35 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+36 ter 98, Title 67, Idaho Code, and to read as follows:
+37 CHAPTER 98
+38 USE OF GOLD AND SILVER COINS AND BULLION
+39 67-9801. DEFINITIONS. As used in this chapter:
+2
+1 (1) "Base-metallic coin" means a coin composed of base metals that has
+2 been minted and assigned a face value in dollars pursuant to a law enacted by
+3 the United States congress.
+4 (2) "Gold bullion" means gold bullion from any source that a reliable
+5 agency has assayed and certified as containing gold of a specific weight and
+6 fineness.
+7 (3) "Gold clause" means a provision included in or relating to a con-
+8 tract, obligation, or other debt instrument that vests in an obligee the
+9 right to require the obligor to pay, deliver, or tender a number of gold
+10 coins, an amount of gold bullion, or both.
+11 (4) "Gold coin of the United States" means a gold coin that has been
+12 minted and assigned a face value in dollars pursuant to a law enacted by the
+13 United States congress.
+14 (5) "Gold coins" include gold coins of the United States and gold coins
+15 of other countries.
+16 (6) "Gold coins of other countries" include:
+17 (a) The Austrian one hundred (100) corona and twenty (20) corona gold
+18 coins and the Austrian four (4) and one (1) ducat gold coins;
+19 (b) The British sovereign gold coin;
+20 (c) The Canadian one (1) ounce, one-half (.5) ounce, one-quarter (.25)
+21 ounce, and one-tenth (.1) ounce maple leaf gold coins;
+22 (d) The French twenty (20) franc gold coin;
+23 (e) The Swiss twenty (20) franc gold coin;
+24 (f) The Mexican fifty (50), twenty (20), ten (10), five (5), two and
+25 one-half (2.5), and two (2) peso gold coins; and
+26 (g) The South African two (2) ounce, one (1) ounce, one-half (.5) ounce,
+27 one-quarter (.25) ounce, and one-tenth (.1) ounce krugerrand gold
+28 coins.
+29 (7) "Paper currency" means paper currency that has been emitted and as-
+30 signed a face value in dollars pursuant to a law enacted by the United States
+31 congress.
+32 (8) "Silver bullion" means silver bullion from any source that a re-
+33 liable agency has assayed and certified as containing silver of a specific
+34 weight and fineness.
+35 (9) "Silver clause" means a provision included in or relating to a
+36 contract, obligation, or other debt instrument that vests in an obligee the
+37 right to require the obligor to pay, deliver, or tender a number of silver
+38 coins, an amount of silver bullion, or both.
+39 (10) "Silver coin of the United States" means a silver coin that has been
+40 minted and assigned a face value in dollars pursuant to a law enacted by the
+41 United States congress.
+42 (11) "Silver coins" include silver coins of the United States and silver
+43 coins of other countries.
+44 (12) "Silver coins of other countries" include the Canadian one (1)
+45 ounce maple leaf silver coin.
+46 67-9802. APPLICABILITY. The provisions of this chapter shall not ap-
+47 ply to gold or silver coins, base-metallic coins, paper currency, or a con-
+48 tract, obligation, or other debt instrument that provides for the payment
+49 or delivery of gold or silver coins, base-metallic coins, or paper currency
+3
+1 if the economic value of the coins or currency in the market for collecting
+2 coins and currency is at least twenty percent (20%) more than the value of the
+3 coins or currency prescribed by section 67-9803, Idaho Code.
+4 67-9803. DOLLAR VALUES. For purposes of this chapter:
+5 (1) The value in dollars of a gold or silver coin of the United States is
+6 the face value of the coin.
+7 (2) The value in dollars of a silver coin for which the United States
+8 congress has not fixed a value by statute is calculated by dividing the
+9 weight of silver in troy grains that the coin contains by three hundred sev-
+10 enty-one and one-quarter (371.25).
+11 (3) The value in dollars of a gold coin for which the United States con-
+12 gress has not fixed a value by statute is calculated by dividing the weight of
+13 gold in troy grains that the coin contains by three hundred seventy-one and
+14 one-quarter (371.25) and multiplying the result by the rate of exchange be-
+15 tween silver and gold in the free market.
+16 (4) The value in dollars of an amount of silver bullion is calculated by
+17 dividing the weight of the amount of bullion in troy grains by three hundred
+18 seventy-one and one-quarter (371.25) and multiplying the result by the ratio
+19 at which silver bullion exchanges against silver coin in the free market.
+20 (5) The value in dollars of an amount of gold bullion is calculated by
+21 dividing the weight of the amount of bullion in troy grains by three hundred
+22 seventy-one and one-quarter (371.25), multiplying the result by the rate of
+23 exchange between silver and gold in the free market, and then multiplying
+24 that result by the ratio at which gold bullion exchanges against gold coin in
+25 the free market.
+26 (6) The value in dollars of a base-metallic coin is the face value of the
+27 coin.
+28 (7) The value in dollars of paper currency is the face value of the cur-
+29 rency.
+30 67-9804. DETERMINATION OF CERTAIN EXCHANGE RATIOS BY STATE CON-
+31 TROLLER. (1) At the beginning of the business day in the mountain time zone,
+32 the state controller shall determine and make available to the public on the
+33 controller's website the ratios in the free market at which silver exchanges
+34 against gold, silver bullion exchanges against silver coin, and gold bullion
+35 exchanges against gold coin.
+36 (2) The controller shall archive for at least ten (10) years the de-
+37 terminations made pursuant to subsection (1) of this section and make them
+38 available to the public free of charge.
+39 (3) In a judicial or administrative proceeding in this state, a deter-
+40 mination made pursuant to subsection (1) of this section is presumed to be
+41 correct but may be rebutted by clear and convincing evidence.
+42 67-9805. LEGAL TENDER. For purposes of state law, the following are
+43 legal tender and may not be treated as property other than money:
+44 (1) Gold and silver coins;
+45 (2) Gold and silver bullion;
+46 (3) Base-metallic coins; and
+47 (4) Paper currency.
+4
+1 67-9806. ENFORCEMENT OF GOLD AND SILVER CLAUSES. An officer or em-
+2 ployee of this state who is required or authorized to execute, enforce, enter
+3 a judgment, decree, or ruling with regard to, or otherwise put into effect a
+4 gold or silver clause in a contract, obligation, or other debt instrument:
+5 (1) Shall, as applicable:
+6 (a) Deliver or cause to be delivered to the obligee the type and amount
+7 of gold or silver specified in the gold or silver clause;
+8 (b) Order specific performance of the gold or silver clause by the
+9 obligor's payment to the obligee of the type and amount of gold or silver
+10 specified in the gold or silver clause; or
+11 (c) Enter any other judgment, decree, or ruling that is necessary and
+12 proper to compel the obligor to deliver to the obligee the type and
+13 amount of gold or silver specified in the gold or silver clause; and
+14 (2) May not allow a gold or silver clause to be satisfied by the payment,
+15 delivery, or tender of anything other than the type and amount of gold or sil-
+16 ver specified in the gold or silver clause.
+17 67-9807. PAYMENTS OF CERTAIN TAXES AND FEES IN GOLD AND SILVER. If the
+18 amount of a tax, charge, assessment, or fee on a transaction or activity is
+19 required by state law to be calculated based on the medium of payment used or
+20 involved in the transaction or activity and the medium of payment is gold or
+21 silver coins or gold or silver bullion:
+22 (1) The amount of the tax, charge, assessment, or fee must be calculated
+23 using the values of gold and silver coins and gold and silver bullion pre-
+24 scribed by section 67-9803, Idaho Code; and
+25 (2) The tax, charge, assessment, or fee must be paid in the same medium
+26 of payment used or involved in the transaction or activity.
+27 67-9808. REQUIRED PAYMENTS IN GOLD AND SILVER. A state officer or em-
+28 ployee may not require a person to tender or accept payment of a debt in gold
+29 or silver coins or gold or silver bullion unless the person has been adju-
+30 dicated by a court of competent jurisdiction of this state to be required to
+31 tender or accept gold or silver coins or gold or silver bullion and the person
+32 is:
+33 (1) A party to a contract or other obligation that contains a gold or
+34 silver clause that applies to the person; or
+35 (2) Required by state law to pay a tax, charge, assessment, fee, fine,
+36 or penalty in gold or silver coins or gold or silver bullion.
+37 67-9809. LIMITATION ON TAXES AND FEES TO CERTAIN EXCHANGES. A state
+38 officer or employee may not assess, demand, levy, collect, or enter a judg-
+39 ment or other order that authorizes the collection of a tax, charge, assess-
+40 ment, fee, or penalty on a transaction or activity if the transaction or ac-
+41 tivity involves no more than an exchange of:
+42 (1) Paper currency for gold or silver coins;
+43 (2) Paper currency for gold or silver bullion;
+44 (3) Base-metallic coins for gold or silver coins;
+45 (4) Base-metallic coins for gold or silver bullion;
+46 (5) Gold or silver coins for gold or silver coins;
+47 (6) Gold or silver coins for gold or silver bullion; or
+5
+1 (7) Gold bullion for silver bullion.
+2 67-9810. PROHIBITION ON SEIZURE OF GOLD AND SILVER. A person may not,
+3 with or without the payment of just compensation, seize, take possession of,
+4 assert dominion or control over, or demand the surrender or other transfer of
+5 gold or silver coins or gold or silver bullion owned by or in the possession
+6 of this state, a citizen of this state, a resident of this state, or a person
+7 located in this state unless a court of competent jurisdiction, after notice
+8 and hearing, enters a final judgment, ruling, decree, or other order requir-
+9 ing the delivery of gold or silver coins or gold or silver bullion in satis-
+10 faction of:
+11 (1) A contract or other obligation that contains a gold or silver clause
+12 that provides for payment in gold or silver coins or gold or silver bullion;
+13 (2) The payment of damages assessed in gold or silver coins or gold or
+14 silver bullion as part of a judicial proceeding; or
+15 (3) The payment of a tax, charge, assessment, fee, fine, or penalty de-
+16 termined to be lawfully payable only by gold or silver coins or gold or silver
+17 bullion.
+18 67-9811. CIVIL ACTION. A person who is injured or aggrieved by an in-
+19 tentional or negligent failure to enforce the provisions of this chapter by a
+20 state officer or employee may bring a civil action against the state officer
+21 or employee in a district court. In an action under this section, the court
+22 may:
+23 (1) Grant an injunction;
+24 (2) Issue a writ of mandamus or prohibition;
+25 (3) Award compensatory or punitive damages; or
+26 (4) Award other appropriate relief.
+27 SECTION 3. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOTEUEOFGDADSRCSADB;PGLEFSADP;AGTE6,IOC,BYTEANOFANWCR9,TE6,IOC,TODET,TOPEA,TOPEFRDRV,TOPEFRTEDNOFCNEERSBYTESEC,TOPEFRLLT,TOPEFRTEETOFGDADS,TOPEFRTEPTOFCNTSADFSINGDA,TOPEFRRDPSINGDADS,TOPRALNONTSADFSTOCNE,TOPEFRNONSEOFGDADS,ADTOPEFRACLA;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEFSADP.()TeLefddstttsatisnyadprt)BgiocewhteUdSsCntep,p,adpsoftssewhrttoteueodadsraslltrinteptofd)P,p,adpetesyadiftssewhrttotepeofelgsttretesetotrptofd)P,p,adpeteecs,s,adweoftepeoftss;a)Pttsseadiscsinteanadpnofgdadsradtrueaslltrintepto)Tepeoftsatistoretsssc,p,adrturSn1,AeIofteCnoeUdSsadteThAttoteCnofteUstomegdadsrlltrinteptofdtadtosetertofcsoftsseurteNhadThAoteCnofteUdSstotrgdadsrinteptofdN2.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr9,Te6,IoC,adtordasfR9EOFGDADSRCSADB.D.Asudintsc]
+[DELETED: )"cc"msacncdofbemstthnmdadadafeveindspttoalwedbeUdSsc)"db"msgdbnfmaysettaryhsadadcdascggdofascwta)"dc"msapnidinorrgtoac,o,orordtitttvsinanoetttoreteortop,d,ortranrofg,anatofgdb,orb)"dcnofteUdS"msagdcntthsbdadadafeveindspttoalwedbytdSsc)"dc"iegdcsofteUdSsadgdcforc)"dcsoforc"i)TeAnoehd()caadty()cagsadteAnfr()adoe()dtgdc)TeBhsngdc)TeCnoe()o,of()o,or(,adoh()oemelfgdc)TeFhty()fcgdc)TeSsty()fcgdc)TeMnfy(,ty(,tn(,fe(,toaf(,adto()pogdc;a)TeShAnto()o,oe()o,of()or()o,adoh()oekdg)"rc"msprcytthsbnedadadafeveindspttoalwedbyteUdS)"rb"mssrbnfmaysettareayhsadadcdascgsrofastadf)"rc"msapnidinorrgto,o,orordtitttvsinanoetttoreteortop,d,ortranrofs,anatofsrb,orb)"rcnofteUdS"msasrcntthsbdadadafeveindspttoalwedbytdSsc)"rc"iesrcsofteUdSsadssoforc)"rcsoforc"ieteCnoe(emelfsrc.A.Tepsoftscrslntaytogdorsrc,bcc,prc,orac,o,orordtitttpsfrteprdyofgdorsrc,bcc,orprc]
+[DELETED: fteecveoftecsorcyintemtfrcsadcyisatlttypt()metnteveoftsorcypdbysn6,IoC.DRV.Frpsoftsc)TeveindsofagdorsrcnofteUdSsiefeveoftec)TeveindsofasrcnfrwhteUdSshsntfdavebyseiscdbydgttofsrintygstttecncsbytehdseador()TeveindsofagdcnfrwhteUdSscshsntfdavebyseiscdbydgtewtodintygstttecncsbytehdsear()admgtertbytereofeebnsradgdintefem)Teveindsofanatofsrbniscdbgtewtofteatofbnintygsbyteheador()admgtertbytertwhsrbnesatsrcnintefem)Teveindsofanatofgdbniscdbgtewtofteatofbnintygsbyteheador(,mgtertbytereoebnsradgdintefem,adtnmtrtbyteroatwhgdbnesatgdcniefem)Teveindsofabccnistefeveoft)Teveindsofprcyistefeveoftec.DNOFCNEERSBYSEC.()Attebgoftebsdyintemntezesecrsldeadmeaetotepcontswetersintefemtatwhsretg,srbnesatsrc,adgdbsatgdc)Tecrslaefratlttn()ystedsmepttosn()oftssnadmetetotepcfeofc)Inajloraepgintss,adnmepttosn()oftssnispdtobtbtmyberdbycradcge.LLT.Frpsofsel,tefgaltradmyntbetdaspyortnm)Gdadsrc)Gdadsrb)Bcc;a)Prc]
+[DELETED: .ETOFGDADSRC.Anororeeoftssewoisrdoradtoe,e,ej,d,orrgwhrdt,oroeptioetdorsrceinac,o,orordti)S,asa)Drorcetobeddtoteoeteteadafgdorsrsdintegdorsrc)Orscpeoftegdorsrcebytspttoteoeofteteadatofgdorsdintegdorsrc;o)Erayorj,d,orrgttisnyartoclteortodrtoteoeteteatofgdorsrsdintegdorsrc;a)Myntawagdorsrcetobesdbytep,ortrofagortnteteadatofgdorsrsdintegdorsrc.PSOFCNTSADFSINGDADS.Ifttofat,c,a,orfeonatnorayidbyselwtobecdbdontemmofptudodintetnorayadtemmofptisgdorcsorgdorsrb)Teatoftet,c,a,orfemtbecgtevsofgdadsrcsadgdadsrbnpdbysn6,IoC;a)Tet,c,a,orfemtbepdintesemfptudoridintetnora.RDPSINGDADS.Aseororeemyntreapntotroratptofadtingrsrcsorgdorsrbnustepnhsbnadbyactofctjnoftssetoberdtroratgdorsrcsorgdorsrbnadtep)Apytoactororonttcsagdorcettastotep;o)Rdbyselwtopyat,c,a,f,frpyingdorsrcsorgdorsrb.LNONTSADFSTOCNE.Asroreemynta,d,l,c,orerajtorororttastecnofat,c,a,f,orpyonatnorayiftetnorayisnometnaneeo)Prcyfrgdorsrc)Prcyfrgdorsrb)Bccsfrgdorsrc)Bccsfrgdorsrb)Gdorsrcsfrgdorsrc)Gdorsrcsfrgdorsrb;o]
+[DELETED: )Gdbnfrsrb.PNONSEOFGDADS.Apnmynhorwtteptofjtc,s,tepnotdnorclo,orddtesrorortrodorsrcsorgdorsrbnodbyorintepftss,acnoftss,artoftss,orapdintsseusactofctj,arndh,esaflj,r,d,orororrgtedyofgdorsrcsorgdorsrbninsno)Actororonttcsagdorsrctpsfrptingdorsrcsorgdorsrb)Teptofdsadingdorsrcsorgdorbnasptofajlp;o)Teptofat,c,a,f,f,orpyddtobelypeoybygdorsrcsorgdors.CLA.Apnwoisidoradbyanilorntfetoeetepsoftscrbyeororeemybgaclanatteseoreeinadtc.Inananurtss,tec)Gtani)Ieawtofmsorp)Adcyorped;o)AdoraerN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE SENATE
+SENATE BILL NO. 1127
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE USE OF GOLD AND SILVER COINS AND BULLION; PROVIDING LEGISLA-
+3 TIVE FINDINGS AND PURPOSE; AMENDING TITLE 67, IDAHO CODE, BY THE ADDI-
+4 TION OF A NEW CHAPTER 98, TITLE 67, IDAHO CODE, TO DEFINE TERMS, TO PRO-
+5 VIDE APPLICABILITY, TO PROVIDE FOR DOLLAR VALUES, TO PROVIDE FOR THE DE-
+6 TERMINATION OF CERTAIN EXCHANGE RATIOS BY THE STATE CONTROLLER, TO PRO-
+7 VIDE FOR LEGAL TENDER, TO PROVIDE FOR THE ENFORCEMENT OF GOLD AND SILVER
+8 CLAUSES, TO PROVIDE FOR THE PAYMENT OF CERTAIN TAXES AND FEES IN GOLD AND
+9 SILVER, TO PROVIDE FOR REQUIRED PAYMENTS IN GOLD AND SILVER, TO PROVIDE
+10 FOR A LIMITATION ON TAXES AND FEES TO CERTAIN EXCHANGES, TO PROVIDE FOR A
+11 PROHIBITION ON SEIZURE OF GOLD AND SILVER, AND TO PROVIDE FOR A CIVIL AC-
+12 TION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. LEGISLATIVE FINDINGS AND PURPOSE. (1) The Legislature finds
+15 and declares that this act is necessary and proper to:
+16 (a) Bring into compliance with the United States Constitution the poli-
+17 cies, practices, and procedures of this state with respect to the use of
+18 gold and silver as legal tender in the payment of debt;
+19 (b) Preserve, protect, and promote the sovereignty and independence
+20 of this state with respect to the performance of essential governmental
+21 functions that require the state to tender payment of debt;
+22 (c) Preserve, protect, and promote the economic security, safety,
+23 health, and welfare of the people of this state; and
+24 (d) Protect this state and its citizens in the acquisition and posses-
+25 sion of gold and silver and their use as legal tender in the payment of
+26 debt.
+27 (2) The purpose of this act is to recognize this state's constitutional
+28 duty, power, and right under Section 10, Article I of the Constitution of
+29 the United States and the Tenth Amendment to the Constitution of the United
+30 States to make gold and silver legal tender in the payment of debt and to se-
+31 cure the right of citizens of this state under the Ninth and Tenth Amendments
+32 to the Constitution of the United States to tender gold and silver in the pay-
+33 ment of debt.
+34 SECTION 2. That Title 67, Idaho Code, be, and the same is hereby amended
+35 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+36 ter 98, Title 67, Idaho Code, and to read as follows:
+37 CHAPTER 98
+38 USE OF GOLD AND SILVER COINS AND BULLION
+39 67-9801. DEFINITIONS. As used in this chapter:
+
+2
+1 (1) "Base-metallic coin" means a coin composed of base metals that has
+2 been minted and assigned a face value in dollars pursuant to a law enacted by
+3 the United States congress.
+4 (2) "Gold bullion" means gold bullion from any source that a reliable
+5 agency has assayed and certified as containing gold of a specific weight and
+6 fineness.
+7 (3) "Gold clause" means a provision included in or relating to a con-
+8 tract, obligation, or other debt instrument that vests in an obligee the
+9 right to require the obligor to pay, deliver, or tender a number of gold
+10 coins, an amount of gold bullion, or both.
+11 (4) "Gold coin of the United States" means a gold coin that has been
+12 minted and assigned a face value in dollars pursuant to a law enacted by the
+13 United States congress.
+14 (5) "Gold coins" include gold coins of the United States and gold coins
+15 of other countries.
+16 (6) "Gold coins of other countries" include:
+17 (a) The Austrian one hundred (100) corona and twenty (20) corona gold
+18 coins and the Austrian four (4) and one (1) ducat gold coins;
+19 (b) The British sovereign gold coin;
+20 (c) The Canadian one (1) ounce, one-half (.5) ounce, one-quarter (.25)
+21 ounce, and one-tenth (.1) ounce maple leaf gold coins;
+22 (d) The French twenty (20) franc gold coin;
+23 (e) The Swiss twenty (20) franc gold coin;
+24 (f) The Mexican fifty (50), twenty (20), ten (10), five (5), two and
+25 one-half (2.5), and two (2) peso gold coins; and
+26 (g) The South African two (2) ounce, one (1) ounce, one-half (.5) ounce,
+27 one-quarter (.25) ounce, and one-tenth (.1) ounce krugerrand gold
+28 coins.
+29 (7) "Paper currency" means paper currency that has been emitted and as-
+30 signed a face value in dollars pursuant to a law enacted by the United States
+31 congress.
+32 (8) "Silver bullion" means silver bullion from any source that a re-
+33 liable agency has assayed and certified as containing silver of a specific
+34 weight and fineness.
+35 (9) "Silver clause" means a provision included in or relating to a
+36 contract, obligation, or other debt instrument that vests in an obligee the
+37 right to require the obligor to pay, deliver, or tender a number of silver
+38 coins, an amount of silver bullion, or both.
+39 (10) "Silver coin of the United States" means a silver coin that has been
+40 minted and assigned a face value in dollars pursuant to a law enacted by the
+41 United States congress.
+42 (11) "Silver coins" include silver coins of the United States and silver
+43 coins of other countries.
+44 (12) "Silver coins of other countries" include the Canadian one (1)
+45 ounce maple leaf silver coin.
+46 67-9802. APPLICABILITY. The provisions of this chapter shall not ap-
+47 ply to gold or silver coins, base-metallic coins, paper currency, or a con-
+48 tract, obligation, or other debt instrument that provides for the payment
+49 or delivery of gold or silver coins, base-metallic coins, or paper currency
+
+3
+1 if the economic value of the coins or currency in the market for collecting
+2 coins and currency is at least twenty percent (20%) more than the value of the
+3 coins or currency prescribed by section 67-9803, Idaho Code.
+4 67-9803. DOLLAR VALUES. For purposes of this chapter:
+5 (1) The value in dollars of a gold or silver coin of the United States is
+6 the face value of the coin.
+7 (2) The value in dollars of a silver coin for which the United States
+8 congress has not fixed a value by statute is calculated by dividing the
+9 weight of silver in troy grains that the coin contains by three hundred sev-
+10 enty-one and one-quarter (371.25).
+11 (3) The value in dollars of a gold coin for which the United States con-
+12 gress has not fixed a value by statute is calculated by dividing the weight of
+13 gold in troy grains that the coin contains by three hundred seventy-one and
+14 one-quarter (371.25) and multiplying the result by the rate of exchange be-
+15 tween silver and gold in the free market.
+16 (4) The value in dollars of an amount of silver bullion is calculated by
+17 dividing the weight of the amount of bullion in troy grains by three hundred
+18 seventy-one and one-quarter (371.25) and multiplying the result by the ratio
+19 at which silver bullion exchanges against silver coin in the free market.
+20 (5) The value in dollars of an amount of gold bullion is calculated by
+21 dividing the weight of the amount of bullion in troy grains by three hundred
+22 seventy-one and one-quarter (371.25), multiplying the result by the rate of
+23 exchange between silver and gold in the free market, and then multiplying
+24 that result by the ratio at which gold bullion exchanges against gold coin in
+25 the free market.
+26 (6) The value in dollars of a base-metallic coin is the face value of the
+27 coin.
+28 (7) The value in dollars of paper currency is the face value of the cur-
+29 rency.
+30 67-9804. DETERMINATION OF CERTAIN EXCHANGE RATIOS BY STATE CON-
+31 TROLLER. (1) At the beginning of the business day in the mountain time zone,
+32 the state controller shall determine and make available to the public on the
+33 controller's website the ratios in the free market at which silver exchanges
+34 against gold, silver bullion exchanges against silver coin, and gold bullion
+35 exchanges against gold coin.
+36 (2) The controller shall archive for at least ten (10) years the de-
+37 terminations made pursuant to subsection (1) of this section and make them
+38 available to the public free of charge.
+39 (3) In a judicial or administrative proceeding in this state, a deter-
+40 mination made pursuant to subsection (1) of this section is presumed to be
+41 correct but may be rebutted by clear and convincing evidence.
+42 67-9805. LEGAL TENDER. For purposes of state law, the following are
+43 legal tender and may not be treated as property other than money:
+44 (1) Gold and silver coins;
+45 (2) Gold and silver bullion;
+46 (3) Base-metallic coins; and
+47 (4) Paper currency.
+
+4
+1 67-9806. ENFORCEMENT OF GOLD AND SILVER CLAUSES. An officer or em-
+2 ployee of this state who is required or authorized to execute, enforce, enter
+3 a judgment, decree, or ruling with regard to, or otherwise put into effect a
+4 gold or silver clause in a contract, obligation, or other debt instrument:
+5 (1) Shall, as applicable:
+6 (a) Deliver or cause to be delivered to the obligee the type and amount
+7 of gold or silver specified in the gold or silver clause;
+8 (b) Order specific performance of the gold or silver clause by the
+9 obligor's payment to the obligee of the type and amount of gold or silver
+10 specified in the gold or silver clause; or
+11 (c) Enter any other judgment, decree, or ruling that is necessary and
+12 proper to compel the obligor to deliver to the obligee the type and
+13 amount of gold or silver specified in the gold or silver clause; and
+14 (2) May not allow a gold or silver clause to be satisfied by the payment,
+15 delivery, or tender of anything other than the type and amount of gold or sil-
+16 ver specified in the gold or silver clause.
+17 67-9807. PAYMENTS OF CERTAIN TAXES AND FEES IN GOLD AND SILVER. If the
+18 amount of a tax, charge, assessment, or fee on a transaction or activity is
+19 required by state law to be calculated based on the medium of payment used or
+20 involved in the transaction or activity and the medium of payment is gold or
+21 silver coins or gold or silver bullion:
+22 (1) The amount of the tax, charge, assessment, or fee must be calculated
+23 using the values of gold and silver coins and gold and silver bullion pre-
+24 scribed by section 67-9803, Idaho Code; and
+25 (2) The tax, charge, assessment, or fee must be paid in the same medium
+26 of payment used or involved in the transaction or activity.
+27 67-9808. REQUIRED PAYMENTS IN GOLD AND SILVER. A state officer or em-
+28 ployee may not require a person to tender or accept payment of a debt in gold
+29 or silver coins or gold or silver bullion unless the person has been adju-
+30 dicated by a court of competent jurisdiction of this state to be required to
+31 tender or accept gold or silver coins or gold or silver bullion and the person
+32 is:
+33 (1) A party to a contract or other obligation that contains a gold or
+34 silver clause that applies to the person; or
+35 (2) Required by state law to pay a tax, charge, assessment, fee, fine,
+36 or penalty in gold or silver coins or gold or silver bullion.
+37 67-9809. LIMITATION ON TAXES AND FEES TO CERTAIN EXCHANGES. A state
+38 officer or employee may not assess, demand, levy, collect, or enter a judg-
+39 ment or other order that authorizes the collection of a tax, charge, assess-
+40 ment, fee, or penalty on a transaction or activity if the transaction or ac-
+41 tivity involves no more than an exchange of:
+42 (1) Paper currency for gold or silver coins;
+43 (2) Paper currency for gold or silver bullion;
+44 (3) Base-metallic coins for gold or silver coins;
+45 (4) Base-metallic coins for gold or silver bullion;
+46 (5) Gold or silver coins for gold or silver coins;
+47 (6) Gold or silver coins for gold or silver bullion; or
+
+5
+1 (7) Gold bullion for silver bullion.
+2 67-9810. PROHIBITION ON SEIZURE OF GOLD AND SILVER. A person may not,
+3 with or without the payment of just compensation, seize, take possession of,
+4 assert dominion or control over, or demand the surrender or other transfer of
+5 gold or silver coins or gold or silver bullion owned by or in the possession
+6 of this state, a citizen of this state, a resident of this state, or a person
+7 located in this state unless a court of competent jurisdiction, after notice
+8 and hearing, enters a final judgment, ruling, decree, or other order requir-
+9 ing the delivery of gold or silver coins or gold or silver bullion in satis-
+10 faction of:
+11 (1) A contract or other obligation that contains a gold or silver clause
+12 that provides for payment in gold or silver coins or gold or silver bullion;
+13 (2) The payment of damages assessed in gold or silver coins or gold or
+14 silver bullion as part of a judicial proceeding; or
+15 (3) The payment of a tax, charge, assessment, fee, fine, or penalty de-
+16 termined to be lawfully payable only by gold or silver coins or gold or silver
+17 bullion.
+18 67-9811. CIVIL ACTION. A person who is injured or aggrieved by an in-
+19 tentional or negligent failure to enforce the provisions of this chapter by a
+20 state officer or employee may bring a civil action against the state officer
+21 or employee in a district court. In an action under this section, the court
+22 may:
+23 (1) Grant an injunction;
+24 (2) Issue a writ of mandamus or prohibition;
+25 (3) Award compensatory or punitive damages; or
+26 (4) Award other appropriate relief.
+27 SECTION 3. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTESEBLN.1YSEASCNAGTOTEUEOFGDADSRCSADB;PGLEFSADP;AGTE6,IOC,BYTEANOFANWCR9,TE6,IOC,TODET,TOPEA,TOPEFRDRV,TOPEFRTEDNOFCNEERSBYTESEC,TOPEFRLLT,TOPEFRTEETOFGDADS,TOPEFRTEPTOFCNTSADFSINGDA,TOPEFRRDPSINGDADS,TOPRALNONTSADFSTOCNE,TOPEFRNONSEOFGDADS,ADTOPEFRACLA;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.LEFSADP.()TeLefddstttsatisnyadprt)BgiocewhteUdSsCntep,p,adpsoftssewhrttoteueodadsraslltrinteptofd)P,p,adpetesyadiftssewhrttotepeofelgsttretesetotrptofd)P,p,adpeteecs,s,adweoftepeoftss;a)Pttsseadiscsinteanadpnofgdadsradtrueaslltrintepto)Tepeoftsatistoretsssc,p,adrturSn1,AeIofteCnoeUdSsadteThAttoteCnofteUstomegdadsrlltrinteptofdtadtosetertofcsoftsseurteNhadThAoteCnofteUdSstotrgdadsrinteptofdN2.TtTe6,IoC,b,adteseishyayteantoofaNWC,tobeknadddasCr9,Te6,IoC,adtordasfR9EOFGDADSRCSADB.D.Asudintsc]
+[DELETED: )"cc"msacncdofbemstthnmdadadafeveindspttoalwedbeUdSsc)"db"msgdbnfmaysettaryhsadadcdascggdofascwta)"dc"msapnidinorrgtoac,o,orordtitttvsinanoetttoreteortop,d,ortranrofg,anatofgdb,orb)"dcnofteUdS"msagdcntthsbdadadafeveindspttoalwedbytdSsc)"dc"iegdcsofteUdSsadgdcforc)"dcsoforc"i)TeAnoehd()caadty()cagsadteAnfr()adoe()dtgdc)TeBhsngdc)TeCnoe()o,of()o,or(,adoh()oemelfgdc)TeFhty()fcgdc)TeSsty()fcgdc)TeMnfy(,ty(,tn(,fe(,toaf(,adto()pogdc;a)TeShAnto()o,oe()o,of()or()o,adoh()oekdg)"rc"msprcytthsbnedadadafeveindspttoalwedbyteUdS)"rb"mssrbnfmaysettareayhsadadcdascgsrofastadf)"rc"msapnidinorrgto,o,orordtitttvsinanoetttoreteortop,d,ortranrofs,anatofsrb,orb)"rcnofteUdS"msasrcntthsbdadadafeveindspttoalwedbytdSsc)"rc"iesrcsofteUdSsadssoforc)"rcsoforc"ieteCnoe(emelfsrc.A.Tepsoftscrslntaytogdorsrc,bcc,prc,orac,o,orordtitttpsfrteprdyofgdorsrc,bcc,orprc]
+[DELETED: fteecveoftecsorcyintemtfrcsadcyisatlttypt()metnteveoftsorcypdbysn6,IoC.DRV.Frpsoftsc)TeveindsofagdorsrcnofteUdSsiefeveoftec)TeveindsofasrcnfrwhteUdSshsntfdavebyseiscdbydgttofsrintygstttecncsbytehdseador()TeveindsofagdcnfrwhteUdSscshsntfdavebyseiscdbydgtewtodintygstttecncsbytehdsear()admgtertbytereofeebnsradgdintefem)Teveindsofanatofsrbniscdbgtewtofteatofbnintygsbyteheador()admgtertbytertwhsrbnesatsrcnintefem)Teveindsofanatofgdbniscdbgtewtofteatofbnintygsbyteheador(,mgtertbytereoebnsradgdintefem,adtnmtrtbyteroatwhgdbnesatgdcniefem)Teveindsofabccnistefeveoft)Teveindsofprcyistefeveoftec.DNOFCNEERSBYSEC.()Attebgoftebsdyintemntezesecrsldeadmeaetotepcontswetersintefemtatwhsretg,srbnesatsrc,adgdbsatgdc)Tecrslaefratlttn()ystedsmepttosn()oftssnadmetetotepcfeofc)Inajloraepgintss,adnmepttosn()oftssnispdtobtbtmyberdbycradcge.LLT.Frpsofsel,tefgaltradmyntbetdaspyortnm)Gdadsrc)Gdadsrb)Bcc;a)Prc]
+[DELETED: .ETOFGDADSRC.Anororeeoftssewoisrdoradtoe,e,ej,d,orrgwhrdt,oroeptioetdorsrceinac,o,orordti)S,asa)Drorcetobeddtoteoeteteadafgdorsrsdintegdorsrc)Orscpeoftegdorsrcebytspttoteoeofteteadatofgdorsdintegdorsrc;o)Erayorj,d,orrgttisnyartoclteortodrtoteoeteteatofgdorsrsdintegdorsrc;a)Myntawagdorsrcetobesdbytep,ortrofagortnteteadatofgdorsrsdintegdorsrc.PSOFCNTSADFSINGDADS.Ifttofat,c,a,orfeonatnorayidbyselwtobecdbdontemmofptudodintetnorayadtemmofptisgdorcsorgdorsrb)Teatoftet,c,a,orfemtbecgtevsofgdadsrcsadgdadsrbnpdbysn6,IoC;a)Tet,c,a,orfemtbepdintesemfptudoridintetnora.RDPSINGDADS.Aseororeemyntreapntotroratptofadtingrsrcsorgdorsrbnustepnhsbnadbyactofctjnoftssetoberdtroratgdorsrcsorgdorsrbnadtep)Apytoactororonttcsagdorcettastotep;o)Rdbyselwtopyat,c,a,f,frpyingdorsrcsorgdorsrb.LNONTSADFSTOCNE.Asroreemynta,d,l,c,orerajtorororttastecnofat,c,a,f,orpyonatnorayiftetnorayisnometnaneeo)Prcyfrgdorsrc)Prcyfrgdorsrb)Bccsfrgdorsrc)Bccsfrgdorsrb)Gdorsrcsfrgdorsrc)Gdorsrcsfrgdorsrb;o]
+[DELETED: )Gdbnfrsrb.PNONSEOFGDADS.Apnmynhorwtteptofjtc,s,tepnotdnorclo,orddtesrorortrodorsrcsorgdorsrbnodbyorintepftss,acnoftss,artoftss,orapdintsseusactofctj,arndh,esaflj,r,d,orororrgtedyofgdorsrcsorgdorsrbninsno)Actororonttcsagdorsrctpsfrptingdorsrcsorgdorsrb)Teptofdsadingdorsrcsorgdorbnasptofajlp;o)Teptofat,c,a,f,f,orpyddtobelypeoybygdorsrcsorgdors.CLA.Apnwoisidoradbyanilorntfetoeetepsoftscrbyeororeemybgaclanatteseoreeinadtc.Inananurtss,tec)Gtani)Ieawtofmsorp)Adcyorped;o)AdoraerN3.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]

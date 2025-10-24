@@ -1,0 +1,334 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 155
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO STRATEGIC FACILITIES; AMENDING CHAPTER 70, TITLE 18, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 18-7045, IDAHO CODE, TO PROVIDE FOR
+4 THE CRIME OF IMPEDING A STRATEGIC FACILITY, TO PROVIDE FOR THE CRIME OF
+5 STRATEGIC FACILITY TRESPASS, TO PROVIDE PENALTIES, TO PROVIDE EXCEP-
+6 TIONS, AND TO DEFINE TERMS; AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 70, Title 18, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 18-7045, Idaho Code, and to read as follows:
+11 18-7045. STRATEGIC FACILITIES -- IMPEDING -- TRESPASSING.
+12 (1)(a) A person is guilty of impeding a strategic facility if the person
+13 knowingly and intentionally impedes the operations of a strategic fa-
+14 cility in a manner not otherwise authorized by law. Impeding a strate-
+15 gic facility shall be:
+16 (i) A misdemeanor punishable by imprisonment in the county jail
+17 for no more than six (6) months, a fine not to exceed ten thou-
+18 sand dollars ($10,000), or both, if the impediment causes damage
+19 or economic loss, the cost of which is less than ten thousand dol-
+20 lars ($10,000); or
+21 (ii) A felony punishable by imprisonment in the state peniten-
+22 tiary for no more than two (2) years, a fine not to exceed one
+23 hundred thousand dollars ($100,000), or both, if the impediment
+24 causes damage or economic loss, the cost of which is ten thousand
+25 dollars ($10,000) or more.
+26 (b) Fines imposed pursuant to the provisions of this subsection shall
+27 meet but not exceed the cost of the damage caused or economic loss.
+28 (2) A person is guilty of strategic facility trespass if the person
+29 knowingly and intentionally enters or remains in a strategic facility or a
+30 construction site of a strategic facility without permission of the owner
+31 of the property or after notice is given to depart or not to trespass. For
+32 purposes of this subsection, notice is given by:
+33 (a) Personal communication to the person by the owner or legal occu-
+34 pant, or his agent, or by a peace officer;
+35 (b) Posting of no trespassing or no access signs reasonably likely to
+36 come to the attention of intruders; or
+37 (c) The presence of fencing or other physical barrier designed to ex-
+38 clude intruders or unauthorized individuals.
+39 (3) The penalties for strategic facility trespass shall be as follows:
+40 (a) Any person who pleads guilty to or is found guilty of a violation
+41 of subsection (2) of this section for the first time shall be guilty of
+42 a misdemeanor punishable by imprisonment in the county jail for no more
+2
+1 than six (6) months, a fine not to exceed one thousand dollars ($1,000),
+2 or both; and
+3 (b) Any person who pleads guilty to or is found guilty of a violation of
+4 subsection (2) of this section for a second time within five (5) years
+5 shall be guilty of a felony punishable by imprisonment in the state pen-
+6 itentiary for no more than ten (10) years, a fine not to exceed twenty
+7 thousand dollars ($20,000), or both.
+8 (4) If a series of impediments, damages, or losses results from a sin-
+9 gle continuing course of conduct, as described pursuant to this section, a
+10 single violation of subsection (1) or (2) of this section may be charged and
+11 penalties imposed based on the aggregate cost of the damage or loss.
+12 (5) No person shall be guilty of a violation of subsection (1) or (2) of
+13 this section if such person:
+14 (a) Owns or legally occupies the land on which the facility is located
+15 and is engaged in conduct not inconsistent with the operation of the
+16 strategic facility or that is authorized by an agreement;
+17 (b) Is lawfully engaged in any legal or regulatory process to which the
+18 strategic facility is subject; or
+19 (c) Is engaged in conduct arising out of a bona fide dispute about ac-
+20 cess to the land on which the facility is located. The exception pur-
+21 suant to this paragraph shall only apply for a violation of subsection
+22 (2) of this section.
+23 (6) An individual or organization that aids, abets, solicits, compen-
+24 sates, hires, conspires with, commands, or procures a person to commit the
+25 crime of impeding a strategic facility or strategic facility trespass is
+26 subject to a fine not to exceed one hundred thousand dollars ($100,000),
+27 provided that the individual or organization acted with the intent that the
+28 crime of impeding a strategic facility or strategic facility trespass be
+29 completed. A strategic facility may maintain a civil action against an indi-
+30 vidual or organization for damages suffered as a consequence of a violation
+31 of this section, including damages for lost profits, whether or not any fine
+32 is imposed pursuant to this subsection.
+33 (7) Nothing in this section shall be construed to apply to public demon-
+34 strations or other expressions of free speech or free association on public
+35 land to the extent that such activity is protected under the constitution of
+36 the United States or the constitution of the state of Idaho.
+37 (8) As used in this section:
+38 (a) "Strategic facility" means:
+39 (i) A petroleum or alumina refinery;
+40 (ii) An electrical power generating facility, substation,
+41 switching station, electrical control center, or electric power
+42 lines and associated equipment infrastructure;
+43 (iii) A chemical, polymer, or rubber manufacturing facility;
+44 (iv) A water intake structure, water treatment facility, wastewa-
+45 ter treatment plant, or pump station;
+46 (v) A natural gas compressor station;
+47 (vi) A liquid natural gas terminal or storage facility;
+48 (vii) Wireline and wireless telecommunications infrastructure;
+49 (viii) A port, railroad switching yard, trucking terminal, or
+50 other freight transportation facility;
+3
+1 (ix) A gas processing plant, including a plant used in the pro-
+2 cessing, treatment, or fractionation of natural gas or natural gas
+3 liquids;
+4 (x) A transmission facility used by a federally licensed radio or
+5 television station;
+6 (xi) A steelmaking facility that uses an electric arc furnace to
+7 make steel;
+8 (xii) A facility identified and regulated by the United States
+9 department of homeland security chemical facility anti-terrorism
+10 standards (CFATS) program;
+11 (xiii) A dam or hydropower facility that is regulated by the state
+12 or federal government;
+13 (xiv) A natural gas distribution utility facility, including but
+14 not limited to pipeline interconnections, a city gate or town
+15 border station, metering station, below-ground or above-ground
+16 pipeline or piping, and truck loading or offloading facility, a
+17 natural gas storage facility, a natural gas transmission facil-
+18 ity, or a natural gas utility distribution facility;
+19 (xv) A crude oil or refined products storage and distribution fa-
+20 cility, including but not limited to pipeline interconnections,
+21 a valve site, pump station, metering station, below-ground or
+22 above-ground pipeline or piping, and truck loading or offloading
+23 facility;
+24 (xvi) Military facilities, including national guard facilities
+25 and equipment storage areas where non-military personnel are pro-
+26 hibited;
+27 (xvii) State and federal department of transportation facilities
+28 and locations near or on roads or highways where the public is pro-
+29 hibited;
+30 (xviii) Any above-ground portion of an oil, gas, hazardous liq-
+31 uid, or chemical pipeline, tank, or other storage facility that is
+32 enclosed by a fence, other physical barrier, or is clearly marked
+33 with signs prohibiting trespassing that are obviously designed to
+34 exclude intruders;
+35 (xix) A commercial service airport as defined by the federal avia-
+36 tion administration;
+37 (xx) Mining facilities, including extraction sites and refine-
+38 ment facilities; and
+39 (xxi) Seed and crop storage sites and facilities intended to hold
+40 raw food or feed products before planting, following harvest, or
+41 before processing, not including commercial food facilities gen-
+42 erally open and available to the public.
+43 (b) "Impede" means:
+44 (i) To block the operation of or prevent legal access to a strate-
+45 gic facility or the construction of a permitted strategic facil-
+46 ity; or
+47 (ii) To damage, destroy, deface, or tamper with the equipment of a
+48 strategic facility or a permitted strategic facility.
+4
+1 (c) "Organization" means a partnership, corporation, joint stock com-
+2 pany, or any other association or entity, public or private, other than
+3 an individual.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after its
+6 passage and approval.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YJ,RSADANCNAGTOSCF;AGCR7,TE1,IOCYTEANOFANWSN1,IOC,TOPEFECEOFIGASCF,TOPEFRTECEOCFYT,TOPEP,TOPEE,ADTODET;ADDGANEeItEdbyteLeofteSeofIN1.TtCr7,Te1,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn1,IoC,adtordasf.SCFS--IG--T)Apnisgyofigascfyiftepyadiyisteosofascfyinamrntoeadbyl.Igascfyslb)Amrpebyitintecyjrnometnsx()m,afenttoedtntdds(,orb,ifteitcsdrecl,tectofwhislstntntdds(;o)Afypebyitintesepyfrnometnto()y,afenttoedodtdds(,orb,ifteisdeorecl,tectofwhistnts()orm)Fsidpttotepsoftssnstbtntedtectoftedecdorecl)Apnisgyofscfytsiftepyadiyesorrsinascfyornseofascfywtpnofteoftepyorarneisgntodtornttot.Fsoftss,neisgnb)Plcntotepnbyteororllo,orhsa,orbyapeo)Pgofnotgornoasssrylytetoteanofi;o)Tepeoffgororplbrddtoeeisorudi)Tepsfrscfytsslbeasf)Aypnwopsgytoorisfdgyofavfsn()oftssnfrteftteslbegyomrpebyitintecyjlfrnom]
+[DELETED: nsx()m,afenttoedoetdds(rb;a)Aypnwopsgytoorisfdgyofavnon()oftssnfrasdtewnfe()ylbegyofafypebyitintesepyfrnometntn()y,afenttoedtdds(,orb)Ifassofi,d,orlsrsfmasecgceofc,asddpttotss,evnofsn()or()oftssnmybecdasidbdonteaectoftedeorl)Nopnslbegyofavnofsn()or()ossnifshp)Osorlyosteldonwhtefyisldisedinctntitwhteonoftcfyorttisadbyana)Islyedinayllorrypstowhtcfyiss;o)Isedinctagotofabafedeatastoteldonwhtefyisl.Teenpttotsphsloyayfravnofs)oftss)Anilorontta,a,s,c,h,csw,c,orpsapntoctteofigascfyorscfytsittoafenttoedoehdtdds(dttteiloronadwhteitttteofigascfyorscfytsb.Ascfymymnaclanataniloronfrdssdasaceofavftss,igdsfrltp,wrorntayfsidpttotss)NgintssnslbecdtoaytopcdsororesoffeshorfeanonpdtoteetttshayispdurtecnoeUdSsortecnofteseofI)Asudintss)"cf"m)Apmoraar)Anelprggf,sgs,elclc,orecpsadadeti)Ac,p,orrrmgf)Awries,wrttf,wrttp,orpps)Anlgscrs)Aldnlgstlorsef)Weadwstsi)Ap,rdsgy,tgt,orfttnf]
+[DELETED: )Agspgp,igaptudintep,t,orfnofnlgsornlg)Atnfyudbyafyldroons)Asgfyttusanecacfetes)AfyidadrdbyteUdStofhdsyclfyas()p)Admorhrfyttisrdbytesrflg)Anlgsdnuyf,igbtldtopei,acygeortrs,mgs,bdoraeorp,adtklgorogf,lgssef,anlgstnf,oranlgsuydnf)Aceolorrdpsseaddnf,igbtntldtopeives,pps,mgs,bdodpeorp,adtklgoro)Myf,ignlgdfdetseaswenyplaep)Seadfldtoftnfdlsnroronrsorhswetepcisp)Ayadpnofano,g,hsl,orclp,t,ororsefyttidbyaf,orplb,oriscymhsspgtgttaeoyddtei)Aclseatasddbyteflana)Mgf,igenssadrtf;a)Sdadcpsessadfsidtohwfdorfdpsbep,fgh,oep,ntigclfdfsgyonadaetotep)""m)Tobkteonoforptllastoascfyortecnofapdscf;o)Tod,d,d,ortrwhteetofcfyorapdscf]
+[DELETED: )""msap,c,jtskc,orayoranore,pcorp,ortniN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 155
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO STRATEGIC FACILITIES; AMENDING CHAPTER 70, TITLE 18, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 18-7045, IDAHO CODE, TO PROVIDE FOR
+4 THE CRIME OF IMPEDING A STRATEGIC FACILITY, TO PROVIDE FOR THE CRIME OF
+5 STRATEGIC FACILITY TRESPASS, TO PROVIDE PENALTIES, TO PROVIDE EXCEP-
+6 TIONS, AND TO DEFINE TERMS; AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 70, Title 18, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 18-7045, Idaho Code, and to read as follows:
+11 18-7045. STRATEGIC FACILITIES -- IMPEDING -- TRESPASSING.
+12 (1)(a) A person is guilty of impeding a strategic facility if the person
+13 knowingly and intentionally impedes the operations of a strategic fa-
+14 cility in a manner not otherwise authorized by law. Impeding a strate-
+15 gic facility shall be:
+16 (i) A misdemeanor punishable by imprisonment in the county jail
+17 for no more than six (6) months, a fine not to exceed ten thou-
+18 sand dollars ($10,000), or both, if the impediment causes damage
+19 or economic loss, the cost of which is less than ten thousand dol-
+20 lars ($10,000); or
+21 (ii) A felony punishable by imprisonment in the state peniten-
+22 tiary for no more than two (2) years, a fine not to exceed one
+23 hundred thousand dollars ($100,000), or both, if the impediment
+24 causes damage or economic loss, the cost of which is ten thousand
+25 dollars ($10,000) or more.
+26 (b) Fines imposed pursuant to the provisions of this subsection shall
+27 meet but not exceed the cost of the damage caused or economic loss.
+28 (2) A person is guilty of strategic facility trespass if the person
+29 knowingly and intentionally enters or remains in a strategic facility or a
+30 construction site of a strategic facility without permission of the owner
+31 of the property or after notice is given to depart or not to trespass. For
+32 purposes of this subsection, notice is given by:
+33 (a) Personal communication to the person by the owner or legal occu-
+34 pant, or his agent, or by a peace officer;
+35 (b) Posting of no trespassing or no access signs reasonably likely to
+36 come to the attention of intruders; or
+37 (c) The presence of fencing or other physical barrier designed to ex-
+38 clude intruders or unauthorized individuals.
+39 (3) The penalties for strategic facility trespass shall be as follows:
+40 (a) Any person who pleads guilty to or is found guilty of a violation
+41 of subsection (2) of this section for the first time shall be guilty of
+42 a misdemeanor punishable by imprisonment in the county jail for no more
+
+2
+1 than six (6) months, a fine not to exceed one thousand dollars ($1,000),
+2 or both; and
+3 (b) Any person who pleads guilty to or is found guilty of a violation of
+4 subsection (2) of this section for a second time within five (5) years
+5 shall be guilty of a felony punishable by imprisonment in the state pen-
+6 itentiary for no more than ten (10) years, a fine not to exceed twenty
+7 thousand dollars ($20,000), or both.
+8 (4) If a series of impediments, damages, or losses results from a sin-
+9 gle continuing course of conduct, as described pursuant to this section, a
+10 single violation of subsection (1) or (2) of this section may be charged and
+11 penalties imposed based on the aggregate cost of the damage or loss.
+12 (5) No person shall be guilty of a violation of subsection (1) or (2) of
+13 this section if such person:
+14 (a) Owns or legally occupies the land on which the facility is located
+15 and is engaged in conduct not inconsistent with the operation of the
+16 strategic facility or that is authorized by an agreement;
+17 (b) Is lawfully engaged in any legal or regulatory process to which the
+18 strategic facility is subject; or
+19 (c) Is engaged in conduct arising out of a bona fide dispute about ac-
+20 cess to the land on which the facility is located. The exception pur-
+21 suant to this paragraph shall only apply for a violation of subsection
+22 (2) of this section.
+23 (6) An individual or organization that aids, abets, solicits, compen-
+24 sates, hires, conspires with, commands, or procures a person to commit the
+25 crime of impeding a strategic facility or strategic facility trespass is
+26 subject to a fine not to exceed one hundred thousand dollars ($100,000),
+27 provided that the individual or organization acted with the intent that the
+28 crime of impeding a strategic facility or strategic facility trespass be
+29 completed. A strategic facility may maintain a civil action against an indi-
+30 vidual or organization for damages suffered as a consequence of a violation
+31 of this section, including damages for lost profits, whether or not any fine
+32 is imposed pursuant to this subsection.
+33 (7) Nothing in this section shall be construed to apply to public demon-
+34 strations or other expressions of free speech or free association on public
+35 land to the extent that such activity is protected under the constitution of
+36 the United States or the constitution of the state of Idaho.
+37 (8) As used in this section:
+38 (a) "Strategic facility" means:
+39 (i) A petroleum or alumina refinery;
+40 (ii) An electrical power generating facility, substation,
+41 switching station, electrical control center, or electric power
+42 lines and associated equipment infrastructure;
+43 (iii) A chemical, polymer, or rubber manufacturing facility;
+44 (iv) A water intake structure, water treatment facility, wastewa-
+45 ter treatment plant, or pump station;
+46 (v) A natural gas compressor station;
+47 (vi) A liquid natural gas terminal or storage facility;
+48 (vii) Wireline and wireless telecommunications infrastructure;
+49 (viii) A port, railroad switching yard, trucking terminal, or
+50 other freight transportation facility;
+
+3
+1 (ix) A gas processing plant, including a plant used in the pro-
+2 cessing, treatment, or fractionation of natural gas or natural gas
+3 liquids;
+4 (x) A transmission facility used by a federally licensed radio or
+5 television station;
+6 (xi) A steelmaking facility that uses an electric arc furnace to
+7 make steel;
+8 (xii) A facility identified and regulated by the United States
+9 department of homeland security chemical facility anti-terrorism
+10 standards (CFATS) program;
+11 (xiii) A dam or hydropower facility that is regulated by the state
+12 or federal government;
+13 (xiv) A natural gas distribution utility facility, including but
+14 not limited to pipeline interconnections, a city gate or town
+15 border station, metering station, below-ground or above-ground
+16 pipeline or piping, and truck loading or offloading facility, a
+17 natural gas storage facility, a natural gas transmission facil-
+18 ity, or a natural gas utility distribution facility;
+19 (xv) A crude oil or refined products storage and distribution fa-
+20 cility, including but not limited to pipeline interconnections,
+21 a valve site, pump station, metering station, below-ground or
+22 above-ground pipeline or piping, and truck loading or offloading
+23 facility;
+24 (xvi) Military facilities, including national guard facilities
+25 and equipment storage areas where non-military personnel are pro-
+26 hibited;
+27 (xvii) State and federal department of transportation facilities
+28 and locations near or on roads or highways where the public is pro-
+29 hibited;
+30 (xviii) Any above-ground portion of an oil, gas, hazardous liq-
+31 uid, or chemical pipeline, tank, or other storage facility that is
+32 enclosed by a fence, other physical barrier, or is clearly marked
+33 with signs prohibiting trespassing that are obviously designed to
+34 exclude intruders;
+35 (xix) A commercial service airport as defined by the federal avia-
+36 tion administration;
+37 (xx) Mining facilities, including extraction sites and refine-
+38 ment facilities; and
+39 (xxi) Seed and crop storage sites and facilities intended to hold
+40 raw food or feed products before planting, following harvest, or
+41 before processing, not including commercial food facilities gen-
+42 erally open and available to the public.
+43 (b) "Impede" means:
+44 (i) To block the operation of or prevent legal access to a strate-
+45 gic facility or the construction of a permitted strategic facil-
+46 ity; or
+47 (ii) To damage, destroy, deface, or tamper with the equipment of a
+48 strategic facility or a permitted strategic facility.
+
+4
+1 (c) "Organization" means a partnership, corporation, joint stock com-
+2 pany, or any other association or entity, public or private, other than
+3 an individual.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after its
+6 passage and approval.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.1YJ,RSADANCNAGTOSCF;AGCR7,TE1,IOCYTEANOFANWSN1,IOC,TOPEFECEOFIGASCF,TOPEFRTECEOCFYT,TOPEP,TOPEE,ADTODET;ADDGANEeItEdbyteLeofteSeofIN1.TtCr7,Te1,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn1,IoC,adtordasf.SCFS--IG--T)Apnisgyofigascfyiftepyadiyisteosofascfyinamrntoeadbyl.Igascfyslb)Amrpebyitintecyjrnometnsx()m,afenttoedtntdds(,orb,ifteitcsdrecl,tectofwhislstntntdds(;o)Afypebyitintesepyfrnometnto()y,afenttoedodtdds(,orb,ifteisdeorecl,tectofwhistnts()orm)Fsidpttotepsoftssnstbtntedtectoftedecdorecl)Apnisgyofscfytsiftepyadiyesorrsinascfyornseofascfywtpnofteoftepyorarneisgntodtornttot.Fsoftss,neisgnb)Plcntotepnbyteororllo,orhsa,orbyapeo)Pgofnotgornoasssrylytetoteanofi;o)Tepeoffgororplbrddtoeeisorudi)Tepsfrscfytsslbeasf)Aypnwopsgytoorisfdgyofavfsn()oftssnfrteftteslbegyomrpebyitintecyjlfrnom]
+[DELETED: nsx()m,afenttoedoetdds(rb;a)Aypnwopsgytoorisfdgyofavnon()oftssnfrasdtewnfe()ylbegyofafypebyitintesepyfrnometntn()y,afenttoedtdds(,orb)Ifassofi,d,orlsrsfmasecgceofc,asddpttotss,evnofsn()or()oftssnmybecdasidbdonteaectoftedeorl)Nopnslbegyofavnofsn()or()ossnifshp)Osorlyosteldonwhtefyisldisedinctntitwhteonoftcfyorttisadbyana)Islyedinayllorrypstowhtcfyiss;o)Isedinctagotofabafedeatastoteldonwhtefyisl.Teenpttotsphsloyayfravnofs)oftss)Anilorontta,a,s,c,h,csw,c,orpsapntoctteofigascfyorscfytsittoafenttoedoehdtdds(dttteiloronadwhteitttteofigascfyorscfytsb.Ascfymymnaclanataniloronfrdssdasaceofavftss,igdsfrltp,wrorntayfsidpttotss)NgintssnslbecdtoaytopcdsororesoffeshorfeanonpdtoteetttshayispdurtecnoeUdSsortecnofteseofI)Asudintss)"cf"m)Apmoraar)Anelprggf,sgs,elclc,orecpsadadeti)Ac,p,orrrmgf)Awries,wrttf,wrttp,orpps)Anlgscrs)Aldnlgstlorsef)Weadwstsi)Ap,rdsgy,tgt,orfttnf]
+[DELETED: )Agspgp,igaptudintep,t,orfnofnlgsornlg)Atnfyudbyafyldroons)Asgfyttusanecacfetes)AfyidadrdbyteUdStofhdsyclfyas()p)Admorhrfyttisrdbytesrflg)Anlgsdnuyf,igbtldtopei,acygeortrs,mgs,bdoraeorp,adtklgorogf,lgssef,anlgstnf,oranlgsuydnf)Aceolorrdpsseaddnf,igbtntldtopeives,pps,mgs,bdodpeorp,adtklgoro)Myf,ignlgdfdetseaswenyplaep)Seadfldtoftnfdlsnroronrsorhswetepcisp)Ayadpnofano,g,hsl,orclp,t,ororsefyttidbyaf,orplb,oriscymhsspgtgttaeoyddtei)Aclseatasddbyteflana)Mgf,igenssadrtf;a)Sdadcpsessadfsidtohwfdorfdpsbep,fgh,oep,ntigclfdfsgyonadaetotep)""m)Tobkteonoforptllastoascfyortecnofapdscf;o)Tod,d,d,ortrwhteetofcfyorapdscf]
+[DELETED: )""msap,c,jtskc,orayoranore,pcorp,ortniN2.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonadarieada]

@@ -1,0 +1,495 @@
+Title: Sixty-eighth Legislature First Regular Session - 2025
+Official Title: Sixty-eighth Legislature First Regular Session - 2025
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LEGISLATURE OF THE STATE OF IDAHO
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 407
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO COMMUNITY INFRASTRUCTURE DISTRICTS; AMENDING SECTION 50-3101,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING THE FORMATION OF A COMMU-
+4 NITY INFRASTRUCTURE DISTRICT AND TO MAKE TECHNICAL CORRECTIONS; AMEND-
+5 ING SECTION 50-3102, IDAHO CODE, TO REVISE DEFINITIONS AND TO MAKE TECH-
+6 NICAL CORRECTIONS; AMENDING CHAPTER 31, TITLE 50, IDAHO CODE, BY THE AD-
+7 DITION OF A NEW SECTION 50-3122, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+8 GARDING A TEMPORARY ASSESSMENT FOR FIRE PROTECTION AND EMERGENCY SER-
+9 VICES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 50-3101, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 50-3101. PURPOSE, RELATIONSHIP WITH OTHER LAWS AND SHORT TITLE. (1)
+14 The purpose of this chapter is:
+15 (a) To encourage the funding and construction of regional community in-
+16 frastructure in advance of actual developmental growth that creates the
+17 need for such additional infrastructure;
+18 (b) To provide a means for the advance payment of development impact
+19 fees established in chapter 82, title 67, Idaho Code, and the community
+20 infrastructure that may be financed thereby; and
+21 (c) To create additional financial tools and financing mechanisms that
+22 allow new growth to more expediently pay for itself.
+23 (2) Only community infrastructure to be publicly owned by this state or
+24 a political subdivision thereof may be financed pursuant to this chapter.
+25 (3) A community infrastructure district may only be formed pursuant to
+26 this chapter only by a city in the city's incorporated area, or by a county
+27 in an area contained within a city's comprehensive plan with the city's con-
+28 sent, or by a county when the district is outside of a city's comprehensive
+29 plan.
+30 (4) A community infrastructure district may be formed only after (i)
+31 prior review and approval by the governing body of each county or city in
+32 which the district is proposed to be located of a petition requesting the
+33 formation of the district, and (ii) the necessary approvals for site de-
+34 velopment under the local land use planning act, sections 67-6501 et seq.,
+35 Idaho Code, and the planning and zoning ordinances of each county and city
+36 in which the district is proposed to be located have been obtained; provided
+37 however, that where there will be phased development, approvals obtained
+38 for the first phase of site development shall be sufficient for the initial
+39 creation and organization of the district. The formation of a district
+40 pursuant to this chapter shall not prevent the exercise by a county, city
+41 or other political subdivision of any of its powers on the same basis as on
+42 all other land within its jurisdiction. Notwithstanding the formation of a
+2
+1 district, the development of real property located within the district shall
+2 remain subject to the provisions of chapter 65, title 67, Idaho Code, and
+3 the applicable planning and zoning ordinances of the counties and cities in
+4 which the district is located. The formation of a district pursuant to this
+5 chapter shall not prevent the subsequent establishment of other districts or
+6 the improvement or assessment of land within the district by a county, city
+7 or other political subdivision.
+8 (5) This chapter shall be known and may be cited as the "Community In-
+9 frastructure District Act."
+10 SECTION 2. That Section 50-3102, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 50-3102. DEFINITIONS. As used in this chapter, the following terms
+13 shall have the meanings as stated:
+14 (1) "Assessment area" means real property within the boundaries of a
+15 community infrastructure district that is the subject of a specific special
+16 assessment as set forth in this chapter.
+17 (2) "Community infrastructure" means improvements that have a substan-
+18 tial nexus to the district and directly or indirectly benefit the district.
+19 Community infrastructure excludes public improvements fronting individual
+20 single-family residential lots. Community infrastructure includes plan-
+21 ning, design, engineering, construction, acquisition or installation of
+22 such infrastructure, including the costs of applications, impact fees and
+23 other fees, permits and approvals related to the construction, acquisition
+24 or installation of such infrastructure, and incurring expenses incident to
+25 and reasonably necessary to carry out the purposes of this chapter. Com-
+26 munity infrastructure includes all public facilities as defined in section
+27 67-8203(24), Idaho Code, and, to the extent not already included within the
+28 definition in section 67-8203(24), Idaho Code, the following:
+29 (a) Highways, parkways, expressways, interstates, or other such des-
+30 ignations, interchanges, bridges, crossing structures, and related ap-
+31 purtenances;
+32 (b) Public parking facilities, including all areas for vehicular use
+33 for travel, ingress, egress and parking;
+34 (c) Trails and areas for pedestrian, equestrian, bicycle or other non-
+35 motor vehicle use for travel, ingress, egress and parking;
+36 (d) Public safety facilities;
+37 (e) Acquiring interests in real property for community infrastructure;
+38 (f) Financing costs related to the construction of items listed in this
+39 subsection; and
+40 (g) Impact fees; and
+41 (h) The financing of fire protection services and emergency medical
+42 services pursuant to section 50-3122, Idaho Code.
+43 (3) "Community infrastructure segment" means a separate or a dis-
+44 cernible portion of a construction contract attributable to community
+45 infrastructure.
+46 (4) "Debt service" means the principal of, interest on and premium, if
+47 any, on the bonds when due, whether at maturity or prior redemption, and fees
+48 and costs of registrars, trustees, paying agents or other agents necessary
+49 to handle the bonds and the costs of credit enhancement or liquidity support.
+3
+1 (5) "District" means a community infrastructure district formed pur-
+2 suant to this chapter. A district formed after July 1, 2022, shall not ex-
+3 clude from the district any land that is completely surrounded by property in
+4 the district. A district shall only include only contiguous property at the
+5 time of formation. Land that is connected by only a shoestring or strip of
+6 land that comprises a railroad or highway right-of-way shall not be consid-
+7 ered contiguous for the purposes of this chapter. Subsequent to a district's
+8 formation, a district may include noncontiguous property but only if specif-
+9 ically determined by the district board to have a substantial nexus to the
+10 initial district or to the community infrastructure contemplated by the ini-
+11 tial district and then authorized by the district board in its discretion and
+12 pursuant to section 50-3106, Idaho Code.
+13 (6) "District board" means the board of directors of the district.
+14 (7) "District development agreement" means an agreement between a
+15 property owner or developer, the county or city, any other political subdi-
+16 vision of the state, and/or the district. A district development agreement
+17 shall be used to establish obligations of the parties to the agreement re-
+18 lating to district financing and development, including: intergovernmental
+19 agreements; the ultimate public ownership of the community infrastructure
+20 financed by the district; the understanding of the parties with regard to
+21 future annexations of property into the district; the total amount of bonds
+22 to be issued by the district and the property taxes and special assessments
+23 to be levied and imposed to repay the bonds and the provisions regarding
+24 the disbursement of bond proceeds; the financial assurances, if any, to be
+25 provided with respect to the bonds; impact and other fees imposed by gov-
+26 ernmental authorities, including credit, prepayment and/or reimbursement
+27 with respect thereto; temporary assessments and the disbursement of revenue
+28 from such assessments pursuant to section 50-3122, Idaho Code; and other
+29 matters relating to the community infrastructure, such as construction, ac-
+30 quisition, planning, design, inspection, ownership and control. A district
+31 development agreement shall be in addition to and shall not supplant any de-
+32 velopment agreement entered into pursuant to section 67-6511A, Idaho Code,
+33 pursuant to which a governing body may require or permit, as a condition of
+34 rezoning, that an owner or developer make a written commitment concerning
+35 the use or development of the subject parcel.
+36 (8) "General plan" means the general plan described in section
+37 50-3103(1), Idaho Code, as the plan may be amended from time to time.
+38 (9) "Governing body" means the county commissioners or city council
+39 that by law is constituted as the governing body of the county or city in
+40 which the district is located. Reference in this chapter to "governing body
+41 or bodies" shall mean the governing body or bodies of each county and city in
+42 which the district is located.
+43 (10) "Owner" means the person listed as the owner of real property
+44 within the district or a proposed district on the current property rolls
+45 in effect at the time that the action, proceeding, hearing or election has
+46 begun; provided however, that if a person listed on the property rolls is no
+47 longer the owner of real property within the district or a proposed district
+48 and the name of the successor owner becomes known and is verified by recorded
+49 deed or other similar evidence of transfer of ownership, the successor owner
+50 shall be deemed to be the owner for the purposes of this chapter.
+4
+1 (11) "Market value for assessment purposes" means the amount of the
+2 last preceding equalized assessment of all taxable property and excludes
+3 all property exempt from taxation pursuant to section 63-602G, Idaho Code,
+4 within the community infrastructure district on the tax rolls completed and
+5 available as of the date of approval in the district bond issuance.
+6 (12) "Person" means any entity, individual, corporation, partnership,
+7 firm, association, limited liability company, limited liability partner-
+8 ship, trust or other such entities as recognized by the state of Idaho. A
+9 "person in interest" is any person who is a qualified elector in the dis-
+10 trict, who is an owner of real property in the district or who is a real prop-
+11 erty taxpayer in the district.
+12 (13) "Qualified elector" means a person who possesses all of the quali-
+13 fications required of electors under the general laws of the state of Idaho
+14 and:
+15 (a) Resides within the boundaries of a district or a proposed district
+16 and who is a qualified elector. For purposes of this chapter, such elec-
+17 tor shall also be known as a "resident qualified elector"; or
+18 (b) Is an owner of real property that is located within the district or a
+19 proposed district, who is not a resident qualified elector as set forth
+20 above. For purposes of this chapter, such elector shall also be known as
+21 an "owner qualified elector."
+22 (14) "Special assessment" means an assessment imposed upon real prop-
+23 erty located within an assessment area for a specific purpose and of a
+24 special benefit to the affected property, collected and enforced in the same
+25 manner as property taxes, that may be apportioned according to the direct or
+26 indirect special benefits conferred upon the affected property, as well as
+27 any, or any combination, of the following: acreage, square footage, front
+28 footage, the cost of providing community infrastructure for the affected
+29 property, or any other reasonable method as determined by the district
+30 board.
+31 SECTION 3. That Chapter 31, Title 50, Idaho Code, be, and the same is
+32 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+33 ignated as Section 50-3122, Idaho Code, and to read as follows:
+34 50-3122. FIRE PROTECTION SERVICES AND EMERGENCY SERVICES TEMPORARY
+35 ASSESSMENT. (1) A community infrastructure district may levy a temporary
+36 assessment under this section if the authority to do so and terms of the tem-
+37 porary assessment are provided in the district development agreement.
+38 (2) A temporary assessment under this section shall be imposed on each
+39 residential property for a term not to exceed five (5) years, commencing upon
+40 the transfer of title to the first residential homeowner. Notwithstanding
+41 any provision of law to the contrary, the district shall be exempt from pro-
+42 viding public notice when a temporary assessment is imposed on a property
+43 for the first time; provided that the existence, terms, and any applicable
+44 amounts of the assessment shall be disclosed in the property disclosure no-
+45 tice and shall be signed and acknowledged by any purchaser prior to purchase.
+46 The obligation to pay the temporary assessment shall run with the property,
+47 and any subsequent owner who acquires title within the original five (5) year
+48 assessment period shall be responsible for payment of the assessment for the
+49 remainder of that five (5) year term. No assessment under this section may
+5
+1 be extended or renewed beyond its initial five (5) year term and each such as-
+2 sessment shall expire at the end of the five (5) year term without further no-
+3 tice or action. Upon the expiration of the assessment for a property as pro-
+4 vided in this section, the district shall have no further authority to levy
+5 an assessment under this section on that same property.
+6 (3) The initial amount of the assessment and any provision for annual
+7 increases shall be as set forth in the district development agreement, pro-
+8 vided that the amount of the temporary assessment shall not increase by more
+9 than two percent (2%) in any year.
+10 (4) The temporary assessment shall be collected and accounted for at
+11 the time and in the form and manner as property taxes are collected and ac-
+12 counted for under the laws of this state. All revenues from the temporary as-
+13 sessment shall be kept separate from other district funds in a dedicated fund
+14 and may accumulate from year to year to ensure the availability of moneys to
+15 pay for or offset the costs of fire protection services and emergency medical
+16 services as authorized in this section.
+17 (5) The district board shall budget and disburse such proceeds solely
+18 to pay for or offset the costs of fire protection services and emergency med-
+19 ical services for the district. Permissible expenditures shall include but
+20 not be limited to salaries and benefits of fire protection services person-
+21 nel and emergency medical services personnel; procurement, maintenance, re-
+22 pair, or replacement of fire protection services or emergency medical ser-
+23 vices equipment; fire protection services training; emergency medical ser-
+24 vices training; and other operational expenses necessary for fire protec-
+25 tion and emergency response.
+26 (6) The district may enter into agreements with cities, fire protection
+27 districts, ambulance services districts, or other service providers to fur-
+28 nish fire protection services or emergency medical services to the district
+29 and may distribute temporary assessment revenues to such service providers
+30 pursuant to such agreements or as provided in the district development
+31 agreement.
+32 SECTION 4. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2025.
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YREADTNCNAGTOCYIED;AGSN5OC,TOREAPNRGTEFNOFACYIEDTADTOMETLC;AGSN5,IOC,TOREDSADTOMETLC;AGCR3,TE5,IOC,BYTEANOFANWSN5,IOC,TOEHPSRGATYATFRFEPNADEYS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.P,RPWHORLSADSTT.(epeoftscri)Toeetefgadcnofrlcyieinaeofaldlghttcstdfrshali)Topeamsfrteaeptofdtisedincr8,te6,IoC,adtecettmybefdt;a)Tocealfltsadfgmstwnwghtomeeypyfri)Oycyietobepyodbytsseoplsntfmybefdpttotsc)Acyiedtmyoybefdpttscroybyacyintecsida,orbyacnanaacdwnacscepnwhtecsc,orbyacywntedtisoeofacsc)Acyiedtmybefdoyar(rrwadalbyteggbyofehcyorcyihtedtispdtobeldofapnrgtnofted,ad()tenyasfrsedturtelllduepga,ss61etsoC,adtepgadzgosofehcyadcnwhtedtispdtobeldhebno;p,ttwetewlbepdd,asorteftpeofsedtslbestfrteinadonofted.Tefnofadttotscrslntptteeebyac,crorplsnofayofispsontesebsasolorldwnisj.Ngtefnof]
+[DELETED: ,tedtofrlpyldwntedtsnsttotepsofcr6,te6,IoC,aeaepgadzgosoftecsadcsihtedtisl.Tefnofadtpttotrslntpttestetofordsoeitoratofldwntedtbyac,crorpls)Tscrslbeknadmybecdaste"yIeDtAN2.TtSn5,IoC,b,adteseishdtordasf.D.Asudintsc,tefgtlhetemsass)"ta"msrlpywntebsofyiedtttistestofascstasstfhintsc)"yi"msisttheaslnstotedtaddyoriybttedyieespcisfgiyrll.Cyieisp,d,e,c,anorinohi,igtecsofa,itfsarf,psadasrdtotec,arinofshi,adigesittdrynytocyottepsoftsc.Cyieisalpcfsasddins,IoC,a,toteetntayidwntninsn6,IoC,tef)H,p,e,i,ororshd,i,b,cgs,adrda)Pcpgf,igalasfrvrurt,i,esadp)Tsadasfrp,e,beorornrveuefrt,i,esadp)Pcsyf)Agisinrlpyfrcyi)Fgcsrdtotecnofisldint;a)Itf;a)Tefgoffepnssadeymspttosn5,IoC)"yies"msaseoradepnofacnctaetoc)"ts"msteplo,itonadp,i,ontebswnd,wratmyorprr,adfdcsofr,t,pgasororasnohetebsadtecsofctetorlys]
+[DELETED: )""msacyiedtfdpttotsc.AdtfdarJy1,2,slnteefmtedtayldttiscysdbypyied.Adtsloyieoycspyatteoff.Ldttiscdbyoyasgorspodttcsardorhyryslntbecdcsfrtepsoftsc.Sttoad,adtmyienspybtoyifsyddbytedtbdtoheaslnstotldtortotecyiecdbyteildtadtnadbytedtbdinisdnattosn5,IoC)"tb"mstebdofdsofted)"tdta"msanatbnyorord,tecyorc,ayorplsnoftes,arted.Adtdtalbeudtoehosoftepstoteatrgtodtfgadd,i:i;teuepcopoftecyidbyted;teugoftepswhrdteasofpyioted;tetlatofbobeidbytedtadtepytsadslaobeldadidtorytebsadtepsredtofbdp;tefla,ifa,tobdwhrttoteb;itadorfsidbygla,igc,ptarrhrtt;tyasadtedtofrmshaspttosn5,IoC;adosrgtotecyi,shasc,a,p,d,i,opadc.Adtatslbeinantoadslntstaydtatediopttosn6,IoCttowhaggbymyreorp,asacno,ttanorordrmeawnctceueordtoftestp)"lp"msteglpnddins,IoC,astepnmybeadfmtetot)"gb"mstecycsorcyctbylwiscdasteggbyoftecyorcyihtedtisl.Reintscrto"gbrb"slmnteggbyorbsofehcyadcyihtedtisl)""mstepnldasteorofrlpntedtorapddtontectpyrnetattetetttea,p,hgorenh;pdh,ttifapnldontepyrsisnrteorofrlpywntedtorapdddteneoftesrorbsknadisvdbyrdororsreeoftrofo,tesrolbeddtobeteorfrtepsoftsc]
+[DELETED: )"tvefratp"msteatofttpgedatofaltepyadelpyetfmtnpttosn6,IoCntecyiedtontetxrscdaeasoftedeofalintedtbdi)""msaye,i,c,p,a,ldlyc,ldlyp,ttororshesasrdbyteseofI.nini"isaypnwoisaqderinted,woisanorofrlpyintedtorwoisarlpytrinted)"de"msapnwopsalofteqsrdofesurtegllsofteseofI)Rswntebsofadtorapdddwoisaqde.Frpsoftsc,sherslaobeknasa"tqde;o)Isanorofrlpyttisldwntedtordd,woisntartqderasstf.Frpsoftsc,sherslaobeknan"rqde)"la"msanatidunrlpyldwnanataafrascpeadoflbttoteadp,cdadedintesraspyt,ttmybeadagtotedtotslbscdunteadp,aswla,orayc,oftef:a,sef,f,tectofpgcyiefrtea,orayorremdasddbytedN3.TtCr3,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.FEPNSSADEYSST.()Acyiedtmylyatturtssnifteaytodosoadtsoftetyataepdintedtdta)Atyaturtssnslbeidonelpyfratmnttoedfe()y,cguetroftetoteftrlh.Nypnoflwtotec,tedtslbeetfmpgpcnewnatyatisidonaprteftt;pdtttee,t,adayasofteatslbeddintepydeneadslbesdadadbyayprprtopeontopytetyatslrnwhtepdaystorwoastewnteolfe()ytpdslberefrptofteatfrtrofttfe()yrt.Noaturtssnm]
+[DELETED: eedorrdbdisilfe()yrtmadehshatsleeatteedoftefe()yrtmwtfrneora.Unteenofteatfrapyaspdintss,tedtslhenofraytolnaturtssnonttsep)Teilatofteatadaypnfrasslbeasstfhintedtdta,pdttteatoftetyatslntiebymntopt()inayy)Tetyatslbecdadadfraeteadintefmadmraspytsaecdadadfrurtelsoftss.Alrsfmtetyatslbektsefmordtfsinaddfdmyaefmyrtoyrtoeeteayofmstyfrorottecsoffepnssadeymsasadintss)Tedtbdslbtaddeshpssopyfrorottecsoffepnssadeymlssfrted.Peessliebtbeldtossadbsoffepnsspladeymlssp;p,m,r,orrtoffepnssoreymlsse;fepnsst;eymlsst;adorolesnyfrfepnadeyr)Tedtmyerioaswhc,fep,aessd,ororsepstofhfepnssoreymlsstoteddmydetyatrstoshsepttoshasoraspdintedtdN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
+
+
+================================================================================
+
+Raw Text:
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature First Regular Session - 2025
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 407
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO COMMUNITY INFRASTRUCTURE DISTRICTS; AMENDING SECTION 50-3101,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING THE FORMATION OF A COMMU-
+4 NITY INFRASTRUCTURE DISTRICT AND TO MAKE TECHNICAL CORRECTIONS; AMEND-
+5 ING SECTION 50-3102, IDAHO CODE, TO REVISE DEFINITIONS AND TO MAKE TECH-
+6 NICAL CORRECTIONS; AMENDING CHAPTER 31, TITLE 50, IDAHO CODE, BY THE AD-
+7 DITION OF A NEW SECTION 50-3122, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+8 GARDING A TEMPORARY ASSESSMENT FOR FIRE PROTECTION AND EMERGENCY SER-
+9 VICES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 50-3101, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 50-3101. PURPOSE, RELATIONSHIP WITH OTHER LAWS AND SHORT TITLE. (1)
+14 The purpose of this chapter is:
+15 (a) To encourage the funding and construction of regional community in-
+16 frastructure in advance of actual developmental growth that creates the
+17 need for such additional infrastructure;
+18 (b) To provide a means for the advance payment of development impact
+19 fees established in chapter 82, title 67, Idaho Code, and the community
+20 infrastructure that may be financed thereby; and
+21 (c) To create additional financial tools and financing mechanisms that
+22 allow new growth to more expediently pay for itself.
+23 (2) Only community infrastructure to be publicly owned by this state or
+24 a political subdivision thereof may be financed pursuant to this chapter.
+25 (3) A community infrastructure district may only be formed pursuant to
+26 this chapter only by a city in the city's incorporated area, or by a county
+27 in an area contained within a city's comprehensive plan with the city's con-
+28 sent, or by a county when the district is outside of a city's comprehensive
+29 plan.
+30 (4) A community infrastructure district may be formed only after (i)
+31 prior review and approval by the governing body of each county or city in
+32 which the district is proposed to be located of a petition requesting the
+33 formation of the district, and (ii) the necessary approvals for site de-
+34 velopment under the local land use planning act, sections 67-6501 et seq.,
+35 Idaho Code, and the planning and zoning ordinances of each county and city
+36 in which the district is proposed to be located have been obtained; provided
+37 however, that where there will be phased development, approvals obtained
+38 for the first phase of site development shall be sufficient for the initial
+39 creation and organization of the district. The formation of a district
+40 pursuant to this chapter shall not prevent the exercise by a county, city
+41 or other political subdivision of any of its powers on the same basis as on
+42 all other land within its jurisdiction. Notwithstanding the formation of a
+
+2
+1 district, the development of real property located within the district shall
+2 remain subject to the provisions of chapter 65, title 67, Idaho Code, and
+3 the applicable planning and zoning ordinances of the counties and cities in
+4 which the district is located. The formation of a district pursuant to this
+5 chapter shall not prevent the subsequent establishment of other districts or
+6 the improvement or assessment of land within the district by a county, city
+7 or other political subdivision.
+8 (5) This chapter shall be known and may be cited as the "Community In-
+9 frastructure District Act."
+10 SECTION 2. That Section 50-3102, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 50-3102. DEFINITIONS. As used in this chapter, the following terms
+13 shall have the meanings as stated:
+14 (1) "Assessment area" means real property within the boundaries of a
+15 community infrastructure district that is the subject of a specific special
+16 assessment as set forth in this chapter.
+17 (2) "Community infrastructure" means improvements that have a substan-
+18 tial nexus to the district and directly or indirectly benefit the district.
+19 Community infrastructure excludes public improvements fronting individual
+20 single-family residential lots. Community infrastructure includes plan-
+21 ning, design, engineering, construction, acquisition or installation of
+22 such infrastructure, including the costs of applications, impact fees and
+23 other fees, permits and approvals related to the construction, acquisition
+24 or installation of such infrastructure, and incurring expenses incident to
+25 and reasonably necessary to carry out the purposes of this chapter. Com-
+26 munity infrastructure includes all public facilities as defined in section
+27 67-8203(24), Idaho Code, and, to the extent not already included within the
+28 definition in section 67-8203(24), Idaho Code, the following:
+29 (a) Highways, parkways, expressways, interstates, or other such des-
+30 ignations, interchanges, bridges, crossing structures, and related ap-
+31 purtenances;
+32 (b) Public parking facilities, including all areas for vehicular use
+33 for travel, ingress, egress and parking;
+34 (c) Trails and areas for pedestrian, equestrian, bicycle or other non-
+35 motor vehicle use for travel, ingress, egress and parking;
+36 (d) Public safety facilities;
+37 (e) Acquiring interests in real property for community infrastructure;
+38 (f) Financing costs related to the construction of items listed in this
+39 subsection; and
+40 (g) Impact fees; and
+41 (h) The financing of fire protection services and emergency medical
+42 services pursuant to section 50-3122, Idaho Code.
+43 (3) "Community infrastructure segment" means a separate or a dis-
+44 cernible portion of a construction contract attributable to community
+45 infrastructure.
+46 (4) "Debt service" means the principal of, interest on and premium, if
+47 any, on the bonds when due, whether at maturity or prior redemption, and fees
+48 and costs of registrars, trustees, paying agents or other agents necessary
+49 to handle the bonds and the costs of credit enhancement or liquidity support.
+
+3
+1 (5) "District" means a community infrastructure district formed pur-
+2 suant to this chapter. A district formed after July 1, 2022, shall not ex-
+3 clude from the district any land that is completely surrounded by property in
+4 the district. A district shall only include only contiguous property at the
+5 time of formation. Land that is connected by only a shoestring or strip of
+6 land that comprises a railroad or highway right-of-way shall not be consid-
+7 ered contiguous for the purposes of this chapter. Subsequent to a district's
+8 formation, a district may include noncontiguous property but only if specif-
+9 ically determined by the district board to have a substantial nexus to the
+10 initial district or to the community infrastructure contemplated by the ini-
+11 tial district and then authorized by the district board in its discretion and
+12 pursuant to section 50-3106, Idaho Code.
+13 (6) "District board" means the board of directors of the district.
+14 (7) "District development agreement" means an agreement between a
+15 property owner or developer, the county or city, any other political subdi-
+16 vision of the state, and/or the district. A district development agreement
+17 shall be used to establish obligations of the parties to the agreement re-
+18 lating to district financing and development, including: intergovernmental
+19 agreements; the ultimate public ownership of the community infrastructure
+20 financed by the district; the understanding of the parties with regard to
+21 future annexations of property into the district; the total amount of bonds
+22 to be issued by the district and the property taxes and special assessments
+23 to be levied and imposed to repay the bonds and the provisions regarding
+24 the disbursement of bond proceeds; the financial assurances, if any, to be
+25 provided with respect to the bonds; impact and other fees imposed by gov-
+26 ernmental authorities, including credit, prepayment and/or reimbursement
+27 with respect thereto; temporary assessments and the disbursement of revenue
+28 from such assessments pursuant to section 50-3122, Idaho Code; and other
+29 matters relating to the community infrastructure, such as construction, ac-
+30 quisition, planning, design, inspection, ownership and control. A district
+31 development agreement shall be in addition to and shall not supplant any de-
+32 velopment agreement entered into pursuant to section 67-6511A, Idaho Code,
+33 pursuant to which a governing body may require or permit, as a condition of
+34 rezoning, that an owner or developer make a written commitment concerning
+35 the use or development of the subject parcel.
+36 (8) "General plan" means the general plan described in section
+37 50-3103(1), Idaho Code, as the plan may be amended from time to time.
+38 (9) "Governing body" means the county commissioners or city council
+39 that by law is constituted as the governing body of the county or city in
+40 which the district is located. Reference in this chapter to "governing body
+41 or bodies" shall mean the governing body or bodies of each county and city in
+42 which the district is located.
+43 (10) "Owner" means the person listed as the owner of real property
+44 within the district or a proposed district on the current property rolls
+45 in effect at the time that the action, proceeding, hearing or election has
+46 begun; provided however, that if a person listed on the property rolls is no
+47 longer the owner of real property within the district or a proposed district
+48 and the name of the successor owner becomes known and is verified by recorded
+49 deed or other similar evidence of transfer of ownership, the successor owner
+50 shall be deemed to be the owner for the purposes of this chapter.
+
+4
+1 (11) "Market value for assessment purposes" means the amount of the
+2 last preceding equalized assessment of all taxable property and excludes
+3 all property exempt from taxation pursuant to section 63-602G, Idaho Code,
+4 within the community infrastructure district on the tax rolls completed and
+5 available as of the date of approval in the district bond issuance.
+6 (12) "Person" means any entity, individual, corporation, partnership,
+7 firm, association, limited liability company, limited liability partner-
+8 ship, trust or other such entities as recognized by the state of Idaho. A
+9 "person in interest" is any person who is a qualified elector in the dis-
+10 trict, who is an owner of real property in the district or who is a real prop-
+11 erty taxpayer in the district.
+12 (13) "Qualified elector" means a person who possesses all of the quali-
+13 fications required of electors under the general laws of the state of Idaho
+14 and:
+15 (a) Resides within the boundaries of a district or a proposed district
+16 and who is a qualified elector. For purposes of this chapter, such elec-
+17 tor shall also be known as a "resident qualified elector"; or
+18 (b) Is an owner of real property that is located within the district or a
+19 proposed district, who is not a resident qualified elector as set forth
+20 above. For purposes of this chapter, such elector shall also be known as
+21 an "owner qualified elector."
+22 (14) "Special assessment" means an assessment imposed upon real prop-
+23 erty located within an assessment area for a specific purpose and of a
+24 special benefit to the affected property, collected and enforced in the same
+25 manner as property taxes, that may be apportioned according to the direct or
+26 indirect special benefits conferred upon the affected property, as well as
+27 any, or any combination, of the following: acreage, square footage, front
+28 footage, the cost of providing community infrastructure for the affected
+29 property, or any other reasonable method as determined by the district
+30 board.
+31 SECTION 3. That Chapter 31, Title 50, Idaho Code, be, and the same is
+32 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+33 ignated as Section 50-3122, Idaho Code, and to read as follows:
+34 50-3122. FIRE PROTECTION SERVICES AND EMERGENCY SERVICES TEMPORARY
+35 ASSESSMENT. (1) A community infrastructure district may levy a temporary
+36 assessment under this section if the authority to do so and terms of the tem-
+37 porary assessment are provided in the district development agreement.
+38 (2) A temporary assessment under this section shall be imposed on each
+39 residential property for a term not to exceed five (5) years, commencing upon
+40 the transfer of title to the first residential homeowner. Notwithstanding
+41 any provision of law to the contrary, the district shall be exempt from pro-
+42 viding public notice when a temporary assessment is imposed on a property
+43 for the first time; provided that the existence, terms, and any applicable
+44 amounts of the assessment shall be disclosed in the property disclosure no-
+45 tice and shall be signed and acknowledged by any purchaser prior to purchase.
+46 The obligation to pay the temporary assessment shall run with the property,
+47 and any subsequent owner who acquires title within the original five (5) year
+48 assessment period shall be responsible for payment of the assessment for the
+49 remainder of that five (5) year term. No assessment under this section may
+
+5
+1 be extended or renewed beyond its initial five (5) year term and each such as-
+2 sessment shall expire at the end of the five (5) year term without further no-
+3 tice or action. Upon the expiration of the assessment for a property as pro-
+4 vided in this section, the district shall have no further authority to levy
+5 an assessment under this section on that same property.
+6 (3) The initial amount of the assessment and any provision for annual
+7 increases shall be as set forth in the district development agreement, pro-
+8 vided that the amount of the temporary assessment shall not increase by more
+9 than two percent (2%) in any year.
+10 (4) The temporary assessment shall be collected and accounted for at
+11 the time and in the form and manner as property taxes are collected and ac-
+12 counted for under the laws of this state. All revenues from the temporary as-
+13 sessment shall be kept separate from other district funds in a dedicated fund
+14 and may accumulate from year to year to ensure the availability of moneys to
+15 pay for or offset the costs of fire protection services and emergency medical
+16 services as authorized in this section.
+17 (5) The district board shall budget and disburse such proceeds solely
+18 to pay for or offset the costs of fire protection services and emergency med-
+19 ical services for the district. Permissible expenditures shall include but
+20 not be limited to salaries and benefits of fire protection services person-
+21 nel and emergency medical services personnel; procurement, maintenance, re-
+22 pair, or replacement of fire protection services or emergency medical ser-
+23 vices equipment; fire protection services training; emergency medical ser-
+24 vices training; and other operational expenses necessary for fire protec-
+25 tion and emergency response.
+26 (6) The district may enter into agreements with cities, fire protection
+27 districts, ambulance services districts, or other service providers to fur-
+28 nish fire protection services or emergency medical services to the district
+29 and may distribute temporary assessment revenues to such service providers
+30 pursuant to such agreements or as provided in the district development
+31 agreement.
+32 SECTION 4. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2025.
+
+[DELETED: EOFTESEOFIhLeFtRrSn-2NTEHEOFREBLN.4YREADTNCNAGTOCYIED;AGSN5OC,TOREAPNRGTEFNOFACYIEDTADTOMETLC;AGSN5,IOC,TOREDSADTOMETLC;AGCR3,TE5,IOC,BYTEANOFANWSN5,IOC,TOEHPSRGATYATFRFEPNADEYS;ADDGANEYADPGANEEDeItEdbyteLeofteSeofIN1.TtSn5,IoC,b,adteseishdtordasf.P,RPWHORLSADSTT.(epeoftscri)Toeetefgadcnofrlcyieinaeofaldlghttcstdfrshali)Topeamsfrteaeptofdtisedincr8,te6,IoC,adtecettmybefdt;a)Tocealfltsadfgmstwnwghtomeeypyfri)Oycyietobepyodbytsseoplsntfmybefdpttotsc)Acyiedtmyoybefdpttscroybyacyintecsida,orbyacnanaacdwnacscepnwhtecsc,orbyacywntedtisoeofacsc)Acyiedtmybefdoyar(rrwadalbyteggbyofehcyorcyihtedtispdtobeldofapnrgtnofted,ad()tenyasfrsedturtelllduepga,ss61etsoC,adtepgadzgosofehcyadcnwhtedtispdtobeldhebno;p,ttwetewlbepdd,asorteftpeofsedtslbestfrteinadonofted.Tefnofadttotscrslntptteeebyac,crorplsnofayofispsontesebsasolorldwnisj.Ngtefnof]
+[DELETED: ,tedtofrlpyldwntedtsnsttotepsofcr6,te6,IoC,aeaepgadzgosoftecsadcsihtedtisl.Tefnofadtpttotrslntpttestetofordsoeitoratofldwntedtbyac,crorpls)Tscrslbeknadmybecdaste"yIeDtAN2.TtSn5,IoC,b,adteseishdtordasf.D.Asudintsc,tefgtlhetemsass)"ta"msrlpywntebsofyiedtttistestofascstasstfhintsc)"yi"msisttheaslnstotedtaddyoriybttedyieespcisfgiyrll.Cyieisp,d,e,c,anorinohi,igtecsofa,itfsarf,psadasrdtotec,arinofshi,adigesittdrynytocyottepsoftsc.Cyieisalpcfsasddins,IoC,a,toteetntayidwntninsn6,IoC,tef)H,p,e,i,ororshd,i,b,cgs,adrda)Pcpgf,igalasfrvrurt,i,esadp)Tsadasfrp,e,beorornrveuefrt,i,esadp)Pcsyf)Agisinrlpyfrcyi)Fgcsrdtotecnofisldint;a)Itf;a)Tefgoffepnssadeymspttosn5,IoC)"yies"msaseoradepnofacnctaetoc)"ts"msteplo,itonadp,i,ontebswnd,wratmyorprr,adfdcsofr,t,pgasororasnohetebsadtecsofctetorlys]
+[DELETED: )""msacyiedtfdpttotsc.AdtfdarJy1,2,slnteefmtedtayldttiscysdbypyied.Adtsloyieoycspyatteoff.Ldttiscdbyoyasgorspodttcsardorhyryslntbecdcsfrtepsoftsc.Sttoad,adtmyienspybtoyifsyddbytedtbdtoheaslnstotldtortotecyiecdbyteildtadtnadbytedtbdinisdnattosn5,IoC)"tb"mstebdofdsofted)"tdta"msanatbnyorord,tecyorc,ayorplsnoftes,arted.Adtdtalbeudtoehosoftepstoteatrgtodtfgadd,i:i;teuepcopoftecyidbyted;teugoftepswhrdteasofpyioted;tetlatofbobeidbytedtadtepytsadslaobeldadidtorytebsadtepsredtofbdp;tefla,ifa,tobdwhrttoteb;itadorfsidbygla,igc,ptarrhrtt;tyasadtedtofrmshaspttosn5,IoC;adosrgtotecyi,shasc,a,p,d,i,opadc.Adtatslbeinantoadslntstaydtatediopttosn6,IoCttowhaggbymyreorp,asacno,ttanorordrmeawnctceueordtoftestp)"lp"msteglpnddins,IoC,astepnmybeadfmtetot)"gb"mstecycsorcyctbylwiscdasteggbyoftecyorcyihtedtisl.Reintscrto"gbrb"slmnteggbyorbsofehcyadcyihtedtisl)""mstepnldasteorofrlpntedtorapddtontectpyrnetattetetttea,p,hgorenh;pdh,ttifapnldontepyrsisnrteorofrlpywntedtorapdddteneoftesrorbsknadisvdbyrdororsreeoftrofo,tesrolbeddtobeteorfrtepsoftsc]
+[DELETED: )"tvefratp"msteatofttpgedatofaltepyadelpyetfmtnpttosn6,IoCntecyiedtontetxrscdaeasoftedeofalintedtbdi)""msaye,i,c,p,a,ldlyc,ldlyp,ttororshesasrdbyteseofI.nini"isaypnwoisaqderinted,woisanorofrlpyintedtorwoisarlpytrinted)"de"msapnwopsalofteqsrdofesurtegllsofteseofI)Rswntebsofadtorapdddwoisaqde.Frpsoftsc,sherslaobeknasa"tqde;o)Isanorofrlpyttisldwntedtordd,woisntartqderasstf.Frpsoftsc,sherslaobeknan"rqde)"la"msanatidunrlpyldwnanataafrascpeadoflbttoteadp,cdadedintesraspyt,ttmybeadagtotedtotslbscdunteadp,aswla,orayc,oftef:a,sef,f,tectofpgcyiefrtea,orayorremdasddbytedN3.TtCr3,Te5,IoC,b,adteseiyadbyteantoofaNWS,tobeknadddasSn5,IoC,adtordasf.FEPNSSADEYSST.()Acyiedtmylyatturtssnifteaytodosoadtsoftetyataepdintedtdta)Atyaturtssnslbeidonelpyfratmnttoedfe()y,cguetroftetoteftrlh.Nypnoflwtotec,tedtslbeetfmpgpcnewnatyatisidonaprteftt;pdtttee,t,adayasofteatslbeddintepydeneadslbesdadadbyayprprtopeontopytetyatslrnwhtepdaystorwoastewnteolfe()ytpdslberefrptofteatfrtrofttfe()yrt.Noaturtssnm]
+[DELETED: eedorrdbdisilfe()yrtmadehshatsleeatteedoftefe()yrtmwtfrneora.Unteenofteatfrapyaspdintss,tedtslhenofraytolnaturtssnonttsep)Teilatofteatadaypnfrasslbeasstfhintedtdta,pdttteatoftetyatslntiebymntopt()inayy)Tetyatslbecdadadfraeteadintefmadmraspytsaecdadadfrurtelsoftss.Alrsfmtetyatslbektsefmordtfsinaddfdmyaefmyrtoyrtoeeteayofmstyfrorottecsoffepnssadeymsasadintss)Tedtbdslbtaddeshpssopyfrorottecsoffepnssadeymlssfrted.Peessliebtbeldtossadbsoffepnsspladeymlssp;p,m,r,orrtoffepnssoreymlsse;fepnsst;eymlsst;adorolesnyfrfepnadeyr)Tedtmyerioaswhc,fep,aessd,ororsepstofhfepnssoreymlsstoteddmydetyatrstoshsepttoshasoraspdintedtdN4.Aneyegt,wheyishdtoe,tsatslbeinflfeadetonaday1,2]
